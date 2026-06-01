@@ -1,0 +1,95 @@
+{
+  "id": "einstein-01",
+  "thinkerId": "einstein",
+  "order": 1,
+  "title": "Use Imagination Before Calculation",
+  "estimatedMinutes": 4,
+  "layers": {
+    "quick": {
+      "hook": "Einstein trusted imagination before calculation.",
+      "story": "Einstein did not discover new ideas only by memorizing formulas. He imagined impossible situations and asked what would happen if the usual rules were stretched.",
+      "bigIdea": {
+        "title": "Think in possibilities first",
+        "explanation": "Big breakthroughs often begin with a what-if question, not a final answer."
+      },
+      "thinkingTool": {
+        "name": "Run a thought experiment",
+        "instruction": "Imagine a situation with one rule changed. Follow the consequences logically."
+      },
+      "modernTest": {
+        "scenario": "Your teacher says AI will make memorization useless. You feel unsure whether studying still matters.",
+        "question": "What would Einstein ask first?",
+        "options": [
+          {
+            "id": "a",
+            "label": "What kind of thinking will still matter when answers are easy?",
+            "explanation": "This imagines a changed world instead of panicking."
+          },
+          {
+            "id": "b",
+            "label": "Which app gives the fastest answers?",
+            "explanation": "This focuses on tools, not thinking."
+          }
+        ],
+        "discussionNotes": "Einstein would ask what new mental skill becomes important when old shortcuts disappear."
+      },
+      "reflectionPrompt": "Imagine one impossible idea that could improve your school or community. Explain how it might work.",
+      "thoughtTension": {
+        "counterView": "But imagination without facts is just fantasy, right?",
+        "responsePrompt": "How can imagination and evidence work together?"
+      },
+      "rewards": {
+        "xp": 20,
+        "badge": "imagination-engineer",
+        "skills": [{ "id": "imagination", "points": 2 }]
+      }
+    },
+    "full": {
+      "hook": "Einstein trusted imagination before calculation.",
+      "story": "Einstein became one of history's greatest scientists not because he memorized more facts than everyone else, but because he asked strange what-if questions. He imagined riding on a beam of light, then followed the consequences carefully.",
+      "bigIdea": {
+        "title": "Think in possibilities first",
+        "explanation": "Breakthrough thinking often begins with imagination, then gets tested by logic and evidence."
+      },
+      "thinkingTool": {
+        "name": "Run a thought experiment",
+        "instruction": "Imagine a situation with one rule changed. Follow the consequences logically."
+      },
+      "modernTest": {
+        "scenario": "Students in your class are using AI to write essays. Some say it helps learning, others say it avoids thinking.",
+        "question": "What would Einstein ask?",
+        "options": [
+          {
+            "id": "a",
+            "label": "What happens to curiosity if answers become automatic?",
+            "explanation": "This imagines long-term effects on thinking."
+          },
+          {
+            "id": "b",
+            "label": "How do we ban the tool completely?",
+            "explanation": "This jumps to control before understanding."
+          },
+          {
+            "id": "c",
+            "label": "What new kind of thinking becomes valuable in an AI world?",
+            "explanation": "This uses imagination to redefine the problem."
+          }
+        ],
+        "discussionNotes": "Einstein would likely ask how the world changes when an old assumption disappears."
+      },
+      "reflectionPrompt": "Imagine one impossible idea that could improve your school or community. Explain how it might work.",
+      "thoughtTension": {
+        "counterView": "But imagination without facts is just fantasy, right?",
+        "responsePrompt": "How can imagination and evidence work together?"
+      },
+      "rewards": {
+        "xp": 20,
+        "badge": "imagination-engineer",
+        "skills": [
+          { "id": "imagination", "points": 2 },
+          { "id": "logic", "points": 1 }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "einstein",
+  "slug": "einstein",
+  "name": "Albert Einstein",
+  "shortName": "Einstein",
+  "era": "1879-1955",
+  "region": "Germany / USA",
+  "portrait": "/assets/thinkers/einstein.svg",
+  "hook": "Einstein trusted imagination before calculation.",
+  "categories": ["science-curiosity", "creativity-art"],
+  "skills": ["imagination", "logic", "discipline"],
+  "summary": "Einstein used thought experiments to see what others missed."
+}

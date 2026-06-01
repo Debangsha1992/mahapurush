@@ -1,0 +1,8 @@
+{
+  "id": "question-everything-week",
+  "title": "Question Everything Day",
+  "prompt": "For one day, write down three things people say that you normally accept without questioning.",
+  "instructions": "Pick one belief from school, family, social media, or friendship. Ask why people believe it and whether you agree after thinking it through.",
+  "xp": 25,
+  "badge": "questioner"
+}

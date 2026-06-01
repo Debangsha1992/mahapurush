@@ -1,0 +1,95 @@
+{
+  "id": "ambedkar-01",
+  "thinkerId": "ambedkar",
+  "order": 1,
+  "title": "Fair Rules Are Not Always Fair Systems",
+  "estimatedMinutes": 4,
+  "layers": {
+    "quick": {
+      "hook": "Ambedkar asked why society was designed to deny dignity to some people.",
+      "story": "Ambedkar saw that unfair treatment was not only about one cruel person. It was built into rules, habits, and social structures.",
+      "bigIdea": {
+        "title": "Look beneath the surface of fairness",
+        "explanation": "A society is not fair just because it has rules. It is fair when those rules protect everyone's dignity."
+      },
+      "thinkingTool": {
+        "name": "Ask who benefits from the system",
+        "instruction": "When something is called normal or fair, ask who gains from it and who pays the hidden cost."
+      },
+      "modernTest": {
+        "scenario": "Your school says everyone has equal opportunity, but some students can afford tutors, laptops, and quiet rooms while others cannot.",
+        "question": "What would Ambedkar ask first?",
+        "options": [
+          {
+            "id": "a",
+            "label": "Who starts the race with hidden advantages?",
+            "explanation": "This looks at structural fairness, not only individual effort."
+          },
+          {
+            "id": "b",
+            "label": "Who studied the hardest?",
+            "explanation": "Effort matters, but it does not erase unequal starting points."
+          }
+        ],
+        "discussionNotes": "Ambedkar would ask about the system, not only the exam rules on paper."
+      },
+      "reflectionPrompt": "Identify one system in your life that looks fair on the surface but may not be fair underneath.",
+      "thoughtTension": {
+        "counterView": "But if everyone follows the same exam rules, is that not fairness?",
+        "responsePrompt": "Explain where you agree or disagree."
+      },
+      "rewards": {
+        "xp": 20,
+        "badge": "justice-seeker",
+        "skills": [{ "id": "systems-thinking", "points": 2 }]
+      }
+    },
+    "full": {
+      "hook": "Ambedkar did not just ask for a better life. He asked why society was designed to deny dignity to some people.",
+      "story": "B. R. Ambedkar grew up in a society where caste decided how people were treated before they had a chance to prove who they were. He became a scholar, lawyer, and one of the chief architects of India's Constitution, but his deepest question was moral: can a society call itself fair if its rules protect dignity for some and humiliation for others?",
+      "bigIdea": {
+        "title": "Look beneath the surface of fairness",
+        "explanation": "A society is not fair just because it has rules. It is fair only when those rules protect everyone's dignity."
+      },
+      "thinkingTool": {
+        "name": "Ask who benefits from the system",
+        "instruction": "When something is called normal or fair, ask who gains from it and who pays the hidden cost."
+      },
+      "modernTest": {
+        "scenario": "Your school says everyone has equal opportunity. Some students can afford tutors, laptops, quiet rooms, and private coaching. Others cannot.",
+        "question": "Is the competition still fair?",
+        "options": [
+          {
+            "id": "a",
+            "label": "The rules are the same, so yes",
+            "explanation": "This focuses on formal rules only."
+          },
+          {
+            "id": "b",
+            "label": "The starting conditions are unequal, so not fully",
+            "explanation": "This uses a systems lens."
+          },
+          {
+            "id": "c",
+            "label": "Fairness depends on what we choose to measure",
+            "explanation": "This recognizes that fairness is not always obvious."
+          }
+        ],
+        "discussionNotes": "Ambedkar would push you to examine hidden structure, not only visible rules."
+      },
+      "reflectionPrompt": "Identify one system in your life that looks fair on the surface but may not be fair underneath.",
+      "thoughtTension": {
+        "counterView": "But if everyone follows the same exam rules, is that not fairness?",
+        "responsePrompt": "Explain where you agree or disagree."
+      },
+      "rewards": {
+        "xp": 20,
+        "badge": "justice-seeker",
+        "skills": [
+          { "id": "justice", "points": 2 },
+          { "id": "systems-thinking", "points": 1 }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "socrates",
+  "slug": "socrates",
+  "name": "Socrates",
+  "shortName": "Socrates",
+  "era": "470-399 BCE",
+  "region": "Athens",
+  "portrait": "/assets/thinkers/socrates.svg",
+  "hook": "Socrates was killed for asking too many questions.",
+  "categories": ["logic-reason", "identity-self"],
+  "skills": ["questioning", "logic", "courage"],
+  "summary": "Socrates taught people to test beliefs instead of borrowing opinions."
+}

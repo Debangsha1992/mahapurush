@@ -1,0 +1,95 @@
+{
+  "id": "buddha-01",
+  "thinkerId": "buddha",
+  "order": 1,
+  "title": "Notice Desire Before Reacting",
+  "estimatedMinutes": 4,
+  "layers": {
+    "quick": {
+      "hook": "Buddha left comfort to ask why suffering exists.",
+      "story": "Before becoming the Buddha, Siddhartha saw sickness, aging, and loss. He realized that much suffering grows from craving and automatic reaction.",
+      "bigIdea": {
+        "title": "Notice the craving first",
+        "explanation": "Pain becomes suffering when we react blindly to what we want or fear."
+      },
+      "thinkingTool": {
+        "name": "Pause before reacting",
+        "instruction": "When you feel anger, envy, or panic, ask what desire or fear is driving the reaction."
+      },
+      "modernTest": {
+        "scenario": "You see a friend post a perfect vacation photo while you are stuck studying.",
+        "question": "What would Buddha notice first?",
+        "options": [
+          {
+            "id": "a",
+            "label": "The envy rising inside me",
+            "explanation": "This notices the inner reaction before judging the friend."
+          },
+          {
+            "id": "b",
+            "label": "How fake the photo probably is",
+            "explanation": "This may be clever, but it avoids self-awareness."
+          }
+        ],
+        "discussionNotes": "The lesson is not to suppress emotion, but to see it clearly before acting."
+      },
+      "reflectionPrompt": "Describe one recent moment when you reacted before understanding what you really wanted.",
+      "thoughtTension": {
+        "counterView": "But if you always pause, won't you become passive?",
+        "responsePrompt": "How can noticing desire help you act more wisely, not less?"
+      },
+      "rewards": {
+        "xp": 20,
+        "badge": "calm-observer",
+        "skills": [{ "id": "self-awareness", "points": 2 }]
+      }
+    },
+    "full": {
+      "hook": "Buddha left comfort to ask why suffering exists.",
+      "story": "Before becoming the Buddha, Siddhartha lived with privilege, then saw sickness, aging, and death. He realized that much suffering grows from craving, clinging, and automatic reaction. His path was not about escaping life, but seeing it clearly.",
+      "bigIdea": {
+        "title": "Notice the craving first",
+        "explanation": "Pain becomes suffering when we react blindly to what we want, fear, or compare ourselves against."
+      },
+      "thinkingTool": {
+        "name": "Pause before reacting",
+        "instruction": "When you feel anger, envy, or panic, ask what desire or fear is driving the reaction."
+      },
+      "modernTest": {
+        "scenario": "You scroll social media and feel worse about your own life after every post.",
+        "question": "What would Buddha ask you to notice?",
+        "options": [
+          {
+            "id": "a",
+            "label": "What craving or comparison is being triggered",
+            "explanation": "This focuses on the inner pattern, not just the app."
+          },
+          {
+            "id": "b",
+            "label": "Which app to delete first",
+            "explanation": "Action may help later, but noticing comes first."
+          },
+          {
+            "id": "c",
+            "label": "Whether everyone else is happier than me",
+            "explanation": "This repeats the comparison instead of examining it."
+          }
+        ],
+        "discussionNotes": "Self-awareness is the first step toward wiser action."
+      },
+      "reflectionPrompt": "Describe one recent moment when you reacted before understanding what you really wanted.",
+      "thoughtTension": {
+        "counterView": "But some things deserve immediate anger, like injustice. Should we always pause?",
+        "responsePrompt": "When does pausing deepen your response, and when might it weaken it?"
+      },
+      "rewards": {
+        "xp": 20,
+        "badge": "calm-observer",
+        "skills": [
+          { "id": "self-awareness", "points": 2 },
+          { "id": "empathy", "points": 1 }
+        ]
+      }
+    }
+  }
+}

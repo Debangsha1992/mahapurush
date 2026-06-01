@@ -1,0 +1,13 @@
+{
+  "id": "buddha",
+  "slug": "buddha",
+  "name": "Buddha",
+  "shortName": "Buddha",
+  "era": "563-483 BCE",
+  "region": "Ancient India",
+  "portrait": "/assets/thinkers/buddha.svg",
+  "hook": "Buddha left comfort to ask why suffering exists.",
+  "categories": ["identity-self", "courage-leadership"],
+  "skills": ["self-awareness", "empathy", "discipline"],
+  "summary": "Buddha taught people to notice desire and suffering before reacting."
+}

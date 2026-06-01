@@ -1,0 +1,105 @@
+{
+  "id": "socrates-01",
+  "thinkerId": "socrates",
+  "order": 1,
+  "title": "Why Questions Are Dangerous",
+  "estimatedMinutes": 4,
+  "layers": {
+    "quick": {
+      "hook": "Socrates was killed for asking too many questions.",
+      "story": "In Athens, Socrates became famous because he asked people to explain their beliefs. He did not accept answers like 'everyone knows this' or 'the powerful say so.'",
+      "bigIdea": {
+        "title": "Test borrowed opinions",
+        "explanation": "Do not accept an idea only because it is popular, old, or spoken by someone powerful."
+      },
+      "thinkingTool": {
+        "name": "Ask why three times",
+        "instruction": "Before accepting a belief, ask why it is true, why people believe it, and why it matters."
+      },
+      "modernTest": {
+        "scenario": "Your class is mocking someone online and calling it a joke.",
+        "question": "What would Socrates ask first?",
+        "options": [
+          {
+            "id": "a",
+            "label": "Is everyone doing it proof that it is right?",
+            "explanation": "This tests whether popularity equals truth."
+          },
+          {
+            "id": "b",
+            "label": "How many likes did the post get?",
+            "explanation": "This measures popularity, not moral strength."
+          },
+          {
+            "id": "c",
+            "label": "Would I defend this action in public?",
+            "explanation": "This tests whether the action survives honest scrutiny."
+          }
+        ],
+        "discussionNotes": "Socrates would likely ask all three kinds of questions, but the strongest first move is to challenge the assumption that the crowd is always right."
+      },
+      "reflectionPrompt": "Write one belief you have that you may have never questioned properly.",
+      "thoughtTension": {
+        "counterView": "But if you question everything, can you ever feel certain about anything?",
+        "responsePrompt": "When is questioning useful, and when can it become avoidance?"
+      },
+      "rewards": {
+        "xp": 20,
+        "badge": "questioner",
+        "skills": [{ "id": "questioning", "points": 2 }]
+      }
+    },
+    "full": {
+      "hook": "Socrates was killed for asking too many questions.",
+      "story": "Socrates lived in Athens and became famous not because he gave polished answers, but because he asked questions that exposed weak thinking. He believed most people live with borrowed opinions. His method was simple: ask, challenge, repeat. That made him dangerous to people who wanted obedience more than truth.",
+      "bigIdea": {
+        "title": "Test borrowed opinions",
+        "explanation": "Do not accept an idea just because it is popular, old, or spoken by someone powerful. Test it with questions."
+      },
+      "thinkingTool": {
+        "name": "Ask why three times",
+        "instruction": "Before accepting a belief, ask why it is true, why people believe it, and why it matters."
+      },
+      "modernTest": {
+        "scenario": "Your whole class is making fun of a student online. Everyone says it is just a joke.",
+        "question": "What would Socrates ask before joining in?",
+        "options": [
+          {
+            "id": "a",
+            "label": "Is it funny if the person being laughed at is hurt?",
+            "explanation": "This tests whether harm is being ignored for social approval."
+          },
+          {
+            "id": "b",
+            "label": "Is everyone doing it proof that it is right?",
+            "explanation": "This separates social proof from moral reasoning."
+          },
+          {
+            "id": "c",
+            "label": "Would I defend this action in public?",
+            "explanation": "This asks whether the action survives honest scrutiny."
+          },
+          {
+            "id": "d",
+            "label": "All of the above",
+            "explanation": "Socratic questioning often works by stacking uncomfortable questions."
+          }
+        ],
+        "discussionNotes": "There may not be one perfect answer, but the point is to slow down and test the crowd's logic."
+      },
+      "reflectionPrompt": "Write one belief you have that you may have never questioned properly.",
+      "thoughtTension": {
+        "counterView": "But what if questioning everything makes life harder? Can too much questioning make people confused?",
+        "responsePrompt": "Explain when questioning protects you and when it might become a way to avoid deciding."
+      },
+      "rewards": {
+        "xp": 20,
+        "badge": "questioner",
+        "skills": [
+          { "id": "questioning", "points": 2 },
+          { "id": "logic", "points": 1 }
+        ]
+      }
+    }
+  }
+}

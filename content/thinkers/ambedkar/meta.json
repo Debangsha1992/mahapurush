@@ -1,0 +1,13 @@
+{
+  "id": "ambedkar",
+  "slug": "ambedkar",
+  "name": "B. R. Ambedkar",
+  "shortName": "Ambedkar",
+  "era": "1891-1956",
+  "region": "India",
+  "portrait": "/assets/thinkers/ambedkar.svg",
+  "hook": "Ambedkar asked why society was designed to deny dignity to some people.",
+  "categories": ["justice-society", "logic-reason"],
+  "skills": ["justice", "systems-thinking", "courage"],
+  "summary": "Ambedkar fought for dignity by questioning unfair systems, not just unfair moments."
+}

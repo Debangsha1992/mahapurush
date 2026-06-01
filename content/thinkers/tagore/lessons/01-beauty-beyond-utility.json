@@ -1,0 +1,95 @@
+{
+  "id": "tagore-01",
+  "thinkerId": "tagore",
+  "order": 1,
+  "title": "Look for Beauty Beyond Utility",
+  "estimatedMinutes": 4,
+  "layers": {
+    "quick": {
+      "hook": "Tagore believed freedom and beauty are part of a full human life.",
+      "story": "Tagore was a poet, educator, and thinker who believed people become smaller when life is reduced to exams, jobs, and usefulness alone.",
+      "bigIdea": {
+        "title": "Human life is more than productivity",
+        "explanation": "A meaningful life includes beauty, wonder, expression, and inner freedom."
+      },
+      "thinkingTool": {
+        "name": "Ask what makes a life fully human",
+        "instruction": "When a choice looks practical, ask what human quality might be lost in the process."
+      },
+      "modernTest": {
+        "scenario": "Your family pushes you toward a safe career, but you feel alive when writing, painting, or making music.",
+        "question": "What would Tagore ask you to consider?",
+        "options": [
+          {
+            "id": "a",
+            "label": "Am I choosing safety or becoming myself?",
+            "explanation": "This asks about human fullness, not only income."
+          },
+          {
+            "id": "b",
+            "label": "Which career pays the most?",
+            "explanation": "This ignores inner life."
+          }
+        ],
+        "discussionNotes": "Tagore would not dismiss practicality, but he would insist that a life without beauty is incomplete."
+      },
+      "reflectionPrompt": "What is one activity that makes you feel most fully alive, even if it is not obviously useful?",
+      "thoughtTension": {
+        "counterView": "But beauty does not pay bills. Is it selfish to care about art?",
+        "responsePrompt": "How can beauty and responsibility coexist?"
+      },
+      "rewards": {
+        "xp": 20,
+        "badge": "creative-mind",
+        "skills": [{ "id": "creativity", "points": 2 }]
+      }
+    },
+    "full": {
+      "hook": "Tagore believed freedom and beauty are part of a full human life.",
+      "story": "Rabindranath Tagore was a poet, educator, and humanist who believed people become smaller when life is reduced to exams, obedience, and usefulness alone. He built schools and art because he thought freedom and creativity were not luxuries. They were part of becoming human.",
+      "bigIdea": {
+        "title": "Human life is more than productivity",
+        "explanation": "A meaningful life includes beauty, wonder, expression, and inner freedom."
+      },
+      "thinkingTool": {
+        "name": "Ask what makes a life fully human",
+        "instruction": "When a choice looks practical, ask what human quality might be lost in the process."
+      },
+      "modernTest": {
+        "scenario": "Your school celebrates only exam rank and career outcomes. Creative work is treated as a hobby.",
+        "question": "What would Tagore challenge?",
+        "options": [
+          {
+            "id": "a",
+            "label": "The idea that only measurable success counts",
+            "explanation": "This challenges a narrow definition of value."
+          },
+          {
+            "id": "b",
+            "label": "The need to study at all",
+            "explanation": "Tagore did not reject learning; he rejected shrinking human life."
+          },
+          {
+            "id": "c",
+            "label": "The lack of space for imagination and expression",
+            "explanation": "This points to what is missing from the system."
+          }
+        ],
+        "discussionNotes": "Tagore would ask what kind of human being the system is trying to create."
+      },
+      "reflectionPrompt": "What is one activity that makes you feel most fully alive, even if it is not obviously useful?",
+      "thoughtTension": {
+        "counterView": "But beauty does not pay bills. Is it selfish to care about art?",
+        "responsePrompt": "How can beauty and responsibility coexist?"
+      },
+      "rewards": {
+        "xp": 20,
+        "badge": "creative-mind",
+        "skills": [
+          { "id": "creativity", "points": 2 },
+          { "id": "empathy", "points": 1 }
+        ]
+      }
+    }
+  }
+}

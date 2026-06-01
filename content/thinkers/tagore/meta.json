@@ -1,0 +1,13 @@
+{
+  "id": "tagore",
+  "slug": "tagore",
+  "name": "Rabindranath Tagore",
+  "shortName": "Tagore",
+  "era": "1861-1941",
+  "region": "Bengal / India",
+  "portrait": "/assets/thinkers/tagore.svg",
+  "hook": "Tagore believed freedom and beauty are part of a full human life.",
+  "categories": ["creativity-art", "identity-self"],
+  "skills": ["creativity", "empathy", "imagination"],
+  "summary": "Tagore saw art, education, and humanity as ways of becoming fully alive."
+}
