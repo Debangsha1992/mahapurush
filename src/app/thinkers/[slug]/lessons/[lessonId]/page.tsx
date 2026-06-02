@@ -5,6 +5,7 @@ import {
   getAllThinkers,
   getLessonById,
   getLessonsForThinker,
+  getLifeStoryForThinker,
   getThinkerBySlug,
 } from "@/lib/content/loaders";
 
@@ -31,6 +32,10 @@ export default async function LessonPage({
   }
 
   const gallery = getThinkerGallery(thinker.slug);
+  const lifeStory = getLifeStoryForThinker(thinker.id);
+  if (!lifeStory) {
+    notFound();
+  }
 
   return (
     <LessonFlow
@@ -40,6 +45,7 @@ export default async function LessonPage({
       desktopImages={gallery.desktopImages}
       mobileImages={gallery.mobileImages}
       galleryCaptions={gallery.captions}
+      lifePages={lifeStory.pages}
       layerKey="full"
     />
   );

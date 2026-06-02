@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import {
   dailySparkSchema,
+  lifeStorySchema,
   lessonSchema,
   pathSchema,
   quoteCardSchema,
@@ -10,6 +11,7 @@ import {
   type DailySpark,
   type LearningPath,
   type Lesson,
+  type LifeStory,
   type QuoteCard,
   type Thinker,
   type WeeklyChallenge,
@@ -69,6 +71,22 @@ export function getLessonsForThinker(thinkerId: string): Lesson[] {
       return lessonSchema.parse(JSON.parse(raw));
     })
     .sort((a, b) => a.order - b.order);
+}
+
+export function getLifeStoryForThinker(thinkerId: string): LifeStory | undefined {
+  const lifeStoryPath = path.join(
+    contentRoot,
+    "thinkers",
+    thinkerId,
+    "life-story.json",
+  );
+
+  if (!fs.existsSync(lifeStoryPath)) {
+    return undefined;
+  }
+
+  const raw = fs.readFileSync(lifeStoryPath, "utf8");
+  return lifeStorySchema.parse(JSON.parse(raw));
 }
 
 export function getLessonById(lessonId: string): Lesson | undefined {
@@ -139,6 +157,15 @@ export function validateAllContent(): void {
 
   for (const thinker of thinkers) {
     getLessonsForThinker(thinker.id);
+    const lifeStory = getLifeStoryForThinker(thinker.id);
+    if (!lifeStory) {
+      throw new Error(`Thinker ${thinker.id} is missing life-story.json`);
+    }
+    if (lifeStory.thinkerId !== thinker.id) {
+      throw new Error(
+        `Life story for ${thinker.id} references ${lifeStory.thinkerId}`,
+      );
+    }
   }
 
   for (const learningPath of getAllPaths()) {

@@ -60,29 +60,29 @@ Gallery assets live under `public/assets/thinkers/{slug}/`:
 The app automatically serves mobile images below 768px width. Regenerate native portrait art with OpenAI:
 
 ```bash
-OPENAI_API_KEY=your_key npm run content:generate-images:mobile
+OPENAI_API_KEY=your_key pnpm run content:generate-images:mobile
 ```
 
 Re-optimize after adding source PNGs:
 
 ```bash
-npm run content:optimize-images -- --remove-png
+pnpm run content:optimize-images -- --remove-png
 ```
 
 ## Local Development
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 Other commands:
 
 ```bash
-npm run content:validate
-npm run test
-npm run typecheck
-npm run build
+pnpm run content:validate
+pnpm run test
+pnpm run typecheck
+pnpm run build
 ```
 
 Open [http://localhost:3000](http://localhost:3000) after starting the dev server.

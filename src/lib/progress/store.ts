@@ -38,7 +38,7 @@ function parseProgress(value: unknown): Progress {
 
 export const useProgressStore = create<ProgressState>()(
   persist(
-    (set, get) => ({
+    (set) => ({
       progress: createInitialProgress(),
       hydrated: false,
       setHydrated: (hydrated) => set({ hydrated }),

@@ -14,6 +14,8 @@ type RotatingThinkerImageProps = {
   imageClassName?: string;
   size?: number;
   layout?: "avatar" | "portrait";
+  /** When set, shows this gallery index and disables timed rotation. */
+  imageIndex?: number;
   intervalMs?: number;
   rotate?: boolean;
   priority?: boolean;
@@ -38,8 +40,9 @@ export function RotatingThinkerImage({
   imageClassName = "rounded-full object-cover",
   size = 320,
   layout = "avatar",
+  imageIndex,
   intervalMs = 6000,
-  rotate = true,
+  rotate = false,
   priority = false,
 }: RotatingThinkerImageProps) {
   const isMobile = useIsMobile();
@@ -56,30 +59,29 @@ export function RotatingThinkerImage({
       ) % gallery.length,
     [gallery.length, isMobile, slug],
   );
-  const [index, setIndex] = useState(startIndex);
+  const [rotationTick, setRotationTick] = useState(0);
+  const isControlled = imageIndex !== undefined;
+  const activeIndex = isControlled
+    ? imageIndex % gallery.length
+    : (startIndex + rotationTick) % gallery.length;
 
   useEffect(() => {
-    setIndex(startIndex);
-  }, [startIndex, slug, isMobile]);
-
-  useEffect(() => {
-    if (!rotate || gallery.length <= 1) {
+    if (isControlled || !rotate || gallery.length <= 1) {
       return;
     }
 
     const timer = window.setInterval(() => {
-      setIndex((current) => (current + 1) % gallery.length);
+      setRotationTick((current) => current + 1);
     }, intervalMs);
 
     return () => window.clearInterval(timer);
-  }, [gallery.length, intervalMs, rotate]);
+  }, [gallery.length, intervalMs, isControlled, rotate]);
 
-  const src = gallery[index] ?? fallback;
-  const caption = captions[index];
-  const isPortrait = isMobile && layout === "portrait";
+  const src = gallery[activeIndex] ?? fallback;
+  const caption = captions[activeIndex];
 
-  if (isPortrait) {
-    const width = Math.min(size, 280);
+  if (layout === "portrait") {
+    const width = isMobile ? Math.min(size, 280) : size;
     const height = Math.round(width * (16 / 9));
 
     return (
@@ -93,12 +95,12 @@ export function RotatingThinkerImage({
             src={src}
             alt={caption ? `${name}: ${caption}` : `${name} life scene`}
             fill
-            sizes="(max-width: 768px) 280px, 160px"
+            sizes={`(max-width: 768px) ${Math.min(size, 280)}px, ${size}px`}
             priority={priority}
             className="object-cover transition-opacity duration-700"
           />
         </div>
-        {caption && rotate && (
+        {caption && (
           <figcaption className="mt-2 text-xs leading-5 text-[var(--color-muted)]">
             {caption}
           </figcaption>

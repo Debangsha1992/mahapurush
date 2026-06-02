@@ -6,9 +6,11 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import {
   LESSON_STEPS,
+  LIFE_STORY_PAGE_COUNT,
   type Lesson,
   type LessonLayer,
   type LessonStepId,
+  type LifeStoryPage,
 } from "@/lib/content/schemas";
 import { RotatingThinkerImage } from "@/components/ui/rotating-thinker-image";
 import { useProgressStore } from "@/lib/progress/store";
@@ -20,6 +22,7 @@ type LessonFlowProps = {
   desktopImages: string[];
   mobileImages: string[];
   galleryCaptions: string[];
+  lifePages: LifeStoryPage[];
   layerKey?: "quick" | "full";
 };
 
@@ -30,6 +33,7 @@ export function LessonFlow({
   desktopImages,
   mobileImages,
   galleryCaptions,
+  lifePages,
   layerKey = "full",
 }: LessonFlowProps) {
   const layer = lesson.layers[layerKey];
@@ -46,6 +50,8 @@ export function LessonFlow({
   const [completed, setCompleted] = useState(false);
 
   const currentStep = LESSON_STEPS[stepIndex] ?? "reward";
+  const lifePage = lifePages[stepIndex];
+  const imageIndex = stepIndex % LIFE_STORY_PAGE_COUNT;
 
   const canContinue = useMemo(() => {
     if (currentStep === "modernTest") {
@@ -105,11 +111,13 @@ export function LessonFlow({
         <RotatingThinkerImage
           slug={thinkerSlug}
           name={thinkerName}
-          desktopImages={desktopImages}
-          mobileImages={mobileImages}
-          captions={galleryCaptions}
+          desktopImages={desktopImages.slice(0, LIFE_STORY_PAGE_COUNT)}
+          mobileImages={mobileImages.slice(0, LIFE_STORY_PAGE_COUNT)}
+          captions={galleryCaptions.slice(0, LIFE_STORY_PAGE_COUNT)}
+          imageIndex={imageIndex}
           layout="portrait"
           size={200}
+          priority
         />
         <div className="flex flex-1 items-start justify-between gap-4">
           <div>
@@ -141,7 +149,7 @@ export function LessonFlow({
         ))}
       </div>
 
-      <Card>{renderStep(currentStep, layer, {
+      <Card>{renderStep(currentStep, layer, lifePage, {
         selectedOption,
         setSelectedOption,
         reflection,
@@ -176,6 +184,7 @@ export function LessonFlow({
 function renderStep(
   step: LessonStepId,
   layer: LessonLayer,
+  lifePage: LifeStoryPage | undefined,
   state: {
     selectedOption: string | null;
     setSelectedOption: (value: string) => void;
@@ -187,57 +196,81 @@ function renderStep(
     thinkerName: string;
   },
 ) {
+  const lifeStoryBlock = lifePage ? (
+    <div className="space-y-4 border-b border-[var(--color-border)] pb-6">
+      <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+        Life Story
+      </p>
+      <h3 className="text-xl font-semibold">{lifePage.title}</h3>
+      <p className="text-lg leading-8 text-[var(--color-text)]">{lifePage.body}</p>
+    </div>
+  ) : null;
+
   switch (step) {
     case "hook":
       return (
-        <div className="space-y-4">
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-            Hook
-          </p>
-          <p className="font-serif text-3xl leading-tight text-[var(--color-text)]">
-            {layer.hook}
-          </p>
+        <div className="space-y-6">
+          {lifeStoryBlock}
+          <div className="space-y-4">
+            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+              Hook
+            </p>
+            <p className="font-serif text-3xl leading-tight text-[var(--color-text)]">
+              {layer.hook}
+            </p>
+          </div>
         </div>
       );
     case "story":
       return (
-        <div className="space-y-4">
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-            Human Story
-          </p>
-          <p className="text-lg leading-8 text-[var(--color-text)]">{layer.story}</p>
+        <div className="space-y-6">
+          {lifeStoryBlock}
+          <div className="space-y-4">
+            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+              Human Story
+            </p>
+            <p className="text-lg leading-8 text-[var(--color-text)]">{layer.story}</p>
+          </div>
         </div>
       );
     case "bigIdea":
       return (
-        <div className="space-y-4">
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-            Big Idea
-          </p>
-          <h3 className="text-2xl font-semibold">{layer.bigIdea.title}</h3>
-          <p className="text-lg leading-8 text-[var(--color-muted)]">
-            {layer.bigIdea.explanation}
-          </p>
+        <div className="space-y-6">
+          {lifeStoryBlock}
+          <div className="space-y-4">
+            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+              Big Idea
+            </p>
+            <h3 className="text-2xl font-semibold">{layer.bigIdea.title}</h3>
+            <p className="text-lg leading-8 text-[var(--color-muted)]">
+              {layer.bigIdea.explanation}
+            </p>
+          </div>
         </div>
       );
     case "thinkingTool":
       return (
-        <div className="space-y-4">
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-            Thinking Tool
-          </p>
-          <h3 className="text-2xl font-semibold">{layer.thinkingTool.name}</h3>
-          <p className="text-lg leading-8 text-[var(--color-muted)]">
-            {layer.thinkingTool.instruction}
-          </p>
+        <div className="space-y-6">
+          {lifeStoryBlock}
+          <div className="space-y-4">
+            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+              Thinking Tool
+            </p>
+            <h3 className="text-2xl font-semibold">{layer.thinkingTool.name}</h3>
+            <p className="text-lg leading-8 text-[var(--color-muted)]">
+              {layer.thinkingTool.instruction}
+            </p>
+          </div>
         </div>
       );
     case "modernTest":
       return (
-        <div className="space-y-5">
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-            Modern Test
-          </p>
+        <div className="space-y-6">
+          {lifeStoryBlock}
+          <div className="space-y-5">
+            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+              Modern Test
+            </p>
           <p className="text-lg leading-8">{layer.modernTest.scenario}</p>
           <p className="font-medium">{layer.modernTest.question}</p>
           <div className="space-y-3">
@@ -264,47 +297,56 @@ function renderStep(
           <p className="text-sm text-[var(--color-muted)]">
             {layer.modernTest.discussionNotes}
           </p>
+          </div>
         </div>
       );
     case "reflection":
       return (
-        <div className="space-y-4">
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-            Reflection Challenge
-          </p>
-          <p className="text-lg leading-8">{layer.reflectionPrompt}</p>
-          <textarea
-            value={state.reflection}
-            onChange={(event) => state.setReflection(event.target.value)}
-            rows={6}
-            className="w-full rounded-[1rem] border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-4 py-3 text-[var(--color-text)] outline-none focus:border-[var(--color-accent)]"
-            placeholder="Write your response here..."
-          />
+        <div className="space-y-6">
+          {lifeStoryBlock}
+          <div className="space-y-4">
+            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+              Reflection Challenge
+            </p>
+            <p className="text-lg leading-8">{layer.reflectionPrompt}</p>
+            <textarea
+              value={state.reflection}
+              onChange={(event) => state.setReflection(event.target.value)}
+              rows={6}
+              className="w-full rounded-[1rem] border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-4 py-3 text-[var(--color-text)] outline-none focus:border-[var(--color-accent)]"
+              placeholder="Write your response here..."
+            />
+          </div>
         </div>
       );
     case "thoughtTension":
       return (
-        <div className="space-y-4">
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-            Thought Tension
-          </p>
-          <p className="font-serif text-2xl leading-snug">{layer.thoughtTension.counterView}</p>
-          <p className="text-lg leading-8">{layer.thoughtTension.responsePrompt}</p>
-          <textarea
-            value={state.tensionResponse}
-            onChange={(event) => state.setTensionResponse(event.target.value)}
-            rows={6}
-            className="w-full rounded-[1rem] border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-4 py-3 text-[var(--color-text)] outline-none focus:border-[var(--color-accent)]"
-            placeholder="Respond to the counter-view..."
-          />
+        <div className="space-y-6">
+          {lifeStoryBlock}
+          <div className="space-y-4">
+            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+              Thought Tension
+            </p>
+            <p className="font-serif text-2xl leading-snug">{layer.thoughtTension.counterView}</p>
+            <p className="text-lg leading-8">{layer.thoughtTension.responsePrompt}</p>
+            <textarea
+              value={state.tensionResponse}
+              onChange={(event) => state.setTensionResponse(event.target.value)}
+              rows={6}
+              className="w-full rounded-[1rem] border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-4 py-3 text-[var(--color-text)] outline-none focus:border-[var(--color-accent)]"
+              placeholder="Respond to the counter-view..."
+            />
+          </div>
         </div>
       );
     case "reward":
       return (
-        <div className="space-y-4">
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-            Reward
-          </p>
+        <div className="space-y-6">
+          {lifeStoryBlock}
+          <div className="space-y-4">
+            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+              Reward
+            </p>
           <h3 className="text-2xl font-semibold">
             {state.completed ? "Lesson complete" : "Ready for your reward"}
           </h3>
@@ -330,6 +372,7 @@ function renderStep(
                 {layer.rewards.skills.map((skill) => skill.id).join(", ")}
               </p>
             </div>
+          </div>
           </div>
         </div>
       );

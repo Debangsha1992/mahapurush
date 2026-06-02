@@ -21,7 +21,7 @@ export function ThinkerMedia({
   imageClassName = "rounded-full object-cover",
   layout = "avatar",
   showCaption = false,
-  rotate = true,
+  rotate = false,
   priority = false,
 }: ThinkerMediaProps) {
   const { desktopImages, mobileImages, captions } = getThinkerGallery(slug);

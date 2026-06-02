@@ -1,14 +1,17 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Card } from "@/components/ui/card";
-import { ThinkerMedia } from "@/components/thinkers/thinker-media";
+import { ThinkerLifeReader } from "@/components/thinkers/thinker-life-reader";
 import { SKILL_LABELS } from "@/lib/constants/skills";
+import { getThinkerGallery } from "@/lib/content/gallery";
 import {
   getAllQuoteCards,
   getAllThinkers,
   getLessonsForThinker,
+  getLifeStoryForThinker,
   getThinkerBySlug,
 } from "@/lib/content/loaders";
+import { LIFE_STORY_PAGE_COUNT } from "@/lib/content/schemas";
 
 export function generateStaticParams() {
   return getAllThinkers().map((thinker) => ({ slug: thinker.slug }));
@@ -26,6 +29,11 @@ export default async function ThinkerPage({
   }
 
   const lessons = getLessonsForThinker(thinker.id);
+  const lifeStory = getLifeStoryForThinker(thinker.id);
+  if (!lifeStory) {
+    notFound();
+  }
+  const gallery = getThinkerGallery(thinker.slug);
   const quotes = getAllQuoteCards().filter(
     (quote) => quote.thinkerId === thinker.id,
   );
@@ -33,36 +41,33 @@ export default async function ThinkerPage({
   return (
     <div className="space-y-8">
       <Card>
-        <div className="flex flex-col gap-6 sm:flex-row sm:items-center">
-          <ThinkerMedia
-            slug={thinker.slug}
-            name={thinker.name}
-            size={280}
-            layout="portrait"
-            showCaption
-            className="w-full max-w-[280px]"
-            imageClassName="object-cover"
-          />
-          <div>
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-              {thinker.era} · {thinker.region}
-            </p>
-            <h2 className="mt-2 text-3xl font-semibold">{thinker.name}</h2>
-            <p className="mt-3 font-serif text-xl leading-relaxed">{thinker.hook}</p>
-            <p className="mt-4 text-[var(--color-muted)]">{thinker.summary}</p>
-            <div className="mt-4 flex flex-wrap gap-2">
-              {thinker.skills.map((skill) => (
-                <span
-                  key={skill}
-                  className="rounded-full bg-[var(--color-surface-raised)] px-3 py-1 text-sm"
-                >
-                  {SKILL_LABELS[skill]}
-                </span>
-              ))}
-            </div>
+        <div>
+          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+            {thinker.era} · {thinker.region}
+          </p>
+          <h2 className="mt-2 text-3xl font-semibold">{thinker.name}</h2>
+          <p className="mt-3 font-serif text-xl leading-relaxed">{thinker.hook}</p>
+          <div className="mt-4 flex flex-wrap gap-2">
+            {thinker.skills.map((skill) => (
+              <span
+                key={skill}
+                className="rounded-full bg-[var(--color-surface-raised)] px-3 py-1 text-sm"
+              >
+                {SKILL_LABELS[skill]}
+              </span>
+            ))}
           </div>
         </div>
       </Card>
+
+      <ThinkerLifeReader
+        thinkerName={thinker.name}
+        thinkerSlug={thinker.slug}
+        pages={lifeStory.pages}
+        desktopImages={gallery.desktopImages.slice(0, LIFE_STORY_PAGE_COUNT)}
+        mobileImages={gallery.mobileImages.slice(0, LIFE_STORY_PAGE_COUNT)}
+        captions={gallery.captions.slice(0, LIFE_STORY_PAGE_COUNT)}
+      />
 
       <section className="space-y-4">
         <h3 className="text-2xl font-semibold">Journey</h3>

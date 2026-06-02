@@ -64,6 +64,16 @@ export const lessonSchema = z.object({
   }),
 });
 
+export const lifeStoryPageSchema = z.object({
+  title: z.string().min(1),
+  body: z.string().min(1200),
+});
+
+export const lifeStorySchema = z.object({
+  thinkerId: z.string().min(1),
+  pages: z.array(lifeStoryPageSchema).length(8),
+});
+
 export const thinkerSchema = z.object({
   id: z.string().min(1),
   slug: z.string().min(1),
@@ -141,7 +151,11 @@ export const progressSchema = z.object({
   completedWeeklyChallenges: z.array(z.string()),
 });
 
+export type LifeStoryPage = z.infer<typeof lifeStoryPageSchema>;
+export type LifeStory = z.infer<typeof lifeStorySchema>;
 export type Thinker = z.infer<typeof thinkerSchema>;
+
+export const LIFE_STORY_PAGE_COUNT = 8;
 export type Lesson = z.infer<typeof lessonSchema>;
 export type LessonLayer = z.infer<typeof lessonLayerSchema>;
 export type LearningPath = z.infer<typeof pathSchema>;
