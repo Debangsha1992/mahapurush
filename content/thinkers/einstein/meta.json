@@ -5,7 +5,7 @@
   "shortName": "Einstein",
   "era": "1879-1955",
   "region": "Germany / USA",
-  "portrait": "/assets/thinkers/einstein.svg",
+  "portrait": "/assets/thinkers/einstein/mobile/01-child-compass.webp",
   "hook": "Einstein trusted imagination before calculation.",
   "categories": ["science-curiosity", "creativity-art"],
   "skills": ["imagination", "logic", "discipline"],

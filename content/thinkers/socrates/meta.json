@@ -5,7 +5,7 @@
   "shortName": "Socrates",
   "era": "470-399 BCE",
   "region": "Athens",
-  "portrait": "/assets/thinkers/socrates.svg",
+  "portrait": "/assets/thinkers/socrates/mobile/01-agora.webp",
   "hook": "Socrates was killed for asking too many questions.",
   "categories": ["logic-reason", "identity-self"],
   "skills": ["questioning", "logic", "courage"],

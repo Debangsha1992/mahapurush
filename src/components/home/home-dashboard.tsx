@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import { RotatingThinkerImage } from "@/components/ui/rotating-thinker-image";
 import { SKILL_LABELS } from "@/lib/constants/skills";
 import type { DailySpark, LearningPath, Thinker } from "@/lib/content/schemas";
 import { getPathProgress } from "@/lib/gamification/engine";
@@ -13,6 +14,9 @@ type HomeDashboardProps = {
   thinker?: Thinker;
   paths: LearningPath[];
   lessonCounts: Record<string, number>;
+  desktopImages: string[];
+  mobileImages: string[];
+  galleryCaptions: string[];
 };
 
 export function HomeDashboard({
@@ -20,6 +24,9 @@ export function HomeDashboard({
   thinker,
   paths,
   lessonCounts,
+  desktopImages,
+  mobileImages,
+  galleryCaptions,
 }: HomeDashboardProps) {
   const progress = useProgressStore((state) => state.progress);
   const hydrated = useProgressStore((state) => state.hydrated);
@@ -71,16 +78,35 @@ export function HomeDashboard({
   return (
     <div className="space-y-6">
       <Card className="space-y-5">
-        <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-          Today&apos;s Spark
-        </p>
-        <h2 className="font-serif text-3xl leading-tight">{dailySpark.question}</h2>
-        <p className="text-[var(--color-muted)]">
-          Think with {thinker?.name ?? "a great mind"} · {dailySpark.estimatedMinutes} min
-        </p>
-        <Link href={`/thinkers/${thinker?.slug ?? "socrates"}/lessons/${dailySpark.lessonId}`}>
-          <Button>Start Thinking</Button>
-        </Link>
+        <div className="flex flex-col gap-6 sm:flex-row sm:items-center">
+          {thinker && (
+            <RotatingThinkerImage
+              slug={thinker.slug}
+              name={thinker.name}
+              desktopImages={desktopImages}
+              mobileImages={mobileImages}
+              captions={galleryCaptions}
+              layout="portrait"
+              size={240}
+              priority
+            />
+          )}
+          <div className="flex-1">
+            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+              Today&apos;s Spark
+            </p>
+            <h2 className="mt-3 font-serif text-3xl leading-tight">{dailySpark.question}</h2>
+            <p className="mt-3 text-[var(--color-muted)]">
+              Think with {thinker?.name ?? "a great mind"} · {dailySpark.estimatedMinutes} min
+            </p>
+            <Link
+              href={`/thinkers/${thinker?.slug ?? "socrates"}/lessons/${dailySpark.lessonId}`}
+              className="mt-5 inline-block"
+            >
+              <Button>Start Thinking</Button>
+            </Link>
+          </div>
+        </div>
       </Card>
 
       <div className="grid gap-6 md:grid-cols-2">

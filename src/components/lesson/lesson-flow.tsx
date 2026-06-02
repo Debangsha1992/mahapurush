@@ -10,17 +10,26 @@ import {
   type LessonLayer,
   type LessonStepId,
 } from "@/lib/content/schemas";
+import { RotatingThinkerImage } from "@/components/ui/rotating-thinker-image";
 import { useProgressStore } from "@/lib/progress/store";
 
 type LessonFlowProps = {
   lesson: Lesson;
   thinkerName: string;
+  thinkerSlug: string;
+  desktopImages: string[];
+  mobileImages: string[];
+  galleryCaptions: string[];
   layerKey?: "quick" | "full";
 };
 
 export function LessonFlow({
   lesson,
   thinkerName,
+  thinkerSlug,
+  desktopImages,
+  mobileImages,
+  galleryCaptions,
   layerKey = "full",
 }: LessonFlowProps) {
   const layer = lesson.layers[layerKey];
@@ -92,16 +101,27 @@ export function LessonFlow({
 
   return (
     <div className="space-y-6">
-      <div className="flex items-center justify-between gap-4">
-        <div>
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-muted)]">
-            {thinkerName}
+      <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
+        <RotatingThinkerImage
+          slug={thinkerSlug}
+          name={thinkerName}
+          desktopImages={desktopImages}
+          mobileImages={mobileImages}
+          captions={galleryCaptions}
+          layout="portrait"
+          size={200}
+        />
+        <div className="flex flex-1 items-start justify-between gap-4">
+          <div>
+            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-muted)]">
+              {thinkerName}
+            </p>
+            <h2 className="text-2xl font-semibold">{lesson.title}</h2>
+          </div>
+          <p className="text-sm text-[var(--color-muted)]">
+            Step {stepIndex + 1} / {LESSON_STEPS.length}
           </p>
-          <h2 className="text-2xl font-semibold">{lesson.title}</h2>
         </div>
-        <p className="text-sm text-[var(--color-muted)]">
-          Step {stepIndex + 1} / {LESSON_STEPS.length}
-        </p>
       </div>
 
       <div className="flex flex-wrap gap-2">

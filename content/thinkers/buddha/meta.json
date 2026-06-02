@@ -5,7 +5,7 @@
   "shortName": "Buddha",
   "era": "563-483 BCE",
   "region": "Ancient India",
-  "portrait": "/assets/thinkers/buddha.svg",
+  "portrait": "/assets/thinkers/buddha/mobile/01-palace.webp",
   "hook": "Buddha left comfort to ask why suffering exists.",
   "categories": ["identity-self", "courage-leadership"],
   "skills": ["self-awareness", "empathy", "discipline"],

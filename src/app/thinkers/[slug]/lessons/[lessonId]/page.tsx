@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import { LessonFlow } from "@/components/lesson/lesson-flow";
+import { getThinkerGallery } from "@/lib/content/gallery";
 import {
   getAllThinkers,
   getLessonById,
@@ -29,7 +30,17 @@ export default async function LessonPage({
     notFound();
   }
 
+  const gallery = getThinkerGallery(thinker.slug);
+
   return (
-    <LessonFlow lesson={lesson} thinkerName={thinker.name} layerKey="full" />
+    <LessonFlow
+      lesson={lesson}
+      thinkerName={thinker.name}
+      thinkerSlug={thinker.slug}
+      desktopImages={gallery.desktopImages}
+      mobileImages={gallery.mobileImages}
+      galleryCaptions={gallery.captions}
+      layerKey="full"
+    />
   );
 }

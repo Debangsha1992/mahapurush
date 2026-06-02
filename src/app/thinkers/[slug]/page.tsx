@@ -1,7 +1,7 @@
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Card } from "@/components/ui/card";
+import { ThinkerMedia } from "@/components/thinkers/thinker-media";
 import { SKILL_LABELS } from "@/lib/constants/skills";
 import {
   getAllQuoteCards,
@@ -34,12 +34,14 @@ export default async function ThinkerPage({
     <div className="space-y-8">
       <Card>
         <div className="flex flex-col gap-6 sm:flex-row sm:items-center">
-          <Image
-            src={thinker.portrait}
-            alt={thinker.name}
-            width={120}
-            height={120}
-            className="rounded-full"
+          <ThinkerMedia
+            slug={thinker.slug}
+            name={thinker.name}
+            size={280}
+            layout="portrait"
+            showCaption
+            className="w-full max-w-[280px]"
+            imageClassName="object-cover"
           />
           <div>
             <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">

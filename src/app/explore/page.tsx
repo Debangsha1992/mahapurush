@@ -1,6 +1,6 @@
-import Image from "next/image";
 import Link from "next/link";
 import { Card } from "@/components/ui/card";
+import { ThinkerMedia } from "@/components/thinkers/thinker-media";
 import { CATEGORY_LABELS } from "@/lib/constants/categories";
 import { getAllThinkers } from "@/lib/content/loaders";
 
@@ -27,13 +27,7 @@ export default function ExplorePage() {
                 <Link key={thinker.id} href={`/thinkers/${thinker.slug}`}>
                   <Card className="transition hover:border-[var(--color-accent)]">
                     <div className="flex items-start gap-4">
-                      <Image
-                        src={thinker.portrait}
-                        alt={thinker.name}
-                        width={72}
-                        height={72}
-                        className="rounded-full"
-                      />
+                      <ThinkerMedia slug={thinker.slug} name={thinker.name} size={72} />
                       <div>
                         <h4 className="text-lg font-semibold">{thinker.name}</h4>
                         <p className="mt-2 text-sm text-[var(--color-muted)]">

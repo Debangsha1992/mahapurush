@@ -1,7 +1,7 @@
-import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Card } from "@/components/ui/card";
+import { ThinkerMedia } from "@/components/thinkers/thinker-media";
 import {
   getAllPaths,
   getAllThinkers,
@@ -41,13 +41,7 @@ export default async function PathDetailPage({
           return (
             <Card key={thinker.id}>
               <div className="flex items-start gap-4">
-                <Image
-                  src={thinker.portrait}
-                  alt={thinker.name}
-                  width={72}
-                  height={72}
-                  className="rounded-full"
-                />
+                <ThinkerMedia slug={thinker.slug} name={thinker.name} size={72} />
                 <div>
                   <h3 className="text-lg font-semibold">{thinker.name}</h3>
                   <p className="mt-2 text-sm text-[var(--color-muted)]">

@@ -50,6 +50,25 @@ The app scaffold is live with:
 - Local browser storage for XP, streaks, badges, skills, and journal entries
 - Content validation in CI and before production builds
 
+## Thinker images
+
+Gallery assets live under `public/assets/thinkers/{slug}/`:
+
+- `desktop/` — landscape WebP (~65–130KB each) for tablet and desktop
+- `mobile/` — 9:16 portrait WebP (~35–70KB each) for phones
+
+The app automatically serves mobile images below 768px width. Regenerate native portrait art with OpenAI:
+
+```bash
+OPENAI_API_KEY=your_key npm run content:generate-images:mobile
+```
+
+Re-optimize after adding source PNGs:
+
+```bash
+npm run content:optimize-images -- --remove-png
+```
+
 ## Local Development
 
 ```bash
