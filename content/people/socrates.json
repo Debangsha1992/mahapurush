@@ -1,0 +1,25 @@
+{
+  "id": "socrates",
+  "slug": "socrates",
+  "name": "Socrates",
+  "shortName": "Socrates",
+  "era": "470-399 BCE",
+  "region": "Athens",
+  "lifespan": "470-399 BCE",
+  "domains": ["philosophy", "ethics", "education"],
+  "summary": "Socrates shaped Western philosophy by turning inquiry toward how people should live.",
+  "knownFor": ["Socratic questioning", "ethical inquiry", "public dialogue"],
+  "thinkerId": "socrates",
+  "facts": [
+    {
+      "id": "socrates-questioning-method",
+      "text": "Socrates left no writings of his own; much of what is known about him comes through students such as Plato and Xenophon.",
+      "context": "His legacy shows how conversation, questioning, and students can carry a teacher's ideas long after direct records are gone.",
+      "sourceTitle": "Encyclopaedia Britannica: Socrates",
+      "sourceUrl": "https://www.britannica.com/biography/Socrates",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["philosophy", "education"],
+      "verified": true
+    }
+  ]
+}

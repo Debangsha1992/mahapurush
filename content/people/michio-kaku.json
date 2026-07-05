@@ -1,0 +1,24 @@
+{
+  "id": "michio-kaku",
+  "slug": "michio-kaku",
+  "name": "Michio Kaku",
+  "shortName": "Kaku",
+  "era": "1947-present",
+  "region": "United States",
+  "lifespan": "1947-present",
+  "domains": ["theoretical physics", "science communication", "education"],
+  "summary": "Michio Kaku is a theoretical physicist and science communicator known for explaining advanced physics to general audiences.",
+  "knownFor": ["string field theory", "popular science books", "physics communication"],
+  "facts": [
+    {
+      "id": "michio-kaku-science-communication",
+      "text": "Kaku has written popular science books that explain physics ideas such as parallel worlds, the future of technology, and the universe.",
+      "context": "His public work shows how difficult ideas can become inviting when they are connected to imagination and everyday curiosity.",
+      "sourceTitle": "City College of New York: Michio Kaku",
+      "sourceUrl": "https://www.ccny.cuny.edu/profiles/michio-kaku",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["science", "education"],
+      "verified": true
+    }
+  ]
+}

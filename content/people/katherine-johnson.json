@@ -1,0 +1,24 @@
+{
+  "id": "katherine-johnson",
+  "slug": "katherine-johnson",
+  "name": "Katherine Johnson",
+  "shortName": "Johnson",
+  "era": "1918-2020",
+  "region": "United States",
+  "lifespan": "1918-2020",
+  "domains": ["mathematics", "space science", "civil rights"],
+  "summary": "Katherine Johnson's mathematical work supported major NASA missions and challenged racial and gender barriers.",
+  "knownFor": ["NASA trajectory calculations", "Project Mercury", "Apollo missions"],
+  "facts": [
+    {
+      "id": "katherine-johnson-orbit-calculations",
+      "text": "Katherine Johnson calculated trajectories for Alan Shepard's 1961 spaceflight and John Glenn's 1962 orbital mission.",
+      "context": "Her story shows how precise, trusted work can become mission-critical even inside systems that underestimate the worker.",
+      "sourceTitle": "NASA: Katherine Johnson Biography",
+      "sourceUrl": "https://www.nasa.gov/people/katherine-johnson/",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["space", "mathematics"],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "jane-goodall",
+  "slug": "jane-goodall",
+  "name": "Jane Goodall",
+  "shortName": "Goodall",
+  "era": "1934-present",
+  "region": "United Kingdom, Tanzania",
+  "lifespan": "1934-present",
+  "domains": ["primatology", "conservation", "anthropology"],
+  "summary": "Jane Goodall changed how scientists and the public understand chimpanzees, animals, and conservation.",
+  "knownFor": ["chimpanzee field research", "Gombe Stream research", "conservation advocacy"],
+  "facts": [
+    {
+      "id": "jane-goodall-gombe-research",
+      "text": "Goodall began her chimpanzee research at Gombe Stream in Tanzania in 1960.",
+      "context": "Her patient field observation helped challenge assumptions about tool use, animal behavior, and the boundary between humans and other animals.",
+      "sourceTitle": "Jane Goodall Institute: Biography",
+      "sourceUrl": "https://janegoodall.org/our-story/about-jane/",
+      "sourceAccessedAt": "2026-07-05",
+      "sourceDate": "1960-07-14",
+      "tags": ["science", "conservation"],
+      "verified": true
+    }
+  ]
+}

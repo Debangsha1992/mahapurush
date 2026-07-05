@@ -82,7 +82,7 @@ export function OnboardingQuiz({ paths }: { paths: LearningPath[] }) {
     <div className="mx-auto max-w-2xl space-y-6">
       <Card>
         <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-          Onboarding
+          Introspection
         </p>
         <h2 className="mt-3 text-3xl font-semibold">{current.prompt}</h2>
         <p className="mt-2 text-sm text-[var(--color-muted)]">
@@ -103,7 +103,7 @@ export function OnboardingQuiz({ paths }: { paths: LearningPath[] }) {
       </Card>
       <div className="flex gap-3">
         <Button variant="ghost" onClick={skip}>
-          Skip for now
+          Choose a starter path for now
         </Button>
       </div>
       {recommendedPath && (

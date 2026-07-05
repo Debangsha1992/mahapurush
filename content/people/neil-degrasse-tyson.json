@@ -1,0 +1,24 @@
+{
+  "id": "neil-degrasse-tyson",
+  "slug": "neil-degrasse-tyson",
+  "name": "Neil deGrasse Tyson",
+  "shortName": "Tyson",
+  "era": "1958-present",
+  "region": "United States",
+  "lifespan": "1958-present",
+  "domains": ["astrophysics", "science communication", "education"],
+  "summary": "Neil deGrasse Tyson is an astrophysicist and science communicator who brings astronomy to broad public audiences.",
+  "knownFor": ["Hayden Planetarium", "Cosmos: A Spacetime Odyssey", "public science education"],
+  "facts": [
+    {
+      "id": "neil-degrasse-tyson-hayden",
+      "text": "Tyson became director of the Hayden Planetarium in New York City in the 1990s.",
+      "context": "His work shows how scientific knowledge can reach more people when experts treat public explanation as part of the job.",
+      "sourceTitle": "Hayden Planetarium: Neil deGrasse Tyson",
+      "sourceUrl": "https://www.amnh.org/research/hayden-planetarium/staff/neil-degrasse-tyson",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["science", "education"],
+      "verified": true
+    }
+  ]
+}

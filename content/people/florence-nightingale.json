@@ -1,0 +1,24 @@
+{
+  "id": "florence-nightingale",
+  "slug": "florence-nightingale",
+  "name": "Florence Nightingale",
+  "shortName": "Nightingale",
+  "era": "1820-1910",
+  "region": "United Kingdom",
+  "lifespan": "1820-1910",
+  "domains": ["nursing", "public health", "statistics"],
+  "summary": "Florence Nightingale helped professionalize nursing and used evidence to argue for public health reform.",
+  "knownFor": ["modern nursing", "Crimean War hospital reform", "statistical visualization"],
+  "facts": [
+    {
+      "id": "florence-nightingale-statistics",
+      "text": "Nightingale used statistical diagrams to communicate preventable deaths and argue for health reforms.",
+      "context": "Her work shows that data can become persuasive when it is made understandable to people with power to act.",
+      "sourceTitle": "Science Museum: Florence Nightingale",
+      "sourceUrl": "https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["health", "statistics"],
+      "verified": true
+    }
+  ]
+}

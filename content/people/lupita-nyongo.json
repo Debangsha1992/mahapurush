@@ -1,0 +1,25 @@
+{
+  "id": "lupita-nyongo",
+  "slug": "lupita-nyongo",
+  "name": "Lupita Nyong'o",
+  "shortName": "Nyong'o",
+  "era": "1983-present",
+  "region": "Kenya, Mexico, United States",
+  "lifespan": "1983-present",
+  "domains": ["film", "theatre", "representation"],
+  "summary": "Lupita Nyong'o is an actor and author whose work has expanded representation in global film and children's literature.",
+  "knownFor": ["12 Years a Slave", "Black Panther", "Sulwe"],
+  "facts": [
+    {
+      "id": "lupita-nyongo-oscar",
+      "text": "Nyong'o won the Academy Award for Best Supporting Actress for her role in 12 Years a Slave.",
+      "context": "Her career highlights craft, persistence, and the importance of whose stories are allowed to reach global audiences.",
+      "sourceTitle": "Academy of Motion Picture Arts and Sciences: 2014 Oscars",
+      "sourceUrl": "https://www.oscars.org/oscars/ceremonies/2014",
+      "sourceAccessedAt": "2026-07-05",
+      "sourceDate": "2014-03-02",
+      "tags": ["arts", "film"],
+      "verified": true
+    }
+  ]
+}

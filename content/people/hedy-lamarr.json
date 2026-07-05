@@ -1,0 +1,24 @@
+{
+  "id": "hedy-lamarr",
+  "slug": "hedy-lamarr",
+  "name": "Hedy Lamarr",
+  "shortName": "Lamarr",
+  "era": "1914-2000",
+  "region": "Austria, United States",
+  "lifespan": "1914-2000",
+  "domains": ["film", "invention", "communications"],
+  "summary": "Hedy Lamarr was an actor and inventor whose work on frequency hopping anticipated later communications technologies.",
+  "knownFor": ["film acting", "frequency-hopping patent", "inventive problem solving"],
+  "facts": [
+    {
+      "id": "hedy-lamarr-frequency-hopping",
+      "text": "Lamarr co-invented a frequency-hopping communication system with composer George Antheil during World War II.",
+      "context": "Her story challenges narrow ideas about expertise by showing technical imagination in someone best known publicly for film.",
+      "sourceTitle": "National Women's History Museum: Hedy Lamarr",
+      "sourceUrl": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["invention", "arts"],
+      "verified": true
+    }
+  ]
+}

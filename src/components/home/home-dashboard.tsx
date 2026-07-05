@@ -19,6 +19,35 @@ type HomeDashboardProps = {
   galleryCaptions: string[];
 };
 
+function ModeTile({
+  href,
+  eyebrow,
+  title,
+  description,
+  action,
+}: {
+  href: string;
+  eyebrow: string;
+  title: string;
+  description: string;
+  action: string;
+}) {
+  return (
+    <Link href={href} className="block">
+      <Card className="h-full transition hover:border-[var(--color-accent)]">
+        <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
+          {eyebrow}
+        </p>
+        <h2 className="mt-3 text-2xl font-semibold">{title}</h2>
+        <p className="mt-3 text-[var(--color-muted)]">{description}</p>
+        <span className="mt-5 inline-block text-sm font-medium text-[var(--color-accent)]">
+          {action}
+        </span>
+      </Card>
+    </Link>
+  );
+}
+
 export function HomeDashboard({
   dailySpark,
   thinker,
@@ -37,23 +66,45 @@ export function HomeDashboard({
     return <p className="text-[var(--color-muted)]">Loading your progress...</p>;
   }
 
+  const dailyLessonHref = `/thinkers/${thinker?.slug ?? "socrates"}/lessons/${dailySpark.lessonId}`;
+  const introspectionHref = progress.onboardingComplete
+    ? dailyLessonHref
+    : "/introspection";
+  const modeTiles = (
+    <div className="grid gap-4 md:grid-cols-2">
+      <ModeTile
+        href="/facts"
+        eyebrow="Quick discovery"
+        title="Facts"
+        description="Meet notable contributors through short, source-backed facts from history and the present."
+        action="Explore random facts"
+      />
+      <ModeTile
+        href={introspectionHref}
+        eyebrow="Personal journey"
+        title="Introspection"
+        description="Reflect on what these highlighted lives can teach you about courage, focus, justice, and purpose."
+        action={
+          progress.onboardingComplete
+            ? "Continue introspection"
+            : "Begin introspection"
+        }
+      />
+    </div>
+  );
+
   if (!progress.onboardingComplete) {
     return (
-      <Card className="space-y-4">
-        <h2 className="text-2xl font-semibold">Welcome to MindSpark</h2>
-        <p className="text-[var(--color-muted)]">
-          Take a short quiz to find your first learning path, or jump straight into
-          today&apos;s thought.
-        </p>
-        <div className="flex flex-wrap gap-3">
-          <Link href="/onboarding">
-            <Button>Start Quiz</Button>
-          </Link>
-          <Link href={`/thinkers/${thinker?.slug ?? "socrates"}/lessons/${dailySpark.lessonId}`}>
-            <Button variant="secondary">Start Thinking</Button>
-          </Link>
-        </div>
-      </Card>
+      <div className="space-y-6">
+        {modeTiles}
+        <Card className="space-y-4">
+          <h2 className="text-2xl font-semibold">Welcome to MindSpark</h2>
+          <p className="text-[var(--color-muted)]">
+            Start with quick Facts, or begin Introspection to find your first
+            learning path.
+          </p>
+        </Card>
+      </div>
     );
   }
 
@@ -77,6 +128,8 @@ export function HomeDashboard({
 
   return (
     <div className="space-y-6">
+      {modeTiles}
+
       <Card className="space-y-5">
         <div className="flex flex-col gap-6 sm:flex-row sm:items-center">
           {thinker && (
@@ -100,10 +153,10 @@ export function HomeDashboard({
               Think with {thinker?.name ?? "a great mind"} · {dailySpark.estimatedMinutes} min
             </p>
             <Link
-              href={`/thinkers/${thinker?.slug ?? "socrates"}/lessons/${dailySpark.lessonId}`}
+              href={dailyLessonHref}
               className="mt-5 inline-block"
             >
-              <Button>Start Thinking</Button>
+              <Button>Continue Introspection</Button>
             </Link>
           </div>
         </div>

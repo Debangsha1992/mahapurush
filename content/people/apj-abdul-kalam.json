@@ -1,0 +1,25 @@
+{
+  "id": "apj-abdul-kalam",
+  "slug": "apj-abdul-kalam",
+  "name": "A. P. J. Abdul Kalam",
+  "shortName": "Kalam",
+  "era": "1931-2015",
+  "region": "India",
+  "lifespan": "1931-2015",
+  "domains": ["aerospace", "public leadership", "education"],
+  "summary": "A. P. J. Abdul Kalam worked in Indian aerospace and later became a public educator and president of India.",
+  "knownFor": ["missile and space programs", "11th president of India", "youth education"],
+  "facts": [
+    {
+      "id": "apj-abdul-kalam-isro-slv",
+      "text": "Kalam was project director for India's first Satellite Launch Vehicle, SLV-3, which placed the Rohini satellite in orbit in 1980.",
+      "context": "The achievement shows how long technical programs depend on patient coordination, engineering discipline, and public purpose.",
+      "sourceTitle": "ISRO: SLV-3",
+      "sourceUrl": "https://www.isro.gov.in/SLV3.html",
+      "sourceAccessedAt": "2026-07-05",
+      "sourceDate": "1980-07-18",
+      "tags": ["space", "engineering"],
+      "verified": true
+    }
+  ]
+}

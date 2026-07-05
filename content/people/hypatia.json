@@ -1,0 +1,24 @@
+{
+  "id": "hypatia",
+  "slug": "hypatia",
+  "name": "Hypatia",
+  "shortName": "Hypatia",
+  "era": "c. 355-415",
+  "region": "Alexandria",
+  "lifespan": "c. 355-415",
+  "domains": ["mathematics", "philosophy", "astronomy"],
+  "summary": "Hypatia taught mathematics and philosophy in Alexandria and became a symbol of learning under pressure.",
+  "knownFor": ["Neoplatonic teaching", "mathematics", "Alexandrian scholarship"],
+  "facts": [
+    {
+      "id": "hypatia-alexandria-teacher",
+      "text": "Hypatia was a respected teacher of philosophy and mathematics in Alexandria during late antiquity.",
+      "context": "Her life helps learners think about intellectual courage, public teaching, and the vulnerability of knowledge in turbulent times.",
+      "sourceTitle": "Encyclopaedia Britannica: Hypatia",
+      "sourceUrl": "https://www.britannica.com/biography/Hypatia",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["philosophy", "mathematics"],
+      "verified": true
+    }
+  ]
+}

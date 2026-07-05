@@ -1,0 +1,25 @@
+{
+  "id": "tu-youyou",
+  "slug": "tu-youyou",
+  "name": "Tu Youyou",
+  "shortName": "Tu",
+  "era": "1930-present",
+  "region": "China",
+  "lifespan": "1930-present",
+  "domains": ["medicine", "pharmacology", "public health"],
+  "summary": "Tu Youyou helped discover artemisinin, a malaria treatment that has saved many lives.",
+  "knownFor": ["artemisinin", "malaria treatment", "Nobel Prize in Physiology or Medicine"],
+  "facts": [
+    {
+      "id": "tu-youyou-artemisinin",
+      "text": "Tu Youyou received the 2015 Nobel Prize in Physiology or Medicine for discoveries concerning artemisinin, a therapy for malaria.",
+      "context": "Her work shows how medical progress can emerge from combining careful research with knowledge from older traditions.",
+      "sourceTitle": "Nobel Prize: Tu Youyou Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/medicine/2015/tu/facts/",
+      "sourceAccessedAt": "2026-07-05",
+      "sourceDate": "2015-10-05",
+      "tags": ["medicine", "science"],
+      "verified": true
+    }
+  ]
+}

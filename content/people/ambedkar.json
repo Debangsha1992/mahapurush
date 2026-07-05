@@ -1,0 +1,25 @@
+{
+  "id": "ambedkar",
+  "slug": "ambedkar",
+  "name": "B. R. Ambedkar",
+  "shortName": "Ambedkar",
+  "era": "1891-1956",
+  "region": "India",
+  "lifespan": "1891-1956",
+  "domains": ["law", "social reform", "politics"],
+  "summary": "B. R. Ambedkar fought caste discrimination and helped shape India's constitutional democracy.",
+  "knownFor": ["drafting leadership for India's Constitution", "Dalit rights", "social justice"],
+  "thinkerId": "ambedkar",
+  "facts": [
+    {
+      "id": "ambedkar-constitution-role",
+      "text": "Ambedkar chaired the Drafting Committee of India's Constituent Assembly.",
+      "context": "His legal and social reform work shows how ideas about dignity can become institutions, rights, and public duties.",
+      "sourceTitle": "Parliament of India: Dr. B. R. Ambedkar",
+      "sourceUrl": "https://sansad.in/ls/about/ambedkar",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["law", "justice", "politics"],
+      "verified": true
+    }
+  ]
+}

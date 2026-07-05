@@ -1,0 +1,24 @@
+{
+  "id": "ada-lovelace",
+  "slug": "ada-lovelace",
+  "name": "Ada Lovelace",
+  "shortName": "Lovelace",
+  "era": "1815-1852",
+  "region": "United Kingdom",
+  "lifespan": "1815-1852",
+  "domains": ["mathematics", "computing"],
+  "summary": "Ada Lovelace imagined that computing machines could manipulate symbols, not just numbers.",
+  "knownFor": ["notes on the Analytical Engine", "early computing imagination"],
+  "facts": [
+    {
+      "id": "ada-lovelace-analytical-engine",
+      "text": "Lovelace wrote notes on Charles Babbage's Analytical Engine that included a method for computing Bernoulli numbers.",
+      "context": "Her work matters because she saw a machine as a general symbol-processing tool before modern computers existed.",
+      "sourceTitle": "Computer History Museum: Ada Lovelace",
+      "sourceUrl": "https://www.computerhistory.org/babbage/adalovelace/",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["computing", "mathematics"],
+      "verified": true
+    }
+  ]
+}
