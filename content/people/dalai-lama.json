@@ -1,0 +1,26 @@
+{
+  "id": "dalai-lama",
+  "slug": "dalai-lama",
+  "name": "Tenzin Gyatso, the 14th Dalai Lama",
+  "shortName": "Dalai Lama",
+  "era": "1935-present",
+  "region": "Tibet, India",
+  "lifespan": "1935-present",
+  "domains": ["religion", "ethics", "peace advocacy"],
+  "summary": "The 14th Dalai Lama is a Tibetan Buddhist leader known for teachings on compassion and nonviolence.",
+  "knownFor": ["Tibetan Buddhism", "compassion teachings", "Nobel Peace Prize"],
+  "sensitiveContextNote": "Discuss with care around Tibetan history, exile, religion, and politics.",
+  "facts": [
+    {
+      "id": "dalai-lama-nobel-peace",
+      "text": "The 14th Dalai Lama received the Nobel Peace Prize in 1989.",
+      "context": "His public teaching emphasizes compassion and nonviolence as personal practices and public responsibilities.",
+      "sourceTitle": "Nobel Prize: The 14th Dalai Lama Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1989/lama/facts/",
+      "sourceAccessedAt": "2026-07-05",
+      "sourceDate": "1989-10-05",
+      "tags": ["religion", "peace"],
+      "verified": true
+    }
+  ]
+}

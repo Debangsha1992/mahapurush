@@ -1,0 +1,24 @@
+{
+  "id": "rosalind-franklin",
+  "slug": "rosalind-franklin",
+  "name": "Rosalind Franklin",
+  "shortName": "Franklin",
+  "era": "1920-1958",
+  "region": "United Kingdom",
+  "lifespan": "1920-1958",
+  "domains": ["chemistry", "biology", "x-ray crystallography"],
+  "summary": "Rosalind Franklin produced crucial experimental work that helped reveal the structure of DNA.",
+  "knownFor": ["DNA x-ray diffraction", "Photo 51", "molecular biology"],
+  "facts": [
+    {
+      "id": "rosalind-franklin-photo-51",
+      "text": "Franklin's x-ray diffraction image known as Photo 51 provided important evidence for DNA's helical structure.",
+      "context": "Her contribution reminds learners that careful experimental evidence can shape breakthroughs even when recognition is delayed.",
+      "sourceTitle": "Nature Education: Rosalind Franklin and Photo 51",
+      "sourceUrl": "https://www.nature.com/scitable/topicpage/rosalind-franklin-a-crucial-contribution-6538012/",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["science", "biology"],
+      "verified": true
+    }
+  ]
+}

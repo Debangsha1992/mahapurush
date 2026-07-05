@@ -4,14 +4,17 @@ import {
   dailySparkSchema,
   lifeStorySchema,
   lessonSchema,
+  notablePersonSchema,
   pathSchema,
   quoteCardSchema,
   thinkerSchema,
   weeklyChallengeSchema,
   type DailySpark,
+  type FactWithPerson,
   type LearningPath,
   type Lesson,
   type LifeStory,
+  type NotablePerson,
   type QuoteCard,
   type Thinker,
   type WeeklyChallenge,
@@ -55,6 +58,48 @@ export function getAllThinkers(): Thinker[] {
 
 export function getThinkerBySlug(slug: string): Thinker | undefined {
   return getAllThinkers().find((thinker) => thinker.slug === slug);
+}
+
+export function getAllPeople(): NotablePerson[] {
+  return readJsonFiles(
+    path.join(contentRoot, "people"),
+    notablePersonSchema,
+  ).sort((a, b) => a.name.localeCompare(b.name));
+}
+
+export function getPersonBySlug(slug: string): NotablePerson | undefined {
+  return getAllPeople().find((person) => person.slug === slug);
+}
+
+export function getAllFacts(): FactWithPerson[] {
+  const thinkerSlugById = new Map(
+    getAllThinkers().map((thinker) => [thinker.id, thinker.slug]),
+  );
+
+  return getAllPeople().flatMap((person) => {
+    const { facts, ...personSummary } = person;
+    return facts.map((fact) => ({
+      ...fact,
+      person: personSummary,
+      thinkerSlug: person.thinkerId
+        ? thinkerSlugById.get(person.thinkerId)
+        : undefined,
+    }));
+  });
+}
+
+export function getFactForDate(date = new Date()): FactWithPerson {
+  const facts = getAllFacts().filter((fact) => fact.verified);
+  if (facts.length === 0) {
+    throw new Error("No verified facts configured");
+  }
+
+  const dayIndex = Math.floor(
+    Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()) /
+      86_400_000,
+  );
+
+  return facts[dayIndex % facts.length];
 }
 
 export function getLessonsForThinker(thinkerId: string): Lesson[] {
@@ -151,6 +196,22 @@ export function getAllWeeklyChallenges(): WeeklyChallenge[] {
   );
 }
 
+function ensureUnique(values: string[], label: string): void {
+  const seen = new Set<string>();
+  for (const value of values) {
+    if (seen.has(value)) {
+      throw new Error(`Duplicate ${label}: ${value}`);
+    }
+    seen.add(value);
+  }
+}
+
+function ensureDateLike(value: string, label: string): void {
+  if (Number.isNaN(Date.parse(value))) {
+    throw new Error(`${label} is not a valid date: ${value}`);
+  }
+}
+
 export function validateAllContent(): void {
   const thinkers = getAllThinkers();
   const thinkerIds = new Set(thinkers.map((thinker) => thinker.id));
@@ -190,6 +251,58 @@ export function validateAllContent(): void {
   for (const quote of getAllQuoteCards()) {
     if (!thinkerIds.has(quote.thinkerId)) {
       throw new Error(`Quote ${quote.id} references unknown thinker`);
+    }
+  }
+
+  const people = getAllPeople();
+  ensureUnique(
+    people.map((person) => person.id),
+    "person id",
+  );
+  ensureUnique(
+    people.map((person) => person.slug),
+    "person slug",
+  );
+  ensureUnique(
+    people.map((person) => person.name.toLowerCase()),
+    "person name",
+  );
+
+  const factIds = new Set<string>();
+  for (const person of people) {
+    if (person.thinkerId && !thinkerIds.has(person.thinkerId)) {
+      throw new Error(
+        `Person ${person.id} references unknown thinker ${person.thinkerId}`,
+      );
+    }
+
+    for (const fact of person.facts) {
+      if (factIds.has(fact.id)) {
+        throw new Error(`Duplicate fact id: ${fact.id}`);
+      }
+      factIds.add(fact.id);
+
+      if (fact.verified) {
+        if (!fact.sourceTitle || !fact.sourceUrl || !fact.sourceAccessedAt) {
+          throw new Error(`Verified fact ${fact.id} is missing source metadata`);
+        }
+      }
+
+      ensureDateLike(fact.sourceAccessedAt, `Fact ${fact.id} sourceAccessedAt`);
+      if (fact.sourceDate) {
+        ensureDateLike(fact.sourceDate, `Fact ${fact.id} sourceDate`);
+      }
+      if (fact.currentAsOf) {
+        ensureDateLike(fact.currentAsOf, `Fact ${fact.id} currentAsOf`);
+      }
+
+      const changingClaimTags = new Set(["current", "first"]);
+      if (
+        fact.tags.some((tag) => changingClaimTags.has(tag)) &&
+        !fact.currentAsOf
+      ) {
+        throw new Error(`Fact ${fact.id} needs currentAsOf for changing claims`);
+      }
     }
   }
 }

@@ -1,0 +1,25 @@
+{
+  "id": "marie-curie",
+  "slug": "marie-curie",
+  "name": "Marie Curie",
+  "shortName": "Curie",
+  "era": "1867-1934",
+  "region": "Poland, France",
+  "lifespan": "1867-1934",
+  "domains": ["physics", "chemistry", "medicine"],
+  "summary": "Marie Curie changed science through her research on radioactivity and helped apply science to medicine.",
+  "knownFor": ["radioactivity", "polonium and radium", "two Nobel Prizes"],
+  "facts": [
+    {
+      "id": "marie-curie-two-nobels",
+      "text": "Marie Curie is the only person awarded Nobel Prizes in two different scientific fields: Physics and Chemistry.",
+      "context": "Her career shows how deep curiosity can cross disciplinary borders and create new tools for understanding nature.",
+      "sourceTitle": "Nobel Prize: Marie Curie Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+      "sourceAccessedAt": "2026-07-05",
+      "currentAsOf": "1911-12-10",
+      "tags": ["science", "first"],
+      "verified": true
+    }
+  ]
+}

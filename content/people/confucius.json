@@ -1,0 +1,24 @@
+{
+  "id": "confucius",
+  "slug": "confucius",
+  "name": "Confucius",
+  "shortName": "Confucius",
+  "era": "551-479 BCE",
+  "region": "China",
+  "lifespan": "551-479 BCE",
+  "domains": ["philosophy", "ethics", "education"],
+  "summary": "Confucius shaped traditions of moral education, public conduct, and social responsibility in East Asia.",
+  "knownFor": ["Analects", "ethical cultivation", "social harmony"],
+  "facts": [
+    {
+      "id": "confucius-analects",
+      "text": "The Analects, a central source for Confucius's ideas, was compiled by his followers after his death.",
+      "context": "The text shows how a teacher's influence can become a shared tradition through memory, dialogue, and interpretation.",
+      "sourceTitle": "Stanford Encyclopedia of Philosophy: Confucius",
+      "sourceUrl": "https://plato.stanford.edu/entries/confucius/",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["philosophy", "education"],
+      "verified": true
+    }
+  ]
+}

@@ -7,6 +7,19 @@ export const categorySchema = z.enum(CATEGORIES);
 export const skillSchema = z.enum(SKILLS);
 export const badgeSchema = z.enum(BADGES);
 
+const httpsUrlSchema = z
+  .string()
+  .url()
+  .refine((url) => {
+    try {
+      return new URL(url).protocol === "https:";
+    } catch {
+      return false;
+    }
+  }, {
+    message: "URL must use HTTPS",
+  });
+
 export const lessonLayerSchema = z.object({
   hook: z.string().min(1),
   story: z.string().min(1),
@@ -88,6 +101,35 @@ export const thinkerSchema = z.object({
   summary: z.string().min(1),
 });
 
+export const factSchema = z.object({
+  id: z.string().min(1),
+  text: z.string().min(20).max(280),
+  context: z.string().min(40).max(600),
+  sourceTitle: z.string().min(1),
+  sourceUrl: httpsUrlSchema,
+  sourceAccessedAt: z.string().min(1),
+  sourceDate: z.string().min(1).optional(),
+  currentAsOf: z.string().min(1).optional(),
+  tags: z.array(z.string().min(1)).min(1),
+  verified: z.boolean(),
+});
+
+export const notablePersonSchema = z.object({
+  id: z.string().min(1),
+  slug: z.string().min(1),
+  name: z.string().min(1),
+  shortName: z.string().min(1),
+  era: z.string().min(1),
+  region: z.string().min(1),
+  lifespan: z.string().min(1).optional(),
+  domains: z.array(z.string().min(1)).min(1),
+  summary: z.string().min(1),
+  knownFor: z.array(z.string().min(1)).min(1),
+  thinkerId: z.string().min(1).optional(),
+  sensitiveContextNote: z.string().min(1).optional(),
+  facts: z.array(factSchema).min(1),
+});
+
 export const pathSchema = z.object({
   id: z.string().min(1),
   slug: z.string().min(1),
@@ -154,6 +196,12 @@ export const progressSchema = z.object({
 export type LifeStoryPage = z.infer<typeof lifeStoryPageSchema>;
 export type LifeStory = z.infer<typeof lifeStorySchema>;
 export type Thinker = z.infer<typeof thinkerSchema>;
+export type Fact = z.infer<typeof factSchema>;
+export type NotablePerson = z.infer<typeof notablePersonSchema>;
+export type FactWithPerson = Fact & {
+  person: Omit<NotablePerson, "facts">;
+  thinkerSlug?: string;
+};
 
 export const LIFE_STORY_PAGE_COUNT = 8;
 export type Lesson = z.infer<typeof lessonSchema>;

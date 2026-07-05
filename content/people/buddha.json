@@ -1,0 +1,25 @@
+{
+  "id": "buddha",
+  "slug": "buddha",
+  "name": "Buddha",
+  "shortName": "Buddha",
+  "era": "563-483 BCE",
+  "region": "Ancient India",
+  "lifespan": "563-483 BCE",
+  "domains": ["religion", "philosophy", "ethics"],
+  "summary": "Buddha taught a path of attention, discipline, and compassion in response to suffering.",
+  "knownFor": ["Four Noble Truths", "Middle Way", "mindfulness"],
+  "thinkerId": "buddha",
+  "facts": [
+    {
+      "id": "buddha-middle-way",
+      "text": "Buddhist tradition describes the Buddha's teaching as a Middle Way between indulgence and severe self-denial.",
+      "context": "The idea matters because it frames wisdom as a practiced balance rather than an extreme position.",
+      "sourceTitle": "Encyclopaedia Britannica: Buddha",
+      "sourceUrl": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism",
+      "sourceAccessedAt": "2026-07-05",
+      "tags": ["religion", "philosophy"],
+      "verified": true
+    }
+  ]
+}

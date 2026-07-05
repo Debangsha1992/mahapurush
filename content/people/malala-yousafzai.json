@@ -1,0 +1,26 @@
+{
+  "id": "malala-yousafzai",
+  "slug": "malala-yousafzai",
+  "name": "Malala Yousafzai",
+  "shortName": "Malala",
+  "era": "1997-present",
+  "region": "Pakistan, United Kingdom",
+  "lifespan": "1997-present",
+  "domains": ["education", "human rights", "advocacy"],
+  "summary": "Malala Yousafzai advocates for girls' education and the right to learn.",
+  "knownFor": ["girls' education advocacy", "Nobel Peace Prize", "Malala Fund"],
+  "facts": [
+    {
+      "id": "malala-youngest-nobel",
+      "text": "Malala Yousafzai became the youngest Nobel Peace Prize laureate in 2014.",
+      "context": "Her advocacy shows how a young person's voice can change global conversations about education and safety.",
+      "sourceTitle": "Nobel Prize: Malala Yousafzai Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/",
+      "sourceAccessedAt": "2026-07-05",
+      "sourceDate": "2014-10-10",
+      "currentAsOf": "2014-10-10",
+      "tags": ["education", "first"],
+      "verified": true
+    }
+  ]
+}

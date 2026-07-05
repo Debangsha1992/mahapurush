@@ -1,0 +1,25 @@
+{
+  "id": "martin-luther-king-jr",
+  "slug": "martin-luther-king-jr",
+  "name": "Martin Luther King Jr.",
+  "shortName": "King",
+  "era": "1929-1968",
+  "region": "United States",
+  "lifespan": "1929-1968",
+  "domains": ["civil rights", "religion", "public speaking"],
+  "summary": "Martin Luther King Jr. helped lead nonviolent civil rights campaigns against racial segregation and injustice.",
+  "knownFor": ["civil rights movement", "nonviolent protest", "I Have a Dream speech"],
+  "facts": [
+    {
+      "id": "mlk-nobel-peace-prize",
+      "text": "King received the Nobel Peace Prize in 1964 for his nonviolent struggle for civil rights.",
+      "context": "His public life shows how disciplined nonviolence can turn moral argument into organized social pressure.",
+      "sourceTitle": "Nobel Prize: Martin Luther King Jr. Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
+      "sourceAccessedAt": "2026-07-05",
+      "sourceDate": "1964-10-14",
+      "tags": ["civil-rights", "peace"],
+      "verified": true
+    }
+  ]
+}

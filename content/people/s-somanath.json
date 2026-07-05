@@ -1,0 +1,25 @@
+{
+  "id": "s-somanath",
+  "slug": "s-somanath",
+  "name": "S. Somanath",
+  "shortName": "Somanath",
+  "era": "1963-present",
+  "region": "India",
+  "lifespan": "1963-present",
+  "domains": ["space science", "engineering", "public leadership"],
+  "summary": "S. Somanath is an Indian aerospace engineer associated with major launch vehicle and lunar mission work.",
+  "knownFor": ["ISRO leadership", "launch vehicle engineering", "Chandrayaan-3 era"],
+  "facts": [
+    {
+      "id": "s-somanath-chandrayaan-3",
+      "text": "Somanath was chairman of ISRO when Chandrayaan-3 achieved a successful soft landing near the Moon's south polar region in 2023.",
+      "context": "The mission is a useful example of how technical leadership, team learning, and repeated attempts can turn failure into progress.",
+      "sourceTitle": "ISRO: Chandrayaan-3 Mission",
+      "sourceUrl": "https://www.isro.gov.in/Chandrayaan3.html",
+      "sourceAccessedAt": "2026-07-05",
+      "sourceDate": "2023-08-23",
+      "tags": ["space", "engineering"],
+      "verified": true
+    }
+  ]
+}

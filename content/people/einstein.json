@@ -1,0 +1,26 @@
+{
+  "id": "einstein",
+  "slug": "einstein",
+  "name": "Albert Einstein",
+  "shortName": "Einstein",
+  "era": "1879-1955",
+  "region": "Germany, Switzerland, United States",
+  "lifespan": "1879-1955",
+  "domains": ["physics", "science", "public thought"],
+  "summary": "Albert Einstein transformed physics and became a public voice for imagination, peace, and responsibility.",
+  "knownFor": ["relativity", "photoelectric effect", "scientific imagination"],
+  "thinkerId": "einstein",
+  "facts": [
+    {
+      "id": "einstein-nobel-photoelectric",
+      "text": "Einstein received the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect, not for relativity.",
+      "context": "The detail is a reminder that public fame and formal recognition do not always point to the same part of a person's work.",
+      "sourceTitle": "Nobel Prize: Albert Einstein Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+      "sourceAccessedAt": "2026-07-05",
+      "sourceDate": "1922-11-09",
+      "tags": ["science", "physics"],
+      "verified": true
+    }
+  ]
+}

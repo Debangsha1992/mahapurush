@@ -1,0 +1,27 @@
+{
+  "id": "nelson-mandela",
+  "slug": "nelson-mandela",
+  "name": "Nelson Mandela",
+  "shortName": "Mandela",
+  "era": "1918-2013",
+  "region": "South Africa",
+  "lifespan": "1918-2013",
+  "domains": ["politics", "civil rights", "reconciliation"],
+  "summary": "Nelson Mandela became a central figure in South Africa's struggle against apartheid and its transition to democracy.",
+  "knownFor": ["anti-apartheid leadership", "South African presidency", "reconciliation"],
+  "sensitiveContextNote": "Discuss Mandela with historical context, including apartheid, imprisonment, political struggle, and reconciliation.",
+  "facts": [
+    {
+      "id": "nelson-mandela-1994-election",
+      "text": "Mandela became South Africa's first democratically elected president in 1994.",
+      "context": "His election marked a turning point from apartheid toward a constitutional democracy with broader political participation.",
+      "sourceTitle": "Nelson Mandela Foundation: Biography",
+      "sourceUrl": "https://www.nelsonmandela.org/content/page/biography",
+      "sourceAccessedAt": "2026-07-05",
+      "sourceDate": "1994-05-10",
+      "currentAsOf": "1994-05-10",
+      "tags": ["politics", "first"],
+      "verified": true
+    }
+  ]
+}
