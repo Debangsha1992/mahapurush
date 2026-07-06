@@ -1,0 +1,47 @@
+{
+  "id": "mata-hari",
+  "slug": "mata-hari",
+  "name": "Mata Hari",
+  "shortName": "Hari",
+  "era": "1876-1917",
+  "region": "Netherlands",
+  "regionId": "europe",
+  "lifespan": "1876-1917",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "dancer"
+  ],
+  "summary": "Mata Hari is a notable dancer associated with Netherlands.",
+  "knownFor": [
+    "Dancer",
+    "78 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mata Hari",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mata Hari",
+      "url": "https://pantheon.world/profile/person/Mata_Hari",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mata-hari-pantheon-profile",
+      "text": "Pantheon ranks Mata Hari as a globally documented dancer with biographies in 78 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mata Hari a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mata Hari",
+      "sourceUrl": "https://pantheon.world/profile/person/Mata_Hari",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

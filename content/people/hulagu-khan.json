@@ -1,0 +1,48 @@
+{
+  "id": "hulagu-khan",
+  "slug": "hulagu-khan",
+  "name": "Hulagu Khan",
+  "shortName": "Khan",
+  "era": "1217-1265",
+  "region": "Mongolia",
+  "regionId": "east-asia",
+  "lifespan": "1217-1265",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Hulagu Khan is a notable politician associated with Mongolia.",
+  "knownFor": [
+    "Politician",
+    "76 language biography editions",
+    "Historical Popularity Index 84.7"
+  ],
+  "featured": true,
+  "featuredRank": 466,
+  "imageAlt": "Portrait-style visual for Hulagu Khan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hulagu Khan",
+      "url": "https://pantheon.world/profile/person/Hulagu_Khan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hulagu-khan-pantheon-profile",
+      "text": "Pantheon ranks Hulagu Khan as a globally documented politician with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hulagu Khan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hulagu Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/Hulagu_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

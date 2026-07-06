@@ -1,0 +1,47 @@
+{
+  "id": "wallis-simpson",
+  "slug": "wallis-simpson",
+  "name": "Wallis Simpson",
+  "shortName": "Simpson",
+  "era": "1896-1986",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1896-1986",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "celebrity"
+  ],
+  "summary": "Wallis Simpson is a notable celebrity associated with United States.",
+  "knownFor": [
+    "Celebrity",
+    "60 language biography editions",
+    "Historical Popularity Index 83.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Wallis Simpson",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Wallis Simpson",
+      "url": "https://pantheon.world/profile/person/Wallis_Simpson",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "wallis-simpson-pantheon-profile",
+      "text": "Pantheon ranks Wallis Simpson as a globally documented celebrity with biographies in 60 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Wallis Simpson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Wallis Simpson",
+      "sourceUrl": "https://pantheon.world/profile/person/Wallis_Simpson",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

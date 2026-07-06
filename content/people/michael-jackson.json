@@ -1,0 +1,48 @@
+{
+  "id": "michael-jackson",
+  "slug": "michael-jackson",
+  "name": "Michael Jackson",
+  "shortName": "Jackson",
+  "era": "1958-2009",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1958-2009",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "musician"
+  ],
+  "summary": "Michael Jackson is a notable musician associated with United States.",
+  "knownFor": [
+    "Musician",
+    "279 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 433,
+  "imageAlt": "Portrait-style visual for Michael Jackson",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Michael Jackson",
+      "url": "https://pantheon.world/profile/person/Michael_Jackson",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "michael-jackson-pantheon-profile",
+      "text": "Pantheon ranks Michael Jackson as a globally documented musician with biographies in 279 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Michael Jackson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Michael Jackson",
+      "sourceUrl": "https://pantheon.world/profile/person/Michael_Jackson",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

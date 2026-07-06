@@ -1,0 +1,48 @@
+{
+  "id": "brutus-the-younger",
+  "slug": "brutus-the-younger",
+  "name": "Brutus the Younger",
+  "shortName": "Younger",
+  "era": "-85--42",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-85--42",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Brutus the Younger is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "63 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 409,
+  "imageAlt": "Portrait-style visual for Brutus the Younger",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Brutus the Younger",
+      "url": "https://pantheon.world/profile/person/Brutus_the_Younger",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "brutus-the-younger-pantheon-profile",
+      "text": "Pantheon ranks Brutus the Younger as a globally documented politician with biographies in 63 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Brutus the Younger a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Brutus the Younger",
+      "sourceUrl": "https://pantheon.world/profile/person/Brutus_the_Younger",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

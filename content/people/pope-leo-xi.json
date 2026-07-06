@@ -1,0 +1,47 @@
+{
+  "id": "pope-leo-xi",
+  "slug": "pope-leo-xi",
+  "name": "Pope Leo XI",
+  "shortName": "XI",
+  "era": "1535-1605",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1535-1605",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Leo XI is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "79 language biography editions",
+    "Historical Popularity Index 84.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Leo XI",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Leo XI",
+      "url": "https://pantheon.world/profile/person/Pope_Leo_XI",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-leo-xi-pantheon-profile",
+      "text": "Pantheon ranks Pope Leo XI as a globally documented religious figure with biographies in 79 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Leo XI a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Leo XI",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Leo_XI",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

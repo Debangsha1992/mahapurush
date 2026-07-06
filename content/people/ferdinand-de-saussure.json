@@ -1,0 +1,47 @@
+{
+  "id": "ferdinand-de-saussure",
+  "slug": "ferdinand-de-saussure",
+  "name": "Ferdinand de Saussure",
+  "shortName": "Saussure",
+  "era": "1857-1913",
+  "region": "Switzerland",
+  "regionId": "europe",
+  "lifespan": "1857-1913",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "linguist"
+  ],
+  "summary": "Ferdinand de Saussure is a notable linguist associated with Switzerland.",
+  "knownFor": [
+    "Linguist",
+    "94 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ferdinand de Saussure",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ferdinand de Saussure",
+      "url": "https://pantheon.world/profile/person/Ferdinand_de_Saussure",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ferdinand-de-saussure-pantheon-profile",
+      "text": "Pantheon ranks Ferdinand de Saussure as a globally documented linguist with biographies in 94 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ferdinand de Saussure a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ferdinand de Saussure",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_de_Saussure",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

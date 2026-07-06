@@ -1,0 +1,48 @@
+{
+  "id": "max-planck",
+  "slug": "max-planck",
+  "name": "Max Planck",
+  "shortName": "Planck",
+  "era": "1858-1947",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1858-1947",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Max Planck is a notable physicist associated with Germany.",
+  "knownFor": [
+    "Physicist",
+    "147 language biography editions",
+    "Historical Popularity Index 85.4"
+  ],
+  "featured": true,
+  "featuredRank": 401,
+  "imageAlt": "Portrait-style visual for Max Planck",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Max Planck",
+      "url": "https://pantheon.world/profile/person/Max_Planck",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "max-planck-pantheon-profile",
+      "text": "Pantheon ranks Max Planck as a globally documented physicist with biographies in 147 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Max Planck a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Max Planck",
+      "sourceUrl": "https://pantheon.world/profile/person/Max_Planck",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

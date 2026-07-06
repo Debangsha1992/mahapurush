@@ -1,0 +1,48 @@
+{
+  "id": "marilyn-monroe",
+  "slug": "marilyn-monroe",
+  "name": "Marilyn Monroe",
+  "shortName": "Monroe",
+  "era": "1926-1962",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1926-1962",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Marilyn Monroe is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "195 language biography editions",
+    "Historical Popularity Index 88.6"
+  ],
+  "featured": true,
+  "featuredRank": 192,
+  "imageAlt": "Portrait-style visual for Marilyn Monroe",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Marilyn Monroe",
+      "url": "https://pantheon.world/profile/person/Marilyn_Monroe",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "marilyn-monroe-pantheon-profile",
+      "text": "Pantheon ranks Marilyn Monroe as a globally documented actor with biographies in 195 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Marilyn Monroe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Marilyn Monroe",
+      "sourceUrl": "https://pantheon.world/profile/person/Marilyn_Monroe",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

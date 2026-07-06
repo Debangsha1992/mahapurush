@@ -1,0 +1,47 @@
+{
+  "id": "richard-burton",
+  "slug": "richard-burton",
+  "name": "Richard Burton",
+  "shortName": "Burton",
+  "era": "1925-1984",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1925-1984",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Richard Burton is a notable actor associated with United Kingdom.",
+  "knownFor": [
+    "Actor",
+    "74 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Richard Burton",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Richard Burton",
+      "url": "https://pantheon.world/profile/person/Richard_Burton",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "richard-burton-pantheon-profile",
+      "text": "Pantheon ranks Richard Burton as a globally documented actor with biographies in 74 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Richard Burton a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Richard Burton",
+      "sourceUrl": "https://pantheon.world/profile/person/Richard_Burton",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "jimmy-carter",
+  "slug": "jimmy-carter",
+  "name": "Jimmy Carter",
+  "shortName": "Carter",
+  "era": "1924-2024",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1924-2024",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Jimmy Carter is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "164 language biography editions",
+    "Historical Popularity Index 93.9"
+  ],
+  "featured": true,
+  "featuredRank": 54,
+  "imageAlt": "Portrait-style visual for Jimmy Carter",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jimmy Carter",
+      "url": "https://pantheon.world/profile/person/Jimmy_Carter",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jimmy-carter-pantheon-profile",
+      "text": "Pantheon ranks Jimmy Carter as a globally documented politician with biographies in 164 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jimmy Carter a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jimmy Carter",
+      "sourceUrl": "https://pantheon.world/profile/person/Jimmy_Carter",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

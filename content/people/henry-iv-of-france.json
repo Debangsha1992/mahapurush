@@ -1,0 +1,48 @@
+{
+  "id": "henry-iv-of-france",
+  "slug": "henry-iv-of-france",
+  "name": "Henry IV of France",
+  "shortName": "France",
+  "era": "1553-1610",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1553-1610",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Henry IV of France is a notable politician associated with France.",
+  "knownFor": [
+    "Politician",
+    "85 language biography editions",
+    "Historical Popularity Index 84.4"
+  ],
+  "featured": true,
+  "featuredRank": 500,
+  "imageAlt": "Portrait-style visual for Henry IV of France",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Henry IV of France",
+      "url": "https://pantheon.world/profile/person/Henry_IV_of_France",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "henry-iv-of-france-pantheon-profile",
+      "text": "Pantheon ranks Henry IV of France as a globally documented politician with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Henry IV of France a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Henry IV of France",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_IV_of_France",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "napoleon",
+  "slug": "napoleon",
+  "name": "Napoleon",
+  "shortName": "Napoleon",
+  "era": "1769-1821",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1769-1821",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Napoleon is a notable politician associated with France.",
+  "knownFor": [
+    "Politician",
+    "214 language biography editions",
+    "Historical Popularity Index 95.3"
+  ],
+  "featured": true,
+  "featuredRank": 49,
+  "imageAlt": "Portrait-style visual for Napoleon",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Napoleon",
+      "url": "https://pantheon.world/profile/person/Napoleon",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "napoleon-pantheon-profile",
+      "text": "Pantheon ranks Napoleon as a globally documented politician with biographies in 214 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Napoleon a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Napoleon",
+      "sourceUrl": "https://pantheon.world/profile/person/Napoleon",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

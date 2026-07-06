@@ -1,0 +1,47 @@
+{
+  "id": "theodosius-i",
+  "slug": "theodosius-i",
+  "name": "Theodosius I",
+  "shortName": "I",
+  "era": "340-395",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "340-395",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Theodosius I is a notable politician associated with Spain.",
+  "knownFor": [
+    "Politician",
+    "86 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Theodosius I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Theodosius I",
+      "url": "https://pantheon.world/profile/person/Theodosius_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "theodosius-i-pantheon-profile",
+      "text": "Pantheon ranks Theodosius I as a globally documented politician with biographies in 86 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Theodosius I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Theodosius I",
+      "sourceUrl": "https://pantheon.world/profile/person/Theodosius_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

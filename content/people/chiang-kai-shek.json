@@ -1,0 +1,48 @@
+{
+  "id": "chiang-kai-shek",
+  "slug": "chiang-kai-shek",
+  "name": "Chiang Kai-shek",
+  "shortName": "Kai-shek",
+  "era": "1887-1975",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "1887-1975",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Chiang Kai-shek is a notable military personnel associated with China.",
+  "knownFor": [
+    "Military Personnel",
+    "123 language biography editions",
+    "Historical Popularity Index 86.3"
+  ],
+  "featured": true,
+  "featuredRank": 333,
+  "imageAlt": "Portrait-style visual for Chiang Kai-shek",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Chiang Kai-shek",
+      "url": "https://pantheon.world/profile/person/Chiang_Kai-shek",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "chiang-kai-shek-pantheon-profile",
+      "text": "Pantheon ranks Chiang Kai-shek as a globally documented military personnel with biographies in 123 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Chiang Kai-shek a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Chiang Kai-shek",
+      "sourceUrl": "https://pantheon.world/profile/person/Chiang_Kai-shek",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

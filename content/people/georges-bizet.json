@@ -1,0 +1,47 @@
+{
+  "id": "georges-bizet",
+  "slug": "georges-bizet",
+  "name": "Georges Bizet",
+  "shortName": "Bizet",
+  "era": "1838-1875",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1838-1875",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Georges Bizet is a notable composer associated with France.",
+  "knownFor": [
+    "Composer",
+    "87 language biography editions",
+    "Historical Popularity Index 83.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Georges Bizet",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Georges Bizet",
+      "url": "https://pantheon.world/profile/person/Georges_Bizet",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "georges-bizet-pantheon-profile",
+      "text": "Pantheon ranks Georges Bizet as a globally documented composer with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Georges Bizet a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Georges Bizet",
+      "sourceUrl": "https://pantheon.world/profile/person/Georges_Bizet",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

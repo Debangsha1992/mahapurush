@@ -1,0 +1,48 @@
+{
+  "id": "edward-iv-of-england",
+  "slug": "edward-iv-of-england",
+  "name": "Edward IV of England",
+  "shortName": "England",
+  "era": "1442-1483",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1442-1483",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Edward IV of England is a notable politician associated with France.",
+  "knownFor": [
+    "Politician",
+    "74 language biography editions",
+    "Historical Popularity Index 86.9"
+  ],
+  "featured": true,
+  "featuredRank": 280,
+  "imageAlt": "Portrait-style visual for Edward IV of England",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edward IV of England",
+      "url": "https://pantheon.world/profile/person/Edward_IV_of_England",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edward-iv-of-england-pantheon-profile",
+      "text": "Pantheon ranks Edward IV of England as a globally documented politician with biographies in 74 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward IV of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edward IV of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_IV_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

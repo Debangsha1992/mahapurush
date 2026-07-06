@@ -1,0 +1,47 @@
+{
+  "id": "robert-hooke",
+  "slug": "robert-hooke",
+  "name": "Robert Hooke",
+  "shortName": "Hooke",
+  "era": "1635-1703",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1635-1703",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Robert Hooke is a notable physicist associated with United Kingdom.",
+  "knownFor": [
+    "Physicist",
+    "95 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Robert Hooke",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Robert Hooke",
+      "url": "https://pantheon.world/profile/person/Robert_Hooke",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "robert-hooke-pantheon-profile",
+      "text": "Pantheon ranks Robert Hooke as a globally documented physicist with biographies in 95 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Robert Hooke a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Robert Hooke",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Hooke",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

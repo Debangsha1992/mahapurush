@@ -6,9 +6,15 @@
   "era": "1918-2013",
   "region": "South Africa",
   "lifespan": "1918-2013",
-  "domains": ["politics", "civil rights", "reconciliation"],
+  "domains": [
+    "justice-governance-leadership"
+  ],
   "summary": "Nelson Mandela became a central figure in South Africa's struggle against apartheid and its transition to democracy.",
-  "knownFor": ["anti-apartheid leadership", "South African presidency", "reconciliation"],
+  "knownFor": [
+    "anti-apartheid leadership",
+    "South African presidency",
+    "reconciliation"
+  ],
   "sensitiveContextNote": "Discuss Mandela with historical context, including apartheid, imprisonment, political struggle, and reconciliation.",
   "facts": [
     {
@@ -20,8 +26,24 @@
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "1994-05-10",
       "currentAsOf": "1994-05-10",
-      "tags": ["politics", "first"],
+      "tags": [
+        "politics",
+        "first"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "africa",
+  "primaryDomain": "justice-governance-leadership",
+  "featured": true,
+  "imageAlt": "Portrait-style visual for Nelson Mandela",
+  "sourceRefs": [
+    {
+      "title": "Nelson Mandela Foundation: Biography",
+      "url": "https://www.nelsonmandela.org/content/page/biography",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published",
+  "featuredRank": 23
 }

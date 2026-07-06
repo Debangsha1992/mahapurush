@@ -1,0 +1,48 @@
+{
+  "id": "ogedei-khan",
+  "slug": "ogedei-khan",
+  "name": "Ögedei Khan",
+  "shortName": "Khan",
+  "era": "1185-1241",
+  "region": "Global",
+  "regionId": "global-diaspora",
+  "lifespan": "1185-1241",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Ögedei Khan is a notable politician associated with Global.",
+  "knownFor": [
+    "Politician",
+    "80 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 307,
+  "imageAlt": "Portrait-style visual for Ögedei Khan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ögedei Khan",
+      "url": "https://pantheon.world/profile/person/%C3%96gedei_Khan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ogedei-khan-pantheon-profile",
+      "text": "Pantheon ranks Ögedei Khan as a globally documented politician with biographies in 80 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ögedei Khan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ögedei Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%96gedei_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

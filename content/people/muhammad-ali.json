@@ -1,0 +1,48 @@
+{
+  "id": "muhammad-ali",
+  "slug": "muhammad-ali",
+  "name": "Muhammad Ali",
+  "shortName": "Ali",
+  "era": "1942-2016",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1942-2016",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "boxer"
+  ],
+  "summary": "Muhammad Ali is a notable boxer associated with United States.",
+  "knownFor": [
+    "Boxer",
+    "139 language biography editions",
+    "Historical Popularity Index 90.7"
+  ],
+  "featured": true,
+  "featuredRank": 109,
+  "imageAlt": "Portrait-style visual for Muhammad Ali",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Muhammad Ali",
+      "url": "https://pantheon.world/profile/person/Muhammad_Ali",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "muhammad-ali-pantheon-profile",
+      "text": "Pantheon ranks Muhammad Ali as a globally documented boxer with biographies in 139 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Muhammad Ali a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Muhammad Ali",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

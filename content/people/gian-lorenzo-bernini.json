@@ -1,0 +1,47 @@
+{
+  "id": "gian-lorenzo-bernini",
+  "slug": "gian-lorenzo-bernini",
+  "name": "Gian Lorenzo Bernini",
+  "shortName": "Bernini",
+  "era": "1598-1680",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1598-1680",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "architect"
+  ],
+  "summary": "Gian Lorenzo Bernini is a notable architect associated with Italy.",
+  "knownFor": [
+    "Architect",
+    "76 language biography editions",
+    "Historical Popularity Index 83.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Gian Lorenzo Bernini",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Gian Lorenzo Bernini",
+      "url": "https://pantheon.world/profile/person/Gian_Lorenzo_Bernini",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "gian-lorenzo-bernini-pantheon-profile",
+      "text": "Pantheon ranks Gian Lorenzo Bernini as a globally documented architect with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Gian Lorenzo Bernini a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Gian Lorenzo Bernini",
+      "sourceUrl": "https://pantheon.world/profile/person/Gian_Lorenzo_Bernini",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

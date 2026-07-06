@@ -1,0 +1,48 @@
+{
+  "id": "leif-erikson",
+  "slug": "leif-erikson",
+  "name": "Leif Erikson",
+  "shortName": "Erikson",
+  "era": "970-1020",
+  "region": "Iceland",
+  "regionId": "global-diaspora",
+  "lifespan": "970-1020",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "explorer"
+  ],
+  "summary": "Leif Erikson is a notable explorer associated with Iceland.",
+  "knownFor": [
+    "Explorer",
+    "100 language biography editions",
+    "Historical Popularity Index 88.2"
+  ],
+  "featured": true,
+  "featuredRank": 208,
+  "imageAlt": "Portrait-style visual for Leif Erikson",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Leif Erikson",
+      "url": "https://pantheon.world/profile/person/Leif_Erikson",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "leif-erikson-pantheon-profile",
+      "text": "Pantheon ranks Leif Erikson as a globally documented explorer with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Leif Erikson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Leif Erikson",
+      "sourceUrl": "https://pantheon.world/profile/person/Leif_Erikson",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

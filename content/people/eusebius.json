@@ -1,0 +1,47 @@
+{
+  "id": "eusebius",
+  "slug": "eusebius",
+  "name": "Eusebius",
+  "shortName": "Eusebius",
+  "era": "265-339",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "265-339",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Eusebius is a notable religious figure associated with Israel.",
+  "knownFor": [
+    "Religious Figure",
+    "65 language biography editions",
+    "Historical Popularity Index 83.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Eusebius",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Eusebius",
+      "url": "https://pantheon.world/profile/person/Eusebius",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "eusebius-pantheon-profile",
+      "text": "Pantheon ranks Eusebius as a globally documented religious figure with biographies in 65 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Eusebius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Eusebius",
+      "sourceUrl": "https://pantheon.world/profile/person/Eusebius",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

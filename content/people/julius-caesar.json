@@ -1,0 +1,48 @@
+{
+  "id": "julius-caesar",
+  "slug": "julius-caesar",
+  "name": "Julius Caesar",
+  "shortName": "Caesar",
+  "era": "-100--44",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-100--44",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Julius Caesar is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "215 language biography editions",
+    "Historical Popularity Index 93.8"
+  ],
+  "featured": true,
+  "featuredRank": 57,
+  "imageAlt": "Portrait-style visual for Julius Caesar",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Julius Caesar",
+      "url": "https://pantheon.world/profile/person/Julius_Caesar",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "julius-caesar-pantheon-profile",
+      "text": "Pantheon ranks Julius Caesar as a globally documented politician with biographies in 215 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Julius Caesar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Julius Caesar",
+      "sourceUrl": "https://pantheon.world/profile/person/Julius_Caesar",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "aisha",
+  "slug": "aisha",
+  "name": "Aisha",
+  "shortName": "Aisha",
+  "era": "605-678",
+  "region": "Saudi Arabia",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "605-678",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Aisha is a notable companion associated with Saudi Arabia.",
+  "knownFor": [
+    "Companion",
+    "96 language biography editions",
+    "Historical Popularity Index 88.1"
+  ],
+  "featured": true,
+  "featuredRank": 214,
+  "imageAlt": "Portrait-style visual for Aisha",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Aisha",
+      "url": "https://pantheon.world/profile/person/Aisha",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "aisha-pantheon-profile",
+      "text": "Pantheon ranks Aisha as a globally documented companion with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Aisha a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Aisha",
+      "sourceUrl": "https://pantheon.world/profile/person/Aisha",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

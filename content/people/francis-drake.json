@@ -1,0 +1,47 @@
+{
+  "id": "francis-drake",
+  "slug": "francis-drake",
+  "name": "Francis Drake",
+  "shortName": "Drake",
+  "era": "1540-1596",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1540-1596",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "explorer"
+  ],
+  "summary": "Francis Drake is a notable explorer associated with United Kingdom.",
+  "knownFor": [
+    "Explorer",
+    "110 language biography editions",
+    "Historical Popularity Index 81.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Francis Drake",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Francis Drake",
+      "url": "https://pantheon.world/profile/person/Francis_Drake",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "francis-drake-pantheon-profile",
+      "text": "Pantheon ranks Francis Drake as a globally documented explorer with biographies in 110 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Francis Drake a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Francis Drake",
+      "sourceUrl": "https://pantheon.world/profile/person/Francis_Drake",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

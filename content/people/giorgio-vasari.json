@@ -1,0 +1,47 @@
+{
+  "id": "giorgio-vasari",
+  "slug": "giorgio-vasari",
+  "name": "Giorgio Vasari",
+  "shortName": "Vasari",
+  "era": "1511-1574",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1511-1574",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Giorgio Vasari is a notable writer associated with Italy.",
+  "knownFor": [
+    "Writer",
+    "76 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Giorgio Vasari",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Giorgio Vasari",
+      "url": "https://pantheon.world/profile/person/Giorgio_Vasari",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "giorgio-vasari-pantheon-profile",
+      "text": "Pantheon ranks Giorgio Vasari as a globally documented writer with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Giorgio Vasari a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Giorgio Vasari",
+      "sourceUrl": "https://pantheon.world/profile/person/Giorgio_Vasari",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

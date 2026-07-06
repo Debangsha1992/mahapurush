@@ -1,0 +1,47 @@
+{
+  "id": "theodora-6th-century",
+  "slug": "theodora-6th-century",
+  "name": "Theodora",
+  "shortName": "Theodora",
+  "era": "500-548",
+  "region": "Cyprus",
+  "regionId": "global-diaspora",
+  "lifespan": "500-548",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Theodora is a notable companion associated with Cyprus.",
+  "knownFor": [
+    "Companion",
+    "58 language biography editions",
+    "Historical Popularity Index 83.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Theodora",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Theodora",
+      "url": "https://pantheon.world/profile/person/Theodora_(6th_century)",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "theodora-6th-century-pantheon-profile",
+      "text": "Pantheon ranks Theodora as a globally documented companion with biographies in 58 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Theodora a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Theodora",
+      "sourceUrl": "https://pantheon.world/profile/person/Theodora_(6th_century)",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

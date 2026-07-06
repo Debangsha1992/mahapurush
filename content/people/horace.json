@@ -1,0 +1,48 @@
+{
+  "id": "horace",
+  "slug": "horace",
+  "name": "Horace",
+  "shortName": "Horace",
+  "era": "-65--8",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-65--8",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Horace is a notable writer associated with Italy.",
+  "knownFor": [
+    "Writer",
+    "101 language biography editions",
+    "Historical Popularity Index 84.8"
+  ],
+  "featured": true,
+  "featuredRank": 457,
+  "imageAlt": "Portrait-style visual for Horace",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Horace",
+      "url": "https://pantheon.world/profile/person/Horace",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "horace-pantheon-profile",
+      "text": "Pantheon ranks Horace as a globally documented writer with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Horace a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Horace",
+      "sourceUrl": "https://pantheon.world/profile/person/Horace",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

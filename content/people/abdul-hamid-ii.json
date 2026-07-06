@@ -1,0 +1,47 @@
+{
+  "id": "abdul-hamid-ii",
+  "slug": "abdul-hamid-ii",
+  "name": "Abdul Hamid II",
+  "shortName": "II",
+  "era": "1842-1918",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1842-1918",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Abdul Hamid II is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "88 language biography editions",
+    "Historical Popularity Index 82.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Abdul Hamid II",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Abdul Hamid II",
+      "url": "https://pantheon.world/profile/person/Abdul_Hamid_II",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "abdul-hamid-ii-pantheon-profile",
+      "text": "Pantheon ranks Abdul Hamid II as a globally documented politician with biographies in 88 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Abdul Hamid II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Abdul Hamid II",
+      "sourceUrl": "https://pantheon.world/profile/person/Abdul_Hamid_II",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

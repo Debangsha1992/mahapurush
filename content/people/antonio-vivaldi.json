@@ -1,0 +1,48 @@
+{
+  "id": "antonio-vivaldi",
+  "slug": "antonio-vivaldi",
+  "name": "Antonio Vivaldi",
+  "shortName": "Vivaldi",
+  "era": "1678-1741",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1678-1741",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Antonio Vivaldi is a notable composer associated with Italy.",
+  "knownFor": [
+    "Composer",
+    "147 language biography editions",
+    "Historical Popularity Index 91.0"
+  ],
+  "featured": true,
+  "featuredRank": 102,
+  "imageAlt": "Portrait-style visual for Antonio Vivaldi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Antonio Vivaldi",
+      "url": "https://pantheon.world/profile/person/Antonio_Vivaldi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "antonio-vivaldi-pantheon-profile",
+      "text": "Pantheon ranks Antonio Vivaldi as a globally documented composer with biographies in 147 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Antonio Vivaldi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Antonio Vivaldi",
+      "sourceUrl": "https://pantheon.world/profile/person/Antonio_Vivaldi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

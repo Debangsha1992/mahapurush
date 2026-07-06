@@ -1,0 +1,48 @@
+{
+  "id": "edgar-allan-poe",
+  "slug": "edgar-allan-poe",
+  "name": "Edgar Allan Poe",
+  "shortName": "Poe",
+  "era": "1809-1849",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1809-1849",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Edgar Allan Poe is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "148 language biography editions",
+    "Historical Popularity Index 90.4"
+  ],
+  "featured": true,
+  "featuredRank": 121,
+  "imageAlt": "Portrait-style visual for Edgar Allan Poe",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edgar Allan Poe",
+      "url": "https://pantheon.world/profile/person/Edgar_Allan_Poe",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edgar-allan-poe-pantheon-profile",
+      "text": "Pantheon ranks Edgar Allan Poe as a globally documented writer with biographies in 148 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edgar Allan Poe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edgar Allan Poe",
+      "sourceUrl": "https://pantheon.world/profile/person/Edgar_Allan_Poe",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

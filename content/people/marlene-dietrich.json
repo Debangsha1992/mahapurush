@@ -1,0 +1,47 @@
+{
+  "id": "marlene-dietrich",
+  "slug": "marlene-dietrich",
+  "name": "Marlene Dietrich",
+  "shortName": "Dietrich",
+  "era": "1901-1992",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1901-1992",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Marlene Dietrich is a notable actor associated with Germany.",
+  "knownFor": [
+    "Actor",
+    "163 language biography editions",
+    "Historical Popularity Index 83.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Marlene Dietrich",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Marlene Dietrich",
+      "url": "https://pantheon.world/profile/person/Marlene_Dietrich",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "marlene-dietrich-pantheon-profile",
+      "text": "Pantheon ranks Marlene Dietrich as a globally documented actor with biographies in 163 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Marlene Dietrich a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Marlene Dietrich",
+      "sourceUrl": "https://pantheon.world/profile/person/Marlene_Dietrich",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

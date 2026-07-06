@@ -1,0 +1,48 @@
+{
+  "id": "le-corbusier",
+  "slug": "le-corbusier",
+  "name": "Le Corbusier",
+  "shortName": "Corbusier",
+  "era": "1887-1965",
+  "region": "Switzerland",
+  "regionId": "europe",
+  "lifespan": "1887-1965",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "architect"
+  ],
+  "summary": "Le Corbusier is a notable architect associated with Switzerland.",
+  "knownFor": [
+    "Architect",
+    "169 language biography editions",
+    "Historical Popularity Index 86.8"
+  ],
+  "featured": true,
+  "featuredRank": 286,
+  "imageAlt": "Portrait-style visual for Le Corbusier",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Le Corbusier",
+      "url": "https://pantheon.world/profile/person/Le_Corbusier",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "le-corbusier-pantheon-profile",
+      "text": "Pantheon ranks Le Corbusier as a globally documented architect with biographies in 169 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Le Corbusier a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Le Corbusier",
+      "sourceUrl": "https://pantheon.world/profile/person/Le_Corbusier",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

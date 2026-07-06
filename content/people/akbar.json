@@ -1,0 +1,48 @@
+{
+  "id": "akbar",
+  "slug": "akbar",
+  "name": "Akbar",
+  "shortName": "Akbar",
+  "era": "1542-1605",
+  "region": "Pakistan",
+  "regionId": "south-asia",
+  "lifespan": "1542-1605",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Akbar is a notable politician associated with Pakistan.",
+  "knownFor": [
+    "Politician",
+    "153 language biography editions",
+    "Historical Popularity Index 92.2"
+  ],
+  "featured": true,
+  "featuredRank": 77,
+  "imageAlt": "Portrait-style visual for Akbar",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Akbar",
+      "url": "https://pantheon.world/profile/person/Akbar",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "akbar-pantheon-profile",
+      "text": "Pantheon ranks Akbar as a globally documented politician with biographies in 153 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Akbar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Akbar",
+      "sourceUrl": "https://pantheon.world/profile/person/Akbar",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

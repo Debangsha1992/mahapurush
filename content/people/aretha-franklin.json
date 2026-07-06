@@ -1,0 +1,47 @@
+{
+  "id": "aretha-franklin",
+  "slug": "aretha-franklin",
+  "name": "Aretha Franklin",
+  "shortName": "Franklin",
+  "era": "1942-2018",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1942-2018",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "singer"
+  ],
+  "summary": "Aretha Franklin is a notable singer associated with United States.",
+  "knownFor": [
+    "Singer",
+    "100 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Aretha Franklin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Aretha Franklin",
+      "url": "https://pantheon.world/profile/person/Aretha_Franklin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "aretha-franklin-pantheon-profile",
+      "text": "Pantheon ranks Aretha Franklin as a globally documented singer with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Aretha Franklin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Aretha Franklin",
+      "sourceUrl": "https://pantheon.world/profile/person/Aretha_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

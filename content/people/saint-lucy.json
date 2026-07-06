@@ -1,0 +1,47 @@
+{
+  "id": "saint-lucy",
+  "slug": "saint-lucy",
+  "name": "Saint Lucy",
+  "shortName": "Lucy",
+  "era": "283-304",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "283-304",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Saint Lucy is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "64 language biography editions",
+    "Historical Popularity Index 84.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Saint Lucy",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Saint Lucy",
+      "url": "https://pantheon.world/profile/person/Saint_Lucy",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "saint-lucy-pantheon-profile",
+      "text": "Pantheon ranks Saint Lucy as a globally documented religious figure with biographies in 64 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Saint Lucy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Saint Lucy",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Lucy",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

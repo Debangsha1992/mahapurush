@@ -1,0 +1,48 @@
+{
+  "id": "auguste-comte",
+  "slug": "auguste-comte",
+  "name": "Auguste Comte",
+  "shortName": "Comte",
+  "era": "1798-1857",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1798-1857",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Auguste Comte is a notable philosopher associated with France.",
+  "knownFor": [
+    "Philosopher",
+    "97 language biography editions",
+    "Historical Popularity Index 85.4"
+  ],
+  "featured": true,
+  "featuredRank": 396,
+  "imageAlt": "Portrait-style visual for Auguste Comte",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Auguste Comte",
+      "url": "https://pantheon.world/profile/person/Auguste_Comte",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "auguste-comte-pantheon-profile",
+      "text": "Pantheon ranks Auguste Comte as a globally documented philosopher with biographies in 97 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Auguste Comte a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Auguste Comte",
+      "sourceUrl": "https://pantheon.world/profile/person/Auguste_Comte",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

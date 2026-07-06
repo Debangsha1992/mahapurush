@@ -1,0 +1,48 @@
+{
+  "id": "maria-theresa",
+  "slug": "maria-theresa",
+  "name": "Maria Theresa",
+  "shortName": "Theresa",
+  "era": "1717-1780",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1717-1780",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Maria Theresa is a notable politician associated with Austria.",
+  "knownFor": [
+    "Politician",
+    "91 language biography editions",
+    "Historical Popularity Index 87.4"
+  ],
+  "featured": true,
+  "featuredRank": 249,
+  "imageAlt": "Portrait-style visual for Maria Theresa",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Maria Theresa",
+      "url": "https://pantheon.world/profile/person/Maria_Theresa",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "maria-theresa-pantheon-profile",
+      "text": "Pantheon ranks Maria Theresa as a globally documented politician with biographies in 91 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Maria Theresa a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Maria Theresa",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Theresa",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

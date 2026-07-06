@@ -1,0 +1,48 @@
+{
+  "id": "cleopatra",
+  "slug": "cleopatra",
+  "name": "Cleopatra",
+  "shortName": "Cleopatra",
+  "era": "-69--30",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-69--30",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Cleopatra is a notable politician associated with Egypt.",
+  "knownFor": [
+    "Politician",
+    "151 language biography editions",
+    "Historical Popularity Index 98.3"
+  ],
+  "featured": true,
+  "featuredRank": 35,
+  "imageAlt": "Portrait-style visual for Cleopatra",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Cleopatra",
+      "url": "https://pantheon.world/profile/person/Cleopatra",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "cleopatra-pantheon-profile",
+      "text": "Pantheon ranks Cleopatra as a globally documented politician with biographies in 151 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Cleopatra a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Cleopatra",
+      "sourceUrl": "https://pantheon.world/profile/person/Cleopatra",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

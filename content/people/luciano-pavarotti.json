@@ -1,0 +1,47 @@
+{
+  "id": "luciano-pavarotti",
+  "slug": "luciano-pavarotti",
+  "name": "Luciano Pavarotti",
+  "shortName": "Pavarotti",
+  "era": "1935-2007",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1935-2007",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "singer"
+  ],
+  "summary": "Luciano Pavarotti is a notable singer associated with Italy.",
+  "knownFor": [
+    "Singer",
+    "96 language biography editions",
+    "Historical Popularity Index 83.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Luciano Pavarotti",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Luciano Pavarotti",
+      "url": "https://pantheon.world/profile/person/Luciano_Pavarotti",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "luciano-pavarotti-pantheon-profile",
+      "text": "Pantheon ranks Luciano Pavarotti as a globally documented singer with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Luciano Pavarotti a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Luciano Pavarotti",
+      "sourceUrl": "https://pantheon.world/profile/person/Luciano_Pavarotti",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

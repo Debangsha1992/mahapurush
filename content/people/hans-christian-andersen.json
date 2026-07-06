@@ -1,0 +1,48 @@
+{
+  "id": "hans-christian-andersen",
+  "slug": "hans-christian-andersen",
+  "name": "Hans Christian Andersen",
+  "shortName": "Andersen",
+  "era": "1805-1875",
+  "region": "Denmark",
+  "regionId": "europe",
+  "lifespan": "1805-1875",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Hans Christian Andersen is a notable writer associated with Denmark.",
+  "knownFor": [
+    "Writer",
+    "180 language biography editions",
+    "Historical Popularity Index 90.1"
+  ],
+  "featured": true,
+  "featuredRank": 126,
+  "imageAlt": "Portrait-style visual for Hans Christian Andersen",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hans Christian Andersen",
+      "url": "https://pantheon.world/profile/person/Hans_Christian_Andersen",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hans-christian-andersen-pantheon-profile",
+      "text": "Pantheon ranks Hans Christian Andersen as a globally documented writer with biographies in 180 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hans Christian Andersen a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hans Christian Andersen",
+      "sourceUrl": "https://pantheon.world/profile/person/Hans_Christian_Andersen",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

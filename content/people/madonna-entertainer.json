@@ -1,0 +1,48 @@
+{
+  "id": "madonna-entertainer",
+  "slug": "madonna-entertainer",
+  "name": "Madonna",
+  "shortName": "Madonna",
+  "era": "born 1958",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1958",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "musician"
+  ],
+  "summary": "Madonna is a notable musician associated with United States.",
+  "knownFor": [
+    "Musician",
+    "153 language biography editions",
+    "Historical Popularity Index 85.7"
+  ],
+  "featured": true,
+  "featuredRank": 373,
+  "imageAlt": "Portrait-style visual for Madonna",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Madonna",
+      "url": "https://pantheon.world/profile/person/Madonna_(entertainer)",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "madonna-entertainer-pantheon-profile",
+      "text": "Pantheon ranks Madonna as a globally documented musician with biographies in 153 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Madonna a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Madonna",
+      "sourceUrl": "https://pantheon.world/profile/person/Madonna_(entertainer)",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

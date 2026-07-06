@@ -1,0 +1,47 @@
+{
+  "id": "clovis-i",
+  "slug": "clovis-i",
+  "name": "Clovis I",
+  "shortName": "I",
+  "era": "466-511",
+  "region": "Belgium",
+  "regionId": "europe",
+  "lifespan": "466-511",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Clovis I is a notable politician associated with Belgium.",
+  "knownFor": [
+    "Politician",
+    "86 language biography editions",
+    "Historical Popularity Index 82.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Clovis I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Clovis I",
+      "url": "https://pantheon.world/profile/person/Clovis_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "clovis-i-pantheon-profile",
+      "text": "Pantheon ranks Clovis I as a globally documented politician with biographies in 86 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Clovis I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Clovis I",
+      "sourceUrl": "https://pantheon.world/profile/person/Clovis_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

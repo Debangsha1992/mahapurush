@@ -1,0 +1,47 @@
+{
+  "id": "mehmed-iii",
+  "slug": "mehmed-iii",
+  "name": "Mehmed III",
+  "shortName": "III",
+  "era": "1566-1603",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1566-1603",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mehmed III is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "69 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mehmed III",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mehmed III",
+      "url": "https://pantheon.world/profile/person/Mehmed_III",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mehmed-iii-pantheon-profile",
+      "text": "Pantheon ranks Mehmed III as a globally documented politician with biographies in 69 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mehmed III a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mehmed III",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_III",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

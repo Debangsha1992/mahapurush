@@ -1,0 +1,48 @@
+{
+  "id": "t-s-eliot",
+  "slug": "t-s-eliot",
+  "name": "T. S. Eliot",
+  "shortName": "Eliot",
+  "era": "1888-1965",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1888-1965",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "T. S. Eliot is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "112 language biography editions",
+    "Historical Popularity Index 87.3"
+  ],
+  "featured": true,
+  "featuredRank": 260,
+  "imageAlt": "Portrait-style visual for T. S. Eliot",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: T. S. Eliot",
+      "url": "https://pantheon.world/profile/person/T._S._Eliot",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "t-s-eliot-pantheon-profile",
+      "text": "Pantheon ranks T. S. Eliot as a globally documented writer with biographies in 112 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make T. S. Eliot a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: T. S. Eliot",
+      "sourceUrl": "https://pantheon.world/profile/person/T._S._Eliot",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

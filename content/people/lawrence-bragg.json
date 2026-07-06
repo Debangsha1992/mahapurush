@@ -1,0 +1,47 @@
+{
+  "id": "lawrence-bragg",
+  "slug": "lawrence-bragg",
+  "name": "Lawrence Bragg",
+  "shortName": "Bragg",
+  "era": "1890-1971",
+  "region": "Australia",
+  "regionId": "southeast-asia-oceania",
+  "lifespan": "1890-1971",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Lawrence Bragg is a notable physicist associated with Australia.",
+  "knownFor": [
+    "Physicist",
+    "87 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Lawrence Bragg",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Lawrence Bragg",
+      "url": "https://pantheon.world/profile/person/Lawrence_Bragg",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "lawrence-bragg-pantheon-profile",
+      "text": "Pantheon ranks Lawrence Bragg as a globally documented physicist with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Lawrence Bragg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Lawrence Bragg",
+      "sourceUrl": "https://pantheon.world/profile/person/Lawrence_Bragg",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

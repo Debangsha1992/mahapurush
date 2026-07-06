@@ -1,0 +1,47 @@
+{
+  "id": "pope-paul-iii",
+  "slug": "pope-paul-iii",
+  "name": "Pope Paul III",
+  "shortName": "III",
+  "era": "1468-1549",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1468-1549",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Paul III is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "83 language biography editions",
+    "Historical Popularity Index 83.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Paul III",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Paul III",
+      "url": "https://pantheon.world/profile/person/Pope_Paul_III",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-paul-iii-pantheon-profile",
+      "text": "Pantheon ranks Pope Paul III as a globally documented religious figure with biographies in 83 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Paul III a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Paul III",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Paul_III",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

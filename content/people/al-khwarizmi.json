@@ -6,9 +6,15 @@
   "era": "c. 780-c. 850",
   "region": "Central Asia, Abbasid Caliphate",
   "lifespan": "c. 780-c. 850",
-  "domains": ["mathematics", "astronomy", "geography"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "Al-Khwarizmi helped develop algebraic methods and mathematical language that still shapes computing.",
-  "knownFor": ["algebra", "algorithms", "House of Wisdom scholarship"],
+  "knownFor": [
+    "algebra",
+    "algorithms",
+    "House of Wisdom scholarship"
+  ],
   "facts": [
     {
       "id": "al-khwarizmi-algebra",
@@ -17,8 +23,24 @@
       "sourceTitle": "Encyclopaedia Britannica: Al-Khwarizmi",
       "sourceUrl": "https://www.britannica.com/biography/al-Khwarizmi",
       "sourceAccessedAt": "2026-07-05",
-      "tags": ["mathematics", "computing"],
+      "tags": [
+        "mathematics",
+        "computing"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "global-diaspora",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "featuredRank": 2,
+  "imageAlt": "Portrait-style visual for Al-Khwarizmi",
+  "sourceRefs": [
+    {
+      "title": "Encyclopaedia Britannica: Al-Khwarizmi",
+      "url": "https://www.britannica.com/biography/al-Khwarizmi",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

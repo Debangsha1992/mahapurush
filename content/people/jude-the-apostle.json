@@ -1,0 +1,47 @@
+{
+  "id": "jude-the-apostle",
+  "slug": "jude-the-apostle",
+  "name": "Jude the Apostle",
+  "shortName": "Apostle",
+  "era": "15-70",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "15-70",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Jude the Apostle is a notable religious figure associated with Israel.",
+  "knownFor": [
+    "Religious Figure",
+    "79 language biography editions",
+    "Historical Popularity Index 81.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jude the Apostle",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jude the Apostle",
+      "url": "https://pantheon.world/profile/person/Jude_the_Apostle",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jude-the-apostle-pantheon-profile",
+      "text": "Pantheon ranks Jude the Apostle as a globally documented religious figure with biographies in 79 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jude the Apostle a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jude the Apostle",
+      "sourceUrl": "https://pantheon.world/profile/person/Jude_the_Apostle",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

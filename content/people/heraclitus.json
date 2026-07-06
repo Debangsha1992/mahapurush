@@ -1,0 +1,48 @@
+{
+  "id": "heraclitus",
+  "slug": "heraclitus",
+  "name": "Heraclitus",
+  "shortName": "Heraclitus",
+  "era": "-535--470",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "-535--470",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Heraclitus is a notable philosopher associated with Türkiye.",
+  "knownFor": [
+    "Philosopher",
+    "95 language biography editions",
+    "Historical Popularity Index 89.1"
+  ],
+  "featured": true,
+  "featuredRank": 174,
+  "imageAlt": "Portrait-style visual for Heraclitus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Heraclitus",
+      "url": "https://pantheon.world/profile/person/Heraclitus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "heraclitus-pantheon-profile",
+      "text": "Pantheon ranks Heraclitus as a globally documented philosopher with biographies in 95 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Heraclitus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Heraclitus",
+      "sourceUrl": "https://pantheon.world/profile/person/Heraclitus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

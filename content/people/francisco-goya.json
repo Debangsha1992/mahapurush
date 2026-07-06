@@ -1,0 +1,48 @@
+{
+  "id": "francisco-goya",
+  "slug": "francisco-goya",
+  "name": "Francisco Goya",
+  "shortName": "Goya",
+  "era": "1746-1828",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1746-1828",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Francisco Goya is a notable painter associated with Spain.",
+  "knownFor": [
+    "Painter",
+    "158 language biography editions",
+    "Historical Popularity Index 87.4"
+  ],
+  "featured": true,
+  "featuredRank": 251,
+  "imageAlt": "Portrait-style visual for Francisco Goya",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Francisco Goya",
+      "url": "https://pantheon.world/profile/person/Francisco_Goya",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "francisco-goya-pantheon-profile",
+      "text": "Pantheon ranks Francisco Goya as a globally documented painter with biographies in 158 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Francisco Goya a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Francisco Goya",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Goya",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

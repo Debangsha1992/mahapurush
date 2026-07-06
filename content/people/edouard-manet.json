@@ -1,0 +1,47 @@
+{
+  "id": "edouard-manet",
+  "slug": "edouard-manet",
+  "name": "Édouard Manet",
+  "shortName": "Manet",
+  "era": "1832-1883",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1832-1883",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Édouard Manet is a notable painter associated with France.",
+  "knownFor": [
+    "Painter",
+    "99 language biography editions",
+    "Historical Popularity Index 84.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Édouard Manet",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Édouard Manet",
+      "url": "https://pantheon.world/profile/person/%C3%89douard_Manet",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edouard-manet-pantheon-profile",
+      "text": "Pantheon ranks Édouard Manet as a globally documented painter with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Édouard Manet a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Édouard Manet",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89douard_Manet",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

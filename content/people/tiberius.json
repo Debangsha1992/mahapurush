@@ -1,0 +1,48 @@
+{
+  "id": "tiberius",
+  "slug": "tiberius",
+  "name": "Tiberius",
+  "shortName": "Tiberius",
+  "era": "-42-37",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-42-37",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Tiberius is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "101 language biography editions",
+    "Historical Popularity Index 84.8"
+  ],
+  "featured": true,
+  "featuredRank": 454,
+  "imageAlt": "Portrait-style visual for Tiberius",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Tiberius",
+      "url": "https://pantheon.world/profile/person/Tiberius",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "tiberius-pantheon-profile",
+      "text": "Pantheon ranks Tiberius as a globally documented politician with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Tiberius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Tiberius",
+      "sourceUrl": "https://pantheon.world/profile/person/Tiberius",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

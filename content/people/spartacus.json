@@ -1,0 +1,47 @@
+{
+  "id": "spartacus",
+  "slug": "spartacus",
+  "name": "Spartacus",
+  "shortName": "Spartacus",
+  "era": "-109--71",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-109--71",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Spartacus is a notable military personnel associated with Greece.",
+  "knownFor": [
+    "Military Personnel",
+    "85 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Spartacus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Spartacus",
+      "url": "https://pantheon.world/profile/person/Spartacus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "spartacus-pantheon-profile",
+      "text": "Pantheon ranks Spartacus as a globally documented military personnel with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Spartacus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Spartacus",
+      "sourceUrl": "https://pantheon.world/profile/person/Spartacus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

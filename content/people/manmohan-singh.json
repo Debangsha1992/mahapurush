@@ -1,0 +1,47 @@
+{
+  "id": "manmohan-singh",
+  "slug": "manmohan-singh",
+  "name": "Manmohan Singh",
+  "shortName": "Singh",
+  "era": "1932-2024",
+  "region": "Pakistan",
+  "regionId": "south-asia",
+  "lifespan": "1932-2024",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Manmohan Singh is a notable politician associated with Pakistan.",
+  "knownFor": [
+    "Politician",
+    "100 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Manmohan Singh",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Manmohan Singh",
+      "url": "https://pantheon.world/profile/person/Manmohan_Singh",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "manmohan-singh-pantheon-profile",
+      "text": "Pantheon ranks Manmohan Singh as a globally documented politician with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Manmohan Singh a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Manmohan Singh",
+      "sourceUrl": "https://pantheon.world/profile/person/Manmohan_Singh",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

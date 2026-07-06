@@ -1,0 +1,48 @@
+{
+  "id": "immanuel-kant",
+  "slug": "immanuel-kant",
+  "name": "Immanuel Kant",
+  "shortName": "Kant",
+  "era": "1724-1804",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1724-1804",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Immanuel Kant is a notable philosopher associated with Russia.",
+  "knownFor": [
+    "Philosopher",
+    "178 language biography editions",
+    "Historical Popularity Index 92.3"
+  ],
+  "featured": true,
+  "featuredRank": 75,
+  "imageAlt": "Portrait-style visual for Immanuel Kant",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Immanuel Kant",
+      "url": "https://pantheon.world/profile/person/Immanuel_Kant",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "immanuel-kant-pantheon-profile",
+      "text": "Pantheon ranks Immanuel Kant as a globally documented philosopher with biographies in 178 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Immanuel Kant a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Immanuel Kant",
+      "sourceUrl": "https://pantheon.world/profile/person/Immanuel_Kant",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

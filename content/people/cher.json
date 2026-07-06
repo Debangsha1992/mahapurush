@@ -1,0 +1,48 @@
+{
+  "id": "cher",
+  "slug": "cher",
+  "name": "Cher",
+  "shortName": "Cher",
+  "era": "born 1946",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1946",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "singer"
+  ],
+  "summary": "Cher is a notable singer associated with United States.",
+  "knownFor": [
+    "Singer",
+    "100 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 369,
+  "imageAlt": "Portrait-style visual for Cher",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Cher",
+      "url": "https://pantheon.world/profile/person/Cher",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "cher-pantheon-profile",
+      "text": "Pantheon ranks Cher as a globally documented singer with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Cher a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Cher",
+      "sourceUrl": "https://pantheon.world/profile/person/Cher",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ivan-the-terrible",
+  "slug": "ivan-the-terrible",
+  "name": "Ivan the Terrible",
+  "shortName": "Terrible",
+  "era": "1530-1584",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1530-1584",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Ivan the Terrible is a notable politician associated with Russia.",
+  "knownFor": [
+    "Politician",
+    "104 language biography editions",
+    "Historical Popularity Index 84.9"
+  ],
+  "featured": true,
+  "featuredRank": 448,
+  "imageAlt": "Portrait-style visual for Ivan the Terrible",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ivan the Terrible",
+      "url": "https://pantheon.world/profile/person/Ivan_the_Terrible",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ivan-the-terrible-pantheon-profile",
+      "text": "Pantheon ranks Ivan the Terrible as a globally documented politician with biographies in 104 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ivan the Terrible a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ivan the Terrible",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivan_the_Terrible",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

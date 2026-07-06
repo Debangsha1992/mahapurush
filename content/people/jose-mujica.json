@@ -1,0 +1,47 @@
+{
+  "id": "jose-mujica",
+  "slug": "jose-mujica",
+  "name": "José Mujica",
+  "shortName": "Mujica",
+  "era": "1935-2025",
+  "region": "Uruguay",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1935-2025",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "José Mujica is a notable politician associated with Uruguay.",
+  "knownFor": [
+    "Politician",
+    "91 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for José Mujica",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: José Mujica",
+      "url": "https://pantheon.world/profile/person/Jos%C3%A9_Mujica",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jose-mujica-pantheon-profile",
+      "text": "Pantheon ranks José Mujica as a globally documented politician with biographies in 91 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make José Mujica a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: José Mujica",
+      "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9_Mujica",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

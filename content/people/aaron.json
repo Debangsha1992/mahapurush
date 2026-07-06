@@ -1,0 +1,48 @@
+{
+  "id": "aaron",
+  "slug": "aaron",
+  "name": "Aaron",
+  "shortName": "Aaron",
+  "era": "-1396--1274",
+  "region": "Jordan",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-1396--1274",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Aaron is a notable religious figure associated with Jordan.",
+  "knownFor": [
+    "Religious Figure",
+    "86 language biography editions",
+    "Historical Popularity Index 88.5"
+  ],
+  "featured": true,
+  "featuredRank": 196,
+  "imageAlt": "Portrait-style visual for Aaron",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Aaron",
+      "url": "https://pantheon.world/profile/person/Aaron",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "aaron-pantheon-profile",
+      "text": "Pantheon ranks Aaron as a globally documented religious figure with biographies in 86 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Aaron a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Aaron",
+      "sourceUrl": "https://pantheon.world/profile/person/Aaron",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

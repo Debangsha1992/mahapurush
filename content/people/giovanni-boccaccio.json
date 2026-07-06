@@ -1,0 +1,48 @@
+{
+  "id": "giovanni-boccaccio",
+  "slug": "giovanni-boccaccio",
+  "name": "Giovanni Boccaccio",
+  "shortName": "Boccaccio",
+  "era": "1313-1375",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1313-1375",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Giovanni Boccaccio is a notable writer associated with Italy.",
+  "knownFor": [
+    "Writer",
+    "110 language biography editions",
+    "Historical Popularity Index 86.0"
+  ],
+  "featured": true,
+  "featuredRank": 350,
+  "imageAlt": "Portrait-style visual for Giovanni Boccaccio",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Giovanni Boccaccio",
+      "url": "https://pantheon.world/profile/person/Giovanni_Boccaccio",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "giovanni-boccaccio-pantheon-profile",
+      "text": "Pantheon ranks Giovanni Boccaccio as a globally documented writer with biographies in 110 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Giovanni Boccaccio a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Giovanni Boccaccio",
+      "sourceUrl": "https://pantheon.world/profile/person/Giovanni_Boccaccio",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

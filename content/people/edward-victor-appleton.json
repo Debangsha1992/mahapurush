@@ -1,0 +1,47 @@
+{
+  "id": "edward-victor-appleton",
+  "slug": "edward-victor-appleton",
+  "name": "Edward Victor Appleton",
+  "shortName": "Appleton",
+  "era": "1892-1965",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1892-1965",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Edward Victor Appleton is a notable physicist associated with United Kingdom.",
+  "knownFor": [
+    "Physicist",
+    "81 language biography editions",
+    "Historical Popularity Index 83.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Edward Victor Appleton",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edward Victor Appleton",
+      "url": "https://pantheon.world/profile/person/Edward_Victor_Appleton",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edward-victor-appleton-pantheon-profile",
+      "text": "Pantheon ranks Edward Victor Appleton as a globally documented physicist with biographies in 81 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward Victor Appleton a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edward Victor Appleton",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_Victor_Appleton",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

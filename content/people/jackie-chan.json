@@ -1,0 +1,47 @@
+{
+  "id": "jackie-chan",
+  "slug": "jackie-chan",
+  "name": "Jackie Chan",
+  "shortName": "Chan",
+  "era": "born 1954",
+  "region": "Hong Kong",
+  "regionId": "east-asia",
+  "lifespan": "born 1954",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Jackie Chan is a notable actor associated with Hong Kong.",
+  "knownFor": [
+    "Actor",
+    "144 language biography editions",
+    "Historical Popularity Index 81.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jackie Chan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jackie Chan",
+      "url": "https://pantheon.world/profile/person/Jackie_Chan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jackie-chan-pantheon-profile",
+      "text": "Pantheon ranks Jackie Chan as a globally documented actor with biographies in 144 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jackie Chan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jackie Chan",
+      "sourceUrl": "https://pantheon.world/profile/person/Jackie_Chan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

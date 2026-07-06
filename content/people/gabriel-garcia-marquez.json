@@ -1,0 +1,48 @@
+{
+  "id": "gabriel-garcia-marquez",
+  "slug": "gabriel-garcia-marquez",
+  "name": "Gabriel García Márquez",
+  "shortName": "Márquez",
+  "era": "1927-2014",
+  "region": "Colombia",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1927-2014",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Gabriel García Márquez is a notable writer associated with Colombia.",
+  "knownFor": [
+    "Writer",
+    "162 language biography editions",
+    "Historical Popularity Index 86.2"
+  ],
+  "featured": true,
+  "featuredRank": 336,
+  "imageAlt": "Portrait-style visual for Gabriel García Márquez",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Gabriel García Márquez",
+      "url": "https://pantheon.world/profile/person/Gabriel_Garc%C3%ADa_M%C3%A1rquez",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "gabriel-garcia-marquez-pantheon-profile",
+      "text": "Pantheon ranks Gabriel García Márquez as a globally documented writer with biographies in 162 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Gabriel García Márquez a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Gabriel García Márquez",
+      "sourceUrl": "https://pantheon.world/profile/person/Gabriel_Garc%C3%ADa_M%C3%A1rquez",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "anders-celsius",
+  "slug": "anders-celsius",
+  "name": "Anders Celsius",
+  "shortName": "Celsius",
+  "era": "1701-1744",
+  "region": "Sweden",
+  "regionId": "europe",
+  "lifespan": "1701-1744",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "astronomer"
+  ],
+  "summary": "Anders Celsius is a notable astronomer associated with Sweden.",
+  "knownFor": [
+    "Astronomer",
+    "93 language biography editions",
+    "Historical Popularity Index 83.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Anders Celsius",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Anders Celsius",
+      "url": "https://pantheon.world/profile/person/Anders_Celsius",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "anders-celsius-pantheon-profile",
+      "text": "Pantheon ranks Anders Celsius as a globally documented astronomer with biographies in 93 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Anders Celsius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Anders Celsius",
+      "sourceUrl": "https://pantheon.world/profile/person/Anders_Celsius",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

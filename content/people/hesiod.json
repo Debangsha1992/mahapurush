@@ -1,0 +1,48 @@
+{
+  "id": "hesiod",
+  "slug": "hesiod",
+  "name": "Hesiod",
+  "shortName": "Hesiod",
+  "era": "-800--700",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "-800--700",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Hesiod is a notable writer associated with Türkiye.",
+  "knownFor": [
+    "Writer",
+    "88 language biography editions",
+    "Historical Popularity Index 86.7"
+  ],
+  "featured": true,
+  "featuredRank": 295,
+  "imageAlt": "Portrait-style visual for Hesiod",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hesiod",
+      "url": "https://pantheon.world/profile/person/Hesiod",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hesiod-pantheon-profile",
+      "text": "Pantheon ranks Hesiod as a globally documented writer with biographies in 88 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hesiod a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hesiod",
+      "sourceUrl": "https://pantheon.world/profile/person/Hesiod",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pope-linus",
+  "slug": "pope-linus",
+  "name": "Pope Linus",
+  "shortName": "Linus",
+  "era": "1-79",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1-79",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Linus is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "94 language biography editions",
+    "Historical Popularity Index 83.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Linus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Linus",
+      "url": "https://pantheon.world/profile/person/Pope_Linus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-linus-pantheon-profile",
+      "text": "Pantheon ranks Pope Linus as a globally documented religious figure with biographies in 94 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Linus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Linus",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Linus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

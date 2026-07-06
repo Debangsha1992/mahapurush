@@ -1,0 +1,48 @@
+{
+  "id": "haile-selassie",
+  "slug": "haile-selassie",
+  "name": "Haile Selassie",
+  "shortName": "Selassie",
+  "era": "1892-1975",
+  "region": "Ethiopia",
+  "regionId": "africa",
+  "lifespan": "1892-1975",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Haile Selassie is a notable politician associated with Ethiopia.",
+  "knownFor": [
+    "Politician",
+    "102 language biography editions",
+    "Historical Popularity Index 86.8"
+  ],
+  "featured": true,
+  "featuredRank": 287,
+  "imageAlt": "Portrait-style visual for Haile Selassie",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Haile Selassie",
+      "url": "https://pantheon.world/profile/person/Haile_Selassie",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "haile-selassie-pantheon-profile",
+      "text": "Pantheon ranks Haile Selassie as a globally documented politician with biographies in 102 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Haile Selassie a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Haile Selassie",
+      "sourceUrl": "https://pantheon.world/profile/person/Haile_Selassie",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

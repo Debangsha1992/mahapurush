@@ -1,0 +1,47 @@
+{
+  "id": "louis-de-funes",
+  "slug": "louis-de-funes",
+  "name": "Louis de Funès",
+  "shortName": "Funès",
+  "era": "1914-1983",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1914-1983",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Louis de Funès is a notable actor associated with France.",
+  "knownFor": [
+    "Actor",
+    "87 language biography editions",
+    "Historical Popularity Index 81.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Louis de Funès",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Louis de Funès",
+      "url": "https://pantheon.world/profile/person/Louis_de_Fun%C3%A8s",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "louis-de-funes-pantheon-profile",
+      "text": "Pantheon ranks Louis de Funès as a globally documented actor with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Louis de Funès a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Louis de Funès",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_de_Fun%C3%A8s",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "domitian",
+  "slug": "domitian",
+  "name": "Domitian",
+  "shortName": "Domitian",
+  "era": "51-96",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "51-96",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Domitian is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "90 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Domitian",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Domitian",
+      "url": "https://pantheon.world/profile/person/Domitian",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "domitian-pantheon-profile",
+      "text": "Pantheon ranks Domitian as a globally documented politician with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Domitian a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Domitian",
+      "sourceUrl": "https://pantheon.world/profile/person/Domitian",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

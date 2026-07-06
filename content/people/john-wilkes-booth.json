@@ -1,0 +1,47 @@
+{
+  "id": "john-wilkes-booth",
+  "slug": "john-wilkes-booth",
+  "name": "John Wilkes Booth",
+  "shortName": "Booth",
+  "era": "1838-1865",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1838-1865",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "extremist"
+  ],
+  "summary": "John Wilkes Booth is a notable extremist associated with United States.",
+  "knownFor": [
+    "Extremist",
+    "57 language biography editions",
+    "Historical Popularity Index 83.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for John Wilkes Booth",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: John Wilkes Booth",
+      "url": "https://pantheon.world/profile/person/John_Wilkes_Booth",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "john-wilkes-booth-pantheon-profile",
+      "text": "Pantheon ranks John Wilkes Booth as a globally documented extremist with biographies in 57 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make John Wilkes Booth a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: John Wilkes Booth",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Wilkes_Booth",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

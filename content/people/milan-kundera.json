@@ -1,0 +1,47 @@
+{
+  "id": "milan-kundera",
+  "slug": "milan-kundera",
+  "name": "Milan Kundera",
+  "shortName": "Kundera",
+  "era": "1929-2023",
+  "region": "Czechia",
+  "regionId": "global-diaspora",
+  "lifespan": "1929-2023",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Milan Kundera is a notable writer associated with Czechia.",
+  "knownFor": [
+    "Writer",
+    "83 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Milan Kundera",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Milan Kundera",
+      "url": "https://pantheon.world/profile/person/Milan_Kundera",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "milan-kundera-pantheon-profile",
+      "text": "Pantheon ranks Milan Kundera as a globally documented writer with biographies in 83 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Milan Kundera a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Milan Kundera",
+      "sourceUrl": "https://pantheon.world/profile/person/Milan_Kundera",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

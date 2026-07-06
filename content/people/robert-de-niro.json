@@ -1,0 +1,47 @@
+{
+  "id": "robert-de-niro",
+  "slug": "robert-de-niro",
+  "name": "Robert De Niro",
+  "shortName": "Niro",
+  "era": "born 1943",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1943",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Robert De Niro is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "123 language biography editions",
+    "Historical Popularity Index 83.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Robert De Niro",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Robert De Niro",
+      "url": "https://pantheon.world/profile/person/Robert_De_Niro",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "robert-de-niro-pantheon-profile",
+      "text": "Pantheon ranks Robert De Niro as a globally documented actor with biographies in 123 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Robert De Niro a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Robert De Niro",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_De_Niro",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

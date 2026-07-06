@@ -1,0 +1,47 @@
+{
+  "id": "charles-xiv-john-of-sweden",
+  "slug": "charles-xiv-john-of-sweden",
+  "name": "Charles XIV John of Sweden",
+  "shortName": "Sweden",
+  "era": "1763-1844",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1763-1844",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Charles XIV John of Sweden is a notable military personnel associated with France.",
+  "knownFor": [
+    "Military Personnel",
+    "70 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Charles XIV John of Sweden",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Charles XIV John of Sweden",
+      "url": "https://pantheon.world/profile/person/Charles_XIV_John_of_Sweden",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "charles-xiv-john-of-sweden-pantheon-profile",
+      "text": "Pantheon ranks Charles XIV John of Sweden as a globally documented military personnel with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles XIV John of Sweden a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Charles XIV John of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_XIV_John_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

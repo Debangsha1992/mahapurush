@@ -1,0 +1,48 @@
+{
+  "id": "niccolo-paganini",
+  "slug": "niccolo-paganini",
+  "name": "Niccolò Paganini",
+  "shortName": "Paganini",
+  "era": "1782-1840",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1782-1840",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "musician"
+  ],
+  "summary": "Niccolò Paganini is a notable musician associated with Italy.",
+  "knownFor": [
+    "Musician",
+    "88 language biography editions",
+    "Historical Popularity Index 84.4"
+  ],
+  "featured": true,
+  "featuredRank": 498,
+  "imageAlt": "Portrait-style visual for Niccolò Paganini",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Niccolò Paganini",
+      "url": "https://pantheon.world/profile/person/Niccol%C3%B2_Paganini",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "niccolo-paganini-pantheon-profile",
+      "text": "Pantheon ranks Niccolò Paganini as a globally documented musician with biographies in 88 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Niccolò Paganini a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Niccolò Paganini",
+      "sourceUrl": "https://pantheon.world/profile/person/Niccol%C3%B2_Paganini",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

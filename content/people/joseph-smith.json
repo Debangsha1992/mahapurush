@@ -1,0 +1,48 @@
+{
+  "id": "joseph-smith",
+  "slug": "joseph-smith",
+  "name": "Joseph Smith",
+  "shortName": "Smith",
+  "era": "1805-1844",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1805-1844",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Joseph Smith is a notable religious figure associated with United States.",
+  "knownFor": [
+    "Religious Figure",
+    "94 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 404,
+  "imageAlt": "Portrait-style visual for Joseph Smith",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Joseph Smith",
+      "url": "https://pantheon.world/profile/person/Joseph_Smith",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "joseph-smith-pantheon-profile",
+      "text": "Pantheon ranks Joseph Smith as a globally documented religious figure with biographies in 94 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Joseph Smith a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Joseph Smith",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_Smith",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

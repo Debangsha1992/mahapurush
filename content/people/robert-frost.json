@@ -1,0 +1,47 @@
+{
+  "id": "robert-frost",
+  "slug": "robert-frost",
+  "name": "Robert Frost",
+  "shortName": "Frost",
+  "era": "1874-1963",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1874-1963",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Robert Frost is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "81 language biography editions",
+    "Historical Popularity Index 83.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Robert Frost",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Robert Frost",
+      "url": "https://pantheon.world/profile/person/Robert_Frost",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "robert-frost-pantheon-profile",
+      "text": "Pantheon ranks Robert Frost as a globally documented writer with biographies in 81 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Robert Frost a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Robert Frost",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Frost",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

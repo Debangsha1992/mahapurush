@@ -1,0 +1,47 @@
+{
+  "id": "danny-devito",
+  "slug": "danny-devito",
+  "name": "Danny DeVito",
+  "shortName": "DeVito",
+  "era": "born 1944",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1944",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Danny DeVito is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "82 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Danny DeVito",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Danny DeVito",
+      "url": "https://pantheon.world/profile/person/Danny_DeVito",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "danny-devito-pantheon-profile",
+      "text": "Pantheon ranks Danny DeVito as a globally documented actor with biographies in 82 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Danny DeVito a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Danny DeVito",
+      "sourceUrl": "https://pantheon.world/profile/person/Danny_DeVito",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "harun-al-rashid",
+  "slug": "harun-al-rashid",
+  "name": "Harun al-Rashid",
+  "shortName": "al-Rashid",
+  "era": "766-809",
+  "region": "Iran",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "766-809",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Harun al-Rashid is a notable politician associated with Iran.",
+  "knownFor": [
+    "Politician",
+    "83 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Harun al-Rashid",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Harun al-Rashid",
+      "url": "https://pantheon.world/profile/person/Harun_al-Rashid",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "harun-al-rashid-pantheon-profile",
+      "text": "Pantheon ranks Harun al-Rashid as a globally documented politician with biographies in 83 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Harun al-Rashid a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Harun al-Rashid",
+      "sourceUrl": "https://pantheon.world/profile/person/Harun_al-Rashid",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

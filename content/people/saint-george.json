@@ -1,0 +1,48 @@
+{
+  "id": "saint-george",
+  "slug": "saint-george",
+  "name": "Saint George",
+  "shortName": "George",
+  "era": "280-303",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "280-303",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Saint George is a notable religious figure associated with Türkiye.",
+  "knownFor": [
+    "Religious Figure",
+    "88 language biography editions",
+    "Historical Popularity Index 87.6"
+  ],
+  "featured": true,
+  "featuredRank": 243,
+  "imageAlt": "Portrait-style visual for Saint George",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Saint George",
+      "url": "https://pantheon.world/profile/person/Saint_George",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "saint-george-pantheon-profile",
+      "text": "Pantheon ranks Saint George as a globally documented religious figure with biographies in 88 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Saint George a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Saint George",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_George",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

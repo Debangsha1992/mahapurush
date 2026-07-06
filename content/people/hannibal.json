@@ -1,0 +1,48 @@
+{
+  "id": "hannibal",
+  "slug": "hannibal",
+  "name": "Hannibal",
+  "shortName": "Hannibal",
+  "era": "-247--183",
+  "region": "Tunisia",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-247--183",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Hannibal is a notable politician associated with Tunisia.",
+  "knownFor": [
+    "Politician",
+    "114 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 308,
+  "imageAlt": "Portrait-style visual for Hannibal",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hannibal",
+      "url": "https://pantheon.world/profile/person/Hannibal",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hannibal-pantheon-profile",
+      "text": "Pantheon ranks Hannibal as a globally documented politician with biographies in 114 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hannibal a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hannibal",
+      "sourceUrl": "https://pantheon.world/profile/person/Hannibal",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

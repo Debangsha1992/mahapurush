@@ -1,0 +1,48 @@
+{
+  "id": "pope-urban-vii",
+  "slug": "pope-urban-vii",
+  "name": "Pope Urban VII",
+  "shortName": "VII",
+  "era": "1521-1590",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1521-1590",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Urban VII is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "77 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 439,
+  "imageAlt": "Portrait-style visual for Pope Urban VII",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Urban VII",
+      "url": "https://pantheon.world/profile/person/Pope_Urban_VII",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-urban-vii-pantheon-profile",
+      "text": "Pantheon ranks Pope Urban VII as a globally documented religious figure with biographies in 77 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Urban VII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Urban VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Urban_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

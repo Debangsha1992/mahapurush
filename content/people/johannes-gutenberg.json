@@ -1,0 +1,48 @@
+{
+  "id": "johannes-gutenberg",
+  "slug": "johannes-gutenberg",
+  "name": "Johannes Gutenberg",
+  "shortName": "Gutenberg",
+  "era": "1394-1468",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1394-1468",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "inventor"
+  ],
+  "summary": "Johannes Gutenberg is a notable inventor associated with Germany.",
+  "knownFor": [
+    "Inventor",
+    "160 language biography editions",
+    "Historical Popularity Index 90.6"
+  ],
+  "featured": true,
+  "featuredRank": 116,
+  "imageAlt": "Portrait-style visual for Johannes Gutenberg",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Johannes Gutenberg",
+      "url": "https://pantheon.world/profile/person/Johannes_Gutenberg",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "johannes-gutenberg-pantheon-profile",
+      "text": "Pantheon ranks Johannes Gutenberg as a globally documented inventor with biographies in 160 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Johannes Gutenberg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Johannes Gutenberg",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Gutenberg",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

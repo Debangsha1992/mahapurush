@@ -1,0 +1,48 @@
+{
+  "id": "muammar-gaddafi",
+  "slug": "muammar-gaddafi",
+  "name": "Muammar Gaddafi",
+  "shortName": "Gaddafi",
+  "era": "1942-2011",
+  "region": "Libya",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1942-2011",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Muammar Gaddafi is a notable politician associated with Libya.",
+  "knownFor": [
+    "Politician",
+    "142 language biography editions",
+    "Historical Popularity Index 85.5"
+  ],
+  "featured": true,
+  "featuredRank": 390,
+  "imageAlt": "Portrait-style visual for Muammar Gaddafi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Muammar Gaddafi",
+      "url": "https://pantheon.world/profile/person/Muammar_Gaddafi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "muammar-gaddafi-pantheon-profile",
+      "text": "Pantheon ranks Muammar Gaddafi as a globally documented politician with biographies in 142 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Muammar Gaddafi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Muammar Gaddafi",
+      "sourceUrl": "https://pantheon.world/profile/person/Muammar_Gaddafi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

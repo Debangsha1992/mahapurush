@@ -1,0 +1,47 @@
+{
+  "id": "alfredo-di-stefano",
+  "slug": "alfredo-di-stefano",
+  "name": "Alfredo Di Stéfano",
+  "shortName": "Stéfano",
+  "era": "1926-2014",
+  "region": "Argentina",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1926-2014",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "soccer-player"
+  ],
+  "summary": "Alfredo Di Stéfano is a notable soccer player associated with Argentina.",
+  "knownFor": [
+    "Soccer Player",
+    "78 language biography editions",
+    "Historical Popularity Index 81.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Alfredo Di Stéfano",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alfredo Di Stéfano",
+      "url": "https://pantheon.world/profile/person/Alfredo_Di_St%C3%A9fano",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alfredo-di-stefano-pantheon-profile",
+      "text": "Pantheon ranks Alfredo Di Stéfano as a globally documented soccer player with biographies in 78 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alfredo Di Stéfano a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alfredo Di Stéfano",
+      "sourceUrl": "https://pantheon.world/profile/person/Alfredo_Di_St%C3%A9fano",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

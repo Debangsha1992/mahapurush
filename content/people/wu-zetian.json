@@ -1,0 +1,47 @@
+{
+  "id": "wu-zetian",
+  "slug": "wu-zetian",
+  "name": "Wu Zetian",
+  "shortName": "Zetian",
+  "era": "624-705",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "624-705",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Wu Zetian is a notable politician associated with China.",
+  "knownFor": [
+    "Politician",
+    "66 language biography editions",
+    "Historical Popularity Index 81.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Wu Zetian",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Wu Zetian",
+      "url": "https://pantheon.world/profile/person/Wu_Zetian",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "wu-zetian-pantheon-profile",
+      "text": "Pantheon ranks Wu Zetian as a globally documented politician with biographies in 66 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Wu Zetian a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Wu Zetian",
+      "sourceUrl": "https://pantheon.world/profile/person/Wu_Zetian",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

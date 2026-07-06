@@ -1,0 +1,47 @@
+{
+  "id": "wassily-kandinsky",
+  "slug": "wassily-kandinsky",
+  "name": "Wassily Kandinsky",
+  "shortName": "Kandinsky",
+  "era": "1866-1944",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1866-1944",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Wassily Kandinsky is a notable painter associated with Russia.",
+  "knownFor": [
+    "Painter",
+    "84 language biography editions",
+    "Historical Popularity Index 84.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Wassily Kandinsky",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Wassily Kandinsky",
+      "url": "https://pantheon.world/profile/person/Wassily_Kandinsky",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "wassily-kandinsky-pantheon-profile",
+      "text": "Pantheon ranks Wassily Kandinsky as a globally documented painter with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Wassily Kandinsky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Wassily Kandinsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Wassily_Kandinsky",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "louis-xii-of-france",
+  "slug": "louis-xii-of-france",
+  "name": "Louis XII of France",
+  "shortName": "France",
+  "era": "1462-1515",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1462-1515",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Louis XII of France is a notable politician associated with France.",
+  "knownFor": [
+    "Politician",
+    "76 language biography editions",
+    "Historical Popularity Index 81.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Louis XII of France",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Louis XII of France",
+      "url": "https://pantheon.world/profile/person/Louis_XII_of_France",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "louis-xii-of-france-pantheon-profile",
+      "text": "Pantheon ranks Louis XII of France as a globally documented politician with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Louis XII of France a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Louis XII of France",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_XII_of_France",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

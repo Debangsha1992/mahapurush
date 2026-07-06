@@ -1,0 +1,47 @@
+{
+  "id": "joseph-ii-holy-roman-emperor",
+  "slug": "joseph-ii-holy-roman-emperor",
+  "name": "Joseph II, Holy Roman Emperor",
+  "shortName": "Emperor",
+  "era": "1741-1790",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1741-1790",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Joseph II, Holy Roman Emperor is a notable politician associated with Austria.",
+  "knownFor": [
+    "Politician",
+    "72 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Joseph II, Holy Roman Emperor",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Joseph II, Holy Roman Emperor",
+      "url": "https://pantheon.world/profile/person/Joseph_II%2C_Holy_Roman_Emperor",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "joseph-ii-holy-roman-emperor-pantheon-profile",
+      "text": "Pantheon ranks Joseph II, Holy Roman Emperor as a globally documented politician with biographies in 72 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Joseph II, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Joseph II, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_II%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

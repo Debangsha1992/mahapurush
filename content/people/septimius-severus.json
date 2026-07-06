@@ -1,0 +1,47 @@
+{
+  "id": "septimius-severus",
+  "slug": "septimius-severus",
+  "name": "Septimius Severus",
+  "shortName": "Severus",
+  "era": "145-211",
+  "region": "Libya",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "145-211",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Septimius Severus is a notable politician associated with Libya.",
+  "knownFor": [
+    "Politician",
+    "85 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Septimius Severus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Septimius Severus",
+      "url": "https://pantheon.world/profile/person/Septimius_Severus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "septimius-severus-pantheon-profile",
+      "text": "Pantheon ranks Septimius Severus as a globally documented politician with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Septimius Severus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Septimius Severus",
+      "sourceUrl": "https://pantheon.world/profile/person/Septimius_Severus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

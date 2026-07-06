@@ -1,0 +1,47 @@
+{
+  "id": "evangelista-torricelli",
+  "slug": "evangelista-torricelli",
+  "name": "Evangelista Torricelli",
+  "shortName": "Torricelli",
+  "era": "1608-1647",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1608-1647",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Evangelista Torricelli is a notable physicist associated with Italy.",
+  "knownFor": [
+    "Physicist",
+    "84 language biography editions",
+    "Historical Popularity Index 84.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Evangelista Torricelli",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Evangelista Torricelli",
+      "url": "https://pantheon.world/profile/person/Evangelista_Torricelli",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "evangelista-torricelli-pantheon-profile",
+      "text": "Pantheon ranks Evangelista Torricelli as a globally documented physicist with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Evangelista Torricelli a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Evangelista Torricelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Evangelista_Torricelli",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

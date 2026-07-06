@@ -1,0 +1,48 @@
+{
+  "id": "pocahontas",
+  "slug": "pocahontas",
+  "name": "Pocahontas",
+  "shortName": "Pocahontas",
+  "era": "1595-1617",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1595-1617",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "diplomat"
+  ],
+  "summary": "Pocahontas is a notable diplomat associated with United States.",
+  "knownFor": [
+    "Diplomat",
+    "61 language biography editions",
+    "Historical Popularity Index 85.5"
+  ],
+  "featured": true,
+  "featuredRank": 389,
+  "imageAlt": "Portrait-style visual for Pocahontas",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pocahontas",
+      "url": "https://pantheon.world/profile/person/Pocahontas",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pocahontas-pantheon-profile",
+      "text": "Pantheon ranks Pocahontas as a globally documented diplomat with biographies in 61 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pocahontas a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pocahontas",
+      "sourceUrl": "https://pantheon.world/profile/person/Pocahontas",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

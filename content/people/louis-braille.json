@@ -1,0 +1,47 @@
+{
+  "id": "louis-braille",
+  "slug": "louis-braille",
+  "name": "Louis Braille",
+  "shortName": "Braille",
+  "era": "1809-1852",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1809-1852",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "inventor"
+  ],
+  "summary": "Louis Braille is a notable inventor associated with France.",
+  "knownFor": [
+    "Inventor",
+    "87 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Louis Braille",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Louis Braille",
+      "url": "https://pantheon.world/profile/person/Louis_Braille",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "louis-braille-pantheon-profile",
+      "text": "Pantheon ranks Louis Braille as a globally documented inventor with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Louis Braille a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Louis Braille",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_Braille",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "john-f-kennedy",
+  "slug": "john-f-kennedy",
+  "name": "John F. Kennedy",
+  "shortName": "Kennedy",
+  "era": "1917-1963",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1917-1963",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "John F. Kennedy is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "175 language biography editions",
+    "Historical Popularity Index 86.0"
+  ],
+  "featured": true,
+  "featuredRank": 346,
+  "imageAlt": "Portrait-style visual for John F. Kennedy",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: John F. Kennedy",
+      "url": "https://pantheon.world/profile/person/John_F._Kennedy",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "john-f-kennedy-pantheon-profile",
+      "text": "Pantheon ranks John F. Kennedy as a globally documented politician with biographies in 175 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make John F. Kennedy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: John F. Kennedy",
+      "sourceUrl": "https://pantheon.world/profile/person/John_F._Kennedy",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

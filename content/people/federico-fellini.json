@@ -1,0 +1,47 @@
+{
+  "id": "federico-fellini",
+  "slug": "federico-fellini",
+  "name": "Federico Fellini",
+  "shortName": "Fellini",
+  "era": "1920-1993",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1920-1993",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "film-director"
+  ],
+  "summary": "Federico Fellini is a notable film director associated with Italy.",
+  "knownFor": [
+    "Film Director",
+    "127 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Federico Fellini",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Federico Fellini",
+      "url": "https://pantheon.world/profile/person/Federico_Fellini",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "federico-fellini-pantheon-profile",
+      "text": "Pantheon ranks Federico Fellini as a globally documented film director with biographies in 127 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Federico Fellini a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Federico Fellini",
+      "sourceUrl": "https://pantheon.world/profile/person/Federico_Fellini",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

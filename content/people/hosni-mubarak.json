@@ -1,0 +1,47 @@
+{
+  "id": "hosni-mubarak",
+  "slug": "hosni-mubarak",
+  "name": "Hosni Mubarak",
+  "shortName": "Mubarak",
+  "era": "1928-2020",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1928-2020",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Hosni Mubarak is a notable politician associated with Egypt.",
+  "knownFor": [
+    "Politician",
+    "116 language biography editions",
+    "Historical Popularity Index 82.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Hosni Mubarak",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hosni Mubarak",
+      "url": "https://pantheon.world/profile/person/Hosni_Mubarak",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hosni-mubarak-pantheon-profile",
+      "text": "Pantheon ranks Hosni Mubarak as a globally documented politician with biographies in 116 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hosni Mubarak a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hosni Mubarak",
+      "sourceUrl": "https://pantheon.world/profile/person/Hosni_Mubarak",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "kim-il-sung",
+  "slug": "kim-il-sung",
+  "name": "Kim Il-sung",
+  "shortName": "Il-sung",
+  "era": "1912-1994",
+  "region": "South Korea",
+  "regionId": "east-asia",
+  "lifespan": "1912-1994",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Kim Il-sung is a notable politician associated with South Korea.",
+  "knownFor": [
+    "Politician",
+    "139 language biography editions",
+    "Historical Popularity Index 89.1"
+  ],
+  "featured": true,
+  "featuredRank": 169,
+  "imageAlt": "Portrait-style visual for Kim Il-sung",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Kim Il-sung",
+      "url": "https://pantheon.world/profile/person/Kim_Il-sung",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "kim-il-sung-pantheon-profile",
+      "text": "Pantheon ranks Kim Il-sung as a globally documented politician with biographies in 139 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Kim Il-sung a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Kim Il-sung",
+      "sourceUrl": "https://pantheon.world/profile/person/Kim_Il-sung",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

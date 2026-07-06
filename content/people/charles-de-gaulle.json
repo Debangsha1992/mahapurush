@@ -1,0 +1,48 @@
+{
+  "id": "charles-de-gaulle",
+  "slug": "charles-de-gaulle",
+  "name": "Charles de Gaulle",
+  "shortName": "Gaulle",
+  "era": "1890-1970",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1890-1970",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Charles de Gaulle is a notable military personnel associated with France.",
+  "knownFor": [
+    "Military Personnel",
+    "169 language biography editions",
+    "Historical Popularity Index 86.7"
+  ],
+  "featured": true,
+  "featuredRank": 296,
+  "imageAlt": "Portrait-style visual for Charles de Gaulle",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Charles de Gaulle",
+      "url": "https://pantheon.world/profile/person/Charles_de_Gaulle",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "charles-de-gaulle-pantheon-profile",
+      "text": "Pantheon ranks Charles de Gaulle as a globally documented military personnel with biographies in 169 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles de Gaulle a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Charles de Gaulle",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_de_Gaulle",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

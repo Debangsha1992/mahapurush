@@ -1,0 +1,48 @@
+{
+  "id": "nikita-khrushchev",
+  "slug": "nikita-khrushchev",
+  "name": "Nikita Khrushchev",
+  "shortName": "Khrushchev",
+  "era": "1894-1971",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1894-1971",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Nikita Khrushchev is a notable politician associated with Russia.",
+  "knownFor": [
+    "Politician",
+    "126 language biography editions",
+    "Historical Popularity Index 85.6"
+  ],
+  "featured": true,
+  "featuredRank": 385,
+  "imageAlt": "Portrait-style visual for Nikita Khrushchev",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Nikita Khrushchev",
+      "url": "https://pantheon.world/profile/person/Nikita_Khrushchev",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "nikita-khrushchev-pantheon-profile",
+      "text": "Pantheon ranks Nikita Khrushchev as a globally documented politician with biographies in 126 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Nikita Khrushchev a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Nikita Khrushchev",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikita_Khrushchev",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

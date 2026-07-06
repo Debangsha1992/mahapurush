@@ -1,0 +1,47 @@
+{
+  "id": "anthony-hopkins",
+  "slug": "anthony-hopkins",
+  "name": "Anthony Hopkins",
+  "shortName": "Hopkins",
+  "era": "born 1937",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "born 1937",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Anthony Hopkins is a notable actor associated with United Kingdom.",
+  "knownFor": [
+    "Actor",
+    "104 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Anthony Hopkins",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Anthony Hopkins",
+      "url": "https://pantheon.world/profile/person/Anthony_Hopkins",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "anthony-hopkins-pantheon-profile",
+      "text": "Pantheon ranks Anthony Hopkins as a globally documented actor with biographies in 104 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Anthony Hopkins a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Anthony Hopkins",
+      "sourceUrl": "https://pantheon.world/profile/person/Anthony_Hopkins",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

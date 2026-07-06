@@ -1,0 +1,47 @@
+{
+  "id": "pope-leo-i",
+  "slug": "pope-leo-i",
+  "name": "Pope Leo I",
+  "shortName": "I",
+  "era": "390-461",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "390-461",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Leo I is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "84 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Leo I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Leo I",
+      "url": "https://pantheon.world/profile/person/Pope_Leo_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-leo-i-pantheon-profile",
+      "text": "Pantheon ranks Pope Leo I as a globally documented religious figure with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Leo I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Leo I",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Leo_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

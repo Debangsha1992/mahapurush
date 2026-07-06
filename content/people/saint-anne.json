@@ -1,0 +1,48 @@
+{
+  "id": "saint-anne",
+  "slug": "saint-anne",
+  "name": "Saint Anne",
+  "shortName": "Anne",
+  "era": "-100-100",
+  "region": "Global",
+  "regionId": "global-diaspora",
+  "lifespan": "-100-100",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Saint Anne is a notable religious figure associated with Global.",
+  "knownFor": [
+    "Religious Figure",
+    "69 language biography editions",
+    "Historical Popularity Index 87.9"
+  ],
+  "featured": true,
+  "featuredRank": 223,
+  "imageAlt": "Portrait-style visual for Saint Anne",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Saint Anne",
+      "url": "https://pantheon.world/profile/person/Saint_Anne",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "saint-anne-pantheon-profile",
+      "text": "Pantheon ranks Saint Anne as a globally documented religious figure with biographies in 69 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Saint Anne a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Saint Anne",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Anne",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

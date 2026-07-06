@@ -1,0 +1,48 @@
+{
+  "id": "jules-verne",
+  "slug": "jules-verne",
+  "name": "Jules Verne",
+  "shortName": "Verne",
+  "era": "1828-1905",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1828-1905",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Jules Verne is a notable writer associated with France.",
+  "knownFor": [
+    "Writer",
+    "125 language biography editions",
+    "Historical Popularity Index 88.3"
+  ],
+  "featured": true,
+  "featuredRank": 202,
+  "imageAlt": "Portrait-style visual for Jules Verne",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jules Verne",
+      "url": "https://pantheon.world/profile/person/Jules_Verne",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jules-verne-pantheon-profile",
+      "text": "Pantheon ranks Jules Verne as a globally documented writer with biographies in 125 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jules Verne a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jules Verne",
+      "sourceUrl": "https://pantheon.world/profile/person/Jules_Verne",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

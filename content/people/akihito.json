@@ -1,0 +1,47 @@
+{
+  "id": "akihito",
+  "slug": "akihito",
+  "name": "Akihito",
+  "shortName": "Akihito",
+  "era": "born 1933",
+  "region": "Japan",
+  "regionId": "east-asia",
+  "lifespan": "born 1933",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Akihito is a notable nobleman associated with Japan.",
+  "knownFor": [
+    "Nobleman",
+    "116 language biography editions",
+    "Historical Popularity Index 83.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Akihito",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Akihito",
+      "url": "https://pantheon.world/profile/person/Akihito",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "akihito-pantheon-profile",
+      "text": "Pantheon ranks Akihito as a globally documented nobleman with biographies in 116 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Akihito a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Akihito",
+      "sourceUrl": "https://pantheon.world/profile/person/Akihito",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

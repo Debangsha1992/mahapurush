@@ -1,0 +1,48 @@
+{
+  "id": "george-orwell",
+  "slug": "george-orwell",
+  "name": "George Orwell",
+  "shortName": "Orwell",
+  "era": "1903-1950",
+  "region": "India",
+  "regionId": "south-asia",
+  "lifespan": "1903-1950",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "George Orwell is a notable writer associated with India.",
+  "knownFor": [
+    "Writer",
+    "145 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 415,
+  "imageAlt": "Portrait-style visual for George Orwell",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: George Orwell",
+      "url": "https://pantheon.world/profile/person/George_Orwell",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "george-orwell-pantheon-profile",
+      "text": "Pantheon ranks George Orwell as a globally documented writer with biographies in 145 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make George Orwell a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: George Orwell",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Orwell",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

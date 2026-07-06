@@ -1,0 +1,48 @@
+{
+  "id": "boris-yeltsin",
+  "slug": "boris-yeltsin",
+  "name": "Boris Yeltsin",
+  "shortName": "Yeltsin",
+  "era": "1931-2007",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1931-2007",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Boris Yeltsin is a notable politician associated with Russia.",
+  "knownFor": [
+    "Politician",
+    "135 language biography editions",
+    "Historical Popularity Index 84.9"
+  ],
+  "featured": true,
+  "featuredRank": 451,
+  "imageAlt": "Portrait-style visual for Boris Yeltsin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Boris Yeltsin",
+      "url": "https://pantheon.world/profile/person/Boris_Yeltsin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "boris-yeltsin-pantheon-profile",
+      "text": "Pantheon ranks Boris Yeltsin as a globally documented politician with biographies in 135 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Boris Yeltsin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Boris Yeltsin",
+      "sourceUrl": "https://pantheon.world/profile/person/Boris_Yeltsin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

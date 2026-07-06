@@ -1,0 +1,48 @@
+{
+  "id": "vasco-da-gama",
+  "slug": "vasco-da-gama",
+  "name": "Vasco da Gama",
+  "shortName": "Gama",
+  "era": "1460-1524",
+  "region": "Portugal",
+  "regionId": "europe",
+  "lifespan": "1460-1524",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "explorer"
+  ],
+  "summary": "Vasco da Gama is a notable explorer associated with Portugal.",
+  "knownFor": [
+    "Explorer",
+    "167 language biography editions",
+    "Historical Popularity Index 91.1"
+  ],
+  "featured": true,
+  "featuredRank": 99,
+  "imageAlt": "Portrait-style visual for Vasco da Gama",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Vasco da Gama",
+      "url": "https://pantheon.world/profile/person/Vasco_da_Gama",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "vasco-da-gama-pantheon-profile",
+      "text": "Pantheon ranks Vasco da Gama as a globally documented explorer with biographies in 167 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Vasco da Gama a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Vasco da Gama",
+      "sourceUrl": "https://pantheon.world/profile/person/Vasco_da_Gama",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

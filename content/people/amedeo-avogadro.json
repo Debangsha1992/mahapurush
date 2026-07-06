@@ -1,0 +1,47 @@
+{
+  "id": "amedeo-avogadro",
+  "slug": "amedeo-avogadro",
+  "name": "Amedeo Avogadro",
+  "shortName": "Avogadro",
+  "era": "1776-1856",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1776-1856",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "chemist"
+  ],
+  "summary": "Amedeo Avogadro is a notable chemist associated with Italy.",
+  "knownFor": [
+    "Chemist",
+    "92 language biography editions",
+    "Historical Popularity Index 81.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Amedeo Avogadro",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Amedeo Avogadro",
+      "url": "https://pantheon.world/profile/person/Amedeo_Avogadro",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "amedeo-avogadro-pantheon-profile",
+      "text": "Pantheon ranks Amedeo Avogadro as a globally documented chemist with biographies in 92 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Amedeo Avogadro a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Amedeo Avogadro",
+      "sourceUrl": "https://pantheon.world/profile/person/Amedeo_Avogadro",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

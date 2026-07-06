@@ -1,0 +1,48 @@
+{
+  "id": "david",
+  "slug": "david",
+  "name": "David",
+  "shortName": "David",
+  "era": "-1010--970",
+  "region": "Global",
+  "regionId": "global-diaspora",
+  "lifespan": "-1010--970",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "David is a notable politician associated with Global.",
+  "knownFor": [
+    "Politician",
+    "108 language biography editions",
+    "Historical Popularity Index 89.0"
+  ],
+  "featured": true,
+  "featuredRank": 176,
+  "imageAlt": "Portrait-style visual for David",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: David",
+      "url": "https://pantheon.world/profile/person/David",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "david-pantheon-profile",
+      "text": "Pantheon ranks David as a globally documented politician with biographies in 108 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make David a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: David",
+      "sourceUrl": "https://pantheon.world/profile/person/David",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "francisco-franco",
+  "slug": "francisco-franco",
+  "name": "Francisco Franco",
+  "shortName": "Franco",
+  "era": "1892-1975",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1892-1975",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Francisco Franco is a notable politician associated with Spain.",
+  "knownFor": [
+    "Politician",
+    "117 language biography editions",
+    "Historical Popularity Index 85.7"
+  ],
+  "featured": true,
+  "featuredRank": 377,
+  "imageAlt": "Portrait-style visual for Francisco Franco",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Francisco Franco",
+      "url": "https://pantheon.world/profile/person/Francisco_Franco",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "francisco-franco-pantheon-profile",
+      "text": "Pantheon ranks Francisco Franco as a globally documented politician with biographies in 117 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Francisco Franco a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Francisco Franco",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Franco",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

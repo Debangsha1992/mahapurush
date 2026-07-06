@@ -1,0 +1,47 @@
+{
+  "id": "pope-alexander-vii",
+  "slug": "pope-alexander-vii",
+  "name": "Pope Alexander VII",
+  "shortName": "VII",
+  "era": "1599-1667",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1599-1667",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Alexander VII is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "72 language biography editions",
+    "Historical Popularity Index 81.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Alexander VII",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Alexander VII",
+      "url": "https://pantheon.world/profile/person/Pope_Alexander_VII",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-alexander-vii-pantheon-profile",
+      "text": "Pantheon ranks Pope Alexander VII as a globally documented religious figure with biographies in 72 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Alexander VII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Alexander VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Alexander_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

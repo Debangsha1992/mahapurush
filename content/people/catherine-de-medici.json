@@ -1,0 +1,47 @@
+{
+  "id": "catherine-de-medici",
+  "slug": "catherine-de-medici",
+  "name": "Catherine de' Medici",
+  "shortName": "Medici",
+  "era": "1519-1589",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1519-1589",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Catherine de' Medici is a notable companion associated with Italy.",
+  "knownFor": [
+    "Companion",
+    "77 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Catherine de' Medici",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Catherine de' Medici",
+      "url": "https://pantheon.world/profile/person/Catherine_de'_Medici",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "catherine-de-medici-pantheon-profile",
+      "text": "Pantheon ranks Catherine de' Medici as a globally documented companion with biographies in 77 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Catherine de' Medici a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Catherine de' Medici",
+      "sourceUrl": "https://pantheon.world/profile/person/Catherine_de'_Medici",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

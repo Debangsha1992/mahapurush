@@ -1,0 +1,47 @@
+{
+  "id": "alexander-von-humboldt",
+  "slug": "alexander-von-humboldt",
+  "name": "Alexander von Humboldt",
+  "shortName": "Humboldt",
+  "era": "1769-1859",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1769-1859",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "geographer"
+  ],
+  "summary": "Alexander von Humboldt is a notable geographer associated with Germany.",
+  "knownFor": [
+    "Geographer",
+    "106 language biography editions",
+    "Historical Popularity Index 83.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Alexander von Humboldt",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alexander von Humboldt",
+      "url": "https://pantheon.world/profile/person/Alexander_von_Humboldt",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alexander-von-humboldt-pantheon-profile",
+      "text": "Pantheon ranks Alexander von Humboldt as a globally documented geographer with biographies in 106 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alexander von Humboldt a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alexander von Humboldt",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_von_Humboldt",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

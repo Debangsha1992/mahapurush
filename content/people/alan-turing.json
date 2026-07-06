@@ -1,0 +1,48 @@
+{
+  "id": "alan-turing",
+  "slug": "alan-turing",
+  "name": "Alan Turing",
+  "shortName": "Turing",
+  "era": "1912-1954",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1912-1954",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "computer-scientist"
+  ],
+  "summary": "Alan Turing is a notable computer scientist associated with United Kingdom.",
+  "knownFor": [
+    "Computer Scientist",
+    "159 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 427,
+  "imageAlt": "Portrait-style visual for Alan Turing",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alan Turing",
+      "url": "https://pantheon.world/profile/person/Alan_Turing",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alan-turing-pantheon-profile",
+      "text": "Pantheon ranks Alan Turing as a globally documented computer scientist with biographies in 159 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alan Turing a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alan Turing",
+      "sourceUrl": "https://pantheon.world/profile/person/Alan_Turing",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

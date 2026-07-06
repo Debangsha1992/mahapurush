@@ -1,0 +1,47 @@
+{
+  "id": "bayezid-i",
+  "slug": "bayezid-i",
+  "name": "Bayezid I",
+  "shortName": "I",
+  "era": "1354-1403",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1354-1403",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Bayezid I is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "77 language biography editions",
+    "Historical Popularity Index 83.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Bayezid I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bayezid I",
+      "url": "https://pantheon.world/profile/person/Bayezid_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bayezid-i-pantheon-profile",
+      "text": "Pantheon ranks Bayezid I as a globally documented politician with biographies in 77 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bayezid I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bayezid I",
+      "sourceUrl": "https://pantheon.world/profile/person/Bayezid_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

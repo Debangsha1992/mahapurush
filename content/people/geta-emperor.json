@@ -1,0 +1,48 @@
+{
+  "id": "geta-emperor",
+  "slug": "geta-emperor",
+  "name": "Geta",
+  "shortName": "Geta",
+  "era": "189-211",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "189-211",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Geta is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "64 language biography editions",
+    "Historical Popularity Index 86.3"
+  ],
+  "featured": true,
+  "featuredRank": 329,
+  "imageAlt": "Portrait-style visual for Geta",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Geta",
+      "url": "https://pantheon.world/profile/person/Geta_(emperor)",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "geta-emperor-pantheon-profile",
+      "text": "Pantheon ranks Geta as a globally documented politician with biographies in 64 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Geta a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Geta",
+      "sourceUrl": "https://pantheon.world/profile/person/Geta_(emperor)",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

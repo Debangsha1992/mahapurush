@@ -1,0 +1,48 @@
+{
+  "id": "khadija-bint-khuwaylid",
+  "slug": "khadija-bint-khuwaylid",
+  "name": "Khadija bint Khuwaylid",
+  "shortName": "Khuwaylid",
+  "era": "556-619",
+  "region": "Saudi Arabia",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "556-619",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Khadija bint Khuwaylid is a notable companion associated with Saudi Arabia.",
+  "knownFor": [
+    "Companion",
+    "89 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 315,
+  "imageAlt": "Portrait-style visual for Khadija bint Khuwaylid",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Khadija bint Khuwaylid",
+      "url": "https://pantheon.world/profile/person/Khadija_bint_Khuwaylid",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "khadija-bint-khuwaylid-pantheon-profile",
+      "text": "Pantheon ranks Khadija bint Khuwaylid as a globally documented companion with biographies in 89 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Khadija bint Khuwaylid a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Khadija bint Khuwaylid",
+      "sourceUrl": "https://pantheon.world/profile/person/Khadija_bint_Khuwaylid",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

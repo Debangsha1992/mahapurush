@@ -1,0 +1,48 @@
+{
+  "id": "ibn-battuta",
+  "slug": "ibn-battuta",
+  "name": "Ibn Battuta",
+  "shortName": "Battuta",
+  "era": "1304-1368",
+  "region": "Morocco",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1304-1368",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "explorer"
+  ],
+  "summary": "Ibn Battuta is a notable explorer associated with Morocco.",
+  "knownFor": [
+    "Explorer",
+    "140 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 437,
+  "imageAlt": "Portrait-style visual for Ibn Battuta",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ibn Battuta",
+      "url": "https://pantheon.world/profile/person/Ibn_Battuta",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ibn-battuta-pantheon-profile",
+      "text": "Pantheon ranks Ibn Battuta as a globally documented explorer with biographies in 140 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ibn Battuta a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ibn Battuta",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibn_Battuta",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "steven-spielberg",
+  "slug": "steven-spielberg",
+  "name": "Steven Spielberg",
+  "shortName": "Spielberg",
+  "era": "born 1946",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1946",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "film-director"
+  ],
+  "summary": "Steven Spielberg is a notable film director associated with United States.",
+  "knownFor": [
+    "Film Director",
+    "143 language biography editions",
+    "Historical Popularity Index 87.7"
+  ],
+  "featured": true,
+  "featuredRank": 235,
+  "imageAlt": "Portrait-style visual for Steven Spielberg",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Steven Spielberg",
+      "url": "https://pantheon.world/profile/person/Steven_Spielberg",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "steven-spielberg-pantheon-profile",
+      "text": "Pantheon ranks Steven Spielberg as a globally documented film director with biographies in 143 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Steven Spielberg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Steven Spielberg",
+      "sourceUrl": "https://pantheon.world/profile/person/Steven_Spielberg",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

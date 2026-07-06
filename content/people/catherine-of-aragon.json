@@ -1,0 +1,47 @@
+{
+  "id": "catherine-of-aragon",
+  "slug": "catherine-of-aragon",
+  "name": "Catherine of Aragon",
+  "shortName": "Aragon",
+  "era": "1485-1536",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1485-1536",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Catherine of Aragon is a notable religious figure associated with Spain.",
+  "knownFor": [
+    "Religious Figure",
+    "75 language biography editions",
+    "Historical Popularity Index 81.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Catherine of Aragon",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Catherine of Aragon",
+      "url": "https://pantheon.world/profile/person/Catherine_of_Aragon",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "catherine-of-aragon-pantheon-profile",
+      "text": "Pantheon ranks Catherine of Aragon as a globally documented religious figure with biographies in 75 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Catherine of Aragon a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Catherine of Aragon",
+      "sourceUrl": "https://pantheon.world/profile/person/Catherine_of_Aragon",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

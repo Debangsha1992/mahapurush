@@ -1,0 +1,48 @@
+{
+  "id": "saladin",
+  "slug": "saladin",
+  "name": "Saladin",
+  "shortName": "Saladin",
+  "era": "1138-1193",
+  "region": "Iraq",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1138-1193",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Saladin is a notable politician associated with Iraq.",
+  "knownFor": [
+    "Politician",
+    "141 language biography editions",
+    "Historical Popularity Index 91.4"
+  ],
+  "featured": true,
+  "featuredRank": 93,
+  "imageAlt": "Portrait-style visual for Saladin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Saladin",
+      "url": "https://pantheon.world/profile/person/Saladin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "saladin-pantheon-profile",
+      "text": "Pantheon ranks Saladin as a globally documented politician with biographies in 141 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Saladin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Saladin",
+      "sourceUrl": "https://pantheon.world/profile/person/Saladin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

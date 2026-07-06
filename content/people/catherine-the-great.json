@@ -1,0 +1,48 @@
+{
+  "id": "catherine-the-great",
+  "slug": "catherine-the-great",
+  "name": "Catherine the Great",
+  "shortName": "Great",
+  "era": "1729-1796",
+  "region": "Poland",
+  "regionId": "europe",
+  "lifespan": "1729-1796",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Catherine the Great is a notable nobleman associated with Poland.",
+  "knownFor": [
+    "Nobleman",
+    "119 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 309,
+  "imageAlt": "Portrait-style visual for Catherine the Great",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Catherine the Great",
+      "url": "https://pantheon.world/profile/person/Catherine_the_Great",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "catherine-the-great-pantheon-profile",
+      "text": "Pantheon ranks Catherine the Great as a globally documented nobleman with biographies in 119 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Catherine the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Catherine the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Catherine_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

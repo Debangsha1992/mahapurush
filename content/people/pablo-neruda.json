@@ -1,0 +1,47 @@
+{
+  "id": "pablo-neruda",
+  "slug": "pablo-neruda",
+  "name": "Pablo Neruda",
+  "shortName": "Neruda",
+  "era": "1904-1973",
+  "region": "Chile",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1904-1973",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Pablo Neruda is a notable writer associated with Chile.",
+  "knownFor": [
+    "Writer",
+    "127 language biography editions",
+    "Historical Popularity Index 82.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pablo Neruda",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pablo Neruda",
+      "url": "https://pantheon.world/profile/person/Pablo_Neruda",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pablo-neruda-pantheon-profile",
+      "text": "Pantheon ranks Pablo Neruda as a globally documented writer with biographies in 127 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pablo Neruda a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pablo Neruda",
+      "sourceUrl": "https://pantheon.world/profile/person/Pablo_Neruda",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

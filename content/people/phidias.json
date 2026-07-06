@@ -1,0 +1,47 @@
+{
+  "id": "phidias",
+  "slug": "phidias",
+  "name": "Phidias",
+  "shortName": "Phidias",
+  "era": "-490--430",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-490--430",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "sculptor"
+  ],
+  "summary": "Phidias is a notable sculptor associated with Greece.",
+  "knownFor": [
+    "Sculptor",
+    "68 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Phidias",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Phidias",
+      "url": "https://pantheon.world/profile/person/Phidias",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "phidias-pantheon-profile",
+      "text": "Pantheon ranks Phidias as a globally documented sculptor with biographies in 68 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Phidias a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Phidias",
+      "sourceUrl": "https://pantheon.world/profile/person/Phidias",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

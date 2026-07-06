@@ -1,0 +1,47 @@
+{
+  "id": "william-ewart-gladstone",
+  "slug": "william-ewart-gladstone",
+  "name": "William Ewart Gladstone",
+  "shortName": "Gladstone",
+  "era": "1809-1898",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1809-1898",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "William Ewart Gladstone is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "77 language biography editions",
+    "Historical Popularity Index 82.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for William Ewart Gladstone",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: William Ewart Gladstone",
+      "url": "https://pantheon.world/profile/person/William_Ewart_Gladstone",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "william-ewart-gladstone-pantheon-profile",
+      "text": "Pantheon ranks William Ewart Gladstone as a globally documented politician with biographies in 77 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make William Ewart Gladstone a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: William Ewart Gladstone",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Ewart_Gladstone",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

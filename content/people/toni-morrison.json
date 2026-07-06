@@ -1,0 +1,47 @@
+{
+  "id": "toni-morrison",
+  "slug": "toni-morrison",
+  "name": "Toni Morrison",
+  "shortName": "Morrison",
+  "era": "1931-2019",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1931-2019",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Toni Morrison is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "108 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Toni Morrison",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Toni Morrison",
+      "url": "https://pantheon.world/profile/person/Toni_Morrison",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "toni-morrison-pantheon-profile",
+      "text": "Pantheon ranks Toni Morrison as a globally documented writer with biographies in 108 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Toni Morrison a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Toni Morrison",
+      "sourceUrl": "https://pantheon.world/profile/person/Toni_Morrison",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

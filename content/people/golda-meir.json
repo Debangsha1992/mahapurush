@@ -1,0 +1,47 @@
+{
+  "id": "golda-meir",
+  "slug": "golda-meir",
+  "name": "Golda Meir",
+  "shortName": "Meir",
+  "era": "1898-1978",
+  "region": "Ukraine",
+  "regionId": "europe",
+  "lifespan": "1898-1978",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Golda Meir is a notable politician associated with Ukraine.",
+  "knownFor": [
+    "Politician",
+    "100 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Golda Meir",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Golda Meir",
+      "url": "https://pantheon.world/profile/person/Golda_Meir",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "golda-meir-pantheon-profile",
+      "text": "Pantheon ranks Golda Meir as a globally documented politician with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Golda Meir a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Golda Meir",
+      "sourceUrl": "https://pantheon.world/profile/person/Golda_Meir",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

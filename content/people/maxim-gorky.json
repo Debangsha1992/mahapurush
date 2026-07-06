@@ -1,0 +1,47 @@
+{
+  "id": "maxim-gorky",
+  "slug": "maxim-gorky",
+  "name": "Maxim Gorky",
+  "shortName": "Gorky",
+  "era": "1868-1936",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1868-1936",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Maxim Gorky is a notable writer associated with Russia.",
+  "knownFor": [
+    "Writer",
+    "113 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Maxim Gorky",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Maxim Gorky",
+      "url": "https://pantheon.world/profile/person/Maxim_Gorky",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "maxim-gorky-pantheon-profile",
+      "text": "Pantheon ranks Maxim Gorky as a globally documented writer with biographies in 113 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Maxim Gorky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Maxim Gorky",
+      "sourceUrl": "https://pantheon.world/profile/person/Maxim_Gorky",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

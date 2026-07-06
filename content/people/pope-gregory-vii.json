@@ -1,0 +1,47 @@
+{
+  "id": "pope-gregory-vii",
+  "slug": "pope-gregory-vii",
+  "name": "Pope Gregory VII",
+  "shortName": "VII",
+  "era": "1020-1085",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1020-1085",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Gregory VII is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "79 language biography editions",
+    "Historical Popularity Index 81.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Gregory VII",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Gregory VII",
+      "url": "https://pantheon.world/profile/person/Pope_Gregory_VII",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-gregory-vii-pantheon-profile",
+      "text": "Pantheon ranks Pope Gregory VII as a globally documented religious figure with biographies in 79 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Gregory VII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Gregory VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Gregory_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

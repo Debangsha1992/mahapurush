@@ -1,0 +1,47 @@
+{
+  "id": "stefan-zweig",
+  "slug": "stefan-zweig",
+  "name": "Stefan Zweig",
+  "shortName": "Zweig",
+  "era": "1881-1942",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1881-1942",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Stefan Zweig is a notable writer associated with Austria.",
+  "knownFor": [
+    "Writer",
+    "83 language biography editions",
+    "Historical Popularity Index 83.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Stefan Zweig",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Stefan Zweig",
+      "url": "https://pantheon.world/profile/person/Stefan_Zweig",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "stefan-zweig-pantheon-profile",
+      "text": "Pantheon ranks Stefan Zweig as a globally documented writer with biographies in 83 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Stefan Zweig a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Stefan Zweig",
+      "sourceUrl": "https://pantheon.world/profile/person/Stefan_Zweig",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

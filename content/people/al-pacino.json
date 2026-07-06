@@ -1,0 +1,48 @@
+{
+  "id": "al-pacino",
+  "slug": "al-pacino",
+  "name": "Al Pacino",
+  "shortName": "Pacino",
+  "era": "born 1940",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1940",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Al Pacino is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "122 language biography editions",
+    "Historical Popularity Index 89.3"
+  ],
+  "featured": true,
+  "featuredRank": 160,
+  "imageAlt": "Portrait-style visual for Al Pacino",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Al Pacino",
+      "url": "https://pantheon.world/profile/person/Al_Pacino",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "al-pacino-pantheon-profile",
+      "text": "Pantheon ranks Al Pacino as a globally documented actor with biographies in 122 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Al Pacino a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Al Pacino",
+      "sourceUrl": "https://pantheon.world/profile/person/Al_Pacino",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -6,9 +6,15 @@
   "era": "551-479 BCE",
   "region": "China",
   "lifespan": "551-479 BCE",
-  "domains": ["philosophy", "ethics", "education"],
+  "domains": [
+    "philosophy-ethics-religion"
+  ],
   "summary": "Confucius shaped traditions of moral education, public conduct, and social responsibility in East Asia.",
-  "knownFor": ["Analects", "ethical cultivation", "social harmony"],
+  "knownFor": [
+    "Analects",
+    "ethical cultivation",
+    "social harmony"
+  ],
   "facts": [
     {
       "id": "confucius-analects",
@@ -17,8 +23,24 @@
       "sourceTitle": "Stanford Encyclopedia of Philosophy: Confucius",
       "sourceUrl": "https://plato.stanford.edu/entries/confucius/",
       "sourceAccessedAt": "2026-07-05",
-      "tags": ["philosophy", "education"],
+      "tags": [
+        "philosophy",
+        "education"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "east-asia",
+  "primaryDomain": "philosophy-ethics-religion",
+  "featured": true,
+  "featuredRank": 7,
+  "imageAlt": "Portrait-style visual for Confucius",
+  "sourceRefs": [
+    {
+      "title": "Stanford Encyclopedia of Philosophy: Confucius",
+      "url": "https://plato.stanford.edu/entries/confucius/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

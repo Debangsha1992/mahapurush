@@ -1,0 +1,48 @@
+{
+  "id": "gregor-mendel",
+  "slug": "gregor-mendel",
+  "name": "Gregor Mendel",
+  "shortName": "Mendel",
+  "era": "1822-1884",
+  "region": "Czechia",
+  "regionId": "global-diaspora",
+  "lifespan": "1822-1884",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "biologist"
+  ],
+  "summary": "Gregor Mendel is a notable biologist associated with Czechia.",
+  "knownFor": [
+    "Biologist",
+    "114 language biography editions",
+    "Historical Popularity Index 85.7"
+  ],
+  "featured": true,
+  "featuredRank": 381,
+  "imageAlt": "Portrait-style visual for Gregor Mendel",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Gregor Mendel",
+      "url": "https://pantheon.world/profile/person/Gregor_Mendel",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "gregor-mendel-pantheon-profile",
+      "text": "Pantheon ranks Gregor Mendel as a globally documented biologist with biographies in 114 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Gregor Mendel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Gregor Mendel",
+      "sourceUrl": "https://pantheon.world/profile/person/Gregor_Mendel",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "johann-sebastian-bach",
+  "slug": "johann-sebastian-bach",
+  "name": "Johann Sebastian Bach",
+  "shortName": "Bach",
+  "era": "1685-1750",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1685-1750",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Johann Sebastian Bach is a notable composer associated with Germany.",
+  "knownFor": [
+    "Composer",
+    "217 language biography editions",
+    "Historical Popularity Index 92.8"
+  ],
+  "featured": true,
+  "featuredRank": 69,
+  "imageAlt": "Portrait-style visual for Johann Sebastian Bach",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Johann Sebastian Bach",
+      "url": "https://pantheon.world/profile/person/Johann_Sebastian_Bach",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "johann-sebastian-bach-pantheon-profile",
+      "text": "Pantheon ranks Johann Sebastian Bach as a globally documented composer with biographies in 217 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Johann Sebastian Bach a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Johann Sebastian Bach",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Sebastian_Bach",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

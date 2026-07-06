@@ -1,0 +1,48 @@
+{
+  "id": "clint-eastwood",
+  "slug": "clint-eastwood",
+  "name": "Clint Eastwood",
+  "shortName": "Eastwood",
+  "era": "born 1930",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1930",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Clint Eastwood is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "108 language biography editions",
+    "Historical Popularity Index 89.2"
+  ],
+  "featured": true,
+  "featuredRank": 165,
+  "imageAlt": "Portrait-style visual for Clint Eastwood",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Clint Eastwood",
+      "url": "https://pantheon.world/profile/person/Clint_Eastwood",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "clint-eastwood-pantheon-profile",
+      "text": "Pantheon ranks Clint Eastwood as a globally documented actor with biographies in 108 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Clint Eastwood a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Clint Eastwood",
+      "sourceUrl": "https://pantheon.world/profile/person/Clint_Eastwood",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

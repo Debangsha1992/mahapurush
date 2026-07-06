@@ -1,0 +1,48 @@
+{
+  "id": "baruch-spinoza",
+  "slug": "baruch-spinoza",
+  "name": "Baruch Spinoza",
+  "shortName": "Spinoza",
+  "era": "1632-1677",
+  "region": "Netherlands",
+  "regionId": "europe",
+  "lifespan": "1632-1677",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Baruch Spinoza is a notable philosopher associated with Netherlands.",
+  "knownFor": [
+    "Philosopher",
+    "117 language biography editions",
+    "Historical Popularity Index 90.6"
+  ],
+  "featured": true,
+  "featuredRank": 113,
+  "imageAlt": "Portrait-style visual for Baruch Spinoza",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Baruch Spinoza",
+      "url": "https://pantheon.world/profile/person/Baruch_Spinoza",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "baruch-spinoza-pantheon-profile",
+      "text": "Pantheon ranks Baruch Spinoza as a globally documented philosopher with biographies in 117 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Baruch Spinoza a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Baruch Spinoza",
+      "sourceUrl": "https://pantheon.world/profile/person/Baruch_Spinoza",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

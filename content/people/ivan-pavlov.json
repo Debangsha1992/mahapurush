@@ -1,0 +1,47 @@
+{
+  "id": "ivan-pavlov",
+  "slug": "ivan-pavlov",
+  "name": "Ivan Pavlov",
+  "shortName": "Pavlov",
+  "era": "1849-1936",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1849-1936",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "biologist"
+  ],
+  "summary": "Ivan Pavlov is a notable biologist associated with Russia.",
+  "knownFor": [
+    "Biologist",
+    "99 language biography editions",
+    "Historical Popularity Index 83.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ivan Pavlov",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ivan Pavlov",
+      "url": "https://pantheon.world/profile/person/Ivan_Pavlov",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ivan-pavlov-pantheon-profile",
+      "text": "Pantheon ranks Ivan Pavlov as a globally documented biologist with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ivan Pavlov a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ivan Pavlov",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivan_Pavlov",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

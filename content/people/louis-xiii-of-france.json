@@ -1,0 +1,48 @@
+{
+  "id": "louis-xiii-of-france",
+  "slug": "louis-xiii-of-france",
+  "name": "Louis XIII of France",
+  "shortName": "France",
+  "era": "1601-1643",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1601-1643",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Louis XIII of France is a notable politician associated with France.",
+  "knownFor": [
+    "Politician",
+    "84 language biography editions",
+    "Historical Popularity Index 85.2"
+  ],
+  "featured": true,
+  "featuredRank": 423,
+  "imageAlt": "Portrait-style visual for Louis XIII of France",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Louis XIII of France",
+      "url": "https://pantheon.world/profile/person/Louis_XIII_of_France",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "louis-xiii-of-france-pantheon-profile",
+      "text": "Pantheon ranks Louis XIII of France as a globally documented politician with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Louis XIII of France a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Louis XIII of France",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_XIII_of_France",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

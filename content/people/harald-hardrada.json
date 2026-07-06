@@ -1,0 +1,48 @@
+{
+  "id": "harald-hardrada",
+  "slug": "harald-hardrada",
+  "name": "Harald Hardrada",
+  "shortName": "Hardrada",
+  "era": "1015-1066",
+  "region": "Norway",
+  "regionId": "europe",
+  "lifespan": "1015-1066",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Harald Hardrada is a notable politician associated with Norway.",
+  "knownFor": [
+    "Politician",
+    "56 language biography editions",
+    "Historical Popularity Index 84.8"
+  ],
+  "featured": true,
+  "featuredRank": 455,
+  "imageAlt": "Portrait-style visual for Harald Hardrada",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Harald Hardrada",
+      "url": "https://pantheon.world/profile/person/Harald_Hardrada",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "harald-hardrada-pantheon-profile",
+      "text": "Pantheon ranks Harald Hardrada as a globally documented politician with biographies in 56 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Harald Hardrada a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Harald Hardrada",
+      "sourceUrl": "https://pantheon.world/profile/person/Harald_Hardrada",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

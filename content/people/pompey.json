@@ -1,0 +1,48 @@
+{
+  "id": "pompey",
+  "slug": "pompey",
+  "name": "Pompey",
+  "shortName": "Pompey",
+  "era": "-106--48",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-106--48",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Pompey is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "87 language biography editions",
+    "Historical Popularity Index 87.7"
+  ],
+  "featured": true,
+  "featuredRank": 233,
+  "imageAlt": "Portrait-style visual for Pompey",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pompey",
+      "url": "https://pantheon.world/profile/person/Pompey",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pompey-pantheon-profile",
+      "text": "Pantheon ranks Pompey as a globally documented politician with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pompey a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pompey",
+      "sourceUrl": "https://pantheon.world/profile/person/Pompey",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

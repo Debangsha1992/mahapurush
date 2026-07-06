@@ -1,0 +1,47 @@
+{
+  "id": "audrey-hepburn",
+  "slug": "audrey-hepburn",
+  "name": "Audrey Hepburn",
+  "shortName": "Hepburn",
+  "era": "1929-1993",
+  "region": "Belgium",
+  "regionId": "europe",
+  "lifespan": "1929-1993",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Audrey Hepburn is a notable actor associated with Belgium.",
+  "knownFor": [
+    "Actor",
+    "115 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Audrey Hepburn",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Audrey Hepburn",
+      "url": "https://pantheon.world/profile/person/Audrey_Hepburn",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "audrey-hepburn-pantheon-profile",
+      "text": "Pantheon ranks Audrey Hepburn as a globally documented actor with biographies in 115 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Audrey Hepburn a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Audrey Hepburn",
+      "sourceUrl": "https://pantheon.world/profile/person/Audrey_Hepburn",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

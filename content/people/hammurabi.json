@@ -1,0 +1,48 @@
+{
+  "id": "hammurabi",
+  "slug": "hammurabi",
+  "name": "Hammurabi",
+  "shortName": "Hammurabi",
+  "era": "-1810--1750",
+  "region": "Iraq",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-1810--1750",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Hammurabi is a notable politician associated with Iraq.",
+  "knownFor": [
+    "Politician",
+    "109 language biography editions",
+    "Historical Popularity Index 86.8"
+  ],
+  "featured": true,
+  "featuredRank": 288,
+  "imageAlt": "Portrait-style visual for Hammurabi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hammurabi",
+      "url": "https://pantheon.world/profile/person/Hammurabi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hammurabi-pantheon-profile",
+      "text": "Pantheon ranks Hammurabi as a globally documented politician with biographies in 109 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hammurabi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hammurabi",
+      "sourceUrl": "https://pantheon.world/profile/person/Hammurabi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

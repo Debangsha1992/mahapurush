@@ -6,9 +6,15 @@
   "era": "1918-2020",
   "region": "United States",
   "lifespan": "1918-2020",
-  "domains": ["mathematics", "space science", "civil rights"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "Katherine Johnson's mathematical work supported major NASA missions and challenged racial and gender barriers.",
-  "knownFor": ["NASA trajectory calculations", "Project Mercury", "Apollo missions"],
+  "knownFor": [
+    "NASA trajectory calculations",
+    "Project Mercury",
+    "Apollo missions"
+  ],
   "facts": [
     {
       "id": "katherine-johnson-orbit-calculations",
@@ -17,8 +23,24 @@
       "sourceTitle": "NASA: Katherine Johnson Biography",
       "sourceUrl": "https://www.nasa.gov/people/katherine-johnson/",
       "sourceAccessedAt": "2026-07-05",
-      "tags": ["space", "mathematics"],
+      "tags": [
+        "space",
+        "mathematics"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "north-america",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "imageAlt": "Portrait-style visual for Katherine Johnson",
+  "sourceRefs": [
+    {
+      "title": "NASA: Katherine Johnson Biography",
+      "url": "https://www.nasa.gov/people/katherine-johnson/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published",
+  "featuredRank": 16
 }

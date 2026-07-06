@@ -1,0 +1,48 @@
+{
+  "id": "omar-khayyam",
+  "slug": "omar-khayyam",
+  "name": "Omar Khayyam",
+  "shortName": "Khayyam",
+  "era": "1048-1131",
+  "region": "Iran",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1048-1131",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Omar Khayyam is a notable mathematician associated with Iran.",
+  "knownFor": [
+    "Mathematician",
+    "115 language biography editions",
+    "Historical Popularity Index 86.7"
+  ],
+  "featured": true,
+  "featuredRank": 297,
+  "imageAlt": "Portrait-style visual for Omar Khayyam",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Omar Khayyam",
+      "url": "https://pantheon.world/profile/person/Omar_Khayyam",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "omar-khayyam-pantheon-profile",
+      "text": "Pantheon ranks Omar Khayyam as a globally documented mathematician with biographies in 115 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Omar Khayyam a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Omar Khayyam",
+      "sourceUrl": "https://pantheon.world/profile/person/Omar_Khayyam",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "prince-philip-duke-of-edinburgh",
+  "slug": "prince-philip-duke-of-edinburgh",
+  "name": "Prince Philip, Duke of Edinburgh",
+  "shortName": "Edinburgh",
+  "era": "1921-2021",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "1921-2021",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Prince Philip, Duke of Edinburgh is a notable nobleman associated with Greece.",
+  "knownFor": [
+    "Nobleman",
+    "114 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Prince Philip, Duke of Edinburgh",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Prince Philip, Duke of Edinburgh",
+      "url": "https://pantheon.world/profile/person/Prince_Philip%2C_Duke_of_Edinburgh",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "prince-philip-duke-of-edinburgh-pantheon-profile",
+      "text": "Pantheon ranks Prince Philip, Duke of Edinburgh as a globally documented nobleman with biographies in 114 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Prince Philip, Duke of Edinburgh a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Prince Philip, Duke of Edinburgh",
+      "sourceUrl": "https://pantheon.world/profile/person/Prince_Philip%2C_Duke_of_Edinburgh",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

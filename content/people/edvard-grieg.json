@@ -1,0 +1,47 @@
+{
+  "id": "edvard-grieg",
+  "slug": "edvard-grieg",
+  "name": "Edvard Grieg",
+  "shortName": "Grieg",
+  "era": "1843-1907",
+  "region": "Norway",
+  "regionId": "europe",
+  "lifespan": "1843-1907",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Edvard Grieg is a notable composer associated with Norway.",
+  "knownFor": [
+    "Composer",
+    "98 language biography editions",
+    "Historical Popularity Index 83.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Edvard Grieg",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edvard Grieg",
+      "url": "https://pantheon.world/profile/person/Edvard_Grieg",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edvard-grieg-pantheon-profile",
+      "text": "Pantheon ranks Edvard Grieg as a globally documented composer with biographies in 98 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edvard Grieg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edvard Grieg",
+      "sourceUrl": "https://pantheon.world/profile/person/Edvard_Grieg",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

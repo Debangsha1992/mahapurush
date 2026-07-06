@@ -1,0 +1,48 @@
+{
+  "id": "hurrem-sultan",
+  "slug": "hurrem-sultan",
+  "name": "Hurrem Sultan",
+  "shortName": "Sultan",
+  "era": "1502-1558",
+  "region": "Ukraine",
+  "regionId": "europe",
+  "lifespan": "1502-1558",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Hurrem Sultan is a notable politician associated with Ukraine.",
+  "knownFor": [
+    "Politician",
+    "76 language biography editions",
+    "Historical Popularity Index 84.7"
+  ],
+  "featured": true,
+  "featuredRank": 463,
+  "imageAlt": "Portrait-style visual for Hurrem Sultan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hurrem Sultan",
+      "url": "https://pantheon.world/profile/person/Hurrem_Sultan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hurrem-sultan-pantheon-profile",
+      "text": "Pantheon ranks Hurrem Sultan as a globally documented politician with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hurrem Sultan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hurrem Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/Hurrem_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

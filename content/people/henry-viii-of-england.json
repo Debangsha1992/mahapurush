@@ -1,0 +1,48 @@
+{
+  "id": "henry-viii-of-england",
+  "slug": "henry-viii-of-england",
+  "name": "Henry VIII of England",
+  "shortName": "England",
+  "era": "1491-1547",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1491-1547",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Henry VIII of England is a notable nobleman associated with United Kingdom.",
+  "knownFor": [
+    "Nobleman",
+    "106 language biography editions",
+    "Historical Popularity Index 94.6"
+  ],
+  "featured": true,
+  "featuredRank": 52,
+  "imageAlt": "Portrait-style visual for Henry VIII of England",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Henry VIII of England",
+      "url": "https://pantheon.world/profile/person/Henry_VIII_of_England",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "henry-viii-of-england-pantheon-profile",
+      "text": "Pantheon ranks Henry VIII of England as a globally documented nobleman with biographies in 106 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Henry VIII of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Henry VIII of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_VIII_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

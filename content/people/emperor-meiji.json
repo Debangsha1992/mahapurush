@@ -1,0 +1,47 @@
+{
+  "id": "emperor-meiji",
+  "slug": "emperor-meiji",
+  "name": "Emperor Meiji",
+  "shortName": "Meiji",
+  "era": "1852-1912",
+  "region": "Japan",
+  "regionId": "east-asia",
+  "lifespan": "1852-1912",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Emperor Meiji is a notable politician associated with Japan.",
+  "knownFor": [
+    "Politician",
+    "83 language biography editions",
+    "Historical Popularity Index 82.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Emperor Meiji",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Emperor Meiji",
+      "url": "https://pantheon.world/profile/person/Emperor_Meiji",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "emperor-meiji-pantheon-profile",
+      "text": "Pantheon ranks Emperor Meiji as a globally documented politician with biographies in 83 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Emperor Meiji a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Emperor Meiji",
+      "sourceUrl": "https://pantheon.world/profile/person/Emperor_Meiji",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

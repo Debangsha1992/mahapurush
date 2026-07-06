@@ -1,0 +1,48 @@
+{
+  "id": "georg-wilhelm-friedrich-hegel",
+  "slug": "georg-wilhelm-friedrich-hegel",
+  "name": "Georg Wilhelm Friedrich Hegel",
+  "shortName": "Hegel",
+  "era": "1770-1831",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1770-1831",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Georg Wilhelm Friedrich Hegel is a notable philosopher associated with Germany.",
+  "knownFor": [
+    "Philosopher",
+    "137 language biography editions",
+    "Historical Popularity Index 88.3"
+  ],
+  "featured": true,
+  "featuredRank": 207,
+  "imageAlt": "Portrait-style visual for Georg Wilhelm Friedrich Hegel",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Georg Wilhelm Friedrich Hegel",
+      "url": "https://pantheon.world/profile/person/Georg_Wilhelm_Friedrich_Hegel",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "georg-wilhelm-friedrich-hegel-pantheon-profile",
+      "text": "Pantheon ranks Georg Wilhelm Friedrich Hegel as a globally documented philosopher with biographies in 137 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Georg Wilhelm Friedrich Hegel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Georg Wilhelm Friedrich Hegel",
+      "sourceUrl": "https://pantheon.world/profile/person/Georg_Wilhelm_Friedrich_Hegel",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "charles-v-holy-roman-emperor",
+  "slug": "charles-v-holy-roman-emperor",
+  "name": "Charles V, Holy Roman Emperor",
+  "shortName": "Emperor",
+  "era": "1500-1558",
+  "region": "Belgium",
+  "regionId": "europe",
+  "lifespan": "1500-1558",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Charles V, Holy Roman Emperor is a notable politician associated with Belgium.",
+  "knownFor": [
+    "Politician",
+    "100 language biography editions",
+    "Historical Popularity Index 87.5"
+  ],
+  "featured": true,
+  "featuredRank": 246,
+  "imageAlt": "Portrait-style visual for Charles V, Holy Roman Emperor",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Charles V, Holy Roman Emperor",
+      "url": "https://pantheon.world/profile/person/Charles_V%2C_Holy_Roman_Emperor",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "charles-v-holy-roman-emperor-pantheon-profile",
+      "text": "Pantheon ranks Charles V, Holy Roman Emperor as a globally documented politician with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles V, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Charles V, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_V%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

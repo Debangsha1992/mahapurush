@@ -1,0 +1,48 @@
+{
+  "id": "john-king-of-england",
+  "slug": "john-king-of-england",
+  "name": "John, King of England",
+  "shortName": "England",
+  "era": "1166-1216",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1166-1216",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "John, King of England is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "85 language biography editions",
+    "Historical Popularity Index 88.3"
+  ],
+  "featured": true,
+  "featuredRank": 205,
+  "imageAlt": "Portrait-style visual for John, King of England",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: John, King of England",
+      "url": "https://pantheon.world/profile/person/John%2C_King_of_England",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "john-king-of-england-pantheon-profile",
+      "text": "Pantheon ranks John, King of England as a globally documented politician with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make John, King of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: John, King of England",
+      "sourceUrl": "https://pantheon.world/profile/person/John%2C_King_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

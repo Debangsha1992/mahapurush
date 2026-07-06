@@ -1,0 +1,47 @@
+{
+  "id": "richard-harris",
+  "slug": "richard-harris",
+  "name": "Richard Harris",
+  "shortName": "Harris",
+  "era": "1930-2002",
+  "region": "Ireland",
+  "regionId": "europe",
+  "lifespan": "1930-2002",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Richard Harris is a notable actor associated with Ireland.",
+  "knownFor": [
+    "Actor",
+    "66 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Richard Harris",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Richard Harris",
+      "url": "https://pantheon.world/profile/person/Richard_Harris",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "richard-harris-pantheon-profile",
+      "text": "Pantheon ranks Richard Harris as a globally documented actor with biographies in 66 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Richard Harris a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Richard Harris",
+      "sourceUrl": "https://pantheon.world/profile/person/Richard_Harris",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

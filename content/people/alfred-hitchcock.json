@@ -1,0 +1,47 @@
+{
+  "id": "alfred-hitchcock",
+  "slug": "alfred-hitchcock",
+  "name": "Alfred Hitchcock",
+  "shortName": "Hitchcock",
+  "era": "1899-1980",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1899-1980",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "film-director"
+  ],
+  "summary": "Alfred Hitchcock is a notable film director associated with United Kingdom.",
+  "knownFor": [
+    "Film Director",
+    "145 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Alfred Hitchcock",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alfred Hitchcock",
+      "url": "https://pantheon.world/profile/person/Alfred_Hitchcock",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alfred-hitchcock-pantheon-profile",
+      "text": "Pantheon ranks Alfred Hitchcock as a globally documented film director with biographies in 145 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alfred Hitchcock a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alfred Hitchcock",
+      "sourceUrl": "https://pantheon.world/profile/person/Alfred_Hitchcock",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

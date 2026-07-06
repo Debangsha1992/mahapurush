@@ -1,0 +1,48 @@
+{
+  "id": "frederick-the-great",
+  "slug": "frederick-the-great",
+  "name": "Frederick the Great",
+  "shortName": "Great",
+  "era": "1712-1786",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1712-1786",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Frederick the Great is a notable politician associated with Germany.",
+  "knownFor": [
+    "Politician",
+    "91 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 365,
+  "imageAlt": "Portrait-style visual for Frederick the Great",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Frederick the Great",
+      "url": "https://pantheon.world/profile/person/Frederick_the_Great",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "frederick-the-great-pantheon-profile",
+      "text": "Pantheon ranks Frederick the Great as a globally documented politician with biographies in 91 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Frederick the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Frederick the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Frederick_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

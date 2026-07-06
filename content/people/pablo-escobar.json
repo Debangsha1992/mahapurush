@@ -1,0 +1,48 @@
+{
+  "id": "pablo-escobar",
+  "slug": "pablo-escobar",
+  "name": "Pablo Escobar",
+  "shortName": "Escobar",
+  "era": "1949-1993",
+  "region": "Colombia",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1949-1993",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "mafioso"
+  ],
+  "summary": "Pablo Escobar is a notable mafioso associated with Colombia.",
+  "knownFor": [
+    "Mafioso",
+    "99 language biography editions",
+    "Historical Popularity Index 85.0"
+  ],
+  "featured": true,
+  "featuredRank": 446,
+  "imageAlt": "Portrait-style visual for Pablo Escobar",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pablo Escobar",
+      "url": "https://pantheon.world/profile/person/Pablo_Escobar",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pablo-escobar-pantheon-profile",
+      "text": "Pantheon ranks Pablo Escobar as a globally documented mafioso with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pablo Escobar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pablo Escobar",
+      "sourceUrl": "https://pantheon.world/profile/person/Pablo_Escobar",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "harry-s-truman",
+  "slug": "harry-s-truman",
+  "name": "Harry S. Truman",
+  "shortName": "Truman",
+  "era": "1884-1972",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1884-1972",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Harry S. Truman is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "154 language biography editions",
+    "Historical Popularity Index 83.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Harry S. Truman",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Harry S. Truman",
+      "url": "https://pantheon.world/profile/person/Harry_S._Truman",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "harry-s-truman-pantheon-profile",
+      "text": "Pantheon ranks Harry S. Truman as a globally documented politician with biographies in 154 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Harry S. Truman a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Harry S. Truman",
+      "sourceUrl": "https://pantheon.world/profile/person/Harry_S._Truman",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pope-paul-vi",
+  "slug": "pope-paul-vi",
+  "name": "Pope Paul VI",
+  "shortName": "VI",
+  "era": "1897-1978",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1897-1978",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Paul VI is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "108 language biography editions",
+    "Historical Popularity Index 88.0"
+  ],
+  "featured": true,
+  "featuredRank": 216,
+  "imageAlt": "Portrait-style visual for Pope Paul VI",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Paul VI",
+      "url": "https://pantheon.world/profile/person/Pope_Paul_VI",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-paul-vi-pantheon-profile",
+      "text": "Pantheon ranks Pope Paul VI as a globally documented religious figure with biographies in 108 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Paul VI a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Paul VI",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Paul_VI",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

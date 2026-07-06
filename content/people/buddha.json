@@ -6,9 +6,15 @@
   "era": "563-483 BCE",
   "region": "Ancient India",
   "lifespan": "563-483 BCE",
-  "domains": ["religion", "philosophy", "ethics"],
+  "domains": [
+    "philosophy-ethics-religion"
+  ],
   "summary": "Buddha taught a path of attention, discipline, and compassion in response to suffering.",
-  "knownFor": ["Four Noble Truths", "Middle Way", "mindfulness"],
+  "knownFor": [
+    "Four Noble Truths",
+    "Middle Way",
+    "mindfulness"
+  ],
   "thinkerId": "buddha",
   "facts": [
     {
@@ -18,8 +24,24 @@
       "sourceTitle": "Encyclopaedia Britannica: Buddha",
       "sourceUrl": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism",
       "sourceAccessedAt": "2026-07-05",
-      "tags": ["religion", "philosophy"],
+      "tags": [
+        "religion",
+        "philosophy"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "south-asia",
+  "primaryDomain": "philosophy-ethics-religion",
+  "featured": true,
+  "featuredRank": 6,
+  "imageAlt": "Portrait-style visual for Buddha",
+  "sourceRefs": [
+    {
+      "title": "Encyclopaedia Britannica: Buddha",
+      "url": "https://www.britannica.com/biography/Buddha-founder-of-Buddhism",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

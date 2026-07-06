@@ -1,0 +1,47 @@
+{
+  "id": "james-brother-of-jesus",
+  "slug": "james-brother-of-jesus",
+  "name": "James, brother of Jesus",
+  "shortName": "Jesus",
+  "era": "-20-69",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-20-69",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "James, brother of Jesus is a notable religious figure associated with Israel.",
+  "knownFor": [
+    "Religious Figure",
+    "52 language biography editions",
+    "Historical Popularity Index 84.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for James, brother of Jesus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: James, brother of Jesus",
+      "url": "https://pantheon.world/profile/person/James%2C_brother_of_Jesus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "james-brother-of-jesus-pantheon-profile",
+      "text": "Pantheon ranks James, brother of Jesus as a globally documented religious figure with biographies in 52 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make James, brother of Jesus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: James, brother of Jesus",
+      "sourceUrl": "https://pantheon.world/profile/person/James%2C_brother_of_Jesus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

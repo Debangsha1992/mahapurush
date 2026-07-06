@@ -1,0 +1,47 @@
+{
+  "id": "uthman",
+  "slug": "uthman",
+  "name": "Uthman",
+  "shortName": "Uthman",
+  "era": "574-656",
+  "region": "Saudi Arabia",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "574-656",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Uthman is a notable politician associated with Saudi Arabia.",
+  "knownFor": [
+    "Politician",
+    "96 language biography editions",
+    "Historical Popularity Index 84.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Uthman",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Uthman",
+      "url": "https://pantheon.world/profile/person/Uthman",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "uthman-pantheon-profile",
+      "text": "Pantheon ranks Uthman as a globally documented politician with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Uthman a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Uthman",
+      "sourceUrl": "https://pantheon.world/profile/person/Uthman",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

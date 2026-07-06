@@ -1,0 +1,48 @@
+{
+  "id": "hassanal-bolkiah",
+  "slug": "hassanal-bolkiah",
+  "name": "Hassanal Bolkiah",
+  "shortName": "Bolkiah",
+  "era": "born 1946",
+  "region": "Brunei",
+  "regionId": "global-diaspora",
+  "lifespan": "born 1946",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Hassanal Bolkiah is a notable politician associated with Brunei.",
+  "knownFor": [
+    "Politician",
+    "87 language biography editions",
+    "Historical Popularity Index 84.7"
+  ],
+  "featured": true,
+  "featuredRank": 465,
+  "imageAlt": "Portrait-style visual for Hassanal Bolkiah",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hassanal Bolkiah",
+      "url": "https://pantheon.world/profile/person/Hassanal_Bolkiah",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hassanal-bolkiah-pantheon-profile",
+      "text": "Pantheon ranks Hassanal Bolkiah as a globally documented politician with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hassanal Bolkiah a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hassanal Bolkiah",
+      "sourceUrl": "https://pantheon.world/profile/person/Hassanal_Bolkiah",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

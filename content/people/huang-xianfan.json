@@ -1,0 +1,48 @@
+{
+  "id": "huang-xianfan",
+  "slug": "huang-xianfan",
+  "name": "Huang Xianfan",
+  "shortName": "Xianfan",
+  "era": "1899-1982",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "1899-1982",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Huang Xianfan is a notable politician associated with China.",
+  "knownFor": [
+    "Politician",
+    "170 language biography editions",
+    "Historical Popularity Index 89.4"
+  ],
+  "featured": true,
+  "featuredRank": 151,
+  "imageAlt": "Portrait-style visual for Huang Xianfan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Huang Xianfan",
+      "url": "https://pantheon.world/profile/person/Huang_Xianfan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "huang-xianfan-pantheon-profile",
+      "text": "Pantheon ranks Huang Xianfan as a globally documented politician with biographies in 170 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Huang Xianfan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Huang Xianfan",
+      "sourceUrl": "https://pantheon.world/profile/person/Huang_Xianfan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

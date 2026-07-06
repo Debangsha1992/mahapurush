@@ -6,9 +6,15 @@
   "era": "1914-2000",
   "region": "Austria, United States",
   "lifespan": "1914-2000",
-  "domains": ["film", "invention", "communications"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "Hedy Lamarr was an actor and inventor whose work on frequency hopping anticipated later communications technologies.",
-  "knownFor": ["film acting", "frequency-hopping patent", "inventive problem solving"],
+  "knownFor": [
+    "film acting",
+    "frequency-hopping patent",
+    "inventive problem solving"
+  ],
   "facts": [
     {
       "id": "hedy-lamarr-frequency-hopping",
@@ -17,8 +23,24 @@
       "sourceTitle": "National Women's History Museum: Hedy Lamarr",
       "sourceUrl": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
       "sourceAccessedAt": "2026-07-05",
-      "tags": ["invention", "arts"],
+      "tags": [
+        "invention",
+        "arts"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "north-america",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "featuredRank": 12,
+  "imageAlt": "Portrait-style visual for Hedy Lamarr",
+  "sourceRefs": [
+    {
+      "title": "National Women's History Museum: Hedy Lamarr",
+      "url": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

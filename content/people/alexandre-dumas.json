@@ -1,0 +1,48 @@
+{
+  "id": "alexandre-dumas",
+  "slug": "alexandre-dumas",
+  "name": "Alexandre Dumas",
+  "shortName": "Dumas",
+  "era": "1802-1870",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1802-1870",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Alexandre Dumas is a notable writer associated with France.",
+  "knownFor": [
+    "Writer",
+    "115 language biography editions",
+    "Historical Popularity Index 86.8"
+  ],
+  "featured": true,
+  "featuredRank": 289,
+  "imageAlt": "Portrait-style visual for Alexandre Dumas",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alexandre Dumas",
+      "url": "https://pantheon.world/profile/person/Alexandre_Dumas",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alexandre-dumas-pantheon-profile",
+      "text": "Pantheon ranks Alexandre Dumas as a globally documented writer with biographies in 115 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alexandre Dumas a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alexandre Dumas",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexandre_Dumas",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "john-maynard-keynes",
+  "slug": "john-maynard-keynes",
+  "name": "John Maynard Keynes",
+  "shortName": "Keynes",
+  "era": "1883-1946",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1883-1946",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "economist"
+  ],
+  "summary": "John Maynard Keynes is a notable economist associated with United Kingdom.",
+  "knownFor": [
+    "Economist",
+    "135 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for John Maynard Keynes",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: John Maynard Keynes",
+      "url": "https://pantheon.world/profile/person/John_Maynard_Keynes",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "john-maynard-keynes-pantheon-profile",
+      "text": "Pantheon ranks John Maynard Keynes as a globally documented economist with biographies in 135 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make John Maynard Keynes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: John Maynard Keynes",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Maynard_Keynes",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

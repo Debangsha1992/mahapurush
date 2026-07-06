@@ -1,0 +1,47 @@
+{
+  "id": "patrick-swayze",
+  "slug": "patrick-swayze",
+  "name": "Patrick Swayze",
+  "shortName": "Swayze",
+  "era": "1952-2009",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1952-2009",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Patrick Swayze is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "74 language biography editions",
+    "Historical Popularity Index 81.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Patrick Swayze",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Patrick Swayze",
+      "url": "https://pantheon.world/profile/person/Patrick_Swayze",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "patrick-swayze-pantheon-profile",
+      "text": "Pantheon ranks Patrick Swayze as a globally documented actor with biographies in 74 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Patrick Swayze a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Patrick Swayze",
+      "sourceUrl": "https://pantheon.world/profile/person/Patrick_Swayze",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

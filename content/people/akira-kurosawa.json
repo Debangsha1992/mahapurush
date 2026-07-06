@@ -1,0 +1,47 @@
+{
+  "id": "akira-kurosawa",
+  "slug": "akira-kurosawa",
+  "name": "Akira Kurosawa",
+  "shortName": "Kurosawa",
+  "era": "1910-1998",
+  "region": "Japan",
+  "regionId": "east-asia",
+  "lifespan": "1910-1998",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "film-director"
+  ],
+  "summary": "Akira Kurosawa is a notable film director associated with Japan.",
+  "knownFor": [
+    "Film Director",
+    "150 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Akira Kurosawa",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Akira Kurosawa",
+      "url": "https://pantheon.world/profile/person/Akira_Kurosawa",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "akira-kurosawa-pantheon-profile",
+      "text": "Pantheon ranks Akira Kurosawa as a globally documented film director with biographies in 150 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Akira Kurosawa a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Akira Kurosawa",
+      "sourceUrl": "https://pantheon.world/profile/person/Akira_Kurosawa",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

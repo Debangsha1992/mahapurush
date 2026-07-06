@@ -1,0 +1,47 @@
+{
+  "id": "jacques-chirac",
+  "slug": "jacques-chirac",
+  "name": "Jacques Chirac",
+  "shortName": "Chirac",
+  "era": "1932-2019",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1932-2019",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Jacques Chirac is a notable politician associated with France.",
+  "knownFor": [
+    "Politician",
+    "130 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jacques Chirac",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jacques Chirac",
+      "url": "https://pantheon.world/profile/person/Jacques_Chirac",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jacques-chirac-pantheon-profile",
+      "text": "Pantheon ranks Jacques Chirac as a globally documented politician with biographies in 130 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jacques Chirac a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jacques Chirac",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacques_Chirac",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

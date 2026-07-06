@@ -1,0 +1,47 @@
+{
+  "id": "protagoras",
+  "slug": "protagoras",
+  "name": "Protagoras",
+  "shortName": "Protagoras",
+  "era": "-486--420",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-486--420",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Protagoras is a notable philosopher associated with Greece.",
+  "knownFor": [
+    "Philosopher",
+    "71 language biography editions",
+    "Historical Popularity Index 83.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Protagoras",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Protagoras",
+      "url": "https://pantheon.world/profile/person/Protagoras",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "protagoras-pantheon-profile",
+      "text": "Pantheon ranks Protagoras as a globally documented philosopher with biographies in 71 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Protagoras a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Protagoras",
+      "sourceUrl": "https://pantheon.world/profile/person/Protagoras",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

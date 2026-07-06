@@ -1,0 +1,47 @@
+{
+  "id": "margaret-thatcher",
+  "slug": "margaret-thatcher",
+  "name": "Margaret Thatcher",
+  "shortName": "Thatcher",
+  "era": "1925-2013",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1925-2013",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Margaret Thatcher is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "152 language biography editions",
+    "Historical Popularity Index 83.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Margaret Thatcher",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Margaret Thatcher",
+      "url": "https://pantheon.world/profile/person/Margaret_Thatcher",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "margaret-thatcher-pantheon-profile",
+      "text": "Pantheon ranks Margaret Thatcher as a globally documented politician with biographies in 152 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Margaret Thatcher a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Margaret Thatcher",
+      "sourceUrl": "https://pantheon.world/profile/person/Margaret_Thatcher",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

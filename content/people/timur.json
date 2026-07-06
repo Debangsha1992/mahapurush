@@ -1,0 +1,48 @@
+{
+  "id": "timur",
+  "slug": "timur",
+  "name": "Timur",
+  "shortName": "Timur",
+  "era": "1336-1405",
+  "region": "Uzbekistan",
+  "regionId": "global-diaspora",
+  "lifespan": "1336-1405",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Timur is a notable military personnel associated with Uzbekistan.",
+  "knownFor": [
+    "Military Personnel",
+    "139 language biography editions",
+    "Historical Popularity Index 90.7"
+  ],
+  "featured": true,
+  "featuredRank": 108,
+  "imageAlt": "Portrait-style visual for Timur",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Timur",
+      "url": "https://pantheon.world/profile/person/Timur",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "timur-pantheon-profile",
+      "text": "Pantheon ranks Timur as a globally documented military personnel with biographies in 139 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Timur a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Timur",
+      "sourceUrl": "https://pantheon.world/profile/person/Timur",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

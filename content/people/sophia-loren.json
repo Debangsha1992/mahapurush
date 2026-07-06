@@ -1,0 +1,47 @@
+{
+  "id": "sophia-loren",
+  "slug": "sophia-loren",
+  "name": "Sophia Loren",
+  "shortName": "Loren",
+  "era": "born 1934",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "born 1934",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Sophia Loren is a notable actor associated with Italy.",
+  "knownFor": [
+    "Actor",
+    "100 language biography editions",
+    "Historical Popularity Index 83.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Sophia Loren",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Sophia Loren",
+      "url": "https://pantheon.world/profile/person/Sophia_Loren",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "sophia-loren-pantheon-profile",
+      "text": "Pantheon ranks Sophia Loren as a globally documented actor with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Sophia Loren a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Sophia Loren",
+      "sourceUrl": "https://pantheon.world/profile/person/Sophia_Loren",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

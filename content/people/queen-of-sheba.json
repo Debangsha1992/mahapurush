@@ -1,0 +1,48 @@
+{
+  "id": "queen-of-sheba",
+  "slug": "queen-of-sheba",
+  "name": "Queen of Sheba",
+  "shortName": "Sheba",
+  "era": "-1000--1000",
+  "region": "Global",
+  "regionId": "global-diaspora",
+  "lifespan": "-1000--1000",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Queen of Sheba is a notable religious figure associated with Global.",
+  "knownFor": [
+    "Religious Figure",
+    "89 language biography editions",
+    "Historical Popularity Index 84.7"
+  ],
+  "featured": true,
+  "featuredRank": 462,
+  "imageAlt": "Portrait-style visual for Queen of Sheba",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Queen of Sheba",
+      "url": "https://pantheon.world/profile/person/Queen_of_Sheba",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "queen-of-sheba-pantheon-profile",
+      "text": "Pantheon ranks Queen of Sheba as a globally documented religious figure with biographies in 89 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Queen of Sheba a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Queen of Sheba",
+      "sourceUrl": "https://pantheon.world/profile/person/Queen_of_Sheba",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

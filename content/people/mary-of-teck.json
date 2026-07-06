@@ -1,0 +1,47 @@
+{
+  "id": "mary-of-teck",
+  "slug": "mary-of-teck",
+  "name": "Mary of Teck",
+  "shortName": "Teck",
+  "era": "1867-1953",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1867-1953",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Mary of Teck is a notable companion associated with United Kingdom.",
+  "knownFor": [
+    "Companion",
+    "53 language biography editions",
+    "Historical Popularity Index 83.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mary of Teck",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mary of Teck",
+      "url": "https://pantheon.world/profile/person/Mary_of_Teck",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mary-of-teck-pantheon-profile",
+      "text": "Pantheon ranks Mary of Teck as a globally documented companion with biographies in 53 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mary of Teck a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mary of Teck",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary_of_Teck",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

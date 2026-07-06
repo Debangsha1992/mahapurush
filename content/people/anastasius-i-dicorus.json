@@ -1,0 +1,47 @@
+{
+  "id": "anastasius-i-dicorus",
+  "slug": "anastasius-i-dicorus",
+  "name": "Anastasius I Dicorus",
+  "shortName": "Dicorus",
+  "era": "430-518",
+  "region": "Albania",
+  "regionId": "global-diaspora",
+  "lifespan": "430-518",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Anastasius I Dicorus is a notable politician associated with Albania.",
+  "knownFor": [
+    "Politician",
+    "59 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Anastasius I Dicorus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Anastasius I Dicorus",
+      "url": "https://pantheon.world/profile/person/Anastasius_I_Dicorus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "anastasius-i-dicorus-pantheon-profile",
+      "text": "Pantheon ranks Anastasius I Dicorus as a globally documented politician with biographies in 59 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Anastasius I Dicorus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Anastasius I Dicorus",
+      "sourceUrl": "https://pantheon.world/profile/person/Anastasius_I_Dicorus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

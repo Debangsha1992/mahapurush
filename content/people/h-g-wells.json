@@ -1,0 +1,48 @@
+{
+  "id": "h-g-wells",
+  "slug": "h-g-wells",
+  "name": "H. G. Wells",
+  "shortName": "Wells",
+  "era": "1866-1946",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1866-1946",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "H. G. Wells is a notable writer associated with United Kingdom.",
+  "knownFor": [
+    "Writer",
+    "112 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 370,
+  "imageAlt": "Portrait-style visual for H. G. Wells",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: H. G. Wells",
+      "url": "https://pantheon.world/profile/person/H._G._Wells",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "h-g-wells-pantheon-profile",
+      "text": "Pantheon ranks H. G. Wells as a globally documented writer with biographies in 112 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make H. G. Wells a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: H. G. Wells",
+      "sourceUrl": "https://pantheon.world/profile/person/H._G._Wells",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -6,9 +6,15 @@
   "era": "1867-1934",
   "region": "Poland, France",
   "lifespan": "1867-1934",
-  "domains": ["physics", "chemistry", "medicine"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "Marie Curie changed science through her research on radioactivity and helped apply science to medicine.",
-  "knownFor": ["radioactivity", "polonium and radium", "two Nobel Prizes"],
+  "knownFor": [
+    "radioactivity",
+    "polonium and radium",
+    "two Nobel Prizes"
+  ],
   "facts": [
     {
       "id": "marie-curie-two-nobels",
@@ -18,8 +24,24 @@
       "sourceUrl": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
       "sourceAccessedAt": "2026-07-05",
       "currentAsOf": "1911-12-10",
-      "tags": ["science", "first"],
+      "tags": [
+        "science",
+        "first"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "europe",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "imageAlt": "Portrait-style visual for Marie Curie",
+  "sourceRefs": [
+    {
+      "title": "Nobel Prize: Marie Curie Facts",
+      "url": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published",
+  "featuredRank": 19
 }

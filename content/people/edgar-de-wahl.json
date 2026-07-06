@@ -1,0 +1,47 @@
+{
+  "id": "edgar-de-wahl",
+  "slug": "edgar-de-wahl",
+  "name": "Edgar de Wahl",
+  "shortName": "Wahl",
+  "era": "1867-1948",
+  "region": "Ukraine",
+  "regionId": "europe",
+  "lifespan": "1867-1948",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "linguist"
+  ],
+  "summary": "Edgar de Wahl is a notable linguist associated with Ukraine.",
+  "knownFor": [
+    "Linguist",
+    "102 language biography editions",
+    "Historical Popularity Index 81.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Edgar de Wahl",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edgar de Wahl",
+      "url": "https://pantheon.world/profile/person/Edgar_de_Wahl",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edgar-de-wahl-pantheon-profile",
+      "text": "Pantheon ranks Edgar de Wahl as a globally documented linguist with biographies in 102 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edgar de Wahl a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edgar de Wahl",
+      "sourceUrl": "https://pantheon.world/profile/person/Edgar_de_Wahl",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

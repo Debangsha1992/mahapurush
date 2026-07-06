@@ -1,0 +1,48 @@
+{
+  "id": "marcus-aurelius",
+  "slug": "marcus-aurelius",
+  "name": "Marcus Aurelius",
+  "shortName": "Aurelius",
+  "era": "121-180",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "121-180",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Marcus Aurelius is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "112 language biography editions",
+    "Historical Popularity Index 87.4"
+  ],
+  "featured": true,
+  "featuredRank": 253,
+  "imageAlt": "Portrait-style visual for Marcus Aurelius",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Marcus Aurelius",
+      "url": "https://pantheon.world/profile/person/Marcus_Aurelius",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "marcus-aurelius-pantheon-profile",
+      "text": "Pantheon ranks Marcus Aurelius as a globally documented politician with biographies in 112 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Marcus Aurelius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Marcus Aurelius",
+      "sourceUrl": "https://pantheon.world/profile/person/Marcus_Aurelius",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

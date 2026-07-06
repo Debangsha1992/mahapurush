@@ -1,0 +1,48 @@
+{
+  "id": "victor-hugo",
+  "slug": "victor-hugo",
+  "name": "Victor Hugo",
+  "shortName": "Hugo",
+  "era": "1802-1885",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1802-1885",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Victor Hugo is a notable writer associated with France.",
+  "knownFor": [
+    "Writer",
+    "179 language biography editions",
+    "Historical Popularity Index 89.5"
+  ],
+  "featured": true,
+  "featuredRank": 146,
+  "imageAlt": "Portrait-style visual for Victor Hugo",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Victor Hugo",
+      "url": "https://pantheon.world/profile/person/Victor_Hugo",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "victor-hugo-pantheon-profile",
+      "text": "Pantheon ranks Victor Hugo as a globally documented writer with biographies in 179 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Victor Hugo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Victor Hugo",
+      "sourceUrl": "https://pantheon.world/profile/person/Victor_Hugo",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

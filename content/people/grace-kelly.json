@@ -1,0 +1,48 @@
+{
+  "id": "grace-kelly",
+  "slug": "grace-kelly",
+  "name": "Grace Kelly",
+  "shortName": "Kelly",
+  "era": "1929-1982",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1929-1982",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Grace Kelly is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "101 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 311,
+  "imageAlt": "Portrait-style visual for Grace Kelly",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Grace Kelly",
+      "url": "https://pantheon.world/profile/person/Grace_Kelly",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "grace-kelly-pantheon-profile",
+      "text": "Pantheon ranks Grace Kelly as a globally documented actor with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Grace Kelly a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Grace Kelly",
+      "sourceUrl": "https://pantheon.world/profile/person/Grace_Kelly",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

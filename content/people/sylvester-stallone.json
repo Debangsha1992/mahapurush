@@ -1,0 +1,48 @@
+{
+  "id": "sylvester-stallone",
+  "slug": "sylvester-stallone",
+  "name": "Sylvester Stallone",
+  "shortName": "Stallone",
+  "era": "born 1946",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1946",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Sylvester Stallone is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "107 language biography editions",
+    "Historical Popularity Index 89.2"
+  ],
+  "featured": true,
+  "featuredRank": 164,
+  "imageAlt": "Portrait-style visual for Sylvester Stallone",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Sylvester Stallone",
+      "url": "https://pantheon.world/profile/person/Sylvester_Stallone",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "sylvester-stallone-pantheon-profile",
+      "text": "Pantheon ranks Sylvester Stallone as a globally documented actor with biographies in 107 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Sylvester Stallone a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Sylvester Stallone",
+      "sourceUrl": "https://pantheon.world/profile/person/Sylvester_Stallone",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

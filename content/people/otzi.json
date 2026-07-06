@@ -1,0 +1,48 @@
+{
+  "id": "otzi",
+  "slug": "otzi",
+  "name": "Ötzi",
+  "shortName": "Ötzi",
+  "era": "-3345--3255",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-3345--3255",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "celebrity"
+  ],
+  "summary": "Ötzi is a notable celebrity associated with Italy.",
+  "knownFor": [
+    "Celebrity",
+    "67 language biography editions",
+    "Historical Popularity Index 85.2"
+  ],
+  "featured": true,
+  "featuredRank": 422,
+  "imageAlt": "Portrait-style visual for Ötzi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ötzi",
+      "url": "https://pantheon.world/profile/person/%C3%96tzi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "otzi-pantheon-profile",
+      "text": "Pantheon ranks Ötzi as a globally documented celebrity with biographies in 67 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ötzi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ötzi",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%96tzi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

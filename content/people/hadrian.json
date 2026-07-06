@@ -1,0 +1,48 @@
+{
+  "id": "hadrian",
+  "slug": "hadrian",
+  "name": "Hadrian",
+  "shortName": "Hadrian",
+  "era": "76-138",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "76-138",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Hadrian is a notable politician associated with Spain.",
+  "knownFor": [
+    "Politician",
+    "96 language biography editions",
+    "Historical Popularity Index 84.6"
+  ],
+  "featured": true,
+  "featuredRank": 480,
+  "imageAlt": "Portrait-style visual for Hadrian",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hadrian",
+      "url": "https://pantheon.world/profile/person/Hadrian",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hadrian-pantheon-profile",
+      "text": "Pantheon ranks Hadrian as a globally documented politician with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hadrian a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hadrian",
+      "sourceUrl": "https://pantheon.world/profile/person/Hadrian",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

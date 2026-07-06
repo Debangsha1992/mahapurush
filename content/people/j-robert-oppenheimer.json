@@ -1,0 +1,48 @@
+{
+  "id": "j-robert-oppenheimer",
+  "slug": "j-robert-oppenheimer",
+  "name": "J. Robert Oppenheimer",
+  "shortName": "Oppenheimer",
+  "era": "1904-1967",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1904-1967",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "J. Robert Oppenheimer is a notable physicist associated with United States.",
+  "knownFor": [
+    "Physicist",
+    "101 language biography editions",
+    "Historical Popularity Index 90.9"
+  ],
+  "featured": true,
+  "featuredRank": 106,
+  "imageAlt": "Portrait-style visual for J. Robert Oppenheimer",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: J. Robert Oppenheimer",
+      "url": "https://pantheon.world/profile/person/J._Robert_Oppenheimer",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "j-robert-oppenheimer-pantheon-profile",
+      "text": "Pantheon ranks J. Robert Oppenheimer as a globally documented physicist with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make J. Robert Oppenheimer a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: J. Robert Oppenheimer",
+      "sourceUrl": "https://pantheon.world/profile/person/J._Robert_Oppenheimer",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

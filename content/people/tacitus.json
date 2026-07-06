@@ -1,0 +1,47 @@
+{
+  "id": "tacitus",
+  "slug": "tacitus",
+  "name": "Tacitus",
+  "shortName": "Tacitus",
+  "era": "54-120",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "54-120",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "historian"
+  ],
+  "summary": "Tacitus is a notable historian associated with France.",
+  "knownFor": [
+    "Historian",
+    "89 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Tacitus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Tacitus",
+      "url": "https://pantheon.world/profile/person/Tacitus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "tacitus-pantheon-profile",
+      "text": "Pantheon ranks Tacitus as a globally documented historian with biographies in 89 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Tacitus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Tacitus",
+      "sourceUrl": "https://pantheon.world/profile/person/Tacitus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

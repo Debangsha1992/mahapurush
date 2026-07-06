@@ -1,0 +1,47 @@
+{
+  "id": "recep-tayyip-erdogan",
+  "slug": "recep-tayyip-erdogan",
+  "name": "Recep Tayyip Erdoğan",
+  "shortName": "Erdoğan",
+  "era": "born 1954",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "born 1954",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Recep Tayyip Erdoğan is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "145 language biography editions",
+    "Historical Popularity Index 83.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Recep Tayyip Erdoğan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Recep Tayyip Erdoğan",
+      "url": "https://pantheon.world/profile/person/Recep_Tayyip_Erdo%C4%9Fan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "recep-tayyip-erdogan-pantheon-profile",
+      "text": "Pantheon ranks Recep Tayyip Erdoğan as a globally documented politician with biographies in 145 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Recep Tayyip Erdoğan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Recep Tayyip Erdoğan",
+      "sourceUrl": "https://pantheon.world/profile/person/Recep_Tayyip_Erdo%C4%9Fan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

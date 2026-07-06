@@ -1,0 +1,48 @@
+{
+  "id": "walt-disney",
+  "slug": "walt-disney",
+  "name": "Walt Disney",
+  "shortName": "Disney",
+  "era": "1901-1966",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1901-1966",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "producer"
+  ],
+  "summary": "Walt Disney is a notable producer associated with United States.",
+  "knownFor": [
+    "Producer",
+    "170 language biography editions",
+    "Historical Popularity Index 84.6"
+  ],
+  "featured": true,
+  "featuredRank": 478,
+  "imageAlt": "Portrait-style visual for Walt Disney",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Walt Disney",
+      "url": "https://pantheon.world/profile/person/Walt_Disney",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "walt-disney-pantheon-profile",
+      "text": "Pantheon ranks Walt Disney as a globally documented producer with biographies in 170 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Walt Disney a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Walt Disney",
+      "sourceUrl": "https://pantheon.world/profile/person/Walt_Disney",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

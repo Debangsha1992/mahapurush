@@ -1,0 +1,47 @@
+{
+  "id": "charles-babbage",
+  "slug": "charles-babbage",
+  "name": "Charles Babbage",
+  "shortName": "Babbage",
+  "era": "1791-1871",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1791-1871",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "inventor"
+  ],
+  "summary": "Charles Babbage is a notable inventor associated with United Kingdom.",
+  "knownFor": [
+    "Inventor",
+    "98 language biography editions",
+    "Historical Popularity Index 81.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Charles Babbage",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Charles Babbage",
+      "url": "https://pantheon.world/profile/person/Charles_Babbage",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "charles-babbage-pantheon-profile",
+      "text": "Pantheon ranks Charles Babbage as a globally documented inventor with biographies in 98 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles Babbage a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Charles Babbage",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Babbage",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

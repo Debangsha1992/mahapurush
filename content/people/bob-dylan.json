@@ -1,0 +1,47 @@
+{
+  "id": "bob-dylan",
+  "slug": "bob-dylan",
+  "name": "Bob Dylan",
+  "shortName": "Dylan",
+  "era": "born 1941",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1941",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "musician"
+  ],
+  "summary": "Bob Dylan is a notable musician associated with United States.",
+  "knownFor": [
+    "Musician",
+    "143 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Bob Dylan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bob Dylan",
+      "url": "https://pantheon.world/profile/person/Bob_Dylan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bob-dylan-pantheon-profile",
+      "text": "Pantheon ranks Bob Dylan as a globally documented musician with biographies in 143 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bob Dylan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bob Dylan",
+      "sourceUrl": "https://pantheon.world/profile/person/Bob_Dylan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

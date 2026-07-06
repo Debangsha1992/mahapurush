@@ -1,0 +1,47 @@
+{
+  "id": "mahavira",
+  "slug": "mahavira",
+  "name": "Mahavira",
+  "shortName": "Mahavira",
+  "era": "-599--527",
+  "region": "India",
+  "regionId": "south-asia",
+  "lifespan": "-599--527",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Mahavira is a notable religious figure associated with India.",
+  "knownFor": [
+    "Religious Figure",
+    "78 language biography editions",
+    "Historical Popularity Index 81.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mahavira",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mahavira",
+      "url": "https://pantheon.world/profile/person/Mahavira",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mahavira-pantheon-profile",
+      "text": "Pantheon ranks Mahavira as a globally documented religious figure with biographies in 78 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mahavira a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mahavira",
+      "sourceUrl": "https://pantheon.world/profile/person/Mahavira",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

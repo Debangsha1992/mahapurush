@@ -1,0 +1,48 @@
+{
+  "id": "gustav-mahler",
+  "slug": "gustav-mahler",
+  "name": "Gustav Mahler",
+  "shortName": "Mahler",
+  "era": "1860-1911",
+  "region": "Czechia",
+  "regionId": "global-diaspora",
+  "lifespan": "1860-1911",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Gustav Mahler is a notable composer associated with Czechia.",
+  "knownFor": [
+    "Composer",
+    "122 language biography editions",
+    "Historical Popularity Index 87.3"
+  ],
+  "featured": true,
+  "featuredRank": 256,
+  "imageAlt": "Portrait-style visual for Gustav Mahler",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Gustav Mahler",
+      "url": "https://pantheon.world/profile/person/Gustav_Mahler",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "gustav-mahler-pantheon-profile",
+      "text": "Pantheon ranks Gustav Mahler as a globally documented composer with biographies in 122 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Gustav Mahler a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Gustav Mahler",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustav_Mahler",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

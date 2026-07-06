@@ -1,0 +1,48 @@
+{
+  "id": "johann-wolfgang-von-goethe",
+  "slug": "johann-wolfgang-von-goethe",
+  "name": "Johann Wolfgang von Goethe",
+  "shortName": "Goethe",
+  "era": "1749-1832",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1749-1832",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Johann Wolfgang von Goethe is a notable writer associated with Germany.",
+  "knownFor": [
+    "Writer",
+    "188 language biography editions",
+    "Historical Popularity Index 91.0"
+  ],
+  "featured": true,
+  "featuredRank": 105,
+  "imageAlt": "Portrait-style visual for Johann Wolfgang von Goethe",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Johann Wolfgang von Goethe",
+      "url": "https://pantheon.world/profile/person/Johann_Wolfgang_von_Goethe",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "johann-wolfgang-von-goethe-pantheon-profile",
+      "text": "Pantheon ranks Johann Wolfgang von Goethe as a globally documented writer with biographies in 188 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Johann Wolfgang von Goethe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Johann Wolfgang von Goethe",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Wolfgang_von_Goethe",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

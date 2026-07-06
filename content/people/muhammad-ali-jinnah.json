@@ -1,0 +1,48 @@
+{
+  "id": "muhammad-ali-jinnah",
+  "slug": "muhammad-ali-jinnah",
+  "name": "Muhammad Ali Jinnah",
+  "shortName": "Jinnah",
+  "era": "1876-1948",
+  "region": "Pakistan",
+  "regionId": "south-asia",
+  "lifespan": "1876-1948",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Muhammad Ali Jinnah is a notable politician associated with Pakistan.",
+  "knownFor": [
+    "Politician",
+    "99 language biography editions",
+    "Historical Popularity Index 86.9"
+  ],
+  "featured": true,
+  "featuredRank": 283,
+  "imageAlt": "Portrait-style visual for Muhammad Ali Jinnah",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Muhammad Ali Jinnah",
+      "url": "https://pantheon.world/profile/person/Muhammad_Ali_Jinnah",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "muhammad-ali-jinnah-pantheon-profile",
+      "text": "Pantheon ranks Muhammad Ali Jinnah as a globally documented politician with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Muhammad Ali Jinnah a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Muhammad Ali Jinnah",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_Jinnah",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

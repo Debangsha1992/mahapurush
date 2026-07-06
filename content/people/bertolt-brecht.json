@@ -1,0 +1,47 @@
+{
+  "id": "bertolt-brecht",
+  "slug": "bertolt-brecht",
+  "name": "Bertolt Brecht",
+  "shortName": "Brecht",
+  "era": "1898-1956",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1898-1956",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Bertolt Brecht is a notable writer associated with Germany.",
+  "knownFor": [
+    "Writer",
+    "107 language biography editions",
+    "Historical Popularity Index 83.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Bertolt Brecht",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bertolt Brecht",
+      "url": "https://pantheon.world/profile/person/Bertolt_Brecht",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bertolt-brecht-pantheon-profile",
+      "text": "Pantheon ranks Bertolt Brecht as a globally documented writer with biographies in 107 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bertolt Brecht a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bertolt Brecht",
+      "sourceUrl": "https://pantheon.world/profile/person/Bertolt_Brecht",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

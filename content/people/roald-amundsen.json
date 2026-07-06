@@ -1,0 +1,48 @@
+{
+  "id": "roald-amundsen",
+  "slug": "roald-amundsen",
+  "name": "Roald Amundsen",
+  "shortName": "Amundsen",
+  "era": "1872-1928",
+  "region": "Norway",
+  "regionId": "europe",
+  "lifespan": "1872-1928",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "explorer"
+  ],
+  "summary": "Roald Amundsen is a notable explorer associated with Norway.",
+  "knownFor": [
+    "Explorer",
+    "160 language biography editions",
+    "Historical Popularity Index 85.0"
+  ],
+  "featured": true,
+  "featuredRank": 441,
+  "imageAlt": "Portrait-style visual for Roald Amundsen",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Roald Amundsen",
+      "url": "https://pantheon.world/profile/person/Roald_Amundsen",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "roald-amundsen-pantheon-profile",
+      "text": "Pantheon ranks Roald Amundsen as a globally documented explorer with biographies in 160 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Roald Amundsen a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Roald Amundsen",
+      "sourceUrl": "https://pantheon.world/profile/person/Roald_Amundsen",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

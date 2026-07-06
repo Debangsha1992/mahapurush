@@ -1,0 +1,48 @@
+{
+  "id": "diego-velazquez",
+  "slug": "diego-velazquez",
+  "name": "Diego Velázquez",
+  "shortName": "Velázquez",
+  "era": "1599-1660",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1599-1660",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Diego Velázquez is a notable painter associated with Spain.",
+  "knownFor": [
+    "Painter",
+    "152 language biography editions",
+    "Historical Popularity Index 87.0"
+  ],
+  "featured": true,
+  "featuredRank": 275,
+  "imageAlt": "Portrait-style visual for Diego Velázquez",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Diego Velázquez",
+      "url": "https://pantheon.world/profile/person/Diego_Vel%C3%A1zquez",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "diego-velazquez-pantheon-profile",
+      "text": "Pantheon ranks Diego Velázquez as a globally documented painter with biographies in 152 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Diego Velázquez a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Diego Velázquez",
+      "sourceUrl": "https://pantheon.world/profile/person/Diego_Vel%C3%A1zquez",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

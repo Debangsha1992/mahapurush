@@ -1,0 +1,47 @@
+{
+  "id": "el-greco",
+  "slug": "el-greco",
+  "name": "El Greco",
+  "shortName": "Greco",
+  "era": "1541-1614",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "1541-1614",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "El Greco is a notable painter associated with Greece.",
+  "knownFor": [
+    "Painter",
+    "105 language biography editions",
+    "Historical Popularity Index 84.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for El Greco",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: El Greco",
+      "url": "https://pantheon.world/profile/person/El_Greco",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "el-greco-pantheon-profile",
+      "text": "Pantheon ranks El Greco as a globally documented painter with biographies in 105 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make El Greco a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: El Greco",
+      "sourceUrl": "https://pantheon.world/profile/person/El_Greco",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

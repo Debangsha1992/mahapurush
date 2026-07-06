@@ -1,0 +1,47 @@
+{
+  "id": "felix-mendelssohn",
+  "slug": "felix-mendelssohn",
+  "name": "Felix Mendelssohn",
+  "shortName": "Mendelssohn",
+  "era": "1809-1847",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1809-1847",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Felix Mendelssohn is a notable composer associated with Germany.",
+  "knownFor": [
+    "Composer",
+    "103 language biography editions",
+    "Historical Popularity Index 83.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Felix Mendelssohn",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Felix Mendelssohn",
+      "url": "https://pantheon.world/profile/person/Felix_Mendelssohn",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "felix-mendelssohn-pantheon-profile",
+      "text": "Pantheon ranks Felix Mendelssohn as a globally documented composer with biographies in 103 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Felix Mendelssohn a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Felix Mendelssohn",
+      "sourceUrl": "https://pantheon.world/profile/person/Felix_Mendelssohn",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

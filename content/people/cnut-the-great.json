@@ -1,0 +1,48 @@
+{
+  "id": "cnut-the-great",
+  "slug": "cnut-the-great",
+  "name": "Cnut the Great",
+  "shortName": "Great",
+  "era": "995-1035",
+  "region": "Denmark",
+  "regionId": "europe",
+  "lifespan": "995-1035",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Cnut the Great is a notable politician associated with Denmark.",
+  "knownFor": [
+    "Politician",
+    "74 language biography editions",
+    "Historical Popularity Index 88.0"
+  ],
+  "featured": true,
+  "featuredRank": 217,
+  "imageAlt": "Portrait-style visual for Cnut the Great",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Cnut the Great",
+      "url": "https://pantheon.world/profile/person/Cnut_the_Great",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "cnut-the-great-pantheon-profile",
+      "text": "Pantheon ranks Cnut the Great as a globally documented politician with biographies in 74 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Cnut the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Cnut the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Cnut_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

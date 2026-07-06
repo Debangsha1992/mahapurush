@@ -1,0 +1,48 @@
+{
+  "id": "donatello",
+  "slug": "donatello",
+  "name": "Donatello",
+  "shortName": "Donatello",
+  "era": "1386-1466",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1386-1466",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Donatello is a notable painter associated with Italy.",
+  "knownFor": [
+    "Painter",
+    "100 language biography editions",
+    "Historical Popularity Index 84.8"
+  ],
+  "featured": true,
+  "featuredRank": 453,
+  "imageAlt": "Portrait-style visual for Donatello",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Donatello",
+      "url": "https://pantheon.world/profile/person/Donatello",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "donatello-pantheon-profile",
+      "text": "Pantheon ranks Donatello as a globally documented painter with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Donatello a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Donatello",
+      "sourceUrl": "https://pantheon.world/profile/person/Donatello",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

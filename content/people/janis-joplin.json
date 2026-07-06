@@ -1,0 +1,47 @@
+{
+  "id": "janis-joplin",
+  "slug": "janis-joplin",
+  "name": "Janis Joplin",
+  "shortName": "Joplin",
+  "era": "1943-1970",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1943-1970",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "singer"
+  ],
+  "summary": "Janis Joplin is a notable singer associated with United States.",
+  "knownFor": [
+    "Singer",
+    "85 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Janis Joplin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Janis Joplin",
+      "url": "https://pantheon.world/profile/person/Janis_Joplin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "janis-joplin-pantheon-profile",
+      "text": "Pantheon ranks Janis Joplin as a globally documented singer with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Janis Joplin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Janis Joplin",
+      "sourceUrl": "https://pantheon.world/profile/person/Janis_Joplin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

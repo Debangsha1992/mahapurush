@@ -1,0 +1,48 @@
+{
+  "id": "matsuo-basho",
+  "slug": "matsuo-basho",
+  "name": "Matsuo Bashō",
+  "shortName": "Bashō",
+  "era": "1644-1694",
+  "region": "Japan",
+  "regionId": "east-asia",
+  "lifespan": "1644-1694",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Matsuo Bashō is a notable writer associated with Japan.",
+  "knownFor": [
+    "Writer",
+    "163 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 426,
+  "imageAlt": "Portrait-style visual for Matsuo Bashō",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Matsuo Bashō",
+      "url": "https://pantheon.world/profile/person/Matsuo_Bash%C5%8D",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "matsuo-basho-pantheon-profile",
+      "text": "Pantheon ranks Matsuo Bashō as a globally documented writer with biographies in 163 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Matsuo Bashō a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Matsuo Bashō",
+      "sourceUrl": "https://pantheon.world/profile/person/Matsuo_Bash%C5%8D",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "james-vi-and-i",
+  "slug": "james-vi-and-i",
+  "name": "James VI and I",
+  "shortName": "I",
+  "era": "1566-1625",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1566-1625",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "James VI and I is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "86 language biography editions",
+    "Historical Popularity Index 89.8"
+  ],
+  "featured": true,
+  "featuredRank": 136,
+  "imageAlt": "Portrait-style visual for James VI and I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: James VI and I",
+      "url": "https://pantheon.world/profile/person/James_VI_and_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "james-vi-and-i-pantheon-profile",
+      "text": "Pantheon ranks James VI and I as a globally documented politician with biographies in 86 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make James VI and I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: James VI and I",
+      "sourceUrl": "https://pantheon.world/profile/person/James_VI_and_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

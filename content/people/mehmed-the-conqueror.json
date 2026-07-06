@@ -1,0 +1,48 @@
+{
+  "id": "mehmed-the-conqueror",
+  "slug": "mehmed-the-conqueror",
+  "name": "Mehmed the Conqueror",
+  "shortName": "Conqueror",
+  "era": "1432-1481",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1432-1481",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mehmed the Conqueror is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "106 language biography editions",
+    "Historical Popularity Index 89.5"
+  ],
+  "featured": true,
+  "featuredRank": 149,
+  "imageAlt": "Portrait-style visual for Mehmed the Conqueror",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mehmed the Conqueror",
+      "url": "https://pantheon.world/profile/person/Mehmed_the_Conqueror",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mehmed-the-conqueror-pantheon-profile",
+      "text": "Pantheon ranks Mehmed the Conqueror as a globally documented politician with biographies in 106 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mehmed the Conqueror a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mehmed the Conqueror",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_the_Conqueror",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

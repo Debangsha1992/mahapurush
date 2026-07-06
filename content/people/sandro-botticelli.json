@@ -1,0 +1,48 @@
+{
+  "id": "sandro-botticelli",
+  "slug": "sandro-botticelli",
+  "name": "Sandro Botticelli",
+  "shortName": "Botticelli",
+  "era": "1445-1510",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1445-1510",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Sandro Botticelli is a notable painter associated with Italy.",
+  "knownFor": [
+    "Painter",
+    "101 language biography editions",
+    "Historical Popularity Index 87.2"
+  ],
+  "featured": true,
+  "featuredRank": 261,
+  "imageAlt": "Portrait-style visual for Sandro Botticelli",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Sandro Botticelli",
+      "url": "https://pantheon.world/profile/person/Sandro_Botticelli",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "sandro-botticelli-pantheon-profile",
+      "text": "Pantheon ranks Sandro Botticelli as a globally documented painter with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Sandro Botticelli a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Sandro Botticelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Sandro_Botticelli",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

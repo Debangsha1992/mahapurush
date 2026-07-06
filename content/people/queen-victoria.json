@@ -1,0 +1,48 @@
+{
+  "id": "queen-victoria",
+  "slug": "queen-victoria",
+  "name": "Queen Victoria",
+  "shortName": "Victoria",
+  "era": "1819-1901",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1819-1901",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Queen Victoria is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "146 language biography editions",
+    "Historical Popularity Index 86.3"
+  ],
+  "featured": true,
+  "featuredRank": 327,
+  "imageAlt": "Portrait-style visual for Queen Victoria",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Queen Victoria",
+      "url": "https://pantheon.world/profile/person/Queen_Victoria",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "queen-victoria-pantheon-profile",
+      "text": "Pantheon ranks Queen Victoria as a globally documented politician with biographies in 146 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Queen Victoria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Queen Victoria",
+      "sourceUrl": "https://pantheon.world/profile/person/Queen_Victoria",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "cicero",
+  "slug": "cicero",
+  "name": "Cicero",
+  "shortName": "Cicero",
+  "era": "-106--43",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-106--43",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Cicero is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "131 language biography editions",
+    "Historical Popularity Index 88.2"
+  ],
+  "featured": true,
+  "featuredRank": 209,
+  "imageAlt": "Portrait-style visual for Cicero",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Cicero",
+      "url": "https://pantheon.world/profile/person/Cicero",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "cicero-pantheon-profile",
+      "text": "Pantheon ranks Cicero as a globally documented politician with biographies in 131 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Cicero a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Cicero",
+      "sourceUrl": "https://pantheon.world/profile/person/Cicero",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

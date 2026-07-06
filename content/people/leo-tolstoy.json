@@ -1,0 +1,48 @@
+{
+  "id": "leo-tolstoy",
+  "slug": "leo-tolstoy",
+  "name": "Leo Tolstoy",
+  "shortName": "Tolstoy",
+  "era": "1828-1910",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1828-1910",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Leo Tolstoy is a notable writer associated with Russia.",
+  "knownFor": [
+    "Writer",
+    "183 language biography editions",
+    "Historical Popularity Index 89.8"
+  ],
+  "featured": true,
+  "featuredRank": 137,
+  "imageAlt": "Portrait-style visual for Leo Tolstoy",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Leo Tolstoy",
+      "url": "https://pantheon.world/profile/person/Leo_Tolstoy",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "leo-tolstoy-pantheon-profile",
+      "text": "Pantheon ranks Leo Tolstoy as a globally documented writer with biographies in 183 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Leo Tolstoy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Leo Tolstoy",
+      "sourceUrl": "https://pantheon.world/profile/person/Leo_Tolstoy",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

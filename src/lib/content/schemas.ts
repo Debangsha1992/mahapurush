@@ -2,10 +2,21 @@ import { z } from "zod";
 import { CATEGORIES } from "@/lib/constants/categories";
 import { SKILLS } from "@/lib/constants/skills";
 import { BADGES } from "@/lib/constants/badges";
+import { PERSON_DOMAIN_IDS } from "@/lib/constants/person-domains";
+import { PERSON_REGION_IDS } from "@/lib/constants/person-regions";
 
 export const categorySchema = z.enum(CATEGORIES);
 export const skillSchema = z.enum(SKILLS);
 export const badgeSchema = z.enum(BADGES);
+export const personDomainSchema = z.enum(PERSON_DOMAIN_IDS);
+export const personRegionSchema = z.enum(PERSON_REGION_IDS);
+export const personReviewStatusSchema = z.enum([
+  "candidate",
+  "drafted",
+  "source-verified",
+  "featured-approved",
+  "published",
+]);
 
 const httpsUrlSchema = z
   .string()
@@ -114,6 +125,12 @@ export const factSchema = z.object({
   verified: z.boolean(),
 });
 
+export const sourceRefSchema = z.object({
+  title: z.string().min(1),
+  url: httpsUrlSchema,
+  accessedAt: z.string().min(1),
+});
+
 export const notablePersonSchema = z.object({
   id: z.string().min(1),
   slug: z.string().min(1),
@@ -121,10 +138,18 @@ export const notablePersonSchema = z.object({
   shortName: z.string().min(1),
   era: z.string().min(1),
   region: z.string().min(1),
+  regionId: personRegionSchema,
   lifespan: z.string().min(1).optional(),
+  primaryDomain: personDomainSchema,
   domains: z.array(z.string().min(1)).min(1),
   summary: z.string().min(1),
   knownFor: z.array(z.string().min(1)).min(1),
+  featured: z.boolean(),
+  featuredRank: z.number().int().positive().optional(),
+  portrait: z.string().min(1).optional(),
+  imageAlt: z.string().min(1).optional(),
+  sourceRefs: z.array(sourceRefSchema).min(1),
+  reviewStatus: personReviewStatusSchema,
   thinkerId: z.string().min(1).optional(),
   sensitiveContextNote: z.string().min(1).optional(),
   facts: z.array(factSchema).min(1),
@@ -197,10 +222,35 @@ export type LifeStoryPage = z.infer<typeof lifeStoryPageSchema>;
 export type LifeStory = z.infer<typeof lifeStorySchema>;
 export type Thinker = z.infer<typeof thinkerSchema>;
 export type Fact = z.infer<typeof factSchema>;
+export type SourceRef = z.infer<typeof sourceRefSchema>;
 export type NotablePerson = z.infer<typeof notablePersonSchema>;
 export type FactWithPerson = Fact & {
   person: Omit<NotablePerson, "facts">;
   thinkerSlug?: string;
+};
+export type PersonSummary = Pick<
+  NotablePerson,
+  | "id"
+  | "slug"
+  | "name"
+  | "shortName"
+  | "era"
+  | "region"
+  | "regionId"
+  | "primaryDomain"
+  | "summary"
+  | "knownFor"
+  | "featured"
+  | "featuredRank"
+  | "portrait"
+  | "imageAlt"
+>;
+export type PeoplePageResult = {
+  people: PersonSummary[];
+  page: number;
+  pageSize: number;
+  total: number;
+  totalPages: number;
 };
 
 export const LIFE_STORY_PAGE_COUNT = 8;

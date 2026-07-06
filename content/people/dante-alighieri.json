@@ -1,0 +1,48 @@
+{
+  "id": "dante-alighieri",
+  "slug": "dante-alighieri",
+  "name": "Dante Alighieri",
+  "shortName": "Alighieri",
+  "era": "1265-1321",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1265-1321",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Dante Alighieri is a notable writer associated with Italy.",
+  "knownFor": [
+    "Writer",
+    "192 language biography editions",
+    "Historical Popularity Index 92.1"
+  ],
+  "featured": true,
+  "featuredRank": 78,
+  "imageAlt": "Portrait-style visual for Dante Alighieri",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Dante Alighieri",
+      "url": "https://pantheon.world/profile/person/Dante_Alighieri",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "dante-alighieri-pantheon-profile",
+      "text": "Pantheon ranks Dante Alighieri as a globally documented writer with biographies in 192 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Dante Alighieri a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Dante Alighieri",
+      "sourceUrl": "https://pantheon.world/profile/person/Dante_Alighieri",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

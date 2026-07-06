@@ -1,0 +1,47 @@
+{
+  "id": "john-major",
+  "slug": "john-major",
+  "name": "John Major",
+  "shortName": "Major",
+  "era": "born 1943",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "born 1943",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "John Major is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "92 language biography editions",
+    "Historical Popularity Index 83.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for John Major",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: John Major",
+      "url": "https://pantheon.world/profile/person/John_Major",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "john-major-pantheon-profile",
+      "text": "Pantheon ranks John Major as a globally documented politician with biographies in 92 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make John Major a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: John Major",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Major",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

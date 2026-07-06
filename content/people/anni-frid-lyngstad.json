@@ -1,0 +1,47 @@
+{
+  "id": "anni-frid-lyngstad",
+  "slug": "anni-frid-lyngstad",
+  "name": "Anni-Frid Lyngstad",
+  "shortName": "Lyngstad",
+  "era": "born 1945",
+  "region": "Norway",
+  "regionId": "europe",
+  "lifespan": "born 1945",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "singer"
+  ],
+  "summary": "Anni-Frid Lyngstad is a notable singer associated with Norway.",
+  "knownFor": [
+    "Singer",
+    "63 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Anni-Frid Lyngstad",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Anni-Frid Lyngstad",
+      "url": "https://pantheon.world/profile/person/Anni-Frid_Lyngstad",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "anni-frid-lyngstad-pantheon-profile",
+      "text": "Pantheon ranks Anni-Frid Lyngstad as a globally documented singer with biographies in 63 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Anni-Frid Lyngstad a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Anni-Frid Lyngstad",
+      "sourceUrl": "https://pantheon.world/profile/person/Anni-Frid_Lyngstad",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

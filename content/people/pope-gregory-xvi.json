@@ -1,0 +1,48 @@
+{
+  "id": "pope-gregory-xvi",
+  "slug": "pope-gregory-xvi",
+  "name": "Pope Gregory XVI",
+  "shortName": "XVI",
+  "era": "1765-1846",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1765-1846",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Gregory XVI is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "81 language biography editions",
+    "Historical Popularity Index 84.7"
+  ],
+  "featured": true,
+  "featuredRank": 464,
+  "imageAlt": "Portrait-style visual for Pope Gregory XVI",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Gregory XVI",
+      "url": "https://pantheon.world/profile/person/Pope_Gregory_XVI",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-gregory-xvi-pantheon-profile",
+      "text": "Pantheon ranks Pope Gregory XVI as a globally documented religious figure with biographies in 81 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Gregory XVI a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Gregory XVI",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Gregory_XVI",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

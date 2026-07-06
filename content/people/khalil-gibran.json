@@ -1,0 +1,48 @@
+{
+  "id": "khalil-gibran",
+  "slug": "khalil-gibran",
+  "name": "Khalil Gibran",
+  "shortName": "Gibran",
+  "era": "1883-1931",
+  "region": "Lebanon",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1883-1931",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Khalil Gibran is a notable writer associated with Lebanon.",
+  "knownFor": [
+    "Writer",
+    "105 language biography editions",
+    "Historical Popularity Index 85.6"
+  ],
+  "featured": true,
+  "featuredRank": 387,
+  "imageAlt": "Portrait-style visual for Khalil Gibran",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Khalil Gibran",
+      "url": "https://pantheon.world/profile/person/Khalil_Gibran",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "khalil-gibran-pantheon-profile",
+      "text": "Pantheon ranks Khalil Gibran as a globally documented writer with biographies in 105 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Khalil Gibran a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Khalil Gibran",
+      "sourceUrl": "https://pantheon.world/profile/person/Khalil_Gibran",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

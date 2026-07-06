@@ -1,0 +1,48 @@
+{
+  "id": "galen",
+  "slug": "galen",
+  "name": "Galen",
+  "shortName": "Galen",
+  "era": "129-215",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "129-215",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physician"
+  ],
+  "summary": "Galen is a notable physician associated with Türkiye.",
+  "knownFor": [
+    "Physician",
+    "113 language biography editions",
+    "Historical Popularity Index 85.7"
+  ],
+  "featured": true,
+  "featuredRank": 374,
+  "imageAlt": "Portrait-style visual for Galen",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Galen",
+      "url": "https://pantheon.world/profile/person/Galen",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "galen-pantheon-profile",
+      "text": "Pantheon ranks Galen as a globally documented physician with biographies in 113 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Galen a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Galen",
+      "sourceUrl": "https://pantheon.world/profile/person/Galen",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

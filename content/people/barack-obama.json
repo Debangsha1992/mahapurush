@@ -6,9 +6,15 @@
   "era": "1961-present",
   "region": "United States",
   "lifespan": "1961-present",
-  "domains": ["politics", "law", "public leadership"],
+  "domains": [
+    "justice-governance-leadership"
+  ],
   "summary": "Barack Obama served as a constitutional law teacher, senator, and the 44th president of the United States.",
-  "knownFor": ["44th U.S. president", "Affordable Care Act", "public leadership"],
+  "knownFor": [
+    "44th U.S. president",
+    "Affordable Care Act",
+    "public leadership"
+  ],
   "sensitiveContextNote": "Use neutral language for political achievements and controversies.",
   "facts": [
     {
@@ -20,8 +26,24 @@
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "2008-11-04",
       "currentAsOf": "2008-11-04",
-      "tags": ["politics", "first"],
+      "tags": [
+        "politics",
+        "first"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "north-america",
+  "primaryDomain": "justice-governance-leadership",
+  "featured": true,
+  "featuredRank": 5,
+  "imageAlt": "Portrait-style visual for Barack Obama",
+  "sourceRefs": [
+    {
+      "title": "The White House: Barack Obama",
+      "url": "https://www.whitehouse.gov/about-the-white-house/presidents/barack-obama/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

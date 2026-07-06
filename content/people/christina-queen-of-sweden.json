@@ -1,0 +1,47 @@
+{
+  "id": "christina-queen-of-sweden",
+  "slug": "christina-queen-of-sweden",
+  "name": "Christina, Queen of Sweden",
+  "shortName": "Sweden",
+  "era": "1626-1689",
+  "region": "Sweden",
+  "regionId": "europe",
+  "lifespan": "1626-1689",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Christina, Queen of Sweden is a notable politician associated with Sweden.",
+  "knownFor": [
+    "Politician",
+    "67 language biography editions",
+    "Historical Popularity Index 83.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Christina, Queen of Sweden",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Christina, Queen of Sweden",
+      "url": "https://pantheon.world/profile/person/Christina%2C_Queen_of_Sweden",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "christina-queen-of-sweden-pantheon-profile",
+      "text": "Pantheon ranks Christina, Queen of Sweden as a globally documented politician with biographies in 67 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Christina, Queen of Sweden a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Christina, Queen of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Christina%2C_Queen_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

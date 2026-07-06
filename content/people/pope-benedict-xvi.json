@@ -1,0 +1,48 @@
+{
+  "id": "pope-benedict-xvi",
+  "slug": "pope-benedict-xvi",
+  "name": "Pope Benedict XVI",
+  "shortName": "XVI",
+  "era": "1927-2022",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1927-2022",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Benedict XVI is a notable religious figure associated with Germany.",
+  "knownFor": [
+    "Religious Figure",
+    "149 language biography editions",
+    "Historical Popularity Index 93.9"
+  ],
+  "featured": true,
+  "featuredRank": 55,
+  "imageAlt": "Portrait-style visual for Pope Benedict XVI",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Benedict XVI",
+      "url": "https://pantheon.world/profile/person/Pope_Benedict_XVI",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-benedict-xvi-pantheon-profile",
+      "text": "Pantheon ranks Pope Benedict XVI as a globally documented religious figure with biographies in 149 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Benedict XVI a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Benedict XVI",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XVI",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

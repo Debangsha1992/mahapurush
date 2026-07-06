@@ -1,0 +1,47 @@
+{
+  "id": "honorius-emperor",
+  "slug": "honorius-emperor",
+  "name": "Honorius",
+  "shortName": "Honorius",
+  "era": "384-423",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "384-423",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Honorius is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "73 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Honorius",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Honorius",
+      "url": "https://pantheon.world/profile/person/Honorius_(emperor)",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "honorius-emperor-pantheon-profile",
+      "text": "Pantheon ranks Honorius as a globally documented politician with biographies in 73 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Honorius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Honorius",
+      "sourceUrl": "https://pantheon.world/profile/person/Honorius_(emperor)",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

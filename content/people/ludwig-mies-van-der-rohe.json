@@ -1,0 +1,47 @@
+{
+  "id": "ludwig-mies-van-der-rohe",
+  "slug": "ludwig-mies-van-der-rohe",
+  "name": "Ludwig Mies van der Rohe",
+  "shortName": "Rohe",
+  "era": "1886-1969",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1886-1969",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "architect"
+  ],
+  "summary": "Ludwig Mies van der Rohe is a notable architect associated with Germany.",
+  "knownFor": [
+    "Architect",
+    "74 language biography editions",
+    "Historical Popularity Index 81.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ludwig Mies van der Rohe",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ludwig Mies van der Rohe",
+      "url": "https://pantheon.world/profile/person/Ludwig_Mies_van_der_Rohe",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ludwig-mies-van-der-rohe-pantheon-profile",
+      "text": "Pantheon ranks Ludwig Mies van der Rohe as a globally documented architect with biographies in 74 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ludwig Mies van der Rohe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ludwig Mies van der Rohe",
+      "sourceUrl": "https://pantheon.world/profile/person/Ludwig_Mies_van_der_Rohe",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

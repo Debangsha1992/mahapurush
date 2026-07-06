@@ -6,9 +6,15 @@
   "era": "1940-2011",
   "region": "Kenya",
   "lifespan": "1940-2011",
-  "domains": ["environment", "democracy", "community organizing"],
+  "domains": [
+    "environment-exploration-human-achievement"
+  ],
   "summary": "Wangari Maathai connected environmental restoration with civic participation and women's leadership.",
-  "knownFor": ["Green Belt Movement", "environmental activism", "Nobel Peace Prize"],
+  "knownFor": [
+    "Green Belt Movement",
+    "environmental activism",
+    "Nobel Peace Prize"
+  ],
   "facts": [
     {
       "id": "wangari-maathai-green-belt",
@@ -18,8 +24,24 @@
       "sourceUrl": "https://www.nobelprize.org/prizes/peace/2004/maathai/facts/",
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "2004-10-08",
-      "tags": ["environment", "community"],
+      "tags": [
+        "environment",
+        "community"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "africa",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "featured": true,
+  "imageAlt": "Portrait-style visual for Wangari Maathai",
+  "sourceRefs": [
+    {
+      "title": "Nobel Prize: Wangari Maathai Facts",
+      "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/facts/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published",
+  "featuredRank": 29
 }

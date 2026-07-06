@@ -1,0 +1,48 @@
+{
+  "id": "sigmund-freud",
+  "slug": "sigmund-freud",
+  "name": "Sigmund Freud",
+  "shortName": "Freud",
+  "era": "1856-1939",
+  "region": "Czechia",
+  "regionId": "global-diaspora",
+  "lifespan": "1856-1939",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "psychologist"
+  ],
+  "summary": "Sigmund Freud is a notable psychologist associated with Czechia.",
+  "knownFor": [
+    "Psychologist",
+    "188 language biography editions",
+    "Historical Popularity Index 91.1"
+  ],
+  "featured": true,
+  "featuredRank": 98,
+  "imageAlt": "Portrait-style visual for Sigmund Freud",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Sigmund Freud",
+      "url": "https://pantheon.world/profile/person/Sigmund_Freud",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "sigmund-freud-pantheon-profile",
+      "text": "Pantheon ranks Sigmund Freud as a globally documented psychologist with biographies in 188 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Sigmund Freud a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Sigmund Freud",
+      "sourceUrl": "https://pantheon.world/profile/person/Sigmund_Freud",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

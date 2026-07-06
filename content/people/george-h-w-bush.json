@@ -1,0 +1,47 @@
+{
+  "id": "george-h-w-bush",
+  "slug": "george-h-w-bush",
+  "name": "George H. W. Bush",
+  "shortName": "Bush",
+  "era": "1924-2018",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1924-2018",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "George H. W. Bush is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "156 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for George H. W. Bush",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: George H. W. Bush",
+      "url": "https://pantheon.world/profile/person/George_H._W._Bush",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "george-h-w-bush-pantheon-profile",
+      "text": "Pantheon ranks George H. W. Bush as a globally documented politician with biographies in 156 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make George H. W. Bush a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: George H. W. Bush",
+      "sourceUrl": "https://pantheon.world/profile/person/George_H._W._Bush",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "vladimir-putin",
+  "slug": "vladimir-putin",
+  "name": "Vladimir Putin",
+  "shortName": "Putin",
+  "era": "born 1952",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "born 1952",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Vladimir Putin is a notable politician associated with Russia.",
+  "knownFor": [
+    "Politician",
+    "229 language biography editions",
+    "Historical Popularity Index 90.0"
+  ],
+  "featured": true,
+  "featuredRank": 128,
+  "imageAlt": "Portrait-style visual for Vladimir Putin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Vladimir Putin",
+      "url": "https://pantheon.world/profile/person/Vladimir_Putin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "vladimir-putin-pantheon-profile",
+      "text": "Pantheon ranks Vladimir Putin as a globally documented politician with biographies in 229 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Vladimir Putin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Vladimir Putin",
+      "sourceUrl": "https://pantheon.world/profile/person/Vladimir_Putin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

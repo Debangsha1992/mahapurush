@@ -1,0 +1,47 @@
+{
+  "id": "barbara-bush",
+  "slug": "barbara-bush",
+  "name": "Barbara Bush",
+  "shortName": "Bush",
+  "era": "1925-2018",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1925-2018",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Barbara Bush is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "68 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Barbara Bush",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Barbara Bush",
+      "url": "https://pantheon.world/profile/person/Barbara_Bush",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "barbara-bush-pantheon-profile",
+      "text": "Pantheon ranks Barbara Bush as a globally documented politician with biographies in 68 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Barbara Bush a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Barbara Bush",
+      "sourceUrl": "https://pantheon.world/profile/person/Barbara_Bush",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

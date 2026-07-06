@@ -1,0 +1,48 @@
+{
+  "id": "mary-ii-of-england",
+  "slug": "mary-ii-of-england",
+  "name": "Mary II of England",
+  "shortName": "England",
+  "era": "1662-1694",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1662-1694",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mary II of England is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "76 language biography editions",
+    "Historical Popularity Index 86.3"
+  ],
+  "featured": true,
+  "featuredRank": 328,
+  "imageAlt": "Portrait-style visual for Mary II of England",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mary II of England",
+      "url": "https://pantheon.world/profile/person/Mary_II_of_England",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mary-ii-of-england-pantheon-profile",
+      "text": "Pantheon ranks Mary II of England as a globally documented politician with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mary II of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mary II of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary_II_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

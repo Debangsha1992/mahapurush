@@ -1,0 +1,47 @@
+{
+  "id": "mithridates-vi-of-pontus",
+  "slug": "mithridates-vi-of-pontus",
+  "name": "Mithridates VI of Pontus",
+  "shortName": "Pontus",
+  "era": "-132--63",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "-132--63",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mithridates VI of Pontus is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "63 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mithridates VI of Pontus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mithridates VI of Pontus",
+      "url": "https://pantheon.world/profile/person/Mithridates_VI_of_Pontus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mithridates-vi-of-pontus-pantheon-profile",
+      "text": "Pantheon ranks Mithridates VI of Pontus as a globally documented politician with biographies in 63 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mithridates VI of Pontus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mithridates VI of Pontus",
+      "sourceUrl": "https://pantheon.world/profile/person/Mithridates_VI_of_Pontus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

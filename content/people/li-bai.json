@@ -1,0 +1,47 @@
+{
+  "id": "li-bai",
+  "slug": "li-bai",
+  "name": "Li Bai",
+  "shortName": "Bai",
+  "era": "701-762",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "701-762",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Li Bai is a notable writer associated with China.",
+  "knownFor": [
+    "Writer",
+    "151 language biography editions",
+    "Historical Popularity Index 84.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Li Bai",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Li Bai",
+      "url": "https://pantheon.world/profile/person/Li_Bai",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "li-bai-pantheon-profile",
+      "text": "Pantheon ranks Li Bai as a globally documented writer with biographies in 151 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Li Bai a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Li Bai",
+      "sourceUrl": "https://pantheon.world/profile/person/Li_Bai",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

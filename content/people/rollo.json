@@ -1,0 +1,47 @@
+{
+  "id": "rollo",
+  "slug": "rollo",
+  "name": "Rollo",
+  "shortName": "Rollo",
+  "era": "846-930",
+  "region": "Norway",
+  "regionId": "europe",
+  "lifespan": "846-930",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Rollo is a notable nobleman associated with Norway.",
+  "knownFor": [
+    "Nobleman",
+    "54 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Rollo",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Rollo",
+      "url": "https://pantheon.world/profile/person/Rollo",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "rollo-pantheon-profile",
+      "text": "Pantheon ranks Rollo as a globally documented nobleman with biographies in 54 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Rollo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Rollo",
+      "sourceUrl": "https://pantheon.world/profile/person/Rollo",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pepin-the-short",
+  "slug": "pepin-the-short",
+  "name": "Pepin the Short",
+  "shortName": "Short",
+  "era": "715-768",
+  "region": "Belgium",
+  "regionId": "europe",
+  "lifespan": "715-768",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Pepin the Short is a notable politician associated with Belgium.",
+  "knownFor": [
+    "Politician",
+    "79 language biography editions",
+    "Historical Popularity Index 83.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pepin the Short",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pepin the Short",
+      "url": "https://pantheon.world/profile/person/Pepin_the_Short",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pepin-the-short-pantheon-profile",
+      "text": "Pantheon ranks Pepin the Short as a globally documented politician with biographies in 79 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pepin the Short a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pepin the Short",
+      "sourceUrl": "https://pantheon.world/profile/person/Pepin_the_Short",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

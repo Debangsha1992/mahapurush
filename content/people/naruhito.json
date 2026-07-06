@@ -1,0 +1,47 @@
+{
+  "id": "naruhito",
+  "slug": "naruhito",
+  "name": "Naruhito",
+  "shortName": "Naruhito",
+  "era": "born 1960",
+  "region": "Japan",
+  "regionId": "east-asia",
+  "lifespan": "born 1960",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Naruhito is a notable nobleman associated with Japan.",
+  "knownFor": [
+    "Nobleman",
+    "181 language biography editions",
+    "Historical Popularity Index 81.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Naruhito",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Naruhito",
+      "url": "https://pantheon.world/profile/person/Naruhito",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "naruhito-pantheon-profile",
+      "text": "Pantheon ranks Naruhito as a globally documented nobleman with biographies in 181 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Naruhito a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Naruhito",
+      "sourceUrl": "https://pantheon.world/profile/person/Naruhito",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

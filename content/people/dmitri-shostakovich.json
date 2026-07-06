@@ -1,0 +1,47 @@
+{
+  "id": "dmitri-shostakovich",
+  "slug": "dmitri-shostakovich",
+  "name": "Dmitri Shostakovich",
+  "shortName": "Shostakovich",
+  "era": "1906-1975",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1906-1975",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Dmitri Shostakovich is a notable composer associated with Russia.",
+  "knownFor": [
+    "Composer",
+    "82 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Dmitri Shostakovich",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Dmitri Shostakovich",
+      "url": "https://pantheon.world/profile/person/Dmitri_Shostakovich",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "dmitri-shostakovich-pantheon-profile",
+      "text": "Pantheon ranks Dmitri Shostakovich as a globally documented composer with biographies in 82 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Dmitri Shostakovich a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Dmitri Shostakovich",
+      "sourceUrl": "https://pantheon.world/profile/person/Dmitri_Shostakovich",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

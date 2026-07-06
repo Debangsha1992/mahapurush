@@ -1,0 +1,47 @@
+{
+  "id": "david-ben-gurion",
+  "slug": "david-ben-gurion",
+  "name": "David Ben-Gurion",
+  "shortName": "Ben-Gurion",
+  "era": "1886-1973",
+  "region": "Poland",
+  "regionId": "europe",
+  "lifespan": "1886-1973",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "David Ben-Gurion is a notable politician associated with Poland.",
+  "knownFor": [
+    "Politician",
+    "104 language biography editions",
+    "Historical Popularity Index 81.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for David Ben-Gurion",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: David Ben-Gurion",
+      "url": "https://pantheon.world/profile/person/David_Ben-Gurion",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "david-ben-gurion-pantheon-profile",
+      "text": "Pantheon ranks David Ben-Gurion as a globally documented politician with biographies in 104 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make David Ben-Gurion a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: David Ben-Gurion",
+      "sourceUrl": "https://pantheon.world/profile/person/David_Ben-Gurion",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

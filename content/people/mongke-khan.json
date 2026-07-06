@@ -1,0 +1,47 @@
+{
+  "id": "mongke-khan",
+  "slug": "mongke-khan",
+  "name": "Möngke Khan",
+  "shortName": "Khan",
+  "era": "1209-1259",
+  "region": "Iraq",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1209-1259",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Möngke Khan is a notable politician associated with Iraq.",
+  "knownFor": [
+    "Politician",
+    "51 language biography editions",
+    "Historical Popularity Index 82.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Möngke Khan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Möngke Khan",
+      "url": "https://pantheon.world/profile/person/M%C3%B6ngke_Khan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mongke-khan-pantheon-profile",
+      "text": "Pantheon ranks Möngke Khan as a globally documented politician with biographies in 51 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Möngke Khan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Möngke Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/M%C3%B6ngke_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "auguste-rodin",
+  "slug": "auguste-rodin",
+  "name": "Auguste Rodin",
+  "shortName": "Rodin",
+  "era": "1840-1917",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1840-1917",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "sculptor"
+  ],
+  "summary": "Auguste Rodin is a notable sculptor associated with France.",
+  "knownFor": [
+    "Sculptor",
+    "95 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Auguste Rodin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Auguste Rodin",
+      "url": "https://pantheon.world/profile/person/Auguste_Rodin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "auguste-rodin-pantheon-profile",
+      "text": "Pantheon ranks Auguste Rodin as a globally documented sculptor with biographies in 95 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Auguste Rodin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Auguste Rodin",
+      "sourceUrl": "https://pantheon.world/profile/person/Auguste_Rodin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

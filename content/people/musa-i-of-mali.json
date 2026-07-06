@@ -1,0 +1,48 @@
+{
+  "id": "musa-i-of-mali",
+  "slug": "musa-i-of-mali",
+  "name": "Musa I of Mali",
+  "shortName": "Mali",
+  "era": "1280-1337",
+  "region": "Mali",
+  "regionId": "africa",
+  "lifespan": "1280-1337",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Musa I of Mali is a notable politician associated with Mali.",
+  "knownFor": [
+    "Politician",
+    "70 language biography editions",
+    "Historical Popularity Index 87.2"
+  ],
+  "featured": true,
+  "featuredRank": 262,
+  "imageAlt": "Portrait-style visual for Musa I of Mali",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Musa I of Mali",
+      "url": "https://pantheon.world/profile/person/Musa_I_of_Mali",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "musa-i-of-mali-pantheon-profile",
+      "text": "Pantheon ranks Musa I of Mali as a globally documented politician with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Musa I of Mali a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Musa I of Mali",
+      "sourceUrl": "https://pantheon.world/profile/person/Musa_I_of_Mali",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

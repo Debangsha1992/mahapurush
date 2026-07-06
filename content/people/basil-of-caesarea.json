@@ -1,0 +1,47 @@
+{
+  "id": "basil-of-caesarea",
+  "slug": "basil-of-caesarea",
+  "name": "Basil of Caesarea",
+  "shortName": "Caesarea",
+  "era": "329-379",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "329-379",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physician"
+  ],
+  "summary": "Basil of Caesarea is a notable physician associated with Türkiye.",
+  "knownFor": [
+    "Physician",
+    "70 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Basil of Caesarea",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Basil of Caesarea",
+      "url": "https://pantheon.world/profile/person/Basil_of_Caesarea",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "basil-of-caesarea-pantheon-profile",
+      "text": "Pantheon ranks Basil of Caesarea as a globally documented physician with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Basil of Caesarea a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Basil of Caesarea",
+      "sourceUrl": "https://pantheon.world/profile/person/Basil_of_Caesarea",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

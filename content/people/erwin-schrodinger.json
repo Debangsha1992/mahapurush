@@ -1,0 +1,47 @@
+{
+  "id": "erwin-schrodinger",
+  "slug": "erwin-schrodinger",
+  "name": "Erwin Schrödinger",
+  "shortName": "Schrödinger",
+  "era": "1887-1961",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1887-1961",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Erwin Schrödinger is a notable physicist associated with Austria.",
+  "knownFor": [
+    "Physicist",
+    "137 language biography editions",
+    "Historical Popularity Index 84.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Erwin Schrödinger",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Erwin Schrödinger",
+      "url": "https://pantheon.world/profile/person/Erwin_Schr%C3%B6dinger",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "erwin-schrodinger-pantheon-profile",
+      "text": "Pantheon ranks Erwin Schrödinger as a globally documented physicist with biographies in 137 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Erwin Schrödinger a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Erwin Schrödinger",
+      "sourceUrl": "https://pantheon.world/profile/person/Erwin_Schr%C3%B6dinger",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

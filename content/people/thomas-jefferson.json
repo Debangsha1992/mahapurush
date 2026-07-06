@@ -1,0 +1,48 @@
+{
+  "id": "thomas-jefferson",
+  "slug": "thomas-jefferson",
+  "name": "Thomas Jefferson",
+  "shortName": "Jefferson",
+  "era": "1743-1826",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1743-1826",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Thomas Jefferson is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "159 language biography editions",
+    "Historical Popularity Index 93.2"
+  ],
+  "featured": true,
+  "featuredRank": 64,
+  "imageAlt": "Portrait-style visual for Thomas Jefferson",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Thomas Jefferson",
+      "url": "https://pantheon.world/profile/person/Thomas_Jefferson",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "thomas-jefferson-pantheon-profile",
+      "text": "Pantheon ranks Thomas Jefferson as a globally documented politician with biographies in 159 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Thomas Jefferson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Thomas Jefferson",
+      "sourceUrl": "https://pantheon.world/profile/person/Thomas_Jefferson",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

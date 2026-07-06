@@ -1,0 +1,48 @@
+{
+  "id": "pope-julius-ii",
+  "slug": "pope-julius-ii",
+  "name": "Pope Julius II",
+  "shortName": "II",
+  "era": "1443-1513",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1443-1513",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Julius II is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "87 language biography editions",
+    "Historical Popularity Index 84.5"
+  ],
+  "featured": true,
+  "featuredRank": 485,
+  "imageAlt": "Portrait-style visual for Pope Julius II",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Julius II",
+      "url": "https://pantheon.world/profile/person/Pope_Julius_II",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-julius-ii-pantheon-profile",
+      "text": "Pantheon ranks Pope Julius II as a globally documented religious figure with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Julius II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Julius II",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Julius_II",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "adam-smith",
+  "slug": "adam-smith",
+  "name": "Adam Smith",
+  "shortName": "Smith",
+  "era": "1723-1790",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1723-1790",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "economist"
+  ],
+  "summary": "Adam Smith is a notable economist associated with United Kingdom.",
+  "knownFor": [
+    "Economist",
+    "162 language biography editions",
+    "Historical Popularity Index 93.0"
+  ],
+  "featured": true,
+  "featuredRank": 67,
+  "imageAlt": "Portrait-style visual for Adam Smith",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Adam Smith",
+      "url": "https://pantheon.world/profile/person/Adam_Smith",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "adam-smith-pantheon-profile",
+      "text": "Pantheon ranks Adam Smith as a globally documented economist with biographies in 162 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Adam Smith a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Adam Smith",
+      "sourceUrl": "https://pantheon.world/profile/person/Adam_Smith",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

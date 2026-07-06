@@ -1,0 +1,47 @@
+{
+  "id": "j-j-thomson",
+  "slug": "j-j-thomson",
+  "name": "J. J. Thomson",
+  "shortName": "Thomson",
+  "era": "1856-1940",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1856-1940",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "J. J. Thomson is a notable physicist associated with United Kingdom.",
+  "knownFor": [
+    "Physicist",
+    "107 language biography editions",
+    "Historical Popularity Index 84.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for J. J. Thomson",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: J. J. Thomson",
+      "url": "https://pantheon.world/profile/person/J._J._Thomson",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "j-j-thomson-pantheon-profile",
+      "text": "Pantheon ranks J. J. Thomson as a globally documented physicist with biographies in 107 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make J. J. Thomson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: J. J. Thomson",
+      "sourceUrl": "https://pantheon.world/profile/person/J._J._Thomson",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

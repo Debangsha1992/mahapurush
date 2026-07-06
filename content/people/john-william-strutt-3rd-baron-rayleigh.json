@@ -1,0 +1,47 @@
+{
+  "id": "john-william-strutt-3rd-baron-rayleigh",
+  "slug": "john-william-strutt-3rd-baron-rayleigh",
+  "name": "John William Strutt, 3rd Baron Rayleigh",
+  "shortName": "Rayleigh",
+  "era": "1842-1919",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1842-1919",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "John William Strutt, 3rd Baron Rayleigh is a notable physicist associated with United Kingdom.",
+  "knownFor": [
+    "Physicist",
+    "90 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for John William Strutt, 3rd Baron Rayleigh",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: John William Strutt, 3rd Baron Rayleigh",
+      "url": "https://pantheon.world/profile/person/John_William_Strutt%2C_3rd_Baron_Rayleigh",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "john-william-strutt-3rd-baron-rayleigh-pantheon-profile",
+      "text": "Pantheon ranks John William Strutt, 3rd Baron Rayleigh as a globally documented physicist with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make John William Strutt, 3rd Baron Rayleigh a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: John William Strutt, 3rd Baron Rayleigh",
+      "sourceUrl": "https://pantheon.world/profile/person/John_William_Strutt%2C_3rd_Baron_Rayleigh",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

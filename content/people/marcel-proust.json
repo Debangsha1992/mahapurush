@@ -1,0 +1,48 @@
+{
+  "id": "marcel-proust",
+  "slug": "marcel-proust",
+  "name": "Marcel Proust",
+  "shortName": "Proust",
+  "era": "1871-1922",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1871-1922",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Marcel Proust is a notable writer associated with France.",
+  "knownFor": [
+    "Writer",
+    "138 language biography editions",
+    "Historical Popularity Index 84.4"
+  ],
+  "featured": true,
+  "featuredRank": 496,
+  "imageAlt": "Portrait-style visual for Marcel Proust",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Marcel Proust",
+      "url": "https://pantheon.world/profile/person/Marcel_Proust",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "marcel-proust-pantheon-profile",
+      "text": "Pantheon ranks Marcel Proust as a globally documented writer with biographies in 138 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Marcel Proust a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Marcel Proust",
+      "sourceUrl": "https://pantheon.world/profile/person/Marcel_Proust",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

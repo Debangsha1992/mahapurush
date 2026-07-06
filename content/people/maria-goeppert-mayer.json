@@ -1,0 +1,47 @@
+{
+  "id": "maria-goeppert-mayer",
+  "slug": "maria-goeppert-mayer",
+  "name": "Maria Goeppert Mayer",
+  "shortName": "Mayer",
+  "era": "1906-1972",
+  "region": "Poland",
+  "regionId": "europe",
+  "lifespan": "1906-1972",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Maria Goeppert Mayer is a notable physicist associated with Poland.",
+  "knownFor": [
+    "Physicist",
+    "97 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Maria Goeppert Mayer",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Maria Goeppert Mayer",
+      "url": "https://pantheon.world/profile/person/Maria_Goeppert_Mayer",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "maria-goeppert-mayer-pantheon-profile",
+      "text": "Pantheon ranks Maria Goeppert Mayer as a globally documented physicist with biographies in 97 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Maria Goeppert Mayer a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Maria Goeppert Mayer",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Goeppert_Mayer",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

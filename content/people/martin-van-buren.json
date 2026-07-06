@@ -1,0 +1,48 @@
+{
+  "id": "martin-van-buren",
+  "slug": "martin-van-buren",
+  "name": "Martin Van Buren",
+  "shortName": "Buren",
+  "era": "1782-1862",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1782-1862",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Martin Van Buren is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "130 language biography editions",
+    "Historical Popularity Index 88.9"
+  ],
+  "featured": true,
+  "featuredRank": 179,
+  "imageAlt": "Portrait-style visual for Martin Van Buren",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Martin Van Buren",
+      "url": "https://pantheon.world/profile/person/Martin_Van_Buren",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "martin-van-buren-pantheon-profile",
+      "text": "Pantheon ranks Martin Van Buren as a globally documented politician with biographies in 130 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Martin Van Buren a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Martin Van Buren",
+      "sourceUrl": "https://pantheon.world/profile/person/Martin_Van_Buren",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

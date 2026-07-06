@@ -1,0 +1,47 @@
+{
+  "id": "george-bernard-shaw",
+  "slug": "george-bernard-shaw",
+  "name": "George Bernard Shaw",
+  "shortName": "Shaw",
+  "era": "1856-1950",
+  "region": "Ireland",
+  "regionId": "europe",
+  "lifespan": "1856-1950",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "George Bernard Shaw is a notable writer associated with Ireland.",
+  "knownFor": [
+    "Writer",
+    "118 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for George Bernard Shaw",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: George Bernard Shaw",
+      "url": "https://pantheon.world/profile/person/George_Bernard_Shaw",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "george-bernard-shaw-pantheon-profile",
+      "text": "Pantheon ranks George Bernard Shaw as a globally documented writer with biographies in 118 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make George Bernard Shaw a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: George Bernard Shaw",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Bernard_Shaw",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

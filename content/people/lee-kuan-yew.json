@@ -1,0 +1,47 @@
+{
+  "id": "lee-kuan-yew",
+  "slug": "lee-kuan-yew",
+  "name": "Lee Kuan Yew",
+  "shortName": "Yew",
+  "era": "1923-2015",
+  "region": "Singapore",
+  "regionId": "southeast-asia-oceania",
+  "lifespan": "1923-2015",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Lee Kuan Yew is a notable politician associated with Singapore.",
+  "knownFor": [
+    "Politician",
+    "100 language biography editions",
+    "Historical Popularity Index 83.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Lee Kuan Yew",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Lee Kuan Yew",
+      "url": "https://pantheon.world/profile/person/Lee_Kuan_Yew",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "lee-kuan-yew-pantheon-profile",
+      "text": "Pantheon ranks Lee Kuan Yew as a globally documented politician with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Lee Kuan Yew a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Lee Kuan Yew",
+      "sourceUrl": "https://pantheon.world/profile/person/Lee_Kuan_Yew",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "vitruvius",
+  "slug": "vitruvius",
+  "name": "Vitruvius",
+  "shortName": "Vitruvius",
+  "era": "-75--15",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-75--15",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "architect"
+  ],
+  "summary": "Vitruvius is a notable architect associated with Italy.",
+  "knownFor": [
+    "Architect",
+    "78 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Vitruvius",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Vitruvius",
+      "url": "https://pantheon.world/profile/person/Vitruvius",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "vitruvius-pantheon-profile",
+      "text": "Pantheon ranks Vitruvius as a globally documented architect with biographies in 78 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Vitruvius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Vitruvius",
+      "sourceUrl": "https://pantheon.world/profile/person/Vitruvius",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "titian",
+  "slug": "titian",
+  "name": "Titian",
+  "shortName": "Titian",
+  "era": "1488-1576",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1488-1576",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Titian is a notable painter associated with Italy.",
+  "knownFor": [
+    "Painter",
+    "91 language biography editions",
+    "Historical Popularity Index 84.6"
+  ],
+  "featured": true,
+  "featuredRank": 476,
+  "imageAlt": "Portrait-style visual for Titian",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Titian",
+      "url": "https://pantheon.world/profile/person/Titian",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "titian-pantheon-profile",
+      "text": "Pantheon ranks Titian as a globally documented painter with biographies in 91 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Titian a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Titian",
+      "sourceUrl": "https://pantheon.world/profile/person/Titian",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

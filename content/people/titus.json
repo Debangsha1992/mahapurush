@@ -1,0 +1,47 @@
+{
+  "id": "titus",
+  "slug": "titus",
+  "name": "Titus",
+  "shortName": "Titus",
+  "era": "41-81",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "41-81",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Titus is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "89 language biography editions",
+    "Historical Popularity Index 84.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Titus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Titus",
+      "url": "https://pantheon.world/profile/person/Titus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "titus-pantheon-profile",
+      "text": "Pantheon ranks Titus as a globally documented politician with biographies in 89 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Titus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Titus",
+      "sourceUrl": "https://pantheon.world/profile/person/Titus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

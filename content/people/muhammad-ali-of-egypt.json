@@ -1,0 +1,47 @@
+{
+  "id": "muhammad-ali-of-egypt",
+  "slug": "muhammad-ali-of-egypt",
+  "name": "Muhammad Ali of Egypt",
+  "shortName": "Egypt",
+  "era": "1769-1849",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "1769-1849",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Muhammad Ali of Egypt is a notable politician associated with Greece.",
+  "knownFor": [
+    "Politician",
+    "70 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Muhammad Ali of Egypt",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Muhammad Ali of Egypt",
+      "url": "https://pantheon.world/profile/person/Muhammad_Ali_of_Egypt",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "muhammad-ali-of-egypt-pantheon-profile",
+      "text": "Pantheon ranks Muhammad Ali of Egypt as a globally documented politician with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Muhammad Ali of Egypt a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Muhammad Ali of Egypt",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_of_Egypt",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "michel-foucault",
+  "slug": "michel-foucault",
+  "name": "Michel Foucault",
+  "shortName": "Foucault",
+  "era": "1926-1984",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1926-1984",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Michel Foucault is a notable philosopher associated with France.",
+  "knownFor": [
+    "Philosopher",
+    "93 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Michel Foucault",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Michel Foucault",
+      "url": "https://pantheon.world/profile/person/Michel_Foucault",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "michel-foucault-pantheon-profile",
+      "text": "Pantheon ranks Michel Foucault as a globally documented philosopher with biographies in 93 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Michel Foucault a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Michel Foucault",
+      "sourceUrl": "https://pantheon.world/profile/person/Michel_Foucault",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

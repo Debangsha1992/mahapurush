@@ -1,0 +1,47 @@
+{
+  "id": "jacques-offenbach",
+  "slug": "jacques-offenbach",
+  "name": "Jacques Offenbach",
+  "shortName": "Offenbach",
+  "era": "1819-1880",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1819-1880",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Jacques Offenbach is a notable composer associated with Germany.",
+  "knownFor": [
+    "Composer",
+    "92 language biography editions",
+    "Historical Popularity Index 82.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jacques Offenbach",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jacques Offenbach",
+      "url": "https://pantheon.world/profile/person/Jacques_Offenbach",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jacques-offenbach-pantheon-profile",
+      "text": "Pantheon ranks Jacques Offenbach as a globally documented composer with biographies in 92 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jacques Offenbach a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jacques Offenbach",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacques_Offenbach",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

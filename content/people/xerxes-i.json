@@ -1,0 +1,48 @@
+{
+  "id": "xerxes-i",
+  "slug": "xerxes-i",
+  "name": "Xerxes I",
+  "shortName": "I",
+  "era": "-519--475",
+  "region": "Iran",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-519--475",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Xerxes I is a notable politician associated with Iran.",
+  "knownFor": [
+    "Politician",
+    "84 language biography editions",
+    "Historical Popularity Index 88.0"
+  ],
+  "featured": true,
+  "featuredRank": 219,
+  "imageAlt": "Portrait-style visual for Xerxes I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Xerxes I",
+      "url": "https://pantheon.world/profile/person/Xerxes_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "xerxes-i-pantheon-profile",
+      "text": "Pantheon ranks Xerxes I as a globally documented politician with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Xerxes I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Xerxes I",
+      "sourceUrl": "https://pantheon.world/profile/person/Xerxes_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

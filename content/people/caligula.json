@@ -1,0 +1,48 @@
+{
+  "id": "caligula",
+  "slug": "caligula",
+  "name": "Caligula",
+  "shortName": "Caligula",
+  "era": "12-41",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "12-41",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Caligula is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "115 language biography editions",
+    "Historical Popularity Index 86.3"
+  ],
+  "featured": true,
+  "featuredRank": 330,
+  "imageAlt": "Portrait-style visual for Caligula",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Caligula",
+      "url": "https://pantheon.world/profile/person/Caligula",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "caligula-pantheon-profile",
+      "text": "Pantheon ranks Caligula as a globally documented politician with biographies in 115 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Caligula a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Caligula",
+      "sourceUrl": "https://pantheon.world/profile/person/Caligula",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "benjamin-netanyahu",
+  "slug": "benjamin-netanyahu",
+  "name": "Benjamin Netanyahu",
+  "shortName": "Netanyahu",
+  "era": "born 1949",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "born 1949",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Benjamin Netanyahu is a notable politician associated with Israel.",
+  "knownFor": [
+    "Politician",
+    "125 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Benjamin Netanyahu",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Benjamin Netanyahu",
+      "url": "https://pantheon.world/profile/person/Benjamin_Netanyahu",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "benjamin-netanyahu-pantheon-profile",
+      "text": "Pantheon ranks Benjamin Netanyahu as a globally documented politician with biographies in 125 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Benjamin Netanyahu a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Benjamin Netanyahu",
+      "sourceUrl": "https://pantheon.world/profile/person/Benjamin_Netanyahu",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -4,7 +4,12 @@ import Link from "next/link";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
+import { chooseNextFact } from "@/lib/content/fact-rotation";
 import type { FactWithPerson } from "@/lib/content/schemas";
+
+type FactBatchResponse = {
+  facts: FactWithPerson[];
+};
 
 function indexesExcept(length: number, excludedIndex: number): number[] {
   return Array.from({ length }, (_, index) => index).filter(
@@ -13,12 +18,14 @@ function indexesExcept(length: number, excludedIndex: number): number[] {
 }
 
 export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
+  const [factPool, setFactPool] = useState(facts);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [remainingIndexes, setRemainingIndexes] = useState(() =>
     indexesExcept(facts.length, 0),
   );
+  const [loadingNextBatch, setLoadingNextBatch] = useState(false);
 
-  if (facts.length === 0) {
+  if (factPool.length === 0) {
     return (
       <Card className="mx-auto max-w-2xl space-y-3">
         <h2 className="text-2xl font-semibold">No facts yet</h2>
@@ -29,19 +36,41 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
     );
   }
 
-  const currentFact = facts[currentIndex] ?? facts[0];
+  const currentFact = factPool[currentIndex] ?? factPool[0];
   const person = currentFact.person;
 
-  function showNextFact() {
-    const resetPool = indexesExcept(facts.length, currentIndex);
-    const pool = remainingIndexes.length > 0 ? remainingIndexes : resetPool;
-    if (pool.length === 0) {
+  async function loadNextBatch() {
+    setLoadingNextBatch(true);
+    try {
+      const seed = `${Date.now()}-${currentFact.id}`;
+      const excludedFactIds = factPool.map((fact) => fact.id).join(",");
+      const response = await fetch(
+        `/api/facts/batch?seed=${encodeURIComponent(seed)}&limit=20&exclude=${encodeURIComponent(excludedFactIds)}`,
+      );
+      if (!response.ok) {
+        return;
+      }
+      const data = (await response.json()) as FactBatchResponse;
+      if (data.facts.length === 0) {
+        return;
+      }
+      setFactPool(data.facts);
+      setCurrentIndex(0);
+      setRemainingIndexes(indexesExcept(data.facts.length, 0));
+    } finally {
+      setLoadingNextBatch(false);
+    }
+  }
+
+  async function showNextFact() {
+    const nextFact = chooseNextFact({ remainingIndexes });
+    if (nextFact.type === "load-next-batch") {
+      await loadNextBatch();
       return;
     }
 
-    const nextIndex = pool[Math.floor(Math.random() * pool.length)];
-    setCurrentIndex(nextIndex);
-    setRemainingIndexes(pool.filter((index) => index !== nextIndex));
+    setCurrentIndex(nextFact.nextIndex);
+    setRemainingIndexes(nextFact.remainingIndexes);
   }
 
   return (
@@ -59,8 +88,8 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
             public life, and human understanding.
           </p>
         </div>
-        <Button onClick={showNextFact} disabled={facts.length < 2}>
-          Next fact
+        <Button onClick={showNextFact} disabled={loadingNextBatch}>
+          {loadingNextBatch ? "Loading..." : "Next fact"}
         </Button>
       </div>
 
@@ -106,6 +135,12 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
             </a>
           </p>
           <div className="flex flex-wrap gap-3">
+            <Link
+              href={`/people/${person.slug}`}
+              className="inline-flex items-center justify-center rounded-full border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-5 py-3 text-sm font-medium text-[var(--color-text)] transition hover:border-[var(--color-accent)]"
+            >
+              View in library
+            </Link>
             {currentFact.thinkerSlug && (
               <Link
                 href={`/thinkers/${currentFact.thinkerSlug}`}

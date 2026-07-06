@@ -1,0 +1,47 @@
+{
+  "id": "bill-clinton",
+  "slug": "bill-clinton",
+  "name": "Bill Clinton",
+  "shortName": "Clinton",
+  "era": "born 1946",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1946",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Bill Clinton is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "172 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Bill Clinton",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bill Clinton",
+      "url": "https://pantheon.world/profile/person/Bill_Clinton",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bill-clinton-pantheon-profile",
+      "text": "Pantheon ranks Bill Clinton as a globally documented politician with biographies in 172 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bill Clinton a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bill Clinton",
+      "sourceUrl": "https://pantheon.world/profile/person/Bill_Clinton",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

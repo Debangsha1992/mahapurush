@@ -1,0 +1,48 @@
+{
+  "id": "aristophanes",
+  "slug": "aristophanes",
+  "name": "Aristophanes",
+  "shortName": "Aristophanes",
+  "era": "-448--386",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-448--386",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Aristophanes is a notable writer associated with Greece.",
+  "knownFor": [
+    "Writer",
+    "97 language biography editions",
+    "Historical Popularity Index 84.5"
+  ],
+  "featured": true,
+  "featuredRank": 489,
+  "imageAlt": "Portrait-style visual for Aristophanes",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Aristophanes",
+      "url": "https://pantheon.world/profile/person/Aristophanes",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "aristophanes-pantheon-profile",
+      "text": "Pantheon ranks Aristophanes as a globally documented writer with biographies in 97 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Aristophanes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Aristophanes",
+      "sourceUrl": "https://pantheon.world/profile/person/Aristophanes",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

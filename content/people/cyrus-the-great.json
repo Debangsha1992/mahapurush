@@ -1,0 +1,48 @@
+{
+  "id": "cyrus-the-great",
+  "slug": "cyrus-the-great",
+  "name": "Cyrus the Great",
+  "shortName": "Great",
+  "era": "-600--530",
+  "region": "Iran",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-600--530",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Cyrus the Great is a notable politician associated with Iran.",
+  "knownFor": [
+    "Politician",
+    "131 language biography editions",
+    "Historical Popularity Index 86.9"
+  ],
+  "featured": true,
+  "featuredRank": 281,
+  "imageAlt": "Portrait-style visual for Cyrus the Great",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Cyrus the Great",
+      "url": "https://pantheon.world/profile/person/Cyrus_the_Great",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "cyrus-the-great-pantheon-profile",
+      "text": "Pantheon ranks Cyrus the Great as a globally documented politician with biographies in 131 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Cyrus the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Cyrus the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Cyrus_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

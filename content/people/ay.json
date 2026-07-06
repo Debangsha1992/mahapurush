@@ -1,0 +1,47 @@
+{
+  "id": "ay",
+  "slug": "ay",
+  "name": "Ay",
+  "shortName": "Ay",
+  "era": "-1380--1400",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-1380--1400",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Ay is a notable politician associated with Egypt.",
+  "knownFor": [
+    "Politician",
+    "52 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ay",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ay",
+      "url": "https://pantheon.world/profile/person/Ay",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ay-pantheon-profile",
+      "text": "Pantheon ranks Ay as a globally documented politician with biographies in 52 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ay a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ay",
+      "sourceUrl": "https://pantheon.world/profile/person/Ay",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

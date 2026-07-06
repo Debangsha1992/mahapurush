@@ -1,0 +1,48 @@
+{
+  "id": "albert-a-michelson",
+  "slug": "albert-a-michelson",
+  "name": "Albert A. Michelson",
+  "shortName": "Michelson",
+  "era": "1852-1931",
+  "region": "Poland",
+  "regionId": "europe",
+  "lifespan": "1852-1931",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Albert A. Michelson is a notable physicist associated with Poland.",
+  "knownFor": [
+    "Physicist",
+    "93 language biography editions",
+    "Historical Popularity Index 84.5"
+  ],
+  "featured": true,
+  "featuredRank": 486,
+  "imageAlt": "Portrait-style visual for Albert A. Michelson",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Albert A. Michelson",
+      "url": "https://pantheon.world/profile/person/Albert_A._Michelson",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "albert-a-michelson-pantheon-profile",
+      "text": "Pantheon ranks Albert A. Michelson as a globally documented physicist with biographies in 93 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Albert A. Michelson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Albert A. Michelson",
+      "sourceUrl": "https://pantheon.world/profile/person/Albert_A._Michelson",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

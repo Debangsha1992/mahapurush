@@ -1,0 +1,48 @@
+{
+  "id": "rodrigo-duterte",
+  "slug": "rodrigo-duterte",
+  "name": "Rodrigo Duterte",
+  "shortName": "Duterte",
+  "era": "born 1945",
+  "region": "Philippines",
+  "regionId": "southeast-asia-oceania",
+  "lifespan": "born 1945",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Rodrigo Duterte is a notable politician associated with Philippines.",
+  "knownFor": [
+    "Politician",
+    "96 language biography editions",
+    "Historical Popularity Index 84.4"
+  ],
+  "featured": true,
+  "featuredRank": 495,
+  "imageAlt": "Portrait-style visual for Rodrigo Duterte",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Rodrigo Duterte",
+      "url": "https://pantheon.world/profile/person/Rodrigo_Duterte",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "rodrigo-duterte-pantheon-profile",
+      "text": "Pantheon ranks Rodrigo Duterte as a globally documented politician with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Rodrigo Duterte a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Rodrigo Duterte",
+      "sourceUrl": "https://pantheon.world/profile/person/Rodrigo_Duterte",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

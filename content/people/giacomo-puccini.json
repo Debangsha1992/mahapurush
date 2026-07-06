@@ -1,0 +1,48 @@
+{
+  "id": "giacomo-puccini",
+  "slug": "giacomo-puccini",
+  "name": "Giacomo Puccini",
+  "shortName": "Puccini",
+  "era": "1858-1924",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1858-1924",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Giacomo Puccini is a notable composer associated with Italy.",
+  "knownFor": [
+    "Composer",
+    "123 language biography editions",
+    "Historical Popularity Index 85.7"
+  ],
+  "featured": true,
+  "featuredRank": 375,
+  "imageAlt": "Portrait-style visual for Giacomo Puccini",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Giacomo Puccini",
+      "url": "https://pantheon.world/profile/person/Giacomo_Puccini",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "giacomo-puccini-pantheon-profile",
+      "text": "Pantheon ranks Giacomo Puccini as a globally documented composer with biographies in 123 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Giacomo Puccini a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Giacomo Puccini",
+      "sourceUrl": "https://pantheon.world/profile/person/Giacomo_Puccini",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

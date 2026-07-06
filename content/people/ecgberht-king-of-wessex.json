@@ -1,0 +1,47 @@
+{
+  "id": "ecgberht-king-of-wessex",
+  "slug": "ecgberht-king-of-wessex",
+  "name": "Ecgberht, King of Wessex",
+  "shortName": "Wessex",
+  "era": "800-839",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "800-839",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Ecgberht, King of Wessex is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "54 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ecgberht, King of Wessex",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ecgberht, King of Wessex",
+      "url": "https://pantheon.world/profile/person/Ecgberht%2C_King_of_Wessex",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ecgberht-king-of-wessex-pantheon-profile",
+      "text": "Pantheon ranks Ecgberht, King of Wessex as a globally documented politician with biographies in 54 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ecgberht, King of Wessex a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ecgberht, King of Wessex",
+      "sourceUrl": "https://pantheon.world/profile/person/Ecgberht%2C_King_of_Wessex",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

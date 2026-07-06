@@ -1,0 +1,47 @@
+{
+  "id": "sappho",
+  "slug": "sappho",
+  "name": "Sappho",
+  "shortName": "Sappho",
+  "era": "-630--570",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-630--570",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Sappho is a notable writer associated with Greece.",
+  "knownFor": [
+    "Writer",
+    "109 language biography editions",
+    "Historical Popularity Index 83.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Sappho",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Sappho",
+      "url": "https://pantheon.world/profile/person/Sappho",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "sappho-pantheon-profile",
+      "text": "Pantheon ranks Sappho as a globally documented writer with biographies in 109 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Sappho a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Sappho",
+      "sourceUrl": "https://pantheon.world/profile/person/Sappho",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

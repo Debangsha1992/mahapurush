@@ -1,0 +1,48 @@
+{
+  "id": "james-ii-of-england",
+  "slug": "james-ii-of-england",
+  "name": "James II of England",
+  "shortName": "England",
+  "era": "1633-1701",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1633-1701",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "James II of England is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "78 language biography editions",
+    "Historical Popularity Index 87.8"
+  ],
+  "featured": true,
+  "featuredRank": 231,
+  "imageAlt": "Portrait-style visual for James II of England",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: James II of England",
+      "url": "https://pantheon.world/profile/person/James_II_of_England",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "james-ii-of-england-pantheon-profile",
+      "text": "Pantheon ranks James II of England as a globally documented politician with biographies in 78 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make James II of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: James II of England",
+      "sourceUrl": "https://pantheon.world/profile/person/James_II_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "joseph-haydn",
+  "slug": "joseph-haydn",
+  "name": "Joseph Haydn",
+  "shortName": "Haydn",
+  "era": "1732-1809",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1732-1809",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Joseph Haydn is a notable composer associated with Austria.",
+  "knownFor": [
+    "Composer",
+    "130 language biography editions",
+    "Historical Popularity Index 88.3"
+  ],
+  "featured": true,
+  "featuredRank": 204,
+  "imageAlt": "Portrait-style visual for Joseph Haydn",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Joseph Haydn",
+      "url": "https://pantheon.world/profile/person/Joseph_Haydn",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "joseph-haydn-pantheon-profile",
+      "text": "Pantheon ranks Joseph Haydn as a globally documented composer with biographies in 130 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Joseph Haydn a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Joseph Haydn",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_Haydn",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

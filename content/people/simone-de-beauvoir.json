@@ -1,0 +1,48 @@
+{
+  "id": "simone-de-beauvoir",
+  "slug": "simone-de-beauvoir",
+  "name": "Simone de Beauvoir",
+  "shortName": "Beauvoir",
+  "era": "1908-1986",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1908-1986",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Simone de Beauvoir is a notable writer associated with France.",
+  "knownFor": [
+    "Writer",
+    "133 language biography editions",
+    "Historical Popularity Index 84.6"
+  ],
+  "featured": true,
+  "featuredRank": 475,
+  "imageAlt": "Portrait-style visual for Simone de Beauvoir",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Simone de Beauvoir",
+      "url": "https://pantheon.world/profile/person/Simone_de_Beauvoir",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "simone-de-beauvoir-pantheon-profile",
+      "text": "Pantheon ranks Simone de Beauvoir as a globally documented writer with biographies in 133 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Simone de Beauvoir a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Simone de Beauvoir",
+      "sourceUrl": "https://pantheon.world/profile/person/Simone_de_Beauvoir",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

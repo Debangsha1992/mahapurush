@@ -1,0 +1,48 @@
+{
+  "id": "franz-liszt",
+  "slug": "franz-liszt",
+  "name": "Franz Liszt",
+  "shortName": "Liszt",
+  "era": "1811-1886",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1811-1886",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "musician"
+  ],
+  "summary": "Franz Liszt is a notable musician associated with Austria.",
+  "knownFor": [
+    "Musician",
+    "101 language biography editions",
+    "Historical Popularity Index 85.0"
+  ],
+  "featured": true,
+  "featuredRank": 443,
+  "imageAlt": "Portrait-style visual for Franz Liszt",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Franz Liszt",
+      "url": "https://pantheon.world/profile/person/Franz_Liszt",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "franz-liszt-pantheon-profile",
+      "text": "Pantheon ranks Franz Liszt as a globally documented musician with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Franz Liszt a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Franz Liszt",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Liszt",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

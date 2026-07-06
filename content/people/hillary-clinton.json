@@ -1,0 +1,48 @@
+{
+  "id": "hillary-clinton",
+  "slug": "hillary-clinton",
+  "name": "Hillary Clinton",
+  "shortName": "Clinton",
+  "era": "born 1947",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1947",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Hillary Clinton is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "143 language biography editions",
+    "Historical Popularity Index 88.8"
+  ],
+  "featured": true,
+  "featuredRank": 184,
+  "imageAlt": "Portrait-style visual for Hillary Clinton",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hillary Clinton",
+      "url": "https://pantheon.world/profile/person/Hillary_Clinton",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hillary-clinton-pantheon-profile",
+      "text": "Pantheon ranks Hillary Clinton as a globally documented politician with biographies in 143 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hillary Clinton a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hillary Clinton",
+      "sourceUrl": "https://pantheon.world/profile/person/Hillary_Clinton",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

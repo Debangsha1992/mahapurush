@@ -1,0 +1,48 @@
+{
+  "id": "pope-benedict-xv",
+  "slug": "pope-benedict-xv",
+  "name": "Pope Benedict XV",
+  "shortName": "XV",
+  "era": "1854-1922",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1854-1922",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Benedict XV is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "98 language biography editions",
+    "Historical Popularity Index 86.0"
+  ],
+  "featured": true,
+  "featuredRank": 352,
+  "imageAlt": "Portrait-style visual for Pope Benedict XV",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Benedict XV",
+      "url": "https://pantheon.world/profile/person/Pope_Benedict_XV",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-benedict-xv-pantheon-profile",
+      "text": "Pantheon ranks Pope Benedict XV as a globally documented religious figure with biographies in 98 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Benedict XV a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Benedict XV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XV",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

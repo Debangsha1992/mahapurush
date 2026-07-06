@@ -1,0 +1,48 @@
+{
+  "id": "akhenaten",
+  "slug": "akhenaten",
+  "name": "Akhenaten",
+  "shortName": "Akhenaten",
+  "era": "-1400--1336",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-1400--1336",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Akhenaten is a notable politician associated with Egypt.",
+  "knownFor": [
+    "Politician",
+    "93 language biography editions",
+    "Historical Popularity Index 85.9"
+  ],
+  "featured": true,
+  "featuredRank": 354,
+  "imageAlt": "Portrait-style visual for Akhenaten",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Akhenaten",
+      "url": "https://pantheon.world/profile/person/Akhenaten",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "akhenaten-pantheon-profile",
+      "text": "Pantheon ranks Akhenaten as a globally documented politician with biographies in 93 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Akhenaten a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Akhenaten",
+      "sourceUrl": "https://pantheon.world/profile/person/Akhenaten",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

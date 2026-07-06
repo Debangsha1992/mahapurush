@@ -1,0 +1,47 @@
+{
+  "id": "artaxerxes-i-of-persia",
+  "slug": "artaxerxes-i-of-persia",
+  "name": "Artaxerxes I of Persia",
+  "shortName": "Persia",
+  "era": "-500--424",
+  "region": "Global",
+  "regionId": "global-diaspora",
+  "lifespan": "-500--424",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Artaxerxes I of Persia is a notable politician associated with Global.",
+  "knownFor": [
+    "Politician",
+    "64 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Artaxerxes I of Persia",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Artaxerxes I of Persia",
+      "url": "https://pantheon.world/profile/person/Artaxerxes_I_of_Persia",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "artaxerxes-i-of-persia-pantheon-profile",
+      "text": "Pantheon ranks Artaxerxes I of Persia as a globally documented politician with biographies in 64 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Artaxerxes I of Persia a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Artaxerxes I of Persia",
+      "sourceUrl": "https://pantheon.world/profile/person/Artaxerxes_I_of_Persia",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

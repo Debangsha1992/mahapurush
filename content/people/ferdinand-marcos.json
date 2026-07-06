@@ -1,0 +1,48 @@
+{
+  "id": "ferdinand-marcos",
+  "slug": "ferdinand-marcos",
+  "name": "Ferdinand Marcos",
+  "shortName": "Marcos",
+  "era": "1917-1989",
+  "region": "Philippines",
+  "regionId": "southeast-asia-oceania",
+  "lifespan": "1917-1989",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Ferdinand Marcos is a notable politician associated with Philippines.",
+  "knownFor": [
+    "Politician",
+    "127 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 432,
+  "imageAlt": "Portrait-style visual for Ferdinand Marcos",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ferdinand Marcos",
+      "url": "https://pantheon.world/profile/person/Ferdinand_Marcos",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ferdinand-marcos-pantheon-profile",
+      "text": "Pantheon ranks Ferdinand Marcos as a globally documented politician with biographies in 127 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ferdinand Marcos a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ferdinand Marcos",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Marcos",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "frederick-i-holy-roman-emperor",
+  "slug": "frederick-i-holy-roman-emperor",
+  "name": "Frederick I, Holy Roman Emperor",
+  "shortName": "Emperor",
+  "era": "1122-1190",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1122-1190",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Frederick I, Holy Roman Emperor is a notable politician associated with France.",
+  "knownFor": [
+    "Politician",
+    "90 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 361,
+  "imageAlt": "Portrait-style visual for Frederick I, Holy Roman Emperor",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Frederick I, Holy Roman Emperor",
+      "url": "https://pantheon.world/profile/person/Frederick_I%2C_Holy_Roman_Emperor",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "frederick-i-holy-roman-emperor-pantheon-profile",
+      "text": "Pantheon ranks Frederick I, Holy Roman Emperor as a globally documented politician with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Frederick I, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Frederick I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Frederick_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

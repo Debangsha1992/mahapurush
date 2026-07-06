@@ -1,0 +1,48 @@
+{
+  "id": "anne-frank",
+  "slug": "anne-frank",
+  "name": "Anne Frank",
+  "shortName": "Frank",
+  "era": "1929-1945",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1929-1945",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Anne Frank is a notable writer associated with Germany.",
+  "knownFor": [
+    "Writer",
+    "127 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 413,
+  "imageAlt": "Portrait-style visual for Anne Frank",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Anne Frank",
+      "url": "https://pantheon.world/profile/person/Anne_Frank",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "anne-frank-pantheon-profile",
+      "text": "Pantheon ranks Anne Frank as a globally documented writer with biographies in 127 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Anne Frank a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Anne Frank",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne_Frank",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

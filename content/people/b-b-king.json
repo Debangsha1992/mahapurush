@@ -1,0 +1,47 @@
+{
+  "id": "b-b-king",
+  "slug": "b-b-king",
+  "name": "B.B. King",
+  "shortName": "King",
+  "era": "1925-2015",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1925-2015",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "musician"
+  ],
+  "summary": "B.B. King is a notable musician associated with United States.",
+  "knownFor": [
+    "Musician",
+    "83 language biography editions",
+    "Historical Popularity Index 81.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for B.B. King",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: B.B. King",
+      "url": "https://pantheon.world/profile/person/B.B._King",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "b-b-king-pantheon-profile",
+      "text": "Pantheon ranks B.B. King as a globally documented musician with biographies in 83 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make B.B. King a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: B.B. King",
+      "sourceUrl": "https://pantheon.world/profile/person/B.B._King",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nero",
+  "slug": "nero",
+  "name": "Nero",
+  "shortName": "Nero",
+  "era": "37-68",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "37-68",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Nero is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "111 language biography editions",
+    "Historical Popularity Index 87.2"
+  ],
+  "featured": true,
+  "featuredRank": 266,
+  "imageAlt": "Portrait-style visual for Nero",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Nero",
+      "url": "https://pantheon.world/profile/person/Nero",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "nero-pantheon-profile",
+      "text": "Pantheon ranks Nero as a globally documented politician with biographies in 111 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Nero a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Nero",
+      "sourceUrl": "https://pantheon.world/profile/person/Nero",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ramesses-ii",
+  "slug": "ramesses-ii",
+  "name": "Ramesses II",
+  "shortName": "II",
+  "era": "-1303--1213",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-1303--1213",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Ramesses II is a notable nobleman associated with Israel.",
+  "knownFor": [
+    "Nobleman",
+    "95 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 306,
+  "imageAlt": "Portrait-style visual for Ramesses II",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ramesses II",
+      "url": "https://pantheon.world/profile/person/Ramesses_II",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ramesses-ii-pantheon-profile",
+      "text": "Pantheon ranks Ramesses II as a globally documented nobleman with biographies in 95 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ramesses II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ramesses II",
+      "sourceUrl": "https://pantheon.world/profile/person/Ramesses_II",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

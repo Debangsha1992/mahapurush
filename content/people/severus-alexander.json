@@ -1,0 +1,48 @@
+{
+  "id": "severus-alexander",
+  "slug": "severus-alexander",
+  "name": "Severus Alexander",
+  "shortName": "Alexander",
+  "era": "208-235",
+  "region": "Lebanon",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "208-235",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Severus Alexander is a notable politician associated with Lebanon.",
+  "knownFor": [
+    "Politician",
+    "75 language biography editions",
+    "Historical Popularity Index 84.4"
+  ],
+  "featured": true,
+  "featuredRank": 497,
+  "imageAlt": "Portrait-style visual for Severus Alexander",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Severus Alexander",
+      "url": "https://pantheon.world/profile/person/Severus_Alexander",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "severus-alexander-pantheon-profile",
+      "text": "Pantheon ranks Severus Alexander as a globally documented politician with biographies in 75 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Severus Alexander a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Severus Alexander",
+      "sourceUrl": "https://pantheon.world/profile/person/Severus_Alexander",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

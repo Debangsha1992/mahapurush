@@ -1,0 +1,48 @@
+{
+  "id": "george-vi",
+  "slug": "george-vi",
+  "name": "George VI",
+  "shortName": "VI",
+  "era": "1895-1952",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1895-1952",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "George VI is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "108 language biography editions",
+    "Historical Popularity Index 90.7"
+  ],
+  "featured": true,
+  "featuredRank": 110,
+  "imageAlt": "Portrait-style visual for George VI",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: George VI",
+      "url": "https://pantheon.world/profile/person/George_VI",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "george-vi-pantheon-profile",
+      "text": "Pantheon ranks George VI as a globally documented politician with biographies in 108 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make George VI a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: George VI",
+      "sourceUrl": "https://pantheon.world/profile/person/George_VI",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

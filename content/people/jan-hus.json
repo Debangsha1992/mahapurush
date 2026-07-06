@@ -1,0 +1,47 @@
+{
+  "id": "jan-hus",
+  "slug": "jan-hus",
+  "name": "Jan Hus",
+  "shortName": "Hus",
+  "era": "1369-1415",
+  "region": "Czechia",
+  "regionId": "global-diaspora",
+  "lifespan": "1369-1415",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "social-activist"
+  ],
+  "summary": "Jan Hus is a notable social activist associated with Czechia.",
+  "knownFor": [
+    "Social Activist",
+    "80 language biography editions",
+    "Historical Popularity Index 84.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jan Hus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jan Hus",
+      "url": "https://pantheon.world/profile/person/Jan_Hus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jan-hus-pantheon-profile",
+      "text": "Pantheon ranks Jan Hus as a globally documented social activist with biographies in 80 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jan Hus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jan Hus",
+      "sourceUrl": "https://pantheon.world/profile/person/Jan_Hus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

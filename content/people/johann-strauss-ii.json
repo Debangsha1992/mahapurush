@@ -1,0 +1,48 @@
+{
+  "id": "johann-strauss-ii",
+  "slug": "johann-strauss-ii",
+  "name": "Johann Strauss II",
+  "shortName": "II",
+  "era": "1825-1899",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1825-1899",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Johann Strauss II is a notable composer associated with Austria.",
+  "knownFor": [
+    "Composer",
+    "81 language biography editions",
+    "Historical Popularity Index 84.6"
+  ],
+  "featured": true,
+  "featuredRank": 474,
+  "imageAlt": "Portrait-style visual for Johann Strauss II",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Johann Strauss II",
+      "url": "https://pantheon.world/profile/person/Johann_Strauss_II",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "johann-strauss-ii-pantheon-profile",
+      "text": "Pantheon ranks Johann Strauss II as a globally documented composer with biographies in 81 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Johann Strauss II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Johann Strauss II",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Strauss_II",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "victor-emmanuel-ii-of-italy",
+  "slug": "victor-emmanuel-ii-of-italy",
+  "name": "Victor Emmanuel II of Italy",
+  "shortName": "Italy",
+  "era": "1820-1878",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1820-1878",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Victor Emmanuel II of Italy is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "77 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Victor Emmanuel II of Italy",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Victor Emmanuel II of Italy",
+      "url": "https://pantheon.world/profile/person/Victor_Emmanuel_II_of_Italy",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "victor-emmanuel-ii-of-italy-pantheon-profile",
+      "text": "Pantheon ranks Victor Emmanuel II of Italy as a globally documented politician with biographies in 77 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Victor Emmanuel II of Italy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Victor Emmanuel II of Italy",
+      "sourceUrl": "https://pantheon.world/profile/person/Victor_Emmanuel_II_of_Italy",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

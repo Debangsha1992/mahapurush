@@ -1,0 +1,47 @@
+{
+  "id": "giovanni-pierluigi-da-palestrina",
+  "slug": "giovanni-pierluigi-da-palestrina",
+  "name": "Giovanni Pierluigi da Palestrina",
+  "shortName": "Palestrina",
+  "era": "1520-1594",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1520-1594",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Giovanni Pierluigi da Palestrina is a notable composer associated with France.",
+  "knownFor": [
+    "Composer",
+    "102 language biography editions",
+    "Historical Popularity Index 83.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Giovanni Pierluigi da Palestrina",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Giovanni Pierluigi da Palestrina",
+      "url": "https://pantheon.world/profile/person/Giovanni_Pierluigi_da_Palestrina",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "giovanni-pierluigi-da-palestrina-pantheon-profile",
+      "text": "Pantheon ranks Giovanni Pierluigi da Palestrina as a globally documented composer with biographies in 102 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Giovanni Pierluigi da Palestrina a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Giovanni Pierluigi da Palestrina",
+      "sourceUrl": "https://pantheon.world/profile/person/Giovanni_Pierluigi_da_Palestrina",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

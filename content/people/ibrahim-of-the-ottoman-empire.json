@@ -1,0 +1,47 @@
+{
+  "id": "ibrahim-of-the-ottoman-empire",
+  "slug": "ibrahim-of-the-ottoman-empire",
+  "name": "Ibrahim of the Ottoman Empire",
+  "shortName": "Empire",
+  "era": "1615-1648",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1615-1648",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Ibrahim of the Ottoman Empire is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "70 language biography editions",
+    "Historical Popularity Index 82.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ibrahim of the Ottoman Empire",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ibrahim of the Ottoman Empire",
+      "url": "https://pantheon.world/profile/person/Ibrahim_of_the_Ottoman_Empire",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ibrahim-of-the-ottoman-empire-pantheon-profile",
+      "text": "Pantheon ranks Ibrahim of the Ottoman Empire as a globally documented politician with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ibrahim of the Ottoman Empire a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ibrahim of the Ottoman Empire",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibrahim_of_the_Ottoman_Empire",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

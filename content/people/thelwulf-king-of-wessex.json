@@ -1,0 +1,47 @@
+{
+  "id": "thelwulf-king-of-wessex",
+  "slug": "thelwulf-king-of-wessex",
+  "name": "Æthelwulf, King of Wessex",
+  "shortName": "Wessex",
+  "era": "795-858",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "795-858",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Æthelwulf, King of Wessex is a notable politician associated with Germany.",
+  "knownFor": [
+    "Politician",
+    "46 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Æthelwulf, King of Wessex",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Æthelwulf, King of Wessex",
+      "url": "https://pantheon.world/profile/person/%C3%86thelwulf%2C_King_of_Wessex",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "thelwulf-king-of-wessex-pantheon-profile",
+      "text": "Pantheon ranks Æthelwulf, King of Wessex as a globally documented politician with biographies in 46 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Æthelwulf, King of Wessex a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Æthelwulf, King of Wessex",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%86thelwulf%2C_King_of_Wessex",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

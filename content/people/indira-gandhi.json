@@ -1,0 +1,48 @@
+{
+  "id": "indira-gandhi",
+  "slug": "indira-gandhi",
+  "name": "Indira Gandhi",
+  "shortName": "Gandhi",
+  "era": "1917-1984",
+  "region": "India",
+  "regionId": "south-asia",
+  "lifespan": "1917-1984",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Indira Gandhi is a notable politician associated with India.",
+  "knownFor": [
+    "Politician",
+    "129 language biography editions",
+    "Historical Popularity Index 91.5"
+  ],
+  "featured": true,
+  "featuredRank": 89,
+  "imageAlt": "Portrait-style visual for Indira Gandhi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Indira Gandhi",
+      "url": "https://pantheon.world/profile/person/Indira_Gandhi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "indira-gandhi-pantheon-profile",
+      "text": "Pantheon ranks Indira Gandhi as a globally documented politician with biographies in 129 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Indira Gandhi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Indira Gandhi",
+      "sourceUrl": "https://pantheon.world/profile/person/Indira_Gandhi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

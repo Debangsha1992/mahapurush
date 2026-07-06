@@ -6,9 +6,15 @@
   "era": "1963-present",
   "region": "India",
   "lifespan": "1963-present",
-  "domains": ["space science", "engineering", "public leadership"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "S. Somanath is an Indian aerospace engineer associated with major launch vehicle and lunar mission work.",
-  "knownFor": ["ISRO leadership", "launch vehicle engineering", "Chandrayaan-3 era"],
+  "knownFor": [
+    "ISRO leadership",
+    "launch vehicle engineering",
+    "Chandrayaan-3 era"
+  ],
   "facts": [
     {
       "id": "s-somanath-chandrayaan-3",
@@ -18,8 +24,24 @@
       "sourceUrl": "https://www.isro.gov.in/Chandrayaan3.html",
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "2023-08-23",
-      "tags": ["space", "engineering"],
+      "tags": [
+        "space",
+        "engineering"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "south-asia",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "imageAlt": "Portrait-style visual for S. Somanath",
+  "sourceRefs": [
+    {
+      "title": "ISRO: Chandrayaan-3 Mission",
+      "url": "https://www.isro.gov.in/Chandrayaan3.html",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published",
+  "featuredRank": 25
 }

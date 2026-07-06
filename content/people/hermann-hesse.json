@@ -1,0 +1,48 @@
+{
+  "id": "hermann-hesse",
+  "slug": "hermann-hesse",
+  "name": "Hermann Hesse",
+  "shortName": "Hesse",
+  "era": "1877-1962",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1877-1962",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Hermann Hesse is a notable writer associated with Germany.",
+  "knownFor": [
+    "Writer",
+    "114 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 430,
+  "imageAlt": "Portrait-style visual for Hermann Hesse",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hermann Hesse",
+      "url": "https://pantheon.world/profile/person/Hermann_Hesse",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hermann-hesse-pantheon-profile",
+      "text": "Pantheon ranks Hermann Hesse as a globally documented writer with biographies in 114 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hermann Hesse a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hermann Hesse",
+      "sourceUrl": "https://pantheon.world/profile/person/Hermann_Hesse",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

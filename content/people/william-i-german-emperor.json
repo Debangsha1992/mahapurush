@@ -1,0 +1,47 @@
+{
+  "id": "william-i-german-emperor",
+  "slug": "william-i-german-emperor",
+  "name": "William I, German Emperor",
+  "shortName": "Emperor",
+  "era": "1797-1888",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1797-1888",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "William I, German Emperor is a notable politician associated with Germany.",
+  "knownFor": [
+    "Politician",
+    "82 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for William I, German Emperor",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: William I, German Emperor",
+      "url": "https://pantheon.world/profile/person/William_I%2C_German_Emperor",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "william-i-german-emperor-pantheon-profile",
+      "text": "Pantheon ranks William I, German Emperor as a globally documented politician with biographies in 82 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make William I, German Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: William I, German Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/William_I%2C_German_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "carl-jung",
+  "slug": "carl-jung",
+  "name": "Carl Jung",
+  "shortName": "Jung",
+  "era": "1875-1961",
+  "region": "Switzerland",
+  "regionId": "europe",
+  "lifespan": "1875-1961",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "psychologist"
+  ],
+  "summary": "Carl Jung is a notable psychologist associated with Switzerland.",
+  "knownFor": [
+    "Psychologist",
+    "110 language biography editions",
+    "Historical Popularity Index 85.6"
+  ],
+  "featured": true,
+  "featuredRank": 384,
+  "imageAlt": "Portrait-style visual for Carl Jung",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Carl Jung",
+      "url": "https://pantheon.world/profile/person/Carl_Jung",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "carl-jung-pantheon-profile",
+      "text": "Pantheon ranks Carl Jung as a globally documented psychologist with biographies in 110 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Carl Jung a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Carl Jung",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Jung",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

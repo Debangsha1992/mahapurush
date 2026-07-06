@@ -1,0 +1,47 @@
+{
+  "id": "empress-matilda",
+  "slug": "empress-matilda",
+  "name": "Empress Matilda",
+  "shortName": "Matilda",
+  "era": "1102-1167",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1102-1167",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Empress Matilda is a notable nobleman associated with United Kingdom.",
+  "knownFor": [
+    "Nobleman",
+    "64 language biography editions",
+    "Historical Popularity Index 82.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Empress Matilda",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Empress Matilda",
+      "url": "https://pantheon.world/profile/person/Empress_Matilda",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "empress-matilda-pantheon-profile",
+      "text": "Pantheon ranks Empress Matilda as a globally documented nobleman with biographies in 64 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Empress Matilda a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Empress Matilda",
+      "sourceUrl": "https://pantheon.world/profile/person/Empress_Matilda",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

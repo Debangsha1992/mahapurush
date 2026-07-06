@@ -1,0 +1,47 @@
+{
+  "id": "marie-louise-duchess-of-parma",
+  "slug": "marie-louise-duchess-of-parma",
+  "name": "Marie Louise, Duchess of Parma",
+  "shortName": "Parma",
+  "era": "1791-1847",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1791-1847",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Marie Louise, Duchess of Parma is a notable companion associated with Austria.",
+  "knownFor": [
+    "Companion",
+    "61 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Marie Louise, Duchess of Parma",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Marie Louise, Duchess of Parma",
+      "url": "https://pantheon.world/profile/person/Marie_Louise%2C_Duchess_of_Parma",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "marie-louise-duchess-of-parma-pantheon-profile",
+      "text": "Pantheon ranks Marie Louise, Duchess of Parma as a globally documented companion with biographies in 61 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Marie Louise, Duchess of Parma a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Marie Louise, Duchess of Parma",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_Louise%2C_Duchess_of_Parma",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

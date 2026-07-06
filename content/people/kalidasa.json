@@ -1,0 +1,47 @@
+{
+  "id": "kalidasa",
+  "slug": "kalidasa",
+  "name": "Kālidāsa",
+  "shortName": "Kālidāsa",
+  "era": "400-420",
+  "region": "India",
+  "regionId": "south-asia",
+  "lifespan": "400-420",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Kālidāsa is a notable writer associated with India.",
+  "knownFor": [
+    "Writer",
+    "137 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Kālidāsa",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Kālidāsa",
+      "url": "https://pantheon.world/profile/person/K%C4%81lid%C4%81sa",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "kalidasa-pantheon-profile",
+      "text": "Pantheon ranks Kālidāsa as a globally documented writer with biographies in 137 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Kālidāsa a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Kālidāsa",
+      "sourceUrl": "https://pantheon.world/profile/person/K%C4%81lid%C4%81sa",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

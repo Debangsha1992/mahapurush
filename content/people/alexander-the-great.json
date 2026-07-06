@@ -1,0 +1,48 @@
+{
+  "id": "alexander-the-great",
+  "slug": "alexander-the-great",
+  "name": "Alexander the Great",
+  "shortName": "Great",
+  "era": "-356--323",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-356--323",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Alexander the Great is a notable military personnel associated with Greece.",
+  "knownFor": [
+    "Military Personnel",
+    "213 language biography editions",
+    "Historical Popularity Index 95.6"
+  ],
+  "featured": true,
+  "featuredRank": 45,
+  "imageAlt": "Portrait-style visual for Alexander the Great",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alexander the Great",
+      "url": "https://pantheon.world/profile/person/Alexander_the_Great",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alexander-the-great-pantheon-profile",
+      "text": "Pantheon ranks Alexander the Great as a globally documented military personnel with biographies in 213 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alexander the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alexander the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

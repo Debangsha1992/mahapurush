@@ -1,0 +1,47 @@
+{
+  "id": "mary-queen-of-scots",
+  "slug": "mary-queen-of-scots",
+  "name": "Mary, Queen of Scots",
+  "shortName": "Scots",
+  "era": "1542-1587",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1542-1587",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mary, Queen of Scots is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "92 language biography editions",
+    "Historical Popularity Index 84.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mary, Queen of Scots",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mary, Queen of Scots",
+      "url": "https://pantheon.world/profile/person/Mary%2C_Queen_of_Scots",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mary-queen-of-scots-pantheon-profile",
+      "text": "Pantheon ranks Mary, Queen of Scots as a globally documented politician with biographies in 92 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mary, Queen of Scots a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mary, Queen of Scots",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary%2C_Queen_of_Scots",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mark-the-evangelist",
+  "slug": "mark-the-evangelist",
+  "name": "Mark the Evangelist",
+  "shortName": "Evangelist",
+  "era": "10-68",
+  "region": "Libya",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "10-68",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Mark the Evangelist is a notable religious figure associated with Libya.",
+  "knownFor": [
+    "Religious Figure",
+    "84 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 407,
+  "imageAlt": "Portrait-style visual for Mark the Evangelist",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mark the Evangelist",
+      "url": "https://pantheon.world/profile/person/Mark_the_Evangelist",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mark-the-evangelist-pantheon-profile",
+      "text": "Pantheon ranks Mark the Evangelist as a globally documented religious figure with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mark the Evangelist a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mark the Evangelist",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_the_Evangelist",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

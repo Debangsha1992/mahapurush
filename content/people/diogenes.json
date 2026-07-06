@@ -1,0 +1,48 @@
+{
+  "id": "diogenes",
+  "slug": "diogenes",
+  "name": "Diogenes",
+  "shortName": "Diogenes",
+  "era": "-404--322",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "-404--322",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Diogenes is a notable philosopher associated with Türkiye.",
+  "knownFor": [
+    "Philosopher",
+    "84 language biography editions",
+    "Historical Popularity Index 88.4"
+  ],
+  "featured": true,
+  "featuredRank": 197,
+  "imageAlt": "Portrait-style visual for Diogenes",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Diogenes",
+      "url": "https://pantheon.world/profile/person/Diogenes",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "diogenes-pantheon-profile",
+      "text": "Pantheon ranks Diogenes as a globally documented philosopher with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Diogenes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Diogenes",
+      "sourceUrl": "https://pantheon.world/profile/person/Diogenes",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

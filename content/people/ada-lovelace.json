@@ -6,9 +6,14 @@
   "era": "1815-1852",
   "region": "United Kingdom",
   "lifespan": "1815-1852",
-  "domains": ["mathematics", "computing"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "Ada Lovelace imagined that computing machines could manipulate symbols, not just numbers.",
-  "knownFor": ["notes on the Analytical Engine", "early computing imagination"],
+  "knownFor": [
+    "notes on the Analytical Engine",
+    "early computing imagination"
+  ],
   "facts": [
     {
       "id": "ada-lovelace-analytical-engine",
@@ -17,8 +22,24 @@
       "sourceTitle": "Computer History Museum: Ada Lovelace",
       "sourceUrl": "https://www.computerhistory.org/babbage/adalovelace/",
       "sourceAccessedAt": "2026-07-05",
-      "tags": ["computing", "mathematics"],
+      "tags": [
+        "computing",
+        "mathematics"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "europe",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "featuredRank": 1,
+  "imageAlt": "Portrait-style visual for Ada Lovelace",
+  "sourceRefs": [
+    {
+      "title": "Computer History Museum: Ada Lovelace",
+      "url": "https://www.computerhistory.org/babbage/adalovelace/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

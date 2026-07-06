@@ -1,0 +1,48 @@
+{
+  "id": "jean-paul-sartre",
+  "slug": "jean-paul-sartre",
+  "name": "Jean-Paul Sartre",
+  "shortName": "Sartre",
+  "era": "1905-1980",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1905-1980",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Jean-Paul Sartre is a notable writer associated with France.",
+  "knownFor": [
+    "Writer",
+    "147 language biography editions",
+    "Historical Popularity Index 87.3"
+  ],
+  "featured": true,
+  "featuredRank": 257,
+  "imageAlt": "Portrait-style visual for Jean-Paul Sartre",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jean-Paul Sartre",
+      "url": "https://pantheon.world/profile/person/Jean-Paul_Sartre",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jean-paul-sartre-pantheon-profile",
+      "text": "Pantheon ranks Jean-Paul Sartre as a globally documented writer with biographies in 147 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jean-Paul Sartre a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jean-Paul Sartre",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Paul_Sartre",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

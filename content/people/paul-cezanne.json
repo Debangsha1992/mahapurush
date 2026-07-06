@@ -1,0 +1,48 @@
+{
+  "id": "paul-cezanne",
+  "slug": "paul-cezanne",
+  "name": "Paul Cézanne",
+  "shortName": "Cézanne",
+  "era": "1839-1906",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1839-1906",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Paul Cézanne is a notable painter associated with France.",
+  "knownFor": [
+    "Painter",
+    "112 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 412,
+  "imageAlt": "Portrait-style visual for Paul Cézanne",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Paul Cézanne",
+      "url": "https://pantheon.world/profile/person/Paul_C%C3%A9zanne",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "paul-cezanne-pantheon-profile",
+      "text": "Pantheon ranks Paul Cézanne as a globally documented painter with biographies in 112 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Paul Cézanne a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Paul Cézanne",
+      "sourceUrl": "https://pantheon.world/profile/person/Paul_C%C3%A9zanne",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

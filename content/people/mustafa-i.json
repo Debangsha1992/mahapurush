@@ -1,0 +1,47 @@
+{
+  "id": "mustafa-i",
+  "slug": "mustafa-i",
+  "name": "Mustafa I",
+  "shortName": "I",
+  "era": "1591-1639",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1591-1639",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mustafa I is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "70 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mustafa I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mustafa I",
+      "url": "https://pantheon.world/profile/person/Mustafa_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mustafa-i-pantheon-profile",
+      "text": "Pantheon ranks Mustafa I as a globally documented politician with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mustafa I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mustafa I",
+      "sourceUrl": "https://pantheon.world/profile/person/Mustafa_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

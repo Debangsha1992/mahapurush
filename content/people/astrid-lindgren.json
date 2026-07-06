@@ -1,0 +1,47 @@
+{
+  "id": "astrid-lindgren",
+  "slug": "astrid-lindgren",
+  "name": "Astrid Lindgren",
+  "shortName": "Lindgren",
+  "era": "1907-2002",
+  "region": "Sweden",
+  "regionId": "europe",
+  "lifespan": "1907-2002",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Astrid Lindgren is a notable writer associated with Sweden.",
+  "knownFor": [
+    "Writer",
+    "99 language biography editions",
+    "Historical Popularity Index 84.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Astrid Lindgren",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Astrid Lindgren",
+      "url": "https://pantheon.world/profile/person/Astrid_Lindgren",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "astrid-lindgren-pantheon-profile",
+      "text": "Pantheon ranks Astrid Lindgren as a globally documented writer with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Astrid Lindgren a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Astrid Lindgren",
+      "sourceUrl": "https://pantheon.world/profile/person/Astrid_Lindgren",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

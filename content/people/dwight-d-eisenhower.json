@@ -1,0 +1,47 @@
+{
+  "id": "dwight-d-eisenhower",
+  "slug": "dwight-d-eisenhower",
+  "name": "Dwight D. Eisenhower",
+  "shortName": "Eisenhower",
+  "era": "1890-1969",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1890-1969",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Dwight D. Eisenhower is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "146 language biography editions",
+    "Historical Popularity Index 82.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Dwight D. Eisenhower",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Dwight D. Eisenhower",
+      "url": "https://pantheon.world/profile/person/Dwight_D._Eisenhower",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "dwight-d-eisenhower-pantheon-profile",
+      "text": "Pantheon ranks Dwight D. Eisenhower as a globally documented politician with biographies in 146 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Dwight D. Eisenhower a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Dwight D. Eisenhower",
+      "sourceUrl": "https://pantheon.world/profile/person/Dwight_D._Eisenhower",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

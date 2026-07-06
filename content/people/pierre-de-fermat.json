@@ -1,0 +1,47 @@
+{
+  "id": "pierre-de-fermat",
+  "slug": "pierre-de-fermat",
+  "name": "Pierre de Fermat",
+  "shortName": "Fermat",
+  "era": "1601-1665",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1601-1665",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Pierre de Fermat is a notable mathematician associated with France.",
+  "knownFor": [
+    "Mathematician",
+    "97 language biography editions",
+    "Historical Popularity Index 83.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pierre de Fermat",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pierre de Fermat",
+      "url": "https://pantheon.world/profile/person/Pierre_de_Fermat",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pierre-de-fermat-pantheon-profile",
+      "text": "Pantheon ranks Pierre de Fermat as a globally documented mathematician with biographies in 97 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pierre de Fermat a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pierre de Fermat",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre_de_Fermat",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

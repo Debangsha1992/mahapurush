@@ -1,0 +1,47 @@
+{
+  "id": "sun-yat-sen",
+  "slug": "sun-yat-sen",
+  "name": "Sun Yat-sen",
+  "shortName": "Yat-sen",
+  "era": "1866-1925",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "1866-1925",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Sun Yat-sen is a notable politician associated with China.",
+  "knownFor": [
+    "Politician",
+    "127 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Sun Yat-sen",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Sun Yat-sen",
+      "url": "https://pantheon.world/profile/person/Sun_Yat-sen",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "sun-yat-sen-pantheon-profile",
+      "text": "Pantheon ranks Sun Yat-sen as a globally documented politician with biographies in 127 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Sun Yat-sen a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Sun Yat-sen",
+      "sourceUrl": "https://pantheon.world/profile/person/Sun_Yat-sen",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

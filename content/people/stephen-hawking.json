@@ -1,0 +1,48 @@
+{
+  "id": "stephen-hawking",
+  "slug": "stephen-hawking",
+  "name": "Stephen Hawking",
+  "shortName": "Hawking",
+  "era": "1942-2018",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1942-2018",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Stephen Hawking is a notable physicist associated with United Kingdom.",
+  "knownFor": [
+    "Physicist",
+    "151 language biography editions",
+    "Historical Popularity Index 88.4"
+  ],
+  "featured": true,
+  "featuredRank": 200,
+  "imageAlt": "Portrait-style visual for Stephen Hawking",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Stephen Hawking",
+      "url": "https://pantheon.world/profile/person/Stephen_Hawking",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "stephen-hawking-pantheon-profile",
+      "text": "Pantheon ranks Stephen Hawking as a globally documented physicist with biographies in 151 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Stephen Hawking a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Stephen Hawking",
+      "sourceUrl": "https://pantheon.world/profile/person/Stephen_Hawking",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "maria-callas",
+  "slug": "maria-callas",
+  "name": "Maria Callas",
+  "shortName": "Callas",
+  "era": "1923-1977",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1923-1977",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "singer"
+  ],
+  "summary": "Maria Callas is a notable singer associated with United States.",
+  "knownFor": [
+    "Singer",
+    "74 language biography editions",
+    "Historical Popularity Index 84.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Maria Callas",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Maria Callas",
+      "url": "https://pantheon.world/profile/person/Maria_Callas",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "maria-callas-pantheon-profile",
+      "text": "Pantheon ranks Maria Callas as a globally documented singer with biographies in 74 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Maria Callas a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Maria Callas",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Callas",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ulysses-s-grant",
+  "slug": "ulysses-s-grant",
+  "name": "Ulysses S. Grant",
+  "shortName": "Grant",
+  "era": "1822-1885",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1822-1885",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Ulysses S. Grant is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "135 language biography editions",
+    "Historical Popularity Index 89.2"
+  ],
+  "featured": true,
+  "featuredRank": 166,
+  "imageAlt": "Portrait-style visual for Ulysses S. Grant",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ulysses S. Grant",
+      "url": "https://pantheon.world/profile/person/Ulysses_S._Grant",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ulysses-s-grant-pantheon-profile",
+      "text": "Pantheon ranks Ulysses S. Grant as a globally documented politician with biographies in 135 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ulysses S. Grant a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ulysses S. Grant",
+      "sourceUrl": "https://pantheon.world/profile/person/Ulysses_S._Grant",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

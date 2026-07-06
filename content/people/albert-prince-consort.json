@@ -1,0 +1,47 @@
+{
+  "id": "albert-prince-consort",
+  "slug": "albert-prince-consort",
+  "name": "Albert, Prince Consort",
+  "shortName": "Consort",
+  "era": "1819-1861",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1819-1861",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Albert, Prince Consort is a notable nobleman associated with Germany.",
+  "knownFor": [
+    "Nobleman",
+    "62 language biography editions",
+    "Historical Popularity Index 84.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Albert, Prince Consort",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Albert, Prince Consort",
+      "url": "https://pantheon.world/profile/person/Albert%2C_Prince_Consort",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "albert-prince-consort-pantheon-profile",
+      "text": "Pantheon ranks Albert, Prince Consort as a globally documented nobleman with biographies in 62 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Albert, Prince Consort a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Albert, Prince Consort",
+      "sourceUrl": "https://pantheon.world/profile/person/Albert%2C_Prince_Consort",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

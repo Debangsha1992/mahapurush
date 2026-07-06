@@ -1,0 +1,48 @@
+{
+  "id": "miguel-de-cervantes",
+  "slug": "miguel-de-cervantes",
+  "name": "Miguel de Cervantes",
+  "shortName": "Cervantes",
+  "era": "1547-1616",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1547-1616",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Miguel de Cervantes is a notable writer associated with Spain.",
+  "knownFor": [
+    "Writer",
+    "180 language biography editions",
+    "Historical Popularity Index 87.6"
+  ],
+  "featured": true,
+  "featuredRank": 237,
+  "imageAlt": "Portrait-style visual for Miguel de Cervantes",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Miguel de Cervantes",
+      "url": "https://pantheon.world/profile/person/Miguel_de_Cervantes",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "miguel-de-cervantes-pantheon-profile",
+      "text": "Pantheon ranks Miguel de Cervantes as a globally documented writer with biographies in 180 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Miguel de Cervantes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Miguel de Cervantes",
+      "sourceUrl": "https://pantheon.world/profile/person/Miguel_de_Cervantes",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

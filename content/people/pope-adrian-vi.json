@@ -1,0 +1,47 @@
+{
+  "id": "pope-adrian-vi",
+  "slug": "pope-adrian-vi",
+  "name": "Pope Adrian VI",
+  "shortName": "VI",
+  "era": "1459-1523",
+  "region": "Netherlands",
+  "regionId": "europe",
+  "lifespan": "1459-1523",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Adrian VI is a notable religious figure associated with Netherlands.",
+  "knownFor": [
+    "Religious Figure",
+    "76 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Adrian VI",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Adrian VI",
+      "url": "https://pantheon.world/profile/person/Pope_Adrian_VI",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-adrian-vi-pantheon-profile",
+      "text": "Pantheon ranks Pope Adrian VI as a globally documented religious figure with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Adrian VI a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Adrian VI",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Adrian_VI",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

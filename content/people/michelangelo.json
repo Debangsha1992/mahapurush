@@ -1,0 +1,48 @@
+{
+  "id": "michelangelo",
+  "slug": "michelangelo",
+  "name": "Michelangelo",
+  "shortName": "Michelangelo",
+  "era": "1475-1564",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1475-1564",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Michelangelo is a notable painter associated with Italy.",
+  "knownFor": [
+    "Painter",
+    "210 language biography editions",
+    "Historical Popularity Index 93.5"
+  ],
+  "featured": true,
+  "featuredRank": 58,
+  "imageAlt": "Portrait-style visual for Michelangelo",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Michelangelo",
+      "url": "https://pantheon.world/profile/person/Michelangelo",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "michelangelo-pantheon-profile",
+      "text": "Pantheon ranks Michelangelo as a globally documented painter with biographies in 210 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Michelangelo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Michelangelo",
+      "sourceUrl": "https://pantheon.world/profile/person/Michelangelo",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

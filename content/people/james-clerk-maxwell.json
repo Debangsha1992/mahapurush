@@ -1,0 +1,47 @@
+{
+  "id": "james-clerk-maxwell",
+  "slug": "james-clerk-maxwell",
+  "name": "James Clerk Maxwell",
+  "shortName": "Maxwell",
+  "era": "1831-1879",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1831-1879",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "James Clerk Maxwell is a notable physicist associated with United Kingdom.",
+  "knownFor": [
+    "Physicist",
+    "134 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for James Clerk Maxwell",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: James Clerk Maxwell",
+      "url": "https://pantheon.world/profile/person/James_Clerk_Maxwell",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "james-clerk-maxwell-pantheon-profile",
+      "text": "Pantheon ranks James Clerk Maxwell as a globally documented physicist with biographies in 134 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make James Clerk Maxwell a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: James Clerk Maxwell",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Clerk_Maxwell",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

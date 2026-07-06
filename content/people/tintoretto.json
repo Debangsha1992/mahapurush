@@ -1,0 +1,47 @@
+{
+  "id": "tintoretto",
+  "slug": "tintoretto",
+  "name": "Tintoretto",
+  "shortName": "Tintoretto",
+  "era": "1518-1594",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1518-1594",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Tintoretto is a notable painter associated with Italy.",
+  "knownFor": [
+    "Painter",
+    "76 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Tintoretto",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Tintoretto",
+      "url": "https://pantheon.world/profile/person/Tintoretto",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "tintoretto-pantheon-profile",
+      "text": "Pantheon ranks Tintoretto as a globally documented painter with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Tintoretto a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Tintoretto",
+      "sourceUrl": "https://pantheon.world/profile/person/Tintoretto",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

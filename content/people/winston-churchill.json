@@ -1,0 +1,48 @@
+{
+  "id": "winston-churchill",
+  "slug": "winston-churchill",
+  "name": "Winston Churchill",
+  "shortName": "Churchill",
+  "era": "1874-1965",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1874-1965",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Winston Churchill is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "180 language biography editions",
+    "Historical Popularity Index 88.8"
+  ],
+  "featured": true,
+  "featuredRank": 185,
+  "imageAlt": "Portrait-style visual for Winston Churchill",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Winston Churchill",
+      "url": "https://pantheon.world/profile/person/Winston_Churchill",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "winston-churchill-pantheon-profile",
+      "text": "Pantheon ranks Winston Churchill as a globally documented politician with biographies in 180 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Winston Churchill a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Winston Churchill",
+      "sourceUrl": "https://pantheon.world/profile/person/Winston_Churchill",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

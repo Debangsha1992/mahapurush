@@ -1,0 +1,47 @@
+{
+  "id": "pope-innocent-iii",
+  "slug": "pope-innocent-iii",
+  "name": "Pope Innocent III",
+  "shortName": "III",
+  "era": "1160-1216",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1160-1216",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Innocent III is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "82 language biography editions",
+    "Historical Popularity Index 83.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Innocent III",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Innocent III",
+      "url": "https://pantheon.world/profile/person/Pope_Innocent_III",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-innocent-iii-pantheon-profile",
+      "text": "Pantheon ranks Pope Innocent III as a globally documented religious figure with biographies in 82 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Innocent III a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Innocent III",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Innocent_III",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}
