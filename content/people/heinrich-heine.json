@@ -1,0 +1,47 @@
+{
+  "id": "heinrich-heine",
+  "slug": "heinrich-heine",
+  "name": "Heinrich Heine",
+  "shortName": "Heine",
+  "era": "1797-1856",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1797-1856",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Heinrich Heine is a notable writer associated with Germany.",
+  "knownFor": [
+    "Writer",
+    "97 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Heinrich Heine",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Heinrich Heine",
+      "url": "https://pantheon.world/profile/person/Heinrich_Heine",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "heinrich-heine-pantheon-profile",
+      "text": "Pantheon ranks Heinrich Heine as a globally documented writer with biographies in 97 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Heinrich Heine a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Heinrich Heine",
+      "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Heine",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

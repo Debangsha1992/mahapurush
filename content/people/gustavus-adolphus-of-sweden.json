@@ -1,0 +1,47 @@
+{
+  "id": "gustavus-adolphus-of-sweden",
+  "slug": "gustavus-adolphus-of-sweden",
+  "name": "Gustavus Adolphus of Sweden",
+  "shortName": "Sweden",
+  "era": "1594-1632",
+  "region": "Sweden",
+  "regionId": "europe",
+  "lifespan": "1594-1632",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Gustavus Adolphus of Sweden is a notable politician associated with Sweden.",
+  "knownFor": [
+    "Politician",
+    "75 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Gustavus Adolphus of Sweden",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Gustavus Adolphus of Sweden",
+      "url": "https://pantheon.world/profile/person/Gustavus_Adolphus_of_Sweden",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "gustavus-adolphus-of-sweden-pantheon-profile",
+      "text": "Pantheon ranks Gustavus Adolphus of Sweden as a globally documented politician with biographies in 75 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Gustavus Adolphus of Sweden a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Gustavus Adolphus of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustavus_Adolphus_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

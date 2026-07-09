@@ -1,0 +1,48 @@
+{
+  "id": "niccolo-machiavelli",
+  "slug": "niccolo-machiavelli",
+  "name": "Niccolò Machiavelli",
+  "shortName": "Machiavelli",
+  "era": "1469-1527",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1469-1527",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Niccolò Machiavelli is a notable philosopher associated with Italy.",
+  "knownFor": [
+    "Philosopher",
+    "151 language biography editions",
+    "Historical Popularity Index 90.4"
+  ],
+  "featured": true,
+  "featuredRank": 118,
+  "imageAlt": "Portrait-style visual for Niccolò Machiavelli",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Niccolò Machiavelli",
+      "url": "https://pantheon.world/profile/person/Niccol%C3%B2_Machiavelli",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "niccolo-machiavelli-pantheon-profile",
+      "text": "Pantheon ranks Niccolò Machiavelli as a globally documented philosopher with biographies in 151 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Niccolò Machiavelli a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Niccolò Machiavelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Niccol%C3%B2_Machiavelli",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

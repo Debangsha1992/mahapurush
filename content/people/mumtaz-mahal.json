@@ -1,0 +1,48 @@
+{
+  "id": "mumtaz-mahal",
+  "slug": "mumtaz-mahal",
+  "name": "Mumtaz Mahal",
+  "shortName": "Mahal",
+  "era": "1593-1631",
+  "region": "India",
+  "regionId": "south-asia",
+  "lifespan": "1593-1631",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Mumtaz Mahal is a notable companion associated with India.",
+  "knownFor": [
+    "Companion",
+    "66 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 360,
+  "imageAlt": "Portrait-style visual for Mumtaz Mahal",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mumtaz Mahal",
+      "url": "https://pantheon.world/profile/person/Mumtaz_Mahal",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mumtaz-mahal-pantheon-profile",
+      "text": "Pantheon ranks Mumtaz Mahal as a globally documented companion with biographies in 66 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mumtaz Mahal a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mumtaz Mahal",
+      "sourceUrl": "https://pantheon.world/profile/person/Mumtaz_Mahal",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

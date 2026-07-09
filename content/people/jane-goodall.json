@@ -6,9 +6,15 @@
   "era": "1934-present",
   "region": "United Kingdom, Tanzania",
   "lifespan": "1934-present",
-  "domains": ["primatology", "conservation", "anthropology"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "Jane Goodall changed how scientists and the public understand chimpanzees, animals, and conservation.",
-  "knownFor": ["chimpanzee field research", "Gombe Stream research", "conservation advocacy"],
+  "knownFor": [
+    "chimpanzee field research",
+    "Gombe Stream research",
+    "conservation advocacy"
+  ],
   "facts": [
     {
       "id": "jane-goodall-gombe-research",
@@ -18,8 +24,24 @@
       "sourceUrl": "https://janegoodall.org/our-story/about-jane/",
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "1960-07-14",
-      "tags": ["science", "conservation"],
+      "tags": [
+        "science",
+        "conservation"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "africa",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "featuredRank": 15,
+  "imageAlt": "Portrait-style visual for Jane Goodall",
+  "sourceRefs": [
+    {
+      "title": "Jane Goodall Institute: Biography",
+      "url": "https://janegoodall.org/our-story/about-jane/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

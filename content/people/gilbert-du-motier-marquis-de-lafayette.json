@@ -1,0 +1,47 @@
+{
+  "id": "gilbert-du-motier-marquis-de-lafayette",
+  "slug": "gilbert-du-motier-marquis-de-lafayette",
+  "name": "Gilbert du Motier, Marquis de Lafayette",
+  "shortName": "Lafayette",
+  "era": "1757-1834",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1757-1834",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Gilbert du Motier, Marquis de Lafayette is a notable military personnel associated with France.",
+  "knownFor": [
+    "Military Personnel",
+    "62 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Gilbert du Motier, Marquis de Lafayette",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Gilbert du Motier, Marquis de Lafayette",
+      "url": "https://pantheon.world/profile/person/Gilbert_du_Motier%2C_Marquis_de_Lafayette",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "gilbert-du-motier-marquis-de-lafayette-pantheon-profile",
+      "text": "Pantheon ranks Gilbert du Motier, Marquis de Lafayette as a globally documented military personnel with biographies in 62 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Gilbert du Motier, Marquis de Lafayette a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Gilbert du Motier, Marquis de Lafayette",
+      "sourceUrl": "https://pantheon.world/profile/person/Gilbert_du_Motier%2C_Marquis_de_Lafayette",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

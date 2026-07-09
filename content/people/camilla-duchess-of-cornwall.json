@@ -1,0 +1,48 @@
+{
+  "id": "camilla-duchess-of-cornwall",
+  "slug": "camilla-duchess-of-cornwall",
+  "name": "Camilla, Duchess of Cornwall",
+  "shortName": "Cornwall",
+  "era": "born 1947",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "born 1947",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Camilla, Duchess of Cornwall is a notable nobleman associated with United Kingdom.",
+  "knownFor": [
+    "Nobleman",
+    "75 language biography editions",
+    "Historical Popularity Index 84.7"
+  ],
+  "featured": true,
+  "featuredRank": 461,
+  "imageAlt": "Portrait-style visual for Camilla, Duchess of Cornwall",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Camilla, Duchess of Cornwall",
+      "url": "https://pantheon.world/profile/person/Camilla%2C_Duchess_of_Cornwall",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "camilla-duchess-of-cornwall-pantheon-profile",
+      "text": "Pantheon ranks Camilla, Duchess of Cornwall as a globally documented nobleman with biographies in 75 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Camilla, Duchess of Cornwall a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Camilla, Duchess of Cornwall",
+      "sourceUrl": "https://pantheon.world/profile/person/Camilla%2C_Duchess_of_Cornwall",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

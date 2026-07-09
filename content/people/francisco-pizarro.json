@@ -1,0 +1,47 @@
+{
+  "id": "francisco-pizarro",
+  "slug": "francisco-pizarro",
+  "name": "Francisco Pizarro",
+  "shortName": "Pizarro",
+  "era": "1478-1541",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1478-1541",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "explorer"
+  ],
+  "summary": "Francisco Pizarro is a notable explorer associated with Spain.",
+  "knownFor": [
+    "Explorer",
+    "87 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Francisco Pizarro",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Francisco Pizarro",
+      "url": "https://pantheon.world/profile/person/Francisco_Pizarro",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "francisco-pizarro-pantheon-profile",
+      "text": "Pantheon ranks Francisco Pizarro as a globally documented explorer with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Francisco Pizarro a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Francisco Pizarro",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Pizarro",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

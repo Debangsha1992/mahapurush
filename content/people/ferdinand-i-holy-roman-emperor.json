@@ -1,0 +1,47 @@
+{
+  "id": "ferdinand-i-holy-roman-emperor",
+  "slug": "ferdinand-i-holy-roman-emperor",
+  "name": "Ferdinand I, Holy Roman Emperor",
+  "shortName": "Emperor",
+  "era": "1503-1564",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1503-1564",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Ferdinand I, Holy Roman Emperor is a notable politician associated with Spain.",
+  "knownFor": [
+    "Politician",
+    "70 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ferdinand I, Holy Roman Emperor",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ferdinand I, Holy Roman Emperor",
+      "url": "https://pantheon.world/profile/person/Ferdinand_I%2C_Holy_Roman_Emperor",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ferdinand-i-holy-roman-emperor-pantheon-profile",
+      "text": "Pantheon ranks Ferdinand I, Holy Roman Emperor as a globally documented politician with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ferdinand I, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ferdinand I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

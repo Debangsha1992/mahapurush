@@ -1,0 +1,48 @@
+{
+  "id": "elizabeth-i-of-england",
+  "slug": "elizabeth-i-of-england",
+  "name": "Elizabeth I of England",
+  "shortName": "England",
+  "era": "1533-1603",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1533-1603",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Elizabeth I of England is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "149 language biography editions",
+    "Historical Popularity Index 96.0"
+  ],
+  "featured": true,
+  "featuredRank": 43,
+  "imageAlt": "Portrait-style visual for Elizabeth I of England",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Elizabeth I of England",
+      "url": "https://pantheon.world/profile/person/Elizabeth_I_of_England",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "elizabeth-i-of-england-pantheon-profile",
+      "text": "Pantheon ranks Elizabeth I of England as a globally documented politician with biographies in 149 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Elizabeth I of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Elizabeth I of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Elizabeth_I_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

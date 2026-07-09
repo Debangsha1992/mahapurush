@@ -1,0 +1,47 @@
+{
+  "id": "irene-joliot-curie",
+  "slug": "irene-joliot-curie",
+  "name": "Irène Joliot-Curie",
+  "shortName": "Joliot-Curie",
+  "era": "1897-1956",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1897-1956",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "chemist"
+  ],
+  "summary": "Irène Joliot-Curie is a notable chemist associated with France.",
+  "knownFor": [
+    "Chemist",
+    "99 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Irène Joliot-Curie",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Irène Joliot-Curie",
+      "url": "https://pantheon.world/profile/person/Ir%C3%A8ne_Joliot-Curie",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "irene-joliot-curie-pantheon-profile",
+      "text": "Pantheon ranks Irène Joliot-Curie as a globally documented chemist with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Irène Joliot-Curie a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Irène Joliot-Curie",
+      "sourceUrl": "https://pantheon.world/profile/person/Ir%C3%A8ne_Joliot-Curie",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "selma-lagerlof",
+  "slug": "selma-lagerlof",
+  "name": "Selma Lagerlöf",
+  "shortName": "Lagerlöf",
+  "era": "1858-1940",
+  "region": "Sweden",
+  "regionId": "europe",
+  "lifespan": "1858-1940",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Selma Lagerlöf is a notable writer associated with Sweden.",
+  "knownFor": [
+    "Writer",
+    "115 language biography editions",
+    "Historical Popularity Index 83.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Selma Lagerlöf",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Selma Lagerlöf",
+      "url": "https://pantheon.world/profile/person/Selma_Lagerl%C3%B6f",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "selma-lagerlof-pantheon-profile",
+      "text": "Pantheon ranks Selma Lagerlöf as a globally documented writer with biographies in 115 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Selma Lagerlöf a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Selma Lagerlöf",
+      "sourceUrl": "https://pantheon.world/profile/person/Selma_Lagerl%C3%B6f",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

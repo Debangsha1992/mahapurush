@@ -1,0 +1,48 @@
+{
+  "id": "suleiman-the-magnificent",
+  "slug": "suleiman-the-magnificent",
+  "name": "Suleiman the Magnificent",
+  "shortName": "Magnificent",
+  "era": "1494-1566",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1494-1566",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Suleiman the Magnificent is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "131 language biography editions",
+    "Historical Popularity Index 91.6"
+  ],
+  "featured": true,
+  "featuredRank": 88,
+  "imageAlt": "Portrait-style visual for Suleiman the Magnificent",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Suleiman the Magnificent",
+      "url": "https://pantheon.world/profile/person/Suleiman_the_Magnificent",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "suleiman-the-magnificent-pantheon-profile",
+      "text": "Pantheon ranks Suleiman the Magnificent as a globally documented politician with biographies in 131 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Suleiman the Magnificent a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Suleiman the Magnificent",
+      "sourceUrl": "https://pantheon.world/profile/person/Suleiman_the_Magnificent",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

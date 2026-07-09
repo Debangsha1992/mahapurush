@@ -1,0 +1,48 @@
+{
+  "id": "james-joyce",
+  "slug": "james-joyce",
+  "name": "James Joyce",
+  "shortName": "Joyce",
+  "era": "1882-1941",
+  "region": "Ireland",
+  "regionId": "europe",
+  "lifespan": "1882-1941",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "James Joyce is a notable writer associated with Ireland.",
+  "knownFor": [
+    "Writer",
+    "155 language biography editions",
+    "Historical Popularity Index 89.4"
+  ],
+  "featured": true,
+  "featuredRank": 154,
+  "imageAlt": "Portrait-style visual for James Joyce",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: James Joyce",
+      "url": "https://pantheon.world/profile/person/James_Joyce",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "james-joyce-pantheon-profile",
+      "text": "Pantheon ranks James Joyce as a globally documented writer with biographies in 155 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make James Joyce a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: James Joyce",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Joyce",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

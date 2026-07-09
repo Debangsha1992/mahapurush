@@ -1,0 +1,48 @@
+{
+  "id": "nebuchadnezzar-ii",
+  "slug": "nebuchadnezzar-ii",
+  "name": "Nebuchadnezzar II",
+  "shortName": "II",
+  "era": "-630--562",
+  "region": "Iraq",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-630--562",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Nebuchadnezzar II is a notable politician associated with Iraq.",
+  "knownFor": [
+    "Politician",
+    "89 language biography editions",
+    "Historical Popularity Index 85.4"
+  ],
+  "featured": true,
+  "featuredRank": 403,
+  "imageAlt": "Portrait-style visual for Nebuchadnezzar II",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Nebuchadnezzar II",
+      "url": "https://pantheon.world/profile/person/Nebuchadnezzar_II",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "nebuchadnezzar-ii-pantheon-profile",
+      "text": "Pantheon ranks Nebuchadnezzar II as a globally documented politician with biographies in 89 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Nebuchadnezzar II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Nebuchadnezzar II",
+      "sourceUrl": "https://pantheon.world/profile/person/Nebuchadnezzar_II",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

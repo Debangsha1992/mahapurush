@@ -1,0 +1,48 @@
+{
+  "id": "constantine-the-great",
+  "slug": "constantine-the-great",
+  "name": "Constantine the Great",
+  "shortName": "Great",
+  "era": "272-337",
+  "region": "Serbia",
+  "regionId": "global-diaspora",
+  "lifespan": "272-337",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Constantine the Great is a notable politician associated with Serbia.",
+  "knownFor": [
+    "Politician",
+    "134 language biography editions",
+    "Historical Popularity Index 89.0"
+  ],
+  "featured": true,
+  "featuredRank": 175,
+  "imageAlt": "Portrait-style visual for Constantine the Great",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Constantine the Great",
+      "url": "https://pantheon.world/profile/person/Constantine_the_Great",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "constantine-the-great-pantheon-profile",
+      "text": "Pantheon ranks Constantine the Great as a globally documented politician with biographies in 134 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Constantine the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Constantine the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Constantine_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

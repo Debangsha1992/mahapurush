@@ -1,0 +1,47 @@
+{
+  "id": "vespasian",
+  "slug": "vespasian",
+  "name": "Vespasian",
+  "shortName": "Vespasian",
+  "era": "9-79",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "9-79",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Vespasian is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "90 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Vespasian",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Vespasian",
+      "url": "https://pantheon.world/profile/person/Vespasian",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "vespasian-pantheon-profile",
+      "text": "Pantheon ranks Vespasian as a globally documented politician with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Vespasian a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Vespasian",
+      "sourceUrl": "https://pantheon.world/profile/person/Vespasian",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

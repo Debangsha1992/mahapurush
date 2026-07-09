@@ -1,0 +1,47 @@
+{
+  "id": "euripides",
+  "slug": "euripides",
+  "name": "Euripides",
+  "shortName": "Euripides",
+  "era": "-480--406",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-480--406",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Euripides is a notable writer associated with Greece.",
+  "knownFor": [
+    "Writer",
+    "98 language biography editions",
+    "Historical Popularity Index 84.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Euripides",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Euripides",
+      "url": "https://pantheon.world/profile/person/Euripides",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "euripides-pantheon-profile",
+      "text": "Pantheon ranks Euripides as a globally documented writer with biographies in 98 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Euripides a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Euripides",
+      "sourceUrl": "https://pantheon.world/profile/person/Euripides",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

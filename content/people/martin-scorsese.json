@@ -1,0 +1,48 @@
+{
+  "id": "martin-scorsese",
+  "slug": "martin-scorsese",
+  "name": "Martin Scorsese",
+  "shortName": "Scorsese",
+  "era": "born 1942",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1942",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "film-director"
+  ],
+  "summary": "Martin Scorsese is a notable film director associated with United States.",
+  "knownFor": [
+    "Film Director",
+    "96 language biography editions",
+    "Historical Popularity Index 85.4"
+  ],
+  "featured": true,
+  "featuredRank": 397,
+  "imageAlt": "Portrait-style visual for Martin Scorsese",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Martin Scorsese",
+      "url": "https://pantheon.world/profile/person/Martin_Scorsese",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "martin-scorsese-pantheon-profile",
+      "text": "Pantheon ranks Martin Scorsese as a globally documented film director with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Martin Scorsese a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Martin Scorsese",
+      "sourceUrl": "https://pantheon.world/profile/person/Martin_Scorsese",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

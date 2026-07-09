@@ -1,0 +1,48 @@
+{
+  "id": "augustine-of-hippo",
+  "slug": "augustine-of-hippo",
+  "name": "Augustine of Hippo",
+  "shortName": "Hippo",
+  "era": "354-430",
+  "region": "Algeria",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "354-430",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Augustine of Hippo is a notable philosopher associated with Algeria.",
+  "knownFor": [
+    "Philosopher",
+    "157 language biography editions",
+    "Historical Popularity Index 90.4"
+  ],
+  "featured": true,
+  "featuredRank": 120,
+  "imageAlt": "Portrait-style visual for Augustine of Hippo",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Augustine of Hippo",
+      "url": "https://pantheon.world/profile/person/Augustine_of_Hippo",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "augustine-of-hippo-pantheon-profile",
+      "text": "Pantheon ranks Augustine of Hippo as a globally documented philosopher with biographies in 157 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Augustine of Hippo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Augustine of Hippo",
+      "sourceUrl": "https://pantheon.world/profile/person/Augustine_of_Hippo",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

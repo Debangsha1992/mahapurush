@@ -1,0 +1,48 @@
+{
+  "id": "ashoka",
+  "slug": "ashoka",
+  "name": "Ashoka",
+  "shortName": "Ashoka",
+  "era": "-304--232",
+  "region": "India",
+  "regionId": "south-asia",
+  "lifespan": "-304--232",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Ashoka is a notable politician associated with India.",
+  "knownFor": [
+    "Politician",
+    "161 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 435,
+  "imageAlt": "Portrait-style visual for Ashoka",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ashoka",
+      "url": "https://pantheon.world/profile/person/Ashoka",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ashoka-pantheon-profile",
+      "text": "Pantheon ranks Ashoka as a globally documented politician with biographies in 161 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ashoka a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ashoka",
+      "sourceUrl": "https://pantheon.world/profile/person/Ashoka",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

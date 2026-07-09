@@ -1,0 +1,48 @@
+{
+  "id": "giordano-bruno",
+  "slug": "giordano-bruno",
+  "name": "Giordano Bruno",
+  "shortName": "Bruno",
+  "era": "1548-1600",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1548-1600",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "astronomer"
+  ],
+  "summary": "Giordano Bruno is a notable astronomer associated with Italy.",
+  "knownFor": [
+    "Astronomer",
+    "111 language biography editions",
+    "Historical Popularity Index 88.6"
+  ],
+  "featured": true,
+  "featuredRank": 191,
+  "imageAlt": "Portrait-style visual for Giordano Bruno",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Giordano Bruno",
+      "url": "https://pantheon.world/profile/person/Giordano_Bruno",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "giordano-bruno-pantheon-profile",
+      "text": "Pantheon ranks Giordano Bruno as a globally documented astronomer with biographies in 111 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Giordano Bruno a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Giordano Bruno",
+      "sourceUrl": "https://pantheon.world/profile/person/Giordano_Bruno",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

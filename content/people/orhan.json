@@ -1,0 +1,47 @@
+{
+  "id": "orhan",
+  "slug": "orhan",
+  "name": "Orhan",
+  "shortName": "Orhan",
+  "era": "1288-1362",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1288-1362",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Orhan is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "79 language biography editions",
+    "Historical Popularity Index 83.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Orhan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Orhan",
+      "url": "https://pantheon.world/profile/person/Orhan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "orhan-pantheon-profile",
+      "text": "Pantheon ranks Orhan as a globally documented politician with biographies in 79 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Orhan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Orhan",
+      "sourceUrl": "https://pantheon.world/profile/person/Orhan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ludwig-van-beethoven",
+  "slug": "ludwig-van-beethoven",
+  "name": "Ludwig van Beethoven",
+  "shortName": "Beethoven",
+  "era": "1770-1827",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1770-1827",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Ludwig van Beethoven is a notable composer associated with Germany.",
+  "knownFor": [
+    "Composer",
+    "210 language biography editions",
+    "Historical Popularity Index 96.9"
+  ],
+  "featured": true,
+  "featuredRank": 39,
+  "imageAlt": "Portrait-style visual for Ludwig van Beethoven",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ludwig van Beethoven",
+      "url": "https://pantheon.world/profile/person/Ludwig_van_Beethoven",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ludwig-van-beethoven-pantheon-profile",
+      "text": "Pantheon ranks Ludwig van Beethoven as a globally documented composer with biographies in 210 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ludwig van Beethoven a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ludwig van Beethoven",
+      "sourceUrl": "https://pantheon.world/profile/person/Ludwig_van_Beethoven",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

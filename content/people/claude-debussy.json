@@ -1,0 +1,47 @@
+{
+  "id": "claude-debussy",
+  "slug": "claude-debussy",
+  "name": "Claude Debussy",
+  "shortName": "Debussy",
+  "era": "1862-1918",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1862-1918",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Claude Debussy is a notable composer associated with France.",
+  "knownFor": [
+    "Composer",
+    "101 language biography editions",
+    "Historical Popularity Index 83.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Claude Debussy",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Claude Debussy",
+      "url": "https://pantheon.world/profile/person/Claude_Debussy",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "claude-debussy-pantheon-profile",
+      "text": "Pantheon ranks Claude Debussy as a globally documented composer with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Claude Debussy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Claude Debussy",
+      "sourceUrl": "https://pantheon.world/profile/person/Claude_Debussy",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

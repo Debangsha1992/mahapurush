@@ -1,0 +1,47 @@
+{
+  "id": "al-biruni",
+  "slug": "al-biruni",
+  "name": "Al-Biruni",
+  "shortName": "Al-Biruni",
+  "era": "973-1048",
+  "region": "Uzbekistan",
+  "regionId": "global-diaspora",
+  "lifespan": "973-1048",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Al-Biruni is a notable mathematician associated with Uzbekistan.",
+  "knownFor": [
+    "Mathematician",
+    "94 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Al-Biruni",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Al-Biruni",
+      "url": "https://pantheon.world/profile/person/Al-Biruni",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "al-biruni-pantheon-profile",
+      "text": "Pantheon ranks Al-Biruni as a globally documented mathematician with biographies in 94 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Al-Biruni a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Al-Biruni",
+      "sourceUrl": "https://pantheon.world/profile/person/Al-Biruni",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

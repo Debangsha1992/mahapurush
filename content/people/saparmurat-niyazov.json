@@ -1,0 +1,47 @@
+{
+  "id": "saparmurat-niyazov",
+  "slug": "saparmurat-niyazov",
+  "name": "Saparmurat Niyazov",
+  "shortName": "Niyazov",
+  "era": "1940-2006",
+  "region": "Turkmenistan",
+  "regionId": "global-diaspora",
+  "lifespan": "1940-2006",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Saparmurat Niyazov is a notable politician associated with Turkmenistan.",
+  "knownFor": [
+    "Politician",
+    "84 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Saparmurat Niyazov",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Saparmurat Niyazov",
+      "url": "https://pantheon.world/profile/person/Saparmurat_Niyazov",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "saparmurat-niyazov-pantheon-profile",
+      "text": "Pantheon ranks Saparmurat Niyazov as a globally documented politician with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Saparmurat Niyazov a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Saparmurat Niyazov",
+      "sourceUrl": "https://pantheon.world/profile/person/Saparmurat_Niyazov",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

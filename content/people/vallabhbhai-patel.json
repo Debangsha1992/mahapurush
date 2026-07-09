@@ -1,0 +1,47 @@
+{
+  "id": "vallabhbhai-patel",
+  "slug": "vallabhbhai-patel",
+  "name": "Vallabhbhai Patel",
+  "shortName": "Patel",
+  "era": "1875-1950",
+  "region": "India",
+  "regionId": "south-asia",
+  "lifespan": "1875-1950",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Vallabhbhai Patel is a notable politician associated with India.",
+  "knownFor": [
+    "Politician",
+    "76 language biography editions",
+    "Historical Popularity Index 82.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Vallabhbhai Patel",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Vallabhbhai Patel",
+      "url": "https://pantheon.world/profile/person/Vallabhbhai_Patel",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "vallabhbhai-patel-pantheon-profile",
+      "text": "Pantheon ranks Vallabhbhai Patel as a globally documented politician with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Vallabhbhai Patel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Vallabhbhai Patel",
+      "sourceUrl": "https://pantheon.world/profile/person/Vallabhbhai_Patel",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

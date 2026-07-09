@@ -1,0 +1,48 @@
+{
+  "id": "johannes-vermeer",
+  "slug": "johannes-vermeer",
+  "name": "Johannes Vermeer",
+  "shortName": "Vermeer",
+  "era": "1632-1675",
+  "region": "Netherlands",
+  "regionId": "europe",
+  "lifespan": "1632-1675",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Johannes Vermeer is a notable painter associated with Netherlands.",
+  "knownFor": [
+    "Painter",
+    "107 language biography editions",
+    "Historical Popularity Index 87.3"
+  ],
+  "featured": true,
+  "featuredRank": 258,
+  "imageAlt": "Portrait-style visual for Johannes Vermeer",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Johannes Vermeer",
+      "url": "https://pantheon.world/profile/person/Johannes_Vermeer",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "johannes-vermeer-pantheon-profile",
+      "text": "Pantheon ranks Johannes Vermeer as a globally documented painter with biographies in 107 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Johannes Vermeer a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Johannes Vermeer",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Vermeer",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

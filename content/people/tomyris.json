@@ -1,0 +1,47 @@
+{
+  "id": "tomyris",
+  "slug": "tomyris",
+  "name": "Tomyris",
+  "shortName": "Tomyris",
+  "era": "-600--600",
+  "region": "Kazakhstan",
+  "regionId": "global-diaspora",
+  "lifespan": "-600--600",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Tomyris is a notable politician associated with Kazakhstan.",
+  "knownFor": [
+    "Politician",
+    "56 language biography editions",
+    "Historical Popularity Index 81.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Tomyris",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Tomyris",
+      "url": "https://pantheon.world/profile/person/Tomyris",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "tomyris-pantheon-profile",
+      "text": "Pantheon ranks Tomyris as a globally documented politician with biographies in 56 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Tomyris a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Tomyris",
+      "sourceUrl": "https://pantheon.world/profile/person/Tomyris",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

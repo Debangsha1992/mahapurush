@@ -1,0 +1,47 @@
+{
+  "id": "pope-leo-x",
+  "slug": "pope-leo-x",
+  "name": "Pope Leo X",
+  "shortName": "X",
+  "era": "1475-1521",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1475-1521",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Leo X is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "79 language biography editions",
+    "Historical Popularity Index 84.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Leo X",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Leo X",
+      "url": "https://pantheon.world/profile/person/Pope_Leo_X",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-leo-x-pantheon-profile",
+      "text": "Pantheon ranks Pope Leo X as a globally documented religious figure with biographies in 79 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Leo X a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Leo X",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Leo_X",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

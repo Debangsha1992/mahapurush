@@ -1,0 +1,47 @@
+{
+  "id": "daniel-defoe",
+  "slug": "daniel-defoe",
+  "name": "Daniel Defoe",
+  "shortName": "Defoe",
+  "era": "1660-1731",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1660-1731",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Daniel Defoe is a notable writer associated with United Kingdom.",
+  "knownFor": [
+    "Writer",
+    "102 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Daniel Defoe",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Daniel Defoe",
+      "url": "https://pantheon.world/profile/person/Daniel_Defoe",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "daniel-defoe-pantheon-profile",
+      "text": "Pantheon ranks Daniel Defoe as a globally documented writer with biographies in 102 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Daniel Defoe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Daniel Defoe",
+      "sourceUrl": "https://pantheon.world/profile/person/Daniel_Defoe",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

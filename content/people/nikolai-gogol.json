@@ -1,0 +1,47 @@
+{
+  "id": "nikolai-gogol",
+  "slug": "nikolai-gogol",
+  "name": "Nikolai Gogol",
+  "shortName": "Gogol",
+  "era": "1809-1852",
+  "region": "Ukraine",
+  "regionId": "europe",
+  "lifespan": "1809-1852",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Nikolai Gogol is a notable writer associated with Ukraine.",
+  "knownFor": [
+    "Writer",
+    "107 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Nikolai Gogol",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Nikolai Gogol",
+      "url": "https://pantheon.world/profile/person/Nikolai_Gogol",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "nikolai-gogol-pantheon-profile",
+      "text": "Pantheon ranks Nikolai Gogol as a globally documented writer with biographies in 107 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Nikolai Gogol a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Nikolai Gogol",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikolai_Gogol",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

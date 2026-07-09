@@ -1,0 +1,48 @@
+{
+  "id": "basil-ii",
+  "slug": "basil-ii",
+  "name": "Basil II",
+  "shortName": "II",
+  "era": "958-1025",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "958-1025",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Basil II is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "66 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 408,
+  "imageAlt": "Portrait-style visual for Basil II",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Basil II",
+      "url": "https://pantheon.world/profile/person/Basil_II",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "basil-ii-pantheon-profile",
+      "text": "Pantheon ranks Basil II as a globally documented politician with biographies in 66 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Basil II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Basil II",
+      "sourceUrl": "https://pantheon.world/profile/person/Basil_II",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

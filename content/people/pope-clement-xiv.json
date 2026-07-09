@@ -1,0 +1,47 @@
+{
+  "id": "pope-clement-xiv",
+  "slug": "pope-clement-xiv",
+  "name": "Pope Clement XIV",
+  "shortName": "XIV",
+  "era": "1705-1774",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1705-1774",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Clement XIV is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "73 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Clement XIV",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Clement XIV",
+      "url": "https://pantheon.world/profile/person/Pope_Clement_XIV",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-clement-xiv-pantheon-profile",
+      "text": "Pantheon ranks Pope Clement XIV as a globally documented religious figure with biographies in 73 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Clement XIV a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Clement XIV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Clement_XIV",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

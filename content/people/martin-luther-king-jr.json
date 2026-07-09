@@ -6,9 +6,15 @@
   "era": "1929-1968",
   "region": "United States",
   "lifespan": "1929-1968",
-  "domains": ["civil rights", "religion", "public speaking"],
+  "domains": [
+    "justice-governance-leadership"
+  ],
   "summary": "Martin Luther King Jr. helped lead nonviolent civil rights campaigns against racial segregation and injustice.",
-  "knownFor": ["civil rights movement", "nonviolent protest", "I Have a Dream speech"],
+  "knownFor": [
+    "civil rights movement",
+    "nonviolent protest",
+    "I Have a Dream speech"
+  ],
   "facts": [
     {
       "id": "mlk-nobel-peace-prize",
@@ -18,8 +24,24 @@
       "sourceUrl": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "1964-10-14",
-      "tags": ["civil-rights", "peace"],
+      "tags": [
+        "civil-rights",
+        "peace"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "north-america",
+  "primaryDomain": "justice-governance-leadership",
+  "featured": true,
+  "imageAlt": "Portrait-style visual for Martin Luther King Jr.",
+  "sourceRefs": [
+    {
+      "title": "Nobel Prize: Martin Luther King Jr. Facts",
+      "url": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published",
+  "featuredRank": 20
 }

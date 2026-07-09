@@ -1,0 +1,47 @@
+{
+  "id": "joan-miro",
+  "slug": "joan-miro",
+  "name": "Joan Miró",
+  "shortName": "Miró",
+  "era": "1893-1983",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1893-1983",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Joan Miró is a notable painter associated with Spain.",
+  "knownFor": [
+    "Painter",
+    "88 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Joan Miró",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Joan Miró",
+      "url": "https://pantheon.world/profile/person/Joan_Mir%C3%B3",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "joan-miro-pantheon-profile",
+      "text": "Pantheon ranks Joan Miró as a globally documented painter with biographies in 88 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Joan Miró a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Joan Miró",
+      "sourceUrl": "https://pantheon.world/profile/person/Joan_Mir%C3%B3",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

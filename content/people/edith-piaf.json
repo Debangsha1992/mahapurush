@@ -1,0 +1,48 @@
+{
+  "id": "edith-piaf",
+  "slug": "edith-piaf",
+  "name": "Édith Piaf",
+  "shortName": "Piaf",
+  "era": "1915-1963",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1915-1963",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "singer"
+  ],
+  "summary": "Édith Piaf is a notable singer associated with France.",
+  "knownFor": [
+    "Singer",
+    "128 language biography editions",
+    "Historical Popularity Index 86.1"
+  ],
+  "featured": true,
+  "featuredRank": 338,
+  "imageAlt": "Portrait-style visual for Édith Piaf",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Édith Piaf",
+      "url": "https://pantheon.world/profile/person/%C3%89dith_Piaf",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edith-piaf-pantheon-profile",
+      "text": "Pantheon ranks Édith Piaf as a globally documented singer with biographies in 128 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Édith Piaf a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Édith Piaf",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89dith_Piaf",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

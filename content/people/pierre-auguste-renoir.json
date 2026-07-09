@@ -1,0 +1,48 @@
+{
+  "id": "pierre-auguste-renoir",
+  "slug": "pierre-auguste-renoir",
+  "name": "Pierre-Auguste Renoir",
+  "shortName": "Renoir",
+  "era": "1841-1919",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1841-1919",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Pierre-Auguste Renoir is a notable painter associated with France.",
+  "knownFor": [
+    "Painter",
+    "96 language biography editions",
+    "Historical Popularity Index 86.0"
+  ],
+  "featured": true,
+  "featuredRank": 344,
+  "imageAlt": "Portrait-style visual for Pierre-Auguste Renoir",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pierre-Auguste Renoir",
+      "url": "https://pantheon.world/profile/person/Pierre-Auguste_Renoir",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pierre-auguste-renoir-pantheon-profile",
+      "text": "Pantheon ranks Pierre-Auguste Renoir as a globally documented painter with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pierre-Auguste Renoir a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pierre-Auguste Renoir",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre-Auguste_Renoir",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

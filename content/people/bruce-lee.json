@@ -1,0 +1,48 @@
+{
+  "id": "bruce-lee",
+  "slug": "bruce-lee",
+  "name": "Bruce Lee",
+  "shortName": "Lee",
+  "era": "1940-1973",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1940-1973",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Bruce Lee is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "128 language biography editions",
+    "Historical Popularity Index 86.3"
+  ],
+  "featured": true,
+  "featuredRank": 332,
+  "imageAlt": "Portrait-style visual for Bruce Lee",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bruce Lee",
+      "url": "https://pantheon.world/profile/person/Bruce_Lee",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bruce-lee-pantheon-profile",
+      "text": "Pantheon ranks Bruce Lee as a globally documented actor with biographies in 128 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bruce Lee a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bruce Lee",
+      "sourceUrl": "https://pantheon.world/profile/person/Bruce_Lee",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

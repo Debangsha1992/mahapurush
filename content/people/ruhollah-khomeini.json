@@ -1,0 +1,47 @@
+{
+  "id": "ruhollah-khomeini",
+  "slug": "ruhollah-khomeini",
+  "name": "Ruhollah Khomeini",
+  "shortName": "Khomeini",
+  "era": "1902-1989",
+  "region": "Iran",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1902-1989",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Ruhollah Khomeini is a notable religious figure associated with Iran.",
+  "knownFor": [
+    "Religious Figure",
+    "108 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ruhollah Khomeini",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ruhollah Khomeini",
+      "url": "https://pantheon.world/profile/person/Ruhollah_Khomeini",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ruhollah-khomeini-pantheon-profile",
+      "text": "Pantheon ranks Ruhollah Khomeini as a globally documented religious figure with biographies in 108 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ruhollah Khomeini a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ruhollah Khomeini",
+      "sourceUrl": "https://pantheon.world/profile/person/Ruhollah_Khomeini",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "simon-bolivar",
+  "slug": "simon-bolivar",
+  "name": "Simón Bolívar",
+  "shortName": "Bolívar",
+  "era": "1783-1830",
+  "region": "Venezuela",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1783-1830",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Simón Bolívar is a notable politician associated with Venezuela.",
+  "knownFor": [
+    "Politician",
+    "150 language biography editions",
+    "Historical Popularity Index 83.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Simón Bolívar",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Simón Bolívar",
+      "url": "https://pantheon.world/profile/person/Sim%C3%B3n_Bol%C3%ADvar",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "simon-bolivar-pantheon-profile",
+      "text": "Pantheon ranks Simón Bolívar as a globally documented politician with biographies in 150 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Simón Bolívar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Simón Bolívar",
+      "sourceUrl": "https://pantheon.world/profile/person/Sim%C3%B3n_Bol%C3%ADvar",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

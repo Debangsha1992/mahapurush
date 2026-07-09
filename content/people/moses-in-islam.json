@@ -1,0 +1,47 @@
+{
+  "id": "moses-in-islam",
+  "slug": "moses-in-islam",
+  "name": "Moses in Islam",
+  "shortName": "Islam",
+  "era": "-1392--1272",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-1392--1272",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Moses in Islam is a notable religious figure associated with Egypt.",
+  "knownFor": [
+    "Religious Figure",
+    "40 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Moses in Islam",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Moses in Islam",
+      "url": "https://pantheon.world/profile/person/Moses_in_Islam",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "moses-in-islam-pantheon-profile",
+      "text": "Pantheon ranks Moses in Islam as a globally documented religious figure with biographies in 40 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Moses in Islam a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Moses in Islam",
+      "sourceUrl": "https://pantheon.world/profile/person/Moses_in_Islam",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

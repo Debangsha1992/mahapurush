@@ -1,0 +1,48 @@
+{
+  "id": "nikola-tesla",
+  "slug": "nikola-tesla",
+  "name": "Nikola Tesla",
+  "shortName": "Tesla",
+  "era": "1856-1943",
+  "region": "Croatia",
+  "regionId": "global-diaspora",
+  "lifespan": "1856-1943",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "inventor"
+  ],
+  "summary": "Nikola Tesla is a notable inventor associated with Croatia.",
+  "knownFor": [
+    "Inventor",
+    "169 language biography editions",
+    "Historical Popularity Index 91.9"
+  ],
+  "featured": true,
+  "featuredRank": 83,
+  "imageAlt": "Portrait-style visual for Nikola Tesla",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Nikola Tesla",
+      "url": "https://pantheon.world/profile/person/Nikola_Tesla",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "nikola-tesla-pantheon-profile",
+      "text": "Pantheon ranks Nikola Tesla as a globally documented inventor with biographies in 169 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Nikola Tesla a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Nikola Tesla",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikola_Tesla",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "silvio-berlusconi",
+  "slug": "silvio-berlusconi",
+  "name": "Silvio Berlusconi",
+  "shortName": "Berlusconi",
+  "era": "1936-2023",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1936-2023",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Silvio Berlusconi is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "128 language biography editions",
+    "Historical Popularity Index 84.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Silvio Berlusconi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Silvio Berlusconi",
+      "url": "https://pantheon.world/profile/person/Silvio_Berlusconi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "silvio-berlusconi-pantheon-profile",
+      "text": "Pantheon ranks Silvio Berlusconi as a globally documented politician with biographies in 128 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Silvio Berlusconi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Silvio Berlusconi",
+      "sourceUrl": "https://pantheon.world/profile/person/Silvio_Berlusconi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

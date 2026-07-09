@@ -1,0 +1,48 @@
+{
+  "id": "andrew-the-apostle",
+  "slug": "andrew-the-apostle",
+  "name": "Andrew the Apostle",
+  "shortName": "Apostle",
+  "era": "-6-70",
+  "region": "Global",
+  "regionId": "global-diaspora",
+  "lifespan": "-6-70",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Andrew the Apostle is a notable religious figure associated with Global.",
+  "knownFor": [
+    "Religious Figure",
+    "93 language biography editions",
+    "Historical Popularity Index 89.1"
+  ],
+  "featured": true,
+  "featuredRank": 170,
+  "imageAlt": "Portrait-style visual for Andrew the Apostle",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Andrew the Apostle",
+      "url": "https://pantheon.world/profile/person/Andrew_the_Apostle",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "andrew-the-apostle-pantheon-profile",
+      "text": "Pantheon ranks Andrew the Apostle as a globally documented religious figure with biographies in 93 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Andrew the Apostle a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Andrew the Apostle",
+      "sourceUrl": "https://pantheon.world/profile/person/Andrew_the_Apostle",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

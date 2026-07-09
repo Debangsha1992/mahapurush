@@ -1,0 +1,47 @@
+{
+  "id": "amenhotep-iii",
+  "slug": "amenhotep-iii",
+  "name": "Amenhotep III",
+  "shortName": "III",
+  "era": "-1403--1350",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-1403--1350",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Amenhotep III is a notable politician associated with Egypt.",
+  "knownFor": [
+    "Politician",
+    "63 language biography editions",
+    "Historical Popularity Index 83.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Amenhotep III",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Amenhotep III",
+      "url": "https://pantheon.world/profile/person/Amenhotep_III",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "amenhotep-iii-pantheon-profile",
+      "text": "Pantheon ranks Amenhotep III as a globally documented politician with biographies in 63 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Amenhotep III a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Amenhotep III",
+      "sourceUrl": "https://pantheon.world/profile/person/Amenhotep_III",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

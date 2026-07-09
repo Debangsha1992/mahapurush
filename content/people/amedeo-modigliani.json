@@ -1,0 +1,47 @@
+{
+  "id": "amedeo-modigliani",
+  "slug": "amedeo-modigliani",
+  "name": "Amedeo Modigliani",
+  "shortName": "Modigliani",
+  "era": "1884-1920",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1884-1920",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Amedeo Modigliani is a notable painter associated with Italy.",
+  "knownFor": [
+    "Painter",
+    "79 language biography editions",
+    "Historical Popularity Index 83.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Amedeo Modigliani",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Amedeo Modigliani",
+      "url": "https://pantheon.world/profile/person/Amedeo_Modigliani",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "amedeo-modigliani-pantheon-profile",
+      "text": "Pantheon ranks Amedeo Modigliani as a globally documented painter with biographies in 79 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Amedeo Modigliani a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Amedeo Modigliani",
+      "sourceUrl": "https://pantheon.world/profile/person/Amedeo_Modigliani",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

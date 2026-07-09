@@ -1,0 +1,47 @@
+{
+  "id": "joseph-louis-lagrange",
+  "slug": "joseph-louis-lagrange",
+  "name": "Joseph-Louis Lagrange",
+  "shortName": "Lagrange",
+  "era": "1736-1813",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1736-1813",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Joseph-Louis Lagrange is a notable mathematician associated with Italy.",
+  "knownFor": [
+    "Mathematician",
+    "90 language biography editions",
+    "Historical Popularity Index 84.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Joseph-Louis Lagrange",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Joseph-Louis Lagrange",
+      "url": "https://pantheon.world/profile/person/Joseph-Louis_Lagrange",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "joseph-louis-lagrange-pantheon-profile",
+      "text": "Pantheon ranks Joseph-Louis Lagrange as a globally documented mathematician with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Joseph-Louis Lagrange a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Joseph-Louis Lagrange",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph-Louis_Lagrange",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "panini",
+  "slug": "panini",
+  "name": "Pāṇini",
+  "shortName": "Pāṇini",
+  "era": "-500--460",
+  "region": "Pakistan",
+  "regionId": "south-asia",
+  "lifespan": "-500--460",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "linguist"
+  ],
+  "summary": "Pāṇini is a notable linguist associated with Pakistan.",
+  "knownFor": [
+    "Linguist",
+    "70 language biography editions",
+    "Historical Popularity Index 81.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pāṇini",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pāṇini",
+      "url": "https://pantheon.world/profile/person/P%C4%81%E1%B9%87ini",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "panini-pantheon-profile",
+      "text": "Pantheon ranks Pāṇini as a globally documented linguist with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pāṇini a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pāṇini",
+      "sourceUrl": "https://pantheon.world/profile/person/P%C4%81%E1%B9%87ini",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

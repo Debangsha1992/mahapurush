@@ -1,0 +1,48 @@
+{
+  "id": "edward-vi-of-england",
+  "slug": "edward-vi-of-england",
+  "name": "Edward VI of England",
+  "shortName": "England",
+  "era": "1537-1553",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1537-1553",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Edward VI of England is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "83 language biography editions",
+    "Historical Popularity Index 89.7"
+  ],
+  "featured": true,
+  "featuredRank": 143,
+  "imageAlt": "Portrait-style visual for Edward VI of England",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edward VI of England",
+      "url": "https://pantheon.world/profile/person/Edward_VI_of_England",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edward-vi-of-england-pantheon-profile",
+      "text": "Pantheon ranks Edward VI of England as a globally documented politician with biographies in 83 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward VI of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edward VI of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VI_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

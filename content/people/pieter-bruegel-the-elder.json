@@ -1,0 +1,47 @@
+{
+  "id": "pieter-bruegel-the-elder",
+  "slug": "pieter-bruegel-the-elder",
+  "name": "Pieter Bruegel the Elder",
+  "shortName": "Elder",
+  "era": "1525-1569",
+  "region": "Netherlands",
+  "regionId": "europe",
+  "lifespan": "1525-1569",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Pieter Bruegel the Elder is a notable painter associated with Netherlands.",
+  "knownFor": [
+    "Painter",
+    "83 language biography editions",
+    "Historical Popularity Index 83.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pieter Bruegel the Elder",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pieter Bruegel the Elder",
+      "url": "https://pantheon.world/profile/person/Pieter_Bruegel_the_Elder",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pieter-bruegel-the-elder-pantheon-profile",
+      "text": "Pantheon ranks Pieter Bruegel the Elder as a globally documented painter with biographies in 83 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pieter Bruegel the Elder a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pieter Bruegel the Elder",
+      "sourceUrl": "https://pantheon.world/profile/person/Pieter_Bruegel_the_Elder",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

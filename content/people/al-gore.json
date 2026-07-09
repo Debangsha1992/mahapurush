@@ -1,0 +1,48 @@
+{
+  "id": "al-gore",
+  "slug": "al-gore",
+  "name": "Al Gore",
+  "shortName": "Gore",
+  "era": "born 1948",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1948",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Al Gore is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "106 language biography editions",
+    "Historical Popularity Index 85.0"
+  ],
+  "featured": true,
+  "featuredRank": 444,
+  "imageAlt": "Portrait-style visual for Al Gore",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Al Gore",
+      "url": "https://pantheon.world/profile/person/Al_Gore",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "al-gore-pantheon-profile",
+      "text": "Pantheon ranks Al Gore as a globally documented politician with biographies in 106 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Al Gore a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Al Gore",
+      "sourceUrl": "https://pantheon.world/profile/person/Al_Gore",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

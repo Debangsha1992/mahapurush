@@ -1,0 +1,48 @@
+{
+  "id": "charlemagne",
+  "slug": "charlemagne",
+  "name": "Charlemagne",
+  "shortName": "Charlemagne",
+  "era": "748-814",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "748-814",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Charlemagne is a notable politician associated with Germany.",
+  "knownFor": [
+    "Politician",
+    "161 language biography editions",
+    "Historical Popularity Index 89.9"
+  ],
+  "featured": true,
+  "featuredRank": 134,
+  "imageAlt": "Portrait-style visual for Charlemagne",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Charlemagne",
+      "url": "https://pantheon.world/profile/person/Charlemagne",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "charlemagne-pantheon-profile",
+      "text": "Pantheon ranks Charlemagne as a globally documented politician with biographies in 161 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Charlemagne a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Charlemagne",
+      "sourceUrl": "https://pantheon.world/profile/person/Charlemagne",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

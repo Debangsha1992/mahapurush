@@ -1,0 +1,47 @@
+{
+  "id": "matthias-the-apostle",
+  "slug": "matthias-the-apostle",
+  "name": "Matthias the Apostle",
+  "shortName": "Apostle",
+  "era": "born 1",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "born 1",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Matthias the Apostle is a notable religious figure associated with Israel.",
+  "knownFor": [
+    "Religious Figure",
+    "64 language biography editions",
+    "Historical Popularity Index 84.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Matthias the Apostle",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Matthias the Apostle",
+      "url": "https://pantheon.world/profile/person/Matthias_the_Apostle",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "matthias-the-apostle-pantheon-profile",
+      "text": "Pantheon ranks Matthias the Apostle as a globally documented religious figure with biographies in 64 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Matthias the Apostle a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Matthias the Apostle",
+      "sourceUrl": "https://pantheon.world/profile/person/Matthias_the_Apostle",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

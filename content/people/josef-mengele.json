@@ -1,0 +1,47 @@
+{
+  "id": "josef-mengele",
+  "slug": "josef-mengele",
+  "name": "Josef Mengele",
+  "shortName": "Mengele",
+  "era": "1911-1979",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1911-1979",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physician"
+  ],
+  "summary": "Josef Mengele is a notable physician associated with Germany.",
+  "knownFor": [
+    "Physician",
+    "70 language biography editions",
+    "Historical Popularity Index 84.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Josef Mengele",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Josef Mengele",
+      "url": "https://pantheon.world/profile/person/Josef_Mengele",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "josef-mengele-pantheon-profile",
+      "text": "Pantheon ranks Josef Mengele as a globally documented physician with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Josef Mengele a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Josef Mengele",
+      "sourceUrl": "https://pantheon.world/profile/person/Josef_Mengele",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

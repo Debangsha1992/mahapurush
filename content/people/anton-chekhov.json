@@ -1,0 +1,48 @@
+{
+  "id": "anton-chekhov",
+  "slug": "anton-chekhov",
+  "name": "Anton Chekhov",
+  "shortName": "Chekhov",
+  "era": "1860-1904",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1860-1904",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Anton Chekhov is a notable writer associated with Russia.",
+  "knownFor": [
+    "Writer",
+    "168 language biography editions",
+    "Historical Popularity Index 86.7"
+  ],
+  "featured": true,
+  "featuredRank": 299,
+  "imageAlt": "Portrait-style visual for Anton Chekhov",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Anton Chekhov",
+      "url": "https://pantheon.world/profile/person/Anton_Chekhov",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "anton-chekhov-pantheon-profile",
+      "text": "Pantheon ranks Anton Chekhov as a globally documented writer with biographies in 168 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Anton Chekhov a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Anton Chekhov",
+      "sourceUrl": "https://pantheon.world/profile/person/Anton_Chekhov",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

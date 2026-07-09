@@ -1,0 +1,48 @@
+{
+  "id": "fyodor-dostoevsky",
+  "slug": "fyodor-dostoevsky",
+  "name": "Fyodor Dostoevsky",
+  "shortName": "Dostoevsky",
+  "era": "1821-1881",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1821-1881",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Fyodor Dostoevsky is a notable writer associated with Russia.",
+  "knownFor": [
+    "Writer",
+    "178 language biography editions",
+    "Historical Popularity Index 93.2"
+  ],
+  "featured": true,
+  "featuredRank": 63,
+  "imageAlt": "Portrait-style visual for Fyodor Dostoevsky",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Fyodor Dostoevsky",
+      "url": "https://pantheon.world/profile/person/Fyodor_Dostoevsky",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "fyodor-dostoevsky-pantheon-profile",
+      "text": "Pantheon ranks Fyodor Dostoevsky as a globally documented writer with biographies in 178 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Fyodor Dostoevsky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Fyodor Dostoevsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Fyodor_Dostoevsky",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "yuri-andropov",
+  "slug": "yuri-andropov",
+  "name": "Yuri Andropov",
+  "shortName": "Andropov",
+  "era": "1914-1984",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1914-1984",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Yuri Andropov is a notable politician associated with Russia.",
+  "knownFor": [
+    "Politician",
+    "99 language biography editions",
+    "Historical Popularity Index 82.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Yuri Andropov",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Yuri Andropov",
+      "url": "https://pantheon.world/profile/person/Yuri_Andropov",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "yuri-andropov-pantheon-profile",
+      "text": "Pantheon ranks Yuri Andropov as a globally documented politician with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Yuri Andropov a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Yuri Andropov",
+      "sourceUrl": "https://pantheon.world/profile/person/Yuri_Andropov",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

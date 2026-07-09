@@ -1,0 +1,47 @@
+{
+  "id": "andy-warhol",
+  "slug": "andy-warhol",
+  "name": "Andy Warhol",
+  "shortName": "Warhol",
+  "era": "1928-1987",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1928-1987",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "artist"
+  ],
+  "summary": "Andy Warhol is a notable artist associated with United States.",
+  "knownFor": [
+    "Artist",
+    "140 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Andy Warhol",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Andy Warhol",
+      "url": "https://pantheon.world/profile/person/Andy_Warhol",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "andy-warhol-pantheon-profile",
+      "text": "Pantheon ranks Andy Warhol as a globally documented artist with biographies in 140 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Andy Warhol a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Andy Warhol",
+      "sourceUrl": "https://pantheon.world/profile/person/Andy_Warhol",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

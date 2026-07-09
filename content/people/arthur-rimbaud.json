@@ -1,0 +1,47 @@
+{
+  "id": "arthur-rimbaud",
+  "slug": "arthur-rimbaud",
+  "name": "Arthur Rimbaud",
+  "shortName": "Rimbaud",
+  "era": "1854-1891",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1854-1891",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Arthur Rimbaud is a notable writer associated with France.",
+  "knownFor": [
+    "Writer",
+    "104 language biography editions",
+    "Historical Popularity Index 81.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Arthur Rimbaud",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Arthur Rimbaud",
+      "url": "https://pantheon.world/profile/person/Arthur_Rimbaud",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "arthur-rimbaud-pantheon-profile",
+      "text": "Pantheon ranks Arthur Rimbaud as a globally documented writer with biographies in 104 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Arthur Rimbaud a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Arthur Rimbaud",
+      "sourceUrl": "https://pantheon.world/profile/person/Arthur_Rimbaud",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

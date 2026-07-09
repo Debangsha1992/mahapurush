@@ -1,0 +1,48 @@
+{
+  "id": "leon-trotsky",
+  "slug": "leon-trotsky",
+  "name": "Leon Trotsky",
+  "shortName": "Trotsky",
+  "era": "1879-1940",
+  "region": "Ukraine",
+  "regionId": "europe",
+  "lifespan": "1879-1940",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Leon Trotsky is a notable politician associated with Ukraine.",
+  "knownFor": [
+    "Politician",
+    "136 language biography editions",
+    "Historical Popularity Index 86.2"
+  ],
+  "featured": true,
+  "featuredRank": 334,
+  "imageAlt": "Portrait-style visual for Leon Trotsky",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Leon Trotsky",
+      "url": "https://pantheon.world/profile/person/Leon_Trotsky",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "leon-trotsky-pantheon-profile",
+      "text": "Pantheon ranks Leon Trotsky as a globally documented politician with biographies in 136 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Leon Trotsky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Leon Trotsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Leon_Trotsky",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

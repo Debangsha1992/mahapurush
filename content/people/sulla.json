@@ -1,0 +1,48 @@
+{
+  "id": "sulla",
+  "slug": "sulla",
+  "name": "Sulla",
+  "shortName": "Sulla",
+  "era": "-138--78",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-138--78",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Sulla is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "67 language biography editions",
+    "Historical Popularity Index 84.6"
+  ],
+  "featured": true,
+  "featuredRank": 470,
+  "imageAlt": "Portrait-style visual for Sulla",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Sulla",
+      "url": "https://pantheon.world/profile/person/Sulla",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "sulla-pantheon-profile",
+      "text": "Pantheon ranks Sulla as a globally documented politician with biographies in 67 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Sulla a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Sulla",
+      "sourceUrl": "https://pantheon.world/profile/person/Sulla",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

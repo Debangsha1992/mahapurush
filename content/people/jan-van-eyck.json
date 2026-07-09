@@ -1,0 +1,47 @@
+{
+  "id": "jan-van-eyck",
+  "slug": "jan-van-eyck",
+  "name": "Jan van Eyck",
+  "shortName": "Eyck",
+  "era": "1395-1441",
+  "region": "Belgium",
+  "regionId": "europe",
+  "lifespan": "1395-1441",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Jan van Eyck is a notable painter associated with Belgium.",
+  "knownFor": [
+    "Painter",
+    "79 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jan van Eyck",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jan van Eyck",
+      "url": "https://pantheon.world/profile/person/Jan_van_Eyck",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jan-van-eyck-pantheon-profile",
+      "text": "Pantheon ranks Jan van Eyck as a globally documented painter with biographies in 79 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jan van Eyck a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jan van Eyck",
+      "sourceUrl": "https://pantheon.world/profile/person/Jan_van_Eyck",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

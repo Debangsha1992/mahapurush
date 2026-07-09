@@ -1,0 +1,48 @@
+{
+  "id": "raphael",
+  "slug": "raphael",
+  "name": "Raphael",
+  "shortName": "Raphael",
+  "era": "1483-1520",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1483-1520",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Raphael is a notable painter associated with Italy.",
+  "knownFor": [
+    "Painter",
+    "169 language biography editions",
+    "Historical Popularity Index 91.0"
+  ],
+  "featured": true,
+  "featuredRank": 103,
+  "imageAlt": "Portrait-style visual for Raphael",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Raphael",
+      "url": "https://pantheon.world/profile/person/Raphael",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "raphael-pantheon-profile",
+      "text": "Pantheon ranks Raphael as a globally documented painter with biographies in 169 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Raphael a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Raphael",
+      "sourceUrl": "https://pantheon.world/profile/person/Raphael",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

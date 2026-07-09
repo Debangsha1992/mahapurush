@@ -6,9 +6,15 @@
   "era": "1888-1970",
   "region": "India",
   "lifespan": "1888-1970",
-  "domains": ["physics", "science", "education"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "C. V. Raman advanced the study of light scattering and helped build modern Indian science.",
-  "knownFor": ["Raman effect", "Nobel Prize in Physics", "Indian scientific institutions"],
+  "knownFor": [
+    "Raman effect",
+    "Nobel Prize in Physics",
+    "Indian scientific institutions"
+  ],
   "facts": [
     {
       "id": "cv-raman-nobel",
@@ -18,8 +24,24 @@
       "sourceUrl": "https://www.nobelprize.org/prizes/physics/1930/raman/facts/",
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "1930-11-13",
-      "tags": ["science", "physics"],
+      "tags": [
+        "science",
+        "physics"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "south-asia",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "featuredRank": 8,
+  "imageAlt": "Portrait-style visual for C. V. Raman",
+  "sourceRefs": [
+    {
+      "title": "Nobel Prize: C. V. Raman Facts",
+      "url": "https://www.nobelprize.org/prizes/physics/1930/raman/facts/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

@@ -1,0 +1,47 @@
+{
+  "id": "anne-princess-royal",
+  "slug": "anne-princess-royal",
+  "name": "Anne, Princess Royal",
+  "shortName": "Royal",
+  "era": "born 1950",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "born 1950",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Anne, Princess Royal is a notable nobleman associated with United Kingdom.",
+  "knownFor": [
+    "Nobleman",
+    "62 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Anne, Princess Royal",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Anne, Princess Royal",
+      "url": "https://pantheon.world/profile/person/Anne%2C_Princess_Royal",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "anne-princess-royal-pantheon-profile",
+      "text": "Pantheon ranks Anne, Princess Royal as a globally documented nobleman with biographies in 62 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Anne, Princess Royal a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Anne, Princess Royal",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Princess_Royal",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pele",
+  "slug": "pele",
+  "name": "Pelé",
+  "shortName": "Pelé",
+  "era": "1940-2022",
+  "region": "Brazil",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1940-2022",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "soccer-player"
+  ],
+  "summary": "Pelé is a notable soccer player associated with Brazil.",
+  "knownFor": [
+    "Soccer Player",
+    "145 language biography editions",
+    "Historical Popularity Index 87.9"
+  ],
+  "featured": true,
+  "featuredRank": 222,
+  "imageAlt": "Portrait-style visual for Pelé",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pelé",
+      "url": "https://pantheon.world/profile/person/Pel%C3%A9",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pele-pantheon-profile",
+      "text": "Pantheon ranks Pelé as a globally documented soccer player with biographies in 145 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pelé a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pelé",
+      "sourceUrl": "https://pantheon.world/profile/person/Pel%C3%A9",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

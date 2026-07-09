@@ -1,0 +1,48 @@
+{
+  "id": "philip-ii-of-spain",
+  "slug": "philip-ii-of-spain",
+  "name": "Philip II of Spain",
+  "shortName": "Spain",
+  "era": "1527-1598",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1527-1598",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Philip II of Spain is a notable politician associated with Spain.",
+  "knownFor": [
+    "Politician",
+    "96 language biography editions",
+    "Historical Popularity Index 84.8"
+  ],
+  "featured": true,
+  "featuredRank": 459,
+  "imageAlt": "Portrait-style visual for Philip II of Spain",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Philip II of Spain",
+      "url": "https://pantheon.world/profile/person/Philip_II_of_Spain",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "philip-ii-of-spain-pantheon-profile",
+      "text": "Pantheon ranks Philip II of Spain as a globally documented politician with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Philip II of Spain a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Philip II of Spain",
+      "sourceUrl": "https://pantheon.world/profile/person/Philip_II_of_Spain",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

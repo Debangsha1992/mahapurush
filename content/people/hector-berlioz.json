@@ -1,0 +1,47 @@
+{
+  "id": "hector-berlioz",
+  "slug": "hector-berlioz",
+  "name": "Hector Berlioz",
+  "shortName": "Berlioz",
+  "era": "1803-1869",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1803-1869",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Hector Berlioz is a notable composer associated with France.",
+  "knownFor": [
+    "Composer",
+    "108 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Hector Berlioz",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hector Berlioz",
+      "url": "https://pantheon.world/profile/person/Hector_Berlioz",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hector-berlioz-pantheon-profile",
+      "text": "Pantheon ranks Hector Berlioz as a globally documented composer with biographies in 108 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hector Berlioz a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hector Berlioz",
+      "sourceUrl": "https://pantheon.world/profile/person/Hector_Berlioz",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

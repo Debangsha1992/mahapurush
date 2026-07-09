@@ -1,0 +1,48 @@
+{
+  "id": "voltaire",
+  "slug": "voltaire",
+  "name": "Voltaire",
+  "shortName": "Voltaire",
+  "era": "1694-1778",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1694-1778",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Voltaire is a notable writer associated with France.",
+  "knownFor": [
+    "Writer",
+    "174 language biography editions",
+    "Historical Popularity Index 89.4"
+  ],
+  "featured": true,
+  "featuredRank": 150,
+  "imageAlt": "Portrait-style visual for Voltaire",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Voltaire",
+      "url": "https://pantheon.world/profile/person/Voltaire",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "voltaire-pantheon-profile",
+      "text": "Pantheon ranks Voltaire as a globally documented writer with biographies in 174 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Voltaire a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Voltaire",
+      "sourceUrl": "https://pantheon.world/profile/person/Voltaire",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

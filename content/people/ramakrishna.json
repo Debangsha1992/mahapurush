@@ -1,0 +1,47 @@
+{
+  "id": "ramakrishna",
+  "slug": "ramakrishna",
+  "name": "Ramakrishna",
+  "shortName": "Ramakrishna",
+  "era": "1836-1886",
+  "region": "India",
+  "regionId": "south-asia",
+  "lifespan": "1836-1886",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Ramakrishna is a notable philosopher associated with India.",
+  "knownFor": [
+    "Philosopher",
+    "82 language biography editions",
+    "Historical Popularity Index 81.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ramakrishna",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ramakrishna",
+      "url": "https://pantheon.world/profile/person/Ramakrishna",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ramakrishna-pantheon-profile",
+      "text": "Pantheon ranks Ramakrishna as a globally documented philosopher with biographies in 82 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ramakrishna a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ramakrishna",
+      "sourceUrl": "https://pantheon.world/profile/person/Ramakrishna",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

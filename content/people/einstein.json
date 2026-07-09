@@ -6,9 +6,15 @@
   "era": "1879-1955",
   "region": "Germany, Switzerland, United States",
   "lifespan": "1879-1955",
-  "domains": ["physics", "science", "public thought"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "Albert Einstein transformed physics and became a public voice for imagination, peace, and responsibility.",
-  "knownFor": ["relativity", "photoelectric effect", "scientific imagination"],
+  "knownFor": [
+    "relativity",
+    "photoelectric effect",
+    "scientific imagination"
+  ],
   "thinkerId": "einstein",
   "facts": [
     {
@@ -19,8 +25,24 @@
       "sourceUrl": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "1922-11-09",
-      "tags": ["science", "physics"],
+      "tags": [
+        "science",
+        "physics"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "north-america",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "featuredRank": 10,
+  "imageAlt": "Portrait-style visual for Albert Einstein",
+  "sourceRefs": [
+    {
+      "title": "Nobel Prize: Albert Einstein Facts",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

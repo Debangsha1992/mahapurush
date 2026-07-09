@@ -1,0 +1,48 @@
+{
+  "id": "emily-dickinson",
+  "slug": "emily-dickinson",
+  "name": "Emily Dickinson",
+  "shortName": "Dickinson",
+  "era": "1830-1886",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1830-1886",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Emily Dickinson is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "99 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 431,
+  "imageAlt": "Portrait-style visual for Emily Dickinson",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Emily Dickinson",
+      "url": "https://pantheon.world/profile/person/Emily_Dickinson",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "emily-dickinson-pantheon-profile",
+      "text": "Pantheon ranks Emily Dickinson as a globally documented writer with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Emily Dickinson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Emily Dickinson",
+      "sourceUrl": "https://pantheon.world/profile/person/Emily_Dickinson",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

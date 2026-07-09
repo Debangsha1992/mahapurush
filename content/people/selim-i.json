@@ -1,0 +1,48 @@
+{
+  "id": "selim-i",
+  "slug": "selim-i",
+  "name": "Selim I",
+  "shortName": "I",
+  "era": "1470-1520",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1470-1520",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Selim I is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "81 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 429,
+  "imageAlt": "Portrait-style visual for Selim I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Selim I",
+      "url": "https://pantheon.world/profile/person/Selim_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "selim-i-pantheon-profile",
+      "text": "Pantheon ranks Selim I as a globally documented politician with biographies in 81 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Selim I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Selim I",
+      "sourceUrl": "https://pantheon.world/profile/person/Selim_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

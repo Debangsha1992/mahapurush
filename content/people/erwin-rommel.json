@@ -1,0 +1,47 @@
+{
+  "id": "erwin-rommel",
+  "slug": "erwin-rommel",
+  "name": "Erwin Rommel",
+  "shortName": "Rommel",
+  "era": "1891-1944",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1891-1944",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Erwin Rommel is a notable military personnel associated with Germany.",
+  "knownFor": [
+    "Military Personnel",
+    "88 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Erwin Rommel",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Erwin Rommel",
+      "url": "https://pantheon.world/profile/person/Erwin_Rommel",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "erwin-rommel-pantheon-profile",
+      "text": "Pantheon ranks Erwin Rommel as a globally documented military personnel with biographies in 88 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Erwin Rommel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Erwin Rommel",
+      "sourceUrl": "https://pantheon.world/profile/person/Erwin_Rommel",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

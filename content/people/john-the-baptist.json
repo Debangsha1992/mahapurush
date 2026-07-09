@@ -1,0 +1,48 @@
+{
+  "id": "john-the-baptist",
+  "slug": "john-the-baptist",
+  "name": "John the Baptist",
+  "shortName": "Baptist",
+  "era": "-20-31",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-20-31",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "John the Baptist is a notable religious figure associated with Israel.",
+  "knownFor": [
+    "Religious Figure",
+    "112 language biography editions",
+    "Historical Popularity Index 89.1"
+  ],
+  "featured": true,
+  "featuredRank": 172,
+  "imageAlt": "Portrait-style visual for John the Baptist",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: John the Baptist",
+      "url": "https://pantheon.world/profile/person/John_the_Baptist",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "john-the-baptist-pantheon-profile",
+      "text": "Pantheon ranks John the Baptist as a globally documented religious figure with biographies in 112 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make John the Baptist a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: John the Baptist",
+      "sourceUrl": "https://pantheon.world/profile/person/John_the_Baptist",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

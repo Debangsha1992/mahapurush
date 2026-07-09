@@ -1,0 +1,48 @@
+{
+  "id": "michael-faraday",
+  "slug": "michael-faraday",
+  "name": "Michael Faraday",
+  "shortName": "Faraday",
+  "era": "1791-1867",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1791-1867",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Michael Faraday is a notable physicist associated with United Kingdom.",
+  "knownFor": [
+    "Physicist",
+    "151 language biography editions",
+    "Historical Popularity Index 86.1"
+  ],
+  "featured": true,
+  "featuredRank": 340,
+  "imageAlt": "Portrait-style visual for Michael Faraday",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Michael Faraday",
+      "url": "https://pantheon.world/profile/person/Michael_Faraday",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "michael-faraday-pantheon-profile",
+      "text": "Pantheon ranks Michael Faraday as a globally documented physicist with biographies in 151 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Michael Faraday a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Michael Faraday",
+      "sourceUrl": "https://pantheon.world/profile/person/Michael_Faraday",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "igor-stravinsky",
+  "slug": "igor-stravinsky",
+  "name": "Igor Stravinsky",
+  "shortName": "Stravinsky",
+  "era": "1882-1971",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1882-1971",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Igor Stravinsky is a notable composer associated with Russia.",
+  "knownFor": [
+    "Composer",
+    "133 language biography editions",
+    "Historical Popularity Index 87.3"
+  ],
+  "featured": true,
+  "featuredRank": 255,
+  "imageAlt": "Portrait-style visual for Igor Stravinsky",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Igor Stravinsky",
+      "url": "https://pantheon.world/profile/person/Igor_Stravinsky",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "igor-stravinsky-pantheon-profile",
+      "text": "Pantheon ranks Igor Stravinsky as a globally documented composer with biographies in 133 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Igor Stravinsky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Igor Stravinsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Igor_Stravinsky",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

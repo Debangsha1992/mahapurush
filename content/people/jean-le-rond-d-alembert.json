@@ -1,0 +1,47 @@
+{
+  "id": "jean-le-rond-d-alembert",
+  "slug": "jean-le-rond-d-alembert",
+  "name": "Jean le Rond d'Alembert",
+  "shortName": "d'Alembert",
+  "era": "1717-1783",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1717-1783",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Jean le Rond d'Alembert is a notable mathematician associated with France.",
+  "knownFor": [
+    "Mathematician",
+    "87 language biography editions",
+    "Historical Popularity Index 81.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jean le Rond d'Alembert",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jean le Rond d'Alembert",
+      "url": "https://pantheon.world/profile/person/Jean_le_Rond_d'Alembert",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jean-le-rond-d-alembert-pantheon-profile",
+      "text": "Pantheon ranks Jean le Rond d'Alembert as a globally documented mathematician with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jean le Rond d'Alembert a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jean le Rond d'Alembert",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean_le_Rond_d'Alembert",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

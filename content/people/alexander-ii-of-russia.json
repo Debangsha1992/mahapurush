@@ -1,0 +1,47 @@
+{
+  "id": "alexander-ii-of-russia",
+  "slug": "alexander-ii-of-russia",
+  "name": "Alexander II of Russia",
+  "shortName": "Russia",
+  "era": "1818-1881",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1818-1881",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Alexander II of Russia is a notable politician associated with Russia.",
+  "knownFor": [
+    "Politician",
+    "91 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Alexander II of Russia",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alexander II of Russia",
+      "url": "https://pantheon.world/profile/person/Alexander_II_of_Russia",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alexander-ii-of-russia-pantheon-profile",
+      "text": "Pantheon ranks Alexander II of Russia as a globally documented politician with biographies in 91 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alexander II of Russia a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alexander II of Russia",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_II_of_Russia",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

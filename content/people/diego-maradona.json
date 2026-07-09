@@ -1,0 +1,47 @@
+{
+  "id": "diego-maradona",
+  "slug": "diego-maradona",
+  "name": "Diego Maradona",
+  "shortName": "Maradona",
+  "era": "1960-2020",
+  "region": "Argentina",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1960-2020",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "soccer-player"
+  ],
+  "summary": "Diego Maradona is a notable soccer player associated with Argentina.",
+  "knownFor": [
+    "Soccer Player",
+    "142 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Diego Maradona",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Diego Maradona",
+      "url": "https://pantheon.world/profile/person/Diego_Maradona",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "diego-maradona-pantheon-profile",
+      "text": "Pantheon ranks Diego Maradona as a globally documented soccer player with biographies in 142 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Diego Maradona a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Diego Maradona",
+      "sourceUrl": "https://pantheon.world/profile/person/Diego_Maradona",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

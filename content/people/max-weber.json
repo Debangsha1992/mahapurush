@@ -1,0 +1,48 @@
+{
+  "id": "max-weber",
+  "slug": "max-weber",
+  "name": "Max Weber",
+  "shortName": "Weber",
+  "era": "1864-1920",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1864-1920",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "sociologist"
+  ],
+  "summary": "Max Weber is a notable sociologist associated with Germany.",
+  "knownFor": [
+    "Sociologist",
+    "136 language biography editions",
+    "Historical Popularity Index 87.2"
+  ],
+  "featured": true,
+  "featuredRank": 263,
+  "imageAlt": "Portrait-style visual for Max Weber",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Max Weber",
+      "url": "https://pantheon.world/profile/person/Max_Weber",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "max-weber-pantheon-profile",
+      "text": "Pantheon ranks Max Weber as a globally documented sociologist with biographies in 136 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Max Weber a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Max Weber",
+      "sourceUrl": "https://pantheon.world/profile/person/Max_Weber",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

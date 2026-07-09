@@ -1,0 +1,47 @@
+{
+  "id": "bill-gates",
+  "slug": "bill-gates",
+  "name": "Bill Gates",
+  "shortName": "Gates",
+  "era": "born 1955",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1955",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "businessperson"
+  ],
+  "summary": "Bill Gates is a notable businessperson associated with United States.",
+  "knownFor": [
+    "Businessperson",
+    "172 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Bill Gates",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bill Gates",
+      "url": "https://pantheon.world/profile/person/Bill_Gates",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bill-gates-pantheon-profile",
+      "text": "Pantheon ranks Bill Gates as a globally documented businessperson with biographies in 172 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bill Gates a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bill Gates",
+      "sourceUrl": "https://pantheon.world/profile/person/Bill_Gates",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

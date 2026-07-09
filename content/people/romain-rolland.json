@@ -1,0 +1,47 @@
+{
+  "id": "romain-rolland",
+  "slug": "romain-rolland",
+  "name": "Romain Rolland",
+  "shortName": "Rolland",
+  "era": "1866-1944",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1866-1944",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Romain Rolland is a notable writer associated with France.",
+  "knownFor": [
+    "Writer",
+    "94 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Romain Rolland",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Romain Rolland",
+      "url": "https://pantheon.world/profile/person/Romain_Rolland",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "romain-rolland-pantheon-profile",
+      "text": "Pantheon ranks Romain Rolland as a globally documented writer with biographies in 94 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Romain Rolland a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Romain Rolland",
+      "sourceUrl": "https://pantheon.world/profile/person/Romain_Rolland",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

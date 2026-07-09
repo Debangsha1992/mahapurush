@@ -1,0 +1,48 @@
+{
+  "id": "leonardo-da-vinci",
+  "slug": "leonardo-da-vinci",
+  "name": "Leonardo da Vinci",
+  "shortName": "Vinci",
+  "era": "1452-1519",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1452-1519",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "inventor"
+  ],
+  "summary": "Leonardo da Vinci is a notable inventor associated with Italy.",
+  "knownFor": [
+    "Inventor",
+    "239 language biography editions",
+    "Historical Popularity Index 96.8"
+  ],
+  "featured": true,
+  "featuredRank": 40,
+  "imageAlt": "Portrait-style visual for Leonardo da Vinci",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Leonardo da Vinci",
+      "url": "https://pantheon.world/profile/person/Leonardo_da_Vinci",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "leonardo-da-vinci-pantheon-profile",
+      "text": "Pantheon ranks Leonardo da Vinci as a globally documented inventor with biographies in 239 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Leonardo da Vinci a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Leonardo da Vinci",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonardo_da_Vinci",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "rajneesh",
+  "slug": "rajneesh",
+  "name": "Rajneesh",
+  "shortName": "Rajneesh",
+  "era": "1931-1990",
+  "region": "India",
+  "regionId": "south-asia",
+  "lifespan": "1931-1990",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Rajneesh is a notable philosopher associated with India.",
+  "knownFor": [
+    "Philosopher",
+    "68 language biography editions",
+    "Historical Popularity Index 83.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Rajneesh",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Rajneesh",
+      "url": "https://pantheon.world/profile/person/Rajneesh",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "rajneesh-pantheon-profile",
+      "text": "Pantheon ranks Rajneesh as a globally documented philosopher with biographies in 68 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Rajneesh a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Rajneesh",
+      "sourceUrl": "https://pantheon.world/profile/person/Rajneesh",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

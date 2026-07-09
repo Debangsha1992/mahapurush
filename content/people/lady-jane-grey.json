@@ -1,0 +1,48 @@
+{
+  "id": "lady-jane-grey",
+  "slug": "lady-jane-grey",
+  "name": "Lady Jane Grey",
+  "shortName": "Grey",
+  "era": "1537-1554",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1537-1554",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Lady Jane Grey is a notable nobleman associated with United Kingdom.",
+  "knownFor": [
+    "Nobleman",
+    "77 language biography editions",
+    "Historical Popularity Index 88.9"
+  ],
+  "featured": true,
+  "featuredRank": 178,
+  "imageAlt": "Portrait-style visual for Lady Jane Grey",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Lady Jane Grey",
+      "url": "https://pantheon.world/profile/person/Lady_Jane_Grey",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "lady-jane-grey-pantheon-profile",
+      "text": "Pantheon ranks Lady Jane Grey as a globally documented nobleman with biographies in 77 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Lady Jane Grey a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Lady Jane Grey",
+      "sourceUrl": "https://pantheon.world/profile/person/Lady_Jane_Grey",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

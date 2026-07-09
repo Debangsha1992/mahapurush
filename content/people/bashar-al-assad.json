@@ -1,0 +1,47 @@
+{
+  "id": "bashar-al-assad",
+  "slug": "bashar-al-assad",
+  "name": "Bashar al-Assad",
+  "shortName": "al-Assad",
+  "era": "born 1965",
+  "region": "Syria",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "born 1965",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Bashar al-Assad is a notable politician associated with Syria.",
+  "knownFor": [
+    "Politician",
+    "119 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Bashar al-Assad",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bashar al-Assad",
+      "url": "https://pantheon.world/profile/person/Bashar_al-Assad",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bashar-al-assad-pantheon-profile",
+      "text": "Pantheon ranks Bashar al-Assad as a globally documented politician with biographies in 119 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bashar al-Assad a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bashar al-Assad",
+      "sourceUrl": "https://pantheon.world/profile/person/Bashar_al-Assad",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

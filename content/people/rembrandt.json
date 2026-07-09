@@ -1,0 +1,48 @@
+{
+  "id": "rembrandt",
+  "slug": "rembrandt",
+  "name": "Rembrandt",
+  "shortName": "Rembrandt",
+  "era": "1606-1669",
+  "region": "Netherlands",
+  "regionId": "europe",
+  "lifespan": "1606-1669",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Rembrandt is a notable painter associated with Netherlands.",
+  "knownFor": [
+    "Painter",
+    "175 language biography editions",
+    "Historical Popularity Index 90.6"
+  ],
+  "featured": true,
+  "featuredRank": 115,
+  "imageAlt": "Portrait-style visual for Rembrandt",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Rembrandt",
+      "url": "https://pantheon.world/profile/person/Rembrandt",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "rembrandt-pantheon-profile",
+      "text": "Pantheon ranks Rembrandt as a globally documented painter with biographies in 175 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Rembrandt a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Rembrandt",
+      "sourceUrl": "https://pantheon.world/profile/person/Rembrandt",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

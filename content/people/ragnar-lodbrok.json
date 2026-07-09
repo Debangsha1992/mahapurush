@@ -1,0 +1,47 @@
+{
+  "id": "ragnar-lodbrok",
+  "slug": "ragnar-lodbrok",
+  "name": "Ragnar Lodbrok",
+  "shortName": "Lodbrok",
+  "era": "850-801",
+  "region": "Norway",
+  "regionId": "europe",
+  "lifespan": "850-801",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Ragnar Lodbrok is a notable nobleman associated with Norway.",
+  "knownFor": [
+    "Nobleman",
+    "55 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ragnar Lodbrok",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ragnar Lodbrok",
+      "url": "https://pantheon.world/profile/person/Ragnar_Lodbrok",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ragnar-lodbrok-pantheon-profile",
+      "text": "Pantheon ranks Ragnar Lodbrok as a globally documented nobleman with biographies in 55 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ragnar Lodbrok a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ragnar Lodbrok",
+      "sourceUrl": "https://pantheon.world/profile/person/Ragnar_Lodbrok",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

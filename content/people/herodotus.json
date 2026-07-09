@@ -1,0 +1,48 @@
+{
+  "id": "herodotus",
+  "slug": "herodotus",
+  "name": "Herodotus",
+  "shortName": "Herodotus",
+  "era": "-484--425",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "-484--425",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "historian"
+  ],
+  "summary": "Herodotus is a notable historian associated with Türkiye.",
+  "knownFor": [
+    "Historian",
+    "143 language biography editions",
+    "Historical Popularity Index 90.1"
+  ],
+  "featured": true,
+  "featuredRank": 127,
+  "imageAlt": "Portrait-style visual for Herodotus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Herodotus",
+      "url": "https://pantheon.world/profile/person/Herodotus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "herodotus-pantheon-profile",
+      "text": "Pantheon ranks Herodotus as a globally documented historian with biographies in 143 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Herodotus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Herodotus",
+      "sourceUrl": "https://pantheon.world/profile/person/Herodotus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

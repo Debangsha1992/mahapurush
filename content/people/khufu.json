@@ -1,0 +1,48 @@
+{
+  "id": "khufu",
+  "slug": "khufu",
+  "name": "Khufu",
+  "shortName": "Khufu",
+  "era": "-2700--2570",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-2700--2570",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "architect"
+  ],
+  "summary": "Khufu is a notable architect associated with Egypt.",
+  "knownFor": [
+    "Architect",
+    "77 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 313,
+  "imageAlt": "Portrait-style visual for Khufu",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Khufu",
+      "url": "https://pantheon.world/profile/person/Khufu",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "khufu-pantheon-profile",
+      "text": "Pantheon ranks Khufu as a globally documented architect with biographies in 77 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Khufu a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Khufu",
+      "sourceUrl": "https://pantheon.world/profile/person/Khufu",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

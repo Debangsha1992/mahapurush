@@ -1,0 +1,48 @@
+{
+  "id": "muhammad-ibn-musa-al-khwarizmi",
+  "slug": "muhammad-ibn-musa-al-khwarizmi",
+  "name": "Muhammad ibn Musa al-Khwarizmi",
+  "shortName": "al-Khwarizmi",
+  "era": "780-850",
+  "region": "Turkmenistan",
+  "regionId": "global-diaspora",
+  "lifespan": "780-850",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Muhammad ibn Musa al-Khwarizmi is a notable mathematician associated with Turkmenistan.",
+  "knownFor": [
+    "Mathematician",
+    "148 language biography editions",
+    "Historical Popularity Index 90.6"
+  ],
+  "featured": true,
+  "featuredRank": 114,
+  "imageAlt": "Portrait-style visual for Muhammad ibn Musa al-Khwarizmi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Muhammad ibn Musa al-Khwarizmi",
+      "url": "https://pantheon.world/profile/person/Muhammad_ibn_Musa_al-Khwarizmi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "muhammad-ibn-musa-al-khwarizmi-pantheon-profile",
+      "text": "Pantheon ranks Muhammad ibn Musa al-Khwarizmi as a globally documented mathematician with biographies in 148 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Muhammad ibn Musa al-Khwarizmi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Muhammad ibn Musa al-Khwarizmi",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_ibn_Musa_al-Khwarizmi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

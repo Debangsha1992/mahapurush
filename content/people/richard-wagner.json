@@ -1,0 +1,48 @@
+{
+  "id": "richard-wagner",
+  "slug": "richard-wagner",
+  "name": "Richard Wagner",
+  "shortName": "Wagner",
+  "era": "1813-1883",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1813-1883",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Richard Wagner is a notable composer associated with Germany.",
+  "knownFor": [
+    "Composer",
+    "158 language biography editions",
+    "Historical Popularity Index 88.1"
+  ],
+  "featured": true,
+  "featuredRank": 211,
+  "imageAlt": "Portrait-style visual for Richard Wagner",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Richard Wagner",
+      "url": "https://pantheon.world/profile/person/Richard_Wagner",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "richard-wagner-pantheon-profile",
+      "text": "Pantheon ranks Richard Wagner as a globally documented composer with biographies in 158 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Richard Wagner a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Richard Wagner",
+      "sourceUrl": "https://pantheon.world/profile/person/Richard_Wagner",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

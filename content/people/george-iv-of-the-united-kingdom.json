@@ -1,0 +1,48 @@
+{
+  "id": "george-iv-of-the-united-kingdom",
+  "slug": "george-iv-of-the-united-kingdom",
+  "name": "George IV of the United Kingdom",
+  "shortName": "Kingdom",
+  "era": "1762-1830",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1762-1830",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "George IV of the United Kingdom is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "82 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 314,
+  "imageAlt": "Portrait-style visual for George IV of the United Kingdom",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: George IV of the United Kingdom",
+      "url": "https://pantheon.world/profile/person/George_IV_of_the_United_Kingdom",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "george-iv-of-the-united-kingdom-pantheon-profile",
+      "text": "Pantheon ranks George IV of the United Kingdom as a globally documented politician with biographies in 82 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make George IV of the United Kingdom a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: George IV of the United Kingdom",
+      "sourceUrl": "https://pantheon.world/profile/person/George_IV_of_the_United_Kingdom",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -6,9 +6,15 @@
   "era": "1983-present",
   "region": "Kenya, Mexico, United States",
   "lifespan": "1983-present",
-  "domains": ["film", "theatre", "representation"],
+  "domains": [
+    "literature-arts-culture"
+  ],
   "summary": "Lupita Nyong'o is an actor and author whose work has expanded representation in global film and children's literature.",
-  "knownFor": ["12 Years a Slave", "Black Panther", "Sulwe"],
+  "knownFor": [
+    "12 Years a Slave",
+    "Black Panther",
+    "Sulwe"
+  ],
   "facts": [
     {
       "id": "lupita-nyongo-oscar",
@@ -18,8 +24,24 @@
       "sourceUrl": "https://www.oscars.org/oscars/ceremonies/2014",
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "2014-03-02",
-      "tags": ["arts", "film"],
+      "tags": [
+        "arts",
+        "film"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "africa",
+  "primaryDomain": "literature-arts-culture",
+  "featured": true,
+  "imageAlt": "Portrait-style visual for Lupita Nyong'o",
+  "sourceRefs": [
+    {
+      "title": "Academy of Motion Picture Arts and Sciences: 2014 Oscars",
+      "url": "https://www.oscars.org/oscars/ceremonies/2014",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published",
+  "featuredRank": 17
 }

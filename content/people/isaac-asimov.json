@@ -1,0 +1,47 @@
+{
+  "id": "isaac-asimov",
+  "slug": "isaac-asimov",
+  "name": "Isaac Asimov",
+  "shortName": "Asimov",
+  "era": "1920-1992",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1920-1992",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Isaac Asimov is a notable writer associated with Russia.",
+  "knownFor": [
+    "Writer",
+    "118 language biography editions",
+    "Historical Popularity Index 81.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Isaac Asimov",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Isaac Asimov",
+      "url": "https://pantheon.world/profile/person/Isaac_Asimov",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "isaac-asimov-pantheon-profile",
+      "text": "Pantheon ranks Isaac Asimov as a globally documented writer with biographies in 118 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Isaac Asimov a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Isaac Asimov",
+      "sourceUrl": "https://pantheon.world/profile/person/Isaac_Asimov",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

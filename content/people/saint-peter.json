@@ -1,0 +1,48 @@
+{
+  "id": "saint-peter",
+  "slug": "saint-peter",
+  "name": "Saint Peter",
+  "shortName": "Peter",
+  "era": "-1-67",
+  "region": "Global",
+  "regionId": "global-diaspora",
+  "lifespan": "-1-67",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Saint Peter is a notable religious figure associated with Global.",
+  "knownFor": [
+    "Religious Figure",
+    "128 language biography editions",
+    "Historical Popularity Index 95.5"
+  ],
+  "featured": true,
+  "featuredRank": 46,
+  "imageAlt": "Portrait-style visual for Saint Peter",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Saint Peter",
+      "url": "https://pantheon.world/profile/person/Saint_Peter",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "saint-peter-pantheon-profile",
+      "text": "Pantheon ranks Saint Peter as a globally documented religious figure with biographies in 128 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Saint Peter a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Saint Peter",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Peter",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

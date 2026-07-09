@@ -1,0 +1,47 @@
+{
+  "id": "arthur-conan-doyle",
+  "slug": "arthur-conan-doyle",
+  "name": "Arthur Conan Doyle",
+  "shortName": "Doyle",
+  "era": "1859-1930",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1859-1930",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Arthur Conan Doyle is a notable writer associated with United Kingdom.",
+  "knownFor": [
+    "Writer",
+    "120 language biography editions",
+    "Historical Popularity Index 83.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Arthur Conan Doyle",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Arthur Conan Doyle",
+      "url": "https://pantheon.world/profile/person/Arthur_Conan_Doyle",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "arthur-conan-doyle-pantheon-profile",
+      "text": "Pantheon ranks Arthur Conan Doyle as a globally documented writer with biographies in 120 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Arthur Conan Doyle a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Arthur Conan Doyle",
+      "sourceUrl": "https://pantheon.world/profile/person/Arthur_Conan_Doyle",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

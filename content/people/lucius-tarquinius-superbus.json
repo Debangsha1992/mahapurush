@@ -1,0 +1,47 @@
+{
+  "id": "lucius-tarquinius-superbus",
+  "slug": "lucius-tarquinius-superbus",
+  "name": "Lucius Tarquinius Superbus",
+  "shortName": "Superbus",
+  "era": "-600--495",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-600--495",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Lucius Tarquinius Superbus is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "55 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Lucius Tarquinius Superbus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Lucius Tarquinius Superbus",
+      "url": "https://pantheon.world/profile/person/Lucius_Tarquinius_Superbus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "lucius-tarquinius-superbus-pantheon-profile",
+      "text": "Pantheon ranks Lucius Tarquinius Superbus as a globally documented politician with biographies in 55 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Lucius Tarquinius Superbus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Lucius Tarquinius Superbus",
+      "sourceUrl": "https://pantheon.world/profile/person/Lucius_Tarquinius_Superbus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

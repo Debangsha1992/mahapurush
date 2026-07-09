@@ -1,0 +1,48 @@
+{
+  "id": "edward-vii",
+  "slug": "edward-vii",
+  "name": "Edward VII",
+  "shortName": "VII",
+  "era": "1841-1910",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1841-1910",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Edward VII is a notable nobleman associated with United Kingdom.",
+  "knownFor": [
+    "Nobleman",
+    "96 language biography editions",
+    "Historical Popularity Index 89.7"
+  ],
+  "featured": true,
+  "featuredRank": 142,
+  "imageAlt": "Portrait-style visual for Edward VII",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edward VII",
+      "url": "https://pantheon.world/profile/person/Edward_VII",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edward-vii-pantheon-profile",
+      "text": "Pantheon ranks Edward VII as a globally documented nobleman with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward VII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edward VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

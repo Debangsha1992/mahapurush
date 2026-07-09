@@ -1,0 +1,47 @@
+{
+  "id": "tycho-brahe",
+  "slug": "tycho-brahe",
+  "name": "Tycho Brahe",
+  "shortName": "Brahe",
+  "era": "1546-1601",
+  "region": "Sweden",
+  "regionId": "europe",
+  "lifespan": "1546-1601",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "astronomer"
+  ],
+  "summary": "Tycho Brahe is a notable astronomer associated with Sweden.",
+  "knownFor": [
+    "Astronomer",
+    "105 language biography editions",
+    "Historical Popularity Index 83.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Tycho Brahe",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Tycho Brahe",
+      "url": "https://pantheon.world/profile/person/Tycho_Brahe",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "tycho-brahe-pantheon-profile",
+      "text": "Pantheon ranks Tycho Brahe as a globally documented astronomer with biographies in 105 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Tycho Brahe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Tycho Brahe",
+      "sourceUrl": "https://pantheon.world/profile/person/Tycho_Brahe",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

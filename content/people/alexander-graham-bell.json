@@ -1,0 +1,48 @@
+{
+  "id": "alexander-graham-bell",
+  "slug": "alexander-graham-bell",
+  "name": "Alexander Graham Bell",
+  "shortName": "Bell",
+  "era": "1847-1922",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1847-1922",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "inventor"
+  ],
+  "summary": "Alexander Graham Bell is a notable inventor associated with United Kingdom.",
+  "knownFor": [
+    "Inventor",
+    "128 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 414,
+  "imageAlt": "Portrait-style visual for Alexander Graham Bell",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alexander Graham Bell",
+      "url": "https://pantheon.world/profile/person/Alexander_Graham_Bell",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alexander-graham-bell-pantheon-profile",
+      "text": "Pantheon ranks Alexander Graham Bell as a globally documented inventor with biographies in 128 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alexander Graham Bell a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alexander Graham Bell",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_Graham_Bell",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

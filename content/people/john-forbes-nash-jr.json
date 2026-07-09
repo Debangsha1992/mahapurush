@@ -1,0 +1,48 @@
+{
+  "id": "john-forbes-nash-jr",
+  "slug": "john-forbes-nash-jr",
+  "name": "John Forbes Nash Jr.",
+  "shortName": "Jr.",
+  "era": "1928-2015",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1928-2015",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "John Forbes Nash Jr. is a notable mathematician associated with United States.",
+  "knownFor": [
+    "Mathematician",
+    "95 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 368,
+  "imageAlt": "Portrait-style visual for John Forbes Nash Jr.",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: John Forbes Nash Jr.",
+      "url": "https://pantheon.world/profile/person/John_Forbes_Nash_Jr.",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "john-forbes-nash-jr-pantheon-profile",
+      "text": "Pantheon ranks John Forbes Nash Jr. as a globally documented mathematician with biographies in 95 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make John Forbes Nash Jr. a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: John Forbes Nash Jr.",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Forbes_Nash_Jr.",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

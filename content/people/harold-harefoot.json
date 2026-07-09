@@ -1,0 +1,47 @@
+{
+  "id": "harold-harefoot",
+  "slug": "harold-harefoot",
+  "name": "Harold Harefoot",
+  "shortName": "Harefoot",
+  "era": "1016-1040",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1016-1040",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Harold Harefoot is a notable nobleman associated with United Kingdom.",
+  "knownFor": [
+    "Nobleman",
+    "55 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Harold Harefoot",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Harold Harefoot",
+      "url": "https://pantheon.world/profile/person/Harold_Harefoot",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "harold-harefoot-pantheon-profile",
+      "text": "Pantheon ranks Harold Harefoot as a globally documented nobleman with biographies in 55 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Harold Harefoot a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Harold Harefoot",
+      "sourceUrl": "https://pantheon.world/profile/person/Harold_Harefoot",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

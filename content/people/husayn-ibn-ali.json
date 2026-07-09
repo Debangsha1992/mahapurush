@@ -1,0 +1,47 @@
+{
+  "id": "husayn-ibn-ali",
+  "slug": "husayn-ibn-ali",
+  "name": "Husayn ibn Ali",
+  "shortName": "Ali",
+  "era": "626-680",
+  "region": "Saudi Arabia",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "626-680",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Husayn ibn Ali is a notable religious figure associated with Saudi Arabia.",
+  "knownFor": [
+    "Religious Figure",
+    "85 language biography editions",
+    "Historical Popularity Index 83.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Husayn ibn Ali",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Husayn ibn Ali",
+      "url": "https://pantheon.world/profile/person/Husayn_ibn_Ali",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "husayn-ibn-ali-pantheon-profile",
+      "text": "Pantheon ranks Husayn ibn Ali as a globally documented religious figure with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Husayn ibn Ali a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Husayn ibn Ali",
+      "sourceUrl": "https://pantheon.world/profile/person/Husayn_ibn_Ali",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "mehmed-i",
+  "slug": "mehmed-i",
+  "name": "Mehmed I",
+  "shortName": "I",
+  "era": "1386-1421",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1386-1421",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mehmed I is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "69 language biography editions",
+    "Historical Popularity Index 81.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mehmed I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mehmed I",
+      "url": "https://pantheon.world/profile/person/Mehmed_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mehmed-i-pantheon-profile",
+      "text": "Pantheon ranks Mehmed I as a globally documented politician with biographies in 69 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mehmed I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mehmed I",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

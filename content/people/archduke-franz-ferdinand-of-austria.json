@@ -1,0 +1,47 @@
+{
+  "id": "archduke-franz-ferdinand-of-austria",
+  "slug": "archduke-franz-ferdinand-of-austria",
+  "name": "Archduke Franz Ferdinand of Austria",
+  "shortName": "Austria",
+  "era": "1863-1914",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1863-1914",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Archduke Franz Ferdinand of Austria is a notable nobleman associated with Austria.",
+  "knownFor": [
+    "Nobleman",
+    "96 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Archduke Franz Ferdinand of Austria",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Archduke Franz Ferdinand of Austria",
+      "url": "https://pantheon.world/profile/person/Archduke_Franz_Ferdinand_of_Austria",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "archduke-franz-ferdinand-of-austria-pantheon-profile",
+      "text": "Pantheon ranks Archduke Franz Ferdinand of Austria as a globally documented nobleman with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Archduke Franz Ferdinand of Austria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Archduke Franz Ferdinand of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Archduke_Franz_Ferdinand_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

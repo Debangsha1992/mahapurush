@@ -1,0 +1,48 @@
+{
+  "id": "mikhail-gorbachev",
+  "slug": "mikhail-gorbachev",
+  "name": "Mikhail Gorbachev",
+  "shortName": "Gorbachev",
+  "era": "1931-2022",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1931-2022",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mikhail Gorbachev is a notable politician associated with Russia.",
+  "knownFor": [
+    "Politician",
+    "156 language biography editions",
+    "Historical Popularity Index 87.6"
+  ],
+  "featured": true,
+  "featuredRank": 236,
+  "imageAlt": "Portrait-style visual for Mikhail Gorbachev",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mikhail Gorbachev",
+      "url": "https://pantheon.world/profile/person/Mikhail_Gorbachev",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mikhail-gorbachev-pantheon-profile",
+      "text": "Pantheon ranks Mikhail Gorbachev as a globally documented politician with biographies in 156 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mikhail Gorbachev a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mikhail Gorbachev",
+      "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Gorbachev",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

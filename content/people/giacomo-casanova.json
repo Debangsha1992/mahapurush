@@ -1,0 +1,47 @@
+{
+  "id": "giacomo-casanova",
+  "slug": "giacomo-casanova",
+  "name": "Giacomo Casanova",
+  "shortName": "Casanova",
+  "era": "1725-1798",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1725-1798",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Giacomo Casanova is a notable writer associated with Italy.",
+  "knownFor": [
+    "Writer",
+    "76 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Giacomo Casanova",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Giacomo Casanova",
+      "url": "https://pantheon.world/profile/person/Giacomo_Casanova",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "giacomo-casanova-pantheon-profile",
+      "text": "Pantheon ranks Giacomo Casanova as a globally documented writer with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Giacomo Casanova a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Giacomo Casanova",
+      "sourceUrl": "https://pantheon.world/profile/person/Giacomo_Casanova",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

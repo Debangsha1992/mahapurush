@@ -1,0 +1,48 @@
+{
+  "id": "carl-xvi-gustaf-of-sweden",
+  "slug": "carl-xvi-gustaf-of-sweden",
+  "name": "Carl XVI Gustaf of Sweden",
+  "shortName": "Sweden",
+  "era": "born 1946",
+  "region": "Sweden",
+  "regionId": "europe",
+  "lifespan": "born 1946",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Carl XVI Gustaf of Sweden is a notable politician associated with Sweden.",
+  "knownFor": [
+    "Politician",
+    "90 language biography editions",
+    "Historical Popularity Index 84.5"
+  ],
+  "featured": true,
+  "featuredRank": 487,
+  "imageAlt": "Portrait-style visual for Carl XVI Gustaf of Sweden",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Carl XVI Gustaf of Sweden",
+      "url": "https://pantheon.world/profile/person/Carl_XVI_Gustaf_of_Sweden",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "carl-xvi-gustaf-of-sweden-pantheon-profile",
+      "text": "Pantheon ranks Carl XVI Gustaf of Sweden as a globally documented politician with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Carl XVI Gustaf of Sweden a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Carl XVI Gustaf of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_XVI_Gustaf_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

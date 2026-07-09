@@ -1,0 +1,48 @@
+{
+  "id": "robert-schumann",
+  "slug": "robert-schumann",
+  "name": "Robert Schumann",
+  "shortName": "Schumann",
+  "era": "1810-1856",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1810-1856",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Robert Schumann is a notable composer associated with Germany.",
+  "knownFor": [
+    "Composer",
+    "102 language biography editions",
+    "Historical Popularity Index 84.5"
+  ],
+  "featured": true,
+  "featuredRank": 484,
+  "imageAlt": "Portrait-style visual for Robert Schumann",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Robert Schumann",
+      "url": "https://pantheon.world/profile/person/Robert_Schumann",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "robert-schumann-pantheon-profile",
+      "text": "Pantheon ranks Robert Schumann as a globally documented composer with biographies in 102 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Robert Schumann a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Robert Schumann",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Schumann",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

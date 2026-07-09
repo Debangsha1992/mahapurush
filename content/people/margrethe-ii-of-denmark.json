@@ -1,0 +1,48 @@
+{
+  "id": "margrethe-ii-of-denmark",
+  "slug": "margrethe-ii-of-denmark",
+  "name": "Margrethe II of Denmark",
+  "shortName": "Denmark",
+  "era": "born 1940",
+  "region": "Denmark",
+  "regionId": "europe",
+  "lifespan": "born 1940",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Margrethe II of Denmark is a notable nobleman associated with Denmark.",
+  "knownFor": [
+    "Nobleman",
+    "100 language biography editions",
+    "Historical Popularity Index 86.7"
+  ],
+  "featured": true,
+  "featuredRank": 298,
+  "imageAlt": "Portrait-style visual for Margrethe II of Denmark",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Margrethe II of Denmark",
+      "url": "https://pantheon.world/profile/person/Margrethe_II_of_Denmark",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "margrethe-ii-of-denmark-pantheon-profile",
+      "text": "Pantheon ranks Margrethe II of Denmark as a globally documented nobleman with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Margrethe II of Denmark a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Margrethe II of Denmark",
+      "sourceUrl": "https://pantheon.world/profile/person/Margrethe_II_of_Denmark",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

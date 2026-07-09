@@ -6,9 +6,15 @@
   "era": "1820-1910",
   "region": "United Kingdom",
   "lifespan": "1820-1910",
-  "domains": ["nursing", "public health", "statistics"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "Florence Nightingale helped professionalize nursing and used evidence to argue for public health reform.",
-  "knownFor": ["modern nursing", "Crimean War hospital reform", "statistical visualization"],
+  "knownFor": [
+    "modern nursing",
+    "Crimean War hospital reform",
+    "statistical visualization"
+  ],
   "facts": [
     {
       "id": "florence-nightingale-statistics",
@@ -17,8 +23,24 @@
       "sourceTitle": "Science Museum: Florence Nightingale",
       "sourceUrl": "https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale",
       "sourceAccessedAt": "2026-07-05",
-      "tags": ["health", "statistics"],
+      "tags": [
+        "health",
+        "statistics"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "europe",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "featuredRank": 11,
+  "imageAlt": "Portrait-style visual for Florence Nightingale",
+  "sourceRefs": [
+    {
+      "title": "Science Museum: Florence Nightingale",
+      "url": "https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

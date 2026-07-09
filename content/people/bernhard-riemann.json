@@ -1,0 +1,48 @@
+{
+  "id": "bernhard-riemann",
+  "slug": "bernhard-riemann",
+  "name": "Bernhard Riemann",
+  "shortName": "Riemann",
+  "era": "1826-1866",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1826-1866",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Bernhard Riemann is a notable mathematician associated with Germany.",
+  "knownFor": [
+    "Mathematician",
+    "101 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 411,
+  "imageAlt": "Portrait-style visual for Bernhard Riemann",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bernhard Riemann",
+      "url": "https://pantheon.world/profile/person/Bernhard_Riemann",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bernhard-riemann-pantheon-profile",
+      "text": "Pantheon ranks Bernhard Riemann as a globally documented mathematician with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bernhard Riemann a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bernhard Riemann",
+      "sourceUrl": "https://pantheon.world/profile/person/Bernhard_Riemann",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

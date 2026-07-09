@@ -1,0 +1,47 @@
+{
+  "id": "yasser-arafat",
+  "slug": "yasser-arafat",
+  "name": "Yasser Arafat",
+  "shortName": "Arafat",
+  "era": "1929-2004",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1929-2004",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Yasser Arafat is a notable politician associated with Egypt.",
+  "knownFor": [
+    "Politician",
+    "119 language biography editions",
+    "Historical Popularity Index 83.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Yasser Arafat",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Yasser Arafat",
+      "url": "https://pantheon.world/profile/person/Yasser_Arafat",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "yasser-arafat-pantheon-profile",
+      "text": "Pantheon ranks Yasser Arafat as a globally documented politician with biographies in 119 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Yasser Arafat a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Yasser Arafat",
+      "sourceUrl": "https://pantheon.world/profile/person/Yasser_Arafat",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

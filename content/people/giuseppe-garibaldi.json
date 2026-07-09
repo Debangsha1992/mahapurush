@@ -1,0 +1,48 @@
+{
+  "id": "giuseppe-garibaldi",
+  "slug": "giuseppe-garibaldi",
+  "name": "Giuseppe Garibaldi",
+  "shortName": "Garibaldi",
+  "era": "1807-1882",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1807-1882",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Giuseppe Garibaldi is a notable politician associated with France.",
+  "knownFor": [
+    "Politician",
+    "110 language biography editions",
+    "Historical Popularity Index 87.1"
+  ],
+  "featured": true,
+  "featuredRank": 270,
+  "imageAlt": "Portrait-style visual for Giuseppe Garibaldi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Giuseppe Garibaldi",
+      "url": "https://pantheon.world/profile/person/Giuseppe_Garibaldi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "giuseppe-garibaldi-pantheon-profile",
+      "text": "Pantheon ranks Giuseppe Garibaldi as a globally documented politician with biographies in 110 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Giuseppe Garibaldi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Giuseppe Garibaldi",
+      "sourceUrl": "https://pantheon.world/profile/person/Giuseppe_Garibaldi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

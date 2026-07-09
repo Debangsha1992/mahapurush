@@ -1,0 +1,47 @@
+{
+  "id": "jerome",
+  "slug": "jerome",
+  "name": "Jerome",
+  "shortName": "Jerome",
+  "era": "345-420",
+  "region": "Serbia",
+  "regionId": "global-diaspora",
+  "lifespan": "345-420",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Jerome is a notable religious figure associated with Serbia.",
+  "knownFor": [
+    "Religious Figure",
+    "86 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jerome",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jerome",
+      "url": "https://pantheon.world/profile/person/Jerome",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jerome-pantheon-profile",
+      "text": "Pantheon ranks Jerome as a globally documented religious figure with biographies in 86 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jerome a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jerome",
+      "sourceUrl": "https://pantheon.world/profile/person/Jerome",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

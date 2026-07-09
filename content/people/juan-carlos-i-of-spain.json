@@ -1,0 +1,48 @@
+{
+  "id": "juan-carlos-i-of-spain",
+  "slug": "juan-carlos-i-of-spain",
+  "name": "Juan Carlos I of Spain",
+  "shortName": "Spain",
+  "era": "born 1938",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "born 1938",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Juan Carlos I of Spain is a notable nobleman associated with Italy.",
+  "knownFor": [
+    "Nobleman",
+    "109 language biography editions",
+    "Historical Popularity Index 84.8"
+  ],
+  "featured": true,
+  "featuredRank": 452,
+  "imageAlt": "Portrait-style visual for Juan Carlos I of Spain",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Juan Carlos I of Spain",
+      "url": "https://pantheon.world/profile/person/Juan_Carlos_I_of_Spain",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "juan-carlos-i-of-spain-pantheon-profile",
+      "text": "Pantheon ranks Juan Carlos I of Spain as a globally documented nobleman with biographies in 109 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Juan Carlos I of Spain a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Juan Carlos I of Spain",
+      "sourceUrl": "https://pantheon.world/profile/person/Juan_Carlos_I_of_Spain",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

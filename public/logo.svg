@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">MindSpark logo</title>
+  <desc id="desc">A golden spark rising from an open book on a dark circular background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="96" y1="64" x2="416" y2="448" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#222230"/>
+      <stop offset="1" stop-color="#101014"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="168" y1="128" x2="360" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3D69A"/>
+      <stop offset="0.5" stop-color="#D99A2B"/>
+      <stop offset="1" stop-color="#A96616"/>
+    </linearGradient>
+    <filter id="glow" x="88" y="72" width="336" height="352" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.85 0 1 0 0 0.58 0 0 1 0 0.15 0 0 0 0.5 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="190" fill="#F3D69A" opacity="0.08"/>
+  <circle cx="256" cy="256" r="146" fill="#F3D69A" opacity="0.06"/>
+  <g filter="url(#glow)">
+    <path d="M256 108C277 151 307 178 347 190C307 203 277 230 256 273C235 230 205 203 165 190C205 178 235 151 256 108Z" fill="url(#gold)"/>
+    <path d="M256 130C269 157 288 174 314 182C288 190 269 207 256 234C243 207 224 190 198 182C224 174 243 157 256 130Z" fill="#F4EFE7" opacity="0.88"/>
+  </g>
+  <path d="M132 288C181 279 222 291 256 324V401C219 369 178 356 132 364V288Z" fill="#F4EFE7"/>
+  <path d="M380 288C331 279 290 291 256 324V401C293 369 334 356 380 364V288Z" fill="#F4EFE7"/>
+  <path d="M132 288C181 279 222 291 256 324V401C219 369 178 356 132 364V288Z" fill="url(#gold)" opacity="0.68"/>
+  <path d="M380 288C331 279 290 291 256 324V401C293 369 334 356 380 364V288Z" fill="url(#gold)" opacity="0.68"/>
+  <path d="M256 324V404" stroke="#101014" stroke-width="12" stroke-linecap="round"/>
+  <path d="M158 322C190 319 219 327 243 346" stroke="#101014" stroke-width="10" stroke-linecap="round" opacity="0.34"/>
+  <path d="M354 322C322 319 293 327 269 346" stroke="#101014" stroke-width="10" stroke-linecap="round" opacity="0.34"/>
+</svg>

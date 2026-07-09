@@ -1,0 +1,48 @@
+{
+  "id": "commodus",
+  "slug": "commodus",
+  "name": "Commodus",
+  "shortName": "Commodus",
+  "era": "161-192",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "161-192",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Commodus is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "79 language biography editions",
+    "Historical Popularity Index 89.8"
+  ],
+  "featured": true,
+  "featuredRank": 139,
+  "imageAlt": "Portrait-style visual for Commodus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Commodus",
+      "url": "https://pantheon.world/profile/person/Commodus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "commodus-pantheon-profile",
+      "text": "Pantheon ranks Commodus as a globally documented politician with biographies in 79 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Commodus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Commodus",
+      "sourceUrl": "https://pantheon.world/profile/person/Commodus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

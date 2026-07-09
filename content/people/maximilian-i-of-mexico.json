@@ -1,0 +1,47 @@
+{
+  "id": "maximilian-i-of-mexico",
+  "slug": "maximilian-i-of-mexico",
+  "name": "Maximilian I of Mexico",
+  "shortName": "Mexico",
+  "era": "1832-1867",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1832-1867",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Maximilian I of Mexico is a notable politician associated with Austria.",
+  "knownFor": [
+    "Politician",
+    "59 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Maximilian I of Mexico",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Maximilian I of Mexico",
+      "url": "https://pantheon.world/profile/person/Maximilian_I_of_Mexico",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "maximilian-i-of-mexico-pantheon-profile",
+      "text": "Pantheon ranks Maximilian I of Mexico as a globally documented politician with biographies in 59 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Maximilian I of Mexico a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Maximilian I of Mexico",
+      "sourceUrl": "https://pantheon.world/profile/person/Maximilian_I_of_Mexico",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

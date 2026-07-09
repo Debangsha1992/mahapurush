@@ -1,0 +1,47 @@
+{
+  "id": "maximilian-ii-holy-roman-emperor",
+  "slug": "maximilian-ii-holy-roman-emperor",
+  "name": "Maximilian II, Holy Roman Emperor",
+  "shortName": "Emperor",
+  "era": "1527-1576",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1527-1576",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Maximilian II, Holy Roman Emperor is a notable politician associated with Austria.",
+  "knownFor": [
+    "Politician",
+    "63 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Maximilian II, Holy Roman Emperor",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Maximilian II, Holy Roman Emperor",
+      "url": "https://pantheon.world/profile/person/Maximilian_II%2C_Holy_Roman_Emperor",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "maximilian-ii-holy-roman-emperor-pantheon-profile",
+      "text": "Pantheon ranks Maximilian II, Holy Roman Emperor as a globally documented politician with biographies in 63 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Maximilian II, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Maximilian II, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Maximilian_II%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

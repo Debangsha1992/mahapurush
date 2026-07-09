@@ -1,0 +1,47 @@
+{
+  "id": "george-marshall",
+  "slug": "george-marshall",
+  "name": "George Marshall",
+  "shortName": "Marshall",
+  "era": "1880-1959",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1880-1959",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "George Marshall is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "80 language biography editions",
+    "Historical Popularity Index 84.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for George Marshall",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: George Marshall",
+      "url": "https://pantheon.world/profile/person/George_Marshall",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "george-marshall-pantheon-profile",
+      "text": "Pantheon ranks George Marshall as a globally documented politician with biographies in 80 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make George Marshall a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: George Marshall",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Marshall",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

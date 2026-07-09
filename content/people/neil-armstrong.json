@@ -1,0 +1,48 @@
+{
+  "id": "neil-armstrong",
+  "slug": "neil-armstrong",
+  "name": "Neil Armstrong",
+  "shortName": "Armstrong",
+  "era": "1930-2012",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1930-2012",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "astronaut"
+  ],
+  "summary": "Neil Armstrong is a notable astronaut associated with United States.",
+  "knownFor": [
+    "Astronaut",
+    "170 language biography editions",
+    "Historical Popularity Index 86.0"
+  ],
+  "featured": true,
+  "featuredRank": 351,
+  "imageAlt": "Portrait-style visual for Neil Armstrong",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Neil Armstrong",
+      "url": "https://pantheon.world/profile/person/Neil_Armstrong",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "neil-armstrong-pantheon-profile",
+      "text": "Pantheon ranks Neil Armstrong as a globally documented astronaut with biographies in 170 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Neil Armstrong a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Neil Armstrong",
+      "sourceUrl": "https://pantheon.world/profile/person/Neil_Armstrong",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

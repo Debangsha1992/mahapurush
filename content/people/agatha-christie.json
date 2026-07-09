@@ -1,0 +1,48 @@
+{
+  "id": "agatha-christie",
+  "slug": "agatha-christie",
+  "name": "Agatha Christie",
+  "shortName": "Christie",
+  "era": "1890-1976",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1890-1976",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Agatha Christie is a notable writer associated with United Kingdom.",
+  "knownFor": [
+    "Writer",
+    "141 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 363,
+  "imageAlt": "Portrait-style visual for Agatha Christie",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Agatha Christie",
+      "url": "https://pantheon.world/profile/person/Agatha_Christie",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "agatha-christie-pantheon-profile",
+      "text": "Pantheon ranks Agatha Christie as a globally documented writer with biographies in 141 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Agatha Christie a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Agatha Christie",
+      "sourceUrl": "https://pantheon.world/profile/person/Agatha_Christie",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "david-lynch",
+  "slug": "david-lynch",
+  "name": "David Lynch",
+  "shortName": "Lynch",
+  "era": "1946-2025",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1946-2025",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "film-director"
+  ],
+  "summary": "David Lynch is a notable film director associated with United States.",
+  "knownFor": [
+    "Film Director",
+    "85 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for David Lynch",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: David Lynch",
+      "url": "https://pantheon.world/profile/person/David_Lynch",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "david-lynch-pantheon-profile",
+      "text": "Pantheon ranks David Lynch as a globally documented film director with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make David Lynch a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: David Lynch",
+      "sourceUrl": "https://pantheon.world/profile/person/David_Lynch",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

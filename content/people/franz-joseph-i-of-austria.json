@@ -1,0 +1,48 @@
+{
+  "id": "franz-joseph-i-of-austria",
+  "slug": "franz-joseph-i-of-austria",
+  "name": "Franz Joseph I of Austria",
+  "shortName": "Austria",
+  "era": "1830-1916",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1830-1916",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Franz Joseph I of Austria is a notable politician associated with Austria.",
+  "knownFor": [
+    "Politician",
+    "84 language biography editions",
+    "Historical Popularity Index 90.7"
+  ],
+  "featured": true,
+  "featuredRank": 112,
+  "imageAlt": "Portrait-style visual for Franz Joseph I of Austria",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Franz Joseph I of Austria",
+      "url": "https://pantheon.world/profile/person/Franz_Joseph_I_of_Austria",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "franz-joseph-i-of-austria-pantheon-profile",
+      "text": "Pantheon ranks Franz Joseph I of Austria as a globally documented politician with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Franz Joseph I of Austria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Franz Joseph I of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Joseph_I_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

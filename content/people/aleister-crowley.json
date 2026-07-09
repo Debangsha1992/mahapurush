@@ -1,0 +1,47 @@
+{
+  "id": "aleister-crowley",
+  "slug": "aleister-crowley",
+  "name": "Aleister Crowley",
+  "shortName": "Crowley",
+  "era": "1875-1947",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1875-1947",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "occultist"
+  ],
+  "summary": "Aleister Crowley is a notable occultist associated with United Kingdom.",
+  "knownFor": [
+    "Occultist",
+    "58 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Aleister Crowley",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Aleister Crowley",
+      "url": "https://pantheon.world/profile/person/Aleister_Crowley",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "aleister-crowley-pantheon-profile",
+      "text": "Pantheon ranks Aleister Crowley as a globally documented occultist with biographies in 58 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Aleister Crowley a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Aleister Crowley",
+      "sourceUrl": "https://pantheon.world/profile/person/Aleister_Crowley",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

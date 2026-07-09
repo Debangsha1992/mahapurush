@@ -1,0 +1,47 @@
+{
+  "id": "edward-the-black-prince",
+  "slug": "edward-the-black-prince",
+  "name": "Edward the Black Prince",
+  "shortName": "Prince",
+  "era": "1330-1376",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1330-1376",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Edward the Black Prince is a notable nobleman associated with United Kingdom.",
+  "knownFor": [
+    "Nobleman",
+    "60 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Edward the Black Prince",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edward the Black Prince",
+      "url": "https://pantheon.world/profile/person/Edward_the_Black_Prince",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edward-the-black-prince-pantheon-profile",
+      "text": "Pantheon ranks Edward the Black Prince as a globally documented nobleman with biographies in 60 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward the Black Prince a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edward the Black Prince",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Black_Prince",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

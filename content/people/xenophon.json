@@ -1,0 +1,47 @@
+{
+  "id": "xenophon",
+  "slug": "xenophon",
+  "name": "Xenophon",
+  "shortName": "Xenophon",
+  "era": "-430--354",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-430--354",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "historian"
+  ],
+  "summary": "Xenophon is a notable historian associated with Greece.",
+  "knownFor": [
+    "Historian",
+    "90 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Xenophon",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Xenophon",
+      "url": "https://pantheon.world/profile/person/Xenophon",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "xenophon-pantheon-profile",
+      "text": "Pantheon ranks Xenophon as a globally documented historian with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Xenophon a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Xenophon",
+      "sourceUrl": "https://pantheon.world/profile/person/Xenophon",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

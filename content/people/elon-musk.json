@@ -1,0 +1,48 @@
+{
+  "id": "elon-musk",
+  "slug": "elon-musk",
+  "name": "Elon Musk",
+  "shortName": "Musk",
+  "era": "born 1971",
+  "region": "South Africa",
+  "regionId": "africa",
+  "lifespan": "born 1971",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "inventor"
+  ],
+  "summary": "Elon Musk is a notable inventor associated with South Africa.",
+  "knownFor": [
+    "Inventor",
+    "153 language biography editions",
+    "Historical Popularity Index 86.8"
+  ],
+  "featured": true,
+  "featuredRank": 291,
+  "imageAlt": "Portrait-style visual for Elon Musk",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Elon Musk",
+      "url": "https://pantheon.world/profile/person/Elon_Musk",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "elon-musk-pantheon-profile",
+      "text": "Pantheon ranks Elon Musk as a globally documented inventor with biographies in 153 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Elon Musk a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Elon Musk",
+      "sourceUrl": "https://pantheon.world/profile/person/Elon_Musk",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

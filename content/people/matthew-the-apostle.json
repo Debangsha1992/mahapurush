@@ -1,0 +1,48 @@
+{
+  "id": "matthew-the-apostle",
+  "slug": "matthew-the-apostle",
+  "name": "Matthew the Apostle",
+  "shortName": "Apostle",
+  "era": "10-74",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "10-74",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Matthew the Apostle is a notable religious figure associated with Israel.",
+  "knownFor": [
+    "Religious Figure",
+    "90 language biography editions",
+    "Historical Popularity Index 88.3"
+  ],
+  "featured": true,
+  "featuredRank": 203,
+  "imageAlt": "Portrait-style visual for Matthew the Apostle",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Matthew the Apostle",
+      "url": "https://pantheon.world/profile/person/Matthew_the_Apostle",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "matthew-the-apostle-pantheon-profile",
+      "text": "Pantheon ranks Matthew the Apostle as a globally documented religious figure with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Matthew the Apostle a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Matthew the Apostle",
+      "sourceUrl": "https://pantheon.world/profile/person/Matthew_the_Apostle",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

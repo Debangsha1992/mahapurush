@@ -1,0 +1,48 @@
+{
+  "id": "solon",
+  "slug": "solon",
+  "name": "Solon",
+  "shortName": "Solon",
+  "era": "-638--558",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-638--558",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Solon is a notable politician associated with Greece.",
+  "knownFor": [
+    "Politician",
+    "78 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 312,
+  "imageAlt": "Portrait-style visual for Solon",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Solon",
+      "url": "https://pantheon.world/profile/person/Solon",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "solon-pantheon-profile",
+      "text": "Pantheon ranks Solon as a globally documented politician with biographies in 78 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Solon a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Solon",
+      "sourceUrl": "https://pantheon.world/profile/person/Solon",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "mark-twain",
+  "slug": "mark-twain",
+  "name": "Mark Twain",
+  "shortName": "Twain",
+  "era": "1835-1910",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1835-1910",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Mark Twain is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "157 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mark Twain",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mark Twain",
+      "url": "https://pantheon.world/profile/person/Mark_Twain",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mark-twain-pantheon-profile",
+      "text": "Pantheon ranks Mark Twain as a globally documented writer with biographies in 157 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mark Twain a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mark Twain",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_Twain",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "eratosthenes",
+  "slug": "eratosthenes",
+  "name": "Eratosthenes",
+  "shortName": "Eratosthenes",
+  "era": "-276--194",
+  "region": "Libya",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-276--194",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "geographer"
+  ],
+  "summary": "Eratosthenes is a notable geographer associated with Libya.",
+  "knownFor": [
+    "Geographer",
+    "101 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 364,
+  "imageAlt": "Portrait-style visual for Eratosthenes",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Eratosthenes",
+      "url": "https://pantheon.world/profile/person/Eratosthenes",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "eratosthenes-pantheon-profile",
+      "text": "Pantheon ranks Eratosthenes as a globally documented geographer with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Eratosthenes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Eratosthenes",
+      "sourceUrl": "https://pantheon.world/profile/person/Eratosthenes",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

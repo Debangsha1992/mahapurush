@@ -1,0 +1,48 @@
+{
+  "id": "genghis-khan",
+  "slug": "genghis-khan",
+  "name": "Genghis Khan",
+  "shortName": "Khan",
+  "era": "1162-1227",
+  "region": "Mongolia",
+  "regionId": "east-asia",
+  "lifespan": "1162-1227",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Genghis Khan is a notable military personnel associated with Mongolia.",
+  "knownFor": [
+    "Military Personnel",
+    "176 language biography editions",
+    "Historical Popularity Index 98.4"
+  ],
+  "featured": true,
+  "featuredRank": 34,
+  "imageAlt": "Portrait-style visual for Genghis Khan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Genghis Khan",
+      "url": "https://pantheon.world/profile/person/Genghis_Khan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "genghis-khan-pantheon-profile",
+      "text": "Pantheon ranks Genghis Khan as a globally documented military personnel with biographies in 176 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Genghis Khan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Genghis Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/Genghis_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

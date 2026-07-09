@@ -1,0 +1,47 @@
+{
+  "id": "d-h-lawrence",
+  "slug": "d-h-lawrence",
+  "name": "D. H. Lawrence",
+  "shortName": "Lawrence",
+  "era": "1885-1930",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1885-1930",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "D. H. Lawrence is a notable writer associated with United Kingdom.",
+  "knownFor": [
+    "Writer",
+    "76 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for D. H. Lawrence",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: D. H. Lawrence",
+      "url": "https://pantheon.world/profile/person/D._H._Lawrence",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "d-h-lawrence-pantheon-profile",
+      "text": "Pantheon ranks D. H. Lawrence as a globally documented writer with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make D. H. Lawrence a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: D. H. Lawrence",
+      "sourceUrl": "https://pantheon.world/profile/person/D._H._Lawrence",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

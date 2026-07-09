@@ -1,0 +1,47 @@
+{
+  "id": "joanna-of-castile",
+  "slug": "joanna-of-castile",
+  "name": "Joanna of Castile",
+  "shortName": "Castile",
+  "era": "1479-1555",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1479-1555",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Joanna of Castile is a notable politician associated with Spain.",
+  "knownFor": [
+    "Politician",
+    "68 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Joanna of Castile",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Joanna of Castile",
+      "url": "https://pantheon.world/profile/person/Joanna_of_Castile",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "joanna-of-castile-pantheon-profile",
+      "text": "Pantheon ranks Joanna of Castile as a globally documented politician with biographies in 68 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Joanna of Castile a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Joanna of Castile",
+      "sourceUrl": "https://pantheon.world/profile/person/Joanna_of_Castile",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

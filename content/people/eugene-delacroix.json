@@ -1,0 +1,47 @@
+{
+  "id": "eugene-delacroix",
+  "slug": "eugene-delacroix",
+  "name": "Eugène Delacroix",
+  "shortName": "Delacroix",
+  "era": "1798-1863",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1798-1863",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Eugène Delacroix is a notable painter associated with France.",
+  "knownFor": [
+    "Painter",
+    "93 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Eugène Delacroix",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Eugène Delacroix",
+      "url": "https://pantheon.world/profile/person/Eug%C3%A8ne_Delacroix",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "eugene-delacroix-pantheon-profile",
+      "text": "Pantheon ranks Eugène Delacroix as a globally documented painter with biographies in 93 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Eugène Delacroix a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Eugène Delacroix",
+      "sourceUrl": "https://pantheon.world/profile/person/Eug%C3%A8ne_Delacroix",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

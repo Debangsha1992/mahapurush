@@ -12,6 +12,7 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "content:validate": "tsx scripts/validate-content.ts",
+    "content:generate-people-library": "tsx scripts/generate-people-library.ts",
     "content:generate-images": "tsx scripts/generate-thinker-images.ts desktop",
     "content:generate-images:mobile": "tsx scripts/generate-thinker-images.ts mobile",
     "content:optimize-images": "tsx scripts/optimize-gallery-images.ts",

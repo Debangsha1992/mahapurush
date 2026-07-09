@@ -1,0 +1,48 @@
+{
+  "id": "hafez-al-assad",
+  "slug": "hafez-al-assad",
+  "name": "Hafez al-Assad",
+  "shortName": "al-Assad",
+  "era": "1930-2000",
+  "region": "Syria",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1930-2000",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Hafez al-Assad is a notable politician associated with Syria.",
+  "knownFor": [
+    "Politician",
+    "85 language biography editions",
+    "Historical Popularity Index 87.2"
+  ],
+  "featured": true,
+  "featuredRank": 265,
+  "imageAlt": "Portrait-style visual for Hafez al-Assad",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hafez al-Assad",
+      "url": "https://pantheon.world/profile/person/Hafez_al-Assad",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hafez-al-assad-pantheon-profile",
+      "text": "Pantheon ranks Hafez al-Assad as a globally documented politician with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hafez al-Assad a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hafez al-Assad",
+      "sourceUrl": "https://pantheon.world/profile/person/Hafez_al-Assad",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

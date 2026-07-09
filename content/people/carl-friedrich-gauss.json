@@ -1,0 +1,48 @@
+{
+  "id": "carl-friedrich-gauss",
+  "slug": "carl-friedrich-gauss",
+  "name": "Carl Friedrich Gauss",
+  "shortName": "Gauss",
+  "era": "1777-1855",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1777-1855",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Carl Friedrich Gauss is a notable mathematician associated with Germany.",
+  "knownFor": [
+    "Mathematician",
+    "160 language biography editions",
+    "Historical Popularity Index 91.4"
+  ],
+  "featured": true,
+  "featuredRank": 92,
+  "imageAlt": "Portrait-style visual for Carl Friedrich Gauss",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Carl Friedrich Gauss",
+      "url": "https://pantheon.world/profile/person/Carl_Friedrich_Gauss",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "carl-friedrich-gauss-pantheon-profile",
+      "text": "Pantheon ranks Carl Friedrich Gauss as a globally documented mathematician with biographies in 160 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Carl Friedrich Gauss a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Carl Friedrich Gauss",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Friedrich_Gauss",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

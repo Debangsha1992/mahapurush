@@ -1,0 +1,47 @@
+{
+  "id": "warren-buffett",
+  "slug": "warren-buffett",
+  "name": "Warren Buffett",
+  "shortName": "Buffett",
+  "era": "born 1930",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1930",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "businessperson"
+  ],
+  "summary": "Warren Buffett is a notable businessperson associated with United States.",
+  "knownFor": [
+    "Businessperson",
+    "102 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Warren Buffett",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Warren Buffett",
+      "url": "https://pantheon.world/profile/person/Warren_Buffett",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "warren-buffett-pantheon-profile",
+      "text": "Pantheon ranks Warren Buffett as a globally documented businessperson with biographies in 102 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Warren Buffett a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Warren Buffett",
+      "sourceUrl": "https://pantheon.world/profile/person/Warren_Buffett",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

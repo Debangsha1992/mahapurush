@@ -1,0 +1,48 @@
+{
+  "id": "selim-ii",
+  "slug": "selim-ii",
+  "name": "Selim II",
+  "shortName": "II",
+  "era": "1524-1574",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1524-1574",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Selim II is a notable politician associated with Türkiye.",
+  "knownFor": [
+    "Politician",
+    "75 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 362,
+  "imageAlt": "Portrait-style visual for Selim II",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Selim II",
+      "url": "https://pantheon.world/profile/person/Selim_II",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "selim-ii-pantheon-profile",
+      "text": "Pantheon ranks Selim II as a globally documented politician with biographies in 75 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Selim II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Selim II",
+      "sourceUrl": "https://pantheon.world/profile/person/Selim_II",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

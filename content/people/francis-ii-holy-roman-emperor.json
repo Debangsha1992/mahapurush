@@ -1,0 +1,48 @@
+{
+  "id": "francis-ii-holy-roman-emperor",
+  "slug": "francis-ii-holy-roman-emperor",
+  "name": "Francis II, Holy Roman Emperor",
+  "shortName": "Emperor",
+  "era": "1768-1835",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1768-1835",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Francis II, Holy Roman Emperor is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "78 language biography editions",
+    "Historical Popularity Index 87.0"
+  ],
+  "featured": true,
+  "featuredRank": 272,
+  "imageAlt": "Portrait-style visual for Francis II, Holy Roman Emperor",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Francis II, Holy Roman Emperor",
+      "url": "https://pantheon.world/profile/person/Francis_II%2C_Holy_Roman_Emperor",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "francis-ii-holy-roman-emperor-pantheon-profile",
+      "text": "Pantheon ranks Francis II, Holy Roman Emperor as a globally documented politician with biographies in 78 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Francis II, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Francis II, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Francis_II%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

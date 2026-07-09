@@ -1,0 +1,48 @@
+{
+  "id": "sigismund-holy-roman-emperor",
+  "slug": "sigismund-holy-roman-emperor",
+  "name": "Sigismund, Holy Roman Emperor",
+  "shortName": "Emperor",
+  "era": "1368-1437",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1368-1437",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Sigismund, Holy Roman Emperor is a notable politician associated with Germany.",
+  "knownFor": [
+    "Politician",
+    "66 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 416,
+  "imageAlt": "Portrait-style visual for Sigismund, Holy Roman Emperor",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Sigismund, Holy Roman Emperor",
+      "url": "https://pantheon.world/profile/person/Sigismund%2C_Holy_Roman_Emperor",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "sigismund-holy-roman-emperor-pantheon-profile",
+      "text": "Pantheon ranks Sigismund, Holy Roman Emperor as a globally documented politician with biographies in 66 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Sigismund, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Sigismund, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Sigismund%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

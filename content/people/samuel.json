@@ -1,0 +1,47 @@
+{
+  "id": "samuel",
+  "slug": "samuel",
+  "name": "Samuel",
+  "shortName": "Samuel",
+  "era": "-1100--1010",
+  "region": "Global",
+  "regionId": "global-diaspora",
+  "lifespan": "-1100--1010",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Samuel is a notable religious figure associated with Global.",
+  "knownFor": [
+    "Religious Figure",
+    "63 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Samuel",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Samuel",
+      "url": "https://pantheon.world/profile/person/Samuel",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "samuel-pantheon-profile",
+      "text": "Pantheon ranks Samuel as a globally documented religious figure with biographies in 63 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Samuel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Samuel",
+      "sourceUrl": "https://pantheon.world/profile/person/Samuel",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

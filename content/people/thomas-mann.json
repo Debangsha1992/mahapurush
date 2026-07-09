@@ -1,0 +1,47 @@
+{
+  "id": "thomas-mann",
+  "slug": "thomas-mann",
+  "name": "Thomas Mann",
+  "shortName": "Mann",
+  "era": "1875-1955",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1875-1955",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Thomas Mann is a notable writer associated with Germany.",
+  "knownFor": [
+    "Writer",
+    "119 language biography editions",
+    "Historical Popularity Index 83.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Thomas Mann",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Thomas Mann",
+      "url": "https://pantheon.world/profile/person/Thomas_Mann",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "thomas-mann-pantheon-profile",
+      "text": "Pantheon ranks Thomas Mann as a globally documented writer with biographies in 119 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Thomas Mann a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Thomas Mann",
+      "sourceUrl": "https://pantheon.world/profile/person/Thomas_Mann",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

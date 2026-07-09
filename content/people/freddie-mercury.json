@@ -1,0 +1,48 @@
+{
+  "id": "freddie-mercury",
+  "slug": "freddie-mercury",
+  "name": "Freddie Mercury",
+  "shortName": "Mercury",
+  "era": "1946-1991",
+  "region": "Tanzania",
+  "regionId": "africa",
+  "lifespan": "1946-1991",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "musician"
+  ],
+  "summary": "Freddie Mercury is a notable musician associated with Tanzania.",
+  "knownFor": [
+    "Musician",
+    "147 language biography editions",
+    "Historical Popularity Index 87.0"
+  ],
+  "featured": true,
+  "featuredRank": 274,
+  "imageAlt": "Portrait-style visual for Freddie Mercury",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Freddie Mercury",
+      "url": "https://pantheon.world/profile/person/Freddie_Mercury",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "freddie-mercury-pantheon-profile",
+      "text": "Pantheon ranks Freddie Mercury as a globally documented musician with biographies in 147 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Freddie Mercury a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Freddie Mercury",
+      "sourceUrl": "https://pantheon.world/profile/person/Freddie_Mercury",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

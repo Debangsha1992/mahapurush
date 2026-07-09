@@ -1,0 +1,48 @@
+{
+  "id": "kublai-khan",
+  "slug": "kublai-khan",
+  "name": "Kublai Khan",
+  "shortName": "Khan",
+  "era": "1215-1294",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "1215-1294",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Kublai Khan is a notable politician associated with China.",
+  "knownFor": [
+    "Politician",
+    "101 language biography editions",
+    "Historical Popularity Index 91.2"
+  ],
+  "featured": true,
+  "featuredRank": 97,
+  "imageAlt": "Portrait-style visual for Kublai Khan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Kublai Khan",
+      "url": "https://pantheon.world/profile/person/Kublai_Khan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "kublai-khan-pantheon-profile",
+      "text": "Pantheon ranks Kublai Khan as a globally documented politician with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Kublai Khan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Kublai Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/Kublai_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

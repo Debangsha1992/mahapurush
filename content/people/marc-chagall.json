@@ -1,0 +1,47 @@
+{
+  "id": "marc-chagall",
+  "slug": "marc-chagall",
+  "name": "Marc Chagall",
+  "shortName": "Chagall",
+  "era": "1887-1985",
+  "region": "Belarus",
+  "regionId": "global-diaspora",
+  "lifespan": "1887-1985",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Marc Chagall is a notable painter associated with Belarus.",
+  "knownFor": [
+    "Painter",
+    "84 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Marc Chagall",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Marc Chagall",
+      "url": "https://pantheon.world/profile/person/Marc_Chagall",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "marc-chagall-pantheon-profile",
+      "text": "Pantheon ranks Marc Chagall as a globally documented painter with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Marc Chagall a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Marc Chagall",
+      "sourceUrl": "https://pantheon.world/profile/person/Marc_Chagall",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "edvard-munch",
+  "slug": "edvard-munch",
+  "name": "Edvard Munch",
+  "shortName": "Munch",
+  "era": "1863-1944",
+  "region": "Norway",
+  "regionId": "europe",
+  "lifespan": "1863-1944",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Edvard Munch is a notable painter associated with Norway.",
+  "knownFor": [
+    "Painter",
+    "102 language biography editions",
+    "Historical Popularity Index 87.2"
+  ],
+  "featured": true,
+  "featuredRank": 267,
+  "imageAlt": "Portrait-style visual for Edvard Munch",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edvard Munch",
+      "url": "https://pantheon.world/profile/person/Edvard_Munch",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edvard-munch-pantheon-profile",
+      "text": "Pantheon ranks Edvard Munch as a globally documented painter with biographies in 102 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edvard Munch a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edvard Munch",
+      "sourceUrl": "https://pantheon.world/profile/person/Edvard_Munch",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

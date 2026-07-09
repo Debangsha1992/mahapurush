@@ -1,0 +1,48 @@
+{
+  "id": "virgil",
+  "slug": "virgil",
+  "name": "Virgil",
+  "shortName": "Virgil",
+  "era": "-70--19",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-70--19",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Virgil is a notable writer associated with Italy.",
+  "knownFor": [
+    "Writer",
+    "172 language biography editions",
+    "Historical Popularity Index 88.0"
+  ],
+  "featured": true,
+  "featuredRank": 215,
+  "imageAlt": "Portrait-style visual for Virgil",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Virgil",
+      "url": "https://pantheon.world/profile/person/Virgil",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "virgil-pantheon-profile",
+      "text": "Pantheon ranks Virgil as a globally documented writer with biographies in 172 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Virgil a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Virgil",
+      "sourceUrl": "https://pantheon.world/profile/person/Virgil",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

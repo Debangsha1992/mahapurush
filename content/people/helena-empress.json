@@ -1,0 +1,48 @@
+{
+  "id": "helena-empress",
+  "slug": "helena-empress",
+  "name": "Helena",
+  "shortName": "Helena",
+  "era": "250-330",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "250-330",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Helena is a notable companion associated with Türkiye.",
+  "knownFor": [
+    "Companion",
+    "67 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 371,
+  "imageAlt": "Portrait-style visual for Helena",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Helena",
+      "url": "https://pantheon.world/profile/person/Helena_(empress)",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "helena-empress-pantheon-profile",
+      "text": "Pantheon ranks Helena as a globally documented companion with biographies in 67 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Helena a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Helena",
+      "sourceUrl": "https://pantheon.world/profile/person/Helena_(empress)",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

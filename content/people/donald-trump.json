@@ -1,0 +1,48 @@
+{
+  "id": "donald-trump",
+  "slug": "donald-trump",
+  "name": "Donald Trump",
+  "shortName": "Trump",
+  "era": "born 1946",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1946",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Donald Trump is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "253 language biography editions",
+    "Historical Popularity Index 99.3"
+  ],
+  "featured": true,
+  "featuredRank": 33,
+  "imageAlt": "Portrait-style visual for Donald Trump",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Donald Trump",
+      "url": "https://pantheon.world/profile/person/Donald_Trump",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "donald-trump-pantheon-profile",
+      "text": "Pantheon ranks Donald Trump as a globally documented politician with biographies in 253 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Donald Trump a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Donald Trump",
+      "sourceUrl": "https://pantheon.world/profile/person/Donald_Trump",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

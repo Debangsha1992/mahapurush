@@ -1,0 +1,48 @@
+{
+  "id": "anne-boleyn",
+  "slug": "anne-boleyn",
+  "name": "Anne Boleyn",
+  "shortName": "Boleyn",
+  "era": "1501-1536",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1501-1536",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Anne Boleyn is a notable companion associated with United Kingdom.",
+  "knownFor": [
+    "Companion",
+    "90 language biography editions",
+    "Historical Popularity Index 86.4"
+  ],
+  "featured": true,
+  "featuredRank": 324,
+  "imageAlt": "Portrait-style visual for Anne Boleyn",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Anne Boleyn",
+      "url": "https://pantheon.world/profile/person/Anne_Boleyn",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "anne-boleyn-pantheon-profile",
+      "text": "Pantheon ranks Anne Boleyn as a globally documented companion with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Anne Boleyn a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Anne Boleyn",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne_Boleyn",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

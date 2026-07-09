@@ -1,0 +1,47 @@
+{
+  "id": "ayn-rand",
+  "slug": "ayn-rand",
+  "name": "Ayn Rand",
+  "shortName": "Rand",
+  "era": "1905-1982",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1905-1982",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Ayn Rand is a notable writer associated with Russia.",
+  "knownFor": [
+    "Writer",
+    "86 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ayn Rand",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ayn Rand",
+      "url": "https://pantheon.world/profile/person/Ayn_Rand",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ayn-rand-pantheon-profile",
+      "text": "Pantheon ranks Ayn Rand as a globally documented writer with biographies in 86 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ayn Rand a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ayn Rand",
+      "sourceUrl": "https://pantheon.world/profile/person/Ayn_Rand",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

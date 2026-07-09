@@ -1,0 +1,48 @@
+{
+  "id": "ibn-khaldun",
+  "slug": "ibn-khaldun",
+  "name": "Ibn Khaldun",
+  "shortName": "Khaldun",
+  "era": "1332-1406",
+  "region": "Tunisia",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1332-1406",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "historian"
+  ],
+  "summary": "Ibn Khaldun is a notable historian associated with Tunisia.",
+  "knownFor": [
+    "Historian",
+    "134 language biography editions",
+    "Historical Popularity Index 86.7"
+  ],
+  "featured": true,
+  "featuredRank": 294,
+  "imageAlt": "Portrait-style visual for Ibn Khaldun",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ibn Khaldun",
+      "url": "https://pantheon.world/profile/person/Ibn_Khaldun",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ibn-khaldun-pantheon-profile",
+      "text": "Pantheon ranks Ibn Khaldun as a globally documented historian with biographies in 134 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ibn Khaldun a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ibn Khaldun",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibn_Khaldun",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

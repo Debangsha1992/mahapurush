@@ -1,0 +1,47 @@
+{
+  "id": "henry-dunant",
+  "slug": "henry-dunant",
+  "name": "Henry Dunant",
+  "shortName": "Dunant",
+  "era": "1828-1910",
+  "region": "Switzerland",
+  "regionId": "europe",
+  "lifespan": "1828-1910",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "social-activist"
+  ],
+  "summary": "Henry Dunant is a notable social activist associated with Switzerland.",
+  "knownFor": [
+    "Social Activist",
+    "93 language biography editions",
+    "Historical Popularity Index 83.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Henry Dunant",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Henry Dunant",
+      "url": "https://pantheon.world/profile/person/Henry_Dunant",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "henry-dunant-pantheon-profile",
+      "text": "Pantheon ranks Henry Dunant as a globally documented social activist with biographies in 93 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Henry Dunant a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Henry Dunant",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_Dunant",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

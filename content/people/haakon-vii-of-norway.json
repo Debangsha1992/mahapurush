@@ -1,0 +1,47 @@
+{
+  "id": "haakon-vii-of-norway",
+  "slug": "haakon-vii-of-norway",
+  "name": "Haakon VII of Norway",
+  "shortName": "Norway",
+  "era": "1872-1957",
+  "region": "Denmark",
+  "regionId": "europe",
+  "lifespan": "1872-1957",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Haakon VII of Norway is a notable politician associated with Denmark.",
+  "knownFor": [
+    "Politician",
+    "66 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Haakon VII of Norway",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Haakon VII of Norway",
+      "url": "https://pantheon.world/profile/person/Haakon_VII_of_Norway",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "haakon-vii-of-norway-pantheon-profile",
+      "text": "Pantheon ranks Haakon VII of Norway as a globally documented politician with biographies in 66 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Haakon VII of Norway a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Haakon VII of Norway",
+      "sourceUrl": "https://pantheon.world/profile/person/Haakon_VII_of_Norway",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

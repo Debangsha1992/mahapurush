@@ -1,0 +1,48 @@
+{
+  "id": "pope-john-paul-i",
+  "slug": "pope-john-paul-i",
+  "name": "Pope John Paul I",
+  "shortName": "I",
+  "era": "1912-1978",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1912-1978",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope John Paul I is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "110 language biography editions",
+    "Historical Popularity Index 89.8"
+  ],
+  "featured": true,
+  "featuredRank": 138,
+  "imageAlt": "Portrait-style visual for Pope John Paul I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope John Paul I",
+      "url": "https://pantheon.world/profile/person/Pope_John_Paul_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-john-paul-i-pantheon-profile",
+      "text": "Pantheon ranks Pope John Paul I as a globally documented religious figure with biographies in 110 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope John Paul I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope John Paul I",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_John_Paul_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

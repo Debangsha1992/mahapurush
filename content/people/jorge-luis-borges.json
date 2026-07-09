@@ -1,0 +1,47 @@
+{
+  "id": "jorge-luis-borges",
+  "slug": "jorge-luis-borges",
+  "name": "Jorge Luis Borges",
+  "shortName": "Borges",
+  "era": "1899-1986",
+  "region": "Argentina",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1899-1986",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Jorge Luis Borges is a notable writer associated with Argentina.",
+  "knownFor": [
+    "Writer",
+    "144 language biography editions",
+    "Historical Popularity Index 83.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jorge Luis Borges",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jorge Luis Borges",
+      "url": "https://pantheon.world/profile/person/Jorge_Luis_Borges",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jorge-luis-borges-pantheon-profile",
+      "text": "Pantheon ranks Jorge Luis Borges as a globally documented writer with biographies in 144 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jorge Luis Borges a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jorge Luis Borges",
+      "sourceUrl": "https://pantheon.world/profile/person/Jorge_Luis_Borges",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

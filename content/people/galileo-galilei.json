@@ -1,0 +1,48 @@
+{
+  "id": "galileo-galilei",
+  "slug": "galileo-galilei",
+  "name": "Galileo Galilei",
+  "shortName": "Galilei",
+  "era": "1564-1642",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1564-1642",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "astronomer"
+  ],
+  "summary": "Galileo Galilei is a notable astronomer associated with Italy.",
+  "knownFor": [
+    "Astronomer",
+    "203 language biography editions",
+    "Historical Popularity Index 95.1"
+  ],
+  "featured": true,
+  "featuredRank": 50,
+  "imageAlt": "Portrait-style visual for Galileo Galilei",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Galileo Galilei",
+      "url": "https://pantheon.world/profile/person/Galileo_Galilei",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "galileo-galilei-pantheon-profile",
+      "text": "Pantheon ranks Galileo Galilei as a globally documented astronomer with biographies in 203 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Galileo Galilei a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Galileo Galilei",
+      "sourceUrl": "https://pantheon.world/profile/person/Galileo_Galilei",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

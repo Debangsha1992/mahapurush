@@ -1,0 +1,47 @@
+{
+  "id": "bhumibol-adulyadej",
+  "slug": "bhumibol-adulyadej",
+  "name": "Bhumibol Adulyadej",
+  "shortName": "Adulyadej",
+  "era": "1927-2016",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1927-2016",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Bhumibol Adulyadej is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "131 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Bhumibol Adulyadej",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bhumibol Adulyadej",
+      "url": "https://pantheon.world/profile/person/Bhumibol_Adulyadej",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bhumibol-adulyadej-pantheon-profile",
+      "text": "Pantheon ranks Bhumibol Adulyadej as a globally documented politician with biographies in 131 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bhumibol Adulyadej a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bhumibol Adulyadej",
+      "sourceUrl": "https://pantheon.world/profile/person/Bhumibol_Adulyadej",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "hieronymus-bosch",
+  "slug": "hieronymus-bosch",
+  "name": "Hieronymus Bosch",
+  "shortName": "Bosch",
+  "era": "1450-1516",
+  "region": "Netherlands",
+  "regionId": "europe",
+  "lifespan": "1450-1516",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Hieronymus Bosch is a notable painter associated with Netherlands.",
+  "knownFor": [
+    "Painter",
+    "85 language biography editions",
+    "Historical Popularity Index 83.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Hieronymus Bosch",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hieronymus Bosch",
+      "url": "https://pantheon.world/profile/person/Hieronymus_Bosch",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hieronymus-bosch-pantheon-profile",
+      "text": "Pantheon ranks Hieronymus Bosch as a globally documented painter with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hieronymus Bosch a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hieronymus Bosch",
+      "sourceUrl": "https://pantheon.world/profile/person/Hieronymus_Bosch",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

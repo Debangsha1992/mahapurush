@@ -1,0 +1,48 @@
+{
+  "id": "arthur-schopenhauer",
+  "slug": "arthur-schopenhauer",
+  "name": "Arthur Schopenhauer",
+  "shortName": "Schopenhauer",
+  "era": "1788-1860",
+  "region": "Poland",
+  "regionId": "europe",
+  "lifespan": "1788-1860",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Arthur Schopenhauer is a notable philosopher associated with Poland.",
+  "knownFor": [
+    "Philosopher",
+    "106 language biography editions",
+    "Historical Popularity Index 87.5"
+  ],
+  "featured": true,
+  "featuredRank": 245,
+  "imageAlt": "Portrait-style visual for Arthur Schopenhauer",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Arthur Schopenhauer",
+      "url": "https://pantheon.world/profile/person/Arthur_Schopenhauer",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "arthur-schopenhauer-pantheon-profile",
+      "text": "Pantheon ranks Arthur Schopenhauer as a globally documented philosopher with biographies in 106 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Arthur Schopenhauer a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Arthur Schopenhauer",
+      "sourceUrl": "https://pantheon.world/profile/person/Arthur_Schopenhauer",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

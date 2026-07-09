@@ -1,0 +1,48 @@
+{
+  "id": "marco-polo",
+  "slug": "marco-polo",
+  "name": "Marco Polo",
+  "shortName": "Polo",
+  "era": "1254-1324",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1254-1324",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "explorer"
+  ],
+  "summary": "Marco Polo is a notable explorer associated with Italy.",
+  "knownFor": [
+    "Explorer",
+    "180 language biography editions",
+    "Historical Popularity Index 96.2"
+  ],
+  "featured": true,
+  "featuredRank": 42,
+  "imageAlt": "Portrait-style visual for Marco Polo",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Marco Polo",
+      "url": "https://pantheon.world/profile/person/Marco_Polo",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "marco-polo-pantheon-profile",
+      "text": "Pantheon ranks Marco Polo as a globally documented explorer with biographies in 180 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Marco Polo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Marco Polo",
+      "sourceUrl": "https://pantheon.world/profile/person/Marco_Polo",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

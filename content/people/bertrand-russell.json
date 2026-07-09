@@ -1,0 +1,47 @@
+{
+  "id": "bertrand-russell",
+  "slug": "bertrand-russell",
+  "name": "Bertrand Russell",
+  "shortName": "Russell",
+  "era": "1872-1970",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1872-1970",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Bertrand Russell is a notable mathematician associated with United Kingdom.",
+  "knownFor": [
+    "Mathematician",
+    "125 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Bertrand Russell",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bertrand Russell",
+      "url": "https://pantheon.world/profile/person/Bertrand_Russell",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bertrand-russell-pantheon-profile",
+      "text": "Pantheon ranks Bertrand Russell as a globally documented mathematician with biographies in 125 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bertrand Russell a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bertrand Russell",
+      "sourceUrl": "https://pantheon.world/profile/person/Bertrand_Russell",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

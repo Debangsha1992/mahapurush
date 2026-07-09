@@ -1,0 +1,48 @@
+{
+  "id": "vladimir-lenin",
+  "slug": "vladimir-lenin",
+  "name": "Vladimir Lenin",
+  "shortName": "Lenin",
+  "era": "1870-1924",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1870-1924",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Vladimir Lenin is a notable politician associated with Russia.",
+  "knownFor": [
+    "Politician",
+    "209 language biography editions",
+    "Historical Popularity Index 91.5"
+  ],
+  "featured": true,
+  "featuredRank": 90,
+  "imageAlt": "Portrait-style visual for Vladimir Lenin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Vladimir Lenin",
+      "url": "https://pantheon.world/profile/person/Vladimir_Lenin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "vladimir-lenin-pantheon-profile",
+      "text": "Pantheon ranks Vladimir Lenin as a globally documented politician with biographies in 209 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Vladimir Lenin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Vladimir Lenin",
+      "sourceUrl": "https://pantheon.world/profile/person/Vladimir_Lenin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

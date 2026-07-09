@@ -1,0 +1,48 @@
+{
+  "id": "isaac-newton",
+  "slug": "isaac-newton",
+  "name": "Isaac Newton",
+  "shortName": "Newton",
+  "era": "1643-1726",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1643-1726",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Isaac Newton is a notable physicist associated with United Kingdom.",
+  "knownFor": [
+    "Physicist",
+    "235 language biography editions",
+    "Historical Popularity Index 99.4"
+  ],
+  "featured": true,
+  "featuredRank": 32,
+  "imageAlt": "Portrait-style visual for Isaac Newton",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Isaac Newton",
+      "url": "https://pantheon.world/profile/person/Isaac_Newton",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "isaac-newton-pantheon-profile",
+      "text": "Pantheon ranks Isaac Newton as a globally documented physicist with biographies in 235 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Isaac Newton a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Isaac Newton",
+      "sourceUrl": "https://pantheon.world/profile/person/Isaac_Newton",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

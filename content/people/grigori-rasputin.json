@@ -1,0 +1,48 @@
+{
+  "id": "grigori-rasputin",
+  "slug": "grigori-rasputin",
+  "name": "Grigori Rasputin",
+  "shortName": "Rasputin",
+  "era": "1869-1916",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1869-1916",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "occultist"
+  ],
+  "summary": "Grigori Rasputin is a notable occultist associated with Russia.",
+  "knownFor": [
+    "Occultist",
+    "93 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 424,
+  "imageAlt": "Portrait-style visual for Grigori Rasputin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Grigori Rasputin",
+      "url": "https://pantheon.world/profile/person/Grigori_Rasputin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "grigori-rasputin-pantheon-profile",
+      "text": "Pantheon ranks Grigori Rasputin as a globally documented occultist with biographies in 93 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Grigori Rasputin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Grigori Rasputin",
+      "sourceUrl": "https://pantheon.world/profile/person/Grigori_Rasputin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

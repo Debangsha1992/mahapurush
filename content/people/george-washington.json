@@ -1,0 +1,48 @@
+{
+  "id": "george-washington",
+  "slug": "george-washington",
+  "name": "George Washington",
+  "shortName": "Washington",
+  "era": "1732-1799",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1732-1799",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "George Washington is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "210 language biography editions",
+    "Historical Popularity Index 86.0"
+  ],
+  "featured": true,
+  "featuredRank": 343,
+  "imageAlt": "Portrait-style visual for George Washington",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: George Washington",
+      "url": "https://pantheon.world/profile/person/George_Washington",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "george-washington-pantheon-profile",
+      "text": "Pantheon ranks George Washington as a globally documented politician with biographies in 210 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make George Washington a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: George Washington",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Washington",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

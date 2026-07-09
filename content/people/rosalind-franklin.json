@@ -6,9 +6,15 @@
   "era": "1920-1958",
   "region": "United Kingdom",
   "lifespan": "1920-1958",
-  "domains": ["chemistry", "biology", "x-ray crystallography"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "Rosalind Franklin produced crucial experimental work that helped reveal the structure of DNA.",
-  "knownFor": ["DNA x-ray diffraction", "Photo 51", "molecular biology"],
+  "knownFor": [
+    "DNA x-ray diffraction",
+    "Photo 51",
+    "molecular biology"
+  ],
   "facts": [
     {
       "id": "rosalind-franklin-photo-51",
@@ -17,8 +23,24 @@
       "sourceTitle": "Nature Education: Rosalind Franklin and Photo 51",
       "sourceUrl": "https://www.nature.com/scitable/topicpage/rosalind-franklin-a-crucial-contribution-6538012/",
       "sourceAccessedAt": "2026-07-05",
-      "tags": ["science", "biology"],
+      "tags": [
+        "science",
+        "biology"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "europe",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "imageAlt": "Portrait-style visual for Rosalind Franklin",
+  "sourceRefs": [
+    {
+      "title": "Nature Education: Rosalind Franklin and Photo 51",
+      "url": "https://www.nature.com/scitable/topicpage/rosalind-franklin-a-crucial-contribution-6538012/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published",
+  "featuredRank": 24
 }

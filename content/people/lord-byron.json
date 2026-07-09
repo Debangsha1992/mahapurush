@@ -1,0 +1,47 @@
+{
+  "id": "lord-byron",
+  "slug": "lord-byron",
+  "name": "Lord Byron",
+  "shortName": "Byron",
+  "era": "1788-1824",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1788-1824",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Lord Byron is a notable writer associated with United Kingdom.",
+  "knownFor": [
+    "Writer",
+    "152 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Lord Byron",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Lord Byron",
+      "url": "https://pantheon.world/profile/person/Lord_Byron",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "lord-byron-pantheon-profile",
+      "text": "Pantheon ranks Lord Byron as a globally documented writer with biographies in 152 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Lord Byron a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Lord Byron",
+      "sourceUrl": "https://pantheon.world/profile/person/Lord_Byron",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

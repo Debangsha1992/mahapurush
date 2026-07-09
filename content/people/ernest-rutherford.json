@@ -1,0 +1,47 @@
+{
+  "id": "ernest-rutherford",
+  "slug": "ernest-rutherford",
+  "name": "Ernest Rutherford",
+  "shortName": "Rutherford",
+  "era": "1871-1937",
+  "region": "New Zealand",
+  "regionId": "southeast-asia-oceania",
+  "lifespan": "1871-1937",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Ernest Rutherford is a notable physicist associated with New Zealand.",
+  "knownFor": [
+    "Physicist",
+    "139 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ernest Rutherford",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ernest Rutherford",
+      "url": "https://pantheon.world/profile/person/Ernest_Rutherford",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ernest-rutherford-pantheon-profile",
+      "text": "Pantheon ranks Ernest Rutherford as a globally documented physicist with biographies in 139 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ernest Rutherford a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ernest Rutherford",
+      "sourceUrl": "https://pantheon.world/profile/person/Ernest_Rutherford",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "josephine-de-beauharnais",
+  "slug": "josephine-de-beauharnais",
+  "name": "Joséphine de Beauharnais",
+  "shortName": "Beauharnais",
+  "era": "1763-1814",
+  "region": "Saint Lucia",
+  "regionId": "global-diaspora",
+  "lifespan": "1763-1814",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Joséphine de Beauharnais is a notable companion associated with Saint Lucia.",
+  "knownFor": [
+    "Companion",
+    "72 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 434,
+  "imageAlt": "Portrait-style visual for Joséphine de Beauharnais",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Joséphine de Beauharnais",
+      "url": "https://pantheon.world/profile/person/Jos%C3%A9phine_de_Beauharnais",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "josephine-de-beauharnais-pantheon-profile",
+      "text": "Pantheon ranks Joséphine de Beauharnais as a globally documented companion with biographies in 72 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Joséphine de Beauharnais a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Joséphine de Beauharnais",
+      "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9phine_de_Beauharnais",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

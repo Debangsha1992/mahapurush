@@ -1,0 +1,48 @@
+{
+  "id": "karl-benz",
+  "slug": "karl-benz",
+  "name": "Karl Benz",
+  "shortName": "Benz",
+  "era": "1844-1929",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1844-1929",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "inventor"
+  ],
+  "summary": "Karl Benz is a notable inventor associated with Germany.",
+  "knownFor": [
+    "Inventor",
+    "110 language biography editions",
+    "Historical Popularity Index 88.1"
+  ],
+  "featured": true,
+  "featuredRank": 212,
+  "imageAlt": "Portrait-style visual for Karl Benz",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Karl Benz",
+      "url": "https://pantheon.world/profile/person/Karl_Benz",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "karl-benz-pantheon-profile",
+      "text": "Pantheon ranks Karl Benz as a globally documented inventor with biographies in 110 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Karl Benz a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Karl Benz",
+      "sourceUrl": "https://pantheon.world/profile/person/Karl_Benz",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

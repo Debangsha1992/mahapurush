@@ -1,0 +1,48 @@
+{
+  "id": "bob-marley",
+  "slug": "bob-marley",
+  "name": "Bob Marley",
+  "shortName": "Marley",
+  "era": "1945-1981",
+  "region": "Jamaica",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1945-1981",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "musician"
+  ],
+  "summary": "Bob Marley is a notable musician associated with Jamaica.",
+  "knownFor": [
+    "Musician",
+    "132 language biography editions",
+    "Historical Popularity Index 87.6"
+  ],
+  "featured": true,
+  "featuredRank": 240,
+  "imageAlt": "Portrait-style visual for Bob Marley",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bob Marley",
+      "url": "https://pantheon.world/profile/person/Bob_Marley",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bob-marley-pantheon-profile",
+      "text": "Pantheon ranks Bob Marley as a globally documented musician with biographies in 132 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bob Marley a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bob Marley",
+      "sourceUrl": "https://pantheon.world/profile/person/Bob_Marley",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

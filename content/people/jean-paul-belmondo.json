@@ -1,0 +1,47 @@
+{
+  "id": "jean-paul-belmondo",
+  "slug": "jean-paul-belmondo",
+  "name": "Jean-Paul Belmondo",
+  "shortName": "Belmondo",
+  "era": "1933-2021",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1933-2021",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Jean-Paul Belmondo is a notable actor associated with France.",
+  "knownFor": [
+    "Actor",
+    "93 language biography editions",
+    "Historical Popularity Index 81.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jean-Paul Belmondo",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jean-Paul Belmondo",
+      "url": "https://pantheon.world/profile/person/Jean-Paul_Belmondo",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jean-paul-belmondo-pantheon-profile",
+      "text": "Pantheon ranks Jean-Paul Belmondo as a globally documented actor with biographies in 93 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jean-Paul Belmondo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jean-Paul Belmondo",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Paul_Belmondo",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

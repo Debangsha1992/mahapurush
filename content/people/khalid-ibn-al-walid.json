@@ -1,0 +1,47 @@
+{
+  "id": "khalid-ibn-al-walid",
+  "slug": "khalid-ibn-al-walid",
+  "name": "Khalid ibn al-Walid",
+  "shortName": "al-Walid",
+  "era": "592-642",
+  "region": "Saudi Arabia",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "592-642",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Khalid ibn al-Walid is a notable military personnel associated with Saudi Arabia.",
+  "knownFor": [
+    "Military Personnel",
+    "65 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Khalid ibn al-Walid",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Khalid ibn al-Walid",
+      "url": "https://pantheon.world/profile/person/Khalid_ibn_al-Walid",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "khalid-ibn-al-walid-pantheon-profile",
+      "text": "Pantheon ranks Khalid ibn al-Walid as a globally documented military personnel with biographies in 65 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Khalid ibn al-Walid a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Khalid ibn al-Walid",
+      "sourceUrl": "https://pantheon.world/profile/person/Khalid_ibn_al-Walid",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

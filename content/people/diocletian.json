@@ -1,0 +1,47 @@
+{
+  "id": "diocletian",
+  "slug": "diocletian",
+  "name": "Diocletian",
+  "shortName": "Diocletian",
+  "era": "244-311",
+  "region": "Croatia",
+  "regionId": "global-diaspora",
+  "lifespan": "244-311",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Diocletian is a notable politician associated with Croatia.",
+  "knownFor": [
+    "Politician",
+    "85 language biography editions",
+    "Historical Popularity Index 84.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Diocletian",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Diocletian",
+      "url": "https://pantheon.world/profile/person/Diocletian",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "diocletian-pantheon-profile",
+      "text": "Pantheon ranks Diocletian as a globally documented politician with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Diocletian a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Diocletian",
+      "sourceUrl": "https://pantheon.world/profile/person/Diocletian",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

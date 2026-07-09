@@ -1,0 +1,48 @@
+{
+  "id": "charlie-chaplin",
+  "slug": "charlie-chaplin",
+  "name": "Charlie Chaplin",
+  "shortName": "Chaplin",
+  "era": "1889-1977",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1889-1977",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Charlie Chaplin is a notable actor associated with United Kingdom.",
+  "knownFor": [
+    "Actor",
+    "197 language biography editions",
+    "Historical Popularity Index 89.9"
+  ],
+  "featured": true,
+  "featuredRank": 133,
+  "imageAlt": "Portrait-style visual for Charlie Chaplin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Charlie Chaplin",
+      "url": "https://pantheon.world/profile/person/Charlie_Chaplin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "charlie-chaplin-pantheon-profile",
+      "text": "Pantheon ranks Charlie Chaplin as a globally documented actor with biographies in 197 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Charlie Chaplin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Charlie Chaplin",
+      "sourceUrl": "https://pantheon.world/profile/person/Charlie_Chaplin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

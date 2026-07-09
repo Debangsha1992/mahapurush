@@ -1,0 +1,48 @@
+{
+  "id": "ali",
+  "slug": "ali",
+  "name": "Ali",
+  "shortName": "Ali",
+  "era": "601-661",
+  "region": "Saudi Arabia",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "601-661",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Ali is a notable religious figure associated with Saudi Arabia.",
+  "knownFor": [
+    "Religious Figure",
+    "122 language biography editions",
+    "Historical Popularity Index 89.3"
+  ],
+  "featured": true,
+  "featuredRank": 156,
+  "imageAlt": "Portrait-style visual for Ali",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ali",
+      "url": "https://pantheon.world/profile/person/Ali",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ali-pantheon-profile",
+      "text": "Pantheon ranks Ali as a globally documented religious figure with biographies in 122 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ali a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ali",
+      "sourceUrl": "https://pantheon.world/profile/person/Ali",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

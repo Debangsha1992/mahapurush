@@ -1,0 +1,47 @@
+{
+  "id": "oscar-wilde",
+  "slug": "oscar-wilde",
+  "name": "Oscar Wilde",
+  "shortName": "Wilde",
+  "era": "1854-1900",
+  "region": "Ireland",
+  "regionId": "europe",
+  "lifespan": "1854-1900",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Oscar Wilde is a notable writer associated with Ireland.",
+  "knownFor": [
+    "Writer",
+    "127 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Oscar Wilde",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Oscar Wilde",
+      "url": "https://pantheon.world/profile/person/Oscar_Wilde",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "oscar-wilde-pantheon-profile",
+      "text": "Pantheon ranks Oscar Wilde as a globally documented writer with biographies in 127 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Oscar Wilde a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Oscar Wilde",
+      "sourceUrl": "https://pantheon.world/profile/person/Oscar_Wilde",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "franz-kafka",
+  "slug": "franz-kafka",
+  "name": "Franz Kafka",
+  "shortName": "Kafka",
+  "era": "1883-1924",
+  "region": "Czechia",
+  "regionId": "global-diaspora",
+  "lifespan": "1883-1924",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Franz Kafka is a notable writer associated with Czechia.",
+  "knownFor": [
+    "Writer",
+    "171 language biography editions",
+    "Historical Popularity Index 89.6"
+  ],
+  "featured": true,
+  "featuredRank": 144,
+  "imageAlt": "Portrait-style visual for Franz Kafka",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Franz Kafka",
+      "url": "https://pantheon.world/profile/person/Franz_Kafka",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "franz-kafka-pantheon-profile",
+      "text": "Pantheon ranks Franz Kafka as a globally documented writer with biographies in 171 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Franz Kafka a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Franz Kafka",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Kafka",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

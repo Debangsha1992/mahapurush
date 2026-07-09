@@ -1,0 +1,47 @@
+{
+  "id": "enver-hoxha",
+  "slug": "enver-hoxha",
+  "name": "Enver Hoxha",
+  "shortName": "Hoxha",
+  "era": "1908-1985",
+  "region": "Albania",
+  "regionId": "global-diaspora",
+  "lifespan": "1908-1985",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Enver Hoxha is a notable politician associated with Albania.",
+  "knownFor": [
+    "Politician",
+    "91 language biography editions",
+    "Historical Popularity Index 81.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Enver Hoxha",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Enver Hoxha",
+      "url": "https://pantheon.world/profile/person/Enver_Hoxha",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "enver-hoxha-pantheon-profile",
+      "text": "Pantheon ranks Enver Hoxha as a globally documented politician with biographies in 91 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Enver Hoxha a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Enver Hoxha",
+      "sourceUrl": "https://pantheon.world/profile/person/Enver_Hoxha",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "emile-durkheim",
+  "slug": "emile-durkheim",
+  "name": "Émile Durkheim",
+  "shortName": "Durkheim",
+  "era": "1858-1917",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1858-1917",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "sociologist"
+  ],
+  "summary": "Émile Durkheim is a notable sociologist associated with France.",
+  "knownFor": [
+    "Sociologist",
+    "100 language biography editions",
+    "Historical Popularity Index 85.1"
+  ],
+  "featured": true,
+  "featuredRank": 428,
+  "imageAlt": "Portrait-style visual for Émile Durkheim",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Émile Durkheim",
+      "url": "https://pantheon.world/profile/person/%C3%89mile_Durkheim",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "emile-durkheim-pantheon-profile",
+      "text": "Pantheon ranks Émile Durkheim as a globally documented sociologist with biographies in 100 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Émile Durkheim a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Émile Durkheim",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89mile_Durkheim",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

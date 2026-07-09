@@ -1,0 +1,47 @@
+{
+  "id": "lorenzo-de-medici",
+  "slug": "lorenzo-de-medici",
+  "name": "Lorenzo de' Medici",
+  "shortName": "Medici",
+  "era": "1449-1492",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1449-1492",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Lorenzo de' Medici is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "73 language biography editions",
+    "Historical Popularity Index 84.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Lorenzo de' Medici",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Lorenzo de' Medici",
+      "url": "https://pantheon.world/profile/person/Lorenzo_de'_Medici",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "lorenzo-de-medici-pantheon-profile",
+      "text": "Pantheon ranks Lorenzo de' Medici as a globally documented politician with biographies in 73 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Lorenzo de' Medici a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Lorenzo de' Medici",
+      "sourceUrl": "https://pantheon.world/profile/person/Lorenzo_de'_Medici",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

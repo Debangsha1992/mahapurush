@@ -1,0 +1,48 @@
+{
+  "id": "benjamin-franklin",
+  "slug": "benjamin-franklin",
+  "name": "Benjamin Franklin",
+  "shortName": "Franklin",
+  "era": "1706-1790",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1706-1790",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Benjamin Franklin is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "141 language biography editions",
+    "Historical Popularity Index 85.9"
+  ],
+  "featured": true,
+  "featuredRank": 356,
+  "imageAlt": "Portrait-style visual for Benjamin Franklin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Benjamin Franklin",
+      "url": "https://pantheon.world/profile/person/Benjamin_Franklin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "benjamin-franklin-pantheon-profile",
+      "text": "Pantheon ranks Benjamin Franklin as a globally documented politician with biographies in 141 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Benjamin Franklin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Benjamin Franklin",
+      "sourceUrl": "https://pantheon.world/profile/person/Benjamin_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pablo-picasso",
+  "slug": "pablo-picasso",
+  "name": "Pablo Picasso",
+  "shortName": "Picasso",
+  "era": "1881-1973",
+  "region": "Spain",
+  "regionId": "europe",
+  "lifespan": "1881-1973",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Pablo Picasso is a notable painter associated with Spain.",
+  "knownFor": [
+    "Painter",
+    "204 language biography editions",
+    "Historical Popularity Index 91.7"
+  ],
+  "featured": true,
+  "featuredRank": 86,
+  "imageAlt": "Portrait-style visual for Pablo Picasso",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pablo Picasso",
+      "url": "https://pantheon.world/profile/person/Pablo_Picasso",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pablo-picasso-pantheon-profile",
+      "text": "Pantheon ranks Pablo Picasso as a globally documented painter with biographies in 204 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pablo Picasso a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pablo Picasso",
+      "sourceUrl": "https://pantheon.world/profile/person/Pablo_Picasso",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "lucrezia-borgia",
+  "slug": "lucrezia-borgia",
+  "name": "Lucrezia Borgia",
+  "shortName": "Borgia",
+  "era": "1480-1519",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1480-1519",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Lucrezia Borgia is a notable nobleman associated with Italy.",
+  "knownFor": [
+    "Nobleman",
+    "70 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Lucrezia Borgia",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Lucrezia Borgia",
+      "url": "https://pantheon.world/profile/person/Lucrezia_Borgia",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "lucrezia-borgia-pantheon-profile",
+      "text": "Pantheon ranks Lucrezia Borgia as a globally documented nobleman with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Lucrezia Borgia a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Lucrezia Borgia",
+      "sourceUrl": "https://pantheon.world/profile/person/Lucrezia_Borgia",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

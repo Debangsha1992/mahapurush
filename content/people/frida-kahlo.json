@@ -1,0 +1,48 @@
+{
+  "id": "frida-kahlo",
+  "slug": "frida-kahlo",
+  "name": "Frida Kahlo",
+  "shortName": "Kahlo",
+  "era": "1907-1954",
+  "region": "Mexico",
+  "regionId": "north-america",
+  "lifespan": "1907-1954",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Frida Kahlo is a notable painter associated with Mexico.",
+  "knownFor": [
+    "Painter",
+    "166 language biography editions",
+    "Historical Popularity Index 89.1"
+  ],
+  "featured": true,
+  "featuredRank": 167,
+  "imageAlt": "Portrait-style visual for Frida Kahlo",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Frida Kahlo",
+      "url": "https://pantheon.world/profile/person/Frida_Kahlo",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "frida-kahlo-pantheon-profile",
+      "text": "Pantheon ranks Frida Kahlo as a globally documented painter with biographies in 166 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Frida Kahlo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Frida Kahlo",
+      "sourceUrl": "https://pantheon.world/profile/person/Frida_Kahlo",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

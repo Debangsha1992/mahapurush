@@ -6,9 +6,15 @@
   "era": "1997-present",
   "region": "Pakistan, United Kingdom",
   "lifespan": "1997-present",
-  "domains": ["education", "human rights", "advocacy"],
+  "domains": [
+    "justice-governance-leadership"
+  ],
   "summary": "Malala Yousafzai advocates for girls' education and the right to learn.",
-  "knownFor": ["girls' education advocacy", "Nobel Peace Prize", "Malala Fund"],
+  "knownFor": [
+    "girls' education advocacy",
+    "Nobel Peace Prize",
+    "Malala Fund"
+  ],
   "facts": [
     {
       "id": "malala-youngest-nobel",
@@ -19,8 +25,24 @@
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "2014-10-10",
       "currentAsOf": "2014-10-10",
-      "tags": ["education", "first"],
+      "tags": [
+        "education",
+        "first"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "south-asia",
+  "primaryDomain": "justice-governance-leadership",
+  "featured": true,
+  "imageAlt": "Portrait-style visual for Malala Yousafzai",
+  "sourceRefs": [
+    {
+      "title": "Nobel Prize: Malala Yousafzai Facts",
+      "url": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published",
+  "featuredRank": 18
 }

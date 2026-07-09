@@ -1,0 +1,48 @@
+{
+  "id": "giotto",
+  "slug": "giotto",
+  "name": "Giotto",
+  "shortName": "Giotto",
+  "era": "1267-1337",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1267-1337",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Giotto is a notable painter associated with Italy.",
+  "knownFor": [
+    "Painter",
+    "90 language biography editions",
+    "Historical Popularity Index 85.0"
+  ],
+  "featured": true,
+  "featuredRank": 440,
+  "imageAlt": "Portrait-style visual for Giotto",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Giotto",
+      "url": "https://pantheon.world/profile/person/Giotto",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "giotto-pantheon-profile",
+      "text": "Pantheon ranks Giotto as a globally documented painter with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Giotto a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Giotto",
+      "sourceUrl": "https://pantheon.world/profile/person/Giotto",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

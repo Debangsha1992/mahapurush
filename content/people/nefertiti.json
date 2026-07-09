@@ -1,0 +1,48 @@
+{
+  "id": "nefertiti",
+  "slug": "nefertiti",
+  "name": "Nefertiti",
+  "shortName": "Nefertiti",
+  "era": "-1400--1330",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-1400--1330",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Nefertiti is a notable companion associated with Egypt.",
+  "knownFor": [
+    "Companion",
+    "99 language biography editions",
+    "Historical Popularity Index 87.3"
+  ],
+  "featured": true,
+  "featuredRank": 259,
+  "imageAlt": "Portrait-style visual for Nefertiti",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Nefertiti",
+      "url": "https://pantheon.world/profile/person/Nefertiti",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "nefertiti-pantheon-profile",
+      "text": "Pantheon ranks Nefertiti as a globally documented companion with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Nefertiti a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Nefertiti",
+      "sourceUrl": "https://pantheon.world/profile/person/Nefertiti",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "karl-donitz",
+  "slug": "karl-donitz",
+  "name": "Karl Dönitz",
+  "shortName": "Dönitz",
+  "era": "1891-1980",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1891-1980",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Karl Dönitz is a notable military personnel associated with Germany.",
+  "knownFor": [
+    "Military Personnel",
+    "78 language biography editions",
+    "Historical Popularity Index 84.9"
+  ],
+  "featured": true,
+  "featuredRank": 450,
+  "imageAlt": "Portrait-style visual for Karl Dönitz",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Karl Dönitz",
+      "url": "https://pantheon.world/profile/person/Karl_D%C3%B6nitz",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "karl-donitz-pantheon-profile",
+      "text": "Pantheon ranks Karl Dönitz as a globally documented military personnel with biographies in 78 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Karl Dönitz a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Karl Dönitz",
+      "sourceUrl": "https://pantheon.world/profile/person/Karl_D%C3%B6nitz",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

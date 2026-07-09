@@ -1,0 +1,47 @@
+{
+  "id": "william-thomson-1st-baron-kelvin",
+  "slug": "william-thomson-1st-baron-kelvin",
+  "name": "William Thomson, 1st Baron Kelvin",
+  "shortName": "Kelvin",
+  "era": "1824-1907",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1824-1907",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "William Thomson, 1st Baron Kelvin is a notable physicist associated with United Kingdom.",
+  "knownFor": [
+    "Physicist",
+    "85 language biography editions",
+    "Historical Popularity Index 83.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for William Thomson, 1st Baron Kelvin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: William Thomson, 1st Baron Kelvin",
+      "url": "https://pantheon.world/profile/person/William_Thomson%2C_1st_Baron_Kelvin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "william-thomson-1st-baron-kelvin-pantheon-profile",
+      "text": "Pantheon ranks William Thomson, 1st Baron Kelvin as a globally documented physicist with biographies in 85 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make William Thomson, 1st Baron Kelvin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: William Thomson, 1st Baron Kelvin",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Thomson%2C_1st_Baron_Kelvin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

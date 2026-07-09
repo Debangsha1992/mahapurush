@@ -1,0 +1,47 @@
+{
+  "id": "marlon-brando",
+  "slug": "marlon-brando",
+  "name": "Marlon Brando",
+  "shortName": "Brando",
+  "era": "1924-2004",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1924-2004",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Marlon Brando is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "134 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Marlon Brando",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Marlon Brando",
+      "url": "https://pantheon.world/profile/person/Marlon_Brando",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "marlon-brando-pantheon-profile",
+      "text": "Pantheon ranks Marlon Brando as a globally documented actor with biographies in 134 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Marlon Brando a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Marlon Brando",
+      "sourceUrl": "https://pantheon.world/profile/person/Marlon_Brando",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

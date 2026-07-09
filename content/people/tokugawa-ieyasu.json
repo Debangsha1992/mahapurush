@@ -1,0 +1,47 @@
+{
+  "id": "tokugawa-ieyasu",
+  "slug": "tokugawa-ieyasu",
+  "name": "Tokugawa Ieyasu",
+  "shortName": "Ieyasu",
+  "era": "1542-1616",
+  "region": "Japan",
+  "regionId": "east-asia",
+  "lifespan": "1542-1616",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Tokugawa Ieyasu is a notable military personnel associated with Japan.",
+  "knownFor": [
+    "Military Personnel",
+    "76 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Tokugawa Ieyasu",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Tokugawa Ieyasu",
+      "url": "https://pantheon.world/profile/person/Tokugawa_Ieyasu",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "tokugawa-ieyasu-pantheon-profile",
+      "text": "Pantheon ranks Tokugawa Ieyasu as a globally documented military personnel with biographies in 76 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Tokugawa Ieyasu a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Tokugawa Ieyasu",
+      "sourceUrl": "https://pantheon.world/profile/person/Tokugawa_Ieyasu",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

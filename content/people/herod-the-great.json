@@ -1,0 +1,47 @@
+{
+  "id": "herod-the-great",
+  "slug": "herod-the-great",
+  "name": "Herod the Great",
+  "shortName": "Great",
+  "era": "-73--3",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-73--3",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Herod the Great is a notable politician associated with Israel.",
+  "knownFor": [
+    "Politician",
+    "71 language biography editions",
+    "Historical Popularity Index 84.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Herod the Great",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Herod the Great",
+      "url": "https://pantheon.world/profile/person/Herod_the_Great",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "herod-the-great-pantheon-profile",
+      "text": "Pantheon ranks Herod the Great as a globally documented politician with biographies in 71 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Herod the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Herod the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Herod_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

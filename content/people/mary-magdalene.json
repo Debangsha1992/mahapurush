@@ -1,0 +1,47 @@
+{
+  "id": "mary-magdalene",
+  "slug": "mary-magdalene",
+  "name": "Mary Magdalene",
+  "shortName": "Magdalene",
+  "era": "-10-100",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-10-100",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Mary Magdalene is a notable religious figure associated with Israel.",
+  "knownFor": [
+    "Religious Figure",
+    "90 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mary Magdalene",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mary Magdalene",
+      "url": "https://pantheon.world/profile/person/Mary_Magdalene",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mary-magdalene-pantheon-profile",
+      "text": "Pantheon ranks Mary Magdalene as a globally documented religious figure with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mary Magdalene a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mary Magdalene",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary_Magdalene",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

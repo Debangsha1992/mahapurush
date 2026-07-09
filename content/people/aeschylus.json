@@ -1,0 +1,47 @@
+{
+  "id": "aeschylus",
+  "slug": "aeschylus",
+  "name": "Aeschylus",
+  "shortName": "Aeschylus",
+  "era": "-525--456",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-525--456",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Aeschylus is a notable writer associated with Greece.",
+  "knownFor": [
+    "Writer",
+    "102 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Aeschylus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Aeschylus",
+      "url": "https://pantheon.world/profile/person/Aeschylus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "aeschylus-pantheon-profile",
+      "text": "Pantheon ranks Aeschylus as a globally documented writer with biographies in 102 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Aeschylus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Aeschylus",
+      "sourceUrl": "https://pantheon.world/profile/person/Aeschylus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

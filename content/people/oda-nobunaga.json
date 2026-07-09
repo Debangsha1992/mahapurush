@@ -1,0 +1,47 @@
+{
+  "id": "oda-nobunaga",
+  "slug": "oda-nobunaga",
+  "name": "Oda Nobunaga",
+  "shortName": "Nobunaga",
+  "era": "1534-1582",
+  "region": "Japan",
+  "regionId": "east-asia",
+  "lifespan": "1534-1582",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Oda Nobunaga is a notable military personnel associated with Japan.",
+  "knownFor": [
+    "Military Personnel",
+    "75 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Oda Nobunaga",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Oda Nobunaga",
+      "url": "https://pantheon.world/profile/person/Oda_Nobunaga",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "oda-nobunaga-pantheon-profile",
+      "text": "Pantheon ranks Oda Nobunaga as a globally documented military personnel with biographies in 75 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Oda Nobunaga a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Oda Nobunaga",
+      "sourceUrl": "https://pantheon.world/profile/person/Oda_Nobunaga",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

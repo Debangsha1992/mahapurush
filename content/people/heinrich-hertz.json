@@ -1,0 +1,47 @@
+{
+  "id": "heinrich-hertz",
+  "slug": "heinrich-hertz",
+  "name": "Heinrich Hertz",
+  "shortName": "Hertz",
+  "era": "1857-1894",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1857-1894",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Heinrich Hertz is a notable physicist associated with Germany.",
+  "knownFor": [
+    "Physicist",
+    "101 language biography editions",
+    "Historical Popularity Index 82.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Heinrich Hertz",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Heinrich Hertz",
+      "url": "https://pantheon.world/profile/person/Heinrich_Hertz",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "heinrich-hertz-pantheon-profile",
+      "text": "Pantheon ranks Heinrich Hertz as a globally documented physicist with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Heinrich Hertz a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Heinrich Hertz",
+      "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Hertz",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

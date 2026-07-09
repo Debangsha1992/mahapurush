@@ -1,0 +1,48 @@
+{
+  "id": "henry-vi-of-england",
+  "slug": "henry-vi-of-england",
+  "name": "Henry VI of England",
+  "shortName": "England",
+  "era": "1421-1471",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1421-1471",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Henry VI of England is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "70 language biography editions",
+    "Historical Popularity Index 87.0"
+  ],
+  "featured": true,
+  "featuredRank": 273,
+  "imageAlt": "Portrait-style visual for Henry VI of England",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Henry VI of England",
+      "url": "https://pantheon.world/profile/person/Henry_VI_of_England",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "henry-vi-of-england-pantheon-profile",
+      "text": "Pantheon ranks Henry VI of England as a globally documented politician with biographies in 70 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Henry VI of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Henry VI of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_VI_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

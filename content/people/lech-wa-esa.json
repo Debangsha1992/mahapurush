@@ -1,0 +1,47 @@
+{
+  "id": "lech-wa-esa",
+  "slug": "lech-wa-esa",
+  "name": "Lech Wałęsa",
+  "shortName": "Wałęsa",
+  "era": "born 1943",
+  "region": "Poland",
+  "regionId": "europe",
+  "lifespan": "born 1943",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Lech Wałęsa is a notable politician associated with Poland.",
+  "knownFor": [
+    "Politician",
+    "152 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Lech Wałęsa",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Lech Wałęsa",
+      "url": "https://pantheon.world/profile/person/Lech_Wa%C5%82%C4%99sa",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "lech-wa-esa-pantheon-profile",
+      "text": "Pantheon ranks Lech Wałęsa as a globally documented politician with biographies in 152 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Lech Wałęsa a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Lech Wałęsa",
+      "sourceUrl": "https://pantheon.world/profile/person/Lech_Wa%C5%82%C4%99sa",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "empress-elisabeth-of-austria",
+  "slug": "empress-elisabeth-of-austria",
+  "name": "Empress Elisabeth of Austria",
+  "shortName": "Austria",
+  "era": "1837-1898",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1837-1898",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Empress Elisabeth of Austria is a notable companion associated with Germany.",
+  "knownFor": [
+    "Companion",
+    "72 language biography editions",
+    "Historical Popularity Index 89.6"
+  ],
+  "featured": true,
+  "featuredRank": 145,
+  "imageAlt": "Portrait-style visual for Empress Elisabeth of Austria",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Empress Elisabeth of Austria",
+      "url": "https://pantheon.world/profile/person/Empress_Elisabeth_of_Austria",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "empress-elisabeth-of-austria-pantheon-profile",
+      "text": "Pantheon ranks Empress Elisabeth of Austria as a globally documented companion with biographies in 72 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Empress Elisabeth of Austria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Empress Elisabeth of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Empress_Elisabeth_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

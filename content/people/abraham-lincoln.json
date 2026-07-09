@@ -1,0 +1,48 @@
+{
+  "id": "abraham-lincoln",
+  "slug": "abraham-lincoln",
+  "name": "Abraham Lincoln",
+  "shortName": "Lincoln",
+  "era": "1809-1865",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1809-1865",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Abraham Lincoln is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "204 language biography editions",
+    "Historical Popularity Index 87.9"
+  ],
+  "featured": true,
+  "featuredRank": 225,
+  "imageAlt": "Portrait-style visual for Abraham Lincoln",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Abraham Lincoln",
+      "url": "https://pantheon.world/profile/person/Abraham_Lincoln",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "abraham-lincoln-pantheon-profile",
+      "text": "Pantheon ranks Abraham Lincoln as a globally documented politician with biographies in 204 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Abraham Lincoln a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Abraham Lincoln",
+      "sourceUrl": "https://pantheon.world/profile/person/Abraham_Lincoln",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

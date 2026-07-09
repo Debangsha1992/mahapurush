@@ -6,9 +6,15 @@
   "era": "1861-1941",
   "region": "Bengal",
   "lifespan": "1861-1941",
-  "domains": ["literature", "education", "music"],
+  "domains": [
+    "justice-governance-leadership"
+  ],
   "summary": "Rabindranath Tagore expanded modern literature, music, and education across cultural boundaries.",
-  "knownFor": ["Gitanjali", "Nobel Prize in Literature", "Santiniketan"],
+  "knownFor": [
+    "Gitanjali",
+    "Nobel Prize in Literature",
+    "Santiniketan"
+  ],
   "thinkerId": "tagore",
   "facts": [
     {
@@ -20,8 +26,24 @@
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "1913-11-13",
       "currentAsOf": "1913-11-13",
-      "tags": ["literature", "first"],
+      "tags": [
+        "literature",
+        "first"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "global-diaspora",
+  "primaryDomain": "justice-governance-leadership",
+  "featured": true,
+  "imageAlt": "Portrait-style visual for Rabindranath Tagore",
+  "sourceRefs": [
+    {
+      "title": "Nobel Prize: Rabindranath Tagore Facts",
+      "url": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published",
+  "featuredRank": 27
 }

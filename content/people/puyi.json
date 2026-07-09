@@ -1,0 +1,47 @@
+{
+  "id": "puyi",
+  "slug": "puyi",
+  "name": "Puyi",
+  "shortName": "Puyi",
+  "era": "1906-1967",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "1906-1967",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Puyi is a notable politician associated with China.",
+  "knownFor": [
+    "Politician",
+    "77 language biography editions",
+    "Historical Popularity Index 83.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Puyi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Puyi",
+      "url": "https://pantheon.world/profile/person/Puyi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "puyi-pantheon-profile",
+      "text": "Pantheon ranks Puyi as a globally documented politician with biographies in 77 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Puyi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Puyi",
+      "sourceUrl": "https://pantheon.world/profile/person/Puyi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -6,9 +6,15 @@
   "era": "980-1037",
   "region": "Persia, Central Asia",
   "lifespan": "980-1037",
-  "domains": ["medicine", "philosophy", "science"],
+  "domains": [
+    "science-math-technology"
+  ],
   "summary": "Ibn Sina, known in Europe as Avicenna, synthesized medicine, philosophy, and science across cultures.",
-  "knownFor": ["The Canon of Medicine", "Islamic philosophy", "medical learning"],
+  "knownFor": [
+    "The Canon of Medicine",
+    "Islamic philosophy",
+    "medical learning"
+  ],
   "facts": [
     {
       "id": "ibn-sina-canon-medicine",
@@ -17,8 +23,24 @@
       "sourceTitle": "Encyclopaedia Britannica: Avicenna",
       "sourceUrl": "https://www.britannica.com/biography/Avicenna",
       "sourceAccessedAt": "2026-07-05",
-      "tags": ["medicine", "philosophy"],
+      "tags": [
+        "medicine",
+        "philosophy"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "global-diaspora",
+  "primaryDomain": "science-math-technology",
+  "featured": true,
+  "featuredRank": 14,
+  "imageAlt": "Portrait-style visual for Ibn Sina",
+  "sourceRefs": [
+    {
+      "title": "Encyclopaedia Britannica: Avicenna",
+      "url": "https://www.britannica.com/biography/Avicenna",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

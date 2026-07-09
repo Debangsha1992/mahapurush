@@ -1,0 +1,48 @@
+{
+  "id": "hokusai",
+  "slug": "hokusai",
+  "name": "Hokusai",
+  "shortName": "Hokusai",
+  "era": "1760-1849",
+  "region": "Japan",
+  "regionId": "east-asia",
+  "lifespan": "1760-1849",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "artist"
+  ],
+  "summary": "Hokusai is a notable artist associated with Japan.",
+  "knownFor": [
+    "Artist",
+    "155 language biography editions",
+    "Historical Popularity Index 84.6"
+  ],
+  "featured": true,
+  "featuredRank": 477,
+  "imageAlt": "Portrait-style visual for Hokusai",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hokusai",
+      "url": "https://pantheon.world/profile/person/Hokusai",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hokusai-pantheon-profile",
+      "text": "Pantheon ranks Hokusai as a globally documented artist with biographies in 155 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hokusai a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hokusai",
+      "sourceUrl": "https://pantheon.world/profile/person/Hokusai",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "archimedes",
+  "slug": "archimedes",
+  "name": "Archimedes",
+  "shortName": "Archimedes",
+  "era": "-287--212",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-287--212",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Archimedes is a notable mathematician associated with Italy.",
+  "knownFor": [
+    "Mathematician",
+    "189 language biography editions",
+    "Historical Popularity Index 93.4"
+  ],
+  "featured": true,
+  "featuredRank": 59,
+  "imageAlt": "Portrait-style visual for Archimedes",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Archimedes",
+      "url": "https://pantheon.world/profile/person/Archimedes",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "archimedes-pantheon-profile",
+      "text": "Pantheon ranks Archimedes as a globally documented mathematician with biographies in 189 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Archimedes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Archimedes",
+      "sourceUrl": "https://pantheon.world/profile/person/Archimedes",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

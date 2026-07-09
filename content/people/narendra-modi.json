@@ -1,0 +1,48 @@
+{
+  "id": "narendra-modi",
+  "slug": "narendra-modi",
+  "name": "Narendra Modi",
+  "shortName": "Modi",
+  "era": "born 1950",
+  "region": "India",
+  "regionId": "south-asia",
+  "lifespan": "born 1950",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Narendra Modi is a notable politician associated with India.",
+  "knownFor": [
+    "Politician",
+    "145 language biography editions",
+    "Historical Popularity Index 88.8"
+  ],
+  "featured": true,
+  "featuredRank": 183,
+  "imageAlt": "Portrait-style visual for Narendra Modi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Narendra Modi",
+      "url": "https://pantheon.world/profile/person/Narendra_Modi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "narendra-modi-pantheon-profile",
+      "text": "Pantheon ranks Narendra Modi as a globally documented politician with biographies in 145 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Narendra Modi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Narendra Modi",
+      "sourceUrl": "https://pantheon.world/profile/person/Narendra_Modi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

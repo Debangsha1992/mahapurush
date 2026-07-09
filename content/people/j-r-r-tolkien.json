@@ -1,0 +1,48 @@
+{
+  "id": "j-r-r-tolkien",
+  "slug": "j-r-r-tolkien",
+  "name": "J. R. R. Tolkien",
+  "shortName": "Tolkien",
+  "era": "1892-1973",
+  "region": "South Africa",
+  "regionId": "africa",
+  "lifespan": "1892-1973",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "J. R. R. Tolkien is a notable writer associated with South Africa.",
+  "knownFor": [
+    "Writer",
+    "156 language biography editions",
+    "Historical Popularity Index 90.7"
+  ],
+  "featured": true,
+  "featuredRank": 111,
+  "imageAlt": "Portrait-style visual for J. R. R. Tolkien",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: J. R. R. Tolkien",
+      "url": "https://pantheon.world/profile/person/J._R._R._Tolkien",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "j-r-r-tolkien-pantheon-profile",
+      "text": "Pantheon ranks J. R. R. Tolkien as a globally documented writer with biographies in 156 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make J. R. R. Tolkien a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: J. R. R. Tolkien",
+      "sourceUrl": "https://pantheon.world/profile/person/J._R._R._Tolkien",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mother-teresa",
+  "slug": "mother-teresa",
+  "name": "Mother Teresa",
+  "shortName": "Teresa",
+  "era": "1910-1997",
+  "region": "North Macedonia",
+  "regionId": "global-diaspora",
+  "lifespan": "1910-1997",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "social-activist"
+  ],
+  "summary": "Mother Teresa is a notable social activist associated with North Macedonia.",
+  "knownFor": [
+    "Social Activist",
+    "144 language biography editions",
+    "Historical Popularity Index 93.0"
+  ],
+  "featured": true,
+  "featuredRank": 68,
+  "imageAlt": "Portrait-style visual for Mother Teresa",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mother Teresa",
+      "url": "https://pantheon.world/profile/person/Mother_Teresa",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mother-teresa-pantheon-profile",
+      "text": "Pantheon ranks Mother Teresa as a globally documented social activist with biographies in 144 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mother Teresa a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mother Teresa",
+      "sourceUrl": "https://pantheon.world/profile/person/Mother_Teresa",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

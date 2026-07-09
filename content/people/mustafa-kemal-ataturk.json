@@ -1,0 +1,48 @@
+{
+  "id": "mustafa-kemal-ataturk",
+  "slug": "mustafa-kemal-ataturk",
+  "name": "Mustafa Kemal Atatürk",
+  "shortName": "Atatürk",
+  "era": "1881-1938",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "1881-1938",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mustafa Kemal Atatürk is a notable politician associated with Greece.",
+  "knownFor": [
+    "Politician",
+    "205 language biography editions",
+    "Historical Popularity Index 91.3"
+  ],
+  "featured": true,
+  "featuredRank": 96,
+  "imageAlt": "Portrait-style visual for Mustafa Kemal Atatürk",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mustafa Kemal Atatürk",
+      "url": "https://pantheon.world/profile/person/Mustafa_Kemal_Atat%C3%BCrk",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mustafa-kemal-ataturk-pantheon-profile",
+      "text": "Pantheon ranks Mustafa Kemal Atatürk as a globally documented politician with biographies in 205 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mustafa Kemal Atatürk a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mustafa Kemal Atatürk",
+      "sourceUrl": "https://pantheon.world/profile/person/Mustafa_Kemal_Atat%C3%BCrk",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

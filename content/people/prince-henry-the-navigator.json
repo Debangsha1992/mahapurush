@@ -1,0 +1,47 @@
+{
+  "id": "prince-henry-the-navigator",
+  "slug": "prince-henry-the-navigator",
+  "name": "Prince Henry the Navigator",
+  "shortName": "Navigator",
+  "era": "1394-1460",
+  "region": "Portugal",
+  "regionId": "europe",
+  "lifespan": "1394-1460",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "explorer"
+  ],
+  "summary": "Prince Henry the Navigator is a notable explorer associated with Portugal.",
+  "knownFor": [
+    "Explorer",
+    "66 language biography editions",
+    "Historical Popularity Index 84.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Prince Henry the Navigator",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Prince Henry the Navigator",
+      "url": "https://pantheon.world/profile/person/Prince_Henry_the_Navigator",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "prince-henry-the-navigator-pantheon-profile",
+      "text": "Pantheon ranks Prince Henry the Navigator as a globally documented explorer with biographies in 66 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Prince Henry the Navigator a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Prince Henry the Navigator",
+      "sourceUrl": "https://pantheon.world/profile/person/Prince_Henry_the_Navigator",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

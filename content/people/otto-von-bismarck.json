@@ -1,0 +1,48 @@
+{
+  "id": "otto-von-bismarck",
+  "slug": "otto-von-bismarck",
+  "name": "Otto von Bismarck",
+  "shortName": "Bismarck",
+  "era": "1815-1898",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1815-1898",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Otto von Bismarck is a notable politician associated with Germany.",
+  "knownFor": [
+    "Politician",
+    "155 language biography editions",
+    "Historical Popularity Index 88.7"
+  ],
+  "featured": true,
+  "featuredRank": 189,
+  "imageAlt": "Portrait-style visual for Otto von Bismarck",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Otto von Bismarck",
+      "url": "https://pantheon.world/profile/person/Otto_von_Bismarck",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "otto-von-bismarck-pantheon-profile",
+      "text": "Pantheon ranks Otto von Bismarck as a globally documented politician with biographies in 155 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Otto von Bismarck a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Otto von Bismarck",
+      "sourceUrl": "https://pantheon.world/profile/person/Otto_von_Bismarck",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

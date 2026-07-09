@@ -1,0 +1,47 @@
+{
+  "id": "kosem-sultan",
+  "slug": "kosem-sultan",
+  "name": "Kösem Sultan",
+  "shortName": "Sultan",
+  "era": "1590-1651",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "1590-1651",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Kösem Sultan is a notable politician associated with Greece.",
+  "knownFor": [
+    "Politician",
+    "55 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Kösem Sultan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Kösem Sultan",
+      "url": "https://pantheon.world/profile/person/K%C3%B6sem_Sultan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "kosem-sultan-pantheon-profile",
+      "text": "Pantheon ranks Kösem Sultan as a globally documented politician with biographies in 55 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Kösem Sultan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Kösem Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/K%C3%B6sem_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "georg-ohm",
+  "slug": "georg-ohm",
+  "name": "Georg Ohm",
+  "shortName": "Ohm",
+  "era": "1789-1854",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1789-1854",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Georg Ohm is a notable physicist associated with Germany.",
+  "knownFor": [
+    "Physicist",
+    "96 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Georg Ohm",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Georg Ohm",
+      "url": "https://pantheon.world/profile/person/Georg_Ohm",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "georg-ohm-pantheon-profile",
+      "text": "Pantheon ranks Georg Ohm as a globally documented physicist with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Georg Ohm a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Georg Ohm",
+      "sourceUrl": "https://pantheon.world/profile/person/Georg_Ohm",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

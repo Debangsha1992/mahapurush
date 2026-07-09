@@ -1,0 +1,47 @@
+{
+  "id": "ursula-k-le-guin",
+  "slug": "ursula-k-le-guin",
+  "name": "Ursula K. Le Guin",
+  "shortName": "Guin",
+  "era": "1929-2018",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1929-2018",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Ursula K. Le Guin is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "82 language biography editions",
+    "Historical Popularity Index 81.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ursula K. Le Guin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ursula K. Le Guin",
+      "url": "https://pantheon.world/profile/person/Ursula_K._Le_Guin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ursula-k-le-guin-pantheon-profile",
+      "text": "Pantheon ranks Ursula K. Le Guin as a globally documented writer with biographies in 82 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ursula K. Le Guin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ursula K. Le Guin",
+      "sourceUrl": "https://pantheon.world/profile/person/Ursula_K._Le_Guin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

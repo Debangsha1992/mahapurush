@@ -1,0 +1,47 @@
+{
+  "id": "kurt-vonnegut",
+  "slug": "kurt-vonnegut",
+  "name": "Kurt Vonnegut",
+  "shortName": "Vonnegut",
+  "era": "1922-2007",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1922-2007",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Kurt Vonnegut is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "83 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Kurt Vonnegut",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Kurt Vonnegut",
+      "url": "https://pantheon.world/profile/person/Kurt_Vonnegut",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "kurt-vonnegut-pantheon-profile",
+      "text": "Pantheon ranks Kurt Vonnegut as a globally documented writer with biographies in 83 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Kurt Vonnegut a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Kurt Vonnegut",
+      "sourceUrl": "https://pantheon.world/profile/person/Kurt_Vonnegut",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

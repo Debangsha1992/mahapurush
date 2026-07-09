@@ -1,0 +1,47 @@
+{
+  "id": "sejong-the-great",
+  "slug": "sejong-the-great",
+  "name": "Sejong the Great",
+  "shortName": "Great",
+  "era": "1397-1450",
+  "region": "South Korea",
+  "regionId": "east-asia",
+  "lifespan": "1397-1450",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Sejong the Great is a notable politician associated with South Korea.",
+  "knownFor": [
+    "Politician",
+    "68 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Sejong the Great",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Sejong the Great",
+      "url": "https://pantheon.world/profile/person/Sejong_the_Great",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "sejong-the-great-pantheon-profile",
+      "text": "Pantheon ranks Sejong the Great as a globally documented politician with biographies in 68 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Sejong the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Sejong the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Sejong_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

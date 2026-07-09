@@ -1,0 +1,48 @@
+{
+  "id": "nicolae-ceausescu",
+  "slug": "nicolae-ceausescu",
+  "name": "Nicolae Ceaușescu",
+  "shortName": "Ceaușescu",
+  "era": "1918-1989",
+  "region": "Romania",
+  "regionId": "global-diaspora",
+  "lifespan": "1918-1989",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Nicolae Ceaușescu is a notable politician associated with Romania.",
+  "knownFor": [
+    "Politician",
+    "99 language biography editions",
+    "Historical Popularity Index 85.3"
+  ],
+  "featured": true,
+  "featuredRank": 410,
+  "imageAlt": "Portrait-style visual for Nicolae Ceaușescu",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Nicolae Ceaușescu",
+      "url": "https://pantheon.world/profile/person/Nicolae_Ceau%C8%99escu",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "nicolae-ceausescu-pantheon-profile",
+      "text": "Pantheon ranks Nicolae Ceaușescu as a globally documented politician with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Nicolae Ceaușescu a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Nicolae Ceaușescu",
+      "sourceUrl": "https://pantheon.world/profile/person/Nicolae_Ceau%C8%99escu",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "kim-jong-il",
+  "slug": "kim-jong-il",
+  "name": "Kim Jong-il",
+  "shortName": "Jong-il",
+  "era": "1941-2011",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1941-2011",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Kim Jong-il is a notable politician associated with Russia.",
+  "knownFor": [
+    "Politician",
+    "117 language biography editions",
+    "Historical Popularity Index 87.6"
+  ],
+  "featured": true,
+  "featuredRank": 239,
+  "imageAlt": "Portrait-style visual for Kim Jong-il",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Kim Jong-il",
+      "url": "https://pantheon.world/profile/person/Kim_Jong-il",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "kim-jong-il-pantheon-profile",
+      "text": "Pantheon ranks Kim Jong-il as a globally documented politician with biographies in 117 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Kim Jong-il a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Kim Jong-il",
+      "sourceUrl": "https://pantheon.world/profile/person/Kim_Jong-il",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

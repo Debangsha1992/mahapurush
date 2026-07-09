@@ -1,0 +1,47 @@
+{
+  "id": "isaiah",
+  "slug": "isaiah",
+  "name": "Isaiah",
+  "shortName": "Isaiah",
+  "era": "-800--700",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-800--700",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Isaiah is a notable religious figure associated with Israel.",
+  "knownFor": [
+    "Religious Figure",
+    "71 language biography editions",
+    "Historical Popularity Index 83.4"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Isaiah",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Isaiah",
+      "url": "https://pantheon.world/profile/person/Isaiah",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "isaiah-pantheon-profile",
+      "text": "Pantheon ranks Isaiah as a globally documented religious figure with biographies in 71 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Isaiah a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Isaiah",
+      "sourceUrl": "https://pantheon.world/profile/person/Isaiah",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

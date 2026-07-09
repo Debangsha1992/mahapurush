@@ -1,0 +1,48 @@
+{
+  "id": "niels-bohr",
+  "slug": "niels-bohr",
+  "name": "Niels Bohr",
+  "shortName": "Bohr",
+  "era": "1885-1962",
+  "region": "Denmark",
+  "regionId": "europe",
+  "lifespan": "1885-1962",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Niels Bohr is a notable physicist associated with Denmark.",
+  "knownFor": [
+    "Physicist",
+    "141 language biography editions",
+    "Historical Popularity Index 85.5"
+  ],
+  "featured": true,
+  "featuredRank": 391,
+  "imageAlt": "Portrait-style visual for Niels Bohr",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Niels Bohr",
+      "url": "https://pantheon.world/profile/person/Niels_Bohr",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "niels-bohr-pantheon-profile",
+      "text": "Pantheon ranks Niels Bohr as a globally documented physicist with biographies in 141 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Niels Bohr a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Niels Bohr",
+      "sourceUrl": "https://pantheon.world/profile/person/Niels_Bohr",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

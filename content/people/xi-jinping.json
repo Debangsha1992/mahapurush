@@ -1,0 +1,47 @@
+{
+  "id": "xi-jinping",
+  "slug": "xi-jinping",
+  "name": "Xi Jinping",
+  "shortName": "Jinping",
+  "era": "born 1953",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "born 1953",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Xi Jinping is a notable politician associated with China.",
+  "knownFor": [
+    "Politician",
+    "144 language biography editions",
+    "Historical Popularity Index 82.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Xi Jinping",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Xi Jinping",
+      "url": "https://pantheon.world/profile/person/Xi_Jinping",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "xi-jinping-pantheon-profile",
+      "text": "Pantheon ranks Xi Jinping as a globally documented politician with biographies in 144 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Xi Jinping a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Xi Jinping",
+      "sourceUrl": "https://pantheon.world/profile/person/Xi_Jinping",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

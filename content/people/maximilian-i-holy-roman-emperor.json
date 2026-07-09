@@ -1,0 +1,47 @@
+{
+  "id": "maximilian-i-holy-roman-emperor",
+  "slug": "maximilian-i-holy-roman-emperor",
+  "name": "Maximilian I, Holy Roman Emperor",
+  "shortName": "Emperor",
+  "era": "1459-1519",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1459-1519",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Maximilian I, Holy Roman Emperor is a notable politician associated with Austria.",
+  "knownFor": [
+    "Politician",
+    "74 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Maximilian I, Holy Roman Emperor",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Maximilian I, Holy Roman Emperor",
+      "url": "https://pantheon.world/profile/person/Maximilian_I%2C_Holy_Roman_Emperor",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "maximilian-i-holy-roman-emperor-pantheon-profile",
+      "text": "Pantheon ranks Maximilian I, Holy Roman Emperor as a globally documented politician with biographies in 74 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Maximilian I, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Maximilian I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Maximilian_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

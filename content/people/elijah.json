@@ -1,0 +1,48 @@
+{
+  "id": "elijah",
+  "slug": "elijah",
+  "name": "Elijah",
+  "shortName": "Elijah",
+  "era": "-1000--900",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-1000--900",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Elijah is a notable religious figure associated with Israel.",
+  "knownFor": [
+    "Religious Figure",
+    "87 language biography editions",
+    "Historical Popularity Index 85.7"
+  ],
+  "featured": true,
+  "featuredRank": 378,
+  "imageAlt": "Portrait-style visual for Elijah",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Elijah",
+      "url": "https://pantheon.world/profile/person/Elijah",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "elijah-pantheon-profile",
+      "text": "Pantheon ranks Elijah as a globally documented religious figure with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Elijah a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Elijah",
+      "sourceUrl": "https://pantheon.world/profile/person/Elijah",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "peter-paul-rubens",
+  "slug": "peter-paul-rubens",
+  "name": "Peter Paul Rubens",
+  "shortName": "Rubens",
+  "era": "1577-1640",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1577-1640",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Peter Paul Rubens is a notable painter associated with Germany.",
+  "knownFor": [
+    "Painter",
+    "150 language biography editions",
+    "Historical Popularity Index 88.3"
+  ],
+  "featured": true,
+  "featuredRank": 206,
+  "imageAlt": "Portrait-style visual for Peter Paul Rubens",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Peter Paul Rubens",
+      "url": "https://pantheon.world/profile/person/Peter_Paul_Rubens",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "peter-paul-rubens-pantheon-profile",
+      "text": "Pantheon ranks Peter Paul Rubens as a globally documented painter with biographies in 150 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Peter Paul Rubens a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Peter Paul Rubens",
+      "sourceUrl": "https://pantheon.world/profile/person/Peter_Paul_Rubens",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

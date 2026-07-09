@@ -1,0 +1,47 @@
+{
+  "id": "tom-jones-singer",
+  "slug": "tom-jones-singer",
+  "name": "Tom Jones",
+  "shortName": "Jones",
+  "era": "born 1940",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "born 1940",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "singer"
+  ],
+  "summary": "Tom Jones is a notable singer associated with United Kingdom.",
+  "knownFor": [
+    "Singer",
+    "58 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Tom Jones",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Tom Jones",
+      "url": "https://pantheon.world/profile/person/Tom_Jones_(singer)",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "tom-jones-singer-pantheon-profile",
+      "text": "Pantheon ranks Tom Jones as a globally documented singer with biographies in 58 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Tom Jones a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Tom Jones",
+      "sourceUrl": "https://pantheon.world/profile/person/Tom_Jones_(singer)",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "blaise-pascal",
+  "slug": "blaise-pascal",
+  "name": "Blaise Pascal",
+  "shortName": "Pascal",
+  "era": "1623-1662",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1623-1662",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "mathematician"
+  ],
+  "summary": "Blaise Pascal is a notable mathematician associated with France.",
+  "knownFor": [
+    "Mathematician",
+    "136 language biography editions",
+    "Historical Popularity Index 91.0"
+  ],
+  "featured": true,
+  "featuredRank": 100,
+  "imageAlt": "Portrait-style visual for Blaise Pascal",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Blaise Pascal",
+      "url": "https://pantheon.world/profile/person/Blaise_Pascal",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "blaise-pascal-pantheon-profile",
+      "text": "Pantheon ranks Blaise Pascal as a globally documented mathematician with biographies in 136 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Blaise Pascal a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Blaise Pascal",
+      "sourceUrl": "https://pantheon.world/profile/person/Blaise_Pascal",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

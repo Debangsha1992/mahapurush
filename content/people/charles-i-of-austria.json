@@ -1,0 +1,47 @@
+{
+  "id": "charles-i-of-austria",
+  "slug": "charles-i-of-austria",
+  "name": "Charles I of Austria",
+  "shortName": "Austria",
+  "era": "1887-1922",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1887-1922",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Charles I of Austria is a notable politician associated with Austria.",
+  "knownFor": [
+    "Politician",
+    "65 language biography editions",
+    "Historical Popularity Index 81.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Charles I of Austria",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Charles I of Austria",
+      "url": "https://pantheon.world/profile/person/Charles_I_of_Austria",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "charles-i-of-austria-pantheon-profile",
+      "text": "Pantheon ranks Charles I of Austria as a globally documented politician with biographies in 65 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles I of Austria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Charles I of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_I_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

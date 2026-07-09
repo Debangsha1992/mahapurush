@@ -1,0 +1,47 @@
+{
+  "id": "imelda-marcos",
+  "slug": "imelda-marcos",
+  "name": "Imelda Marcos",
+  "shortName": "Marcos",
+  "era": "born 1929",
+  "region": "Philippines",
+  "regionId": "southeast-asia-oceania",
+  "lifespan": "born 1929",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Imelda Marcos is a notable companion associated with Philippines.",
+  "knownFor": [
+    "Companion",
+    "95 language biography editions",
+    "Historical Popularity Index 83.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Imelda Marcos",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Imelda Marcos",
+      "url": "https://pantheon.world/profile/person/Imelda_Marcos",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "imelda-marcos-pantheon-profile",
+      "text": "Pantheon ranks Imelda Marcos as a globally documented companion with biographies in 95 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Imelda Marcos a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Imelda Marcos",
+      "sourceUrl": "https://pantheon.world/profile/person/Imelda_Marcos",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

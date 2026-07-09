@@ -1,0 +1,47 @@
+{
+  "id": "charles-thomson-rees-wilson",
+  "slug": "charles-thomson-rees-wilson",
+  "name": "Charles Thomson Rees Wilson",
+  "shortName": "Wilson",
+  "era": "1869-1959",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1869-1959",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Charles Thomson Rees Wilson is a notable physicist associated with United Kingdom.",
+  "knownFor": [
+    "Physicist",
+    "87 language biography editions",
+    "Historical Popularity Index 82.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Charles Thomson Rees Wilson",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Charles Thomson Rees Wilson",
+      "url": "https://pantheon.world/profile/person/Charles_Thomson_Rees_Wilson",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "charles-thomson-rees-wilson-pantheon-profile",
+      "text": "Pantheon ranks Charles Thomson Rees Wilson as a globally documented physicist with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles Thomson Rees Wilson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Charles Thomson Rees Wilson",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Thomson_Rees_Wilson",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

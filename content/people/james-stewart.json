@@ -1,0 +1,47 @@
+{
+  "id": "james-stewart",
+  "slug": "james-stewart",
+  "name": "James Stewart",
+  "shortName": "Stewart",
+  "era": "1908-1997",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1908-1997",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "James Stewart is a notable actor associated with United States.",
+  "knownFor": [
+    "Actor",
+    "87 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for James Stewart",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: James Stewart",
+      "url": "https://pantheon.world/profile/person/James_Stewart",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "james-stewart-pantheon-profile",
+      "text": "Pantheon ranks James Stewart as a globally documented actor with biographies in 87 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make James Stewart a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: James Stewart",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Stewart",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

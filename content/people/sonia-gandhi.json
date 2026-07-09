@@ -1,0 +1,47 @@
+{
+  "id": "sonia-gandhi",
+  "slug": "sonia-gandhi",
+  "name": "Sonia Gandhi",
+  "shortName": "Gandhi",
+  "era": "born 1946",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "born 1946",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Sonia Gandhi is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "83 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Sonia Gandhi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Sonia Gandhi",
+      "url": "https://pantheon.world/profile/person/Sonia_Gandhi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "sonia-gandhi-pantheon-profile",
+      "text": "Pantheon ranks Sonia Gandhi as a globally documented politician with biographies in 83 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Sonia Gandhi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Sonia Gandhi",
+      "sourceUrl": "https://pantheon.world/profile/person/Sonia_Gandhi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

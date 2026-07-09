@@ -1,0 +1,47 @@
+{
+  "id": "antonio-de-oliveira-salazar",
+  "slug": "antonio-de-oliveira-salazar",
+  "name": "António de Oliveira Salazar",
+  "shortName": "Salazar",
+  "era": "1889-1970",
+  "region": "Portugal",
+  "regionId": "europe",
+  "lifespan": "1889-1970",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "António de Oliveira Salazar is a notable politician associated with Portugal.",
+  "knownFor": [
+    "Politician",
+    "84 language biography editions",
+    "Historical Popularity Index 81.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for António de Oliveira Salazar",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: António de Oliveira Salazar",
+      "url": "https://pantheon.world/profile/person/Ant%C3%B3nio_de_Oliveira_Salazar",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "antonio-de-oliveira-salazar-pantheon-profile",
+      "text": "Pantheon ranks António de Oliveira Salazar as a globally documented politician with biographies in 84 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make António de Oliveira Salazar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: António de Oliveira Salazar",
+      "sourceUrl": "https://pantheon.world/profile/person/Ant%C3%B3nio_de_Oliveira_Salazar",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

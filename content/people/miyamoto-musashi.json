@@ -1,0 +1,47 @@
+{
+  "id": "miyamoto-musashi",
+  "slug": "miyamoto-musashi",
+  "name": "Miyamoto Musashi",
+  "shortName": "Musashi",
+  "era": "1584-1645",
+  "region": "Japan",
+  "regionId": "east-asia",
+  "lifespan": "1584-1645",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Miyamoto Musashi is a notable writer associated with Japan.",
+  "knownFor": [
+    "Writer",
+    "73 language biography editions",
+    "Historical Popularity Index 81.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Miyamoto Musashi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Miyamoto Musashi",
+      "url": "https://pantheon.world/profile/person/Miyamoto_Musashi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "miyamoto-musashi-pantheon-profile",
+      "text": "Pantheon ranks Miyamoto Musashi as a globally documented writer with biographies in 73 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Miyamoto Musashi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Miyamoto Musashi",
+      "sourceUrl": "https://pantheon.world/profile/person/Miyamoto_Musashi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

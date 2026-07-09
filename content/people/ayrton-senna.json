@@ -1,0 +1,47 @@
+{
+  "id": "ayrton-senna",
+  "slug": "ayrton-senna",
+  "name": "Ayrton Senna",
+  "shortName": "Senna",
+  "era": "1960-1994",
+  "region": "Brazil",
+  "regionId": "latin-america-caribbean",
+  "lifespan": "1960-1994",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "racing-driver"
+  ],
+  "summary": "Ayrton Senna is a notable racing driver associated with Brazil.",
+  "knownFor": [
+    "Racing Driver",
+    "90 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ayrton Senna",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ayrton Senna",
+      "url": "https://pantheon.world/profile/person/Ayrton_Senna",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ayrton-senna-pantheon-profile",
+      "text": "Pantheon ranks Ayrton Senna as a globally documented racing driver with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ayrton Senna a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ayrton Senna",
+      "sourceUrl": "https://pantheon.world/profile/person/Ayrton_Senna",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

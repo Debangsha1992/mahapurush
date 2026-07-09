@@ -1,0 +1,48 @@
+{
+  "id": "malcolm-x",
+  "slug": "malcolm-x",
+  "name": "Malcolm X",
+  "shortName": "X",
+  "era": "1925-1965",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1925-1965",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "social-activist"
+  ],
+  "summary": "Malcolm X is a notable social activist associated with United States.",
+  "knownFor": [
+    "Social Activist",
+    "97 language biography editions",
+    "Historical Popularity Index 86.4"
+  ],
+  "featured": true,
+  "featuredRank": 320,
+  "imageAlt": "Portrait-style visual for Malcolm X",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Malcolm X",
+      "url": "https://pantheon.world/profile/person/Malcolm_X",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "malcolm-x-pantheon-profile",
+      "text": "Pantheon ranks Malcolm X as a globally documented social activist with biographies in 97 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Malcolm X a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Malcolm X",
+      "sourceUrl": "https://pantheon.world/profile/person/Malcolm_X",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

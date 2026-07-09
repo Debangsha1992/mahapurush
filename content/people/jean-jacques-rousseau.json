@@ -1,0 +1,48 @@
+{
+  "id": "jean-jacques-rousseau",
+  "slug": "jean-jacques-rousseau",
+  "name": "Jean-Jacques Rousseau",
+  "shortName": "Rousseau",
+  "era": "1712-1778",
+  "region": "Switzerland",
+  "regionId": "europe",
+  "lifespan": "1712-1778",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Jean-Jacques Rousseau is a notable philosopher associated with Switzerland.",
+  "knownFor": [
+    "Philosopher",
+    "157 language biography editions",
+    "Historical Popularity Index 91.3"
+  ],
+  "featured": true,
+  "featuredRank": 95,
+  "imageAlt": "Portrait-style visual for Jean-Jacques Rousseau",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jean-Jacques Rousseau",
+      "url": "https://pantheon.world/profile/person/Jean-Jacques_Rousseau",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jean-jacques-rousseau-pantheon-profile",
+      "text": "Pantheon ranks Jean-Jacques Rousseau as a globally documented philosopher with biographies in 157 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jean-Jacques Rousseau a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jean-Jacques Rousseau",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Jacques_Rousseau",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

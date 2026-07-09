@@ -1,0 +1,48 @@
+{
+  "id": "richard-i-of-england",
+  "slug": "richard-i-of-england",
+  "name": "Richard I of England",
+  "shortName": "England",
+  "era": "1157-1199",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1157-1199",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Richard I of England is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "97 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 317,
+  "imageAlt": "Portrait-style visual for Richard I of England",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Richard I of England",
+      "url": "https://pantheon.world/profile/person/Richard_I_of_England",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "richard-i-of-england-pantheon-profile",
+      "text": "Pantheon ranks Richard I of England as a globally documented politician with biographies in 97 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Richard I of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Richard I of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Richard_I_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

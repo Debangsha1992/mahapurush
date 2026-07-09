@@ -1,0 +1,48 @@
+{
+  "id": "john-calvin",
+  "slug": "john-calvin",
+  "name": "John Calvin",
+  "shortName": "Calvin",
+  "era": "1509-1564",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1509-1564",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "John Calvin is a notable religious figure associated with France.",
+  "knownFor": [
+    "Religious Figure",
+    "111 language biography editions",
+    "Historical Popularity Index 85.2"
+  ],
+  "featured": true,
+  "featuredRank": 419,
+  "imageAlt": "Portrait-style visual for John Calvin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: John Calvin",
+      "url": "https://pantheon.world/profile/person/John_Calvin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "john-calvin-pantheon-profile",
+      "text": "Pantheon ranks John Calvin as a globally documented religious figure with biographies in 111 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make John Calvin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: John Calvin",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Calvin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

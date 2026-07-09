@@ -1,0 +1,47 @@
+{
+  "id": "alexandre-dumas-fils",
+  "slug": "alexandre-dumas-fils",
+  "name": "Alexandre Dumas fils",
+  "shortName": "fils",
+  "era": "1824-1895",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1824-1895",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Alexandre Dumas fils is a notable writer associated with France.",
+  "knownFor": [
+    "Writer",
+    "68 language biography editions",
+    "Historical Popularity Index 81.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Alexandre Dumas fils",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alexandre Dumas fils",
+      "url": "https://pantheon.world/profile/person/Alexandre_Dumas_fils",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alexandre-dumas-fils-pantheon-profile",
+      "text": "Pantheon ranks Alexandre Dumas fils as a globally documented writer with biographies in 68 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alexandre Dumas fils a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alexandre Dumas fils",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexandre_Dumas_fils",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

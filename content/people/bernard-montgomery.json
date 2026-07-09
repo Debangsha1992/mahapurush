@@ -1,0 +1,47 @@
+{
+  "id": "bernard-montgomery",
+  "slug": "bernard-montgomery",
+  "name": "Bernard Montgomery",
+  "shortName": "Montgomery",
+  "era": "1887-1976",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1887-1976",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Bernard Montgomery is a notable military personnel associated with United Kingdom.",
+  "knownFor": [
+    "Military Personnel",
+    "71 language biography editions",
+    "Historical Popularity Index 84.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Bernard Montgomery",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Bernard Montgomery",
+      "url": "https://pantheon.world/profile/person/Bernard_Montgomery",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "bernard-montgomery-pantheon-profile",
+      "text": "Pantheon ranks Bernard Montgomery as a globally documented military personnel with biographies in 71 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Bernard Montgomery a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Bernard Montgomery",
+      "sourceUrl": "https://pantheon.world/profile/person/Bernard_Montgomery",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "thomas-hardy",
+  "slug": "thomas-hardy",
+  "name": "Thomas Hardy",
+  "shortName": "Hardy",
+  "era": "1840-1928",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1840-1928",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Thomas Hardy is a notable writer associated with United Kingdom.",
+  "knownFor": [
+    "Writer",
+    "89 language biography editions",
+    "Historical Popularity Index 84.4"
+  ],
+  "featured": true,
+  "featuredRank": 493,
+  "imageAlt": "Portrait-style visual for Thomas Hardy",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Thomas Hardy",
+      "url": "https://pantheon.world/profile/person/Thomas_Hardy",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "thomas-hardy-pantheon-profile",
+      "text": "Pantheon ranks Thomas Hardy as a globally documented writer with biographies in 89 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Thomas Hardy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Thomas Hardy",
+      "sourceUrl": "https://pantheon.world/profile/person/Thomas_Hardy",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

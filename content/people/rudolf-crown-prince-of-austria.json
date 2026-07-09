@@ -1,0 +1,47 @@
+{
+  "id": "rudolf-crown-prince-of-austria",
+  "slug": "rudolf-crown-prince-of-austria",
+  "name": "Rudolf, Crown Prince of Austria",
+  "shortName": "Austria",
+  "era": "1858-1889",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1858-1889",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "nobleman"
+  ],
+  "summary": "Rudolf, Crown Prince of Austria is a notable nobleman associated with Austria.",
+  "knownFor": [
+    "Nobleman",
+    "47 language biography editions",
+    "Historical Popularity Index 82.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Rudolf, Crown Prince of Austria",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Rudolf, Crown Prince of Austria",
+      "url": "https://pantheon.world/profile/person/Rudolf%2C_Crown_Prince_of_Austria",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "rudolf-crown-prince-of-austria-pantheon-profile",
+      "text": "Pantheon ranks Rudolf, Crown Prince of Austria as a globally documented nobleman with biographies in 47 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Rudolf, Crown Prince of Austria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Rudolf, Crown Prince of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Rudolf%2C_Crown_Prince_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

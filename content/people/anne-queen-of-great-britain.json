@@ -1,0 +1,48 @@
+{
+  "id": "anne-queen-of-great-britain",
+  "slug": "anne-queen-of-great-britain",
+  "name": "Anne, Queen of Great Britain",
+  "shortName": "Britain",
+  "era": "1665-1714",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1665-1714",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Anne, Queen of Great Britain is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "86 language biography editions",
+    "Historical Popularity Index 88.4"
+  ],
+  "featured": true,
+  "featuredRank": 199,
+  "imageAlt": "Portrait-style visual for Anne, Queen of Great Britain",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Anne, Queen of Great Britain",
+      "url": "https://pantheon.world/profile/person/Anne%2C_Queen_of_Great_Britain",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "anne-queen-of-great-britain-pantheon-profile",
+      "text": "Pantheon ranks Anne, Queen of Great Britain as a globally documented politician with biographies in 86 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Anne, Queen of Great Britain a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Anne, Queen of Great Britain",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Queen_of_Great_Britain",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

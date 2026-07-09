@@ -1,0 +1,47 @@
+{
+  "id": "pope-benedict-xiv",
+  "slug": "pope-benedict-xiv",
+  "name": "Pope Benedict XIV",
+  "shortName": "XIV",
+  "era": "1675-1758",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1675-1758",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Benedict XIV is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "80 language biography editions",
+    "Historical Popularity Index 83.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Benedict XIV",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Benedict XIV",
+      "url": "https://pantheon.world/profile/person/Pope_Benedict_XIV",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-benedict-xiv-pantheon-profile",
+      "text": "Pantheon ranks Pope Benedict XIV as a globally documented religious figure with biographies in 80 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Benedict XIV a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Benedict XIV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XIV",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

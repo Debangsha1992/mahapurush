@@ -1,0 +1,48 @@
+{
+  "id": "jack-the-ripper",
+  "slug": "jack-the-ripper",
+  "name": "Jack the Ripper",
+  "shortName": "Ripper",
+  "era": "born 1850",
+  "region": "Global",
+  "regionId": "global-diaspora",
+  "lifespan": "born 1850",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "extremist"
+  ],
+  "summary": "Jack the Ripper is a notable extremist associated with Global.",
+  "knownFor": [
+    "Extremist",
+    "81 language biography editions",
+    "Historical Popularity Index 87.1"
+  ],
+  "featured": true,
+  "featuredRank": 269,
+  "imageAlt": "Portrait-style visual for Jack the Ripper",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jack the Ripper",
+      "url": "https://pantheon.world/profile/person/Jack_the_Ripper",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jack-the-ripper-pantheon-profile",
+      "text": "Pantheon ranks Jack the Ripper as a globally documented extremist with biographies in 81 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jack the Ripper a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jack the Ripper",
+      "sourceUrl": "https://pantheon.world/profile/person/Jack_the_Ripper",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

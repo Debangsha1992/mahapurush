@@ -1,0 +1,48 @@
+{
+  "id": "wolfgang-amadeus-mozart",
+  "slug": "wolfgang-amadeus-mozart",
+  "name": "Wolfgang Amadeus Mozart",
+  "shortName": "Mozart",
+  "era": "1756-1791",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1756-1791",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Wolfgang Amadeus Mozart is a notable composer associated with Austria.",
+  "knownFor": [
+    "Composer",
+    "222 language biography editions",
+    "Historical Popularity Index 95.4"
+  ],
+  "featured": true,
+  "featuredRank": 48,
+  "imageAlt": "Portrait-style visual for Wolfgang Amadeus Mozart",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Wolfgang Amadeus Mozart",
+      "url": "https://pantheon.world/profile/person/Wolfgang_Amadeus_Mozart",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "wolfgang-amadeus-mozart-pantheon-profile",
+      "text": "Pantheon ranks Wolfgang Amadeus Mozart as a globally documented composer with biographies in 222 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Wolfgang Amadeus Mozart a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Wolfgang Amadeus Mozart",
+      "sourceUrl": "https://pantheon.world/profile/person/Wolfgang_Amadeus_Mozart",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "antonin-dvorak",
+  "slug": "antonin-dvorak",
+  "name": "Antonín Dvořák",
+  "shortName": "Dvořák",
+  "era": "1841-1904",
+  "region": "Czechia",
+  "regionId": "global-diaspora",
+  "lifespan": "1841-1904",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Antonín Dvořák is a notable composer associated with Czechia.",
+  "knownFor": [
+    "Composer",
+    "128 language biography editions",
+    "Historical Popularity Index 85.6"
+  ],
+  "featured": true,
+  "featuredRank": 382,
+  "imageAlt": "Portrait-style visual for Antonín Dvořák",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Antonín Dvořák",
+      "url": "https://pantheon.world/profile/person/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "antonin-dvorak-pantheon-profile",
+      "text": "Pantheon ranks Antonín Dvořák as a globally documented composer with biographies in 128 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Antonín Dvořák a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Antonín Dvořák",
+      "sourceUrl": "https://pantheon.world/profile/person/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

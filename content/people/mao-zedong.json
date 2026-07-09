@@ -1,0 +1,48 @@
+{
+  "id": "mao-zedong",
+  "slug": "mao-zedong",
+  "name": "Mao Zedong",
+  "shortName": "Zedong",
+  "era": "1893-1976",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "1893-1976",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mao Zedong is a notable politician associated with China.",
+  "knownFor": [
+    "Politician",
+    "181 language biography editions",
+    "Historical Popularity Index 88.7"
+  ],
+  "featured": true,
+  "featuredRank": 187,
+  "imageAlt": "Portrait-style visual for Mao Zedong",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mao Zedong",
+      "url": "https://pantheon.world/profile/person/Mao_Zedong",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mao-zedong-pantheon-profile",
+      "text": "Pantheon ranks Mao Zedong as a globally documented politician with biographies in 181 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mao Zedong a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mao Zedong",
+      "sourceUrl": "https://pantheon.world/profile/person/Mao_Zedong",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

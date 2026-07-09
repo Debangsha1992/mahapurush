@@ -1,0 +1,48 @@
+{
+  "id": "johannes-brahms",
+  "slug": "johannes-brahms",
+  "name": "Johannes Brahms",
+  "shortName": "Brahms",
+  "era": "1833-1897",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1833-1897",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Johannes Brahms is a notable composer associated with Germany.",
+  "knownFor": [
+    "Composer",
+    "129 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 366,
+  "imageAlt": "Portrait-style visual for Johannes Brahms",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Johannes Brahms",
+      "url": "https://pantheon.world/profile/person/Johannes_Brahms",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "johannes-brahms-pantheon-profile",
+      "text": "Pantheon ranks Johannes Brahms as a globally documented composer with biographies in 129 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Johannes Brahms a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Johannes Brahms",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Brahms",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "rumi",
+  "slug": "rumi",
+  "name": "Rumi",
+  "shortName": "Rumi",
+  "era": "1207-1273",
+  "region": "Afghanistan",
+  "regionId": "south-asia",
+  "lifespan": "1207-1273",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Rumi is a notable writer associated with Afghanistan.",
+  "knownFor": [
+    "Writer",
+    "109 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 304,
+  "imageAlt": "Portrait-style visual for Rumi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Rumi",
+      "url": "https://pantheon.world/profile/person/Rumi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "rumi-pantheon-profile",
+      "text": "Pantheon ranks Rumi as a globally documented writer with biographies in 109 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Rumi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Rumi",
+      "sourceUrl": "https://pantheon.world/profile/person/Rumi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

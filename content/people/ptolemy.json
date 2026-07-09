@@ -1,0 +1,48 @@
+{
+  "id": "ptolemy",
+  "slug": "ptolemy",
+  "name": "Ptolemy",
+  "shortName": "Ptolemy",
+  "era": "100-170",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "100-170",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "astronomer"
+  ],
+  "summary": "Ptolemy is a notable astronomer associated with Egypt.",
+  "knownFor": [
+    "Astronomer",
+    "118 language biography editions",
+    "Historical Popularity Index 87.1"
+  ],
+  "featured": true,
+  "featuredRank": 271,
+  "imageAlt": "Portrait-style visual for Ptolemy",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ptolemy",
+      "url": "https://pantheon.world/profile/person/Ptolemy",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ptolemy-pantheon-profile",
+      "text": "Pantheon ranks Ptolemy as a globally documented astronomer with biographies in 118 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ptolemy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ptolemy",
+      "sourceUrl": "https://pantheon.world/profile/person/Ptolemy",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

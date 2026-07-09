@@ -1,0 +1,47 @@
+{
+  "id": "mohammad-reza-pahlavi",
+  "slug": "mohammad-reza-pahlavi",
+  "name": "Mohammad Reza Pahlavi",
+  "shortName": "Pahlavi",
+  "era": "1919-1980",
+  "region": "Iran",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1919-1980",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mohammad Reza Pahlavi is a notable politician associated with Iran.",
+  "knownFor": [
+    "Politician",
+    "98 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mohammad Reza Pahlavi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mohammad Reza Pahlavi",
+      "url": "https://pantheon.world/profile/person/Mohammad_Reza_Pahlavi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mohammad-reza-pahlavi-pantheon-profile",
+      "text": "Pantheon ranks Mohammad Reza Pahlavi as a globally documented politician with biographies in 98 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mohammad Reza Pahlavi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mohammad Reza Pahlavi",
+      "sourceUrl": "https://pantheon.world/profile/person/Mohammad_Reza_Pahlavi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

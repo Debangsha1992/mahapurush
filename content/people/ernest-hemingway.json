@@ -1,0 +1,48 @@
+{
+  "id": "ernest-hemingway",
+  "slug": "ernest-hemingway",
+  "name": "Ernest Hemingway",
+  "shortName": "Hemingway",
+  "era": "1899-1961",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1899-1961",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Ernest Hemingway is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "151 language biography editions",
+    "Historical Popularity Index 85.0"
+  ],
+  "featured": true,
+  "featuredRank": 442,
+  "imageAlt": "Portrait-style visual for Ernest Hemingway",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ernest Hemingway",
+      "url": "https://pantheon.world/profile/person/Ernest_Hemingway",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ernest-hemingway-pantheon-profile",
+      "text": "Pantheon ranks Ernest Hemingway as a globally documented writer with biographies in 151 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ernest Hemingway a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ernest Hemingway",
+      "sourceUrl": "https://pantheon.world/profile/person/Ernest_Hemingway",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

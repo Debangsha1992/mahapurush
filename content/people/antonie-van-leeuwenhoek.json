@@ -1,0 +1,47 @@
+{
+  "id": "antonie-van-leeuwenhoek",
+  "slug": "antonie-van-leeuwenhoek",
+  "name": "Antonie van Leeuwenhoek",
+  "shortName": "Leeuwenhoek",
+  "era": "1632-1723",
+  "region": "Netherlands",
+  "regionId": "europe",
+  "lifespan": "1632-1723",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "biologist"
+  ],
+  "summary": "Antonie van Leeuwenhoek is a notable biologist associated with Netherlands.",
+  "knownFor": [
+    "Biologist",
+    "99 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Antonie van Leeuwenhoek",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Antonie van Leeuwenhoek",
+      "url": "https://pantheon.world/profile/person/Antonie_van_Leeuwenhoek",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "antonie-van-leeuwenhoek-pantheon-profile",
+      "text": "Pantheon ranks Antonie van Leeuwenhoek as a globally documented biologist with biographies in 99 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Antonie van Leeuwenhoek a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Antonie van Leeuwenhoek",
+      "sourceUrl": "https://pantheon.world/profile/person/Antonie_van_Leeuwenhoek",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

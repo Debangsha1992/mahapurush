@@ -1,0 +1,47 @@
+{
+  "id": "ezekiel",
+  "slug": "ezekiel",
+  "name": "Ezekiel",
+  "shortName": "Ezekiel",
+  "era": "-621--569",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-621--569",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Ezekiel is a notable religious figure associated with Israel.",
+  "knownFor": [
+    "Religious Figure",
+    "62 language biography editions",
+    "Historical Popularity Index 81.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ezekiel",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ezekiel",
+      "url": "https://pantheon.world/profile/person/Ezekiel",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ezekiel-pantheon-profile",
+      "text": "Pantheon ranks Ezekiel as a globally documented religious figure with biographies in 62 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ezekiel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ezekiel",
+      "sourceUrl": "https://pantheon.world/profile/person/Ezekiel",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

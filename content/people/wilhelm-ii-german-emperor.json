@@ -1,0 +1,48 @@
+{
+  "id": "wilhelm-ii-german-emperor",
+  "slug": "wilhelm-ii-german-emperor",
+  "name": "Wilhelm II, German Emperor",
+  "shortName": "Emperor",
+  "era": "1859-1941",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1859-1941",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Wilhelm II, German Emperor is a notable politician associated with Germany.",
+  "knownFor": [
+    "Politician",
+    "107 language biography editions",
+    "Historical Popularity Index 88.5"
+  ],
+  "featured": true,
+  "featuredRank": 195,
+  "imageAlt": "Portrait-style visual for Wilhelm II, German Emperor",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Wilhelm II, German Emperor",
+      "url": "https://pantheon.world/profile/person/Wilhelm_II%2C_German_Emperor",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "wilhelm-ii-german-emperor-pantheon-profile",
+      "text": "Pantheon ranks Wilhelm II, German Emperor as a globally documented politician with biographies in 107 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Wilhelm II, German Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Wilhelm II, German Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Wilhelm_II%2C_German_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

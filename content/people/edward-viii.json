@@ -1,0 +1,48 @@
+{
+  "id": "edward-viii",
+  "slug": "edward-viii",
+  "name": "Edward VIII",
+  "shortName": "VIII",
+  "era": "1894-1972",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1894-1972",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Edward VIII is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "96 language biography editions",
+    "Historical Popularity Index 89.2"
+  ],
+  "featured": true,
+  "featuredRank": 163,
+  "imageAlt": "Portrait-style visual for Edward VIII",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edward VIII",
+      "url": "https://pantheon.world/profile/person/Edward_VIII",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edward-viii-pantheon-profile",
+      "text": "Pantheon ranks Edward VIII as a globally documented politician with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward VIII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edward VIII",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VIII",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "yuri-gagarin",
+  "slug": "yuri-gagarin",
+  "name": "Yuri Gagarin",
+  "shortName": "Gagarin",
+  "era": "1934-1968",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1934-1968",
+  "primaryDomain": "environment-exploration-human-achievement",
+  "domains": [
+    "environment-exploration-human-achievement",
+    "astronaut"
+  ],
+  "summary": "Yuri Gagarin is a notable astronaut associated with Russia.",
+  "knownFor": [
+    "Astronaut",
+    "171 language biography editions",
+    "Historical Popularity Index 87.2"
+  ],
+  "featured": true,
+  "featuredRank": 264,
+  "imageAlt": "Portrait-style visual for Yuri Gagarin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Yuri Gagarin",
+      "url": "https://pantheon.world/profile/person/Yuri_Gagarin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "yuri-gagarin-pantheon-profile",
+      "text": "Pantheon ranks Yuri Gagarin as a globally documented astronaut with biographies in 171 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Yuri Gagarin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Yuri Gagarin",
+      "sourceUrl": "https://pantheon.world/profile/person/Yuri_Gagarin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

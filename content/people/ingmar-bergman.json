@@ -1,0 +1,47 @@
+{
+  "id": "ingmar-bergman",
+  "slug": "ingmar-bergman",
+  "name": "Ingmar Bergman",
+  "shortName": "Bergman",
+  "era": "1918-2007",
+  "region": "Sweden",
+  "regionId": "europe",
+  "lifespan": "1918-2007",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "film-director"
+  ],
+  "summary": "Ingmar Bergman is a notable film director associated with Sweden.",
+  "knownFor": [
+    "Film Director",
+    "134 language biography editions",
+    "Historical Popularity Index 82.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ingmar Bergman",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ingmar Bergman",
+      "url": "https://pantheon.world/profile/person/Ingmar_Bergman",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ingmar-bergman-pantheon-profile",
+      "text": "Pantheon ranks Ingmar Bergman as a globally documented film director with biographies in 134 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ingmar Bergman a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ingmar Bergman",
+      "sourceUrl": "https://pantheon.world/profile/person/Ingmar_Bergman",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

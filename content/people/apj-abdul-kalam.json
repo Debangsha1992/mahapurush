@@ -6,9 +6,15 @@
   "era": "1931-2015",
   "region": "India",
   "lifespan": "1931-2015",
-  "domains": ["aerospace", "public leadership", "education"],
+  "domains": [
+    "justice-governance-leadership"
+  ],
   "summary": "A. P. J. Abdul Kalam worked in Indian aerospace and later became a public educator and president of India.",
-  "knownFor": ["missile and space programs", "11th president of India", "youth education"],
+  "knownFor": [
+    "missile and space programs",
+    "11th president of India",
+    "youth education"
+  ],
   "facts": [
     {
       "id": "apj-abdul-kalam-isro-slv",
@@ -18,8 +24,24 @@
       "sourceUrl": "https://www.isro.gov.in/SLV3.html",
       "sourceAccessedAt": "2026-07-05",
       "sourceDate": "1980-07-18",
-      "tags": ["space", "engineering"],
+      "tags": [
+        "space",
+        "engineering"
+      ],
       "verified": true
     }
-  ]
+  ],
+  "regionId": "south-asia",
+  "primaryDomain": "justice-governance-leadership",
+  "featured": true,
+  "featuredRank": 4,
+  "imageAlt": "Portrait-style visual for A. P. J. Abdul Kalam",
+  "sourceRefs": [
+    {
+      "title": "ISRO: SLV-3",
+      "url": "https://www.isro.gov.in/SLV3.html",
+      "accessedAt": "2026-07-05"
+    }
+  ],
+  "reviewStatus": "published"
 }

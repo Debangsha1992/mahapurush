@@ -1,0 +1,47 @@
+{
+  "id": "skanderbeg",
+  "slug": "skanderbeg",
+  "name": "Skanderbeg",
+  "shortName": "Skanderbeg",
+  "era": "1405-1468",
+  "region": "Albania",
+  "regionId": "global-diaspora",
+  "lifespan": "1405-1468",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Skanderbeg is a notable politician associated with Albania.",
+  "knownFor": [
+    "Politician",
+    "75 language biography editions",
+    "Historical Popularity Index 83.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Skanderbeg",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Skanderbeg",
+      "url": "https://pantheon.world/profile/person/Skanderbeg",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "skanderbeg-pantheon-profile",
+      "text": "Pantheon ranks Skanderbeg as a globally documented politician with biographies in 75 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Skanderbeg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Skanderbeg",
+      "sourceUrl": "https://pantheon.world/profile/person/Skanderbeg",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "petrarch",
+  "slug": "petrarch",
+  "name": "Petrarch",
+  "shortName": "Petrarch",
+  "era": "1304-1374",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1304-1374",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Petrarch is a notable writer associated with Italy.",
+  "knownFor": [
+    "Writer",
+    "109 language biography editions",
+    "Historical Popularity Index 86.6"
+  ],
+  "featured": true,
+  "featuredRank": 310,
+  "imageAlt": "Portrait-style visual for Petrarch",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Petrarch",
+      "url": "https://pantheon.world/profile/person/Petrarch",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "petrarch-pantheon-profile",
+      "text": "Pantheon ranks Petrarch as a globally documented writer with biographies in 109 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Petrarch a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Petrarch",
+      "sourceUrl": "https://pantheon.world/profile/person/Petrarch",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

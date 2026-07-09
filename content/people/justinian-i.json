@@ -1,0 +1,48 @@
+{
+  "id": "justinian-i",
+  "slug": "justinian-i",
+  "name": "Justinian I",
+  "shortName": "I",
+  "era": "482-565",
+  "region": "North Macedonia",
+  "regionId": "global-diaspora",
+  "lifespan": "482-565",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Justinian I is a notable politician associated with North Macedonia.",
+  "knownFor": [
+    "Politician",
+    "101 language biography editions",
+    "Historical Popularity Index 85.7"
+  ],
+  "featured": true,
+  "featuredRank": 380,
+  "imageAlt": "Portrait-style visual for Justinian I",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Justinian I",
+      "url": "https://pantheon.world/profile/person/Justinian_I",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "justinian-i-pantheon-profile",
+      "text": "Pantheon ranks Justinian I as a globally documented politician with biographies in 101 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Justinian I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Justinian I",
+      "sourceUrl": "https://pantheon.world/profile/person/Justinian_I",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

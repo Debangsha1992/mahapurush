@@ -1,0 +1,48 @@
+{
+  "id": "leonid-brezhnev",
+  "slug": "leonid-brezhnev",
+  "name": "Leonid Brezhnev",
+  "shortName": "Brezhnev",
+  "era": "1906-1982",
+  "region": "Ukraine",
+  "regionId": "europe",
+  "lifespan": "1906-1982",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Leonid Brezhnev is a notable politician associated with Ukraine.",
+  "knownFor": [
+    "Politician",
+    "114 language biography editions",
+    "Historical Popularity Index 85.4"
+  ],
+  "featured": true,
+  "featuredRank": 402,
+  "imageAlt": "Portrait-style visual for Leonid Brezhnev",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Leonid Brezhnev",
+      "url": "https://pantheon.world/profile/person/Leonid_Brezhnev",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "leonid-brezhnev-pantheon-profile",
+      "text": "Pantheon ranks Leonid Brezhnev as a globally documented politician with biographies in 114 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Leonid Brezhnev a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Leonid Brezhnev",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonid_Brezhnev",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "mark-antony",
+  "slug": "mark-antony",
+  "name": "Mark Antony",
+  "shortName": "Antony",
+  "era": "-83--30",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-83--30",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mark Antony is a notable politician associated with Italy.",
+  "knownFor": [
+    "Politician",
+    "90 language biography editions",
+    "Historical Popularity Index 84.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mark Antony",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mark Antony",
+      "url": "https://pantheon.world/profile/person/Mark_Antony",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mark-antony-pantheon-profile",
+      "text": "Pantheon ranks Mark Antony as a globally documented politician with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mark Antony a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mark Antony",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_Antony",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

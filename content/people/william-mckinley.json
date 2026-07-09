@@ -1,0 +1,48 @@
+{
+  "id": "william-mckinley",
+  "slug": "william-mckinley",
+  "name": "William McKinley",
+  "shortName": "McKinley",
+  "era": "1843-1901",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1843-1901",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "William McKinley is a notable politician associated with United States.",
+  "knownFor": [
+    "Politician",
+    "124 language biography editions",
+    "Historical Popularity Index 89.3"
+  ],
+  "featured": true,
+  "featuredRank": 157,
+  "imageAlt": "Portrait-style visual for William McKinley",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: William McKinley",
+      "url": "https://pantheon.world/profile/person/William_McKinley",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "william-mckinley-pantheon-profile",
+      "text": "Pantheon ranks William McKinley as a globally documented politician with biographies in 124 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make William McKinley a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: William McKinley",
+      "sourceUrl": "https://pantheon.world/profile/person/William_McKinley",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "umar",
+  "slug": "umar",
+  "name": "Umar",
+  "shortName": "Umar",
+  "era": "585-644",
+  "region": "Saudi Arabia",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "585-644",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Umar is a notable politician associated with Saudi Arabia.",
+  "knownFor": [
+    "Politician",
+    "135 language biography editions",
+    "Historical Popularity Index 89.3"
+  ],
+  "featured": true,
+  "featuredRank": 159,
+  "imageAlt": "Portrait-style visual for Umar",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Umar",
+      "url": "https://pantheon.world/profile/person/Umar",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "umar-pantheon-profile",
+      "text": "Pantheon ranks Umar as a globally documented politician with biographies in 135 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Umar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Umar",
+      "sourceUrl": "https://pantheon.world/profile/person/Umar",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "gustav-klimt",
+  "slug": "gustav-klimt",
+  "name": "Gustav Klimt",
+  "shortName": "Klimt",
+  "era": "1862-1918",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1862-1918",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "painter"
+  ],
+  "summary": "Gustav Klimt is a notable painter associated with Austria.",
+  "knownFor": [
+    "Painter",
+    "92 language biography editions",
+    "Historical Popularity Index 84.5"
+  ],
+  "featured": true,
+  "featuredRank": 483,
+  "imageAlt": "Portrait-style visual for Gustav Klimt",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Gustav Klimt",
+      "url": "https://pantheon.world/profile/person/Gustav_Klimt",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "gustav-klimt-pantheon-profile",
+      "text": "Pantheon ranks Gustav Klimt as a globally documented painter with biographies in 92 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Gustav Klimt a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Gustav Klimt",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustav_Klimt",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

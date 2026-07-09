@@ -1,0 +1,47 @@
+{
+  "id": "stanley-kubrick",
+  "slug": "stanley-kubrick",
+  "name": "Stanley Kubrick",
+  "shortName": "Kubrick",
+  "era": "1928-1999",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1928-1999",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "film-director"
+  ],
+  "summary": "Stanley Kubrick is a notable film director associated with United States.",
+  "knownFor": [
+    "Film Director",
+    "131 language biography editions",
+    "Historical Popularity Index 81.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Stanley Kubrick",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Stanley Kubrick",
+      "url": "https://pantheon.world/profile/person/Stanley_Kubrick",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "stanley-kubrick-pantheon-profile",
+      "text": "Pantheon ranks Stanley Kubrick as a globally documented film director with biographies in 131 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Stanley Kubrick a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Stanley Kubrick",
+      "sourceUrl": "https://pantheon.world/profile/person/Stanley_Kubrick",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "draco-lawgiver",
+  "slug": "draco-lawgiver",
+  "name": "Draco",
+  "shortName": "Draco",
+  "era": "-650--600",
+  "region": "Greece",
+  "regionId": "europe",
+  "lifespan": "-650--600",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "public-worker"
+  ],
+  "summary": "Draco is a notable public worker associated with Greece.",
+  "knownFor": [
+    "Public Worker",
+    "51 language biography editions",
+    "Historical Popularity Index 82.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Draco",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Draco",
+      "url": "https://pantheon.world/profile/person/Draco_(lawgiver)",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "draco-lawgiver-pantheon-profile",
+      "text": "Pantheon ranks Draco as a globally documented public worker with biographies in 51 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Draco a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Draco",
+      "sourceUrl": "https://pantheon.world/profile/person/Draco_(lawgiver)",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ip-man",
+  "slug": "ip-man",
+  "name": "Ip Man",
+  "shortName": "Man",
+  "era": "1893-1972",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "1893-1972",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "martial-arts"
+  ],
+  "summary": "Ip Man is a notable martial arts associated with China.",
+  "knownFor": [
+    "Martial Arts",
+    "50 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ip Man",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ip Man",
+      "url": "https://pantheon.world/profile/person/Ip_Man",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ip-man-pantheon-profile",
+      "text": "Pantheon ranks Ip Man as a globally documented martial arts with biographies in 50 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ip Man a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ip Man",
+      "sourceUrl": "https://pantheon.world/profile/person/Ip_Man",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "darius-the-great",
+  "slug": "darius-the-great",
+  "name": "Darius the Great",
+  "shortName": "Great",
+  "era": "-550--486",
+  "region": "Georgia",
+  "regionId": "global-diaspora",
+  "lifespan": "-550--486",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Darius the Great is a notable politician associated with Georgia.",
+  "knownFor": [
+    "Politician",
+    "95 language biography editions",
+    "Historical Popularity Index 87.7"
+  ],
+  "featured": true,
+  "featuredRank": 234,
+  "imageAlt": "Portrait-style visual for Darius the Great",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Darius the Great",
+      "url": "https://pantheon.world/profile/person/Darius_the_Great",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "darius-the-great-pantheon-profile",
+      "text": "Pantheon ranks Darius the Great as a globally documented politician with biographies in 95 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Darius the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Darius the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Darius_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

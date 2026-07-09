@@ -1,0 +1,47 @@
+{
+  "id": "baldwin-iv-of-jerusalem",
+  "slug": "baldwin-iv-of-jerusalem",
+  "name": "Baldwin IV of Jerusalem",
+  "shortName": "Jerusalem",
+  "era": "1161-1185",
+  "region": "Israel",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1161-1185",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Baldwin IV of Jerusalem is a notable politician associated with Israel.",
+  "knownFor": [
+    "Politician",
+    "48 language biography editions",
+    "Historical Popularity Index 83.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Baldwin IV of Jerusalem",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Baldwin IV of Jerusalem",
+      "url": "https://pantheon.world/profile/person/Baldwin_IV_of_Jerusalem",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "baldwin-iv-of-jerusalem-pantheon-profile",
+      "text": "Pantheon ranks Baldwin IV of Jerusalem as a globally documented politician with biographies in 48 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Baldwin IV of Jerusalem a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Baldwin IV of Jerusalem",
+      "sourceUrl": "https://pantheon.world/profile/person/Baldwin_IV_of_Jerusalem",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

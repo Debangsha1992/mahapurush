@@ -1,0 +1,47 @@
+{
+  "id": "ludwig-wittgenstein",
+  "slug": "ludwig-wittgenstein",
+  "name": "Ludwig Wittgenstein",
+  "shortName": "Wittgenstein",
+  "era": "1889-1951",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1889-1951",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "philosopher"
+  ],
+  "summary": "Ludwig Wittgenstein is a notable philosopher associated with Austria.",
+  "knownFor": [
+    "Philosopher",
+    "121 language biography editions",
+    "Historical Popularity Index 83.3"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Ludwig Wittgenstein",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ludwig Wittgenstein",
+      "url": "https://pantheon.world/profile/person/Ludwig_Wittgenstein",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ludwig-wittgenstein-pantheon-profile",
+      "text": "Pantheon ranks Ludwig Wittgenstein as a globally documented philosopher with biographies in 121 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ludwig Wittgenstein a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ludwig Wittgenstein",
+      "sourceUrl": "https://pantheon.world/profile/person/Ludwig_Wittgenstein",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

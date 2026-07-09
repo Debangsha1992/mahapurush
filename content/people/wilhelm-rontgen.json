@@ -1,0 +1,48 @@
+{
+  "id": "wilhelm-rontgen",
+  "slug": "wilhelm-rontgen",
+  "name": "Wilhelm Röntgen",
+  "shortName": "Röntgen",
+  "era": "1845-1923",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1845-1923",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Wilhelm Röntgen is a notable physicist associated with Germany.",
+  "knownFor": [
+    "Physicist",
+    "139 language biography editions",
+    "Historical Popularity Index 87.1"
+  ],
+  "featured": true,
+  "featuredRank": 268,
+  "imageAlt": "Portrait-style visual for Wilhelm Röntgen",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Wilhelm Röntgen",
+      "url": "https://pantheon.world/profile/person/Wilhelm_R%C3%B6ntgen",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "wilhelm-rontgen-pantheon-profile",
+      "text": "Pantheon ranks Wilhelm Röntgen as a globally documented physicist with biographies in 139 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Wilhelm Röntgen a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Wilhelm Röntgen",
+      "sourceUrl": "https://pantheon.world/profile/person/Wilhelm_R%C3%B6ntgen",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

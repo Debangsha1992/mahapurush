@@ -1,0 +1,47 @@
+{
+  "id": "john-lennon",
+  "slug": "john-lennon",
+  "name": "John Lennon",
+  "shortName": "Lennon",
+  "era": "1940-1980",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1940-1980",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "musician"
+  ],
+  "summary": "John Lennon is a notable musician associated with United Kingdom.",
+  "knownFor": [
+    "Musician",
+    "138 language biography editions",
+    "Historical Popularity Index 83.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for John Lennon",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: John Lennon",
+      "url": "https://pantheon.world/profile/person/John_Lennon",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "john-lennon-pantheon-profile",
+      "text": "Pantheon ranks John Lennon as a globally documented musician with biographies in 138 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make John Lennon a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: John Lennon",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Lennon",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

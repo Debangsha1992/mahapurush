@@ -1,0 +1,47 @@
+{
+  "id": "hatshepsut",
+  "slug": "hatshepsut",
+  "name": "Hatshepsut",
+  "shortName": "Hatshepsut",
+  "era": "-1507--1458",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-1507--1458",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Hatshepsut is a notable politician associated with Egypt.",
+  "knownFor": [
+    "Politician",
+    "88 language biography editions",
+    "Historical Popularity Index 84.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Hatshepsut",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Hatshepsut",
+      "url": "https://pantheon.world/profile/person/Hatshepsut",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "hatshepsut-pantheon-profile",
+      "text": "Pantheon ranks Hatshepsut as a globally documented politician with biographies in 88 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Hatshepsut a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Hatshepsut",
+      "sourceUrl": "https://pantheon.world/profile/person/Hatshepsut",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "alain-delon",
+  "slug": "alain-delon",
+  "name": "Alain Delon",
+  "shortName": "Delon",
+  "era": "1935-2024",
+  "region": "France",
+  "regionId": "europe",
+  "lifespan": "1935-2024",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "actor"
+  ],
+  "summary": "Alain Delon is a notable actor associated with France.",
+  "knownFor": [
+    "Actor",
+    "123 language biography editions",
+    "Historical Popularity Index 85.8"
+  ],
+  "featured": true,
+  "featuredRank": 367,
+  "imageAlt": "Portrait-style visual for Alain Delon",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alain Delon",
+      "url": "https://pantheon.world/profile/person/Alain_Delon",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alain-delon-pantheon-profile",
+      "text": "Pantheon ranks Alain Delon as a globally documented actor with biographies in 123 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alain Delon a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alain Delon",
+      "sourceUrl": "https://pantheon.world/profile/person/Alain_Delon",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

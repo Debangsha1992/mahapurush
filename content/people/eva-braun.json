@@ -1,0 +1,47 @@
+{
+  "id": "eva-braun",
+  "slug": "eva-braun",
+  "name": "Eva Braun",
+  "shortName": "Braun",
+  "era": "1912-1945",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1912-1945",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Eva Braun is a notable companion associated with Germany.",
+  "knownFor": [
+    "Companion",
+    "81 language biography editions",
+    "Historical Popularity Index 82.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Eva Braun",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Eva Braun",
+      "url": "https://pantheon.world/profile/person/Eva_Braun",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "eva-braun-pantheon-profile",
+      "text": "Pantheon ranks Eva Braun as a globally documented companion with biographies in 81 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Eva Braun a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Eva Braun",
+      "sourceUrl": "https://pantheon.world/profile/person/Eva_Braun",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "angela-merkel",
+  "slug": "angela-merkel",
+  "name": "Angela Merkel",
+  "shortName": "Merkel",
+  "era": "born 1954",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "born 1954",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Angela Merkel is a notable politician associated with Germany.",
+  "knownFor": [
+    "Politician",
+    "169 language biography editions",
+    "Historical Popularity Index 85.6"
+  ],
+  "featured": true,
+  "featuredRank": 383,
+  "imageAlt": "Portrait-style visual for Angela Merkel",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Angela Merkel",
+      "url": "https://pantheon.world/profile/person/Angela_Merkel",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "angela-merkel-pantheon-profile",
+      "text": "Pantheon ranks Angela Merkel as a globally documented politician with biographies in 169 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Angela Merkel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Angela Merkel",
+      "sourceUrl": "https://pantheon.world/profile/person/Angela_Merkel",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

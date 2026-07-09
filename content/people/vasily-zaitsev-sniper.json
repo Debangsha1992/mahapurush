@@ -1,0 +1,47 @@
+{
+  "id": "vasily-zaitsev-sniper",
+  "slug": "vasily-zaitsev-sniper",
+  "name": "Vasily Zaitsev",
+  "shortName": "Zaitsev",
+  "era": "1915-1991",
+  "region": "Russia",
+  "regionId": "europe",
+  "lifespan": "1915-1991",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "military-personnel"
+  ],
+  "summary": "Vasily Zaitsev is a notable military personnel associated with Russia.",
+  "knownFor": [
+    "Military Personnel",
+    "51 language biography editions",
+    "Historical Popularity Index 81.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Vasily Zaitsev",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Vasily Zaitsev",
+      "url": "https://pantheon.world/profile/person/Vasily_Zaitsev_(sniper)",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "vasily-zaitsev-sniper-pantheon-profile",
+      "text": "Pantheon ranks Vasily Zaitsev as a globally documented military personnel with biographies in 51 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Vasily Zaitsev a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Vasily Zaitsev",
+      "sourceUrl": "https://pantheon.world/profile/person/Vasily_Zaitsev_(sniper)",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

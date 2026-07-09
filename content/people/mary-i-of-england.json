@@ -1,0 +1,48 @@
+{
+  "id": "mary-i-of-england",
+  "slug": "mary-i-of-england",
+  "name": "Mary I of England",
+  "shortName": "England",
+  "era": "1516-1558",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1516-1558",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Mary I of England is a notable politician associated with United Kingdom.",
+  "knownFor": [
+    "Politician",
+    "89 language biography editions",
+    "Historical Popularity Index 85.2"
+  ],
+  "featured": true,
+  "featuredRank": 420,
+  "imageAlt": "Portrait-style visual for Mary I of England",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mary I of England",
+      "url": "https://pantheon.world/profile/person/Mary_I_of_England",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mary-i-of-england-pantheon-profile",
+      "text": "Pantheon ranks Mary I of England as a globally documented politician with biographies in 89 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mary I of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mary I of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary_I_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

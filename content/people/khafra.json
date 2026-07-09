@@ -1,0 +1,47 @@
+{
+  "id": "khafra",
+  "slug": "khafra",
+  "name": "Khafra",
+  "shortName": "Khafra",
+  "era": "-2550--2479",
+  "region": "Egypt",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "-2550--2479",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Khafra is a notable politician associated with Egypt.",
+  "knownFor": [
+    "Politician",
+    "62 language biography editions",
+    "Historical Popularity Index 83.8"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Khafra",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Khafra",
+      "url": "https://pantheon.world/profile/person/Khafra",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "khafra-pantheon-profile",
+      "text": "Pantheon ranks Khafra as a globally documented politician with biographies in 62 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Khafra a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Khafra",
+      "sourceUrl": "https://pantheon.world/profile/person/Khafra",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

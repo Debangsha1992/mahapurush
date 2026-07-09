@@ -1,0 +1,48 @@
+{
+  "id": "franz-schubert",
+  "slug": "franz-schubert",
+  "name": "Franz Schubert",
+  "shortName": "Schubert",
+  "era": "1797-1828",
+  "region": "Austria",
+  "regionId": "europe",
+  "lifespan": "1797-1828",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "composer"
+  ],
+  "summary": "Franz Schubert is a notable composer associated with Austria.",
+  "knownFor": [
+    "Composer",
+    "137 language biography editions",
+    "Historical Popularity Index 87.8"
+  ],
+  "featured": true,
+  "featuredRank": 229,
+  "imageAlt": "Portrait-style visual for Franz Schubert",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Franz Schubert",
+      "url": "https://pantheon.world/profile/person/Franz_Schubert",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "franz-schubert-pantheon-profile",
+      "text": "Pantheon ranks Franz Schubert as a globally documented composer with biographies in 137 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Franz Schubert a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Franz Schubert",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Schubert",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

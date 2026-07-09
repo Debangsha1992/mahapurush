@@ -1,0 +1,48 @@
+{
+  "id": "edmond-halley",
+  "slug": "edmond-halley",
+  "name": "Edmond Halley",
+  "shortName": "Halley",
+  "era": "1656-1742",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1656-1742",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "astronomer"
+  ],
+  "summary": "Edmond Halley is a notable astronomer associated with United Kingdom.",
+  "knownFor": [
+    "Astronomer",
+    "90 language biography editions",
+    "Historical Popularity Index 85.6"
+  ],
+  "featured": true,
+  "featuredRank": 388,
+  "imageAlt": "Portrait-style visual for Edmond Halley",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Edmond Halley",
+      "url": "https://pantheon.world/profile/person/Edmond_Halley",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "edmond-halley-pantheon-profile",
+      "text": "Pantheon ranks Edmond Halley as a globally documented astronomer with biographies in 90 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Edmond Halley a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Edmond Halley",
+      "sourceUrl": "https://pantheon.world/profile/person/Edmond_Halley",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

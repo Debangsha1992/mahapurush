@@ -1,0 +1,48 @@
+{
+  "id": "aesop",
+  "slug": "aesop",
+  "name": "Aesop",
+  "shortName": "Aesop",
+  "era": "-620--564",
+  "region": "Bulgaria",
+  "regionId": "global-diaspora",
+  "lifespan": "-620--564",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Aesop is a notable writer associated with Bulgaria.",
+  "knownFor": [
+    "Writer",
+    "102 language biography editions",
+    "Historical Popularity Index 86.3"
+  ],
+  "featured": true,
+  "featuredRank": 326,
+  "imageAlt": "Portrait-style visual for Aesop",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Aesop",
+      "url": "https://pantheon.world/profile/person/Aesop",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "aesop-pantheon-profile",
+      "text": "Pantheon ranks Aesop as a globally documented writer with biographies in 102 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Aesop a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Aesop",
+      "sourceUrl": "https://pantheon.world/profile/person/Aesop",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "albert-camus",
+  "slug": "albert-camus",
+  "name": "Albert Camus",
+  "shortName": "Camus",
+  "era": "1913-1960",
+  "region": "Algeria",
+  "regionId": "middle-east-north-africa",
+  "lifespan": "1913-1960",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Albert Camus is a notable writer associated with Algeria.",
+  "knownFor": [
+    "Writer",
+    "139 language biography editions",
+    "Historical Popularity Index 86.8"
+  ],
+  "featured": true,
+  "featuredRank": 293,
+  "imageAlt": "Portrait-style visual for Albert Camus",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Albert Camus",
+      "url": "https://pantheon.world/profile/person/Albert_Camus",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "albert-camus-pantheon-profile",
+      "text": "Pantheon ranks Albert Camus as a globally documented writer with biographies in 139 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Albert Camus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Albert Camus",
+      "sourceUrl": "https://pantheon.world/profile/person/Albert_Camus",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

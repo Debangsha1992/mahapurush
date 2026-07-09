@@ -1,0 +1,47 @@
+{
+  "id": "mihrimah-sultan",
+  "slug": "mihrimah-sultan",
+  "name": "Mihrimah Sultan",
+  "shortName": "Sultan",
+  "era": "1522-1578",
+  "region": "Türkiye",
+  "regionId": "global-diaspora",
+  "lifespan": "1522-1578",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "companion"
+  ],
+  "summary": "Mihrimah Sultan is a notable companion associated with Türkiye.",
+  "knownFor": [
+    "Companion",
+    "45 language biography editions",
+    "Historical Popularity Index 81.6"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Mihrimah Sultan",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Mihrimah Sultan",
+      "url": "https://pantheon.world/profile/person/Mihrimah_Sultan",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "mihrimah-sultan-pantheon-profile",
+      "text": "Pantheon ranks Mihrimah Sultan as a globally documented companion with biographies in 45 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Mihrimah Sultan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Mihrimah Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/Mihrimah_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

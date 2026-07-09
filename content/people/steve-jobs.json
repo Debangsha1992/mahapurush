@@ -1,0 +1,48 @@
+{
+  "id": "steve-jobs",
+  "slug": "steve-jobs",
+  "name": "Steve Jobs",
+  "shortName": "Jobs",
+  "era": "1955-2011",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1955-2011",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "designer"
+  ],
+  "summary": "Steve Jobs is a notable designer associated with United States.",
+  "knownFor": [
+    "Designer",
+    "168 language biography editions",
+    "Historical Popularity Index 88.8"
+  ],
+  "featured": true,
+  "featuredRank": 181,
+  "imageAlt": "Portrait-style visual for Steve Jobs",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Steve Jobs",
+      "url": "https://pantheon.world/profile/person/Steve_Jobs",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "steve-jobs-pantheon-profile",
+      "text": "Pantheon ranks Steve Jobs as a globally documented designer with biographies in 168 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Steve Jobs a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Steve Jobs",
+      "sourceUrl": "https://pantheon.world/profile/person/Steve_Jobs",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

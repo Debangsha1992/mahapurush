@@ -1,0 +1,48 @@
+{
+  "id": "ovid",
+  "slug": "ovid",
+  "name": "Ovid",
+  "shortName": "Ovid",
+  "era": "-43-17",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "-43-17",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Ovid is a notable writer associated with Italy.",
+  "knownFor": [
+    "Writer",
+    "134 language biography editions",
+    "Historical Popularity Index 86.9"
+  ],
+  "featured": true,
+  "featuredRank": 284,
+  "imageAlt": "Portrait-style visual for Ovid",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Ovid",
+      "url": "https://pantheon.world/profile/person/Ovid",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "ovid-pantheon-profile",
+      "text": "Pantheon ranks Ovid as a globally documented writer with biographies in 134 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Ovid a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Ovid",
+      "sourceUrl": "https://pantheon.world/profile/person/Ovid",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "johannes-kepler",
+  "slug": "johannes-kepler",
+  "name": "Johannes Kepler",
+  "shortName": "Kepler",
+  "era": "1571-1630",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1571-1630",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "astronomer"
+  ],
+  "summary": "Johannes Kepler is a notable astronomer associated with Germany.",
+  "knownFor": [
+    "Astronomer",
+    "149 language biography editions",
+    "Historical Popularity Index 89.2"
+  ],
+  "featured": true,
+  "featuredRank": 162,
+  "imageAlt": "Portrait-style visual for Johannes Kepler",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Johannes Kepler",
+      "url": "https://pantheon.world/profile/person/Johannes_Kepler",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "johannes-kepler-pantheon-profile",
+      "text": "Pantheon ranks Johannes Kepler as a globally documented astronomer with biographies in 149 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Johannes Kepler a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Johannes Kepler",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Kepler",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

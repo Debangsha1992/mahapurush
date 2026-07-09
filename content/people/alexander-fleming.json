@@ -1,0 +1,48 @@
+{
+  "id": "alexander-fleming",
+  "slug": "alexander-fleming",
+  "name": "Alexander Fleming",
+  "shortName": "Fleming",
+  "era": "1881-1955",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1881-1955",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "biologist"
+  ],
+  "summary": "Alexander Fleming is a notable biologist associated with United Kingdom.",
+  "knownFor": [
+    "Biologist",
+    "116 language biography editions",
+    "Historical Popularity Index 84.8"
+  ],
+  "featured": true,
+  "featuredRank": 460,
+  "imageAlt": "Portrait-style visual for Alexander Fleming",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Alexander Fleming",
+      "url": "https://pantheon.world/profile/person/Alexander_Fleming",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "alexander-fleming-pantheon-profile",
+      "text": "Pantheon ranks Alexander Fleming as a globally documented biologist with biographies in 116 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Alexander Fleming a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Alexander Fleming",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_Fleming",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

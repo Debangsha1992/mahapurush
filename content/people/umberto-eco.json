@@ -1,0 +1,47 @@
+{
+  "id": "umberto-eco",
+  "slug": "umberto-eco",
+  "name": "Umberto Eco",
+  "shortName": "Eco",
+  "era": "1932-2016",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1932-2016",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Umberto Eco is a notable writer associated with Italy.",
+  "knownFor": [
+    "Writer",
+    "115 language biography editions",
+    "Historical Popularity Index 83.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Umberto Eco",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Umberto Eco",
+      "url": "https://pantheon.world/profile/person/Umberto_Eco",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "umberto-eco-pantheon-profile",
+      "text": "Pantheon ranks Umberto Eco as a globally documented writer with biographies in 115 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Umberto Eco a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Umberto Eco",
+      "sourceUrl": "https://pantheon.world/profile/person/Umberto_Eco",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

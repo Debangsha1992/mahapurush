@@ -1,0 +1,47 @@
+{
+  "id": "enrico-fermi",
+  "slug": "enrico-fermi",
+  "name": "Enrico Fermi",
+  "shortName": "Fermi",
+  "era": "1901-1954",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1901-1954",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physicist"
+  ],
+  "summary": "Enrico Fermi is a notable physicist associated with Italy.",
+  "knownFor": [
+    "Physicist",
+    "147 language biography editions",
+    "Historical Popularity Index 83.2"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Enrico Fermi",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Enrico Fermi",
+      "url": "https://pantheon.world/profile/person/Enrico_Fermi",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "enrico-fermi-pantheon-profile",
+      "text": "Pantheon ranks Enrico Fermi as a globally documented physicist with biographies in 147 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Enrico Fermi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Enrico Fermi",
+      "sourceUrl": "https://pantheon.world/profile/person/Enrico_Fermi",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

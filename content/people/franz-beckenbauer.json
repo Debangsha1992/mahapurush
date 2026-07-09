@@ -1,0 +1,47 @@
+{
+  "id": "franz-beckenbauer",
+  "slug": "franz-beckenbauer",
+  "name": "Franz Beckenbauer",
+  "shortName": "Beckenbauer",
+  "era": "1945-2024",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1945-2024",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "soccer-player"
+  ],
+  "summary": "Franz Beckenbauer is a notable soccer player associated with Germany.",
+  "knownFor": [
+    "Soccer Player",
+    "97 language biography editions",
+    "Historical Popularity Index 83.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Franz Beckenbauer",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Franz Beckenbauer",
+      "url": "https://pantheon.world/profile/person/Franz_Beckenbauer",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "franz-beckenbauer-pantheon-profile",
+      "text": "Pantheon ranks Franz Beckenbauer as a globally documented soccer player with biographies in 97 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Franz Beckenbauer a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Franz Beckenbauer",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Beckenbauer",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

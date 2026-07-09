@@ -1,0 +1,48 @@
+{
+  "id": "qin-shi-huang",
+  "slug": "qin-shi-huang",
+  "name": "Qin Shi Huang",
+  "shortName": "Huang",
+  "era": "-258--210",
+  "region": "China",
+  "regionId": "east-asia",
+  "lifespan": "-258--210",
+  "primaryDomain": "justice-governance-leadership",
+  "domains": [
+    "justice-governance-leadership",
+    "politician"
+  ],
+  "summary": "Qin Shi Huang is a notable politician associated with China.",
+  "knownFor": [
+    "Politician",
+    "181 language biography editions",
+    "Historical Popularity Index 91.0"
+  ],
+  "featured": true,
+  "featuredRank": 104,
+  "imageAlt": "Portrait-style visual for Qin Shi Huang",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Qin Shi Huang",
+      "url": "https://pantheon.world/profile/person/Qin_Shi_Huang",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "qin-shi-huang-pantheon-profile",
+      "text": "Pantheon ranks Qin Shi Huang as a globally documented politician with biographies in 181 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Qin Shi Huang a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Qin Shi Huang",
+      "sourceUrl": "https://pantheon.world/profile/person/Qin_Shi_Huang",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "justice-governance-leadership",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

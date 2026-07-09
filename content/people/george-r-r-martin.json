@@ -1,0 +1,47 @@
+{
+  "id": "george-r-r-martin",
+  "slug": "george-r-r-martin",
+  "name": "George R. R. Martin",
+  "shortName": "Martin",
+  "era": "born 1948",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "born 1948",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "George R. R. Martin is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "91 language biography editions",
+    "Historical Popularity Index 82.9"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for George R. R. Martin",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: George R. R. Martin",
+      "url": "https://pantheon.world/profile/person/George_R._R._Martin",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "george-r-r-martin-pantheon-profile",
+      "text": "Pantheon ranks George R. R. Martin as a globally documented writer with biographies in 91 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make George R. R. Martin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: George R. R. Martin",
+      "sourceUrl": "https://pantheon.world/profile/person/George_R._R._Martin",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "l-l-zamenhof",
+  "slug": "l-l-zamenhof",
+  "name": "L. L. Zamenhof",
+  "shortName": "Zamenhof",
+  "era": "1859-1917",
+  "region": "Poland",
+  "regionId": "europe",
+  "lifespan": "1859-1917",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physician"
+  ],
+  "summary": "L. L. Zamenhof is a notable physician associated with Poland.",
+  "knownFor": [
+    "Physician",
+    "115 language biography editions",
+    "Historical Popularity Index 82.1"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for L. L. Zamenhof",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: L. L. Zamenhof",
+      "url": "https://pantheon.world/profile/person/L._L._Zamenhof",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "l-l-zamenhof-pantheon-profile",
+      "text": "Pantheon ranks L. L. Zamenhof as a globally documented physician with biographies in 115 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make L. L. Zamenhof a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: L. L. Zamenhof",
+      "sourceUrl": "https://pantheon.world/profile/person/L._L._Zamenhof",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

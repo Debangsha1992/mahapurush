@@ -1,0 +1,47 @@
+{
+  "id": "jack-london",
+  "slug": "jack-london",
+  "name": "Jack London",
+  "shortName": "London",
+  "era": "1876-1916",
+  "region": "United States",
+  "regionId": "north-america",
+  "lifespan": "1876-1916",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "Jack London is a notable writer associated with United States.",
+  "knownFor": [
+    "Writer",
+    "96 language biography editions",
+    "Historical Popularity Index 81.7"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Jack London",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Jack London",
+      "url": "https://pantheon.world/profile/person/Jack_London",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "jack-london-pantheon-profile",
+      "text": "Pantheon ranks Jack London as a globally documented writer with biographies in 96 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Jack London a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Jack London",
+      "sourceUrl": "https://pantheon.world/profile/person/Jack_London",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

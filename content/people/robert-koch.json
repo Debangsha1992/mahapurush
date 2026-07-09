@@ -1,0 +1,47 @@
+{
+  "id": "robert-koch",
+  "slug": "robert-koch",
+  "name": "Robert Koch",
+  "shortName": "Koch",
+  "era": "1843-1910",
+  "region": "Germany",
+  "regionId": "europe",
+  "lifespan": "1843-1910",
+  "primaryDomain": "science-math-technology",
+  "domains": [
+    "science-math-technology",
+    "physician"
+  ],
+  "summary": "Robert Koch is a notable physician associated with Germany.",
+  "knownFor": [
+    "Physician",
+    "114 language biography editions",
+    "Historical Popularity Index 83.5"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Robert Koch",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Robert Koch",
+      "url": "https://pantheon.world/profile/person/Robert_Koch",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "robert-koch-pantheon-profile",
+      "text": "Pantheon ranks Robert Koch as a globally documented physician with biographies in 114 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Robert Koch a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Robert Koch",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Koch",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "science-math-technology",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

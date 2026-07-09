@@ -1,0 +1,48 @@
+{
+  "id": "william-shakespeare",
+  "slug": "william-shakespeare",
+  "name": "William Shakespeare",
+  "shortName": "Shakespeare",
+  "era": "1564-1616",
+  "region": "United Kingdom",
+  "regionId": "europe",
+  "lifespan": "1564-1616",
+  "primaryDomain": "literature-arts-culture",
+  "domains": [
+    "literature-arts-culture",
+    "writer"
+  ],
+  "summary": "William Shakespeare is a notable writer associated with United Kingdom.",
+  "knownFor": [
+    "Writer",
+    "230 language biography editions",
+    "Historical Popularity Index 92.6"
+  ],
+  "featured": true,
+  "featuredRank": 72,
+  "imageAlt": "Portrait-style visual for William Shakespeare",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: William Shakespeare",
+      "url": "https://pantheon.world/profile/person/William_Shakespeare",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "william-shakespeare-pantheon-profile",
+      "text": "Pantheon ranks William Shakespeare as a globally documented writer with biographies in 230 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make William Shakespeare a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: William Shakespeare",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Shakespeare",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "literature-arts-culture",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pope-alexander-viii",
+  "slug": "pope-alexander-viii",
+  "name": "Pope Alexander VIII",
+  "shortName": "VIII",
+  "era": "1610-1691",
+  "region": "Italy",
+  "regionId": "europe",
+  "lifespan": "1610-1691",
+  "primaryDomain": "philosophy-ethics-religion",
+  "domains": [
+    "philosophy-ethics-religion",
+    "religious-figure"
+  ],
+  "summary": "Pope Alexander VIII is a notable religious figure associated with Italy.",
+  "knownFor": [
+    "Religious Figure",
+    "73 language biography editions",
+    "Historical Popularity Index 82.0"
+  ],
+  "featured": false,
+  "imageAlt": "Portrait-style visual for Pope Alexander VIII",
+  "sourceRefs": [
+    {
+      "title": "Pantheon: Pope Alexander VIII",
+      "url": "https://pantheon.world/profile/person/Pope_Alexander_VIII",
+      "accessedAt": "2026-07-06"
+    }
+  ],
+  "reviewStatus": "published",
+  "facts": [
+    {
+      "id": "pope-alexander-viii-pantheon-profile",
+      "text": "Pantheon ranks Pope Alexander VIII as a globally documented religious figure with biographies in 73 language editions.",
+      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Alexander VIII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "sourceTitle": "Pantheon: Pope Alexander VIII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Alexander_VIII",
+      "sourceAccessedAt": "2026-07-06",
+      "currentAsOf": "2026-07-06",
+      "tags": [
+        "philosophy-ethics-religion",
+        "pantheon"
+      ],
+      "verified": true
+    }
+  ]
+}
