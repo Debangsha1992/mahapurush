@@ -181,6 +181,14 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
                   ? "Loading another set of Facts"
                   : "Scroll for another Fact"}
               </p>
+              <Button
+                type="button"
+                onClick={showNextFact}
+                disabled={loadingNextBatch}
+                className="min-h-12 w-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
+              >
+                {loadingNextBatch ? "Loading..." : "Next fact"}
+              </Button>
               <div className="flex flex-col gap-2 border-t border-white/10 pt-3">
                 <a
                   href={currentFact.sourceUrl}

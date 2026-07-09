@@ -52,6 +52,8 @@ export const MinimalistHero = ({
   locationText,
   className,
 }: MinimalistHeroProps) => {
+  const [mobileMenuOpen, setMobileMenuOpen] = React.useState(false);
+
   return (
     <div
       className={cn(
@@ -77,16 +79,33 @@ export const MinimalistHero = ({
           ))}
         </div>
         <motion.button
+          type="button"
           initial={{ opacity: 0, x: 20 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.5 }}
           className="flex flex-col space-y-1.5 md:hidden"
-          aria-label="Open menu"
+          aria-controls="minimalist-hero-mobile-menu"
+          aria-expanded={mobileMenuOpen}
+          aria-label={mobileMenuOpen ? "Close menu" : "Open menu"}
+          onClick={() => setMobileMenuOpen((isOpen) => !isOpen)}
         >
           <span className="block h-0.5 w-6 bg-foreground"></span>
           <span className="block h-0.5 w-6 bg-foreground"></span>
           <span className="block h-0.5 w-5 bg-foreground"></span>
         </motion.button>
+        {mobileMenuOpen && (
+          <nav
+            id="minimalist-hero-mobile-menu"
+            className="absolute left-0 right-0 top-12 z-40 flex flex-col gap-4 rounded-2xl border border-white/10 bg-background/95 p-5 shadow-2xl backdrop-blur md:hidden"
+            aria-label="Mobile navigation"
+          >
+            {navLinks.map((link) => (
+              <NavLink key={link.label} href={link.href}>
+                {link.label}
+              </NavLink>
+            ))}
+          </nav>
+        )}
       </header>
 
       {/* Main Content Area */}

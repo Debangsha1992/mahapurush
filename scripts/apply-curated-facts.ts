@@ -4,6 +4,7 @@ import { z } from "zod";
 import {
   factClaimStatusSchema,
   factSourceTypeSchema,
+  personDomainSchema,
 } from "../src/lib/content/schemas";
 
 const seedFactSchema = z.object({
@@ -27,19 +28,23 @@ const seedSchema = z.array(seedFactSchema).refine(
 );
 
 type SeedFact = z.infer<typeof seedFactSchema>;
-type PersonJsonFact = {
-  id?: string;
-  [key: string]: unknown;
-};
-type PersonJson = {
-  primaryDomain: string;
-  facts?: PersonJsonFact[];
-  sourceRefs?: Array<{
-    title?: string;
-    url?: string;
-    accessedAt?: string;
-  }>;
-};
+const personJsonFactSchema = z.object({
+  id: z.string().optional(),
+}).catchall(z.unknown());
+
+const personJsonSchema = z.object({
+  primaryDomain: personDomainSchema,
+  facts: z.array(personJsonFactSchema).optional(),
+  sourceRefs: z
+    .array(
+      z.object({
+        title: z.string().optional(),
+        url: z.string().optional(),
+        accessedAt: z.string().optional(),
+      }).passthrough(),
+    )
+    .optional(),
+}).passthrough();
 
 const root = process.cwd();
 const peopleDirectory = path.join(root, "content", "people");
@@ -74,7 +79,7 @@ async function main(): Promise<void> {
       continue;
     }
 
-    const person = JSON.parse(rawPerson) as PersonJson;
+    const person = personJsonSchema.parse(JSON.parse(rawPerson));
     const existingFacts = Array.isArray(person.facts) ? person.facts : [];
     const draftExistingFacts = existingFacts
       .filter((fact) => {

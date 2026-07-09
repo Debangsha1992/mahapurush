@@ -371,7 +371,7 @@ function formatLifespan(birthyear: string, deathyear: string): string | undefine
     const start = Math.min(birth, death);
     const end = Math.max(birth, death);
     if (start < 0 || end < 0) {
-      return `${formatYearLabel(start)}–${formatYearLabel(end)}`;
+      return `${formatYearLabel(start)}-${formatYearLabel(end)}`;
     }
     return `${start}-${end}`;
   }

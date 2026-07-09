@@ -153,7 +153,7 @@ function auditPerson(person: PersonRecord): string[] {
       if (!curatedApprovalKeys.has(curatedKey)) {
         issues.push(`${person.slug}/${fact.id}: approved Fact is not in curated seed`);
       }
-      if (fact.sourceTitle.toLowerCase().startsWith("pantheon:")) {
+      if (fact.sourceTitle?.toLowerCase().startsWith("pantheon:")) {
         issues.push(`${person.slug}/${fact.id}: approved Fact cannot be Pantheon-only`);
       }
       if (!fact.sourceExcerpt && !fact.sourceNote) {
