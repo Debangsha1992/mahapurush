@@ -1,0 +1,46 @@
+{
+  "personId": "harald-hardrada",
+  "slug": "harald-hardrada",
+  "name": "Harald Hardrada",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Harald Hardrada",
+      "url": "https://pantheon.world/profile/person/Harald_Hardrada",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "harald-hardrada-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Harald Hardrada is remembered as a politician connected with Norway."
+    },
+    {
+      "factId": "harald-hardrada-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Harald Hardrada's recorded life dates place this profile around 1015-1066."
+    },
+    {
+      "factId": "harald-hardrada-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Harald Hardrada is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "harald-hardrada-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Harald Hardrada's profile connects a short Fact to a wider Norway historical setting."
+    },
+    {
+      "factId": "harald-hardrada-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Harald Hardrada has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "akhenaten",
+  "slug": "akhenaten",
+  "name": "Akhenaten",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Akhenaten",
+      "url": "https://en.wikipedia.org/wiki/Akhenaten",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Eighteenth Dynasty Egyptian pharaoh"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "akhenaten-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Akhenaten, also spelled Akhenaton, Echnaton, and Khuenaten, was an ancient Egyptian pharaoh reigning c. 1353–1336 or 1351–1334 BC, the tenth ruler of the Eighteenth Dynasty."
+    },
+    {
+      "factId": "akhenaten-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Originally named Amenhotep IV, in the fifth year of his reign he adopted the name \"Akhenaten\"."
+    },
+    {
+      "factId": "akhenaten-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Akhenaten is remembered as a politician connected with Egypt."
+    },
+    {
+      "factId": "akhenaten-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Akhenaten's recorded life dates place this profile around -1400--1336."
+    },
+    {
+      "factId": "akhenaten-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Akhenaten is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

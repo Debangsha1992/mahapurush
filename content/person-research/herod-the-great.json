@@ -1,0 +1,46 @@
+{
+  "personId": "herod-the-great",
+  "slug": "herod-the-great",
+  "name": "Herod the Great",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Herod the Great",
+      "url": "https://pantheon.world/profile/person/Herod_the_Great",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "herod-the-great-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Herod the Great is remembered as a politician connected with Israel."
+    },
+    {
+      "factId": "herod-the-great-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Herod the Great's recorded life dates place this profile around -73--3."
+    },
+    {
+      "factId": "herod-the-great-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Herod the Great is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "herod-the-great-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Herod the Great's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "herod-the-great-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Herod the Great has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

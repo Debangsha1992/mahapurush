@@ -1,0 +1,46 @@
+{
+  "personId": "john-maynard-keynes",
+  "slug": "john-maynard-keynes",
+  "name": "John Maynard Keynes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John Maynard Keynes",
+      "url": "https://pantheon.world/profile/person/John_Maynard_Keynes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-maynard-keynes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John Maynard Keynes is remembered as a economist connected with United Kingdom."
+    },
+    {
+      "factId": "john-maynard-keynes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John Maynard Keynes's recorded life dates place this profile around 1883-1946."
+    },
+    {
+      "factId": "john-maynard-keynes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John Maynard Keynes is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "john-maynard-keynes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John Maynard Keynes's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "john-maynard-keynes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John Maynard Keynes has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

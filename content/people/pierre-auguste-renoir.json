@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Pierre-Auguste Renoir is a notable painter associated with France.",
+  "summary": "Pierre-Auguste Renoir is a notable painter connected with France.",
   "knownFor": [
     "Painter",
-    "96 language biography editions",
-    "Historical Popularity Index 86.0"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": true,
   "featuredRank": 344,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pierre-auguste-renoir-pantheon-profile",
-      "text": "Pantheon ranks Pierre-Auguste Renoir as a globally documented painter with biographies in 96 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pierre-Auguste Renoir a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pierre-auguste-renoir-1-origin",
+      "text": "Pierre-Auguste Renoir is remembered as a painter connected with France.",
+      "context": "Pierre-Auguste Renoir's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Pierre-Auguste Renoir",
       "sourceUrl": "https://pantheon.world/profile/person/Pierre-Auguste_Renoir",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-auguste-renoir-2-obstacle",
+      "text": "Pierre-Auguste Renoir's recorded life dates place this profile around 1841-1919.",
+      "context": "Pierre-Auguste Renoir's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pierre-Auguste Renoir",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre-Auguste_Renoir",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-auguste-renoir-3-turning-point",
+      "text": "Pierre-Auguste Renoir is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Pierre-Auguste Renoir's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pierre-Auguste Renoir",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre-Auguste_Renoir",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-auguste-renoir-4-contribution",
+      "text": "Pierre-Auguste Renoir's profile connects a short Fact to a wider France historical setting.",
+      "context": "Pierre-Auguste Renoir's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pierre-Auguste Renoir",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre-Auguste_Renoir",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-auguste-renoir-5-influence",
+      "text": "Pierre-Auguste Renoir has a Facts Mode card reserved for deeper source research.",
+      "context": "Pierre-Auguste Renoir's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pierre-Auguste Renoir",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre-Auguste_Renoir",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

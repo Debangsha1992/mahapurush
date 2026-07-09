@@ -1,0 +1,46 @@
+{
+  "personId": "margaret-thatcher",
+  "slug": "margaret-thatcher",
+  "name": "Margaret Thatcher",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Margaret Thatcher",
+      "url": "https://pantheon.world/profile/person/Margaret_Thatcher",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "margaret-thatcher-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Margaret Thatcher is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "margaret-thatcher-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Margaret Thatcher's recorded life dates place this profile around 1925-2013."
+    },
+    {
+      "factId": "margaret-thatcher-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Margaret Thatcher is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "margaret-thatcher-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Margaret Thatcher's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "margaret-thatcher-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Margaret Thatcher has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

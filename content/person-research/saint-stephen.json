@@ -1,0 +1,46 @@
+{
+  "personId": "saint-stephen",
+  "slug": "saint-stephen",
+  "name": "Saint Stephen",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Saint Stephen",
+      "url": "https://en.wikipedia.org/wiki/Saint_Stephen",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saint-stephen-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Saint Stephen was chosen when Greek-speaking widows were being neglected in the early Jerusalem community's daily food distribution."
+    },
+    {
+      "factId": "saint-stephen-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Saint Stephen's public arguments made him a target because his preaching challenged powerful assumptions about law, temple, and faith."
+    },
+    {
+      "factId": "saint-stephen-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Acts says Saint Stephen prayed for forgiveness for his attackers while he was being killed."
+    },
+    {
+      "factId": "saint-stephen-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Saul of Tarsus, later known as Paul the Apostle, appears in Acts as a witness approving Saint Stephen's death."
+    },
+    {
+      "factId": "saint-stephen-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "tradition",
+      "text": "Saint Stephen became known in Christian tradition as the protomartyr, meaning the first martyr."
+    }
+  ]
+}

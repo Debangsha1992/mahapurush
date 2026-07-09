@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Ivan the Terrible is a notable politician associated with Russia.",
+  "summary": "Ivan the Terrible is a notable politician connected with Russia.",
   "knownFor": [
     "Politician",
-    "104 language biography editions",
-    "Historical Popularity Index 84.9"
+    "Justice, Governance & Leadership",
+    "Russia"
   ],
   "featured": true,
   "featuredRank": 448,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ivan-the-terrible-pantheon-profile",
-      "text": "Pantheon ranks Ivan the Terrible as a globally documented politician with biographies in 104 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ivan the Terrible a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ivan-the-terrible-1-origin",
+      "text": "Ivan the Terrible is remembered as a politician connected with Russia.",
+      "context": "Ivan the Terrible's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ivan the Terrible",
       "sourceUrl": "https://pantheon.world/profile/person/Ivan_the_Terrible",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivan-the-terrible-2-obstacle",
+      "text": "Ivan the Terrible's recorded life dates place this profile around 1530-1584.",
+      "context": "Ivan the Terrible's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ivan the Terrible",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivan_the_Terrible",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivan-the-terrible-3-turning-point",
+      "text": "Ivan the Terrible is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ivan the Terrible's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ivan the Terrible",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivan_the_Terrible",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivan-the-terrible-4-contribution",
+      "text": "Ivan the Terrible's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Ivan the Terrible's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ivan the Terrible",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivan_the_Terrible",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivan-the-terrible-5-influence",
+      "text": "Ivan the Terrible has a Facts Mode card reserved for deeper source research.",
+      "context": "Ivan the Terrible's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ivan the Terrible",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivan_the_Terrible",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

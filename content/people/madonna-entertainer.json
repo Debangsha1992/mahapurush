@@ -12,35 +12,104 @@
     "literature-arts-culture",
     "musician"
   ],
-  "summary": "Madonna is a notable musician associated with United States.",
+  "summary": "Madonna Louise Ciccone is an American singer, songwriter, record producer, and actress.",
   "knownFor": [
     "Musician",
-    "153 language biography editions",
-    "Historical Popularity Index 85.7"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 373,
   "imageAlt": "Portrait-style visual for Madonna",
   "sourceRefs": [
     {
-      "title": "Pantheon: Madonna",
-      "url": "https://pantheon.world/profile/person/Madonna_(entertainer)",
+      "title": "Wikipedia: Madonna",
+      "url": "https://en.wikipedia.org/wiki/Madonna",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "madonna-entertainer-pantheon-profile",
-      "text": "Pantheon ranks Madonna as a globally documented musician with biographies in 153 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Madonna a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Madonna",
-      "sourceUrl": "https://pantheon.world/profile/person/Madonna_(entertainer)",
+      "id": "madonna-entertainer-1-origin",
+      "text": "Madonna Louise Ciccone is an American singer, songwriter, record producer, and actress.",
+      "context": "Madonna's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Madonna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Madonna",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "madonna-entertainer-2-obstacle",
+      "text": "Madonna's works, which concern social, political, sexual, and religious themes, have generated both controversy and critical acclaim.",
+      "context": "Madonna's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Madonna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Madonna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "madonna-entertainer-3-turning-point",
+      "text": "Madonna is remembered as a musician connected with United States.",
+      "context": "Madonna's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Madonna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Madonna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "madonna-entertainer-4-contribution",
+      "text": "Madonna's recorded life dates place this profile around born 1958.",
+      "context": "Madonna's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Madonna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Madonna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "madonna-entertainer-5-influence",
+      "text": "Madonna is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Madonna's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Madonna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Madonna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

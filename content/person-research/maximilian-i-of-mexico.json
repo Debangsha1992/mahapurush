@@ -1,0 +1,46 @@
+{
+  "personId": "maximilian-i-of-mexico",
+  "slug": "maximilian-i-of-mexico",
+  "name": "Maximilian I of Mexico",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Maximilian I of Mexico",
+      "url": "https://pantheon.world/profile/person/Maximilian_I_of_Mexico",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "maximilian-i-of-mexico-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Maximilian I of Mexico is remembered as a politician connected with Austria."
+    },
+    {
+      "factId": "maximilian-i-of-mexico-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Maximilian I of Mexico's recorded life dates place this profile around 1832-1867."
+    },
+    {
+      "factId": "maximilian-i-of-mexico-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Maximilian I of Mexico is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "maximilian-i-of-mexico-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Maximilian I of Mexico's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "maximilian-i-of-mexico-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Maximilian I of Mexico has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

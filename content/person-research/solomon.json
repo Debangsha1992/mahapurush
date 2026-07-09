@@ -1,0 +1,46 @@
+{
+  "personId": "solomon",
+  "slug": "solomon",
+  "name": "Solomon",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Solomon",
+      "url": "https://pantheon.world/profile/person/Solomon",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "solomon-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Solomon is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "solomon-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Solomon's recorded life dates place this profile around -1011--931."
+    },
+    {
+      "factId": "solomon-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Solomon is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "solomon-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Solomon's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "solomon-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Solomon has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

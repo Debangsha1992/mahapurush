@@ -1,0 +1,46 @@
+{
+  "personId": "pope-pius-ix",
+  "slug": "pope-pius-ix",
+  "name": "Pope Pius IX",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Pius IX",
+      "url": "https://pantheon.world/profile/person/Pope_Pius_IX",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-pius-ix-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius IX is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-pius-ix-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius IX's recorded life dates place this profile around 1792-1878."
+    },
+    {
+      "factId": "pope-pius-ix-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius IX is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-pius-ix-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius IX's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-pius-ix-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius IX has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

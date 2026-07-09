@@ -1,0 +1,46 @@
+{
+  "personId": "pope-alexander-viii",
+  "slug": "pope-alexander-viii",
+  "name": "Pope Alexander VIII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Alexander VIII",
+      "url": "https://pantheon.world/profile/person/Pope_Alexander_VIII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-alexander-viii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Alexander VIII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-alexander-viii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Alexander VIII's recorded life dates place this profile around 1610-1691."
+    },
+    {
+      "factId": "pope-alexander-viii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Alexander VIII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-alexander-viii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Alexander VIII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-alexander-viii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Alexander VIII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

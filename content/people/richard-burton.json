@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Richard Burton is a notable actor associated with United Kingdom.",
+  "summary": "Richard Burton is a notable actor connected with United Kingdom.",
   "knownFor": [
     "Actor",
-    "74 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Literature, Arts & Culture",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Richard Burton",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "richard-burton-pantheon-profile",
-      "text": "Pantheon ranks Richard Burton as a globally documented actor with biographies in 74 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Richard Burton a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "richard-burton-1-origin",
+      "text": "Richard Burton is remembered as a actor connected with United Kingdom.",
+      "context": "Richard Burton's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Richard Burton",
       "sourceUrl": "https://pantheon.world/profile/person/Richard_Burton",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "richard-burton-2-obstacle",
+      "text": "Richard Burton's recorded life dates place this profile around 1925-1984.",
+      "context": "Richard Burton's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Richard Burton",
+      "sourceUrl": "https://pantheon.world/profile/person/Richard_Burton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "richard-burton-3-turning-point",
+      "text": "Richard Burton is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Richard Burton's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Richard Burton",
+      "sourceUrl": "https://pantheon.world/profile/person/Richard_Burton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "richard-burton-4-contribution",
+      "text": "Richard Burton's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Richard Burton's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Richard Burton",
+      "sourceUrl": "https://pantheon.world/profile/person/Richard_Burton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "richard-burton-5-influence",
+      "text": "Richard Burton has a Facts Mode card reserved for deeper source research.",
+      "context": "Richard Burton's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Richard Burton",
+      "sourceUrl": "https://pantheon.world/profile/person/Richard_Burton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

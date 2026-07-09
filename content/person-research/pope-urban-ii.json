@@ -1,0 +1,46 @@
+{
+  "personId": "pope-urban-ii",
+  "slug": "pope-urban-ii",
+  "name": "Pope Urban II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Urban II",
+      "url": "https://pantheon.world/profile/person/Pope_Urban_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-urban-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban II is remembered as a religious figure connected with France."
+    },
+    {
+      "factId": "pope-urban-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban II's recorded life dates place this profile around 1042-1099."
+    },
+    {
+      "factId": "pope-urban-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban II is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-urban-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban II's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "pope-urban-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

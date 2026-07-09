@@ -1,0 +1,46 @@
+{
+  "personId": "nikita-khrushchev",
+  "slug": "nikita-khrushchev",
+  "name": "Nikita Khrushchev",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Nikita Khrushchev",
+      "url": "https://pantheon.world/profile/person/Nikita_Khrushchev",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "nikita-khrushchev-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Nikita Khrushchev is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "nikita-khrushchev-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Nikita Khrushchev's recorded life dates place this profile around 1894-1971."
+    },
+    {
+      "factId": "nikita-khrushchev-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Nikita Khrushchev is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "nikita-khrushchev-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Nikita Khrushchev's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "nikita-khrushchev-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Nikita Khrushchev has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

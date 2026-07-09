@@ -1,0 +1,46 @@
+{
+  "personId": "mehmed-iii",
+  "slug": "mehmed-iii",
+  "name": "Mehmed III",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mehmed III",
+      "url": "https://pantheon.world/profile/person/Mehmed_III",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mehmed-iii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed III is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "mehmed-iii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed III's recorded life dates place this profile around 1566-1603."
+    },
+    {
+      "factId": "mehmed-iii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed III is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mehmed-iii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed III's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "mehmed-iii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed III has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

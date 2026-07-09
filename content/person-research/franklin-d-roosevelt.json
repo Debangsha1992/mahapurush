@@ -1,0 +1,47 @@
+{
+  "personId": "franklin-d-roosevelt",
+  "slug": "franklin-d-roosevelt",
+  "name": "Franklin D. Roosevelt",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Franklin D. Roosevelt",
+      "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "President of the United States from 1933 to 1945"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "franklin-d-roosevelt-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Franklin Delano Franklin D. Roosevelt, also known as FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945."
+    },
+    {
+      "factId": "franklin-d-roosevelt-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Franklin D. Roosevelt is the longest-serving US president and the only one to have served more than two terms."
+    },
+    {
+      "factId": "franklin-d-roosevelt-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Franklin D. Roosevelt's first two terms were centered on combating the Great Depression, while his third and fourth focused on US involvement in World War II."
+    },
+    {
+      "factId": "franklin-d-roosevelt-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "A member of the Democratic Party, Franklin D. Roosevelt served in the New York State Senate from 1911 to 1913 and as the 44th governor of New York from 1929 to 1932."
+    },
+    {
+      "factId": "franklin-d-roosevelt-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Franklin D. Roosevelt is remembered as a politician connected with United States."
+    }
+  ]
+}

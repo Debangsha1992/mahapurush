@@ -1,0 +1,46 @@
+{
+  "personId": "gian-lorenzo-bernini",
+  "slug": "gian-lorenzo-bernini",
+  "name": "Gian Lorenzo Bernini",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gian Lorenzo Bernini",
+      "url": "https://pantheon.world/profile/person/Gian_Lorenzo_Bernini",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gian-lorenzo-bernini-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gian Lorenzo Bernini is remembered as a architect connected with Italy."
+    },
+    {
+      "factId": "gian-lorenzo-bernini-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gian Lorenzo Bernini's recorded life dates place this profile around 1598-1680."
+    },
+    {
+      "factId": "gian-lorenzo-bernini-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gian Lorenzo Bernini is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "gian-lorenzo-bernini-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gian Lorenzo Bernini's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "gian-lorenzo-bernini-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gian Lorenzo Bernini has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

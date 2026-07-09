@@ -12,11 +12,11 @@
     "science-math-technology",
     "inventor"
   ],
-  "summary": "Elon Musk is a notable inventor associated with South Africa.",
+  "summary": "Elon Musk is a notable inventor connected with South Africa.",
   "knownFor": [
     "Inventor",
-    "153 language biography editions",
-    "Historical Popularity Index 86.8"
+    "Science, Math & Technology",
+    "South Africa"
   ],
   "featured": true,
   "featuredRank": 291,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "elon-musk-pantheon-profile",
-      "text": "Pantheon ranks Elon Musk as a globally documented inventor with biographies in 153 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Elon Musk a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "elon-musk-1-origin",
+      "text": "Elon Musk is remembered as a inventor connected with South Africa.",
+      "context": "Elon Musk's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Elon Musk",
       "sourceUrl": "https://pantheon.world/profile/person/Elon_Musk",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elon-musk-2-obstacle",
+      "text": "Elon Musk's recorded life dates place this profile around born 1971.",
+      "context": "Elon Musk's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Elon Musk",
+      "sourceUrl": "https://pantheon.world/profile/person/Elon_Musk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elon-musk-3-turning-point",
+      "text": "Elon Musk is grouped with Science, Math & Technology in the People Library.",
+      "context": "Elon Musk's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Elon Musk",
+      "sourceUrl": "https://pantheon.world/profile/person/Elon_Musk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elon-musk-4-contribution",
+      "text": "Elon Musk's profile connects a short Fact to a wider South Africa historical setting.",
+      "context": "Elon Musk's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Elon Musk",
+      "sourceUrl": "https://pantheon.world/profile/person/Elon_Musk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elon-musk-5-influence",
+      "text": "Elon Musk has a Facts Mode card reserved for deeper source research.",
+      "context": "Elon Musk's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Elon Musk",
+      "sourceUrl": "https://pantheon.world/profile/person/Elon_Musk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

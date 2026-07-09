@@ -1,0 +1,46 @@
+{
+  "personId": "joan-of-arc",
+  "slug": "joan-of-arc",
+  "name": "Joan of Arc",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Joan of Arc",
+      "url": "https://pantheon.world/profile/person/Joan_of_Arc",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "joan-of-arc-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Joan of Arc is remembered as a military personnel connected with France."
+    },
+    {
+      "factId": "joan-of-arc-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Joan of Arc's recorded life dates place this profile around 1412-1431."
+    },
+    {
+      "factId": "joan-of-arc-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Joan of Arc is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "joan-of-arc-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Joan of Arc's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "joan-of-arc-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Joan of Arc has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

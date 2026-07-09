@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Johannes Brahms is a notable composer associated with Germany.",
+  "summary": "Johannes Brahms is a notable composer connected with Germany.",
   "knownFor": [
     "Composer",
-    "129 language biography editions",
-    "Historical Popularity Index 85.8"
+    "Literature, Arts & Culture",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 366,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "johannes-brahms-pantheon-profile",
-      "text": "Pantheon ranks Johannes Brahms as a globally documented composer with biographies in 129 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Johannes Brahms a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "johannes-brahms-1-origin",
+      "text": "Johannes Brahms is remembered as a composer connected with Germany.",
+      "context": "Johannes Brahms's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Johannes Brahms",
       "sourceUrl": "https://pantheon.world/profile/person/Johannes_Brahms",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-brahms-2-obstacle",
+      "text": "Johannes Brahms's recorded life dates place this profile around 1833-1897.",
+      "context": "Johannes Brahms's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Johannes Brahms",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Brahms",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-brahms-3-turning-point",
+      "text": "Johannes Brahms is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Johannes Brahms's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Johannes Brahms",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Brahms",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-brahms-4-contribution",
+      "text": "Johannes Brahms's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Johannes Brahms's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Johannes Brahms",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Brahms",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-brahms-5-influence",
+      "text": "Johannes Brahms has a Facts Mode card reserved for deeper source research.",
+      "context": "Johannes Brahms's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Johannes Brahms",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Brahms",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "gautama-buddha",
+  "slug": "gautama-buddha",
+  "name": "Gautama Buddha",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gautama Buddha",
+      "url": "https://pantheon.world/profile/person/Gautama_Buddha",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gautama-buddha-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gautama Buddha is remembered as a philosopher connected with Nepal."
+    },
+    {
+      "factId": "gautama-buddha-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gautama Buddha's recorded life dates place this profile around -566--452."
+    },
+    {
+      "factId": "gautama-buddha-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gautama Buddha is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "gautama-buddha-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gautama Buddha's profile connects a short Fact to a wider Nepal historical setting."
+    },
+    {
+      "factId": "gautama-buddha-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gautama Buddha has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

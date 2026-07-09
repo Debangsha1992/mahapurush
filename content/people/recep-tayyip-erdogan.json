@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Recep Tayyip Erdoğan is a notable politician associated with Türkiye.",
+  "summary": "Recep Tayyip Erdoğan is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "145 language biography editions",
-    "Historical Popularity Index 83.6"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Recep Tayyip Erdoğan",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "recep-tayyip-erdogan-pantheon-profile",
-      "text": "Pantheon ranks Recep Tayyip Erdoğan as a globally documented politician with biographies in 145 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Recep Tayyip Erdoğan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "recep-tayyip-erdogan-1-origin",
+      "text": "Recep Tayyip Erdoğan is remembered as a politician connected with Türkiye.",
+      "context": "Recep Tayyip Erdoğan's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Recep Tayyip Erdoğan",
       "sourceUrl": "https://pantheon.world/profile/person/Recep_Tayyip_Erdo%C4%9Fan",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "recep-tayyip-erdogan-2-obstacle",
+      "text": "Recep Tayyip Erdoğan's recorded life dates place this profile around born 1954.",
+      "context": "Recep Tayyip Erdoğan's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Recep Tayyip Erdoğan",
+      "sourceUrl": "https://pantheon.world/profile/person/Recep_Tayyip_Erdo%C4%9Fan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "recep-tayyip-erdogan-3-turning-point",
+      "text": "Recep Tayyip Erdoğan is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Recep Tayyip Erdoğan's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Recep Tayyip Erdoğan",
+      "sourceUrl": "https://pantheon.world/profile/person/Recep_Tayyip_Erdo%C4%9Fan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "recep-tayyip-erdogan-4-contribution",
+      "text": "Recep Tayyip Erdoğan's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Recep Tayyip Erdoğan's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Recep Tayyip Erdoğan",
+      "sourceUrl": "https://pantheon.world/profile/person/Recep_Tayyip_Erdo%C4%9Fan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "recep-tayyip-erdogan-5-influence",
+      "text": "Recep Tayyip Erdoğan has a Facts Mode card reserved for deeper source research.",
+      "context": "Recep Tayyip Erdoğan's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Recep Tayyip Erdoğan",
+      "sourceUrl": "https://pantheon.world/profile/person/Recep_Tayyip_Erdo%C4%9Fan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

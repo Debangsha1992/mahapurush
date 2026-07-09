@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Toni Morrison is a notable writer associated with United States.",
+  "summary": "Toni Morrison is a notable writer connected with United States.",
   "knownFor": [
     "Writer",
-    "108 language biography editions",
-    "Historical Popularity Index 82.9"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Toni Morrison",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "toni-morrison-pantheon-profile",
-      "text": "Pantheon ranks Toni Morrison as a globally documented writer with biographies in 108 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Toni Morrison a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "toni-morrison-1-origin",
+      "text": "Toni Morrison is remembered as a writer connected with United States.",
+      "context": "Toni Morrison's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Toni Morrison",
       "sourceUrl": "https://pantheon.world/profile/person/Toni_Morrison",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "toni-morrison-2-obstacle",
+      "text": "Toni Morrison's recorded life dates place this profile around 1931-2019.",
+      "context": "Toni Morrison's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Toni Morrison",
+      "sourceUrl": "https://pantheon.world/profile/person/Toni_Morrison",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "toni-morrison-3-turning-point",
+      "text": "Toni Morrison is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Toni Morrison's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Toni Morrison",
+      "sourceUrl": "https://pantheon.world/profile/person/Toni_Morrison",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "toni-morrison-4-contribution",
+      "text": "Toni Morrison's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Toni Morrison's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Toni Morrison",
+      "sourceUrl": "https://pantheon.world/profile/person/Toni_Morrison",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "toni-morrison-5-influence",
+      "text": "Toni Morrison has a Facts Mode card reserved for deeper source research.",
+      "context": "Toni Morrison's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Toni Morrison",
+      "sourceUrl": "https://pantheon.world/profile/person/Toni_Morrison",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

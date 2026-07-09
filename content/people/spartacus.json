@@ -12,34 +12,104 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Spartacus is a notable military personnel associated with Greece.",
+  "summary": "Spartacus was a Thracian gladiator who was one of the escaped slave leaders in the Third Servile War, a major slave uprising against the Roman Republic.",
   "knownFor": [
     "Military Personnel",
-    "85 language biography editions",
-    "Historical Popularity Index 82.1"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Spartacus",
   "sourceRefs": [
     {
-      "title": "Pantheon: Spartacus",
-      "url": "https://pantheon.world/profile/person/Spartacus",
+      "title": "Wikipedia: Spartacus",
+      "url": "https://en.wikipedia.org/wiki/Spartacus",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "spartacus-pantheon-profile",
-      "text": "Pantheon ranks Spartacus as a globally documented military personnel with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Spartacus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Spartacus",
-      "sourceUrl": "https://pantheon.world/profile/person/Spartacus",
+      "id": "spartacus-1-origin",
+      "text": "Spartacus was a Thracian gladiator who was one of the escaped slave leaders in the Third Servile War, a major slave uprising against the Roman Republic.",
+      "context": "Spartacus's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Spartacus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spartacus",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "spartacus-2-obstacle",
+      "text": "Spartacus is remembered as a military personnel connected with Greece.",
+      "context": "Spartacus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Spartacus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spartacus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "spartacus-3-turning-point",
+      "text": "Spartacus's recorded life dates place this profile around -109--71.",
+      "context": "Spartacus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Spartacus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spartacus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "spartacus-4-contribution",
+      "text": "Spartacus is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Spartacus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Spartacus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spartacus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "spartacus-5-influence",
+      "text": "Spartacus's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Spartacus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Spartacus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Spartacus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

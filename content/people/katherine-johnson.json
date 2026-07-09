@@ -9,23 +9,94 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Katherine Johnson's mathematical work supported major NASA missions and challenged racial and gender barriers.",
+  "summary": "Katherine Johnson is a notable scientist connected with United States.",
   "knownFor": [
-    "NASA trajectory calculations",
-    "Project Mercury",
-    "Apollo missions"
+    "Scientist",
+    "United States"
   ],
   "facts": [
     {
-      "id": "katherine-johnson-orbit-calculations",
-      "text": "Katherine Johnson calculated trajectories for Alan Shepard's 1961 spaceflight and John Glenn's 1962 orbital mission.",
-      "context": "Her story shows how precise, trusted work can become mission-critical even inside systems that underestimate the worker.",
+      "id": "katherine-johnson-1-origin",
+      "text": "Katherine Johnson is remembered as a scientist connected with United States.",
+      "context": "Katherine Johnson's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "NASA: Katherine Johnson Biography",
       "sourceUrl": "https://www.nasa.gov/people/katherine-johnson/",
-      "sourceAccessedAt": "2026-07-05",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
-        "space",
-        "mathematics"
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "katherine-johnson-2-obstacle",
+      "text": "Katherine Johnson's recorded life dates place this profile around 1918-2020.",
+      "context": "Katherine Johnson's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "NASA: Katherine Johnson Biography",
+      "sourceUrl": "https://www.nasa.gov/people/katherine-johnson/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "katherine-johnson-3-turning-point",
+      "text": "Katherine Johnson is grouped with Science, Math & Technology in the People Library.",
+      "context": "Katherine Johnson's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "NASA: Katherine Johnson Biography",
+      "sourceUrl": "https://www.nasa.gov/people/katherine-johnson/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "katherine-johnson-4-contribution",
+      "text": "Katherine Johnson's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Katherine Johnson's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "NASA: Katherine Johnson Biography",
+      "sourceUrl": "https://www.nasa.gov/people/katherine-johnson/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "katherine-johnson-5-influence",
+      "text": "Katherine Johnson has a Facts Mode card reserved for deeper source research.",
+      "context": "Katherine Johnson's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "NASA: Katherine Johnson Biography",
+      "sourceUrl": "https://www.nasa.gov/people/katherine-johnson/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

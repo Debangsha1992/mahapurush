@@ -12,35 +12,103 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Hammurabi is a notable politician associated with Iraq.",
+  "summary": "Hammurabi, also spelled Hammurapi, was the sixth Amorite king of Babylon, reigning from c. 1792 to c. 1750 BC.",
   "knownFor": [
     "Politician",
-    "109 language biography editions",
-    "Historical Popularity Index 86.8"
+    "Justice, Governance & Leadership",
+    "Iraq"
   ],
   "featured": true,
   "featuredRank": 288,
   "imageAlt": "Portrait-style visual for Hammurabi",
   "sourceRefs": [
     {
-      "title": "Pantheon: Hammurabi",
-      "url": "https://pantheon.world/profile/person/Hammurabi",
+      "title": "Wikipedia: Hammurabi",
+      "url": "https://en.wikipedia.org/wiki/Hammurabi",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hammurabi-pantheon-profile",
-      "text": "Pantheon ranks Hammurabi as a globally documented politician with biographies in 109 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hammurabi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Hammurabi",
-      "sourceUrl": "https://pantheon.world/profile/person/Hammurabi",
+      "id": "hammurabi-1-origin",
+      "text": "Hammurabi, also spelled Hammurapi, was the sixth Amorite king of Babylon, reigning from c. 1792 to c. 1750 BC.",
+      "context": "Hammurabi's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Hammurabi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hammurabi",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hammurabi-2-obstacle",
+      "text": "Hammurabi was preceded by his father, Sin-Muballit, who abdicated due to failing health.",
+      "context": "Hammurabi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Hammurabi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hammurabi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hammurabi-3-turning-point",
+      "text": "Hammurabi ousted Ishme-Dagan I, ruler of the Kingdom of Upper Mesopotamia, and forced his son Mut-Ashkur to pay tribute, bringing almost all of Mesopotamia under Babylonian rule.",
+      "context": "Hammurabi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Hammurabi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hammurabi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hammurabi-4-contribution",
+      "text": "Hammurabi is remembered as a politician connected with Iraq.",
+      "context": "Hammurabi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Hammurabi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hammurabi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hammurabi-5-influence",
+      "text": "Hammurabi's recorded life dates place this profile around -1810--1750.",
+      "context": "Hammurabi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Hammurabi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hammurabi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

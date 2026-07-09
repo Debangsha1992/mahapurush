@@ -1,0 +1,47 @@
+{
+  "personId": "narendra-modi",
+  "slug": "narendra-modi",
+  "name": "Narendra Modi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Narendra Modi",
+      "url": "https://en.wikipedia.org/wiki/Narendra_Modi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Prime Minister of India since 2014"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "narendra-modi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Narendra Damodardas Narendra Modi is an Indian politician who has served as the prime minister of India since 26 May 2014."
+    },
+    {
+      "factId": "narendra-modi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Narendra Modi was the chief minister of Gujarat from 2001 to 2014 and is the Member of Parliament (MP) for Varanasi."
+    },
+    {
+      "factId": "narendra-modi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Narendra Modi is a member of the Bharatiya Janata Party (BJP) and of the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindutva paramilitary volunteer organisation."
+    },
+    {
+      "factId": "narendra-modi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Narendra Modi is India's third-longest-serving prime minister, and the longest-serving prime minister outside the Indian National Congress."
+    },
+    {
+      "factId": "narendra-modi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Narendra Modi is remembered as a politician connected with India."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "naruhito",
+  "slug": "naruhito",
+  "name": "Naruhito",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Naruhito",
+      "url": "https://en.wikipedia.org/wiki/Naruhito",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Emperor of Japan since 2019"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "naruhito-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Naruhito acceded to the Chrysanthemum Throne on 1 May 2019 following the abdication of his father, Akihito."
+    },
+    {
+      "factId": "naruhito-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Naruhito is the 126th monarch, according to the traditional order of succession."
+    },
+    {
+      "factId": "naruhito-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Naruhito's reign is known as the Reiwa era."
+    },
+    {
+      "factId": "naruhito-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Naruhito is remembered as a nobleman connected with Japan."
+    },
+    {
+      "factId": "naruhito-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Naruhito's recorded life dates place this profile around born 1960."
+    }
+  ]
+}

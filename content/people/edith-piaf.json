@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "singer"
   ],
-  "summary": "Édith Piaf is a notable singer associated with France.",
+  "summary": "Édith Piaf is a notable singer connected with France.",
   "knownFor": [
     "Singer",
-    "128 language biography editions",
-    "Historical Popularity Index 86.1"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": true,
   "featuredRank": 338,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edith-piaf-pantheon-profile",
-      "text": "Pantheon ranks Édith Piaf as a globally documented singer with biographies in 128 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Édith Piaf a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edith-piaf-1-origin",
+      "text": "Édith Piaf is remembered as a singer connected with France.",
+      "context": "Édith Piaf's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Édith Piaf",
       "sourceUrl": "https://pantheon.world/profile/person/%C3%89dith_Piaf",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edith-piaf-2-obstacle",
+      "text": "Édith Piaf's recorded life dates place this profile around 1915-1963.",
+      "context": "Édith Piaf's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Édith Piaf",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89dith_Piaf",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edith-piaf-3-turning-point",
+      "text": "Édith Piaf is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Édith Piaf's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Édith Piaf",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89dith_Piaf",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edith-piaf-4-contribution",
+      "text": "Édith Piaf's profile connects a short Fact to a wider France historical setting.",
+      "context": "Édith Piaf's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Édith Piaf",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89dith_Piaf",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edith-piaf-5-influence",
+      "text": "Édith Piaf has a Facts Mode card reserved for deeper source research.",
+      "context": "Édith Piaf's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Édith Piaf",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89dith_Piaf",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

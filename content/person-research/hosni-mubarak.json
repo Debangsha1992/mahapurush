@@ -1,0 +1,46 @@
+{
+  "personId": "hosni-mubarak",
+  "slug": "hosni-mubarak",
+  "name": "Hosni Mubarak",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hosni Mubarak",
+      "url": "https://pantheon.world/profile/person/Hosni_Mubarak",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hosni-mubarak-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hosni Mubarak is remembered as a politician connected with Egypt."
+    },
+    {
+      "factId": "hosni-mubarak-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hosni Mubarak's recorded life dates place this profile around 1928-2020."
+    },
+    {
+      "factId": "hosni-mubarak-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hosni Mubarak is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "hosni-mubarak-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hosni Mubarak's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "hosni-mubarak-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hosni Mubarak has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

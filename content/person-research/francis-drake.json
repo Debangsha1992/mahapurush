@@ -1,0 +1,46 @@
+{
+  "personId": "francis-drake",
+  "slug": "francis-drake",
+  "name": "Francis Drake",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Francis Drake",
+      "url": "https://pantheon.world/profile/person/Francis_Drake",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "francis-drake-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Francis Drake is remembered as a explorer connected with United Kingdom."
+    },
+    {
+      "factId": "francis-drake-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Francis Drake's recorded life dates place this profile around 1540-1596."
+    },
+    {
+      "factId": "francis-drake-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Francis Drake is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "francis-drake-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Francis Drake's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "francis-drake-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Francis Drake has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

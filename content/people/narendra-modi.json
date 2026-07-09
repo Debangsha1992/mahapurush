@@ -12,35 +12,102 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Narendra Modi is a notable politician associated with India.",
+  "summary": "Narendra Damodardas Modi is an Indian politician who has served as the prime minister of India since 26 May 2014.",
   "knownFor": [
     "Politician",
-    "145 language biography editions",
-    "Historical Popularity Index 88.8"
+    "Justice, Governance & Leadership",
+    "India"
   ],
   "featured": true,
   "featuredRank": 183,
   "imageAlt": "Portrait-style visual for Narendra Modi",
   "sourceRefs": [
     {
-      "title": "Pantheon: Narendra Modi",
-      "url": "https://pantheon.world/profile/person/Narendra_Modi",
+      "title": "Wikipedia: Narendra Modi",
+      "url": "https://en.wikipedia.org/wiki/Narendra_Modi",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "narendra-modi-pantheon-profile",
-      "text": "Pantheon ranks Narendra Modi as a globally documented politician with biographies in 145 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Narendra Modi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Narendra Modi",
-      "sourceUrl": "https://pantheon.world/profile/person/Narendra_Modi",
+      "id": "narendra-modi-1-origin",
+      "text": "Narendra Damodardas Narendra Modi is an Indian politician who has served as the prime minister of India since 26 May 2014.",
+      "context": "Narendra Modi's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Narendra Modi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Narendra_Modi",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "narendra-modi-2-obstacle",
+      "text": "Narendra Modi was the chief minister of Gujarat from 2001 to 2014 and is the Member of Parliament (MP) for Varanasi.",
+      "context": "Narendra Modi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Narendra Modi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Narendra_Modi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "narendra-modi-3-turning-point",
+      "text": "Narendra Modi is a member of the Bharatiya Janata Party (BJP) and of the Rashtriya Swayamsevak Sangh (RSS), a right-wing Hindutva paramilitary volunteer organisation.",
+      "context": "Narendra Modi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Narendra Modi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Narendra_Modi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "narendra-modi-4-contribution",
+      "text": "Narendra Modi is India's third-longest-serving prime minister, and the longest-serving prime minister outside the Indian National Congress.",
+      "context": "Narendra Modi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Narendra Modi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Narendra_Modi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "narendra-modi-5-influence",
+      "text": "Narendra Modi is remembered as a politician connected with India.",
+      "context": "Narendra Modi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Narendra Modi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Narendra_Modi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "ivan-pavlov",
+  "slug": "ivan-pavlov",
+  "name": "Ivan Pavlov",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ivan Pavlov",
+      "url": "https://pantheon.world/profile/person/Ivan_Pavlov",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ivan-pavlov-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ivan Pavlov is remembered as a biologist connected with Russia."
+    },
+    {
+      "factId": "ivan-pavlov-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ivan Pavlov's recorded life dates place this profile around 1849-1936."
+    },
+    {
+      "factId": "ivan-pavlov-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ivan Pavlov is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "ivan-pavlov-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ivan Pavlov's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "ivan-pavlov-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ivan Pavlov has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

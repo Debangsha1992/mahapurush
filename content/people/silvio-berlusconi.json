@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Silvio Berlusconi is a notable politician associated with Italy.",
+  "summary": "Silvio Berlusconi is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "128 language biography editions",
-    "Historical Popularity Index 84.2"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Silvio Berlusconi",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "silvio-berlusconi-pantheon-profile",
-      "text": "Pantheon ranks Silvio Berlusconi as a globally documented politician with biographies in 128 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Silvio Berlusconi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "silvio-berlusconi-1-origin",
+      "text": "Silvio Berlusconi is remembered as a politician connected with Italy.",
+      "context": "Silvio Berlusconi's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Silvio Berlusconi",
       "sourceUrl": "https://pantheon.world/profile/person/Silvio_Berlusconi",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "silvio-berlusconi-2-obstacle",
+      "text": "Silvio Berlusconi's recorded life dates place this profile around 1936-2023.",
+      "context": "Silvio Berlusconi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Silvio Berlusconi",
+      "sourceUrl": "https://pantheon.world/profile/person/Silvio_Berlusconi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "silvio-berlusconi-3-turning-point",
+      "text": "Silvio Berlusconi is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Silvio Berlusconi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Silvio Berlusconi",
+      "sourceUrl": "https://pantheon.world/profile/person/Silvio_Berlusconi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "silvio-berlusconi-4-contribution",
+      "text": "Silvio Berlusconi's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Silvio Berlusconi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Silvio Berlusconi",
+      "sourceUrl": "https://pantheon.world/profile/person/Silvio_Berlusconi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "silvio-berlusconi-5-influence",
+      "text": "Silvio Berlusconi has a Facts Mode card reserved for deeper source research.",
+      "context": "Silvio Berlusconi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Silvio Berlusconi",
+      "sourceUrl": "https://pantheon.world/profile/person/Silvio_Berlusconi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

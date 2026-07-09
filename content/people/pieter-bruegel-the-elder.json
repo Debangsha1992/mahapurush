@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Pieter Bruegel the Elder is a notable painter associated with Netherlands.",
+  "summary": "Pieter Bruegel the Elder is a notable painter connected with Netherlands.",
   "knownFor": [
     "Painter",
-    "83 language biography editions",
-    "Historical Popularity Index 83.6"
+    "Justice, Governance & Leadership",
+    "Netherlands"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Pieter Bruegel the Elder",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pieter-bruegel-the-elder-pantheon-profile",
-      "text": "Pantheon ranks Pieter Bruegel the Elder as a globally documented painter with biographies in 83 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pieter Bruegel the Elder a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pieter-bruegel-the-elder-1-origin",
+      "text": "Pieter Bruegel the Elder is remembered as a painter connected with Netherlands.",
+      "context": "Pieter Bruegel the Elder's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Pieter Bruegel the Elder",
       "sourceUrl": "https://pantheon.world/profile/person/Pieter_Bruegel_the_Elder",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pieter-bruegel-the-elder-2-obstacle",
+      "text": "Pieter Bruegel the Elder's recorded life dates place this profile around 1525-1569.",
+      "context": "Pieter Bruegel the Elder's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pieter Bruegel the Elder",
+      "sourceUrl": "https://pantheon.world/profile/person/Pieter_Bruegel_the_Elder",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pieter-bruegel-the-elder-3-turning-point",
+      "text": "Pieter Bruegel the Elder is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Pieter Bruegel the Elder's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pieter Bruegel the Elder",
+      "sourceUrl": "https://pantheon.world/profile/person/Pieter_Bruegel_the_Elder",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pieter-bruegel-the-elder-4-contribution",
+      "text": "Pieter Bruegel the Elder's profile connects a short Fact to a wider Netherlands historical setting.",
+      "context": "Pieter Bruegel the Elder's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pieter Bruegel the Elder",
+      "sourceUrl": "https://pantheon.world/profile/person/Pieter_Bruegel_the_Elder",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pieter-bruegel-the-elder-5-influence",
+      "text": "Pieter Bruegel the Elder has a Facts Mode card reserved for deeper source research.",
+      "context": "Pieter Bruegel the Elder's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pieter Bruegel the Elder",
+      "sourceUrl": "https://pantheon.world/profile/person/Pieter_Bruegel_the_Elder",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

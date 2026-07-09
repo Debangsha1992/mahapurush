@@ -17,7 +17,7 @@
         "instruction": "Before accepting a belief, ask why it is true, why people believe it, and why it matters."
       },
       "modernTest": {
-        "scenario": "Your class is mocking someone online and calling it a joke.",
+        "scenario": "A work group chat is mocking a colleague and calling it a joke.",
         "question": "What would Socrates ask first?",
         "options": [
           {
@@ -27,8 +27,8 @@
           },
           {
             "id": "b",
-            "label": "How many likes did the post get?",
-            "explanation": "This measures popularity, not moral strength."
+            "label": "Would I defend this if the person saw it?",
+            "explanation": "This tests whether the joke survives honest scrutiny."
           },
           {
             "id": "c",
@@ -38,7 +38,7 @@
         ],
         "discussionNotes": "Socrates would likely ask all three kinds of questions, but the strongest first move is to challenge the assumption that the crowd is always right."
       },
-      "reflectionPrompt": "Write one belief you have that you may have never questioned properly.",
+      "reflectionPrompt": "Write one belief, habit, or opinion you may have inherited from a group without questioning it properly.",
       "thoughtTension": {
         "counterView": "But if you question everything, can you ever feel certain about anything?",
         "responsePrompt": "When is questioning useful, and when can it become avoidance?"
@@ -61,7 +61,7 @@
         "instruction": "Before accepting a belief, ask why it is true, why people believe it, and why it matters."
       },
       "modernTest": {
-        "scenario": "Your whole class is making fun of a student online. Everyone says it is just a joke.",
+        "scenario": "A private chat at work is circulating a mocking clip of a colleague. People say it is just a joke and you should lighten up.",
         "question": "What would Socrates ask before joining in?",
         "options": [
           {
@@ -87,7 +87,7 @@
         ],
         "discussionNotes": "There may not be one perfect answer, but the point is to slow down and test the crowd's logic."
       },
-      "reflectionPrompt": "Write one belief you have that you may have never questioned properly.",
+      "reflectionPrompt": "Write one belief, habit, or opinion you may have inherited from a group without questioning it properly.",
       "thoughtTension": {
         "counterView": "But what if questioning everything makes life harder? Can too much questioning make people confused?",
         "responsePrompt": "Explain when questioning protects you and when it might become a way to avoid deciding."

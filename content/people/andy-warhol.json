@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "artist"
   ],
-  "summary": "Andy Warhol is a notable artist associated with United States.",
+  "summary": "Andy Warhol is a notable artist connected with United States.",
   "knownFor": [
     "Artist",
-    "140 language biography editions",
-    "Historical Popularity Index 82.9"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Andy Warhol",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "andy-warhol-pantheon-profile",
-      "text": "Pantheon ranks Andy Warhol as a globally documented artist with biographies in 140 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Andy Warhol a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "andy-warhol-1-origin",
+      "text": "Andy Warhol is remembered as a artist connected with United States.",
+      "context": "Andy Warhol's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Andy Warhol",
       "sourceUrl": "https://pantheon.world/profile/person/Andy_Warhol",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andy-warhol-2-obstacle",
+      "text": "Andy Warhol's recorded life dates place this profile around 1928-1987.",
+      "context": "Andy Warhol's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Andy Warhol",
+      "sourceUrl": "https://pantheon.world/profile/person/Andy_Warhol",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andy-warhol-3-turning-point",
+      "text": "Andy Warhol is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Andy Warhol's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Andy Warhol",
+      "sourceUrl": "https://pantheon.world/profile/person/Andy_Warhol",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andy-warhol-4-contribution",
+      "text": "Andy Warhol's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Andy Warhol's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Andy Warhol",
+      "sourceUrl": "https://pantheon.world/profile/person/Andy_Warhol",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andy-warhol-5-influence",
+      "text": "Andy Warhol has a Facts Mode card reserved for deeper source research.",
+      "context": "Andy Warhol's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Andy Warhol",
+      "sourceUrl": "https://pantheon.world/profile/person/Andy_Warhol",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,47 @@
+{
+  "personId": "euclid",
+  "slug": "euclid",
+  "name": "Euclid",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Euclid",
+      "url": "https://en.wikipedia.org/wiki/Euclid",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Ancient Greek mathematician (fl. 300 BC)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "euclid-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Euclid was an ancient Greek mathematician active as a geometer and logician."
+    },
+    {
+      "factId": "euclid-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Euclid's system, now referred to as Euclidean geometry, involved innovations in combination with a synthesis of theories from earlier Greek mathematicians, including Eudoxus of Cnidus, Hippocrates of Chios, Thales and Theaetetus."
+    },
+    {
+      "factId": "euclid-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Euclid is remembered as a mathematician connected with Egypt."
+    },
+    {
+      "factId": "euclid-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Euclid's recorded life dates place this profile around -350--240."
+    },
+    {
+      "factId": "euclid-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Euclid is grouped with Science, Math & Technology in the People Library."
+    }
+  ]
+}

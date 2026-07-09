@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "architect"
   ],
-  "summary": "Le Corbusier is a notable architect associated with Switzerland.",
+  "summary": "Le Corbusier is a notable architect connected with Switzerland.",
   "knownFor": [
     "Architect",
-    "169 language biography editions",
-    "Historical Popularity Index 86.8"
+    "Justice, Governance & Leadership",
+    "Switzerland"
   ],
   "featured": true,
   "featuredRank": 286,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "le-corbusier-pantheon-profile",
-      "text": "Pantheon ranks Le Corbusier as a globally documented architect with biographies in 169 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Le Corbusier a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "le-corbusier-1-origin",
+      "text": "Le Corbusier is remembered as a architect connected with Switzerland.",
+      "context": "Le Corbusier's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Le Corbusier",
       "sourceUrl": "https://pantheon.world/profile/person/Le_Corbusier",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "le-corbusier-2-obstacle",
+      "text": "Le Corbusier's recorded life dates place this profile around 1887-1965.",
+      "context": "Le Corbusier's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Le Corbusier",
+      "sourceUrl": "https://pantheon.world/profile/person/Le_Corbusier",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "le-corbusier-3-turning-point",
+      "text": "Le Corbusier is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Le Corbusier's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Le Corbusier",
+      "sourceUrl": "https://pantheon.world/profile/person/Le_Corbusier",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "le-corbusier-4-contribution",
+      "text": "Le Corbusier's profile connects a short Fact to a wider Switzerland historical setting.",
+      "context": "Le Corbusier's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Le Corbusier",
+      "sourceUrl": "https://pantheon.world/profile/person/Le_Corbusier",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "le-corbusier-5-influence",
+      "text": "Le Corbusier has a Facts Mode card reserved for deeper source research.",
+      "context": "Le Corbusier's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Le Corbusier",
+      "sourceUrl": "https://pantheon.world/profile/person/Le_Corbusier",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

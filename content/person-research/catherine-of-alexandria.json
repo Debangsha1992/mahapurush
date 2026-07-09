@@ -1,0 +1,46 @@
+{
+  "personId": "catherine-of-alexandria",
+  "slug": "catherine-of-alexandria",
+  "name": "Catherine of Alexandria",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Catherine of Alexandria",
+      "url": "https://pantheon.world/profile/person/Catherine_of_Alexandria",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "catherine-of-alexandria-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Catherine of Alexandria is remembered as a religious figure connected with Egypt."
+    },
+    {
+      "factId": "catherine-of-alexandria-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Catherine of Alexandria's recorded life dates place this profile around 287-305."
+    },
+    {
+      "factId": "catherine-of-alexandria-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Catherine of Alexandria is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "catherine-of-alexandria-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Catherine of Alexandria's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "catherine-of-alexandria-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Catherine of Alexandria has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

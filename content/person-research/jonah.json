@@ -1,0 +1,47 @@
+{
+  "personId": "jonah",
+  "slug": "jonah",
+  "name": "Jonah",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Jonah",
+      "url": "https://en.wikipedia.org/wiki/Jonah",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Biblical and Quranic prophet"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jonah-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Jonah or Jonas was a Jewish prophet from Gath-hepher in the Northern Kingdom of Israel around the 8th century BCE according to the Hebrew Bible."
+    },
+    {
+      "factId": "jonah-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Jonah is the central figure of the Book of Jonah, one of the minor prophets, which details his reluctance in delivering the judgment of God to the city of Nineveh in the Neo-Assyrian Empire."
+    },
+    {
+      "factId": "jonah-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jonah is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "jonah-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jonah's recorded life dates place this profile around -850--810."
+    },
+    {
+      "factId": "jonah-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jonah is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

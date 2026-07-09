@@ -1,0 +1,46 @@
+{
+  "personId": "charles-xiv-john-of-sweden",
+  "slug": "charles-xiv-john-of-sweden",
+  "name": "Charles XIV John of Sweden",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles XIV John of Sweden",
+      "url": "https://pantheon.world/profile/person/Charles_XIV_John_of_Sweden",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-xiv-john-of-sweden-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles XIV John of Sweden is remembered as a military personnel connected with France."
+    },
+    {
+      "factId": "charles-xiv-john-of-sweden-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles XIV John of Sweden's recorded life dates place this profile around 1763-1844."
+    },
+    {
+      "factId": "charles-xiv-john-of-sweden-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles XIV John of Sweden is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "charles-xiv-john-of-sweden-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles XIV John of Sweden's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "charles-xiv-john-of-sweden-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles XIV John of Sweden has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

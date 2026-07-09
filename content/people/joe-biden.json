@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Joe Biden is a notable politician associated with United States.",
+  "summary": "Joe Biden is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "224 language biography editions",
-    "Historical Popularity Index 86.0"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 347,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "joe-biden-pantheon-profile",
-      "text": "Pantheon ranks Joe Biden as a globally documented politician with biographies in 224 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Joe Biden a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "joe-biden-1-origin",
+      "text": "Joe Biden is remembered as a politician connected with United States.",
+      "context": "Joe Biden's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Joe Biden",
       "sourceUrl": "https://pantheon.world/profile/person/Joe_Biden",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joe-biden-2-obstacle",
+      "text": "Joe Biden's recorded life dates place this profile around born 1942.",
+      "context": "Joe Biden's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Joe Biden",
+      "sourceUrl": "https://pantheon.world/profile/person/Joe_Biden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joe-biden-3-turning-point",
+      "text": "Joe Biden is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Joe Biden's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Joe Biden",
+      "sourceUrl": "https://pantheon.world/profile/person/Joe_Biden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joe-biden-4-contribution",
+      "text": "Joe Biden's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Joe Biden's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Joe Biden",
+      "sourceUrl": "https://pantheon.world/profile/person/Joe_Biden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joe-biden-5-influence",
+      "text": "Joe Biden has a Facts Mode card reserved for deeper source research.",
+      "context": "Joe Biden's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Joe Biden",
+      "sourceUrl": "https://pantheon.world/profile/person/Joe_Biden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

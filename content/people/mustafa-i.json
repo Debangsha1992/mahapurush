@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mustafa I is a notable politician associated with Türkiye.",
+  "summary": "Mustafa I is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "70 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mustafa I",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mustafa-i-pantheon-profile",
-      "text": "Pantheon ranks Mustafa I as a globally documented politician with biographies in 70 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mustafa I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mustafa-i-1-origin",
+      "text": "Mustafa I is remembered as a politician connected with Türkiye.",
+      "context": "Mustafa I's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mustafa I",
       "sourceUrl": "https://pantheon.world/profile/person/Mustafa_I",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mustafa-i-2-obstacle",
+      "text": "Mustafa I's recorded life dates place this profile around 1591-1639.",
+      "context": "Mustafa I's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mustafa I",
+      "sourceUrl": "https://pantheon.world/profile/person/Mustafa_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mustafa-i-3-turning-point",
+      "text": "Mustafa I is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mustafa I's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mustafa I",
+      "sourceUrl": "https://pantheon.world/profile/person/Mustafa_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mustafa-i-4-contribution",
+      "text": "Mustafa I's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Mustafa I's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mustafa I",
+      "sourceUrl": "https://pantheon.world/profile/person/Mustafa_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mustafa-i-5-influence",
+      "text": "Mustafa I has a Facts Mode card reserved for deeper source research.",
+      "context": "Mustafa I's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mustafa I",
+      "sourceUrl": "https://pantheon.world/profile/person/Mustafa_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

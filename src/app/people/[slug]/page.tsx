@@ -1,12 +1,19 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Card } from "@/components/ui/card";
 import { PERSON_DOMAIN_LABELS } from "@/lib/constants/person-domains";
 import {
   getAllPeople,
   getAllThinkers,
+  getApprovedFactsForPerson,
   getPersonBySlug,
 } from "@/lib/content/loaders";
+import { getPublicPersonSummary } from "@/lib/content/public-copy";
+import {
+  EditorialCard,
+  EditorialPageHero,
+  EditorialPill,
+  mutedText,
+} from "@/components/ui/editorial";
 
 export function generateStaticParams() {
   return getAllPeople().map((person) => ({ slug: person.slug }));
@@ -26,6 +33,8 @@ export default async function PersonPage({
   const thinkerSlug = person.thinkerId
     ? getAllThinkers().find((thinker) => thinker.id === person.thinkerId)?.slug
     : undefined;
+  const approvedFacts = getApprovedFactsForPerson(person);
+  const publicSummary = getPublicPersonSummary(person.summary);
 
   return (
     <div className="space-y-6">
@@ -33,33 +42,26 @@ export default async function PersonPage({
         Back to People Library
       </Link>
 
-      <Card className="space-y-5">
-        <div>
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-            {PERSON_DOMAIN_LABELS[person.primaryDomain]} · {person.region}
+      <EditorialPageHero
+        eyebrow={`${PERSON_DOMAIN_LABELS[person.primaryDomain]} · ${person.region}`}
+        title={person.name}
+        description={`${person.era}${person.featuredRank ? ` · Featured #${person.featuredRank}` : ""}`}
+      >
+        {publicSummary && (
+          <p className="max-w-3xl font-serif text-2xl leading-relaxed">
+            {publicSummary}
           </p>
-          <h2 className="mt-2 text-3xl font-semibold">{person.name}</h2>
-          <p className="mt-2 text-[var(--color-muted)]">
-            {person.era}
-            {person.featuredRank ? ` · Featured #${person.featuredRank}` : ""}
-          </p>
-        </div>
-
-        <p className="font-serif text-2xl leading-relaxed">{person.summary}</p>
-
+        )}
         <div className="flex flex-wrap gap-2">
           {person.knownFor.map((item) => (
-            <span
-              key={item}
-              className="rounded-full bg-[var(--color-surface-raised)] px-3 py-1 text-sm text-[var(--color-muted)]"
-            >
+            <EditorialPill key={item}>
               {item}
-            </span>
+            </EditorialPill>
           ))}
         </div>
 
         {person.sensitiveContextNote && (
-          <div className="rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface-raised)] p-4 text-sm leading-6 text-[var(--color-muted)]">
+          <div className={`rounded-2xl border border-white/10 bg-white/[0.04] p-4 text-sm leading-6 ${mutedText}`}>
             {person.sensitiveContextNote}
           </div>
         )}
@@ -67,24 +69,30 @@ export default async function PersonPage({
         {thinkerSlug && (
           <Link
             href={`/thinkers/${thinkerSlug}`}
-            className="inline-flex rounded-full border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-5 py-3 text-sm font-medium transition hover:border-[var(--color-accent)]"
+            className="inline-flex rounded-full border border-white/10 bg-white/[0.04] px-5 py-3 text-sm font-medium transition hover:border-[var(--color-accent)]"
           >
             Open Introspection profile
           </Link>
         )}
-      </Card>
+      </EditorialPageHero>
 
       <section className="space-y-4">
-        <h3 className="text-2xl font-semibold">Source-backed facts</h3>
+        <h3 className="text-3xl font-extrabold tracking-tight">Source-backed facts</h3>
         <div className="grid gap-4">
-          {person.facts
-            .filter((fact) => fact.verified)
-            .map((fact) => (
-              <Card key={fact.id} className="space-y-4">
+          {approvedFacts.length === 0 ? (
+            <EditorialCard className="space-y-3">
+              <p className="text-lg font-semibold">No approved facts yet</p>
+              <p className={`leading-7 ${mutedText}`}>
+                This person is awaiting source-backed editorial review.
+              </p>
+            </EditorialCard>
+          ) : (
+            approvedFacts.map((fact) => (
+              <EditorialCard key={fact.id} className="space-y-4">
                 <p className="font-serif text-2xl leading-relaxed">
                   &ldquo;{fact.text}&rdquo;
                 </p>
-                <p className="leading-7 text-[var(--color-muted)]">{fact.context}</p>
+                <p className={`leading-7 ${mutedText}`}>{fact.context}</p>
                 <a
                   href={fact.sourceUrl}
                   target="_blank"
@@ -93,13 +101,14 @@ export default async function PersonPage({
                 >
                   Source: {fact.sourceTitle}
                 </a>
-              </Card>
-            ))}
+              </EditorialCard>
+            ))
+          )}
         </div>
       </section>
 
       <section className="space-y-3">
-        <h3 className="text-xl font-semibold">Profile sources</h3>
+        <h3 className="text-2xl font-extrabold tracking-tight">Profile sources</h3>
         <div className="flex flex-wrap gap-3">
           {person.sourceRefs.map((source) => (
             <a
@@ -107,7 +116,7 @@ export default async function PersonPage({
               href={source.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="rounded-full border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-4 py-2 text-sm text-[var(--color-muted)] transition hover:border-[var(--color-accent)] hover:text-[var(--color-text)]"
+              className={`rounded-full border border-white/10 bg-white/[0.04] px-4 py-2 text-sm transition hover:border-[var(--color-accent)] hover:text-[var(--color-text)] ${mutedText}`}
             >
               {source.title}
             </a>

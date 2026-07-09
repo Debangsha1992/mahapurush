@@ -1,0 +1,46 @@
+{
+  "personId": "giuseppe-garibaldi",
+  "slug": "giuseppe-garibaldi",
+  "name": "Giuseppe Garibaldi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Giuseppe Garibaldi",
+      "url": "https://pantheon.world/profile/person/Giuseppe_Garibaldi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "giuseppe-garibaldi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Giuseppe Garibaldi is remembered as a politician connected with France."
+    },
+    {
+      "factId": "giuseppe-garibaldi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Giuseppe Garibaldi's recorded life dates place this profile around 1807-1882."
+    },
+    {
+      "factId": "giuseppe-garibaldi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Giuseppe Garibaldi is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "giuseppe-garibaldi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Giuseppe Garibaldi's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "giuseppe-garibaldi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Giuseppe Garibaldi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

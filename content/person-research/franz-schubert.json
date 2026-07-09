@@ -1,0 +1,46 @@
+{
+  "personId": "franz-schubert",
+  "slug": "franz-schubert",
+  "name": "Franz Schubert",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Franz Schubert",
+      "url": "https://pantheon.world/profile/person/Franz_Schubert",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "franz-schubert-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Franz Schubert is remembered as a composer connected with Austria."
+    },
+    {
+      "factId": "franz-schubert-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Franz Schubert's recorded life dates place this profile around 1797-1828."
+    },
+    {
+      "factId": "franz-schubert-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Franz Schubert is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "franz-schubert-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Franz Schubert's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "franz-schubert-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Franz Schubert has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

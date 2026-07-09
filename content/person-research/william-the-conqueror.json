@@ -1,0 +1,46 @@
+{
+  "personId": "william-the-conqueror",
+  "slug": "william-the-conqueror",
+  "name": "William the Conqueror",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: William the Conqueror",
+      "url": "https://pantheon.world/profile/person/William_the_Conqueror",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "william-the-conqueror-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "William the Conqueror is remembered as a nobleman connected with France."
+    },
+    {
+      "factId": "william-the-conqueror-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "William the Conqueror's recorded life dates place this profile around 1028-1087."
+    },
+    {
+      "factId": "william-the-conqueror-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "William the Conqueror is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "william-the-conqueror-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "William the Conqueror's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "william-the-conqueror-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "William the Conqueror has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

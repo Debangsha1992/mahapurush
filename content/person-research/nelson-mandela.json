@@ -1,0 +1,46 @@
+{
+  "personId": "nelson-mandela",
+  "slug": "nelson-mandela",
+  "name": "Nelson Mandela",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Nelson Mandela Foundation: Biography",
+      "url": "https://www.nelsonmandela.org/content/page/biography",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "nelson-mandela-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Nelson Mandela is remembered as a leader connected with South Africa."
+    },
+    {
+      "factId": "nelson-mandela-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Nelson Mandela's recorded life dates place this profile around 1918-2013."
+    },
+    {
+      "factId": "nelson-mandela-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Nelson Mandela is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "nelson-mandela-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Nelson Mandela's profile connects a short Fact to a wider South Africa historical setting."
+    },
+    {
+      "factId": "nelson-mandela-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Nelson Mandela has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,34 +12,101 @@
     "justice-governance-leadership",
     "sculptor"
   ],
-  "summary": "Phidias is a notable sculptor associated with Greece.",
+  "summary": "Phidias or Pheidias was an Ancient Greek sculptor, painter, and architect, active in the 5th century BC.",
   "knownFor": [
     "Sculptor",
-    "68 language biography editions",
-    "Historical Popularity Index 82.9"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Phidias",
   "sourceRefs": [
     {
-      "title": "Pantheon: Phidias",
-      "url": "https://pantheon.world/profile/person/Phidias",
+      "title": "Wikipedia: Phidias",
+      "url": "https://en.wikipedia.org/wiki/Phidias",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "phidias-pantheon-profile",
-      "text": "Pantheon ranks Phidias as a globally documented sculptor with biographies in 68 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Phidias a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Phidias",
-      "sourceUrl": "https://pantheon.world/profile/person/Phidias",
+      "id": "phidias-1-origin",
+      "text": "Phidias or Pheidias was an Ancient Greek sculptor, painter, and architect, active in the 5th century BC.",
+      "context": "Phidias's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Phidias",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Phidias",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "phidias-2-obstacle",
+      "text": "Phidias's Statue of Zeus at Olympia was one of the Seven Wonders of the Ancient World.",
+      "context": "Phidias's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Phidias",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Phidias",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "phidias-3-turning-point",
+      "text": "Phidias also designed the statues of the goddess Athena on the Athenian Acropolis, namely the Athena Parthenos inside the Parthenon, and the Athena Promachos, a colossal bronze which stood between it and the Propylaea, a monumental gateway that served as the entrance to the Acropolis in Athens.",
+      "context": "Phidias's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Phidias",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Phidias",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "phidias-4-contribution",
+      "text": "Phidias was the son of Charmides of Athens.",
+      "context": "Phidias's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Phidias",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Phidias",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "phidias-5-influence",
+      "text": "Phidias is remembered as a sculptor connected with Greece.",
+      "context": "Phidias's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Phidias",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Phidias",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

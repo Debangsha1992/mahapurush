@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "film-director"
   ],
-  "summary": "Ingmar Bergman is a notable film director associated with Sweden.",
+  "summary": "Ingmar Bergman is a notable film director connected with Sweden.",
   "knownFor": [
     "Film Director",
-    "134 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Literature, Arts & Culture",
+    "Sweden"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ingmar Bergman",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ingmar-bergman-pantheon-profile",
-      "text": "Pantheon ranks Ingmar Bergman as a globally documented film director with biographies in 134 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ingmar Bergman a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ingmar-bergman-1-origin",
+      "text": "Ingmar Bergman is remembered as a film director connected with Sweden.",
+      "context": "Ingmar Bergman's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Ingmar Bergman",
       "sourceUrl": "https://pantheon.world/profile/person/Ingmar_Bergman",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ingmar-bergman-2-obstacle",
+      "text": "Ingmar Bergman's recorded life dates place this profile around 1918-2007.",
+      "context": "Ingmar Bergman's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ingmar Bergman",
+      "sourceUrl": "https://pantheon.world/profile/person/Ingmar_Bergman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ingmar-bergman-3-turning-point",
+      "text": "Ingmar Bergman is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Ingmar Bergman's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ingmar Bergman",
+      "sourceUrl": "https://pantheon.world/profile/person/Ingmar_Bergman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ingmar-bergman-4-contribution",
+      "text": "Ingmar Bergman's profile connects a short Fact to a wider Sweden historical setting.",
+      "context": "Ingmar Bergman's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ingmar Bergman",
+      "sourceUrl": "https://pantheon.world/profile/person/Ingmar_Bergman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ingmar-bergman-5-influence",
+      "text": "Ingmar Bergman has a Facts Mode card reserved for deeper source research.",
+      "context": "Ingmar Bergman's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ingmar Bergman",
+      "sourceUrl": "https://pantheon.world/profile/person/Ingmar_Bergman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

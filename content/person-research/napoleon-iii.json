@@ -1,0 +1,46 @@
+{
+  "personId": "napoleon-iii",
+  "slug": "napoleon-iii",
+  "name": "Napoleon III",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Napoleon III",
+      "url": "https://pantheon.world/profile/person/Napoleon_III",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "napoleon-iii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Napoleon III is remembered as a politician connected with France."
+    },
+    {
+      "factId": "napoleon-iii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Napoleon III's recorded life dates place this profile around 1808-1873."
+    },
+    {
+      "factId": "napoleon-iii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Napoleon III is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "napoleon-iii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Napoleon III's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "napoleon-iii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Napoleon III has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

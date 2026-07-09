@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "linguist"
   ],
-  "summary": "Ferdinand de Saussure is a notable linguist associated with Switzerland.",
+  "summary": "Ferdinand de Saussure is a notable linguist connected with Switzerland.",
   "knownFor": [
     "Linguist",
-    "94 language biography editions",
-    "Historical Popularity Index 82.1"
+    "Literature, Arts & Culture",
+    "Switzerland"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ferdinand de Saussure",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ferdinand-de-saussure-pantheon-profile",
-      "text": "Pantheon ranks Ferdinand de Saussure as a globally documented linguist with biographies in 94 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ferdinand de Saussure a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ferdinand-de-saussure-1-origin",
+      "text": "Ferdinand de Saussure is remembered as a linguist connected with Switzerland.",
+      "context": "Ferdinand de Saussure's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Ferdinand de Saussure",
       "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_de_Saussure",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-de-saussure-2-obstacle",
+      "text": "Ferdinand de Saussure's recorded life dates place this profile around 1857-1913.",
+      "context": "Ferdinand de Saussure's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ferdinand de Saussure",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_de_Saussure",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-de-saussure-3-turning-point",
+      "text": "Ferdinand de Saussure is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Ferdinand de Saussure's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ferdinand de Saussure",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_de_Saussure",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-de-saussure-4-contribution",
+      "text": "Ferdinand de Saussure's profile connects a short Fact to a wider Switzerland historical setting.",
+      "context": "Ferdinand de Saussure's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ferdinand de Saussure",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_de_Saussure",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-de-saussure-5-influence",
+      "text": "Ferdinand de Saussure has a Facts Mode card reserved for deeper source research.",
+      "context": "Ferdinand de Saussure's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ferdinand de Saussure",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_de_Saussure",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

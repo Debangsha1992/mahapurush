@@ -1,0 +1,46 @@
+{
+  "personId": "abdul-hamid-ii",
+  "slug": "abdul-hamid-ii",
+  "name": "Abdul Hamid II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Abdul Hamid II",
+      "url": "https://pantheon.world/profile/person/Abdul_Hamid_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "abdul-hamid-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Abdul Hamid II is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "abdul-hamid-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Abdul Hamid II's recorded life dates place this profile around 1842-1918."
+    },
+    {
+      "factId": "abdul-hamid-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Abdul Hamid II is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "abdul-hamid-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Abdul Hamid II's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "abdul-hamid-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Abdul Hamid II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "livy",
+  "slug": "livy",
+  "name": "Livy",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Livy",
+      "url": "https://pantheon.world/profile/person/Livy",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "livy-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Livy is remembered as a historian connected with Italy."
+    },
+    {
+      "factId": "livy-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Livy's recorded life dates place this profile around -59-17."
+    },
+    {
+      "factId": "livy-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Livy is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "livy-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Livy's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "livy-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Livy has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

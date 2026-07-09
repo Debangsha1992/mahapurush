@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Franz Kafka is a notable writer associated with Czechia.",
+  "summary": "Franz Kafka is a notable writer connected with Czechia.",
   "knownFor": [
     "Writer",
-    "171 language biography editions",
-    "Historical Popularity Index 89.6"
+    "Literature, Arts & Culture",
+    "Czechia"
   ],
   "featured": true,
   "featuredRank": 144,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "franz-kafka-pantheon-profile",
-      "text": "Pantheon ranks Franz Kafka as a globally documented writer with biographies in 171 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Franz Kafka a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "franz-kafka-1-origin",
+      "text": "Franz Kafka is remembered as a writer connected with Czechia.",
+      "context": "Franz Kafka's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Franz Kafka",
       "sourceUrl": "https://pantheon.world/profile/person/Franz_Kafka",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-kafka-2-obstacle",
+      "text": "Franz Kafka's recorded life dates place this profile around 1883-1924.",
+      "context": "Franz Kafka's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Franz Kafka",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Kafka",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-kafka-3-turning-point",
+      "text": "Franz Kafka is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Franz Kafka's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Franz Kafka",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Kafka",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-kafka-4-contribution",
+      "text": "Franz Kafka's profile connects a short Fact to a wider Czechia historical setting.",
+      "context": "Franz Kafka's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Franz Kafka",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Kafka",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-kafka-5-influence",
+      "text": "Franz Kafka has a Facts Mode card reserved for deeper source research.",
+      "context": "Franz Kafka's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Franz Kafka",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Kafka",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

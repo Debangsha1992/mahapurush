@@ -1,0 +1,46 @@
+{
+  "personId": "max-planck",
+  "slug": "max-planck",
+  "name": "Max Planck",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Max Planck",
+      "url": "https://pantheon.world/profile/person/Max_Planck",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "max-planck-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Max Planck is remembered as a physicist connected with Germany."
+    },
+    {
+      "factId": "max-planck-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Max Planck's recorded life dates place this profile around 1858-1947."
+    },
+    {
+      "factId": "max-planck-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Max Planck is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "max-planck-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Max Planck's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "max-planck-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Max Planck has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

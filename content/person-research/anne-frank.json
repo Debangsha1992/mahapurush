@@ -1,0 +1,46 @@
+{
+  "personId": "anne-frank",
+  "slug": "anne-frank",
+  "name": "Anne Frank",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anne Frank",
+      "url": "https://pantheon.world/profile/person/Anne_Frank",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anne-frank-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anne Frank is remembered as a writer connected with Germany."
+    },
+    {
+      "factId": "anne-frank-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anne Frank's recorded life dates place this profile around 1929-1945."
+    },
+    {
+      "factId": "anne-frank-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anne Frank is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "anne-frank-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anne Frank's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "anne-frank-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anne Frank has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

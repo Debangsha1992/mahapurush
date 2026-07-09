@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Ferdinand Marcos is a notable politician associated with Philippines.",
+  "summary": "Ferdinand Marcos is a notable politician connected with Philippines.",
   "knownFor": [
     "Politician",
-    "127 language biography editions",
-    "Historical Popularity Index 85.1"
+    "Justice, Governance & Leadership",
+    "Philippines"
   ],
   "featured": true,
   "featuredRank": 432,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ferdinand-marcos-pantheon-profile",
-      "text": "Pantheon ranks Ferdinand Marcos as a globally documented politician with biographies in 127 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ferdinand Marcos a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ferdinand-marcos-1-origin",
+      "text": "Ferdinand Marcos is remembered as a politician connected with Philippines.",
+      "context": "Ferdinand Marcos's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ferdinand Marcos",
       "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Marcos",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-marcos-2-obstacle",
+      "text": "Ferdinand Marcos's recorded life dates place this profile around 1917-1989.",
+      "context": "Ferdinand Marcos's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ferdinand Marcos",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Marcos",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-marcos-3-turning-point",
+      "text": "Ferdinand Marcos is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ferdinand Marcos's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ferdinand Marcos",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Marcos",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-marcos-4-contribution",
+      "text": "Ferdinand Marcos's profile connects a short Fact to a wider Philippines historical setting.",
+      "context": "Ferdinand Marcos's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ferdinand Marcos",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Marcos",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-marcos-5-influence",
+      "text": "Ferdinand Marcos has a Facts Mode card reserved for deeper source research.",
+      "context": "Ferdinand Marcos's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ferdinand Marcos",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Marcos",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

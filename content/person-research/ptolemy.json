@@ -1,0 +1,46 @@
+{
+  "personId": "ptolemy",
+  "slug": "ptolemy",
+  "name": "Ptolemy",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ptolemy",
+      "url": "https://pantheon.world/profile/person/Ptolemy",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ptolemy-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ptolemy is remembered as a astronomer connected with Egypt."
+    },
+    {
+      "factId": "ptolemy-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ptolemy's recorded life dates place this profile around 100-170."
+    },
+    {
+      "factId": "ptolemy-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ptolemy is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ptolemy-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ptolemy's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "ptolemy-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ptolemy has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

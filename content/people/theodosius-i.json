@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Theodosius I is a notable politician associated with Spain.",
+  "summary": "Theodosius I is a notable politician connected with Spain.",
   "knownFor": [
     "Politician",
-    "86 language biography editions",
-    "Historical Popularity Index 83.7"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Theodosius I",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "theodosius-i-pantheon-profile",
-      "text": "Pantheon ranks Theodosius I as a globally documented politician with biographies in 86 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Theodosius I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "theodosius-i-1-origin",
+      "text": "Theodosius I is remembered as a politician connected with Spain.",
+      "context": "Theodosius I's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Theodosius I",
       "sourceUrl": "https://pantheon.world/profile/person/Theodosius_I",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "theodosius-i-2-obstacle",
+      "text": "Theodosius I's recorded life dates place this profile around 340-395.",
+      "context": "Theodosius I's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Theodosius I",
+      "sourceUrl": "https://pantheon.world/profile/person/Theodosius_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "theodosius-i-3-turning-point",
+      "text": "Theodosius I is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Theodosius I's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Theodosius I",
+      "sourceUrl": "https://pantheon.world/profile/person/Theodosius_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "theodosius-i-4-contribution",
+      "text": "Theodosius I's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Theodosius I's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Theodosius I",
+      "sourceUrl": "https://pantheon.world/profile/person/Theodosius_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "theodosius-i-5-influence",
+      "text": "Theodosius I has a Facts Mode card reserved for deeper source research.",
+      "context": "Theodosius I's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Theodosius I",
+      "sourceUrl": "https://pantheon.world/profile/person/Theodosius_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

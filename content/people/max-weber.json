@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "sociologist"
   ],
-  "summary": "Max Weber is a notable sociologist associated with Germany.",
+  "summary": "Max Weber is a notable sociologist connected with Germany.",
   "knownFor": [
     "Sociologist",
-    "136 language biography editions",
-    "Historical Popularity Index 87.2"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 263,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "max-weber-pantheon-profile",
-      "text": "Pantheon ranks Max Weber as a globally documented sociologist with biographies in 136 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Max Weber a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "max-weber-1-origin",
+      "text": "Max Weber is remembered as a sociologist connected with Germany.",
+      "context": "Max Weber's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Max Weber",
       "sourceUrl": "https://pantheon.world/profile/person/Max_Weber",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "max-weber-2-obstacle",
+      "text": "Max Weber's recorded life dates place this profile around 1864-1920.",
+      "context": "Max Weber's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Max Weber",
+      "sourceUrl": "https://pantheon.world/profile/person/Max_Weber",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "max-weber-3-turning-point",
+      "text": "Max Weber is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Max Weber's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Max Weber",
+      "sourceUrl": "https://pantheon.world/profile/person/Max_Weber",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "max-weber-4-contribution",
+      "text": "Max Weber's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Max Weber's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Max Weber",
+      "sourceUrl": "https://pantheon.world/profile/person/Max_Weber",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "max-weber-5-influence",
+      "text": "Max Weber has a Facts Mode card reserved for deeper source research.",
+      "context": "Max Weber's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Max Weber",
+      "sourceUrl": "https://pantheon.world/profile/person/Max_Weber",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

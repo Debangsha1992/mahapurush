@@ -1,0 +1,46 @@
+{
+  "personId": "hedy-lamarr",
+  "slug": "hedy-lamarr",
+  "name": "Hedy Lamarr",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "National Women's History Museum: Hedy Lamarr",
+      "url": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hedy-lamarr-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hedy Lamarr is remembered as a scientist connected with Austria, United States."
+    },
+    {
+      "factId": "hedy-lamarr-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hedy Lamarr's recorded life dates place this profile around 1914-2000."
+    },
+    {
+      "factId": "hedy-lamarr-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hedy Lamarr is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "hedy-lamarr-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hedy Lamarr's profile connects a short Fact to a wider Austria, United States historical setting."
+    },
+    {
+      "factId": "hedy-lamarr-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hedy Lamarr has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

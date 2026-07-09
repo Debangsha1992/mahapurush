@@ -12,36 +12,128 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Saint Stephen is a notable religious figure associated with Greece.",
+  "summary": "Saint Stephen's story moves from neglected widows to public accusation, execution, forgiveness, and a lasting tradition of martyrdom.",
   "knownFor": [
-    "Religious Figure",
-    "64 language biography editions",
-    "Historical Popularity Index 84.0"
+    "First Christian Martyr",
+    "Early Church Service",
+    "Forgiveness Under Pressure"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Saint Stephen",
   "sourceRefs": [
     {
-      "title": "Pantheon: Saint Stephen",
-      "url": "https://pantheon.world/profile/person/Saint_Stephen",
+      "title": "Wikipedia: Saint Stephen",
+      "url": "https://en.wikipedia.org/wiki/Saint_Stephen",
       "accessedAt": "2026-07-06"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Saint Stephen",
+      "url": "https://www.britannica.com/biography/Saint-Stephen",
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "saint-stephen-pantheon-profile",
-      "text": "Pantheon ranks Saint Stephen as a globally documented religious figure with biographies in 64 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Saint Stephen a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Saint Stephen",
-      "sourceUrl": "https://pantheon.world/profile/person/Saint_Stephen",
-      "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "id": "saint-stephen-approved-01",
+      "text": "Saint Stephen was chosen when Greek-speaking widows were being neglected in the early Jerusalem community's daily food distribution.",
+      "context": "Stephen's story begins with an unfair system, not with a title or ranking.",
+      "sourceTitle": "Encyclopaedia Britannica: Saint Stephen",
+      "sourceUrl": "https://www.britannica.com/biography/Saint-Stephen",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "Britannica describes Stephen as a deacon in Jerusalem and connects his story to Acts.",
       "tags": [
-        "philosophy-ethics-religion",
-        "pantheon"
+        "philosophy-ethics-religion"
       ],
       "verified": true
+    },
+    {
+      "id": "saint-stephen-1-origin",
+      "text": "Saint Stephen was chosen when Greek-speaking widows were being neglected in the early Jerusalem community's daily food distribution.",
+      "context": "Saint Stephen's background begins with an unfair system, not a popularity metric.",
+      "sourceTitle": "Wikipedia: Saint Stephen",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Stephen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
+      "tags": [
+        "philosophy-ethics-religion",
+        "origin"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "saint-stephen-2-obstacle",
+      "text": "Saint Stephen's public arguments made him a target because his preaching challenged powerful assumptions about law, temple, and faith.",
+      "context": "Saint Stephen's challenge makes the card about pressure and conviction.",
+      "sourceTitle": "Wikipedia: Saint Stephen",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Stephen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "saint-stephen-3-turning-point",
+      "text": "Acts says Saint Stephen prayed for forgiveness for his attackers while he was being killed.",
+      "context": "Saint Stephen's final prayer turns the Fact into a moment about courage under violence.",
+      "sourceTitle": "Wikipedia: Saint Stephen",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Stephen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "saint-stephen-4-contribution",
+      "text": "Saul of Tarsus, later known as Paul the Apostle, appears in Acts as a witness approving Saint Stephen's death.",
+      "context": "Saint Stephen's story also marks a turning point in another major religious life.",
+      "sourceTitle": "Wikipedia: Saint Stephen",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Stephen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "saint-stephen-5-influence",
+      "text": "Saint Stephen became known in Christian tradition as the protomartyr, meaning the first martyr.",
+      "context": "Saint Stephen's influence shows how one death shaped a lasting idea of witness.",
+      "sourceTitle": "Wikipedia: Saint Stephen",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saint_Stephen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "tradition",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ]
 }

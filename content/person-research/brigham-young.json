@@ -1,0 +1,46 @@
+{
+  "personId": "brigham-young",
+  "slug": "brigham-young",
+  "name": "Brigham Young",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Brigham Young",
+      "url": "https://pantheon.world/profile/person/Brigham_Young",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "brigham-young-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Brigham Young is remembered as a religious figure connected with United States."
+    },
+    {
+      "factId": "brigham-young-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Brigham Young's recorded life dates place this profile around 1801-1877."
+    },
+    {
+      "factId": "brigham-young-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Brigham Young is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "brigham-young-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Brigham Young's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "brigham-young-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Brigham Young has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

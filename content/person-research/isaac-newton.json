@@ -1,0 +1,46 @@
+{
+  "personId": "isaac-newton",
+  "slug": "isaac-newton",
+  "name": "Isaac Newton",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Isaac Newton",
+      "url": "https://pantheon.world/profile/person/Isaac_Newton",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "isaac-newton-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Isaac Newton is remembered as a physicist connected with United Kingdom."
+    },
+    {
+      "factId": "isaac-newton-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Isaac Newton's recorded life dates place this profile around 1643-1726."
+    },
+    {
+      "factId": "isaac-newton-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Isaac Newton is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "isaac-newton-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Isaac Newton's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "isaac-newton-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Isaac Newton has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

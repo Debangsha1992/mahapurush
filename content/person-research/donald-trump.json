@@ -1,0 +1,47 @@
+{
+  "personId": "donald-trump",
+  "slug": "donald-trump",
+  "name": "Donald Trump",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Donald Trump",
+      "url": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "President of the United States (2017–2021; since 2025)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "donald-trump-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Donald John Donald Trump is an American politician, media personality, and businessman who is the 47th president of the United States."
+    },
+    {
+      "factId": "donald-trump-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Donald Trump is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "donald-trump-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Donald Trump's recorded life dates place this profile around born 1946."
+    },
+    {
+      "factId": "donald-trump-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Donald Trump is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "donald-trump-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Donald Trump's profile connects a short Fact to a wider United States historical setting."
+    }
+  ]
+}

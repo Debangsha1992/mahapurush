@@ -1,0 +1,46 @@
+{
+  "personId": "moses-in-islam",
+  "slug": "moses-in-islam",
+  "name": "Moses in Islam",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Moses in Islam",
+      "url": "https://pantheon.world/profile/person/Moses_in_Islam",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "moses-in-islam-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Moses in Islam is remembered as a religious figure connected with Egypt."
+    },
+    {
+      "factId": "moses-in-islam-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Moses in Islam's recorded life dates place this profile around -1392--1272."
+    },
+    {
+      "factId": "moses-in-islam-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Moses in Islam is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "moses-in-islam-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Moses in Islam's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "moses-in-islam-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Moses in Islam has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

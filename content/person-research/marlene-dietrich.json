@@ -1,0 +1,46 @@
+{
+  "personId": "marlene-dietrich",
+  "slug": "marlene-dietrich",
+  "name": "Marlene Dietrich",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Marlene Dietrich",
+      "url": "https://pantheon.world/profile/person/Marlene_Dietrich",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "marlene-dietrich-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Marlene Dietrich is remembered as a actor connected with Germany."
+    },
+    {
+      "factId": "marlene-dietrich-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Marlene Dietrich's recorded life dates place this profile around 1901-1992."
+    },
+    {
+      "factId": "marlene-dietrich-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Marlene Dietrich is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "marlene-dietrich-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Marlene Dietrich's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "marlene-dietrich-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Marlene Dietrich has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

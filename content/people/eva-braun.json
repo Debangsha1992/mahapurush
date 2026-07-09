@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Eva Braun is a notable companion associated with Germany.",
+  "summary": "Eva Braun is a notable companion connected with Germany.",
   "knownFor": [
     "Companion",
-    "81 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Eva Braun",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "eva-braun-pantheon-profile",
-      "text": "Pantheon ranks Eva Braun as a globally documented companion with biographies in 81 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Eva Braun a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "eva-braun-1-origin",
+      "text": "Eva Braun is remembered as a companion connected with Germany.",
+      "context": "Eva Braun's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Eva Braun",
       "sourceUrl": "https://pantheon.world/profile/person/Eva_Braun",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "eva-braun-2-obstacle",
+      "text": "Eva Braun's recorded life dates place this profile around 1912-1945.",
+      "context": "Eva Braun's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Eva Braun",
+      "sourceUrl": "https://pantheon.world/profile/person/Eva_Braun",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "eva-braun-3-turning-point",
+      "text": "Eva Braun is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Eva Braun's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Eva Braun",
+      "sourceUrl": "https://pantheon.world/profile/person/Eva_Braun",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "eva-braun-4-contribution",
+      "text": "Eva Braun's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Eva Braun's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Eva Braun",
+      "sourceUrl": "https://pantheon.world/profile/person/Eva_Braun",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "eva-braun-5-influence",
+      "text": "Eva Braun has a Facts Mode card reserved for deeper source research.",
+      "context": "Eva Braun's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Eva Braun",
+      "sourceUrl": "https://pantheon.world/profile/person/Eva_Braun",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

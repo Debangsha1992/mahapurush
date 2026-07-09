@@ -1,0 +1,47 @@
+{
+  "personId": "george-bernard-shaw",
+  "slug": "george-bernard-shaw",
+  "name": "George Bernard Shaw",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: George Bernard Shaw",
+      "url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Irish playwright, critic, and polemicist (1856–1950)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "george-bernard-shaw-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "George Bernard Shaw, known at his insistence as Bernard Shaw, was an Irish playwright, critic, polemicist and political activist."
+    },
+    {
+      "factId": "george-bernard-shaw-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "George Bernard Shaw's influence on Western theatre, culture and politics extended from the 1880s to his death and beyond."
+    },
+    {
+      "factId": "george-bernard-shaw-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "George Bernard Shaw wrote more than sixty plays, including major works such as Man and Superman (1902), Pygmalion (1913) and Saint Joan (1923)."
+    },
+    {
+      "factId": "george-bernard-shaw-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "With a range incorporating both contemporary satire and historical allegory, George Bernard Shaw became the leading dramatist of his generation, and in 1925 was awarded the Nobel Prize in Literature."
+    },
+    {
+      "factId": "george-bernard-shaw-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "George Bernard Shaw is remembered as a writer connected with Ireland."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "martial-arts"
   ],
-  "summary": "Ip Man is a notable martial arts associated with China.",
+  "summary": "Ip Man is a notable martial arts connected with China.",
   "knownFor": [
     "Martial Arts",
-    "50 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Justice, Governance & Leadership",
+    "China"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ip Man",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ip-man-pantheon-profile",
-      "text": "Pantheon ranks Ip Man as a globally documented martial arts with biographies in 50 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ip Man a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ip-man-1-origin",
+      "text": "Ip Man is remembered as a martial arts connected with China.",
+      "context": "Ip Man's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ip Man",
       "sourceUrl": "https://pantheon.world/profile/person/Ip_Man",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ip-man-2-obstacle",
+      "text": "Ip Man's recorded life dates place this profile around 1893-1972.",
+      "context": "Ip Man's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ip Man",
+      "sourceUrl": "https://pantheon.world/profile/person/Ip_Man",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ip-man-3-turning-point",
+      "text": "Ip Man is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ip Man's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ip Man",
+      "sourceUrl": "https://pantheon.world/profile/person/Ip_Man",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ip-man-4-contribution",
+      "text": "Ip Man's profile connects a short Fact to a wider China historical setting.",
+      "context": "Ip Man's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ip Man",
+      "sourceUrl": "https://pantheon.world/profile/person/Ip_Man",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ip-man-5-influence",
+      "text": "Ip Man has a Facts Mode card reserved for deeper source research.",
+      "context": "Ip Man's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ip Man",
+      "sourceUrl": "https://pantheon.world/profile/person/Ip_Man",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

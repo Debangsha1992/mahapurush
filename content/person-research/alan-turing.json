@@ -1,0 +1,46 @@
+{
+  "personId": "alan-turing",
+  "slug": "alan-turing",
+  "name": "Alan Turing",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alan Turing",
+      "url": "https://pantheon.world/profile/person/Alan_Turing",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alan-turing-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alan Turing is remembered as a computer scientist connected with United Kingdom."
+    },
+    {
+      "factId": "alan-turing-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alan Turing's recorded life dates place this profile around 1912-1954."
+    },
+    {
+      "factId": "alan-turing-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alan Turing is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "alan-turing-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alan Turing's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "alan-turing-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alan Turing has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

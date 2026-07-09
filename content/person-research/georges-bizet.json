@@ -1,0 +1,46 @@
+{
+  "personId": "georges-bizet",
+  "slug": "georges-bizet",
+  "name": "Georges Bizet",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Georges Bizet",
+      "url": "https://pantheon.world/profile/person/Georges_Bizet",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "georges-bizet-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Georges Bizet is remembered as a composer connected with France."
+    },
+    {
+      "factId": "georges-bizet-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Georges Bizet's recorded life dates place this profile around 1838-1875."
+    },
+    {
+      "factId": "georges-bizet-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Georges Bizet is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "georges-bizet-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Georges Bizet's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "georges-bizet-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Georges Bizet has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

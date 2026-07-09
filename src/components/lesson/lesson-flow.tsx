@@ -3,7 +3,11 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import { Card } from "@/components/ui/card";
+import {
+  EditorialCard,
+  editorialEyebrow,
+  mutedText,
+} from "@/components/ui/editorial";
 import {
   LESSON_STEPS,
   LIFE_STORY_PAGE_COUNT,
@@ -107,30 +111,33 @@ export function LessonFlow({
 
   return (
     <div className="space-y-6">
-      <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
-        <RotatingThinkerImage
-          slug={thinkerSlug}
-          name={thinkerName}
-          desktopImages={desktopImages.slice(0, LIFE_STORY_PAGE_COUNT)}
-          mobileImages={mobileImages.slice(0, LIFE_STORY_PAGE_COUNT)}
-          captions={galleryCaptions.slice(0, LIFE_STORY_PAGE_COUNT)}
-          imageIndex={imageIndex}
-          layout="portrait"
-          size={200}
-          priority
-        />
-        <div className="flex flex-1 items-start justify-between gap-4">
-          <div>
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-muted)]">
-              {thinkerName}
+      <EditorialCard className="p-8 md:p-10">
+        <div className="absolute -right-20 -top-20 size-52 rounded-full bg-yellow-400/10" />
+        <div className="relative flex flex-col gap-6 sm:flex-row sm:items-start">
+          <RotatingThinkerImage
+            slug={thinkerSlug}
+            name={thinkerName}
+            desktopImages={desktopImages.slice(0, LIFE_STORY_PAGE_COUNT)}
+            mobileImages={mobileImages.slice(0, LIFE_STORY_PAGE_COUNT)}
+            captions={galleryCaptions.slice(0, LIFE_STORY_PAGE_COUNT)}
+            imageIndex={imageIndex}
+            layout="portrait"
+            size={200}
+            priority
+          />
+          <div className="flex flex-1 items-start justify-between gap-4">
+            <div>
+              <p className={editorialEyebrow}>{thinkerName}</p>
+              <h2 className="mt-3 text-4xl font-extrabold leading-tight tracking-tight md:text-5xl">
+                {lesson.title}
+              </h2>
+            </div>
+            <p className={`text-sm ${mutedText}`}>
+              Step {stepIndex + 1} / {LESSON_STEPS.length}
             </p>
-            <h2 className="text-2xl font-semibold">{lesson.title}</h2>
           </div>
-          <p className="text-sm text-[var(--color-muted)]">
-            Step {stepIndex + 1} / {LESSON_STEPS.length}
-          </p>
         </div>
-      </div>
+      </EditorialCard>
 
       <div className="flex flex-wrap gap-2">
         {LESSON_STEPS.map((step, index) => (
@@ -140,8 +147,8 @@ export function LessonFlow({
               index === stepIndex
                 ? "bg-[var(--color-accent)] text-[#101014]"
                 : index < stepIndex
-                  ? "bg-[var(--color-surface-raised)] text-[var(--color-text)]"
-                  : "bg-[var(--color-surface)] text-[var(--color-muted)]"
+                  ? "border border-white/10 bg-white/[0.08] text-[var(--color-text)]"
+                  : "border border-white/10 bg-white/[0.04] text-foreground/50"
             }`}
           >
             {index + 1}
@@ -149,16 +156,18 @@ export function LessonFlow({
         ))}
       </div>
 
-      <Card>{renderStep(currentStep, layer, lifePage, {
-        selectedOption,
-        setSelectedOption,
-        reflection,
-        setReflection,
-        tensionResponse,
-        setTensionResponse,
-        completed,
-        thinkerName,
-      })}</Card>
+      <EditorialCard>
+        {renderStep(currentStep, layer, lifePage, {
+          selectedOption,
+          setSelectedOption,
+          reflection,
+          setReflection,
+          tensionResponse,
+          setTensionResponse,
+          completed,
+          thinkerName,
+        })}
+      </EditorialCard>
 
       <div className="flex flex-wrap gap-3">
         {stepIndex > 0 && (
@@ -197,11 +206,9 @@ function renderStep(
   },
 ) {
   const lifeStoryBlock = lifePage ? (
-    <div className="space-y-4 border-b border-[var(--color-border)] pb-6">
-      <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-        Life Story
-      </p>
-      <h3 className="text-xl font-semibold">{lifePage.title}</h3>
+    <div className="space-y-4 border-b border-white/10 pb-6">
+      <p className={editorialEyebrow}>Life Story</p>
+      <h3 className="text-2xl font-extrabold tracking-tight">{lifePage.title}</h3>
       <p className="text-lg leading-8 text-[var(--color-text)]">{lifePage.body}</p>
     </div>
   ) : null;
@@ -212,9 +219,7 @@ function renderStep(
         <div className="space-y-6">
           {lifeStoryBlock}
           <div className="space-y-4">
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-              Hook
-            </p>
+            <p className={editorialEyebrow}>Hook</p>
             <p className="font-serif text-3xl leading-tight text-[var(--color-text)]">
               {layer.hook}
             </p>
@@ -226,9 +231,7 @@ function renderStep(
         <div className="space-y-6">
           {lifeStoryBlock}
           <div className="space-y-4">
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-              Human Story
-            </p>
+            <p className={editorialEyebrow}>Human Story</p>
             <p className="text-lg leading-8 text-[var(--color-text)]">{layer.story}</p>
           </div>
         </div>
@@ -238,11 +241,11 @@ function renderStep(
         <div className="space-y-6">
           {lifeStoryBlock}
           <div className="space-y-4">
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-              Big Idea
-            </p>
-            <h3 className="text-2xl font-semibold">{layer.bigIdea.title}</h3>
-            <p className="text-lg leading-8 text-[var(--color-muted)]">
+            <p className={editorialEyebrow}>Big Idea</p>
+            <h3 className="text-3xl font-extrabold tracking-tight">
+              {layer.bigIdea.title}
+            </h3>
+            <p className={`text-lg leading-8 ${mutedText}`}>
               {layer.bigIdea.explanation}
             </p>
           </div>
@@ -253,11 +256,11 @@ function renderStep(
         <div className="space-y-6">
           {lifeStoryBlock}
           <div className="space-y-4">
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-              Thinking Tool
-            </p>
-            <h3 className="text-2xl font-semibold">{layer.thinkingTool.name}</h3>
-            <p className="text-lg leading-8 text-[var(--color-muted)]">
+            <p className={editorialEyebrow}>Thinking Tool</p>
+            <h3 className="text-3xl font-extrabold tracking-tight">
+              {layer.thinkingTool.name}
+            </h3>
+            <p className={`text-lg leading-8 ${mutedText}`}>
               {layer.thinkingTool.instruction}
             </p>
           </div>
@@ -268,35 +271,33 @@ function renderStep(
         <div className="space-y-6">
           {lifeStoryBlock}
           <div className="space-y-5">
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-              Modern Test
+            <p className={editorialEyebrow}>Modern Test</p>
+            <p className="text-lg leading-8">{layer.modernTest.scenario}</p>
+            <p className="font-medium">{layer.modernTest.question}</p>
+            <div className="space-y-3">
+              {layer.modernTest.options.map((option) => (
+                <button
+                  key={option.id}
+                  type="button"
+                  onClick={() => state.setSelectedOption(option.id)}
+                  className={`block w-full rounded-[1rem] border px-4 py-4 text-left transition ${
+                    state.selectedOption === option.id
+                      ? "border-[var(--color-accent)] bg-yellow-400/10"
+                      : "border-white/10 bg-white/[0.04] hover:border-[var(--color-accent)]"
+                  }`}
+                >
+                  <span className="block font-medium">{option.label}</span>
+                  {state.selectedOption === option.id && (
+                    <span className={`mt-2 block text-sm ${mutedText}`}>
+                      {option.explanation}
+                    </span>
+                  )}
+                </button>
+              ))}
+            </div>
+            <p className={`text-sm ${mutedText}`}>
+              {layer.modernTest.discussionNotes}
             </p>
-          <p className="text-lg leading-8">{layer.modernTest.scenario}</p>
-          <p className="font-medium">{layer.modernTest.question}</p>
-          <div className="space-y-3">
-            {layer.modernTest.options.map((option) => (
-              <button
-                key={option.id}
-                type="button"
-                onClick={() => state.setSelectedOption(option.id)}
-                className={`block w-full rounded-[1rem] border px-4 py-4 text-left transition ${
-                  state.selectedOption === option.id
-                    ? "border-[var(--color-accent)] bg-[rgba(217,154,43,0.12)]"
-                    : "border-[var(--color-border)] bg-[var(--color-surface-raised)] hover:border-[var(--color-accent)]"
-                }`}
-              >
-                <span className="block font-medium">{option.label}</span>
-                {state.selectedOption === option.id && (
-                  <span className="mt-2 block text-sm text-[var(--color-muted)]">
-                    {option.explanation}
-                  </span>
-                )}
-              </button>
-            ))}
-          </div>
-          <p className="text-sm text-[var(--color-muted)]">
-            {layer.modernTest.discussionNotes}
-          </p>
           </div>
         </div>
       );
@@ -305,15 +306,13 @@ function renderStep(
         <div className="space-y-6">
           {lifeStoryBlock}
           <div className="space-y-4">
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-              Reflection Challenge
-            </p>
+            <p className={editorialEyebrow}>Reflection Challenge</p>
             <p className="text-lg leading-8">{layer.reflectionPrompt}</p>
             <textarea
               value={state.reflection}
               onChange={(event) => state.setReflection(event.target.value)}
               rows={6}
-              className="w-full rounded-[1rem] border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-4 py-3 text-[var(--color-text)] outline-none focus:border-[var(--color-accent)]"
+              className="w-full rounded-[1rem] border border-white/10 bg-white/[0.04] px-4 py-3 text-[var(--color-text)] outline-none focus:border-[var(--color-accent)]"
               placeholder="Write your response here..."
             />
           </div>
@@ -324,16 +323,14 @@ function renderStep(
         <div className="space-y-6">
           {lifeStoryBlock}
           <div className="space-y-4">
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-              Thought Tension
-            </p>
+            <p className={editorialEyebrow}>Thought Tension</p>
             <p className="font-serif text-2xl leading-snug">{layer.thoughtTension.counterView}</p>
             <p className="text-lg leading-8">{layer.thoughtTension.responsePrompt}</p>
             <textarea
               value={state.tensionResponse}
               onChange={(event) => state.setTensionResponse(event.target.value)}
               rows={6}
-              className="w-full rounded-[1rem] border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-4 py-3 text-[var(--color-text)] outline-none focus:border-[var(--color-accent)]"
+              className="w-full rounded-[1rem] border border-white/10 bg-white/[0.04] px-4 py-3 text-[var(--color-text)] outline-none focus:border-[var(--color-accent)]"
               placeholder="Respond to the counter-view..."
             />
           </div>
@@ -344,35 +341,35 @@ function renderStep(
         <div className="space-y-6">
           {lifeStoryBlock}
           <div className="space-y-4">
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-              Reward
+            <p className={editorialEyebrow}>Reward</p>
+            <h3 className="text-3xl font-extrabold tracking-tight">
+              {state.completed ? "Lesson complete" : "Ready for your reward"}
+            </h3>
+            <p className={`text-lg ${mutedText}`}>
+              You practiced thinking with {state.thinkerName}.
             </p>
-          <h3 className="text-2xl font-semibold">
-            {state.completed ? "Lesson complete" : "Ready for your reward"}
-          </h3>
-          <p className="text-lg text-[var(--color-muted)]">
-            You practiced thinking with {state.thinkerName}.
-          </p>
-          <div className="grid gap-3 sm:grid-cols-3">
-            <div className="rounded-[1rem] bg-[var(--color-surface-raised)] p-4">
-              <p className="text-sm text-[var(--color-muted)]">XP</p>
-              <p className="text-2xl font-semibold">+{layer.rewards.xp + 15}</p>
-            </div>
-            {layer.rewards.badge && (
-              <div className="rounded-[1rem] bg-[var(--color-surface-raised)] p-4">
-                <p className="text-sm text-[var(--color-muted)]">Badge</p>
-                <p className="text-lg font-semibold capitalize">
-                  {layer.rewards.badge.replace(/-/g, " ")}
+            <div className="grid gap-3 sm:grid-cols-3">
+              <div className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
+                <p className={`text-sm ${mutedText}`}>XP</p>
+                <p className="text-3xl font-extrabold text-[var(--color-accent)]">
+                  +{layer.rewards.xp + 15}
                 </p>
               </div>
-            )}
-            <div className="rounded-[1rem] bg-[var(--color-surface-raised)] p-4">
-              <p className="text-sm text-[var(--color-muted)]">Skills</p>
-              <p className="text-lg font-semibold">
-                {layer.rewards.skills.map((skill) => skill.id).join(", ")}
-              </p>
+              {layer.rewards.badge && (
+                <div className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
+                  <p className={`text-sm ${mutedText}`}>Badge</p>
+                  <p className="text-lg font-semibold capitalize">
+                    {layer.rewards.badge.replace(/-/g, " ")}
+                  </p>
+                </div>
+              )}
+              <div className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
+                <p className={`text-sm ${mutedText}`}>Skills</p>
+                <p className="text-lg font-semibold">
+                  {layer.rewards.skills.map((skill) => skill.id).join(", ")}
+                </p>
+              </div>
             </div>
-          </div>
           </div>
         </div>
       );

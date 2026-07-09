@@ -1,0 +1,46 @@
+{
+  "personId": "l-l-zamenhof",
+  "slug": "l-l-zamenhof",
+  "name": "L. L. Zamenhof",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: L. L. Zamenhof",
+      "url": "https://pantheon.world/profile/person/L._L._Zamenhof",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "l-l-zamenhof-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "L. L. Zamenhof is remembered as a physician connected with Poland."
+    },
+    {
+      "factId": "l-l-zamenhof-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "L. L. Zamenhof's recorded life dates place this profile around 1859-1917."
+    },
+    {
+      "factId": "l-l-zamenhof-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "L. L. Zamenhof is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "l-l-zamenhof-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "L. L. Zamenhof's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "l-l-zamenhof-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "L. L. Zamenhof has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

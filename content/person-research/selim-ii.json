@@ -1,0 +1,46 @@
+{
+  "personId": "selim-ii",
+  "slug": "selim-ii",
+  "name": "Selim II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Selim II",
+      "url": "https://pantheon.world/profile/person/Selim_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "selim-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Selim II is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "selim-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Selim II's recorded life dates place this profile around 1524-1574."
+    },
+    {
+      "factId": "selim-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Selim II is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "selim-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Selim II's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "selim-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Selim II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

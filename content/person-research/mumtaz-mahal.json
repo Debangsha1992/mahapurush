@@ -1,0 +1,46 @@
+{
+  "personId": "mumtaz-mahal",
+  "slug": "mumtaz-mahal",
+  "name": "Mumtaz Mahal",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mumtaz Mahal",
+      "url": "https://pantheon.world/profile/person/Mumtaz_Mahal",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mumtaz-mahal-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mumtaz Mahal is remembered as a companion connected with India."
+    },
+    {
+      "factId": "mumtaz-mahal-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mumtaz Mahal's recorded life dates place this profile around 1593-1631."
+    },
+    {
+      "factId": "mumtaz-mahal-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mumtaz Mahal is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mumtaz-mahal-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mumtaz Mahal's profile connects a short Fact to a wider India historical setting."
+    },
+    {
+      "factId": "mumtaz-mahal-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mumtaz Mahal has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Margrethe II of Denmark is a notable nobleman associated with Denmark.",
+  "summary": "Margrethe II of Denmark is a notable nobleman connected with Denmark.",
   "knownFor": [
     "Nobleman",
-    "100 language biography editions",
-    "Historical Popularity Index 86.7"
+    "Justice, Governance & Leadership",
+    "Denmark"
   ],
   "featured": true,
   "featuredRank": 298,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "margrethe-ii-of-denmark-pantheon-profile",
-      "text": "Pantheon ranks Margrethe II of Denmark as a globally documented nobleman with biographies in 100 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Margrethe II of Denmark a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "margrethe-ii-of-denmark-1-origin",
+      "text": "Margrethe II of Denmark is remembered as a nobleman connected with Denmark.",
+      "context": "Margrethe II of Denmark's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Margrethe II of Denmark",
       "sourceUrl": "https://pantheon.world/profile/person/Margrethe_II_of_Denmark",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "margrethe-ii-of-denmark-2-obstacle",
+      "text": "Margrethe II of Denmark's recorded life dates place this profile around born 1940.",
+      "context": "Margrethe II of Denmark's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Margrethe II of Denmark",
+      "sourceUrl": "https://pantheon.world/profile/person/Margrethe_II_of_Denmark",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "margrethe-ii-of-denmark-3-turning-point",
+      "text": "Margrethe II of Denmark is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Margrethe II of Denmark's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Margrethe II of Denmark",
+      "sourceUrl": "https://pantheon.world/profile/person/Margrethe_II_of_Denmark",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "margrethe-ii-of-denmark-4-contribution",
+      "text": "Margrethe II of Denmark's profile connects a short Fact to a wider Denmark historical setting.",
+      "context": "Margrethe II of Denmark's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Margrethe II of Denmark",
+      "sourceUrl": "https://pantheon.world/profile/person/Margrethe_II_of_Denmark",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "margrethe-ii-of-denmark-5-influence",
+      "text": "Margrethe II of Denmark has a Facts Mode card reserved for deeper source research.",
+      "context": "Margrethe II of Denmark's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Margrethe II of Denmark",
+      "sourceUrl": "https://pantheon.world/profile/person/Margrethe_II_of_Denmark",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

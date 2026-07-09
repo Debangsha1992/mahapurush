@@ -1,0 +1,46 @@
+{
+  "personId": "marlon-brando",
+  "slug": "marlon-brando",
+  "name": "Marlon Brando",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Marlon Brando",
+      "url": "https://pantheon.world/profile/person/Marlon_Brando",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "marlon-brando-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Marlon Brando is remembered as a actor connected with United States."
+    },
+    {
+      "factId": "marlon-brando-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Marlon Brando's recorded life dates place this profile around 1924-2004."
+    },
+    {
+      "factId": "marlon-brando-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Marlon Brando is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "marlon-brando-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Marlon Brando's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "marlon-brando-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Marlon Brando has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

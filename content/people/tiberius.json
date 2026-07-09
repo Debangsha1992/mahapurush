@@ -12,35 +12,101 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Tiberius is a notable politician associated with Italy.",
+  "summary": "Tiberius Julius Caesar Augustus was the second Roman emperor from AD 14 until his death, reigning as the second ruler of the Julio-Claudian dynasty.",
   "knownFor": [
     "Politician",
-    "101 language biography editions",
-    "Historical Popularity Index 84.8"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 454,
   "imageAlt": "Portrait-style visual for Tiberius",
   "sourceRefs": [
     {
-      "title": "Pantheon: Tiberius",
-      "url": "https://pantheon.world/profile/person/Tiberius",
+      "title": "Wikipedia: Tiberius",
+      "url": "https://en.wikipedia.org/wiki/Tiberius",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "tiberius-pantheon-profile",
-      "text": "Pantheon ranks Tiberius as a globally documented politician with biographies in 101 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Tiberius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Tiberius",
-      "sourceUrl": "https://pantheon.world/profile/person/Tiberius",
+      "id": "tiberius-1-origin",
+      "text": "Tiberius Julius Caesar Augustus was the second Roman emperor from AD 14 until his death, reigning as the second ruler of the Julio-Claudian dynasty.",
+      "context": "Tiberius's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Tiberius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tiberius",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tiberius-2-obstacle",
+      "text": "Tiberius succeeded his stepfather Augustus, the first Roman emperor.",
+      "context": "Tiberius's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Tiberius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tiberius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tiberius-3-turning-point",
+      "text": "Tiberius was born in Rome in 42 BC to politician Tiberius Claudius Nero and his wife, Livia Drusilla.",
+      "context": "Tiberius's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Tiberius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tiberius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tiberius-4-contribution",
+      "text": "Following the untimely deaths of Augustus's two grandsons and adopted heirs, Gaius and Lucius Caesar, Tiberius was designated Augustus's successor.",
+      "context": "Tiberius's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Tiberius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tiberius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tiberius-5-influence",
+      "text": "Prior to this, Tiberius had proved himself an able diplomat and one of the most successful Roman generals.",
+      "context": "Tiberius's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Tiberius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tiberius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

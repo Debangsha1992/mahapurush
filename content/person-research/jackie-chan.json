@@ -1,0 +1,46 @@
+{
+  "personId": "jackie-chan",
+  "slug": "jackie-chan",
+  "name": "Jackie Chan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jackie Chan",
+      "url": "https://pantheon.world/profile/person/Jackie_Chan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jackie-chan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jackie Chan is remembered as a actor connected with Hong Kong."
+    },
+    {
+      "factId": "jackie-chan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jackie Chan's recorded life dates place this profile around born 1954."
+    },
+    {
+      "factId": "jackie-chan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jackie Chan is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "jackie-chan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jackie Chan's profile connects a short Fact to a wider Hong Kong historical setting."
+    },
+    {
+      "factId": "jackie-chan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jackie Chan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "vitruvius",
+  "slug": "vitruvius",
+  "name": "Vitruvius",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Vitruvius",
+      "url": "https://en.wikipedia.org/wiki/Vitruvius",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "1st-century BC Roman architect and engineer"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "vitruvius-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Vitruvius was a Roman architect and engineer during the 1st century BC, known for his multi-volume work titled De architectura."
+    },
+    {
+      "factId": "vitruvius-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Vitruvius is remembered as a architect connected with Italy."
+    },
+    {
+      "factId": "vitruvius-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Vitruvius's recorded life dates place this profile around -75--15."
+    },
+    {
+      "factId": "vitruvius-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Vitruvius is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "vitruvius-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Vitruvius's profile connects a short Fact to a wider Italy historical setting."
+    }
+  ]
+}

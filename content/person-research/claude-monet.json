@@ -1,0 +1,47 @@
+{
+  "personId": "claude-monet",
+  "slug": "claude-monet",
+  "name": "Claude Monet",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Claude Monet",
+      "url": "https://en.wikipedia.org/wiki/Claude_Monet",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "French painter (1840–1926)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "claude-monet-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Oscar-Claude Monet was a French painter and founder of Impressionism who is seen as a key precursor to modernism, especially in his attempts to paint nature as he perceived it."
+    },
+    {
+      "factId": "claude-monet-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "The term \"Impressionism\" is derived from the title of his painting Impression, Sunrise, which was exhibited in 1874 at the First Impressionist Exhibition, initiated by Claude Monet and a number of like-minded artists as an alternative to the Salon."
+    },
+    {
+      "factId": "claude-monet-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Claude Monet is remembered as a painter connected with France."
+    },
+    {
+      "factId": "claude-monet-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Claude Monet's recorded life dates place this profile around 1840-1926."
+    },
+    {
+      "factId": "claude-monet-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Claude Monet is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

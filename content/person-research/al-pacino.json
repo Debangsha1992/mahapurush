@@ -1,0 +1,46 @@
+{
+  "personId": "al-pacino",
+  "slug": "al-pacino",
+  "name": "Al Pacino",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Al Pacino",
+      "url": "https://pantheon.world/profile/person/Al_Pacino",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "al-pacino-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Al Pacino is remembered as a actor connected with United States."
+    },
+    {
+      "factId": "al-pacino-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Al Pacino's recorded life dates place this profile around born 1940."
+    },
+    {
+      "factId": "al-pacino-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Al Pacino is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "al-pacino-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Al Pacino's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "al-pacino-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Al Pacino has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

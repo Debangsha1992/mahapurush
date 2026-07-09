@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "William I, German Emperor is a notable politician associated with Germany.",
+  "summary": "William I, German Emperor is a notable politician connected with Germany.",
   "knownFor": [
     "Politician",
-    "82 language biography editions",
-    "Historical Popularity Index 83.1"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for William I, German Emperor",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "william-i-german-emperor-pantheon-profile",
-      "text": "Pantheon ranks William I, German Emperor as a globally documented politician with biographies in 82 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make William I, German Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "william-i-german-emperor-1-origin",
+      "text": "William I, German Emperor is remembered as a politician connected with Germany.",
+      "context": "William I, German Emperor's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: William I, German Emperor",
       "sourceUrl": "https://pantheon.world/profile/person/William_I%2C_German_Emperor",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-i-german-emperor-2-obstacle",
+      "text": "William I, German Emperor's recorded life dates place this profile around 1797-1888.",
+      "context": "William I, German Emperor's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: William I, German Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/William_I%2C_German_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-i-german-emperor-3-turning-point",
+      "text": "William I, German Emperor is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "William I, German Emperor's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: William I, German Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/William_I%2C_German_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-i-german-emperor-4-contribution",
+      "text": "William I, German Emperor's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "William I, German Emperor's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: William I, German Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/William_I%2C_German_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-i-german-emperor-5-influence",
+      "text": "William I, German Emperor has a Facts Mode card reserved for deeper source research.",
+      "context": "William I, German Emperor's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: William I, German Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/William_I%2C_German_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

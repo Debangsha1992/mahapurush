@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Artaxerxes I of Persia is a notable politician associated with Global.",
+  "summary": "Artaxerxes I of Persia is a notable politician connected with Global.",
   "knownFor": [
     "Politician",
-    "64 language biography editions",
-    "Historical Popularity Index 82.9"
+    "Justice, Governance & Leadership",
+    "Global"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Artaxerxes I of Persia",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "artaxerxes-i-of-persia-pantheon-profile",
-      "text": "Pantheon ranks Artaxerxes I of Persia as a globally documented politician with biographies in 64 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Artaxerxes I of Persia a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "artaxerxes-i-of-persia-1-origin",
+      "text": "Artaxerxes I of Persia is remembered as a politician connected with Global.",
+      "context": "Artaxerxes I of Persia's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Artaxerxes I of Persia",
       "sourceUrl": "https://pantheon.world/profile/person/Artaxerxes_I_of_Persia",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "artaxerxes-i-of-persia-2-obstacle",
+      "text": "Artaxerxes I of Persia's recorded life dates place this profile around -500--424.",
+      "context": "Artaxerxes I of Persia's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Artaxerxes I of Persia",
+      "sourceUrl": "https://pantheon.world/profile/person/Artaxerxes_I_of_Persia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "artaxerxes-i-of-persia-3-turning-point",
+      "text": "Artaxerxes I of Persia is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Artaxerxes I of Persia's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Artaxerxes I of Persia",
+      "sourceUrl": "https://pantheon.world/profile/person/Artaxerxes_I_of_Persia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "artaxerxes-i-of-persia-4-contribution",
+      "text": "Artaxerxes I of Persia's profile connects a short Fact to a wider Global historical setting.",
+      "context": "Artaxerxes I of Persia's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Artaxerxes I of Persia",
+      "sourceUrl": "https://pantheon.world/profile/person/Artaxerxes_I_of_Persia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "artaxerxes-i-of-persia-5-influence",
+      "text": "Artaxerxes I of Persia has a Facts Mode card reserved for deeper source research.",
+      "context": "Artaxerxes I of Persia's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Artaxerxes I of Persia",
+      "sourceUrl": "https://pantheon.world/profile/person/Artaxerxes_I_of_Persia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,47 @@
+{
+  "personId": "aristotle",
+  "slug": "aristotle",
+  "name": "Aristotle",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Aristotle",
+      "url": "https://en.wikipedia.org/wiki/Aristotle",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Ancient Greek philosopher and polymath (384–322 BC)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "aristotle-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Aristotle was an ancient Greek philosopher and polymath."
+    },
+    {
+      "factId": "aristotle-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Aristotle's writings span the natural sciences, philosophy, linguistics, economics, politics, psychology, and the arts."
+    },
+    {
+      "factId": "aristotle-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Aristotle is remembered as a philosopher connected with Greece."
+    },
+    {
+      "factId": "aristotle-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Aristotle's recorded life dates place this profile around -384--321."
+    },
+    {
+      "factId": "aristotle-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Aristotle is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

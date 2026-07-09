@@ -1,0 +1,46 @@
+{
+  "personId": "benjamin-franklin",
+  "slug": "benjamin-franklin",
+  "name": "Benjamin Franklin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Benjamin Franklin",
+      "url": "https://pantheon.world/profile/person/Benjamin_Franklin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "benjamin-franklin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Benjamin Franklin is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "benjamin-franklin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Benjamin Franklin's recorded life dates place this profile around 1706-1790."
+    },
+    {
+      "factId": "benjamin-franklin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Benjamin Franklin is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "benjamin-franklin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Benjamin Franklin's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "benjamin-franklin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Benjamin Franklin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "carl-friedrich-gauss",
+  "slug": "carl-friedrich-gauss",
+  "name": "Carl Friedrich Gauss",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Carl Friedrich Gauss",
+      "url": "https://pantheon.world/profile/person/Carl_Friedrich_Gauss",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "carl-friedrich-gauss-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Carl Friedrich Gauss is remembered as a mathematician connected with Germany."
+    },
+    {
+      "factId": "carl-friedrich-gauss-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Carl Friedrich Gauss's recorded life dates place this profile around 1777-1855."
+    },
+    {
+      "factId": "carl-friedrich-gauss-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Carl Friedrich Gauss is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "carl-friedrich-gauss-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Carl Friedrich Gauss's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "carl-friedrich-gauss-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Carl Friedrich Gauss has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

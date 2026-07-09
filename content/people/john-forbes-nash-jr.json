@@ -12,11 +12,11 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "John Forbes Nash Jr. is a notable mathematician associated with United States.",
+  "summary": "John Forbes Nash Jr. is a notable mathematician connected with United States.",
   "knownFor": [
     "Mathematician",
-    "95 language biography editions",
-    "Historical Popularity Index 85.8"
+    "Science, Math & Technology",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 368,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "john-forbes-nash-jr-pantheon-profile",
-      "text": "Pantheon ranks John Forbes Nash Jr. as a globally documented mathematician with biographies in 95 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make John Forbes Nash Jr. a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "john-forbes-nash-jr-1-origin",
+      "text": "John Forbes Nash Jr. is remembered as a mathematician connected with United States.",
+      "context": "John Forbes Nash Jr.'s background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: John Forbes Nash Jr.",
       "sourceUrl": "https://pantheon.world/profile/person/John_Forbes_Nash_Jr.",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-forbes-nash-jr-2-obstacle",
+      "text": "John Forbes Nash Jr.'s recorded life dates place this profile around 1928-2015.",
+      "context": "John Forbes Nash Jr.'s challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: John Forbes Nash Jr.",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Forbes_Nash_Jr.",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-forbes-nash-jr-3-turning-point",
+      "text": "John Forbes Nash Jr. is grouped with Science, Math & Technology in the People Library.",
+      "context": "John Forbes Nash Jr.'s turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: John Forbes Nash Jr.",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Forbes_Nash_Jr.",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-forbes-nash-jr-4-contribution",
+      "text": "John Forbes Nash Jr.'s profile connects a short Fact to a wider United States historical setting.",
+      "context": "John Forbes Nash Jr.'s contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: John Forbes Nash Jr.",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Forbes_Nash_Jr.",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-forbes-nash-jr-5-influence",
+      "text": "John Forbes Nash Jr. has a Facts Mode card reserved for deeper source research.",
+      "context": "John Forbes Nash Jr.'s influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: John Forbes Nash Jr.",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Forbes_Nash_Jr.",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

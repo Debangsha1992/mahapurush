@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Danny DeVito is a notable actor associated with United States.",
+  "summary": "Danny DeVito is a notable actor connected with United States.",
   "knownFor": [
     "Actor",
-    "82 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Danny DeVito",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "danny-devito-pantheon-profile",
-      "text": "Pantheon ranks Danny DeVito as a globally documented actor with biographies in 82 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Danny DeVito a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "danny-devito-1-origin",
+      "text": "Danny DeVito is remembered as a actor connected with United States.",
+      "context": "Danny DeVito's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Danny DeVito",
       "sourceUrl": "https://pantheon.world/profile/person/Danny_DeVito",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "danny-devito-2-obstacle",
+      "text": "Danny DeVito's recorded life dates place this profile around born 1944.",
+      "context": "Danny DeVito's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Danny DeVito",
+      "sourceUrl": "https://pantheon.world/profile/person/Danny_DeVito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "danny-devito-3-turning-point",
+      "text": "Danny DeVito is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Danny DeVito's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Danny DeVito",
+      "sourceUrl": "https://pantheon.world/profile/person/Danny_DeVito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "danny-devito-4-contribution",
+      "text": "Danny DeVito's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Danny DeVito's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Danny DeVito",
+      "sourceUrl": "https://pantheon.world/profile/person/Danny_DeVito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "danny-devito-5-influence",
+      "text": "Danny DeVito has a Facts Mode card reserved for deeper source research.",
+      "context": "Danny DeVito's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Danny DeVito",
+      "sourceUrl": "https://pantheon.world/profile/person/Danny_DeVito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

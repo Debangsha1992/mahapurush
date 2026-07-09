@@ -1,0 +1,46 @@
+{
+  "personId": "heinrich-hertz",
+  "slug": "heinrich-hertz",
+  "name": "Heinrich Hertz",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Heinrich Hertz",
+      "url": "https://pantheon.world/profile/person/Heinrich_Hertz",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "heinrich-hertz-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Heinrich Hertz is remembered as a physicist connected with Germany."
+    },
+    {
+      "factId": "heinrich-hertz-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Heinrich Hertz's recorded life dates place this profile around 1857-1894."
+    },
+    {
+      "factId": "heinrich-hertz-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Heinrich Hertz is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "heinrich-hertz-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Heinrich Hertz's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "heinrich-hertz-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Heinrich Hertz has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

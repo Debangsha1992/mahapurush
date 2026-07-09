@@ -1,0 +1,47 @@
+{
+  "personId": "tiberius",
+  "slug": "tiberius",
+  "name": "Tiberius",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Tiberius",
+      "url": "https://en.wikipedia.org/wiki/Tiberius",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Roman emperor from AD 14 to 37"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "tiberius-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Tiberius Julius Caesar Augustus was the second Roman emperor from AD 14 until his death, reigning as the second ruler of the Julio-Claudian dynasty."
+    },
+    {
+      "factId": "tiberius-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Tiberius succeeded his stepfather Augustus, the first Roman emperor."
+    },
+    {
+      "factId": "tiberius-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Tiberius was born in Rome in 42 BC to politician Tiberius Claudius Nero and his wife, Livia Drusilla."
+    },
+    {
+      "factId": "tiberius-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Following the untimely deaths of Augustus's two grandsons and adopted heirs, Gaius and Lucius Caesar, Tiberius was designated Augustus's successor."
+    },
+    {
+      "factId": "tiberius-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "verified",
+      "text": "Prior to this, Tiberius had proved himself an able diplomat and one of the most successful Roman generals."
+    }
+  ]
+}

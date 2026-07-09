@@ -1,0 +1,46 @@
+{
+  "personId": "sylvester-stallone",
+  "slug": "sylvester-stallone",
+  "name": "Sylvester Stallone",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Sylvester Stallone",
+      "url": "https://pantheon.world/profile/person/Sylvester_Stallone",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sylvester-stallone-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Sylvester Stallone is remembered as a actor connected with United States."
+    },
+    {
+      "factId": "sylvester-stallone-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Sylvester Stallone's recorded life dates place this profile around born 1946."
+    },
+    {
+      "factId": "sylvester-stallone-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Sylvester Stallone is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "sylvester-stallone-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Sylvester Stallone's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "sylvester-stallone-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sylvester Stallone has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

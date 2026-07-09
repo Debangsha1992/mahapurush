@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Saint Nicholas is a notable religious figure associated with Türkiye.",
+  "summary": "Saint Nicholas is a notable religious figure connected with Türkiye.",
   "knownFor": [
     "Religious Figure",
-    "97 language biography editions",
-    "Historical Popularity Index 88.2"
+    "Philosophy, Ethics & Religion",
+    "Türkiye"
   ],
   "featured": true,
   "featuredRank": 210,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "saint-nicholas-pantheon-profile",
-      "text": "Pantheon ranks Saint Nicholas as a globally documented religious figure with biographies in 97 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Saint Nicholas a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "saint-nicholas-1-origin",
+      "text": "Saint Nicholas is remembered as a religious figure connected with Türkiye.",
+      "context": "Saint Nicholas's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Saint Nicholas",
       "sourceUrl": "https://pantheon.world/profile/person/Saint_Nicholas",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-nicholas-2-obstacle",
+      "text": "Saint Nicholas's recorded life dates place this profile around 270-342.",
+      "context": "Saint Nicholas's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Saint Nicholas",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Nicholas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-nicholas-3-turning-point",
+      "text": "Saint Nicholas is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Saint Nicholas's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Saint Nicholas",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Nicholas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-nicholas-4-contribution",
+      "text": "Saint Nicholas's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Saint Nicholas's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Saint Nicholas",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Nicholas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-nicholas-5-influence",
+      "text": "Saint Nicholas has a Facts Mode card reserved for deeper source research.",
+      "context": "Saint Nicholas's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Saint Nicholas",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Nicholas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

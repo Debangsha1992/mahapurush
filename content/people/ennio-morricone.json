@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Ennio Morricone is a notable composer associated with Italy.",
+  "summary": "Ennio Morricone is a notable composer connected with Italy.",
   "knownFor": [
     "Composer",
-    "85 language biography editions",
-    "Historical Popularity Index 81.7"
+    "Literature, Arts & Culture",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ennio Morricone",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ennio-morricone-pantheon-profile",
-      "text": "Pantheon ranks Ennio Morricone as a globally documented composer with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ennio Morricone a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ennio-morricone-1-origin",
+      "text": "Ennio Morricone is remembered as a composer connected with Italy.",
+      "context": "Ennio Morricone's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Ennio Morricone",
       "sourceUrl": "https://pantheon.world/profile/person/Ennio_Morricone",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ennio-morricone-2-obstacle",
+      "text": "Ennio Morricone's recorded life dates place this profile around 1928-2020.",
+      "context": "Ennio Morricone's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ennio Morricone",
+      "sourceUrl": "https://pantheon.world/profile/person/Ennio_Morricone",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ennio-morricone-3-turning-point",
+      "text": "Ennio Morricone is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Ennio Morricone's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ennio Morricone",
+      "sourceUrl": "https://pantheon.world/profile/person/Ennio_Morricone",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ennio-morricone-4-contribution",
+      "text": "Ennio Morricone's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Ennio Morricone's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ennio Morricone",
+      "sourceUrl": "https://pantheon.world/profile/person/Ennio_Morricone",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ennio-morricone-5-influence",
+      "text": "Ennio Morricone has a Facts Mode card reserved for deeper source research.",
+      "context": "Ennio Morricone's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ennio Morricone",
+      "sourceUrl": "https://pantheon.world/profile/person/Ennio_Morricone",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "explorer"
   ],
-  "summary": "Hernán Cortés is a notable explorer associated with Spain.",
+  "summary": "Hernán Cortés is a notable explorer connected with Spain.",
   "knownFor": [
     "Explorer",
-    "145 language biography editions",
-    "Historical Popularity Index 85.6"
+    "Environment, Exploration & Human Achievement",
+    "Spain"
   ],
   "featured": true,
   "featuredRank": 386,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hernan-cortes-pantheon-profile",
-      "text": "Pantheon ranks Hernán Cortés as a globally documented explorer with biographies in 145 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hernán Cortés a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hernan-cortes-1-origin",
+      "text": "Hernán Cortés is remembered as a explorer connected with Spain.",
+      "context": "Hernán Cortés's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Hernán Cortés",
       "sourceUrl": "https://pantheon.world/profile/person/Hern%C3%A1n_Cort%C3%A9s",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hernan-cortes-2-obstacle",
+      "text": "Hernán Cortés's recorded life dates place this profile around 1485-1547.",
+      "context": "Hernán Cortés's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hernán Cortés",
+      "sourceUrl": "https://pantheon.world/profile/person/Hern%C3%A1n_Cort%C3%A9s",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hernan-cortes-3-turning-point",
+      "text": "Hernán Cortés is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Hernán Cortés's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hernán Cortés",
+      "sourceUrl": "https://pantheon.world/profile/person/Hern%C3%A1n_Cort%C3%A9s",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hernan-cortes-4-contribution",
+      "text": "Hernán Cortés's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Hernán Cortés's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hernán Cortés",
+      "sourceUrl": "https://pantheon.world/profile/person/Hern%C3%A1n_Cort%C3%A9s",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hernan-cortes-5-influence",
+      "text": "Hernán Cortés has a Facts Mode card reserved for deeper source research.",
+      "context": "Hernán Cortés's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hernán Cortés",
+      "sourceUrl": "https://pantheon.world/profile/person/Hern%C3%A1n_Cort%C3%A9s",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "j-r-r-tolkien",
+  "slug": "j-r-r-tolkien",
+  "name": "J. R. R. Tolkien",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: J. R. R. Tolkien",
+      "url": "https://pantheon.world/profile/person/J._R._R._Tolkien",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "j-r-r-tolkien-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "J. R. R. Tolkien is remembered as a writer connected with South Africa."
+    },
+    {
+      "factId": "j-r-r-tolkien-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "J. R. R. Tolkien's recorded life dates place this profile around 1892-1973."
+    },
+    {
+      "factId": "j-r-r-tolkien-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "J. R. R. Tolkien is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "j-r-r-tolkien-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "J. R. R. Tolkien's profile connects a short Fact to a wider South Africa historical setting."
+    },
+    {
+      "factId": "j-r-r-tolkien-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "J. R. R. Tolkien has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

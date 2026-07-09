@@ -1,0 +1,46 @@
+{
+  "personId": "hulagu-khan",
+  "slug": "hulagu-khan",
+  "name": "Hulagu Khan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hulagu Khan",
+      "url": "https://pantheon.world/profile/person/Hulagu_Khan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hulagu-khan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hulagu Khan is remembered as a politician connected with Mongolia."
+    },
+    {
+      "factId": "hulagu-khan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hulagu Khan's recorded life dates place this profile around 1217-1265."
+    },
+    {
+      "factId": "hulagu-khan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hulagu Khan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "hulagu-khan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hulagu Khan's profile connects a short Fact to a wider Mongolia historical setting."
+    },
+    {
+      "factId": "hulagu-khan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hulagu Khan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

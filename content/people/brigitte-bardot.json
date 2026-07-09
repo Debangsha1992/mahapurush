@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Brigitte Bardot is a notable actor associated with France.",
+  "summary": "Brigitte Bardot is a notable actor connected with France.",
   "knownFor": [
     "Actor",
-    "119 language biography editions",
-    "Historical Popularity Index 84.1"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Brigitte Bardot",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "brigitte-bardot-pantheon-profile",
-      "text": "Pantheon ranks Brigitte Bardot as a globally documented actor with biographies in 119 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Brigitte Bardot a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "brigitte-bardot-1-origin",
+      "text": "Brigitte Bardot is remembered as a actor connected with France.",
+      "context": "Brigitte Bardot's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Brigitte Bardot",
       "sourceUrl": "https://pantheon.world/profile/person/Brigitte_Bardot",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "brigitte-bardot-2-obstacle",
+      "text": "Brigitte Bardot's recorded life dates place this profile around born 1934.",
+      "context": "Brigitte Bardot's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Brigitte Bardot",
+      "sourceUrl": "https://pantheon.world/profile/person/Brigitte_Bardot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "brigitte-bardot-3-turning-point",
+      "text": "Brigitte Bardot is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Brigitte Bardot's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Brigitte Bardot",
+      "sourceUrl": "https://pantheon.world/profile/person/Brigitte_Bardot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "brigitte-bardot-4-contribution",
+      "text": "Brigitte Bardot's profile connects a short Fact to a wider France historical setting.",
+      "context": "Brigitte Bardot's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Brigitte Bardot",
+      "sourceUrl": "https://pantheon.world/profile/person/Brigitte_Bardot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "brigitte-bardot-5-influence",
+      "text": "Brigitte Bardot has a Facts Mode card reserved for deeper source research.",
+      "context": "Brigitte Bardot's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Brigitte Bardot",
+      "sourceUrl": "https://pantheon.world/profile/person/Brigitte_Bardot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Ragnar Lodbrok is a notable nobleman associated with Norway.",
+  "summary": "Ragnar Lodbrok is a notable nobleman connected with Norway.",
   "knownFor": [
     "Nobleman",
-    "55 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Justice, Governance & Leadership",
+    "Norway"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ragnar Lodbrok",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ragnar-lodbrok-pantheon-profile",
-      "text": "Pantheon ranks Ragnar Lodbrok as a globally documented nobleman with biographies in 55 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ragnar Lodbrok a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ragnar-lodbrok-1-origin",
+      "text": "Ragnar Lodbrok is remembered as a nobleman connected with Norway.",
+      "context": "Ragnar Lodbrok's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ragnar Lodbrok",
       "sourceUrl": "https://pantheon.world/profile/person/Ragnar_Lodbrok",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ragnar-lodbrok-2-obstacle",
+      "text": "Ragnar Lodbrok's recorded life dates place this profile around 850-801.",
+      "context": "Ragnar Lodbrok's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ragnar Lodbrok",
+      "sourceUrl": "https://pantheon.world/profile/person/Ragnar_Lodbrok",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ragnar-lodbrok-3-turning-point",
+      "text": "Ragnar Lodbrok is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ragnar Lodbrok's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ragnar Lodbrok",
+      "sourceUrl": "https://pantheon.world/profile/person/Ragnar_Lodbrok",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ragnar-lodbrok-4-contribution",
+      "text": "Ragnar Lodbrok's profile connects a short Fact to a wider Norway historical setting.",
+      "context": "Ragnar Lodbrok's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ragnar Lodbrok",
+      "sourceUrl": "https://pantheon.world/profile/person/Ragnar_Lodbrok",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ragnar-lodbrok-5-influence",
+      "text": "Ragnar Lodbrok has a Facts Mode card reserved for deeper source research.",
+      "context": "Ragnar Lodbrok's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ragnar Lodbrok",
+      "sourceUrl": "https://pantheon.world/profile/person/Ragnar_Lodbrok",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

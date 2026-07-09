@@ -1,0 +1,47 @@
+{
+  "personId": "erasmus",
+  "slug": "erasmus",
+  "name": "Erasmus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Erasmus",
+      "url": "https://en.wikipedia.org/wiki/Erasmus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Dutch humanist (c. 1466–1536)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "erasmus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Desiderius Erasmus Roterodamus, commonly known in English as Erasmus of Rotterdam or simply Erasmus, was a Dutch humanist, Catholic theologian, and pioneering philologist and educationalist."
+    },
+    {
+      "factId": "erasmus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Erasmus was, through his writings and translations, one of the most influential scholars of the Northern Renaissance and a major figure of Western culture."
+    },
+    {
+      "factId": "erasmus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Erasmus is remembered as a philosopher connected with Netherlands."
+    },
+    {
+      "factId": "erasmus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Erasmus's recorded life dates place this profile around 1466-1536."
+    },
+    {
+      "factId": "erasmus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Erasmus is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

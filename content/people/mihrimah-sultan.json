@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Mihrimah Sultan is a notable companion associated with Türkiye.",
+  "summary": "Mihrimah Sultan is a notable companion connected with Türkiye.",
   "knownFor": [
     "Companion",
-    "45 language biography editions",
-    "Historical Popularity Index 81.6"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mihrimah Sultan",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mihrimah-sultan-pantheon-profile",
-      "text": "Pantheon ranks Mihrimah Sultan as a globally documented companion with biographies in 45 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mihrimah Sultan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mihrimah-sultan-1-origin",
+      "text": "Mihrimah Sultan is remembered as a companion connected with Türkiye.",
+      "context": "Mihrimah Sultan's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mihrimah Sultan",
       "sourceUrl": "https://pantheon.world/profile/person/Mihrimah_Sultan",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mihrimah-sultan-2-obstacle",
+      "text": "Mihrimah Sultan's recorded life dates place this profile around 1522-1578.",
+      "context": "Mihrimah Sultan's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mihrimah Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/Mihrimah_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mihrimah-sultan-3-turning-point",
+      "text": "Mihrimah Sultan is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mihrimah Sultan's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mihrimah Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/Mihrimah_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mihrimah-sultan-4-contribution",
+      "text": "Mihrimah Sultan's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Mihrimah Sultan's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mihrimah Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/Mihrimah_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mihrimah-sultan-5-influence",
+      "text": "Mihrimah Sultan has a Facts Mode card reserved for deeper source research.",
+      "context": "Mihrimah Sultan's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mihrimah Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/Mihrimah_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

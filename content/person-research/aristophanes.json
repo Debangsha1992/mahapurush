@@ -1,0 +1,46 @@
+{
+  "personId": "aristophanes",
+  "slug": "aristophanes",
+  "name": "Aristophanes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Aristophanes",
+      "url": "https://pantheon.world/profile/person/Aristophanes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "aristophanes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Aristophanes is remembered as a writer connected with Greece."
+    },
+    {
+      "factId": "aristophanes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Aristophanes's recorded life dates place this profile around -448--386."
+    },
+    {
+      "factId": "aristophanes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Aristophanes is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "aristophanes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Aristophanes's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "aristophanes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Aristophanes has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

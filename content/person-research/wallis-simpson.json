@@ -1,0 +1,46 @@
+{
+  "personId": "wallis-simpson",
+  "slug": "wallis-simpson",
+  "name": "Wallis Simpson",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Wallis Simpson",
+      "url": "https://pantheon.world/profile/person/Wallis_Simpson",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "wallis-simpson-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Wallis Simpson is remembered as a celebrity connected with United States."
+    },
+    {
+      "factId": "wallis-simpson-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Wallis Simpson's recorded life dates place this profile around 1896-1986."
+    },
+    {
+      "factId": "wallis-simpson-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Wallis Simpson is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "wallis-simpson-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Wallis Simpson's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "wallis-simpson-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Wallis Simpson has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

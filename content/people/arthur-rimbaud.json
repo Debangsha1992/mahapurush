@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Arthur Rimbaud is a notable writer associated with France.",
+  "summary": "Arthur Rimbaud is a notable writer connected with France.",
   "knownFor": [
     "Writer",
-    "104 language biography editions",
-    "Historical Popularity Index 81.7"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Arthur Rimbaud",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "arthur-rimbaud-pantheon-profile",
-      "text": "Pantheon ranks Arthur Rimbaud as a globally documented writer with biographies in 104 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Arthur Rimbaud a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "arthur-rimbaud-1-origin",
+      "text": "Arthur Rimbaud is remembered as a writer connected with France.",
+      "context": "Arthur Rimbaud's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Arthur Rimbaud",
       "sourceUrl": "https://pantheon.world/profile/person/Arthur_Rimbaud",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "arthur-rimbaud-2-obstacle",
+      "text": "Arthur Rimbaud's recorded life dates place this profile around 1854-1891.",
+      "context": "Arthur Rimbaud's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Arthur Rimbaud",
+      "sourceUrl": "https://pantheon.world/profile/person/Arthur_Rimbaud",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "arthur-rimbaud-3-turning-point",
+      "text": "Arthur Rimbaud is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Arthur Rimbaud's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Arthur Rimbaud",
+      "sourceUrl": "https://pantheon.world/profile/person/Arthur_Rimbaud",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "arthur-rimbaud-4-contribution",
+      "text": "Arthur Rimbaud's profile connects a short Fact to a wider France historical setting.",
+      "context": "Arthur Rimbaud's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Arthur Rimbaud",
+      "sourceUrl": "https://pantheon.world/profile/person/Arthur_Rimbaud",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "arthur-rimbaud-5-influence",
+      "text": "Arthur Rimbaud has a Facts Mode card reserved for deeper source research.",
+      "context": "Arthur Rimbaud's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Arthur Rimbaud",
+      "sourceUrl": "https://pantheon.world/profile/person/Arthur_Rimbaud",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

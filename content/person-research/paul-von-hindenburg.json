@@ -1,0 +1,46 @@
+{
+  "personId": "paul-von-hindenburg",
+  "slug": "paul-von-hindenburg",
+  "name": "Paul von Hindenburg",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Paul von Hindenburg",
+      "url": "https://pantheon.world/profile/person/Paul_von_Hindenburg",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "paul-von-hindenburg-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Paul von Hindenburg is remembered as a politician connected with Poland."
+    },
+    {
+      "factId": "paul-von-hindenburg-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Paul von Hindenburg's recorded life dates place this profile around 1847-1934."
+    },
+    {
+      "factId": "paul-von-hindenburg-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Paul von Hindenburg is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "paul-von-hindenburg-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Paul von Hindenburg's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "paul-von-hindenburg-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Paul von Hindenburg has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

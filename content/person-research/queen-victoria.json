@@ -1,0 +1,46 @@
+{
+  "personId": "queen-victoria",
+  "slug": "queen-victoria",
+  "name": "Queen Victoria",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Queen Victoria",
+      "url": "https://pantheon.world/profile/person/Queen_Victoria",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "queen-victoria-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Queen Victoria is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "queen-victoria-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Queen Victoria's recorded life dates place this profile around 1819-1901."
+    },
+    {
+      "factId": "queen-victoria-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Queen Victoria is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "queen-victoria-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Queen Victoria's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "queen-victoria-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Queen Victoria has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

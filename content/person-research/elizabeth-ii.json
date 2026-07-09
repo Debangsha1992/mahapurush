@@ -1,0 +1,46 @@
+{
+  "personId": "elizabeth-ii",
+  "slug": "elizabeth-ii",
+  "name": "Elizabeth II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Elizabeth II",
+      "url": "https://pantheon.world/profile/person/Elizabeth_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "elizabeth-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth II is remembered as a nobleman connected with United Kingdom."
+    },
+    {
+      "factId": "elizabeth-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth II's recorded life dates place this profile around 1926-2022."
+    },
+    {
+      "factId": "elizabeth-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth II is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "elizabeth-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth II's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "elizabeth-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

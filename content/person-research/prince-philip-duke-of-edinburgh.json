@@ -1,0 +1,47 @@
+{
+  "personId": "prince-philip-duke-of-edinburgh",
+  "slug": "prince-philip-duke-of-edinburgh",
+  "name": "Prince Philip, Duke of Edinburgh",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Prince Philip, Duke of Edinburgh",
+      "url": "https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Consort of Elizabeth II from 1952 to 2021"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "prince-philip-duke-of-edinburgh-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Prince Philip, Duke of Edinburgh, was the husband of Queen Elizabeth II and served as consort of the British monarch from her accession on 6 February 1952 until his death in 2021, making him the longest-serving royal consort in British history."
+    },
+    {
+      "factId": "prince-philip-duke-of-edinburgh-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Prince Philip, Duke of Edinburgh is remembered as a nobleman connected with Greece."
+    },
+    {
+      "factId": "prince-philip-duke-of-edinburgh-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Prince Philip, Duke of Edinburgh's recorded life dates place this profile around 1921-2021."
+    },
+    {
+      "factId": "prince-philip-duke-of-edinburgh-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Prince Philip, Duke of Edinburgh is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "prince-philip-duke-of-edinburgh-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Prince Philip, Duke of Edinburgh's profile connects a short Fact to a wider Greece historical setting."
+    }
+  ]
+}

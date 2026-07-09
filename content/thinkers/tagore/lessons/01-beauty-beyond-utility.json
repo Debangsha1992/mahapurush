@@ -7,7 +7,7 @@
   "layers": {
     "quick": {
       "hook": "Tagore believed freedom and beauty are part of a full human life.",
-      "story": "Tagore was a poet, educator, and thinker who believed people become smaller when life is reduced to exams, jobs, and usefulness alone.",
+      "story": "Tagore was a poet, educator, and thinker who believed people become smaller when life is reduced to rankings, jobs, and usefulness alone.",
       "bigIdea": {
         "title": "Human life is more than productivity",
         "explanation": "A meaningful life includes beauty, wonder, expression, and inner freedom."
@@ -17,7 +17,7 @@
         "instruction": "When a choice looks practical, ask what human quality might be lost in the process."
       },
       "modernTest": {
-        "scenario": "Your family pushes you toward a safe career, but you feel alive when writing, painting, or making music.",
+        "scenario": "Your responsibilities push you toward safe, efficient choices, but you feel most alive when writing, painting, gardening, singing, or making something beautiful.",
         "question": "What would Tagore ask you to consider?",
         "options": [
           {
@@ -46,7 +46,7 @@
     },
     "full": {
       "hook": "Tagore believed freedom and beauty are part of a full human life.",
-      "story": "Rabindranath Tagore was a poet, educator, and humanist who believed people become smaller when life is reduced to exams, obedience, and usefulness alone. He built schools and art because he thought freedom and creativity were not luxuries. They were part of becoming human.",
+      "story": "Rabindranath Tagore was a poet, educator, and humanist who believed people become smaller when life is reduced to rankings, obedience, and usefulness alone. He built schools and art because he thought freedom and creativity were not luxuries. They were part of becoming human.",
       "bigIdea": {
         "title": "Human life is more than productivity",
         "explanation": "A meaningful life includes beauty, wonder, expression, and inner freedom."
@@ -56,7 +56,7 @@
         "instruction": "When a choice looks practical, ask what human quality might be lost in the process."
       },
       "modernTest": {
-        "scenario": "Your school celebrates only exam rank and career outcomes. Creative work is treated as a hobby.",
+        "scenario": "Your workplace and social circle celebrate only promotions, income, productivity, and visible achievement. Creative work is treated as a hobby you can return to when life is less busy.",
         "question": "What would Tagore challenge?",
         "options": [
           {

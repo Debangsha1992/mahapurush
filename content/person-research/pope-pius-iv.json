@@ -1,0 +1,46 @@
+{
+  "personId": "pope-pius-iv",
+  "slug": "pope-pius-iv",
+  "name": "Pope Pius IV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Pius IV",
+      "url": "https://pantheon.world/profile/person/Pope_Pius_IV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-pius-iv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius IV is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-pius-iv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius IV's recorded life dates place this profile around 1499-1565."
+    },
+    {
+      "factId": "pope-pius-iv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius IV is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-pius-iv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius IV's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-pius-iv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius IV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

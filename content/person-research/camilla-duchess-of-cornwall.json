@@ -1,0 +1,46 @@
+{
+  "personId": "camilla-duchess-of-cornwall",
+  "slug": "camilla-duchess-of-cornwall",
+  "name": "Camilla, Duchess of Cornwall",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Camilla, Duchess of Cornwall",
+      "url": "https://pantheon.world/profile/person/Camilla%2C_Duchess_of_Cornwall",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "camilla-duchess-of-cornwall-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Camilla, Duchess of Cornwall is remembered as a nobleman connected with United Kingdom."
+    },
+    {
+      "factId": "camilla-duchess-of-cornwall-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Camilla, Duchess of Cornwall's recorded life dates place this profile around born 1947."
+    },
+    {
+      "factId": "camilla-duchess-of-cornwall-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Camilla, Duchess of Cornwall is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "camilla-duchess-of-cornwall-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Camilla, Duchess of Cornwall's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "camilla-duchess-of-cornwall-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Camilla, Duchess of Cornwall has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

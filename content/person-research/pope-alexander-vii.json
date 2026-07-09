@@ -1,0 +1,46 @@
+{
+  "personId": "pope-alexander-vii",
+  "slug": "pope-alexander-vii",
+  "name": "Pope Alexander VII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Alexander VII",
+      "url": "https://pantheon.world/profile/person/Pope_Alexander_VII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-alexander-vii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Alexander VII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-alexander-vii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Alexander VII's recorded life dates place this profile around 1599-1667."
+    },
+    {
+      "factId": "pope-alexander-vii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Alexander VII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-alexander-vii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Alexander VII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-alexander-vii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Alexander VII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

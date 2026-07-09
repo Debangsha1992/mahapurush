@@ -1,0 +1,46 @@
+{
+  "personId": "otzi",
+  "slug": "otzi",
+  "name": "Ötzi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ötzi",
+      "url": "https://pantheon.world/profile/person/%C3%96tzi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "otzi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ötzi is remembered as a celebrity connected with Italy."
+    },
+    {
+      "factId": "otzi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ötzi's recorded life dates place this profile around -3345--3255."
+    },
+    {
+      "factId": "otzi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ötzi is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "otzi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ötzi's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "otzi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ötzi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

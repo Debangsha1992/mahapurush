@@ -1,0 +1,46 @@
+{
+  "personId": "winston-churchill",
+  "slug": "winston-churchill",
+  "name": "Winston Churchill",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Winston Churchill",
+      "url": "https://pantheon.world/profile/person/Winston_Churchill",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "winston-churchill-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Winston Churchill is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "winston-churchill-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Winston Churchill's recorded life dates place this profile around 1874-1965."
+    },
+    {
+      "factId": "winston-churchill-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Winston Churchill is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "winston-churchill-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Winston Churchill's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "winston-churchill-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Winston Churchill has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

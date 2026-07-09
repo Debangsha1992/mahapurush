@@ -1,0 +1,46 @@
+{
+  "personId": "wassily-kandinsky",
+  "slug": "wassily-kandinsky",
+  "name": "Wassily Kandinsky",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Wassily Kandinsky",
+      "url": "https://pantheon.world/profile/person/Wassily_Kandinsky",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "wassily-kandinsky-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Wassily Kandinsky is remembered as a painter connected with Russia."
+    },
+    {
+      "factId": "wassily-kandinsky-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Wassily Kandinsky's recorded life dates place this profile around 1866-1944."
+    },
+    {
+      "factId": "wassily-kandinsky-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Wassily Kandinsky is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "wassily-kandinsky-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Wassily Kandinsky's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "wassily-kandinsky-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Wassily Kandinsky has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

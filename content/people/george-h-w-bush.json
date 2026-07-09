@@ -12,34 +12,102 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "George H. W. Bush is a notable politician associated with United States.",
+  "summary": "George Herbert Walker Bush was the 41st president of the United States, serving from 1989 to 1993.",
   "knownFor": [
     "Politician",
-    "156 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for George H. W. Bush",
   "sourceRefs": [
     {
-      "title": "Pantheon: George H. W. Bush",
-      "url": "https://pantheon.world/profile/person/George_H._W._Bush",
+      "title": "Wikipedia: George H. W. Bush",
+      "url": "https://en.wikipedia.org/wiki/George_H._W._Bush",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "george-h-w-bush-pantheon-profile",
-      "text": "Pantheon ranks George H. W. Bush as a globally documented politician with biographies in 156 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make George H. W. Bush a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: George H. W. Bush",
-      "sourceUrl": "https://pantheon.world/profile/person/George_H._W._Bush",
+      "id": "george-h-w-bush-1-origin",
+      "text": "George Herbert Walker George H. W. Bush was the 41st president of the United States, serving from 1989 to 1993.",
+      "context": "George H. W. Bush's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: George H. W. Bush",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_H._W._Bush",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-h-w-bush-2-obstacle",
+      "text": "George H. W. Bush was Ronald Reagan's vice president from 1981 to 1989.",
+      "context": "George H. W. Bush's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: George H. W. Bush",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-h-w-bush-3-turning-point",
+      "text": "George H. W. Bush, the 43rd president of the United States.",
+      "context": "George H. W. Bush's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: George H. W. Bush",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-h-w-bush-4-contribution",
+      "text": "George H. W. Bush is remembered as a politician connected with United States.",
+      "context": "George H. W. Bush's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: George H. W. Bush",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-h-w-bush-5-influence",
+      "text": "George H. W. Bush's recorded life dates place this profile around 1924-2018.",
+      "context": "George H. W. Bush's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: George H. W. Bush",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

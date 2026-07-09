@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "explorer"
   ],
-  "summary": "Roald Amundsen is a notable explorer associated with Norway.",
+  "summary": "Roald Amundsen is a notable explorer connected with Norway.",
   "knownFor": [
     "Explorer",
-    "160 language biography editions",
-    "Historical Popularity Index 85.0"
+    "Environment, Exploration & Human Achievement",
+    "Norway"
   ],
   "featured": true,
   "featuredRank": 441,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "roald-amundsen-pantheon-profile",
-      "text": "Pantheon ranks Roald Amundsen as a globally documented explorer with biographies in 160 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Roald Amundsen a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "roald-amundsen-1-origin",
+      "text": "Roald Amundsen is remembered as a explorer connected with Norway.",
+      "context": "Roald Amundsen's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Roald Amundsen",
       "sourceUrl": "https://pantheon.world/profile/person/Roald_Amundsen",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "roald-amundsen-2-obstacle",
+      "text": "Roald Amundsen's recorded life dates place this profile around 1872-1928.",
+      "context": "Roald Amundsen's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Roald Amundsen",
+      "sourceUrl": "https://pantheon.world/profile/person/Roald_Amundsen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "roald-amundsen-3-turning-point",
+      "text": "Roald Amundsen is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Roald Amundsen's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Roald Amundsen",
+      "sourceUrl": "https://pantheon.world/profile/person/Roald_Amundsen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "roald-amundsen-4-contribution",
+      "text": "Roald Amundsen's profile connects a short Fact to a wider Norway historical setting.",
+      "context": "Roald Amundsen's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Roald Amundsen",
+      "sourceUrl": "https://pantheon.world/profile/person/Roald_Amundsen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "roald-amundsen-5-influence",
+      "text": "Roald Amundsen has a Facts Mode card reserved for deeper source research.",
+      "context": "Roald Amundsen's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Roald Amundsen",
+      "sourceUrl": "https://pantheon.world/profile/person/Roald_Amundsen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

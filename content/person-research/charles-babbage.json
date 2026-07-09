@@ -1,0 +1,46 @@
+{
+  "personId": "charles-babbage",
+  "slug": "charles-babbage",
+  "name": "Charles Babbage",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles Babbage",
+      "url": "https://pantheon.world/profile/person/Charles_Babbage",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-babbage-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles Babbage is remembered as a inventor connected with United Kingdom."
+    },
+    {
+      "factId": "charles-babbage-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles Babbage's recorded life dates place this profile around 1791-1871."
+    },
+    {
+      "factId": "charles-babbage-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles Babbage is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "charles-babbage-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles Babbage's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "charles-babbage-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles Babbage has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

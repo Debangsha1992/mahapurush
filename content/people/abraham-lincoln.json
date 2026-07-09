@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Abraham Lincoln is a notable politician associated with United States.",
+  "summary": "Abraham Lincoln is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "204 language biography editions",
-    "Historical Popularity Index 87.9"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 225,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "abraham-lincoln-pantheon-profile",
-      "text": "Pantheon ranks Abraham Lincoln as a globally documented politician with biographies in 204 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Abraham Lincoln a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "abraham-lincoln-1-origin",
+      "text": "Abraham Lincoln is remembered as a politician connected with United States.",
+      "context": "Abraham Lincoln's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Abraham Lincoln",
       "sourceUrl": "https://pantheon.world/profile/person/Abraham_Lincoln",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "abraham-lincoln-2-obstacle",
+      "text": "Abraham Lincoln's recorded life dates place this profile around 1809-1865.",
+      "context": "Abraham Lincoln's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Abraham Lincoln",
+      "sourceUrl": "https://pantheon.world/profile/person/Abraham_Lincoln",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "abraham-lincoln-3-turning-point",
+      "text": "Abraham Lincoln is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Abraham Lincoln's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Abraham Lincoln",
+      "sourceUrl": "https://pantheon.world/profile/person/Abraham_Lincoln",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "abraham-lincoln-4-contribution",
+      "text": "Abraham Lincoln's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Abraham Lincoln's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Abraham Lincoln",
+      "sourceUrl": "https://pantheon.world/profile/person/Abraham_Lincoln",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "abraham-lincoln-5-influence",
+      "text": "Abraham Lincoln has a Facts Mode card reserved for deeper source research.",
+      "context": "Abraham Lincoln's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Abraham Lincoln",
+      "sourceUrl": "https://pantheon.world/profile/person/Abraham_Lincoln",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -12,34 +12,101 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "George Bernard Shaw is a notable writer associated with Ireland.",
+  "summary": "George Bernard Shaw, known at his insistence as Bernard Shaw, was an Irish playwright, critic, polemicist and political activist.",
   "knownFor": [
     "Writer",
-    "118 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Literature, Arts & Culture",
+    "Ireland"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for George Bernard Shaw",
   "sourceRefs": [
     {
-      "title": "Pantheon: George Bernard Shaw",
-      "url": "https://pantheon.world/profile/person/George_Bernard_Shaw",
+      "title": "Wikipedia: George Bernard Shaw",
+      "url": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "george-bernard-shaw-pantheon-profile",
-      "text": "Pantheon ranks George Bernard Shaw as a globally documented writer with biographies in 118 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make George Bernard Shaw a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: George Bernard Shaw",
-      "sourceUrl": "https://pantheon.world/profile/person/George_Bernard_Shaw",
+      "id": "george-bernard-shaw-1-origin",
+      "text": "George Bernard Shaw, known at his insistence as Bernard Shaw, was an Irish playwright, critic, polemicist and political activist.",
+      "context": "George Bernard Shaw's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: George Bernard Shaw",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-bernard-shaw-2-obstacle",
+      "text": "George Bernard Shaw's influence on Western theatre, culture and politics extended from the 1880s to his death and beyond.",
+      "context": "George Bernard Shaw's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: George Bernard Shaw",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-bernard-shaw-3-turning-point",
+      "text": "George Bernard Shaw wrote more than sixty plays, including major works such as Man and Superman (1902), Pygmalion (1913) and Saint Joan (1923).",
+      "context": "George Bernard Shaw's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: George Bernard Shaw",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-bernard-shaw-4-contribution",
+      "text": "With a range incorporating both contemporary satire and historical allegory, George Bernard Shaw became the leading dramatist of his generation, and in 1925 was awarded the Nobel Prize in Literature.",
+      "context": "George Bernard Shaw's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: George Bernard Shaw",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-bernard-shaw-5-influence",
+      "text": "George Bernard Shaw is remembered as a writer connected with Ireland.",
+      "context": "George Bernard Shaw's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: George Bernard Shaw",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

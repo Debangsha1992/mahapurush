@@ -1,0 +1,46 @@
+{
+  "personId": "peter-paul-rubens",
+  "slug": "peter-paul-rubens",
+  "name": "Peter Paul Rubens",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Peter Paul Rubens",
+      "url": "https://pantheon.world/profile/person/Peter_Paul_Rubens",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "peter-paul-rubens-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Peter Paul Rubens is remembered as a painter connected with Germany."
+    },
+    {
+      "factId": "peter-paul-rubens-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Peter Paul Rubens's recorded life dates place this profile around 1577-1640."
+    },
+    {
+      "factId": "peter-paul-rubens-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Peter Paul Rubens is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "peter-paul-rubens-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Peter Paul Rubens's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "peter-paul-rubens-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Peter Paul Rubens has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

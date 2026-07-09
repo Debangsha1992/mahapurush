@@ -1,0 +1,46 @@
+{
+  "personId": "prince-eugene-of-savoy",
+  "slug": "prince-eugene-of-savoy",
+  "name": "Prince Eugene of Savoy",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Prince Eugene of Savoy",
+      "url": "https://pantheon.world/profile/person/Prince_Eugene_of_Savoy",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "prince-eugene-of-savoy-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Prince Eugene of Savoy is remembered as a military personnel connected with France."
+    },
+    {
+      "factId": "prince-eugene-of-savoy-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Prince Eugene of Savoy's recorded life dates place this profile around 1663-1736."
+    },
+    {
+      "factId": "prince-eugene-of-savoy-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Prince Eugene of Savoy is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "prince-eugene-of-savoy-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Prince Eugene of Savoy's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "prince-eugene-of-savoy-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Prince Eugene of Savoy has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

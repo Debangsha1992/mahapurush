@@ -1,0 +1,46 @@
+{
+  "personId": "alexander-von-humboldt",
+  "slug": "alexander-von-humboldt",
+  "name": "Alexander von Humboldt",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alexander von Humboldt",
+      "url": "https://pantheon.world/profile/person/Alexander_von_Humboldt",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alexander-von-humboldt-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alexander von Humboldt is remembered as a geographer connected with Germany."
+    },
+    {
+      "factId": "alexander-von-humboldt-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alexander von Humboldt's recorded life dates place this profile around 1769-1859."
+    },
+    {
+      "factId": "alexander-von-humboldt-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alexander von Humboldt is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "alexander-von-humboldt-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alexander von Humboldt's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "alexander-von-humboldt-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alexander von Humboldt has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

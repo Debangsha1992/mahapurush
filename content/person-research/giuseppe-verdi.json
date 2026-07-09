@@ -1,0 +1,46 @@
+{
+  "personId": "giuseppe-verdi",
+  "slug": "giuseppe-verdi",
+  "name": "Giuseppe Verdi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Giuseppe Verdi",
+      "url": "https://pantheon.world/profile/person/Giuseppe_Verdi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "giuseppe-verdi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Giuseppe Verdi is remembered as a composer connected with Italy."
+    },
+    {
+      "factId": "giuseppe-verdi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Giuseppe Verdi's recorded life dates place this profile around 1813-1901."
+    },
+    {
+      "factId": "giuseppe-verdi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Giuseppe Verdi is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "giuseppe-verdi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Giuseppe Verdi's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "giuseppe-verdi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Giuseppe Verdi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

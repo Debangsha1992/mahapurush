@@ -1,0 +1,46 @@
+{
+  "personId": "michel-de-montaigne",
+  "slug": "michel-de-montaigne",
+  "name": "Michel de Montaigne",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Michel de Montaigne",
+      "url": "https://pantheon.world/profile/person/Michel_de_Montaigne",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "michel-de-montaigne-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Michel de Montaigne is remembered as a philosopher connected with France."
+    },
+    {
+      "factId": "michel-de-montaigne-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Michel de Montaigne's recorded life dates place this profile around 1533-1592."
+    },
+    {
+      "factId": "michel-de-montaigne-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Michel de Montaigne is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "michel-de-montaigne-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Michel de Montaigne's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "michel-de-montaigne-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Michel de Montaigne has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

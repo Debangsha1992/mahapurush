@@ -1,7 +1,13 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Card } from "@/components/ui/card";
 import { ThinkerLifeReader } from "@/components/thinkers/thinker-life-reader";
+import {
+  EditorialCard,
+  EditorialPageHero,
+  EditorialPill,
+  SectionHeader,
+  mutedText,
+} from "@/components/ui/editorial";
 import { SKILL_LABELS } from "@/lib/constants/skills";
 import { getThinkerGallery } from "@/lib/content/gallery";
 import {
@@ -40,25 +46,22 @@ export default async function ThinkerPage({
 
   return (
     <div className="space-y-8">
-      <Card>
-        <div>
-          <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-            {thinker.era} · {thinker.region}
-          </p>
-          <h2 className="mt-2 text-3xl font-semibold">{thinker.name}</h2>
-          <p className="mt-3 font-serif text-xl leading-relaxed">{thinker.hook}</p>
-          <div className="mt-4 flex flex-wrap gap-2">
-            {thinker.skills.map((skill) => (
-              <span
-                key={skill}
-                className="rounded-full bg-[var(--color-surface-raised)] px-3 py-1 text-sm"
-              >
-                {SKILL_LABELS[skill]}
-              </span>
-            ))}
-          </div>
+      <EditorialPageHero
+        eyebrow={`${thinker.era} · ${thinker.region}`}
+        title={thinker.name}
+        description={thinker.summary}
+      >
+        <p className="max-w-3xl font-serif text-2xl leading-relaxed">
+          {thinker.hook}
+        </p>
+        <div className="flex flex-wrap gap-2">
+          {thinker.skills.map((skill) => (
+            <EditorialPill key={skill}>
+              {SKILL_LABELS[skill]}
+            </EditorialPill>
+          ))}
         </div>
-      </Card>
+      </EditorialPageHero>
 
       <ThinkerLifeReader
         thinkerName={thinker.name}
@@ -70,26 +73,30 @@ export default async function ThinkerPage({
       />
 
       <section className="space-y-4">
-        <h3 className="text-2xl font-semibold">Journey</h3>
+        <SectionHeader eyebrow="Introspection" title="Journey" />
         <div className="space-y-3">
           {lessons.map((lesson) => (
             <Link
               key={lesson.id}
               href={`/thinkers/${thinker.slug}/lessons/${lesson.id}`}
+              className="group block"
             >
-              <Card className="transition hover:border-[var(--color-accent)]">
+              <EditorialCard className="transition hover:border-[var(--color-accent)]">
+                <div className="absolute -right-12 -top-12 size-28 rounded-full bg-yellow-400/10 transition group-hover:bg-yellow-400/20" />
                 <div className="flex items-center justify-between gap-4">
                   <div>
-                    <p className="text-sm text-[var(--color-muted)]">
+                    <p className={`text-sm ${mutedText}`}>
                       Lesson {lesson.order}
                     </p>
-                    <h4 className="text-lg font-semibold">{lesson.title}</h4>
+                    <h4 className="text-xl font-extrabold tracking-tight">
+                      {lesson.title}
+                    </h4>
                   </div>
                   <span className="text-sm text-[var(--color-accent)]">
                     {lesson.estimatedMinutes} min
                   </span>
                 </div>
-              </Card>
+              </EditorialCard>
             </Link>
           ))}
         </div>
@@ -97,15 +104,16 @@ export default async function ThinkerPage({
 
       {quotes.length > 0 && (
         <section className="space-y-4">
-          <h3 className="text-2xl font-semibold">Quote Cards</h3>
+          <SectionHeader eyebrow="Reflection" title="Quote Cards" />
           <div className="grid gap-4 sm:grid-cols-2">
             {quotes.map((quote) => (
-              <Link key={quote.id} href={`/quotes/${quote.id}`}>
-                <Card className="transition hover:border-[var(--color-accent)]">
+              <Link key={quote.id} href={`/quotes/${quote.id}`} className="group block">
+                <EditorialCard className="transition hover:border-[var(--color-accent)]">
+                  <div className="absolute -right-12 -top-12 size-28 rounded-full bg-yellow-400/10 transition group-hover:bg-yellow-400/20" />
                   <p className="font-serif text-xl leading-relaxed">
                     &ldquo;{quote.quote}&rdquo;
                   </p>
-                </Card>
+                </EditorialCard>
               </Link>
             ))}
           </div>

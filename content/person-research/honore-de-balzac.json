@@ -1,0 +1,46 @@
+{
+  "personId": "honore-de-balzac",
+  "slug": "honore-de-balzac",
+  "name": "Honoré de Balzac",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Honoré de Balzac",
+      "url": "https://pantheon.world/profile/person/Honor%C3%A9_de_Balzac",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "honore-de-balzac-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Honoré de Balzac is remembered as a writer connected with France."
+    },
+    {
+      "factId": "honore-de-balzac-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Honoré de Balzac's recorded life dates place this profile around 1799-1850."
+    },
+    {
+      "factId": "honore-de-balzac-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Honoré de Balzac is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "honore-de-balzac-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Honoré de Balzac's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "honore-de-balzac-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Honoré de Balzac has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

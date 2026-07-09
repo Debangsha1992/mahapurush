@@ -1,0 +1,46 @@
+{
+  "personId": "demosthenes",
+  "slug": "demosthenes",
+  "name": "Demosthenes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Demosthenes",
+      "url": "https://pantheon.world/profile/person/Demosthenes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "demosthenes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Demosthenes is remembered as a politician connected with Greece."
+    },
+    {
+      "factId": "demosthenes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Demosthenes's recorded life dates place this profile around -384--322."
+    },
+    {
+      "factId": "demosthenes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Demosthenes is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "demosthenes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Demosthenes's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "demosthenes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Demosthenes has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

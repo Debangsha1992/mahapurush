@@ -1,0 +1,46 @@
+{
+  "personId": "arthur-conan-doyle",
+  "slug": "arthur-conan-doyle",
+  "name": "Arthur Conan Doyle",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Arthur Conan Doyle",
+      "url": "https://pantheon.world/profile/person/Arthur_Conan_Doyle",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "arthur-conan-doyle-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Arthur Conan Doyle is remembered as a writer connected with United Kingdom."
+    },
+    {
+      "factId": "arthur-conan-doyle-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Arthur Conan Doyle's recorded life dates place this profile around 1859-1930."
+    },
+    {
+      "factId": "arthur-conan-doyle-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Arthur Conan Doyle is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "arthur-conan-doyle-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Arthur Conan Doyle's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "arthur-conan-doyle-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Arthur Conan Doyle has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

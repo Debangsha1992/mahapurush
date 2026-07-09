@@ -53,10 +53,7 @@ export function RotatingThinkerImage({
   const gallery = isMobile ? mobileGallery : desktopGallery;
 
   const startIndex = useMemo(
-    () =>
-      hashString(
-        `${slug}-${typeof window !== "undefined" ? window.location.pathname : "server"}-${isMobile ? "m" : "d"}`,
-      ) % gallery.length,
+    () => hashString(`${slug}-${isMobile ? "m" : "d"}`) % gallery.length,
     [gallery.length, isMobile, slug],
   );
   const [rotationTick, setRotationTick] = useState(0);

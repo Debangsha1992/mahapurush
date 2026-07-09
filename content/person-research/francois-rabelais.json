@@ -1,0 +1,46 @@
+{
+  "personId": "francois-rabelais",
+  "slug": "francois-rabelais",
+  "name": "François Rabelais",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: François Rabelais",
+      "url": "https://pantheon.world/profile/person/Fran%C3%A7ois_Rabelais",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "francois-rabelais-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "François Rabelais is remembered as a writer connected with France."
+    },
+    {
+      "factId": "francois-rabelais-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "François Rabelais's recorded life dates place this profile around 1494-1553."
+    },
+    {
+      "factId": "francois-rabelais-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "François Rabelais is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "francois-rabelais-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "François Rabelais's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "francois-rabelais-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "François Rabelais has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

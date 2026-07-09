@@ -33,8 +33,11 @@ type ExistingFact = {
   sourceTitle: string;
   sourceUrl: string;
   sourceAccessedAt: string;
+  sourceType: "primary" | "reference" | "scholarly" | "news" | "institutional";
+  claimStatus: "verified" | "disputed" | "tradition" | "current-as-of";
   sourceDate?: string;
   currentAsOf?: string;
+  storyAngle?: string;
   tags: string[];
   verified: boolean;
 };
@@ -234,7 +237,34 @@ function compactText(value: string, maxLength: number): string {
     return singleLine;
   }
 
-  return `${singleLine.slice(0, maxLength - 1).trimEnd()}.`;
+  const truncated = singleLine.slice(0, maxLength - 1);
+  const lastSentenceBreak = Math.max(
+    truncated.lastIndexOf(". "),
+    truncated.lastIndexOf("! "),
+    truncated.lastIndexOf("? "),
+  );
+  if (lastSentenceBreak >= Math.floor(maxLength * 0.45)) {
+    return truncated.slice(0, lastSentenceBreak + 1).trimEnd();
+  }
+
+  const lastClauseBreak = Math.max(
+    truncated.lastIndexOf("; "),
+    truncated.lastIndexOf(", "),
+  );
+  if (lastClauseBreak >= Math.floor(maxLength * 0.55)) {
+    return `${truncated.slice(0, lastClauseBreak).trimEnd()}.`;
+  }
+
+  const lastWordBreak = truncated.lastIndexOf(" ");
+  if (lastWordBreak >= Math.floor(maxLength * 0.5)) {
+    return `${truncated
+      .slice(0, lastWordBreak)
+      .replace(/(?:\s+(?:a|an|the|and|or|of|to|for|in|on|at|by|with|from|including|under|over))?$/i, "")
+      .replace(/[.,;:]+$/, "")
+      .trimEnd()}.`;
+  }
+
+  return `${truncated.trimEnd()}.`;
 }
 
 function splitCsvLine(line: string): string[] {
@@ -320,12 +350,33 @@ function ensureHttpsUrl(url: string): string {
   return url.startsWith("https://") ? url : url.replace(/^http:\/\//, "https://");
 }
 
-function formatLifespan(birthyear: string, deathyear: string): string | undefined {
-  if (birthyear && deathyear) {
-    return `${birthyear}-${deathyear}`;
+function parseYearToken(value: string): number | undefined {
+  const parsed = Number.parseInt(value.trim(), 10);
+  return Number.isFinite(parsed) ? parsed : undefined;
+}
+
+function formatYearLabel(year: number): string {
+  if (year < 0) {
+    return `${Math.abs(year)} BCE`;
   }
-  if (birthyear) {
-    return `born ${birthyear}`;
+  return String(year);
+}
+
+function formatLifespan(birthyear: string, deathyear: string): string | undefined {
+  const birth = parseYearToken(birthyear);
+  const death = parseYearToken(deathyear);
+
+  if (birth !== undefined && death !== undefined) {
+    // Chronological order: earlier year first. For BCE, a more-negative value is earlier.
+    const start = Math.min(birth, death);
+    const end = Math.max(birth, death);
+    if (start < 0 || end < 0) {
+      return `${formatYearLabel(start)}–${formatYearLabel(end)}`;
+    }
+    return `${start}-${end}`;
+  }
+  if (birth !== undefined) {
+    return birth < 0 ? `born ${formatYearLabel(birth)}` : `born ${birth}`;
   }
   return undefined;
 }
@@ -386,19 +437,54 @@ function pantheonRowToPerson(row: PantheonRow, featuredRank: number): PersonReco
 
   const country = row.bplace_country?.trim() || "Global";
   const primaryDomain = inferPrimaryDomain(occupation, `${name} ${occupation}`);
-  const hpi = Number.parseFloat(row.hpi || row.hpi_raw || "0");
-  const languageCount = Number.parseInt(row.l || "0", 10);
   const sourceUrl = `https://pantheon.world/profile/person/${encodeURIComponent(row.slug || slug)}`;
   const occupationLabel = titleCaseOccupation(occupation);
   const lifespan = formatLifespan(row.birthyear, row.deathyear);
-  const factText = compactText(
-    `Pantheon ranks ${name} as a globally documented ${occupationLabel.toLowerCase()} with biographies in ${languageCount} language editions.`,
-    260,
-  );
-  const context = compactText(
-    `Pantheon's language-count and Historical Popularity Index signals make ${name} a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.`,
-    560,
-  );
+  const sourceTitle = `Pantheon: ${name}`;
+  const metadataFacts: ExistingFact[] = [
+    {
+      id: `${slug}-domain`,
+      text: `${name} is recorded as a ${occupationLabel.toLowerCase()} connected with ${country}.`,
+      context: `${name}'s domain gives editors a starting point for deeper source research.`,
+      storyAngle: "origin",
+    },
+    {
+      id: `${slug}-region`,
+      text: `${name} is associated with ${country} in the People Library metadata.`,
+      context: `${name}'s region helps readers place the Fact in a real historical or cultural setting.`,
+      storyAngle: "context",
+    },
+    {
+      id: `${slug}-lifespan`,
+      text: `${name}${lifespan ? ` lived during ${lifespan}` : " has dates that vary by source"}.`,
+      context: `${name}'s dates help separate sourced historical context from timeless mythmaking.`,
+      storyAngle: "timeline",
+    },
+    {
+      id: `${slug}-library-path`,
+      text: `${name} belongs in the ${primaryDomain.replaceAll("-", " ")} path of the People Library.`,
+      context: `${name}'s placement helps the app connect a short Fact to a broader learning theme.`,
+      storyAngle: "influence",
+    },
+    {
+      id: `${slug}-research-candidate`,
+      text: `${name} needs researched Facts before becoming a strong Facts Mode card.`,
+      context: `${name}'s generated metadata is a discovery lead, not a finished learner-facing story.`,
+      storyAngle: "research",
+    },
+  ].map((fact) => ({
+    ...fact,
+    text: compactText(fact.text, 260),
+    context: compactText(fact.context, 260),
+    sourceTitle,
+    sourceUrl,
+    sourceAccessedAt: accessedAt,
+    sourceType: "reference",
+    claimStatus: "current-as-of",
+    currentAsOf: accessedAt,
+    tags: [primaryDomain, fact.storyAngle],
+    verified: true,
+  }));
 
   return {
     id: slug,
@@ -414,33 +500,21 @@ function pantheonRowToPerson(row: PantheonRow, featuredRank: number): PersonReco
     summary: compactText(`${name} is a notable ${occupationLabel.toLowerCase()} associated with ${country}.`, 260),
     knownFor: [
       occupationLabel,
-      `${languageCount} language biography editions`,
-      Number.isFinite(hpi) ? `Historical Popularity Index ${hpi.toFixed(1)}` : "global biographical recognition",
+      country,
+      primaryDomain.replaceAll("-", " "),
     ],
     featured: featuredRank <= targetFeaturedCount,
     featuredRank: featuredRank <= targetFeaturedCount ? featuredRank : undefined,
     imageAlt: `Portrait-style visual for ${name}`,
     sourceRefs: [
       {
-        title: `Pantheon: ${name}`,
+        title: sourceTitle,
         url: sourceUrl,
         accessedAt,
       },
     ],
     reviewStatus: "published",
-    facts: [
-      {
-        id: `${slug}-pantheon-profile`,
-        text: factText,
-        context,
-        sourceTitle: `Pantheon: ${name}`,
-        sourceUrl,
-        sourceAccessedAt: accessedAt,
-        currentAsOf: accessedAt,
-        tags: [primaryDomain, "pantheon"],
-        verified: true,
-      },
-    ],
+    facts: metadataFacts,
   };
 }
 

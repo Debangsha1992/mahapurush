@@ -1,0 +1,46 @@
+{
+  "personId": "mother-teresa",
+  "slug": "mother-teresa",
+  "name": "Mother Teresa",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mother Teresa",
+      "url": "https://pantheon.world/profile/person/Mother_Teresa",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mother-teresa-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mother Teresa is remembered as a social activist connected with North Macedonia."
+    },
+    {
+      "factId": "mother-teresa-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mother Teresa's recorded life dates place this profile around 1910-1997."
+    },
+    {
+      "factId": "mother-teresa-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mother Teresa is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mother-teresa-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mother Teresa's profile connects a short Fact to a wider North Macedonia historical setting."
+    },
+    {
+      "factId": "mother-teresa-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mother Teresa has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

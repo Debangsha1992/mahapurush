@@ -1,0 +1,46 @@
+{
+  "personId": "tagore",
+  "slug": "tagore",
+  "name": "Rabindranath Tagore",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Nobel Prize: Rabindranath Tagore Facts",
+      "url": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "tagore-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Rabindranath Tagore is remembered as a leader connected with Bengal."
+    },
+    {
+      "factId": "tagore-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Rabindranath Tagore's recorded life dates place this profile around 1861-1941."
+    },
+    {
+      "factId": "tagore-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Rabindranath Tagore is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "tagore-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Rabindranath Tagore's profile connects a short Fact to a wider Bengal historical setting."
+    },
+    {
+      "factId": "tagore-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Rabindranath Tagore has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

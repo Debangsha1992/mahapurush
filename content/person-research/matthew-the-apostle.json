@@ -1,0 +1,46 @@
+{
+  "personId": "matthew-the-apostle",
+  "slug": "matthew-the-apostle",
+  "name": "Matthew the Apostle",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Matthew the Apostle",
+      "url": "https://pantheon.world/profile/person/Matthew_the_Apostle",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "matthew-the-apostle-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Matthew the Apostle is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "matthew-the-apostle-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Matthew the Apostle's recorded life dates place this profile around 10-74."
+    },
+    {
+      "factId": "matthew-the-apostle-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Matthew the Apostle is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "matthew-the-apostle-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Matthew the Apostle's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "matthew-the-apostle-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Matthew the Apostle has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

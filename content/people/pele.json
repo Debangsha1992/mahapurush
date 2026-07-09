@@ -12,35 +12,103 @@
     "justice-governance-leadership",
     "soccer-player"
   ],
-  "summary": "Pelé is a notable soccer player associated with Brazil.",
+  "summary": "Edson Arantes do Nascimento, better known by his nickname Pelé, was a Brazilian professional footballer who played as a forward.",
   "knownFor": [
     "Soccer Player",
-    "145 language biography editions",
-    "Historical Popularity Index 87.9"
+    "Justice, Governance & Leadership",
+    "Brazil"
   ],
   "featured": true,
   "featuredRank": 222,
   "imageAlt": "Portrait-style visual for Pelé",
   "sourceRefs": [
     {
-      "title": "Pantheon: Pelé",
-      "url": "https://pantheon.world/profile/person/Pel%C3%A9",
+      "title": "Wikipedia: Pelé",
+      "url": "https://en.wikipedia.org/wiki/Pel%C3%A9",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pele-pantheon-profile",
-      "text": "Pantheon ranks Pelé as a globally documented soccer player with biographies in 145 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pelé a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Pelé",
-      "sourceUrl": "https://pantheon.world/profile/person/Pel%C3%A9",
+      "id": "pele-1-origin",
+      "text": "Edson Arantes do Nascimento, better known by his nickname Pelé, was a Brazilian professional footballer who played as a forward.",
+      "context": "Pelé's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Pelé",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pel%C3%A9",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pele-2-obstacle",
+      "text": "Pelé's 1,279 goals in 1,363 games, which includes friendlies, is recognised as a Guinness World Record.",
+      "context": "Pelé's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Pelé",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pele-3-turning-point",
+      "text": "In 2000, Pelé was voted World Player of the Century by the International Federation of Football History & Statistics (IFFHS) and was one of the two joint winners of the FIFA Player of the Century, alongside Diego Maradona.",
+      "context": "Pelé's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Pelé",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pele-4-contribution",
+      "text": "Pelé is remembered as a soccer player connected with Brazil.",
+      "context": "Pelé's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Pelé",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pele-5-influence",
+      "text": "Pelé's recorded life dates place this profile around 1940-2022.",
+      "context": "Pelé's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Pelé",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

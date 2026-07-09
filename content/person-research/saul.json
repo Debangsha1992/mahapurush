@@ -1,0 +1,47 @@
+{
+  "personId": "saul",
+  "slug": "saul",
+  "name": "Saul",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Saul",
+      "url": "https://en.wikipedia.org/wiki/Saul",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Biblical figure and Israelite monarch"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saul-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Saul was a monarch of ancient Israel and Judah and, according to the Hebrew Bible and Old Testament, the first king of the United Monarchy."
+    },
+    {
+      "factId": "saul-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "tradition",
+      "text": "Saul's reign, traditionally placed in the late eleventh century BC, marked the transition of the Israelites from a scattered tribal society ruled by various judges to organized statehood."
+    },
+    {
+      "factId": "saul-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Saul is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "saul-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Saul's recorded life dates place this profile around -1079--1010."
+    },
+    {
+      "factId": "saul-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Saul is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

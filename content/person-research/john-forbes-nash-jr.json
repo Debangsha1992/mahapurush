@@ -1,0 +1,46 @@
+{
+  "personId": "john-forbes-nash-jr",
+  "slug": "john-forbes-nash-jr",
+  "name": "John Forbes Nash Jr.",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John Forbes Nash Jr.",
+      "url": "https://pantheon.world/profile/person/John_Forbes_Nash_Jr.",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-forbes-nash-jr-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John Forbes Nash Jr. is remembered as a mathematician connected with United States."
+    },
+    {
+      "factId": "john-forbes-nash-jr-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John Forbes Nash Jr.'s recorded life dates place this profile around 1928-2015."
+    },
+    {
+      "factId": "john-forbes-nash-jr-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John Forbes Nash Jr. is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "john-forbes-nash-jr-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John Forbes Nash Jr.'s profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "john-forbes-nash-jr-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John Forbes Nash Jr. has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

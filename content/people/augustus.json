@@ -12,35 +12,104 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Augustus is a notable politician associated with Italy.",
+  "summary": "Augustus, also known as Octavian, was the founder of the Roman Empire and the first Roman emperor from 27 BC until his death in AD 14.",
   "knownFor": [
     "Politician",
-    "206 language biography editions",
-    "Historical Popularity Index 92.0"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 81,
   "imageAlt": "Portrait-style visual for Augustus",
   "sourceRefs": [
     {
-      "title": "Pantheon: Augustus",
-      "url": "https://pantheon.world/profile/person/Augustus",
+      "title": "Wikipedia: Augustus",
+      "url": "https://en.wikipedia.org/wiki/Augustus",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "augustus-pantheon-profile",
-      "text": "Pantheon ranks Augustus as a globally documented politician with biographies in 206 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Augustus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Augustus",
-      "sourceUrl": "https://pantheon.world/profile/person/Augustus",
+      "id": "augustus-1-origin",
+      "text": "Augustus, also known as Octavian, was the founder of the Roman Empire and the first Roman emperor from 27 BC until his death in AD 14.",
+      "context": "Augustus's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Augustus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Augustus",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "augustus-2-obstacle",
+      "text": "The reign of Augustus initiated an imperial cult and an era of imperial peace when the Roman world was largely free of armed conflict.",
+      "context": "Augustus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Augustus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Augustus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "augustus-3-turning-point",
+      "text": "Augustus is remembered as a politician connected with Italy.",
+      "context": "Augustus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Augustus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Augustus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "augustus-4-contribution",
+      "text": "Augustus's recorded life dates place this profile around -63-14.",
+      "context": "Augustus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Augustus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Augustus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "augustus-5-influence",
+      "text": "Augustus is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Augustus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Augustus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Augustus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "pierre-de-coubertin",
+  "slug": "pierre-de-coubertin",
+  "name": "Pierre de Coubertin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pierre de Coubertin",
+      "url": "https://pantheon.world/profile/person/Pierre_de_Coubertin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pierre-de-coubertin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pierre de Coubertin is remembered as a businessperson connected with France."
+    },
+    {
+      "factId": "pierre-de-coubertin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pierre de Coubertin's recorded life dates place this profile around 1863-1937."
+    },
+    {
+      "factId": "pierre-de-coubertin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pierre de Coubertin is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "pierre-de-coubertin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pierre de Coubertin's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "pierre-de-coubertin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pierre de Coubertin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

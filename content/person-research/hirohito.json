@@ -1,0 +1,46 @@
+{
+  "personId": "hirohito",
+  "slug": "hirohito",
+  "name": "Hirohito",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hirohito",
+      "url": "https://pantheon.world/profile/person/Hirohito",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hirohito-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hirohito is remembered as a politician connected with Japan."
+    },
+    {
+      "factId": "hirohito-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hirohito's recorded life dates place this profile around 1901-1989."
+    },
+    {
+      "factId": "hirohito-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hirohito is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "hirohito-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hirohito's profile connects a short Fact to a wider Japan historical setting."
+    },
+    {
+      "factId": "hirohito-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hirohito has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

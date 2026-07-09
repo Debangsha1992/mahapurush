@@ -1,0 +1,46 @@
+{
+  "personId": "philip-iv-of-france",
+  "slug": "philip-iv-of-france",
+  "name": "Philip IV of France",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Philip IV of France",
+      "url": "https://pantheon.world/profile/person/Philip_IV_of_France",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "philip-iv-of-france-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Philip IV of France is remembered as a politician connected with France."
+    },
+    {
+      "factId": "philip-iv-of-france-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Philip IV of France's recorded life dates place this profile around 1268-1314."
+    },
+    {
+      "factId": "philip-iv-of-france-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Philip IV of France is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "philip-iv-of-france-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Philip IV of France's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "philip-iv-of-france-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Philip IV of France has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

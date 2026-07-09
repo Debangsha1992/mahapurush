@@ -1,0 +1,46 @@
+{
+  "personId": "octave-mirbeau",
+  "slug": "octave-mirbeau",
+  "name": "Octave Mirbeau",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Octave Mirbeau",
+      "url": "https://pantheon.world/profile/person/Octave_Mirbeau",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "octave-mirbeau-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Octave Mirbeau is remembered as a writer connected with France."
+    },
+    {
+      "factId": "octave-mirbeau-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Octave Mirbeau's recorded life dates place this profile around 1848-1917."
+    },
+    {
+      "factId": "octave-mirbeau-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Octave Mirbeau is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "octave-mirbeau-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Octave Mirbeau's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "octave-mirbeau-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Octave Mirbeau has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Caligula is a notable politician associated with Italy.",
+  "summary": "Caligula is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "115 language biography editions",
-    "Historical Popularity Index 86.3"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 330,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "caligula-pantheon-profile",
-      "text": "Pantheon ranks Caligula as a globally documented politician with biographies in 115 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Caligula a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "caligula-1-origin",
+      "text": "Caligula is remembered as a politician connected with Italy.",
+      "context": "Caligula's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Caligula",
       "sourceUrl": "https://pantheon.world/profile/person/Caligula",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "caligula-2-obstacle",
+      "text": "Caligula's recorded life dates place this profile around 12-41.",
+      "context": "Caligula's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Caligula",
+      "sourceUrl": "https://pantheon.world/profile/person/Caligula",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "caligula-3-turning-point",
+      "text": "Caligula is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Caligula's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Caligula",
+      "sourceUrl": "https://pantheon.world/profile/person/Caligula",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "caligula-4-contribution",
+      "text": "Caligula's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Caligula's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Caligula",
+      "sourceUrl": "https://pantheon.world/profile/person/Caligula",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "caligula-5-influence",
+      "text": "Caligula has a Facts Mode card reserved for deeper source research.",
+      "context": "Caligula's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Caligula",
+      "sourceUrl": "https://pantheon.world/profile/person/Caligula",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

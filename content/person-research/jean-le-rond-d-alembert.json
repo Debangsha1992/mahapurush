@@ -1,0 +1,46 @@
+{
+  "personId": "jean-le-rond-d-alembert",
+  "slug": "jean-le-rond-d-alembert",
+  "name": "Jean le Rond d'Alembert",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jean le Rond d'Alembert",
+      "url": "https://pantheon.world/profile/person/Jean_le_Rond_d'Alembert",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jean-le-rond-d-alembert-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jean le Rond d'Alembert is remembered as a mathematician connected with France."
+    },
+    {
+      "factId": "jean-le-rond-d-alembert-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jean le Rond d'Alembert's recorded life dates place this profile around 1717-1783."
+    },
+    {
+      "factId": "jean-le-rond-d-alembert-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jean le Rond d'Alembert is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "jean-le-rond-d-alembert-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jean le Rond d'Alembert's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "jean-le-rond-d-alembert-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jean le Rond d'Alembert has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

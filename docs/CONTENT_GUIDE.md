@@ -2,20 +2,20 @@
 
 ## 1. Purpose
 
-MindSpark content should help teenagers practice thinking, not memorize facts. Every lesson must introduce a thinker, explain one powerful idea, connect it to a modern teenage situation, and ask the student to apply it.
+MindSpark content should help modern learners practice thinking, not memorize facts. Every lesson must introduce a thinker, explain one powerful idea, connect it to a present-day situation, and ask the reader to apply it.
 
 The content should feel smart, clear, and alive. It should never feel like a school textbook, a moral lecture, or a quote collection.
 
 ## 2. Audience
 
-Primary audience: students aged 15-18.
+Primary audience: curious people across life stages who want sharper ways to think about modern life.
 
 Assume the reader:
 
 - Can handle complex ideas when explained clearly.
 - Dislikes being talked down to.
-- Responds to stories, dilemmas, identity, fairness, ambition, friendship, fear, technology, and purpose.
-- Needs abstract ideas translated into everyday situations.
+- Responds to stories, dilemmas, identity, fairness, ambition, family, work, civic pressure, technology, and purpose.
+- Needs abstract ideas translated into concrete situations from modern life.
 - Benefits from intellectual tension instead of simple moral answers.
 
 ## 3. Editorial Promise
@@ -44,7 +44,7 @@ The voice should not be:
 - Overly inspirational.
 - Politically simplistic.
 - Quote-first.
-- Exam-focused.
+- Credential-focused.
 
 Bad:
 
@@ -72,7 +72,7 @@ Every lesson must include 8 blocks.
 | Human Story | Make the thinker real | Read or listen |
 | Big Idea | Explain one idea clearly | Understand |
 | Thinking Tool | Give a reusable mental method | Apply |
-| Modern Test | Place the idea in a teen scenario | Choose, rank, or decide |
+| Modern Test | Place the idea in a modern scenario | Choose, rank, or decide |
 | Reflection Challenge | Make the idea personal | Write or speak |
 | Thought Tension | Show a counter-view | Respond |
 | Reward | Reinforce growth | Unlock skill, XP, badge, quote |
@@ -85,8 +85,8 @@ A lesson is not ready unless it answers all 7 questions:
 2. What problem did they care about?
 3. What was their big idea?
 4. Why was the idea dangerous, unusual, or powerful?
-5. How does it apply to a teenager today?
-6. What question should the student ask themselves?
+5. How does it apply to someone living with modern technology, work, and civic pressure?
+6. What question should the reader ask themselves?
 7. What action or challenge should they do?
 
 Use this as the final editorial checklist before shipping content.
@@ -186,7 +186,7 @@ Better:
 
 ### Thinking Tool
 
-The Thinking Tool turns the idea into a method the student can use.
+The Thinking Tool turns the idea into a method the reader can use.
 
 Examples:
 
@@ -201,29 +201,26 @@ Examples:
 
 ### Modern Test
 
-The Modern Test should use teenage situations. It should not be a history quiz.
+The Modern Test should use modern situations that can speak across ages. It should not be a history quiz.
 
 Good topics:
 
-- Social media pressure.
-- Online bullying.
-- AI and homework.
-- Exam competition.
-- Friendship conflict.
-- Family expectations.
-- Climate anxiety.
-- Body image.
-- Career pressure.
-- Money and success.
-- Religion and identity.
-- Technology addiction.
-- Cancel culture.
+- Social media pile-ons and online reputation.
+- AI at work, including drafting, evaluation, and credit.
+- Workplace fairness and hidden advantages.
+- Family and caregiving expectations.
+- Civic speech and public pressure.
+- Climate and consumption choices.
+- Money, status, and success metrics.
+- Midlife purpose and career change.
+- Technology addiction and attention.
+- Religion, identity, and belonging in plural societies.
 
 The best scenarios have no easy answer.
 
 ### Reflection Challenge
 
-The reflection prompt should ask the student to apply the idea personally.
+The reflection prompt should ask the reader to apply the idea personally.
 
 Good:
 
@@ -231,7 +228,7 @@ Good:
 
 Good:
 
-> Describe one rule in your school or family that looks fair on the surface but may not be fair underneath.
+> Describe one rule in your workplace, community, or family that looks fair on the surface but may not be fair underneath.
 
 Avoid:
 
@@ -247,7 +244,7 @@ Example:
 
 > But if everyone questions every rule all the time, can a society function?
 
-The student should be asked to respond, revise, or defend their view.
+The reader should be asked to respond, revise, or defend their view.
 
 ### Reward
 
@@ -300,7 +297,7 @@ Deep Dive is reserved for later. Do not let it slow MVP content.
 A scenario should be:
 
 - Specific.
-- Familiar to teenagers.
+- Familiar to people navigating modern technology, work, family, and civic life.
 - Emotionally realistic.
 - Open to more than one view.
 - Connected to the thinker's idea.
@@ -311,7 +308,7 @@ Bad:
 
 Better:
 
-> Your school says everyone has equal opportunity. Some students have tutors, laptops, quiet rooms, and private coaching. Others do not. Is the competition still fair?
+> A company says hiring is merit-based. Some candidates had unpaid internships, quiet home offices, and coaching; others worked night shifts and applied from shared phones. Is the competition still fair?
 
 Bad:
 
@@ -319,7 +316,7 @@ Bad:
 
 Better:
 
-> Your friends are mocking someone online. You know it is cruel, but speaking up may make you the next target. What would courage look like here?
+> A group chat at work is circulating a mocking clip of a colleague. People say it is just a joke and you should lighten up. What would courage look like here?
 
 ## 11. Quiz and Choice Design
 
@@ -354,7 +351,7 @@ Rules:
 - Use precise historical language.
 - Explain context without overwhelming the lesson.
 - Include Thought Tension when the topic has serious disagreement.
-- Do not ask students to disclose traumatic personal experiences.
+- Do not ask readers to disclose traumatic personal experiences.
 - Prefer reflection prompts that allow distance, such as observing a system, rule, or idea.
 
 Editorial review should be required before publishing sensitive lessons.
@@ -457,11 +454,11 @@ Before publishing a lesson, confirm:
 - The lesson has one central idea, not many.
 - The hook creates curiosity.
 - The story shows the thinker as human.
-- The modern scenario feels relevant to ages 15-18.
+- The modern scenario feels relevant across life stages, not only to a school-age audience.
 - The reflection prompt asks for real thinking.
 - Thought Tension presents a serious counter-view.
 - The reward maps to a relevant skill.
-- No answer shames the student.
+- No answer shames the reader.
 - Sensitive topics are handled carefully.
 - Language is clear and not academic.
 - Reading time fits the chosen layer.
@@ -495,7 +492,7 @@ Thinking Tool:
 
 Modern Test:
 
-> Your school says everyone has equal opportunity. Some students can afford tutors, laptops, quiet rooms, and private coaching. Others cannot. Is the competition still fair?
+> A company says hiring is merit-based. Some candidates had unpaid internships, quiet home offices, and coaching. Others worked night shifts and applied from shared phones. Is the competition still fair?
 
 Reflection Challenge:
 
@@ -503,7 +500,7 @@ Reflection Challenge:
 
 Thought Tension:
 
-> But if everyone takes the same exam under the same rules, is that not fairness? Explain where you agree or disagree.
+> But if everyone goes through the same hiring process, is that not fairness? Explain where you agree or disagree.
 
 Reward:
 

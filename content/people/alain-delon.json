@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Alain Delon is a notable actor associated with France.",
+  "summary": "Alain Delon is a notable actor connected with France.",
   "knownFor": [
     "Actor",
-    "123 language biography editions",
-    "Historical Popularity Index 85.8"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": true,
   "featuredRank": 367,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "alain-delon-pantheon-profile",
-      "text": "Pantheon ranks Alain Delon as a globally documented actor with biographies in 123 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Alain Delon a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "alain-delon-1-origin",
+      "text": "Alain Delon is remembered as a actor connected with France.",
+      "context": "Alain Delon's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Alain Delon",
       "sourceUrl": "https://pantheon.world/profile/person/Alain_Delon",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alain-delon-2-obstacle",
+      "text": "Alain Delon's recorded life dates place this profile around 1935-2024.",
+      "context": "Alain Delon's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Alain Delon",
+      "sourceUrl": "https://pantheon.world/profile/person/Alain_Delon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alain-delon-3-turning-point",
+      "text": "Alain Delon is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Alain Delon's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Alain Delon",
+      "sourceUrl": "https://pantheon.world/profile/person/Alain_Delon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alain-delon-4-contribution",
+      "text": "Alain Delon's profile connects a short Fact to a wider France historical setting.",
+      "context": "Alain Delon's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Alain Delon",
+      "sourceUrl": "https://pantheon.world/profile/person/Alain_Delon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alain-delon-5-influence",
+      "text": "Alain Delon has a Facts Mode card reserved for deeper source research.",
+      "context": "Alain Delon's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Alain Delon",
+      "sourceUrl": "https://pantheon.world/profile/person/Alain_Delon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

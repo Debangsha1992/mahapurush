@@ -1,0 +1,46 @@
+{
+  "personId": "henry-ford",
+  "slug": "henry-ford",
+  "name": "Henry Ford",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Henry Ford",
+      "url": "https://pantheon.world/profile/person/Henry_Ford",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "henry-ford-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Henry Ford is remembered as a inventor connected with United States."
+    },
+    {
+      "factId": "henry-ford-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Henry Ford's recorded life dates place this profile around 1863-1947."
+    },
+    {
+      "factId": "henry-ford-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Henry Ford is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "henry-ford-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Henry Ford's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "henry-ford-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Henry Ford has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

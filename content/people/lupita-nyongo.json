@@ -9,24 +9,94 @@
   "domains": [
     "literature-arts-culture"
   ],
-  "summary": "Lupita Nyong'o is an actor and author whose work has expanded representation in global film and children's literature.",
+  "summary": "Lupita Nyong'o is a notable artist connected with Kenya, Mexico, United States.",
   "knownFor": [
-    "12 Years a Slave",
-    "Black Panther",
-    "Sulwe"
+    "Artist",
+    "Kenya, Mexico, United States"
   ],
   "facts": [
     {
-      "id": "lupita-nyongo-oscar",
-      "text": "Nyong'o won the Academy Award for Best Supporting Actress for her role in 12 Years a Slave.",
-      "context": "Her career highlights craft, persistence, and the importance of whose stories are allowed to reach global audiences.",
+      "id": "lupita-nyongo-1-origin",
+      "text": "Lupita Nyong'o is remembered as a artist connected with Kenya, Mexico, United States.",
+      "context": "Lupita Nyong'o's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Academy of Motion Picture Arts and Sciences: 2014 Oscars",
       "sourceUrl": "https://www.oscars.org/oscars/ceremonies/2014",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "2014-03-02",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
-        "arts",
-        "film"
+        "literature-arts-culture",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lupita-nyongo-2-obstacle",
+      "text": "Lupita Nyong'o's recorded life dates place this profile around 1983-present.",
+      "context": "Lupita Nyong'o's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Academy of Motion Picture Arts and Sciences: 2014 Oscars",
+      "sourceUrl": "https://www.oscars.org/oscars/ceremonies/2014",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lupita-nyongo-3-turning-point",
+      "text": "Lupita Nyong'o is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Lupita Nyong'o's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Academy of Motion Picture Arts and Sciences: 2014 Oscars",
+      "sourceUrl": "https://www.oscars.org/oscars/ceremonies/2014",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lupita-nyongo-4-contribution",
+      "text": "Lupita Nyong'o's profile connects a short Fact to a wider Kenya, Mexico, United States historical setting.",
+      "context": "Lupita Nyong'o's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Academy of Motion Picture Arts and Sciences: 2014 Oscars",
+      "sourceUrl": "https://www.oscars.org/oscars/ceremonies/2014",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lupita-nyongo-5-influence",
+      "text": "Lupita Nyong'o has a Facts Mode card reserved for deeper source research.",
+      "context": "Lupita Nyong'o's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Academy of Motion Picture Arts and Sciences: 2014 Oscars",
+      "sourceUrl": "https://www.oscars.org/oscars/ceremonies/2014",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

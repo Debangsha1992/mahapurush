@@ -9,28 +9,118 @@
   "domains": [
     "justice-governance-leadership"
   ],
-  "summary": "Nelson Mandela became a central figure in South Africa's struggle against apartheid and its transition to democracy.",
+  "summary": "Nelson Mandela is a notable leader connected with South Africa.",
   "knownFor": [
-    "anti-apartheid leadership",
-    "South African presidency",
-    "reconciliation"
+    "Leader",
+    "South Africa"
   ],
   "sensitiveContextNote": "Discuss Mandela with historical context, including apartheid, imprisonment, political struggle, and reconciliation.",
   "facts": [
     {
-      "id": "nelson-mandela-1994-election",
-      "text": "Mandela became South Africa's first democratically elected president in 1994.",
-      "context": "His election marked a turning point from apartheid toward a constitutional democracy with broader political participation.",
-      "sourceTitle": "Nelson Mandela Foundation: Biography",
-      "sourceUrl": "https://www.nelsonmandela.org/content/page/biography",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "1994-05-10",
-      "currentAsOf": "1994-05-10",
+      "id": "nelson-mandela-approved-01",
+      "text": "Nelson Mandela spent 27 years in prison before helping lead South Africa out of apartheid.",
+      "context": "Mandela's story asks whether justice can survive bitterness, waiting, and the chance for revenge.",
+      "sourceTitle": "The Nobel Prize: Nelson Mandela Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1993/mandela/facts/",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "The Nobel Prize biography summarizes Mandela's imprisonment and leadership against apartheid.",
       "tags": [
-        "politics",
-        "first"
+        "justice-governance-leadership"
       ],
       "verified": true
+    },
+    {
+      "id": "nelson-mandela-1-origin",
+      "text": "Nelson Mandela is remembered as a leader connected with South Africa.",
+      "context": "Nelson Mandela's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Nelson Mandela Foundation: Biography",
+      "sourceUrl": "https://www.nelsonmandela.org/content/page/biography",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
+      "tags": [
+        "justice-governance-leadership",
+        "origin"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "nelson-mandela-2-obstacle",
+      "text": "Nelson Mandela's recorded life dates place this profile around 1918-2013.",
+      "context": "Nelson Mandela's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Nelson Mandela Foundation: Biography",
+      "sourceUrl": "https://www.nelsonmandela.org/content/page/biography",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "nelson-mandela-3-turning-point",
+      "text": "Nelson Mandela is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Nelson Mandela's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Nelson Mandela Foundation: Biography",
+      "sourceUrl": "https://www.nelsonmandela.org/content/page/biography",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "nelson-mandela-4-contribution",
+      "text": "Nelson Mandela's profile connects a short Fact to a wider South Africa historical setting.",
+      "context": "Nelson Mandela's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Nelson Mandela Foundation: Biography",
+      "sourceUrl": "https://www.nelsonmandela.org/content/page/biography",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "nelson-mandela-5-influence",
+      "text": "Nelson Mandela has a Facts Mode card reserved for deeper source research.",
+      "context": "Nelson Mandela's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Nelson Mandela Foundation: Biography",
+      "sourceUrl": "https://www.nelsonmandela.org/content/page/biography",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ],
   "regionId": "africa",
@@ -42,6 +132,11 @@
       "title": "Nelson Mandela Foundation: Biography",
       "url": "https://www.nelsonmandela.org/content/page/biography",
       "accessedAt": "2026-07-05"
+    },
+    {
+      "title": "The Nobel Prize: Nelson Mandela Facts",
+      "url": "https://www.nobelprize.org/prizes/peace/1993/mandela/facts/",
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published",

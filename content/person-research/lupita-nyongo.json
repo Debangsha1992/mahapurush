@@ -1,0 +1,46 @@
+{
+  "personId": "lupita-nyongo",
+  "slug": "lupita-nyongo",
+  "name": "Lupita Nyong'o",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Academy of Motion Picture Arts and Sciences: 2014 Oscars",
+      "url": "https://www.oscars.org/oscars/ceremonies/2014",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lupita-nyongo-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Lupita Nyong'o is remembered as a artist connected with Kenya, Mexico, United States."
+    },
+    {
+      "factId": "lupita-nyongo-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Lupita Nyong'o's recorded life dates place this profile around 1983-present."
+    },
+    {
+      "factId": "lupita-nyongo-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Lupita Nyong'o is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "lupita-nyongo-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lupita Nyong'o's profile connects a short Fact to a wider Kenya, Mexico, United States historical setting."
+    },
+    {
+      "factId": "lupita-nyongo-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lupita Nyong'o has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -17,7 +17,7 @@
         "instruction": "When you feel anger, envy, or panic, ask what desire or fear is driving the reaction."
       },
       "modernTest": {
-        "scenario": "You see a friend post a perfect vacation photo while you are stuck studying.",
+        "scenario": "You see someone post a perfect career update while you are exhausted by ordinary responsibilities.",
         "question": "What would Buddha notice first?",
         "options": [
           {
@@ -56,7 +56,7 @@
         "instruction": "When you feel anger, envy, or panic, ask what desire or fear is driving the reaction."
       },
       "modernTest": {
-        "scenario": "You scroll social media and feel worse about your own life after every post.",
+        "scenario": "You scroll through updates about careers, homes, vacations, and families, then feel worse about your own life after every post.",
         "question": "What would Buddha ask you to notice?",
         "options": [
           {

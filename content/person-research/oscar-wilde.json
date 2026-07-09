@@ -1,0 +1,46 @@
+{
+  "personId": "oscar-wilde",
+  "slug": "oscar-wilde",
+  "name": "Oscar Wilde",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Oscar Wilde",
+      "url": "https://pantheon.world/profile/person/Oscar_Wilde",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "oscar-wilde-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Oscar Wilde is remembered as a writer connected with Ireland."
+    },
+    {
+      "factId": "oscar-wilde-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Oscar Wilde's recorded life dates place this profile around 1854-1900."
+    },
+    {
+      "factId": "oscar-wilde-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Oscar Wilde is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "oscar-wilde-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Oscar Wilde's profile connects a short Fact to a wider Ireland historical setting."
+    },
+    {
+      "factId": "oscar-wilde-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Oscar Wilde has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "brutus-the-younger",
+  "slug": "brutus-the-younger",
+  "name": "Brutus the Younger",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Brutus the Younger",
+      "url": "https://pantheon.world/profile/person/Brutus_the_Younger",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "brutus-the-younger-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Brutus the Younger is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "brutus-the-younger-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Brutus the Younger's recorded life dates place this profile around -85--42."
+    },
+    {
+      "factId": "brutus-the-younger-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Brutus the Younger is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "brutus-the-younger-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Brutus the Younger's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "brutus-the-younger-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Brutus the Younger has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

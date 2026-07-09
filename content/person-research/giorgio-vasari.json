@@ -1,0 +1,46 @@
+{
+  "personId": "giorgio-vasari",
+  "slug": "giorgio-vasari",
+  "name": "Giorgio Vasari",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Giorgio Vasari",
+      "url": "https://pantheon.world/profile/person/Giorgio_Vasari",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "giorgio-vasari-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Giorgio Vasari is remembered as a writer connected with Italy."
+    },
+    {
+      "factId": "giorgio-vasari-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Giorgio Vasari's recorded life dates place this profile around 1511-1574."
+    },
+    {
+      "factId": "giorgio-vasari-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Giorgio Vasari is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "giorgio-vasari-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Giorgio Vasari's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "giorgio-vasari-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Giorgio Vasari has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

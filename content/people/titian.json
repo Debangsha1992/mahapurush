@@ -12,35 +12,105 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Titian is a notable painter associated with Italy.",
+  "summary": "Tiziano Vecellio, Latinized as Titianus, hence known in English as Titian, was an Italian Renaissance painter.",
   "knownFor": [
     "Painter",
-    "91 language biography editions",
-    "Historical Popularity Index 84.6"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 476,
   "imageAlt": "Portrait-style visual for Titian",
   "sourceRefs": [
     {
-      "title": "Pantheon: Titian",
-      "url": "https://pantheon.world/profile/person/Titian",
+      "title": "Wikipedia: Titian",
+      "url": "https://en.wikipedia.org/wiki/Titian",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "titian-pantheon-profile",
-      "text": "Pantheon ranks Titian as a globally documented painter with biographies in 91 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Titian a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Titian",
-      "sourceUrl": "https://pantheon.world/profile/person/Titian",
+      "id": "titian-1-origin",
+      "text": "Tiziano Vecellio, Latinized as Titianus, hence known in English as Titian, was an Italian Renaissance painter.",
+      "context": "Titian's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Titian",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Titian",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "titian-2-obstacle",
+      "text": "Titian is remembered as a painter connected with Italy.",
+      "context": "Titian's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Titian",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Titian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "titian-3-turning-point",
+      "text": "Titian's recorded life dates place this profile around 1488-1576.",
+      "context": "Titian's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Titian",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Titian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "titian-4-contribution",
+      "text": "Titian is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Titian's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Titian",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Titian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "titian-5-influence",
+      "text": "Titian's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Titian's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Titian",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Titian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

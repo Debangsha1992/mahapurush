@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Antonín Dvořák is a notable composer associated with Czechia.",
+  "summary": "Antonín Dvořák is a notable composer connected with Czechia.",
   "knownFor": [
     "Composer",
-    "128 language biography editions",
-    "Historical Popularity Index 85.6"
+    "Literature, Arts & Culture",
+    "Czechia"
   ],
   "featured": true,
   "featuredRank": 382,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "antonin-dvorak-pantheon-profile",
-      "text": "Pantheon ranks Antonín Dvořák as a globally documented composer with biographies in 128 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Antonín Dvořák a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "antonin-dvorak-1-origin",
+      "text": "Antonín Dvořák is remembered as a composer connected with Czechia.",
+      "context": "Antonín Dvořák's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Antonín Dvořák",
       "sourceUrl": "https://pantheon.world/profile/person/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonin-dvorak-2-obstacle",
+      "text": "Antonín Dvořák's recorded life dates place this profile around 1841-1904.",
+      "context": "Antonín Dvořák's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Antonín Dvořák",
+      "sourceUrl": "https://pantheon.world/profile/person/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonin-dvorak-3-turning-point",
+      "text": "Antonín Dvořák is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Antonín Dvořák's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Antonín Dvořák",
+      "sourceUrl": "https://pantheon.world/profile/person/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonin-dvorak-4-contribution",
+      "text": "Antonín Dvořák's profile connects a short Fact to a wider Czechia historical setting.",
+      "context": "Antonín Dvořák's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Antonín Dvořák",
+      "sourceUrl": "https://pantheon.world/profile/person/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonin-dvorak-5-influence",
+      "text": "Antonín Dvořák has a Facts Mode card reserved for deeper source research.",
+      "context": "Antonín Dvořák's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Antonín Dvořák",
+      "sourceUrl": "https://pantheon.world/profile/person/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

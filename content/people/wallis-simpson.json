@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "celebrity"
   ],
-  "summary": "Wallis Simpson is a notable celebrity associated with United States.",
+  "summary": "Wallis Simpson is a notable celebrity connected with United States.",
   "knownFor": [
     "Celebrity",
-    "60 language biography editions",
-    "Historical Popularity Index 83.2"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Wallis Simpson",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "wallis-simpson-pantheon-profile",
-      "text": "Pantheon ranks Wallis Simpson as a globally documented celebrity with biographies in 60 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Wallis Simpson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "wallis-simpson-1-origin",
+      "text": "Wallis Simpson is remembered as a celebrity connected with United States.",
+      "context": "Wallis Simpson's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Wallis Simpson",
       "sourceUrl": "https://pantheon.world/profile/person/Wallis_Simpson",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wallis-simpson-2-obstacle",
+      "text": "Wallis Simpson's recorded life dates place this profile around 1896-1986.",
+      "context": "Wallis Simpson's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Wallis Simpson",
+      "sourceUrl": "https://pantheon.world/profile/person/Wallis_Simpson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wallis-simpson-3-turning-point",
+      "text": "Wallis Simpson is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Wallis Simpson's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Wallis Simpson",
+      "sourceUrl": "https://pantheon.world/profile/person/Wallis_Simpson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wallis-simpson-4-contribution",
+      "text": "Wallis Simpson's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Wallis Simpson's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Wallis Simpson",
+      "sourceUrl": "https://pantheon.world/profile/person/Wallis_Simpson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wallis-simpson-5-influence",
+      "text": "Wallis Simpson has a Facts Mode card reserved for deeper source research.",
+      "context": "Wallis Simpson's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Wallis Simpson",
+      "sourceUrl": "https://pantheon.world/profile/person/Wallis_Simpson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

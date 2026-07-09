@@ -1,0 +1,46 @@
+{
+  "personId": "anne-princess-royal",
+  "slug": "anne-princess-royal",
+  "name": "Anne, Princess Royal",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anne, Princess Royal",
+      "url": "https://pantheon.world/profile/person/Anne%2C_Princess_Royal",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anne-princess-royal-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anne, Princess Royal is remembered as a nobleman connected with United Kingdom."
+    },
+    {
+      "factId": "anne-princess-royal-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anne, Princess Royal's recorded life dates place this profile around born 1950."
+    },
+    {
+      "factId": "anne-princess-royal-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anne, Princess Royal is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "anne-princess-royal-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anne, Princess Royal's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "anne-princess-royal-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anne, Princess Royal has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "thomas-aquinas",
+  "slug": "thomas-aquinas",
+  "name": "Thomas Aquinas",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Thomas Aquinas",
+      "url": "https://pantheon.world/profile/person/Thomas_Aquinas",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "thomas-aquinas-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Aquinas is remembered as a philosopher connected with Italy."
+    },
+    {
+      "factId": "thomas-aquinas-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Aquinas's recorded life dates place this profile around 1225-1274."
+    },
+    {
+      "factId": "thomas-aquinas-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Aquinas is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "thomas-aquinas-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Aquinas's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "thomas-aquinas-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Aquinas has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -9,24 +9,92 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Tu Youyou helped discover artemisinin, a malaria treatment that has saved many lives.",
+  "summary": "Tu Youyou is a Nobel Prize-winning Chinese malariologist and pharmaceutical chemist.",
   "knownFor": [
-    "artemisinin",
-    "malaria treatment",
-    "Nobel Prize in Physiology or Medicine"
+    "Scientist",
+    "China"
   ],
   "facts": [
     {
-      "id": "tu-youyou-artemisinin",
-      "text": "Tu Youyou received the 2015 Nobel Prize in Physiology or Medicine for discoveries concerning artemisinin, a therapy for malaria.",
-      "context": "Her work shows how medical progress can emerge from combining careful research with knowledge from older traditions.",
-      "sourceTitle": "Nobel Prize: Tu Youyou Facts",
-      "sourceUrl": "https://www.nobelprize.org/prizes/medicine/2015/tu/facts/",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "2015-10-05",
+      "id": "tu-youyou-1-origin",
+      "text": "Tu Youyou is a Nobel Prize-winning Chinese malariologist and pharmaceutical chemist.",
+      "context": "Tu Youyou's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Tu Youyou",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tu_Youyou",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
-        "medicine",
-        "science"
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tu-youyou-2-obstacle",
+      "text": "Tu Youyou discovered artemisinin and dihydroartemisinin, used to treat malaria, a breakthrough in twentieth-century tropical medicine, saving millions of lives in South China, Southeast Asia, Africa, and South America.",
+      "context": "Tu Youyou's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Tu Youyou",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tu_Youyou",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tu-youyou-3-turning-point",
+      "text": "Tu Youyou is remembered as a scientist connected with China.",
+      "context": "Tu Youyou's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Tu Youyou",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tu_Youyou",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tu-youyou-4-contribution",
+      "text": "Tu Youyou's recorded life dates place this profile around 1930-present.",
+      "context": "Tu Youyou's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Tu Youyou",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tu_Youyou",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tu-youyou-5-influence",
+      "text": "Tu Youyou is grouped with Science, Math & Technology in the People Library.",
+      "context": "Tu Youyou's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Tu Youyou",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tu_Youyou",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }
@@ -37,9 +105,9 @@
   "imageAlt": "Portrait-style visual for Tu Youyou",
   "sourceRefs": [
     {
-      "title": "Nobel Prize: Tu Youyou Facts",
-      "url": "https://www.nobelprize.org/prizes/medicine/2015/tu/facts/",
-      "accessedAt": "2026-07-05"
+      "title": "Wikipedia: Tu Youyou",
+      "url": "https://en.wikipedia.org/wiki/Tu_Youyou",
+      "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",

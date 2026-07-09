@@ -1,0 +1,46 @@
+{
+  "personId": "grace-kelly",
+  "slug": "grace-kelly",
+  "name": "Grace Kelly",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Grace Kelly",
+      "url": "https://pantheon.world/profile/person/Grace_Kelly",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "grace-kelly-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Grace Kelly is remembered as a actor connected with United States."
+    },
+    {
+      "factId": "grace-kelly-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Grace Kelly's recorded life dates place this profile around 1929-1982."
+    },
+    {
+      "factId": "grace-kelly-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Grace Kelly is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "grace-kelly-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Grace Kelly's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "grace-kelly-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Grace Kelly has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

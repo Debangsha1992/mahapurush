@@ -1,0 +1,46 @@
+{
+  "personId": "omar-khayyam",
+  "slug": "omar-khayyam",
+  "name": "Omar Khayyam",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Omar Khayyam",
+      "url": "https://pantheon.world/profile/person/Omar_Khayyam",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "omar-khayyam-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Omar Khayyam is remembered as a mathematician connected with Iran."
+    },
+    {
+      "factId": "omar-khayyam-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Omar Khayyam's recorded life dates place this profile around 1048-1131."
+    },
+    {
+      "factId": "omar-khayyam-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Omar Khayyam is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "omar-khayyam-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Omar Khayyam's profile connects a short Fact to a wider Iran historical setting."
+    },
+    {
+      "factId": "omar-khayyam-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Omar Khayyam has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

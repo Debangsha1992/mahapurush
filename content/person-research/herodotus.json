@@ -1,0 +1,46 @@
+{
+  "personId": "herodotus",
+  "slug": "herodotus",
+  "name": "Herodotus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Herodotus",
+      "url": "https://pantheon.world/profile/person/Herodotus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "herodotus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Herodotus is remembered as a historian connected with Türkiye."
+    },
+    {
+      "factId": "herodotus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Herodotus's recorded life dates place this profile around -484--425."
+    },
+    {
+      "factId": "herodotus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Herodotus is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "herodotus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Herodotus's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "herodotus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Herodotus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

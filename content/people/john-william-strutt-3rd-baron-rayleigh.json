@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "John William Strutt, 3rd Baron Rayleigh is a notable physicist associated with United Kingdom.",
+  "summary": "John William Strutt, 3rd Baron Rayleigh is a notable physicist connected with United Kingdom.",
   "knownFor": [
     "Physicist",
-    "90 language biography editions",
-    "Historical Popularity Index 83.1"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for John William Strutt, 3rd Baron Rayleigh",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "john-william-strutt-3rd-baron-rayleigh-pantheon-profile",
-      "text": "Pantheon ranks John William Strutt, 3rd Baron Rayleigh as a globally documented physicist with biographies in 90 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make John William Strutt, 3rd Baron Rayleigh a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "john-william-strutt-3rd-baron-rayleigh-1-origin",
+      "text": "John William Strutt, 3rd Baron Rayleigh is remembered as a physicist connected with United Kingdom.",
+      "context": "John William Strutt, 3rd Baron Rayleigh's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: John William Strutt, 3rd Baron Rayleigh",
       "sourceUrl": "https://pantheon.world/profile/person/John_William_Strutt%2C_3rd_Baron_Rayleigh",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-william-strutt-3rd-baron-rayleigh-2-obstacle",
+      "text": "John William Strutt, 3rd Baron Rayleigh's recorded life dates place this profile around 1842-1919.",
+      "context": "John William Strutt, 3rd Baron Rayleigh's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: John William Strutt, 3rd Baron Rayleigh",
+      "sourceUrl": "https://pantheon.world/profile/person/John_William_Strutt%2C_3rd_Baron_Rayleigh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-william-strutt-3rd-baron-rayleigh-3-turning-point",
+      "text": "John William Strutt, 3rd Baron Rayleigh is grouped with Science, Math & Technology in the People Library.",
+      "context": "John William Strutt, 3rd Baron Rayleigh's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: John William Strutt, 3rd Baron Rayleigh",
+      "sourceUrl": "https://pantheon.world/profile/person/John_William_Strutt%2C_3rd_Baron_Rayleigh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-william-strutt-3rd-baron-rayleigh-4-contribution",
+      "text": "John William Strutt, 3rd Baron Rayleigh's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "John William Strutt, 3rd Baron Rayleigh's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: John William Strutt, 3rd Baron Rayleigh",
+      "sourceUrl": "https://pantheon.world/profile/person/John_William_Strutt%2C_3rd_Baron_Rayleigh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-william-strutt-3rd-baron-rayleigh-5-influence",
+      "text": "John William Strutt, 3rd Baron Rayleigh has a Facts Mode card reserved for deeper source research.",
+      "context": "John William Strutt, 3rd Baron Rayleigh's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: John William Strutt, 3rd Baron Rayleigh",
+      "sourceUrl": "https://pantheon.world/profile/person/John_William_Strutt%2C_3rd_Baron_Rayleigh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

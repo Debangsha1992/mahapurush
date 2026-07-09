@@ -1,0 +1,46 @@
+{
+  "personId": "john-locke",
+  "slug": "john-locke",
+  "name": "John Locke",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John Locke",
+      "url": "https://pantheon.world/profile/person/John_Locke",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-locke-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John Locke is remembered as a philosopher connected with United Kingdom."
+    },
+    {
+      "factId": "john-locke-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John Locke's recorded life dates place this profile around 1632-1704."
+    },
+    {
+      "factId": "john-locke-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John Locke is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "john-locke-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John Locke's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "john-locke-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John Locke has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

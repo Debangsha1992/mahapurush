@@ -1,0 +1,46 @@
+{
+  "personId": "grigori-rasputin",
+  "slug": "grigori-rasputin",
+  "name": "Grigori Rasputin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Grigori Rasputin",
+      "url": "https://pantheon.world/profile/person/Grigori_Rasputin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "grigori-rasputin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Grigori Rasputin is remembered as a occultist connected with Russia."
+    },
+    {
+      "factId": "grigori-rasputin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Grigori Rasputin's recorded life dates place this profile around 1869-1916."
+    },
+    {
+      "factId": "grigori-rasputin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Grigori Rasputin is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "grigori-rasputin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Grigori Rasputin's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "grigori-rasputin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Grigori Rasputin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "alfred-hitchcock",
+  "slug": "alfred-hitchcock",
+  "name": "Alfred Hitchcock",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alfred Hitchcock",
+      "url": "https://pantheon.world/profile/person/Alfred_Hitchcock",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alfred-hitchcock-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alfred Hitchcock is remembered as a film director connected with United Kingdom."
+    },
+    {
+      "factId": "alfred-hitchcock-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alfred Hitchcock's recorded life dates place this profile around 1899-1980."
+    },
+    {
+      "factId": "alfred-hitchcock-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alfred Hitchcock is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "alfred-hitchcock-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alfred Hitchcock's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "alfred-hitchcock-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alfred Hitchcock has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

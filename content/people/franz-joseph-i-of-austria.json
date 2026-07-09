@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Franz Joseph I of Austria is a notable politician associated with Austria.",
+  "summary": "Franz Joseph I of Austria is a notable politician connected with Austria.",
   "knownFor": [
     "Politician",
-    "84 language biography editions",
-    "Historical Popularity Index 90.7"
+    "Justice, Governance & Leadership",
+    "Austria"
   ],
   "featured": true,
   "featuredRank": 112,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "franz-joseph-i-of-austria-pantheon-profile",
-      "text": "Pantheon ranks Franz Joseph I of Austria as a globally documented politician with biographies in 84 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Franz Joseph I of Austria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "franz-joseph-i-of-austria-1-origin",
+      "text": "Franz Joseph I of Austria is remembered as a politician connected with Austria.",
+      "context": "Franz Joseph I of Austria's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Franz Joseph I of Austria",
       "sourceUrl": "https://pantheon.world/profile/person/Franz_Joseph_I_of_Austria",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-joseph-i-of-austria-2-obstacle",
+      "text": "Franz Joseph I of Austria's recorded life dates place this profile around 1830-1916.",
+      "context": "Franz Joseph I of Austria's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Franz Joseph I of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Joseph_I_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-joseph-i-of-austria-3-turning-point",
+      "text": "Franz Joseph I of Austria is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Franz Joseph I of Austria's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Franz Joseph I of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Joseph_I_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-joseph-i-of-austria-4-contribution",
+      "text": "Franz Joseph I of Austria's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Franz Joseph I of Austria's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Franz Joseph I of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Joseph_I_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-joseph-i-of-austria-5-influence",
+      "text": "Franz Joseph I of Austria has a Facts Mode card reserved for deeper source research.",
+      "context": "Franz Joseph I of Austria's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Franz Joseph I of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Joseph_I_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

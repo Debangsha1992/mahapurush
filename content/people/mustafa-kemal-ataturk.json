@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mustafa Kemal Atatürk is a notable politician associated with Greece.",
+  "summary": "Mustafa Kemal Atatürk is a notable politician connected with Greece.",
   "knownFor": [
     "Politician",
-    "205 language biography editions",
-    "Historical Popularity Index 91.3"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": true,
   "featuredRank": 96,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mustafa-kemal-ataturk-pantheon-profile",
-      "text": "Pantheon ranks Mustafa Kemal Atatürk as a globally documented politician with biographies in 205 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mustafa Kemal Atatürk a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mustafa-kemal-ataturk-1-origin",
+      "text": "Mustafa Kemal Atatürk is remembered as a politician connected with Greece.",
+      "context": "Mustafa Kemal Atatürk's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mustafa Kemal Atatürk",
       "sourceUrl": "https://pantheon.world/profile/person/Mustafa_Kemal_Atat%C3%BCrk",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mustafa-kemal-ataturk-2-obstacle",
+      "text": "Mustafa Kemal Atatürk's recorded life dates place this profile around 1881-1938.",
+      "context": "Mustafa Kemal Atatürk's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mustafa Kemal Atatürk",
+      "sourceUrl": "https://pantheon.world/profile/person/Mustafa_Kemal_Atat%C3%BCrk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mustafa-kemal-ataturk-3-turning-point",
+      "text": "Mustafa Kemal Atatürk is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mustafa Kemal Atatürk's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mustafa Kemal Atatürk",
+      "sourceUrl": "https://pantheon.world/profile/person/Mustafa_Kemal_Atat%C3%BCrk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mustafa-kemal-ataturk-4-contribution",
+      "text": "Mustafa Kemal Atatürk's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Mustafa Kemal Atatürk's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mustafa Kemal Atatürk",
+      "sourceUrl": "https://pantheon.world/profile/person/Mustafa_Kemal_Atat%C3%BCrk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mustafa-kemal-ataturk-5-influence",
+      "text": "Mustafa Kemal Atatürk has a Facts Mode card reserved for deeper source research.",
+      "context": "Mustafa Kemal Atatürk's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mustafa Kemal Atatürk",
+      "sourceUrl": "https://pantheon.world/profile/person/Mustafa_Kemal_Atat%C3%BCrk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

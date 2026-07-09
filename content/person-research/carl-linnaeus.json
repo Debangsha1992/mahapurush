@@ -1,0 +1,46 @@
+{
+  "personId": "carl-linnaeus",
+  "slug": "carl-linnaeus",
+  "name": "Carl Linnaeus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Carl Linnaeus",
+      "url": "https://pantheon.world/profile/person/Carl_Linnaeus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "carl-linnaeus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Carl Linnaeus is remembered as a biologist connected with Sweden."
+    },
+    {
+      "factId": "carl-linnaeus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Carl Linnaeus's recorded life dates place this profile around 1707-1778."
+    },
+    {
+      "factId": "carl-linnaeus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Carl Linnaeus is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "carl-linnaeus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Carl Linnaeus's profile connects a short Fact to a wider Sweden historical setting."
+    },
+    {
+      "factId": "carl-linnaeus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Carl Linnaeus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

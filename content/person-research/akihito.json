@@ -1,0 +1,46 @@
+{
+  "personId": "akihito",
+  "slug": "akihito",
+  "name": "Akihito",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Akihito",
+      "url": "https://pantheon.world/profile/person/Akihito",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "akihito-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Akihito is remembered as a nobleman connected with Japan."
+    },
+    {
+      "factId": "akihito-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Akihito's recorded life dates place this profile around born 1933."
+    },
+    {
+      "factId": "akihito-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Akihito is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "akihito-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Akihito's profile connects a short Fact to a wider Japan historical setting."
+    },
+    {
+      "factId": "akihito-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Akihito has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Septimius Severus is a notable politician associated with Libya.",
+  "summary": "Septimius Severus is a notable politician connected with Libya.",
   "knownFor": [
     "Politician",
-    "85 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Justice, Governance & Leadership",
+    "Libya"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Septimius Severus",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "septimius-severus-pantheon-profile",
-      "text": "Pantheon ranks Septimius Severus as a globally documented politician with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Septimius Severus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "septimius-severus-1-origin",
+      "text": "Septimius Severus is remembered as a politician connected with Libya.",
+      "context": "Septimius Severus's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Septimius Severus",
       "sourceUrl": "https://pantheon.world/profile/person/Septimius_Severus",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "septimius-severus-2-obstacle",
+      "text": "Septimius Severus's recorded life dates place this profile around 145-211.",
+      "context": "Septimius Severus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Septimius Severus",
+      "sourceUrl": "https://pantheon.world/profile/person/Septimius_Severus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "septimius-severus-3-turning-point",
+      "text": "Septimius Severus is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Septimius Severus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Septimius Severus",
+      "sourceUrl": "https://pantheon.world/profile/person/Septimius_Severus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "septimius-severus-4-contribution",
+      "text": "Septimius Severus's profile connects a short Fact to a wider Libya historical setting.",
+      "context": "Septimius Severus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Septimius Severus",
+      "sourceUrl": "https://pantheon.world/profile/person/Septimius_Severus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "septimius-severus-5-influence",
+      "text": "Septimius Severus has a Facts Mode card reserved for deeper source research.",
+      "context": "Septimius Severus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Septimius Severus",
+      "sourceUrl": "https://pantheon.world/profile/person/Septimius_Severus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

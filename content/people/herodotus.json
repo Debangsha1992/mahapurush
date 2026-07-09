@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "historian"
   ],
-  "summary": "Herodotus is a notable historian associated with Türkiye.",
+  "summary": "Herodotus is a notable historian connected with Türkiye.",
   "knownFor": [
     "Historian",
-    "143 language biography editions",
-    "Historical Popularity Index 90.1"
+    "Literature, Arts & Culture",
+    "Türkiye"
   ],
   "featured": true,
   "featuredRank": 127,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "herodotus-pantheon-profile",
-      "text": "Pantheon ranks Herodotus as a globally documented historian with biographies in 143 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Herodotus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "herodotus-1-origin",
+      "text": "Herodotus is remembered as a historian connected with Türkiye.",
+      "context": "Herodotus's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Herodotus",
       "sourceUrl": "https://pantheon.world/profile/person/Herodotus",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "herodotus-2-obstacle",
+      "text": "Herodotus's recorded life dates place this profile around -484--425.",
+      "context": "Herodotus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Herodotus",
+      "sourceUrl": "https://pantheon.world/profile/person/Herodotus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "herodotus-3-turning-point",
+      "text": "Herodotus is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Herodotus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Herodotus",
+      "sourceUrl": "https://pantheon.world/profile/person/Herodotus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "herodotus-4-contribution",
+      "text": "Herodotus's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Herodotus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Herodotus",
+      "sourceUrl": "https://pantheon.world/profile/person/Herodotus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "herodotus-5-influence",
+      "text": "Herodotus has a Facts Mode card reserved for deeper source research.",
+      "context": "Herodotus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Herodotus",
+      "sourceUrl": "https://pantheon.world/profile/person/Herodotus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

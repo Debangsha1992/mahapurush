@@ -1,0 +1,46 @@
+{
+  "personId": "pope-pius-x",
+  "slug": "pope-pius-x",
+  "name": "Pope Pius X",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Pius X",
+      "url": "https://pantheon.world/profile/person/Pope_Pius_X",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-pius-x-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius X is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-pius-x-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius X's recorded life dates place this profile around 1835-1914."
+    },
+    {
+      "factId": "pope-pius-x-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius X is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-pius-x-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius X's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-pius-x-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius X has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

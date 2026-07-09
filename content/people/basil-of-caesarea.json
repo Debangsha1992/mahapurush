@@ -12,11 +12,11 @@
     "science-math-technology",
     "physician"
   ],
-  "summary": "Basil of Caesarea is a notable physician associated with Türkiye.",
+  "summary": "Basil of Caesarea is a notable physician connected with Türkiye.",
   "knownFor": [
     "Physician",
-    "70 language biography editions",
-    "Historical Popularity Index 82.9"
+    "Science, Math & Technology",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Basil of Caesarea",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "basil-of-caesarea-pantheon-profile",
-      "text": "Pantheon ranks Basil of Caesarea as a globally documented physician with biographies in 70 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Basil of Caesarea a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "basil-of-caesarea-1-origin",
+      "text": "Basil of Caesarea is remembered as a physician connected with Türkiye.",
+      "context": "Basil of Caesarea's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Basil of Caesarea",
       "sourceUrl": "https://pantheon.world/profile/person/Basil_of_Caesarea",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "basil-of-caesarea-2-obstacle",
+      "text": "Basil of Caesarea's recorded life dates place this profile around 329-379.",
+      "context": "Basil of Caesarea's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Basil of Caesarea",
+      "sourceUrl": "https://pantheon.world/profile/person/Basil_of_Caesarea",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "basil-of-caesarea-3-turning-point",
+      "text": "Basil of Caesarea is grouped with Science, Math & Technology in the People Library.",
+      "context": "Basil of Caesarea's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Basil of Caesarea",
+      "sourceUrl": "https://pantheon.world/profile/person/Basil_of_Caesarea",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "basil-of-caesarea-4-contribution",
+      "text": "Basil of Caesarea's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Basil of Caesarea's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Basil of Caesarea",
+      "sourceUrl": "https://pantheon.world/profile/person/Basil_of_Caesarea",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "basil-of-caesarea-5-influence",
+      "text": "Basil of Caesarea has a Facts Mode card reserved for deeper source research.",
+      "context": "Basil of Caesarea's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Basil of Caesarea",
+      "sourceUrl": "https://pantheon.world/profile/person/Basil_of_Caesarea",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

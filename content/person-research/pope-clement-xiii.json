@@ -1,0 +1,46 @@
+{
+  "personId": "pope-clement-xiii",
+  "slug": "pope-clement-xiii",
+  "name": "Pope Clement XIII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Clement XIII",
+      "url": "https://pantheon.world/profile/person/Pope_Clement_XIII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-clement-xiii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XIII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-clement-xiii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XIII's recorded life dates place this profile around 1693-1769."
+    },
+    {
+      "factId": "pope-clement-xiii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XIII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-clement-xiii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XIII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-clement-xiii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XIII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

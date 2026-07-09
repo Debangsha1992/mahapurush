@@ -1,0 +1,46 @@
+{
+  "personId": "gustav-klimt",
+  "slug": "gustav-klimt",
+  "name": "Gustav Klimt",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gustav Klimt",
+      "url": "https://pantheon.world/profile/person/Gustav_Klimt",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gustav-klimt-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gustav Klimt is remembered as a painter connected with Austria."
+    },
+    {
+      "factId": "gustav-klimt-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gustav Klimt's recorded life dates place this profile around 1862-1918."
+    },
+    {
+      "factId": "gustav-klimt-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gustav Klimt is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "gustav-klimt-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gustav Klimt's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "gustav-klimt-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gustav Klimt has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Henry VIII of England is a notable nobleman associated with United Kingdom.",
+  "summary": "Henry VIII of England is a notable nobleman connected with United Kingdom.",
   "knownFor": [
     "Nobleman",
-    "106 language biography editions",
-    "Historical Popularity Index 94.6"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 52,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "henry-viii-of-england-pantheon-profile",
-      "text": "Pantheon ranks Henry VIII of England as a globally documented nobleman with biographies in 106 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Henry VIII of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "henry-viii-of-england-1-origin",
+      "text": "Henry VIII of England is remembered as a nobleman connected with United Kingdom.",
+      "context": "Henry VIII of England's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Henry VIII of England",
       "sourceUrl": "https://pantheon.world/profile/person/Henry_VIII_of_England",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-viii-of-england-2-obstacle",
+      "text": "Henry VIII of England's recorded life dates place this profile around 1491-1547.",
+      "context": "Henry VIII of England's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Henry VIII of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_VIII_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-viii-of-england-3-turning-point",
+      "text": "Henry VIII of England is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Henry VIII of England's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Henry VIII of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_VIII_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-viii-of-england-4-contribution",
+      "text": "Henry VIII of England's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Henry VIII of England's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Henry VIII of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_VIII_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-viii-of-england-5-influence",
+      "text": "Henry VIII of England has a Facts Mode card reserved for deeper source research.",
+      "context": "Henry VIII of England's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Henry VIII of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_VIII_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

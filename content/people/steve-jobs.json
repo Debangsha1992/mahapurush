@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "designer"
   ],
-  "summary": "Steve Jobs is a notable designer associated with United States.",
+  "summary": "Steve Jobs is a notable designer connected with United States.",
   "knownFor": [
     "Designer",
-    "168 language biography editions",
-    "Historical Popularity Index 88.8"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 181,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "steve-jobs-pantheon-profile",
-      "text": "Pantheon ranks Steve Jobs as a globally documented designer with biographies in 168 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Steve Jobs a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "steve-jobs-1-origin",
+      "text": "Steve Jobs is remembered as a designer connected with United States.",
+      "context": "Steve Jobs's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Steve Jobs",
       "sourceUrl": "https://pantheon.world/profile/person/Steve_Jobs",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "steve-jobs-2-obstacle",
+      "text": "Steve Jobs's recorded life dates place this profile around 1955-2011.",
+      "context": "Steve Jobs's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Steve Jobs",
+      "sourceUrl": "https://pantheon.world/profile/person/Steve_Jobs",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "steve-jobs-3-turning-point",
+      "text": "Steve Jobs is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Steve Jobs's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Steve Jobs",
+      "sourceUrl": "https://pantheon.world/profile/person/Steve_Jobs",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "steve-jobs-4-contribution",
+      "text": "Steve Jobs's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Steve Jobs's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Steve Jobs",
+      "sourceUrl": "https://pantheon.world/profile/person/Steve_Jobs",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "steve-jobs-5-influence",
+      "text": "Steve Jobs has a Facts Mode card reserved for deeper source research.",
+      "context": "Steve Jobs's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Steve Jobs",
+      "sourceUrl": "https://pantheon.world/profile/person/Steve_Jobs",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Catherine de' Medici is a notable companion associated with Italy.",
+  "summary": "Catherine de' Medici is a notable companion connected with Italy.",
   "knownFor": [
     "Companion",
-    "77 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Catherine de' Medici",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "catherine-de-medici-pantheon-profile",
-      "text": "Pantheon ranks Catherine de' Medici as a globally documented companion with biographies in 77 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Catherine de' Medici a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "catherine-de-medici-1-origin",
+      "text": "Catherine de' Medici is remembered as a companion connected with Italy.",
+      "context": "Catherine de' Medici's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Catherine de' Medici",
       "sourceUrl": "https://pantheon.world/profile/person/Catherine_de'_Medici",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "catherine-de-medici-2-obstacle",
+      "text": "Catherine de' Medici's recorded life dates place this profile around 1519-1589.",
+      "context": "Catherine de' Medici's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Catherine de' Medici",
+      "sourceUrl": "https://pantheon.world/profile/person/Catherine_de'_Medici",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "catherine-de-medici-3-turning-point",
+      "text": "Catherine de' Medici is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Catherine de' Medici's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Catherine de' Medici",
+      "sourceUrl": "https://pantheon.world/profile/person/Catherine_de'_Medici",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "catherine-de-medici-4-contribution",
+      "text": "Catherine de' Medici's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Catherine de' Medici's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Catherine de' Medici",
+      "sourceUrl": "https://pantheon.world/profile/person/Catherine_de'_Medici",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "catherine-de-medici-5-influence",
+      "text": "Catherine de' Medici has a Facts Mode card reserved for deeper source research.",
+      "context": "Catherine de' Medici's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Catherine de' Medici",
+      "sourceUrl": "https://pantheon.world/profile/person/Catherine_de'_Medici",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

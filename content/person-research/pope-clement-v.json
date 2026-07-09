@@ -1,0 +1,46 @@
+{
+  "personId": "pope-clement-v",
+  "slug": "pope-clement-v",
+  "name": "Pope Clement V",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Clement V",
+      "url": "https://pantheon.world/profile/person/Pope_Clement_V",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-clement-v-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement V is remembered as a religious figure connected with France."
+    },
+    {
+      "factId": "pope-clement-v-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement V's recorded life dates place this profile around 1264-1314."
+    },
+    {
+      "factId": "pope-clement-v-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement V is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-clement-v-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement V's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "pope-clement-v-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement V has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

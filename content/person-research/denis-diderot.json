@@ -1,0 +1,46 @@
+{
+  "personId": "denis-diderot",
+  "slug": "denis-diderot",
+  "name": "Denis Diderot",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Denis Diderot",
+      "url": "https://pantheon.world/profile/person/Denis_Diderot",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "denis-diderot-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Denis Diderot is remembered as a writer connected with France."
+    },
+    {
+      "factId": "denis-diderot-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Denis Diderot's recorded life dates place this profile around 1713-1784."
+    },
+    {
+      "factId": "denis-diderot-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Denis Diderot is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "denis-diderot-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Denis Diderot's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "denis-diderot-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Denis Diderot has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

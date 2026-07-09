@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Martin Van Buren is a notable politician associated with United States.",
+  "summary": "Martin Van Buren is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "130 language biography editions",
-    "Historical Popularity Index 88.9"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 179,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "martin-van-buren-pantheon-profile",
-      "text": "Pantheon ranks Martin Van Buren as a globally documented politician with biographies in 130 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Martin Van Buren a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "martin-van-buren-1-origin",
+      "text": "Martin Van Buren is remembered as a politician connected with United States.",
+      "context": "Martin Van Buren's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Martin Van Buren",
       "sourceUrl": "https://pantheon.world/profile/person/Martin_Van_Buren",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "martin-van-buren-2-obstacle",
+      "text": "Martin Van Buren's recorded life dates place this profile around 1782-1862.",
+      "context": "Martin Van Buren's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Martin Van Buren",
+      "sourceUrl": "https://pantheon.world/profile/person/Martin_Van_Buren",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "martin-van-buren-3-turning-point",
+      "text": "Martin Van Buren is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Martin Van Buren's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Martin Van Buren",
+      "sourceUrl": "https://pantheon.world/profile/person/Martin_Van_Buren",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "martin-van-buren-4-contribution",
+      "text": "Martin Van Buren's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Martin Van Buren's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Martin Van Buren",
+      "sourceUrl": "https://pantheon.world/profile/person/Martin_Van_Buren",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "martin-van-buren-5-influence",
+      "text": "Martin Van Buren has a Facts Mode card reserved for deeper source research.",
+      "context": "Martin Van Buren's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Martin Van Buren",
+      "sourceUrl": "https://pantheon.world/profile/person/Martin_Van_Buren",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

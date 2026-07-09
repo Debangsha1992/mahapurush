@@ -1,0 +1,47 @@
+{
+  "personId": "jan-hus",
+  "slug": "jan-hus",
+  "name": "Jan Hus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Jan Hus",
+      "url": "https://en.wikipedia.org/wiki/Jan_Hus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Czech theologian, philosopher, and martyr (c. 1369–1415)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jan-hus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Jan Hus, sometimes anglicized as John Goose or John Huss, and referred to in historical texts as Iohannes Hus or Johannes Huss, was a Czech theologian and philosopher who became a Church reformer and the inspiration of Hussitism, a key predecessor to Protestantism, and a seminal figure in the Bohem."
+    },
+    {
+      "factId": "jan-hus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Jan Hus is considered to be the first Church reformer, even though some designate the theorist John Wycliffe."
+    },
+    {
+      "factId": "jan-hus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Jan Hus's teachings had a strong influence, most immediately in the approval of a reformed Bohemian religious denomination and, over a century later, on Martin Luther."
+    },
+    {
+      "factId": "jan-hus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jan Hus is remembered as a social activist connected with Czechia."
+    },
+    {
+      "factId": "jan-hus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jan Hus's recorded life dates place this profile around 1369-1415."
+    }
+  ]
+}

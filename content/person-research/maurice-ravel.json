@@ -1,0 +1,46 @@
+{
+  "personId": "maurice-ravel",
+  "slug": "maurice-ravel",
+  "name": "Maurice Ravel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Maurice Ravel",
+      "url": "https://pantheon.world/profile/person/Maurice_Ravel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "maurice-ravel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Maurice Ravel is remembered as a composer connected with France."
+    },
+    {
+      "factId": "maurice-ravel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Maurice Ravel's recorded life dates place this profile around 1875-1937."
+    },
+    {
+      "factId": "maurice-ravel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Maurice Ravel is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "maurice-ravel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Maurice Ravel's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "maurice-ravel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Maurice Ravel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

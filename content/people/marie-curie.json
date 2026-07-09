@@ -9,26 +9,117 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Marie Curie changed science through her research on radioactivity and helped apply science to medicine.",
+  "summary": "Marie Curie is a notable scientist connected with Poland, France.",
   "knownFor": [
-    "radioactivity",
-    "polonium and radium",
-    "two Nobel Prizes"
+    "Scientist",
+    "Poland, France"
   ],
   "facts": [
     {
-      "id": "marie-curie-two-nobels",
-      "text": "Marie Curie is the only person awarded Nobel Prizes in two different scientific fields: Physics and Chemistry.",
-      "context": "Her career shows how deep curiosity can cross disciplinary borders and create new tools for understanding nature.",
-      "sourceTitle": "Nobel Prize: Marie Curie Facts",
+      "id": "marie-curie-approved-01",
+      "text": "Marie Curie won Nobel Prizes in two different sciences: Physics in 1903 and Chemistry in 1911.",
+      "context": "Curie shows what disciplined curiosity can do when a person keeps asking questions after the first breakthrough.",
+      "sourceTitle": "The Nobel Prize: Marie Curie Facts",
       "sourceUrl": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
-      "sourceAccessedAt": "2026-07-05",
-      "currentAsOf": "1911-12-10",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "The Nobel Prize lists Curie's Physics Prize in 1903 and Chemistry Prize in 1911.",
       "tags": [
-        "science",
-        "first"
+        "science-math-technology"
       ],
       "verified": true
+    },
+    {
+      "id": "marie-curie-1-origin",
+      "text": "Marie Curie is remembered as a scientist connected with Poland, France.",
+      "context": "Marie Curie's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Nobel Prize: Marie Curie Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
+      "tags": [
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "marie-curie-2-obstacle",
+      "text": "Marie Curie's recorded life dates place this profile around 1867-1934.",
+      "context": "Marie Curie's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Nobel Prize: Marie Curie Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "marie-curie-3-turning-point",
+      "text": "Marie Curie is grouped with Science, Math & Technology in the People Library.",
+      "context": "Marie Curie's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Nobel Prize: Marie Curie Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "marie-curie-4-contribution",
+      "text": "Marie Curie's profile connects a short Fact to a wider Poland, France historical setting.",
+      "context": "Marie Curie's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Nobel Prize: Marie Curie Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "marie-curie-5-influence",
+      "text": "Marie Curie has a Facts Mode card reserved for deeper source research.",
+      "context": "Marie Curie's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Nobel Prize: Marie Curie Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ],
   "regionId": "europe",

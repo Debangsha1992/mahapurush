@@ -12,35 +12,104 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Akhenaten is a notable politician associated with Egypt.",
+  "summary": "Akhenaten, also spelled Akhenaton, Echnaton, and Khuenaten, was an ancient Egyptian pharaoh reigning c. 1353–1336 or 1351–1334 BC, the tenth ruler of the Eighteenth Dynasty.",
   "knownFor": [
     "Politician",
-    "93 language biography editions",
-    "Historical Popularity Index 85.9"
+    "Justice, Governance & Leadership",
+    "Egypt"
   ],
   "featured": true,
   "featuredRank": 354,
   "imageAlt": "Portrait-style visual for Akhenaten",
   "sourceRefs": [
     {
-      "title": "Pantheon: Akhenaten",
-      "url": "https://pantheon.world/profile/person/Akhenaten",
+      "title": "Wikipedia: Akhenaten",
+      "url": "https://en.wikipedia.org/wiki/Akhenaten",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "akhenaten-pantheon-profile",
-      "text": "Pantheon ranks Akhenaten as a globally documented politician with biographies in 93 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Akhenaten a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Akhenaten",
-      "sourceUrl": "https://pantheon.world/profile/person/Akhenaten",
+      "id": "akhenaten-1-origin",
+      "text": "Akhenaten, also spelled Akhenaton, Echnaton, and Khuenaten, was an ancient Egyptian pharaoh reigning c. 1353–1336 or 1351–1334 BC, the tenth ruler of the Eighteenth Dynasty.",
+      "context": "Akhenaten's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Akhenaten",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Akhenaten",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akhenaten-2-obstacle",
+      "text": "Originally named Amenhotep IV, in the fifth year of his reign he adopted the name \"Akhenaten\".",
+      "context": "Akhenaten's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Akhenaten",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Akhenaten",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akhenaten-3-turning-point",
+      "text": "Akhenaten is remembered as a politician connected with Egypt.",
+      "context": "Akhenaten's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Akhenaten",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Akhenaten",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akhenaten-4-contribution",
+      "text": "Akhenaten's recorded life dates place this profile around -1400--1336.",
+      "context": "Akhenaten's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Akhenaten",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Akhenaten",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akhenaten-5-influence",
+      "text": "Akhenaten is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Akhenaten's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Akhenaten",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Akhenaten",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

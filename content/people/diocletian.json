@@ -12,34 +12,101 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Diocletian is a notable politician associated with Croatia.",
+  "summary": "Diocletian, nicknamed Jovius, was Roman emperor from 284 until his abdication in 305.",
   "knownFor": [
     "Politician",
-    "85 language biography editions",
-    "Historical Popularity Index 84.1"
+    "Justice, Governance & Leadership",
+    "Croatia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Diocletian",
   "sourceRefs": [
     {
-      "title": "Pantheon: Diocletian",
-      "url": "https://pantheon.world/profile/person/Diocletian",
+      "title": "Wikipedia: Diocletian",
+      "url": "https://en.wikipedia.org/wiki/Diocletian",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "diocletian-pantheon-profile",
-      "text": "Pantheon ranks Diocletian as a globally documented politician with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Diocletian a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Diocletian",
-      "sourceUrl": "https://pantheon.world/profile/person/Diocletian",
+      "id": "diocletian-1-origin",
+      "text": "Diocletian, nicknamed Jovius, was Roman emperor from 284 until his abdication in 305.",
+      "context": "Diocletian's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Diocletian",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diocletian",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "diocletian-2-obstacle",
+      "text": "Diocletian was born Diocles to a family of low status in the Roman province of Dalmatia.",
+      "context": "Diocletian's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Diocletian",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diocletian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "diocletian-3-turning-point",
+      "text": "After the deaths of Carus and his son Numerian on a campaign in Persia, Diocles was proclaimed emperor by the troops, taking the name \"Diocletianus\".",
+      "context": "Diocletian's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Diocletian",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diocletian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "diocletian-4-contribution",
+      "text": "The title was also claimed by Carus's surviving son, Carinus, but Diocletian defeated him in the Battle of the Margus.",
+      "context": "Diocletian's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Diocletian",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diocletian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "diocletian-5-influence",
+      "text": "Diocletian is remembered as a politician connected with Croatia.",
+      "context": "Diocletian's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Diocletian",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Diocletian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

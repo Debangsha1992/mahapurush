@@ -1,0 +1,46 @@
+{
+  "personId": "ernest-rutherford",
+  "slug": "ernest-rutherford",
+  "name": "Ernest Rutherford",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ernest Rutherford",
+      "url": "https://pantheon.world/profile/person/Ernest_Rutherford",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ernest-rutherford-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ernest Rutherford is remembered as a physicist connected with New Zealand."
+    },
+    {
+      "factId": "ernest-rutherford-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ernest Rutherford's recorded life dates place this profile around 1871-1937."
+    },
+    {
+      "factId": "ernest-rutherford-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ernest Rutherford is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "ernest-rutherford-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ernest Rutherford's profile connects a short Fact to a wider New Zealand historical setting."
+    },
+    {
+      "factId": "ernest-rutherford-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ernest Rutherford has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

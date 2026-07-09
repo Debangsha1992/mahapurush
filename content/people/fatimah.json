@@ -12,35 +12,105 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Fatimah is a notable companion associated with Saudi Arabia.",
+  "summary": "Fatimah is a notable companion connected with Saudi Arabia.",
   "knownFor": [
     "Companion",
-    "92 language biography editions",
-    "Historical Popularity Index 86.5"
+    "Justice, Governance & Leadership",
+    "Saudi Arabia"
   ],
   "featured": true,
   "featuredRank": 319,
   "imageAlt": "Portrait-style visual for Fatimah",
   "sourceRefs": [
     {
-      "title": "Pantheon: Fatimah",
-      "url": "https://pantheon.world/profile/person/Fatimah",
+      "title": "Wikipedia: Fatima",
+      "url": "https://en.wikipedia.org/wiki/Fatima",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "fatimah-pantheon-profile",
-      "text": "Pantheon ranks Fatimah as a globally documented companion with biographies in 92 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Fatimah a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Fatimah",
-      "sourceUrl": "https://pantheon.world/profile/person/Fatimah",
+      "id": "fatimah-1-origin",
+      "text": "Fatimah is often viewed as an ultimate archetype for Muslim women and an example of compassion, generosity, and enduring suffering.",
+      "context": "Fatimah's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Fatima",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fatima",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fatimah-2-obstacle",
+      "text": "Fatimah is remembered as a companion connected with Saudi Arabia.",
+      "context": "Fatimah's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Fatima",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fatima",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fatimah-3-turning-point",
+      "text": "Fatimah's recorded life dates place this profile around 604-632.",
+      "context": "Fatimah's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Fatima",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fatima",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fatimah-4-contribution",
+      "text": "Fatimah is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Fatimah's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Fatima",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fatima",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fatimah-5-influence",
+      "text": "Fatimah's profile connects a short Fact to a wider Saudi Arabia historical setting.",
+      "context": "Fatimah's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Fatima",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fatima",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "architect"
   ],
-  "summary": "Gian Lorenzo Bernini is a notable architect associated with Italy.",
+  "summary": "Gian Lorenzo Bernini is a notable architect connected with Italy.",
   "knownFor": [
     "Architect",
-    "76 language biography editions",
-    "Historical Popularity Index 83.5"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Gian Lorenzo Bernini",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "gian-lorenzo-bernini-pantheon-profile",
-      "text": "Pantheon ranks Gian Lorenzo Bernini as a globally documented architect with biographies in 76 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Gian Lorenzo Bernini a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "gian-lorenzo-bernini-1-origin",
+      "text": "Gian Lorenzo Bernini is remembered as a architect connected with Italy.",
+      "context": "Gian Lorenzo Bernini's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Gian Lorenzo Bernini",
       "sourceUrl": "https://pantheon.world/profile/person/Gian_Lorenzo_Bernini",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gian-lorenzo-bernini-2-obstacle",
+      "text": "Gian Lorenzo Bernini's recorded life dates place this profile around 1598-1680.",
+      "context": "Gian Lorenzo Bernini's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Gian Lorenzo Bernini",
+      "sourceUrl": "https://pantheon.world/profile/person/Gian_Lorenzo_Bernini",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gian-lorenzo-bernini-3-turning-point",
+      "text": "Gian Lorenzo Bernini is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Gian Lorenzo Bernini's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Gian Lorenzo Bernini",
+      "sourceUrl": "https://pantheon.world/profile/person/Gian_Lorenzo_Bernini",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gian-lorenzo-bernini-4-contribution",
+      "text": "Gian Lorenzo Bernini's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Gian Lorenzo Bernini's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Gian Lorenzo Bernini",
+      "sourceUrl": "https://pantheon.world/profile/person/Gian_Lorenzo_Bernini",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gian-lorenzo-bernini-5-influence",
+      "text": "Gian Lorenzo Bernini has a Facts Mode card reserved for deeper source research.",
+      "context": "Gian Lorenzo Bernini's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Gian Lorenzo Bernini",
+      "sourceUrl": "https://pantheon.world/profile/person/Gian_Lorenzo_Bernini",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

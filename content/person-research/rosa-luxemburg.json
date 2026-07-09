@@ -1,0 +1,46 @@
+{
+  "personId": "rosa-luxemburg",
+  "slug": "rosa-luxemburg",
+  "name": "Rosa Luxemburg",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Rosa Luxemburg",
+      "url": "https://pantheon.world/profile/person/Rosa_Luxemburg",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "rosa-luxemburg-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Rosa Luxemburg is remembered as a social activist connected with Poland."
+    },
+    {
+      "factId": "rosa-luxemburg-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Rosa Luxemburg's recorded life dates place this profile around 1871-1919."
+    },
+    {
+      "factId": "rosa-luxemburg-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Rosa Luxemburg is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "rosa-luxemburg-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Rosa Luxemburg's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "rosa-luxemburg-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Rosa Luxemburg has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "bertrand-russell",
+  "slug": "bertrand-russell",
+  "name": "Bertrand Russell",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bertrand Russell",
+      "url": "https://pantheon.world/profile/person/Bertrand_Russell",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bertrand-russell-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bertrand Russell is remembered as a mathematician connected with United Kingdom."
+    },
+    {
+      "factId": "bertrand-russell-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bertrand Russell's recorded life dates place this profile around 1872-1970."
+    },
+    {
+      "factId": "bertrand-russell-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bertrand Russell is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "bertrand-russell-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bertrand Russell's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "bertrand-russell-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bertrand Russell has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

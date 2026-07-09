@@ -17,7 +17,7 @@
         "instruction": "When something is called normal or fair, ask who gains from it and who pays the hidden cost."
       },
       "modernTest": {
-        "scenario": "Your school says everyone has equal opportunity, but some students can afford tutors, laptops, and quiet rooms while others cannot.",
+        "scenario": "A company says promotions are merit-based, but some people have mentors, flexible schedules, and quiet space while others carry extra family or financial pressure.",
         "question": "What would Ambedkar ask first?",
         "options": [
           {
@@ -27,15 +27,15 @@
           },
           {
             "id": "b",
-            "label": "Who studied the hardest?",
+            "label": "Who worked the longest hours?",
             "explanation": "Effort matters, but it does not erase unequal starting points."
           }
         ],
-        "discussionNotes": "Ambedkar would ask about the system, not only the exam rules on paper."
+        "discussionNotes": "Ambedkar would ask about the system, not only the official process on paper."
       },
       "reflectionPrompt": "Identify one system in your life that looks fair on the surface but may not be fair underneath.",
       "thoughtTension": {
-        "counterView": "But if everyone follows the same exam rules, is that not fairness?",
+        "counterView": "But if everyone follows the same official process, is that not fairness?",
         "responsePrompt": "Explain where you agree or disagree."
       },
       "rewards": {
@@ -56,7 +56,7 @@
         "instruction": "When something is called normal or fair, ask who gains from it and who pays the hidden cost."
       },
       "modernTest": {
-        "scenario": "Your school says everyone has equal opportunity. Some students can afford tutors, laptops, quiet rooms, and private coaching. Others cannot.",
+        "scenario": "A hiring process says everyone has equal opportunity. Some candidates had unpaid internships, quiet home offices, referrals, and interview coaching. Others worked night shifts and applied from shared phones.",
         "question": "Is the competition still fair?",
         "options": [
           {
@@ -79,7 +79,7 @@
       },
       "reflectionPrompt": "Identify one system in your life that looks fair on the surface but may not be fair underneath.",
       "thoughtTension": {
-        "counterView": "But if everyone follows the same exam rules, is that not fairness?",
+        "counterView": "But if everyone goes through the same hiring process, is that not fairness?",
         "responsePrompt": "Explain where you agree or disagree."
       },
       "rewards": {

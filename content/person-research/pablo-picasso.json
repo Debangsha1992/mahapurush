@@ -1,0 +1,46 @@
+{
+  "personId": "pablo-picasso",
+  "slug": "pablo-picasso",
+  "name": "Pablo Picasso",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pablo Picasso",
+      "url": "https://pantheon.world/profile/person/Pablo_Picasso",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pablo-picasso-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pablo Picasso is remembered as a painter connected with Spain."
+    },
+    {
+      "factId": "pablo-picasso-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pablo Picasso's recorded life dates place this profile around 1881-1973."
+    },
+    {
+      "factId": "pablo-picasso-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pablo Picasso is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "pablo-picasso-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pablo Picasso's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "pablo-picasso-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pablo Picasso has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

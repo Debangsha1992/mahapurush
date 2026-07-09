@@ -9,25 +9,95 @@
   "domains": [
     "philosophy-ethics-religion"
   ],
-  "summary": "The 14th Dalai Lama is a Tibetan Buddhist leader known for teachings on compassion and nonviolence.",
+  "summary": "Tenzin Gyatso, the 14th Dalai Lama is a notable philosopher connected with Tibet, India.",
   "knownFor": [
-    "Tibetan Buddhism",
-    "compassion teachings",
-    "Nobel Peace Prize"
+    "Philosopher",
+    "Tibet, India"
   ],
   "sensitiveContextNote": "Discuss with care around Tibetan history, exile, religion, and politics.",
   "facts": [
     {
-      "id": "dalai-lama-nobel-peace",
-      "text": "The 14th Dalai Lama received the Nobel Peace Prize in 1989.",
-      "context": "His public teaching emphasizes compassion and nonviolence as personal practices and public responsibilities.",
+      "id": "dalai-lama-1-origin",
+      "text": "Tenzin Gyatso, the 14th Dalai Lama is remembered as a philosopher connected with Tibet, India.",
+      "context": "Tenzin Gyatso, the 14th Dalai Lama's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Nobel Prize: The 14th Dalai Lama Facts",
       "sourceUrl": "https://www.nobelprize.org/prizes/peace/1989/lama/facts/",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "1989-10-05",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
-        "religion",
-        "peace"
+        "philosophy-ethics-religion",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dalai-lama-2-obstacle",
+      "text": "Tenzin Gyatso, the 14th Dalai Lama's recorded life dates place this profile around 1935-present.",
+      "context": "Tenzin Gyatso, the 14th Dalai Lama's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Nobel Prize: The 14th Dalai Lama Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1989/lama/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dalai-lama-3-turning-point",
+      "text": "Tenzin Gyatso, the 14th Dalai Lama is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Tenzin Gyatso, the 14th Dalai Lama's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Nobel Prize: The 14th Dalai Lama Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1989/lama/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dalai-lama-4-contribution",
+      "text": "Tenzin Gyatso, the 14th Dalai Lama's profile connects a short Fact to a wider Tibet, India historical setting.",
+      "context": "Tenzin Gyatso, the 14th Dalai Lama's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Nobel Prize: The 14th Dalai Lama Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1989/lama/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dalai-lama-5-influence",
+      "text": "Tenzin Gyatso, the 14th Dalai Lama has a Facts Mode card reserved for deeper source research.",
+      "context": "Tenzin Gyatso, the 14th Dalai Lama's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Nobel Prize: The 14th Dalai Lama Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1989/lama/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

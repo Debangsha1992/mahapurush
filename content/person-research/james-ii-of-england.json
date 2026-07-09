@@ -1,0 +1,46 @@
+{
+  "personId": "james-ii-of-england",
+  "slug": "james-ii-of-england",
+  "name": "James II of England",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James II of England",
+      "url": "https://pantheon.world/profile/person/James_II_of_England",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-ii-of-england-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James II of England is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "james-ii-of-england-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James II of England's recorded life dates place this profile around 1633-1701."
+    },
+    {
+      "factId": "james-ii-of-england-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James II of England is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "james-ii-of-england-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James II of England's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "james-ii-of-england-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James II of England has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

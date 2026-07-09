@@ -1,0 +1,46 @@
+{
+  "personId": "ezekiel",
+  "slug": "ezekiel",
+  "name": "Ezekiel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ezekiel",
+      "url": "https://pantheon.world/profile/person/Ezekiel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ezekiel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ezekiel is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "ezekiel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ezekiel's recorded life dates place this profile around -621--569."
+    },
+    {
+      "factId": "ezekiel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ezekiel is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "ezekiel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ezekiel's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "ezekiel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ezekiel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

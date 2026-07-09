@@ -1,0 +1,46 @@
+{
+  "personId": "girolamo-savonarola",
+  "slug": "girolamo-savonarola",
+  "name": "Girolamo Savonarola",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Girolamo Savonarola",
+      "url": "https://pantheon.world/profile/person/Girolamo_Savonarola",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "girolamo-savonarola-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Girolamo Savonarola is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "girolamo-savonarola-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Girolamo Savonarola's recorded life dates place this profile around 1452-1498."
+    },
+    {
+      "factId": "girolamo-savonarola-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Girolamo Savonarola is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "girolamo-savonarola-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Girolamo Savonarola's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "girolamo-savonarola-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Girolamo Savonarola has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

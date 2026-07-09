@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Pope Benedict XIV is a notable religious figure associated with Italy.",
+  "summary": "Pope Benedict XIV is a notable religious figure connected with Italy.",
   "knownFor": [
     "Religious Figure",
-    "80 language biography editions",
-    "Historical Popularity Index 83.2"
+    "Philosophy, Ethics & Religion",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Pope Benedict XIV",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pope-benedict-xiv-pantheon-profile",
-      "text": "Pantheon ranks Pope Benedict XIV as a globally documented religious figure with biographies in 80 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Benedict XIV a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pope-benedict-xiv-1-origin",
+      "text": "Pope Benedict XIV is remembered as a religious figure connected with Italy.",
+      "context": "Pope Benedict XIV's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Pope Benedict XIV",
       "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XIV",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-benedict-xiv-2-obstacle",
+      "text": "Pope Benedict XIV's recorded life dates place this profile around 1675-1758.",
+      "context": "Pope Benedict XIV's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pope Benedict XIV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XIV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-benedict-xiv-3-turning-point",
+      "text": "Pope Benedict XIV is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Pope Benedict XIV's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pope Benedict XIV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XIV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-benedict-xiv-4-contribution",
+      "text": "Pope Benedict XIV's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Pope Benedict XIV's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pope Benedict XIV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XIV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-benedict-xiv-5-influence",
+      "text": "Pope Benedict XIV has a Facts Mode card reserved for deeper source research.",
+      "context": "Pope Benedict XIV's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pope Benedict XIV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XIV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

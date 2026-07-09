@@ -1,0 +1,46 @@
+{
+  "personId": "sun-tzu",
+  "slug": "sun-tzu",
+  "name": "Sun Tzu",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Sun Tzu",
+      "url": "https://pantheon.world/profile/person/Sun_Tzu",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sun-tzu-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Sun Tzu is remembered as a philosopher connected with China."
+    },
+    {
+      "factId": "sun-tzu-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Sun Tzu's recorded life dates place this profile around -544--496."
+    },
+    {
+      "factId": "sun-tzu-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Sun Tzu is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "sun-tzu-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Sun Tzu's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "sun-tzu-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sun Tzu has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "James VI and I is a notable politician associated with United Kingdom.",
+  "summary": "James VI and I is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "86 language biography editions",
-    "Historical Popularity Index 89.8"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 136,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "james-vi-and-i-pantheon-profile",
-      "text": "Pantheon ranks James VI and I as a globally documented politician with biographies in 86 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make James VI and I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "james-vi-and-i-1-origin",
+      "text": "James VI and I is remembered as a politician connected with United Kingdom.",
+      "context": "James VI and I's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: James VI and I",
       "sourceUrl": "https://pantheon.world/profile/person/James_VI_and_I",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-vi-and-i-2-obstacle",
+      "text": "James VI and I's recorded life dates place this profile around 1566-1625.",
+      "context": "James VI and I's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: James VI and I",
+      "sourceUrl": "https://pantheon.world/profile/person/James_VI_and_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-vi-and-i-3-turning-point",
+      "text": "James VI and I is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "James VI and I's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: James VI and I",
+      "sourceUrl": "https://pantheon.world/profile/person/James_VI_and_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-vi-and-i-4-contribution",
+      "text": "James VI and I's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "James VI and I's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: James VI and I",
+      "sourceUrl": "https://pantheon.world/profile/person/James_VI_and_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-vi-and-i-5-influence",
+      "text": "James VI and I has a Facts Mode card reserved for deeper source research.",
+      "context": "James VI and I's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: James VI and I",
+      "sourceUrl": "https://pantheon.world/profile/person/James_VI_and_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

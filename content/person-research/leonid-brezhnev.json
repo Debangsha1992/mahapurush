@@ -1,0 +1,46 @@
+{
+  "personId": "leonid-brezhnev",
+  "slug": "leonid-brezhnev",
+  "name": "Leonid Brezhnev",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Leonid Brezhnev",
+      "url": "https://pantheon.world/profile/person/Leonid_Brezhnev",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "leonid-brezhnev-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Leonid Brezhnev is remembered as a politician connected with Ukraine."
+    },
+    {
+      "factId": "leonid-brezhnev-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Leonid Brezhnev's recorded life dates place this profile around 1906-1982."
+    },
+    {
+      "factId": "leonid-brezhnev-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Leonid Brezhnev is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "leonid-brezhnev-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Leonid Brezhnev's profile connects a short Fact to a wider Ukraine historical setting."
+    },
+    {
+      "factId": "leonid-brezhnev-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Leonid Brezhnev has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

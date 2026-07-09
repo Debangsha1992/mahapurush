@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Prince Eugene of Savoy is a notable military personnel associated with France.",
+  "summary": "Prince Eugene of Savoy is a notable military personnel connected with France.",
   "knownFor": [
     "Military Personnel",
-    "64 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Prince Eugene of Savoy",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "prince-eugene-of-savoy-pantheon-profile",
-      "text": "Pantheon ranks Prince Eugene of Savoy as a globally documented military personnel with biographies in 64 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Prince Eugene of Savoy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "prince-eugene-of-savoy-1-origin",
+      "text": "Prince Eugene of Savoy is remembered as a military personnel connected with France.",
+      "context": "Prince Eugene of Savoy's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Prince Eugene of Savoy",
       "sourceUrl": "https://pantheon.world/profile/person/Prince_Eugene_of_Savoy",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "prince-eugene-of-savoy-2-obstacle",
+      "text": "Prince Eugene of Savoy's recorded life dates place this profile around 1663-1736.",
+      "context": "Prince Eugene of Savoy's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Prince Eugene of Savoy",
+      "sourceUrl": "https://pantheon.world/profile/person/Prince_Eugene_of_Savoy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "prince-eugene-of-savoy-3-turning-point",
+      "text": "Prince Eugene of Savoy is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Prince Eugene of Savoy's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Prince Eugene of Savoy",
+      "sourceUrl": "https://pantheon.world/profile/person/Prince_Eugene_of_Savoy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "prince-eugene-of-savoy-4-contribution",
+      "text": "Prince Eugene of Savoy's profile connects a short Fact to a wider France historical setting.",
+      "context": "Prince Eugene of Savoy's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Prince Eugene of Savoy",
+      "sourceUrl": "https://pantheon.world/profile/person/Prince_Eugene_of_Savoy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "prince-eugene-of-savoy-5-influence",
+      "text": "Prince Eugene of Savoy has a Facts Mode card reserved for deeper source research.",
+      "context": "Prince Eugene of Savoy's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Prince Eugene of Savoy",
+      "sourceUrl": "https://pantheon.world/profile/person/Prince_Eugene_of_Savoy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

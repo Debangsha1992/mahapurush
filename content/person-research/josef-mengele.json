@@ -1,0 +1,46 @@
+{
+  "personId": "josef-mengele",
+  "slug": "josef-mengele",
+  "name": "Josef Mengele",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Josef Mengele",
+      "url": "https://pantheon.world/profile/person/Josef_Mengele",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "josef-mengele-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Josef Mengele is remembered as a physician connected with Germany."
+    },
+    {
+      "factId": "josef-mengele-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Josef Mengele's recorded life dates place this profile around 1911-1979."
+    },
+    {
+      "factId": "josef-mengele-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Josef Mengele is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "josef-mengele-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Josef Mengele's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "josef-mengele-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Josef Mengele has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

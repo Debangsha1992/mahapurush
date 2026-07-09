@@ -1,0 +1,46 @@
+{
+  "personId": "friedrich-engels",
+  "slug": "friedrich-engels",
+  "name": "Friedrich Engels",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Friedrich Engels",
+      "url": "https://pantheon.world/profile/person/Friedrich_Engels",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "friedrich-engels-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Friedrich Engels is remembered as a philosopher connected with Germany."
+    },
+    {
+      "factId": "friedrich-engels-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Friedrich Engels's recorded life dates place this profile around 1820-1895."
+    },
+    {
+      "factId": "friedrich-engels-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Friedrich Engels is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "friedrich-engels-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Friedrich Engels's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "friedrich-engels-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Friedrich Engels has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

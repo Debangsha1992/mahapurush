@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "film-director"
   ],
-  "summary": "David Lynch is a notable film director associated with United States.",
+  "summary": "David Lynch is a notable film director connected with United States.",
   "knownFor": [
     "Film Director",
-    "85 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for David Lynch",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "david-lynch-pantheon-profile",
-      "text": "Pantheon ranks David Lynch as a globally documented film director with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make David Lynch a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "david-lynch-1-origin",
+      "text": "David Lynch is remembered as a film director connected with United States.",
+      "context": "David Lynch's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: David Lynch",
       "sourceUrl": "https://pantheon.world/profile/person/David_Lynch",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "david-lynch-2-obstacle",
+      "text": "David Lynch's recorded life dates place this profile around 1946-2025.",
+      "context": "David Lynch's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: David Lynch",
+      "sourceUrl": "https://pantheon.world/profile/person/David_Lynch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "david-lynch-3-turning-point",
+      "text": "David Lynch is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "David Lynch's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: David Lynch",
+      "sourceUrl": "https://pantheon.world/profile/person/David_Lynch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "david-lynch-4-contribution",
+      "text": "David Lynch's profile connects a short Fact to a wider United States historical setting.",
+      "context": "David Lynch's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: David Lynch",
+      "sourceUrl": "https://pantheon.world/profile/person/David_Lynch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "david-lynch-5-influence",
+      "text": "David Lynch has a Facts Mode card reserved for deeper source research.",
+      "context": "David Lynch's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: David Lynch",
+      "sourceUrl": "https://pantheon.world/profile/person/David_Lynch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

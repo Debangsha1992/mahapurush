@@ -1,0 +1,46 @@
+{
+  "personId": "mary-queen-of-scots",
+  "slug": "mary-queen-of-scots",
+  "name": "Mary, Queen of Scots",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mary, Queen of Scots",
+      "url": "https://pantheon.world/profile/person/Mary%2C_Queen_of_Scots",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mary-queen-of-scots-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mary, Queen of Scots is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "mary-queen-of-scots-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mary, Queen of Scots's recorded life dates place this profile around 1542-1587."
+    },
+    {
+      "factId": "mary-queen-of-scots-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mary, Queen of Scots is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mary-queen-of-scots-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mary, Queen of Scots's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "mary-queen-of-scots-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mary, Queen of Scots has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

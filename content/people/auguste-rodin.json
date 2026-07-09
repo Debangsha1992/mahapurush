@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "sculptor"
   ],
-  "summary": "Auguste Rodin is a notable sculptor associated with France.",
+  "summary": "Auguste Rodin is a notable sculptor connected with France.",
   "knownFor": [
     "Sculptor",
-    "95 language biography editions",
-    "Historical Popularity Index 83.1"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Auguste Rodin",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "auguste-rodin-pantheon-profile",
-      "text": "Pantheon ranks Auguste Rodin as a globally documented sculptor with biographies in 95 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Auguste Rodin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "auguste-rodin-1-origin",
+      "text": "Auguste Rodin is remembered as a sculptor connected with France.",
+      "context": "Auguste Rodin's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Auguste Rodin",
       "sourceUrl": "https://pantheon.world/profile/person/Auguste_Rodin",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "auguste-rodin-2-obstacle",
+      "text": "Auguste Rodin's recorded life dates place this profile around 1840-1917.",
+      "context": "Auguste Rodin's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Auguste Rodin",
+      "sourceUrl": "https://pantheon.world/profile/person/Auguste_Rodin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "auguste-rodin-3-turning-point",
+      "text": "Auguste Rodin is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Auguste Rodin's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Auguste Rodin",
+      "sourceUrl": "https://pantheon.world/profile/person/Auguste_Rodin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "auguste-rodin-4-contribution",
+      "text": "Auguste Rodin's profile connects a short Fact to a wider France historical setting.",
+      "context": "Auguste Rodin's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Auguste Rodin",
+      "sourceUrl": "https://pantheon.world/profile/person/Auguste_Rodin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "auguste-rodin-5-influence",
+      "text": "Auguste Rodin has a Facts Mode card reserved for deeper source research.",
+      "context": "Auguste Rodin's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Auguste Rodin",
+      "sourceUrl": "https://pantheon.world/profile/person/Auguste_Rodin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

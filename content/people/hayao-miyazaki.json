@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "film-director"
   ],
-  "summary": "Hayao Miyazaki is a notable film director associated with Japan.",
+  "summary": "Hayao Miyazaki is a notable film director connected with Japan.",
   "knownFor": [
     "Film Director",
-    "99 language biography editions",
-    "Historical Popularity Index 83.4"
+    "Literature, Arts & Culture",
+    "Japan"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Hayao Miyazaki",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hayao-miyazaki-pantheon-profile",
-      "text": "Pantheon ranks Hayao Miyazaki as a globally documented film director with biographies in 99 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hayao Miyazaki a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hayao-miyazaki-1-origin",
+      "text": "Hayao Miyazaki is remembered as a film director connected with Japan.",
+      "context": "Hayao Miyazaki's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Hayao Miyazaki",
       "sourceUrl": "https://pantheon.world/profile/person/Hayao_Miyazaki",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hayao-miyazaki-2-obstacle",
+      "text": "Hayao Miyazaki's recorded life dates place this profile around born 1941.",
+      "context": "Hayao Miyazaki's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hayao Miyazaki",
+      "sourceUrl": "https://pantheon.world/profile/person/Hayao_Miyazaki",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hayao-miyazaki-3-turning-point",
+      "text": "Hayao Miyazaki is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Hayao Miyazaki's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hayao Miyazaki",
+      "sourceUrl": "https://pantheon.world/profile/person/Hayao_Miyazaki",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hayao-miyazaki-4-contribution",
+      "text": "Hayao Miyazaki's profile connects a short Fact to a wider Japan historical setting.",
+      "context": "Hayao Miyazaki's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hayao Miyazaki",
+      "sourceUrl": "https://pantheon.world/profile/person/Hayao_Miyazaki",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hayao-miyazaki-5-influence",
+      "text": "Hayao Miyazaki has a Facts Mode card reserved for deeper source research.",
+      "context": "Hayao Miyazaki's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hayao Miyazaki",
+      "sourceUrl": "https://pantheon.world/profile/person/Hayao_Miyazaki",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

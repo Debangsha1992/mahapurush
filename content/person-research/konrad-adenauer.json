@@ -1,0 +1,46 @@
+{
+  "personId": "konrad-adenauer",
+  "slug": "konrad-adenauer",
+  "name": "Konrad Adenauer",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Konrad Adenauer",
+      "url": "https://pantheon.world/profile/person/Konrad_Adenauer",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "konrad-adenauer-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Konrad Adenauer is remembered as a politician connected with Germany."
+    },
+    {
+      "factId": "konrad-adenauer-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Konrad Adenauer's recorded life dates place this profile around 1876-1967."
+    },
+    {
+      "factId": "konrad-adenauer-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Konrad Adenauer is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "konrad-adenauer-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Konrad Adenauer's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "konrad-adenauer-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Konrad Adenauer has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

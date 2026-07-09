@@ -1,0 +1,46 @@
+{
+  "personId": "simon-bolivar",
+  "slug": "simon-bolivar",
+  "name": "Simón Bolívar",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Simón Bolívar",
+      "url": "https://pantheon.world/profile/person/Sim%C3%B3n_Bol%C3%ADvar",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "simon-bolivar-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Simón Bolívar is remembered as a politician connected with Venezuela."
+    },
+    {
+      "factId": "simon-bolivar-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Simón Bolívar's recorded life dates place this profile around 1783-1830."
+    },
+    {
+      "factId": "simon-bolivar-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Simón Bolívar is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "simon-bolivar-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Simón Bolívar's profile connects a short Fact to a wider Venezuela historical setting."
+    },
+    {
+      "factId": "simon-bolivar-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Simón Bolívar has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

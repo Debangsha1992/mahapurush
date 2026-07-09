@@ -1,0 +1,46 @@
+{
+  "personId": "stanley-kubrick",
+  "slug": "stanley-kubrick",
+  "name": "Stanley Kubrick",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Stanley Kubrick",
+      "url": "https://pantheon.world/profile/person/Stanley_Kubrick",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "stanley-kubrick-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Stanley Kubrick is remembered as a film director connected with United States."
+    },
+    {
+      "factId": "stanley-kubrick-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Stanley Kubrick's recorded life dates place this profile around 1928-1999."
+    },
+    {
+      "factId": "stanley-kubrick-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Stanley Kubrick is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "stanley-kubrick-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Stanley Kubrick's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "stanley-kubrick-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Stanley Kubrick has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

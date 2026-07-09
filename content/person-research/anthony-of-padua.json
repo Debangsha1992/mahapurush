@@ -1,0 +1,46 @@
+{
+  "personId": "anthony-of-padua",
+  "slug": "anthony-of-padua",
+  "name": "Anthony of Padua",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anthony of Padua",
+      "url": "https://pantheon.world/profile/person/Anthony_of_Padua",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anthony-of-padua-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anthony of Padua is remembered as a religious figure connected with Portugal."
+    },
+    {
+      "factId": "anthony-of-padua-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anthony of Padua's recorded life dates place this profile around 1195-1231."
+    },
+    {
+      "factId": "anthony-of-padua-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anthony of Padua is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "anthony-of-padua-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anthony of Padua's profile connects a short Fact to a wider Portugal historical setting."
+    },
+    {
+      "factId": "anthony-of-padua-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anthony of Padua has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

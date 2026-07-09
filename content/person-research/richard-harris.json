@@ -1,0 +1,46 @@
+{
+  "personId": "richard-harris",
+  "slug": "richard-harris",
+  "name": "Richard Harris",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Richard Harris",
+      "url": "https://pantheon.world/profile/person/Richard_Harris",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "richard-harris-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Richard Harris is remembered as a actor connected with Ireland."
+    },
+    {
+      "factId": "richard-harris-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Richard Harris's recorded life dates place this profile around 1930-2002."
+    },
+    {
+      "factId": "richard-harris-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Richard Harris is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "richard-harris-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Richard Harris's profile connects a short Fact to a wider Ireland historical setting."
+    },
+    {
+      "factId": "richard-harris-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Richard Harris has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

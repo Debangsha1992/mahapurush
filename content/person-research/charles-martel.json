@@ -1,0 +1,46 @@
+{
+  "personId": "charles-martel",
+  "slug": "charles-martel",
+  "name": "Charles Martel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles Martel",
+      "url": "https://pantheon.world/profile/person/Charles_Martel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-martel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles Martel is remembered as a military personnel connected with Belgium."
+    },
+    {
+      "factId": "charles-martel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles Martel's recorded life dates place this profile around 688-741."
+    },
+    {
+      "factId": "charles-martel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles Martel is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "charles-martel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles Martel's profile connects a short Fact to a wider Belgium historical setting."
+    },
+    {
+      "factId": "charles-martel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles Martel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

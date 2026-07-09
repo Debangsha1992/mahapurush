@@ -1,0 +1,46 @@
+{
+  "personId": "ivana-trump",
+  "slug": "ivana-trump",
+  "name": "Ivana Trump",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ivana Trump",
+      "url": "https://pantheon.world/profile/person/Ivana_Trump",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ivana-trump-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ivana Trump is remembered as a businessperson connected with Czechia."
+    },
+    {
+      "factId": "ivana-trump-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ivana Trump's recorded life dates place this profile around 1949-2022."
+    },
+    {
+      "factId": "ivana-trump-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ivana Trump is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "ivana-trump-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ivana Trump's profile connects a short Fact to a wider Czechia historical setting."
+    },
+    {
+      "factId": "ivana-trump-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ivana Trump has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

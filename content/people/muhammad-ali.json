@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "boxer"
   ],
-  "summary": "Muhammad Ali is a notable boxer associated with United States.",
+  "summary": "Muhammad Ali is a notable boxer connected with United States.",
   "knownFor": [
     "Boxer",
-    "139 language biography editions",
-    "Historical Popularity Index 90.7"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 109,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "muhammad-ali-pantheon-profile",
-      "text": "Pantheon ranks Muhammad Ali as a globally documented boxer with biographies in 139 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Muhammad Ali a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "muhammad-ali-1-origin",
+      "text": "Muhammad Ali is remembered as a boxer connected with United States.",
+      "context": "Muhammad Ali's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Muhammad Ali",
       "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-2-obstacle",
+      "text": "Muhammad Ali's recorded life dates place this profile around 1942-2016.",
+      "context": "Muhammad Ali's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Muhammad Ali",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-3-turning-point",
+      "text": "Muhammad Ali is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Muhammad Ali's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Muhammad Ali",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-4-contribution",
+      "text": "Muhammad Ali's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Muhammad Ali's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Muhammad Ali",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-5-influence",
+      "text": "Muhammad Ali has a Facts Mode card reserved for deeper source research.",
+      "context": "Muhammad Ali's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Muhammad Ali",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

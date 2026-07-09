@@ -1,0 +1,47 @@
+{
+  "personId": "florence-nightingale",
+  "slug": "florence-nightingale",
+  "name": "Florence Nightingale",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Florence Nightingale",
+      "url": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "English founder of modern nursing (1820–1910)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "florence-nightingale-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Florence Nightingale was an English social reformer, statistician and the founder of modern nursing."
+    },
+    {
+      "factId": "florence-nightingale-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Florence Nightingale came to prominence while serving as a manager and trainer of nurses during the Crimean War, in which she organised care for wounded soldiers at Constantinople."
+    },
+    {
+      "factId": "florence-nightingale-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Florence Nightingale significantly reduced death rates by improving hygiene and living standards."
+    },
+    {
+      "factId": "florence-nightingale-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Florence Nightingale gave nursing a favourable reputation and became an icon of Victorian culture, especially in the persona of \"The Lady with the Lamp\" making ward rounds for wounded soldiers at night."
+    },
+    {
+      "factId": "florence-nightingale-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Florence Nightingale is remembered as a scientist connected with United Kingdom."
+    }
+  ]
+}

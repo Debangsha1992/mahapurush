@@ -1,0 +1,47 @@
+{
+  "personId": "ay",
+  "slug": "ay",
+  "name": "Ay",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Ay (pharaoh)",
+      "url": "https://en.wikipedia.org/wiki/Ay_(pharaoh)",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Egyptian pharaoh of the late 18th Dynasty"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ay-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ay is remembered as a politician connected with Egypt."
+    },
+    {
+      "factId": "ay-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ay's recorded life dates place this profile around c. 1400–1320 BCE."
+    },
+    {
+      "factId": "ay-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ay is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ay-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ay's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "ay-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ay has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

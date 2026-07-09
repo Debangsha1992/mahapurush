@@ -1,0 +1,46 @@
+{
+  "personId": "paul-gauguin",
+  "slug": "paul-gauguin",
+  "name": "Paul Gauguin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Paul Gauguin",
+      "url": "https://pantheon.world/profile/person/Paul_Gauguin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "paul-gauguin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Paul Gauguin is remembered as a painter connected with France."
+    },
+    {
+      "factId": "paul-gauguin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Paul Gauguin's recorded life dates place this profile around 1848-1903."
+    },
+    {
+      "factId": "paul-gauguin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Paul Gauguin is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "paul-gauguin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Paul Gauguin's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "paul-gauguin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Paul Gauguin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

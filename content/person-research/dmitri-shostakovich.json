@@ -1,0 +1,46 @@
+{
+  "personId": "dmitri-shostakovich",
+  "slug": "dmitri-shostakovich",
+  "name": "Dmitri Shostakovich",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Dmitri Shostakovich",
+      "url": "https://pantheon.world/profile/person/Dmitri_Shostakovich",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "dmitri-shostakovich-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Dmitri Shostakovich is remembered as a composer connected with Russia."
+    },
+    {
+      "factId": "dmitri-shostakovich-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Dmitri Shostakovich's recorded life dates place this profile around 1906-1975."
+    },
+    {
+      "factId": "dmitri-shostakovich-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Dmitri Shostakovich is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "dmitri-shostakovich-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Dmitri Shostakovich's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "dmitri-shostakovich-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Dmitri Shostakovich has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

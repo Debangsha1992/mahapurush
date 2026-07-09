@@ -1,0 +1,46 @@
+{
+  "personId": "xerxes-i",
+  "slug": "xerxes-i",
+  "name": "Xerxes I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Xerxes I",
+      "url": "https://pantheon.world/profile/person/Xerxes_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "xerxes-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Xerxes I is remembered as a politician connected with Iran."
+    },
+    {
+      "factId": "xerxes-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Xerxes I's recorded life dates place this profile around -519--475."
+    },
+    {
+      "factId": "xerxes-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Xerxes I is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "xerxes-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Xerxes I's profile connects a short Fact to a wider Iran historical setting."
+    },
+    {
+      "factId": "xerxes-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Xerxes I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

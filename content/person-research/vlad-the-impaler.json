@@ -1,0 +1,46 @@
+{
+  "personId": "vlad-the-impaler",
+  "slug": "vlad-the-impaler",
+  "name": "Vlad the Impaler",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Vlad the Impaler",
+      "url": "https://pantheon.world/profile/person/Vlad_the_Impaler",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "vlad-the-impaler-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Vlad the Impaler is remembered as a inspiration connected with Romania."
+    },
+    {
+      "factId": "vlad-the-impaler-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Vlad the Impaler's recorded life dates place this profile around 1431-1476."
+    },
+    {
+      "factId": "vlad-the-impaler-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Vlad the Impaler is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "vlad-the-impaler-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Vlad the Impaler's profile connects a short Fact to a wider Romania historical setting."
+    },
+    {
+      "factId": "vlad-the-impaler-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Vlad the Impaler has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

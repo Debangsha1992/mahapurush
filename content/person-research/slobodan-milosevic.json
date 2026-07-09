@@ -1,0 +1,46 @@
+{
+  "personId": "slobodan-milosevic",
+  "slug": "slobodan-milosevic",
+  "name": "Slobodan Milošević",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Slobodan Milošević",
+      "url": "https://pantheon.world/profile/person/Slobodan_Milo%C5%A1evi%C4%87",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "slobodan-milosevic-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Slobodan Milošević is remembered as a politician connected with Serbia."
+    },
+    {
+      "factId": "slobodan-milosevic-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Slobodan Milošević's recorded life dates place this profile around 1941-2006."
+    },
+    {
+      "factId": "slobodan-milosevic-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Slobodan Milošević is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "slobodan-milosevic-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Slobodan Milošević's profile connects a short Fact to a wider Serbia historical setting."
+    },
+    {
+      "factId": "slobodan-milosevic-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Slobodan Milošević has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,35 +12,104 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Archimedes is a notable mathematician associated with Italy.",
+  "summary": "Archimedes of Syracuse was an Ancient Greek mathematician, physicist, engineer, astronomer, and inventor from the city of Syracuse in Sicily.",
   "knownFor": [
     "Mathematician",
-    "189 language biography editions",
-    "Historical Popularity Index 93.4"
+    "Science, Math & Technology",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 59,
   "imageAlt": "Portrait-style visual for Archimedes",
   "sourceRefs": [
     {
-      "title": "Pantheon: Archimedes",
-      "url": "https://pantheon.world/profile/person/Archimedes",
+      "title": "Wikipedia: Archimedes",
+      "url": "https://en.wikipedia.org/wiki/Archimedes",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "archimedes-pantheon-profile",
-      "text": "Pantheon ranks Archimedes as a globally documented mathematician with biographies in 189 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Archimedes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Archimedes",
-      "sourceUrl": "https://pantheon.world/profile/person/Archimedes",
+      "id": "archimedes-1-origin",
+      "text": "Archimedes of Syracuse was an Ancient Greek mathematician, physicist, engineer, astronomer, and inventor from the city of Syracuse in Sicily.",
+      "context": "Archimedes's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Archimedes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Archimedes",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "archimedes-2-obstacle",
+      "text": "Archimedes anticipated modern calculus by using infinitesimals and the method of exhaustion to prove theorems on the area of a circle, the surface area and volume of a sphere, and the area under a parabola.",
+      "context": "Archimedes's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Archimedes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Archimedes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "archimedes-3-turning-point",
+      "text": "Archimedes is remembered as a mathematician connected with Italy.",
+      "context": "Archimedes's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Archimedes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Archimedes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "archimedes-4-contribution",
+      "text": "Archimedes's recorded life dates place this profile around -287--212.",
+      "context": "Archimedes's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Archimedes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Archimedes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "archimedes-5-influence",
+      "text": "Archimedes is grouped with Science, Math & Technology in the People Library.",
+      "context": "Archimedes's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Archimedes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Archimedes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

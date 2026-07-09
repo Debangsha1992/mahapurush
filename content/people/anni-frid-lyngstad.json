@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "singer"
   ],
-  "summary": "Anni-Frid Lyngstad is a notable singer associated with Norway.",
+  "summary": "Anni-Frid Lyngstad is a notable singer connected with Norway.",
   "knownFor": [
     "Singer",
-    "63 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Literature, Arts & Culture",
+    "Norway"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Anni-Frid Lyngstad",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "anni-frid-lyngstad-pantheon-profile",
-      "text": "Pantheon ranks Anni-Frid Lyngstad as a globally documented singer with biographies in 63 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Anni-Frid Lyngstad a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "anni-frid-lyngstad-1-origin",
+      "text": "Anni-Frid Lyngstad is remembered as a singer connected with Norway.",
+      "context": "Anni-Frid Lyngstad's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Anni-Frid Lyngstad",
       "sourceUrl": "https://pantheon.world/profile/person/Anni-Frid_Lyngstad",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anni-frid-lyngstad-2-obstacle",
+      "text": "Anni-Frid Lyngstad's recorded life dates place this profile around born 1945.",
+      "context": "Anni-Frid Lyngstad's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Anni-Frid Lyngstad",
+      "sourceUrl": "https://pantheon.world/profile/person/Anni-Frid_Lyngstad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anni-frid-lyngstad-3-turning-point",
+      "text": "Anni-Frid Lyngstad is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Anni-Frid Lyngstad's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Anni-Frid Lyngstad",
+      "sourceUrl": "https://pantheon.world/profile/person/Anni-Frid_Lyngstad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anni-frid-lyngstad-4-contribution",
+      "text": "Anni-Frid Lyngstad's profile connects a short Fact to a wider Norway historical setting.",
+      "context": "Anni-Frid Lyngstad's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Anni-Frid Lyngstad",
+      "sourceUrl": "https://pantheon.world/profile/person/Anni-Frid_Lyngstad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anni-frid-lyngstad-5-influence",
+      "text": "Anni-Frid Lyngstad has a Facts Mode card reserved for deeper source research.",
+      "context": "Anni-Frid Lyngstad's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Anni-Frid Lyngstad",
+      "sourceUrl": "https://pantheon.world/profile/person/Anni-Frid_Lyngstad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

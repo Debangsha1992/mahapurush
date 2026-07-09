@@ -1,0 +1,46 @@
+{
+  "personId": "ludwig-mies-van-der-rohe",
+  "slug": "ludwig-mies-van-der-rohe",
+  "name": "Ludwig Mies van der Rohe",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ludwig Mies van der Rohe",
+      "url": "https://pantheon.world/profile/person/Ludwig_Mies_van_der_Rohe",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ludwig-mies-van-der-rohe-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig Mies van der Rohe is remembered as a architect connected with Germany."
+    },
+    {
+      "factId": "ludwig-mies-van-der-rohe-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig Mies van der Rohe's recorded life dates place this profile around 1886-1969."
+    },
+    {
+      "factId": "ludwig-mies-van-der-rohe-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig Mies van der Rohe is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ludwig-mies-van-der-rohe-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig Mies van der Rohe's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "ludwig-mies-van-der-rohe-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig Mies van der Rohe has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

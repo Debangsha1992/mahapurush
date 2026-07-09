@@ -1,0 +1,46 @@
+{
+  "personId": "elizabeth-i-of-england",
+  "slug": "elizabeth-i-of-england",
+  "name": "Elizabeth I of England",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Elizabeth I of England",
+      "url": "https://pantheon.world/profile/person/Elizabeth_I_of_England",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "elizabeth-i-of-england-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth I of England is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "elizabeth-i-of-england-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth I of England's recorded life dates place this profile around 1533-1603."
+    },
+    {
+      "factId": "elizabeth-i-of-england-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth I of England is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "elizabeth-i-of-england-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth I of England's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "elizabeth-i-of-england-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth I of England has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

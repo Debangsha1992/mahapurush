@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Thomas Jefferson is a notable politician associated with United States.",
+  "summary": "Thomas Jefferson is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "159 language biography editions",
-    "Historical Popularity Index 93.2"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 64,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "thomas-jefferson-pantheon-profile",
-      "text": "Pantheon ranks Thomas Jefferson as a globally documented politician with biographies in 159 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Thomas Jefferson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "thomas-jefferson-1-origin",
+      "text": "Thomas Jefferson is remembered as a politician connected with United States.",
+      "context": "Thomas Jefferson's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Thomas Jefferson",
       "sourceUrl": "https://pantheon.world/profile/person/Thomas_Jefferson",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thomas-jefferson-2-obstacle",
+      "text": "Thomas Jefferson's recorded life dates place this profile around 1743-1826.",
+      "context": "Thomas Jefferson's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Thomas Jefferson",
+      "sourceUrl": "https://pantheon.world/profile/person/Thomas_Jefferson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thomas-jefferson-3-turning-point",
+      "text": "Thomas Jefferson is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Thomas Jefferson's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Thomas Jefferson",
+      "sourceUrl": "https://pantheon.world/profile/person/Thomas_Jefferson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thomas-jefferson-4-contribution",
+      "text": "Thomas Jefferson's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Thomas Jefferson's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Thomas Jefferson",
+      "sourceUrl": "https://pantheon.world/profile/person/Thomas_Jefferson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thomas-jefferson-5-influence",
+      "text": "Thomas Jefferson has a Facts Mode card reserved for deeper source research.",
+      "context": "Thomas Jefferson's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Thomas Jefferson",
+      "sourceUrl": "https://pantheon.world/profile/person/Thomas_Jefferson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

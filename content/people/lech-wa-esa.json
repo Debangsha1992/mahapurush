@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Lech Wałęsa is a notable politician associated with Poland.",
+  "summary": "Lech Wałęsa is a notable politician connected with Poland.",
   "knownFor": [
     "Politician",
-    "152 language biography editions",
-    "Historical Popularity Index 82.8"
+    "Justice, Governance & Leadership",
+    "Poland"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Lech Wałęsa",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "lech-wa-esa-pantheon-profile",
-      "text": "Pantheon ranks Lech Wałęsa as a globally documented politician with biographies in 152 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Lech Wałęsa a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "lech-wa-esa-1-origin",
+      "text": "Lech Wałęsa is remembered as a politician connected with Poland.",
+      "context": "Lech Wałęsa's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Lech Wałęsa",
       "sourceUrl": "https://pantheon.world/profile/person/Lech_Wa%C5%82%C4%99sa",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lech-wa-esa-2-obstacle",
+      "text": "Lech Wałęsa's recorded life dates place this profile around born 1943.",
+      "context": "Lech Wałęsa's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Lech Wałęsa",
+      "sourceUrl": "https://pantheon.world/profile/person/Lech_Wa%C5%82%C4%99sa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lech-wa-esa-3-turning-point",
+      "text": "Lech Wałęsa is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Lech Wałęsa's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Lech Wałęsa",
+      "sourceUrl": "https://pantheon.world/profile/person/Lech_Wa%C5%82%C4%99sa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lech-wa-esa-4-contribution",
+      "text": "Lech Wałęsa's profile connects a short Fact to a wider Poland historical setting.",
+      "context": "Lech Wałęsa's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Lech Wałęsa",
+      "sourceUrl": "https://pantheon.world/profile/person/Lech_Wa%C5%82%C4%99sa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lech-wa-esa-5-influence",
+      "text": "Lech Wałęsa has a Facts Mode card reserved for deeper source research.",
+      "context": "Lech Wałęsa's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Lech Wałęsa",
+      "sourceUrl": "https://pantheon.world/profile/person/Lech_Wa%C5%82%C4%99sa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

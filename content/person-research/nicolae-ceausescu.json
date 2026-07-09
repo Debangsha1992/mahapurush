@@ -1,0 +1,46 @@
+{
+  "personId": "nicolae-ceausescu",
+  "slug": "nicolae-ceausescu",
+  "name": "Nicolae Ceaușescu",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Nicolae Ceaușescu",
+      "url": "https://pantheon.world/profile/person/Nicolae_Ceau%C8%99escu",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "nicolae-ceausescu-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Nicolae Ceaușescu is remembered as a politician connected with Romania."
+    },
+    {
+      "factId": "nicolae-ceausescu-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Nicolae Ceaușescu's recorded life dates place this profile around 1918-1989."
+    },
+    {
+      "factId": "nicolae-ceausescu-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Nicolae Ceaușescu is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "nicolae-ceausescu-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Nicolae Ceaușescu's profile connects a short Fact to a wider Romania historical setting."
+    },
+    {
+      "factId": "nicolae-ceausescu-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Nicolae Ceaușescu has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

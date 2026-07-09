@@ -1,0 +1,46 @@
+{
+  "personId": "rodrigo-duterte",
+  "slug": "rodrigo-duterte",
+  "name": "Rodrigo Duterte",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Rodrigo Duterte",
+      "url": "https://pantheon.world/profile/person/Rodrigo_Duterte",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "rodrigo-duterte-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Rodrigo Duterte is remembered as a politician connected with Philippines."
+    },
+    {
+      "factId": "rodrigo-duterte-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Rodrigo Duterte's recorded life dates place this profile around born 1945."
+    },
+    {
+      "factId": "rodrigo-duterte-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Rodrigo Duterte is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "rodrigo-duterte-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Rodrigo Duterte's profile connects a short Fact to a wider Philippines historical setting."
+    },
+    {
+      "factId": "rodrigo-duterte-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Rodrigo Duterte has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

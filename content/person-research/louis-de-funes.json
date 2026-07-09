@@ -1,0 +1,46 @@
+{
+  "personId": "louis-de-funes",
+  "slug": "louis-de-funes",
+  "name": "Louis de Funès",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Louis de Funès",
+      "url": "https://pantheon.world/profile/person/Louis_de_Fun%C3%A8s",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "louis-de-funes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Louis de Funès is remembered as a actor connected with France."
+    },
+    {
+      "factId": "louis-de-funes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Louis de Funès's recorded life dates place this profile around 1914-1983."
+    },
+    {
+      "factId": "louis-de-funes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Louis de Funès is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "louis-de-funes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Louis de Funès's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "louis-de-funes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Louis de Funès has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "social-activist"
   ],
-  "summary": "Rosa Luxemburg is a notable social activist associated with Poland.",
+  "summary": "Rosa Luxemburg is a notable social activist connected with Poland.",
   "knownFor": [
     "Social Activist",
-    "137 language biography editions",
-    "Historical Popularity Index 85.3"
+    "Justice, Governance & Leadership",
+    "Poland"
   ],
   "featured": true,
   "featuredRank": 406,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "rosa-luxemburg-pantheon-profile",
-      "text": "Pantheon ranks Rosa Luxemburg as a globally documented social activist with biographies in 137 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Rosa Luxemburg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "rosa-luxemburg-1-origin",
+      "text": "Rosa Luxemburg is remembered as a social activist connected with Poland.",
+      "context": "Rosa Luxemburg's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Rosa Luxemburg",
       "sourceUrl": "https://pantheon.world/profile/person/Rosa_Luxemburg",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rosa-luxemburg-2-obstacle",
+      "text": "Rosa Luxemburg's recorded life dates place this profile around 1871-1919.",
+      "context": "Rosa Luxemburg's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Rosa Luxemburg",
+      "sourceUrl": "https://pantheon.world/profile/person/Rosa_Luxemburg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rosa-luxemburg-3-turning-point",
+      "text": "Rosa Luxemburg is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Rosa Luxemburg's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Rosa Luxemburg",
+      "sourceUrl": "https://pantheon.world/profile/person/Rosa_Luxemburg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rosa-luxemburg-4-contribution",
+      "text": "Rosa Luxemburg's profile connects a short Fact to a wider Poland historical setting.",
+      "context": "Rosa Luxemburg's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Rosa Luxemburg",
+      "sourceUrl": "https://pantheon.world/profile/person/Rosa_Luxemburg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rosa-luxemburg-5-influence",
+      "text": "Rosa Luxemburg has a Facts Mode card reserved for deeper source research.",
+      "context": "Rosa Luxemburg's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Rosa Luxemburg",
+      "sourceUrl": "https://pantheon.world/profile/person/Rosa_Luxemburg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

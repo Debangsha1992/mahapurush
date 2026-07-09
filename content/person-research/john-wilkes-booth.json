@@ -1,0 +1,46 @@
+{
+  "personId": "john-wilkes-booth",
+  "slug": "john-wilkes-booth",
+  "name": "John Wilkes Booth",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John Wilkes Booth",
+      "url": "https://pantheon.world/profile/person/John_Wilkes_Booth",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-wilkes-booth-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John Wilkes Booth is remembered as a extremist connected with United States."
+    },
+    {
+      "factId": "john-wilkes-booth-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John Wilkes Booth's recorded life dates place this profile around 1838-1865."
+    },
+    {
+      "factId": "john-wilkes-booth-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John Wilkes Booth is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "john-wilkes-booth-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John Wilkes Booth's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "john-wilkes-booth-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John Wilkes Booth has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

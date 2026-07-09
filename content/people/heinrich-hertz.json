@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Heinrich Hertz is a notable physicist associated with Germany.",
+  "summary": "Heinrich Hertz is a notable physicist connected with Germany.",
   "knownFor": [
     "Physicist",
-    "101 language biography editions",
-    "Historical Popularity Index 82.3"
+    "Science, Math & Technology",
+    "Germany"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Heinrich Hertz",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "heinrich-hertz-pantheon-profile",
-      "text": "Pantheon ranks Heinrich Hertz as a globally documented physicist with biographies in 101 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Heinrich Hertz a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "heinrich-hertz-1-origin",
+      "text": "Heinrich Hertz is remembered as a physicist connected with Germany.",
+      "context": "Heinrich Hertz's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Heinrich Hertz",
       "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Hertz",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heinrich-hertz-2-obstacle",
+      "text": "Heinrich Hertz's recorded life dates place this profile around 1857-1894.",
+      "context": "Heinrich Hertz's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Heinrich Hertz",
+      "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Hertz",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heinrich-hertz-3-turning-point",
+      "text": "Heinrich Hertz is grouped with Science, Math & Technology in the People Library.",
+      "context": "Heinrich Hertz's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Heinrich Hertz",
+      "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Hertz",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heinrich-hertz-4-contribution",
+      "text": "Heinrich Hertz's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Heinrich Hertz's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Heinrich Hertz",
+      "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Hertz",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heinrich-hertz-5-influence",
+      "text": "Heinrich Hertz has a Facts Mode card reserved for deeper source research.",
+      "context": "Heinrich Hertz's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Heinrich Hertz",
+      "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Hertz",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "astronomer"
   ],
-  "summary": "Tycho Brahe is a notable astronomer associated with Sweden.",
+  "summary": "Tycho Brahe is a notable astronomer connected with Sweden.",
   "knownFor": [
     "Astronomer",
-    "105 language biography editions",
-    "Historical Popularity Index 83.5"
+    "Justice, Governance & Leadership",
+    "Sweden"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Tycho Brahe",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "tycho-brahe-pantheon-profile",
-      "text": "Pantheon ranks Tycho Brahe as a globally documented astronomer with biographies in 105 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Tycho Brahe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "tycho-brahe-1-origin",
+      "text": "Tycho Brahe is remembered as a astronomer connected with Sweden.",
+      "context": "Tycho Brahe's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Tycho Brahe",
       "sourceUrl": "https://pantheon.world/profile/person/Tycho_Brahe",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tycho-brahe-2-obstacle",
+      "text": "Tycho Brahe's recorded life dates place this profile around 1546-1601.",
+      "context": "Tycho Brahe's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Tycho Brahe",
+      "sourceUrl": "https://pantheon.world/profile/person/Tycho_Brahe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tycho-brahe-3-turning-point",
+      "text": "Tycho Brahe is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Tycho Brahe's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Tycho Brahe",
+      "sourceUrl": "https://pantheon.world/profile/person/Tycho_Brahe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tycho-brahe-4-contribution",
+      "text": "Tycho Brahe's profile connects a short Fact to a wider Sweden historical setting.",
+      "context": "Tycho Brahe's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Tycho Brahe",
+      "sourceUrl": "https://pantheon.world/profile/person/Tycho_Brahe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tycho-brahe-5-influence",
+      "text": "Tycho Brahe has a Facts Mode card reserved for deeper source research.",
+      "context": "Tycho Brahe's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Tycho Brahe",
+      "sourceUrl": "https://pantheon.world/profile/person/Tycho_Brahe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

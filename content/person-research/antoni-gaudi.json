@@ -1,0 +1,47 @@
+{
+  "personId": "antoni-gaudi",
+  "slug": "antoni-gaudi",
+  "name": "Antoni Gaudí",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Antoni Gaudí",
+      "url": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Catalan architect (1852–1926)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "antoni-gaudi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Antoni Gaudí is remembered as a architect connected with Spain."
+    },
+    {
+      "factId": "antoni-gaudi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Antoni Gaudí's recorded life dates place this profile around 1852-1926."
+    },
+    {
+      "factId": "antoni-gaudi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Antoni Gaudí is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "antoni-gaudi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Antoni Gaudí's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "antoni-gaudi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Antoni Gaudí has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

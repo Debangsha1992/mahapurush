@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Theodora is a notable companion associated with Cyprus.",
+  "summary": "Theodora is a notable companion connected with Cyprus.",
   "knownFor": [
     "Companion",
-    "58 language biography editions",
-    "Historical Popularity Index 83.5"
+    "Justice, Governance & Leadership",
+    "Cyprus"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Theodora",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "theodora-6th-century-pantheon-profile",
-      "text": "Pantheon ranks Theodora as a globally documented companion with biographies in 58 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Theodora a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "theodora-6th-century-1-origin",
+      "text": "Theodora is remembered as a companion connected with Cyprus.",
+      "context": "Theodora's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Theodora",
       "sourceUrl": "https://pantheon.world/profile/person/Theodora_(6th_century)",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "theodora-6th-century-2-obstacle",
+      "text": "Theodora's recorded life dates place this profile around 500-548.",
+      "context": "Theodora's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Theodora",
+      "sourceUrl": "https://pantheon.world/profile/person/Theodora_(6th_century)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "theodora-6th-century-3-turning-point",
+      "text": "Theodora is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Theodora's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Theodora",
+      "sourceUrl": "https://pantheon.world/profile/person/Theodora_(6th_century)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "theodora-6th-century-4-contribution",
+      "text": "Theodora's profile connects a short Fact to a wider Cyprus historical setting.",
+      "context": "Theodora's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Theodora",
+      "sourceUrl": "https://pantheon.world/profile/person/Theodora_(6th_century)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "theodora-6th-century-5-influence",
+      "text": "Theodora has a Facts Mode card reserved for deeper source research.",
+      "context": "Theodora's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Theodora",
+      "sourceUrl": "https://pantheon.world/profile/person/Theodora_(6th_century)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "luciano-pavarotti",
+  "slug": "luciano-pavarotti",
+  "name": "Luciano Pavarotti",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Luciano Pavarotti",
+      "url": "https://pantheon.world/profile/person/Luciano_Pavarotti",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "luciano-pavarotti-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Luciano Pavarotti is remembered as a singer connected with Italy."
+    },
+    {
+      "factId": "luciano-pavarotti-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Luciano Pavarotti's recorded life dates place this profile around 1935-2007."
+    },
+    {
+      "factId": "luciano-pavarotti-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Luciano Pavarotti is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "luciano-pavarotti-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Luciano Pavarotti's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "luciano-pavarotti-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Luciano Pavarotti has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

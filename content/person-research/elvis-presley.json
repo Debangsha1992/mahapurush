@@ -1,0 +1,47 @@
+{
+  "personId": "elvis-presley",
+  "slug": "elvis-presley",
+  "name": "Elvis Presley",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Elvis Presley",
+      "url": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "American singer and actor (1935–1977)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "elvis-presley-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Elvis Aaron Elvis Presley was an American singer and actor."
+    },
+    {
+      "factId": "elvis-presley-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Elvis Presley's energetic and sexually provocative performance style, combined with a mixture of influences across color lines during a transformative era in race relations, brought both great success and initial controversy."
+    },
+    {
+      "factId": "elvis-presley-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Elvis Presley is remembered as a singer connected with United States."
+    },
+    {
+      "factId": "elvis-presley-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Elvis Presley's recorded life dates place this profile around 1935-1977."
+    },
+    {
+      "factId": "elvis-presley-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Elvis Presley is grouped with Literature, Arts & Culture in the People Library."
+    }
+  ]
+}

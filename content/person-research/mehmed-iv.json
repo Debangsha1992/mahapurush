@@ -1,0 +1,46 @@
+{
+  "personId": "mehmed-iv",
+  "slug": "mehmed-iv",
+  "name": "Mehmed IV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mehmed IV",
+      "url": "https://pantheon.world/profile/person/Mehmed_IV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mehmed-iv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed IV is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "mehmed-iv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed IV's recorded life dates place this profile around 1642-1693."
+    },
+    {
+      "factId": "mehmed-iv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed IV is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mehmed-iv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed IV's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "mehmed-iv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed IV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

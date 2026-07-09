@@ -12,11 +12,11 @@
     "science-math-technology",
     "inventor"
   ],
-  "summary": "Guglielmo Marconi is a notable inventor associated with Italy.",
+  "summary": "Guglielmo Marconi is a notable inventor connected with Italy.",
   "knownFor": [
     "Inventor",
-    "117 language biography editions",
-    "Historical Popularity Index 83.4"
+    "Science, Math & Technology",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Guglielmo Marconi",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "guglielmo-marconi-pantheon-profile",
-      "text": "Pantheon ranks Guglielmo Marconi as a globally documented inventor with biographies in 117 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Guglielmo Marconi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "guglielmo-marconi-1-origin",
+      "text": "Guglielmo Marconi is remembered as a inventor connected with Italy.",
+      "context": "Guglielmo Marconi's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Guglielmo Marconi",
       "sourceUrl": "https://pantheon.world/profile/person/Guglielmo_Marconi",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "guglielmo-marconi-2-obstacle",
+      "text": "Guglielmo Marconi's recorded life dates place this profile around 1874-1937.",
+      "context": "Guglielmo Marconi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Guglielmo Marconi",
+      "sourceUrl": "https://pantheon.world/profile/person/Guglielmo_Marconi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "guglielmo-marconi-3-turning-point",
+      "text": "Guglielmo Marconi is grouped with Science, Math & Technology in the People Library.",
+      "context": "Guglielmo Marconi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Guglielmo Marconi",
+      "sourceUrl": "https://pantheon.world/profile/person/Guglielmo_Marconi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "guglielmo-marconi-4-contribution",
+      "text": "Guglielmo Marconi's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Guglielmo Marconi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Guglielmo Marconi",
+      "sourceUrl": "https://pantheon.world/profile/person/Guglielmo_Marconi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "guglielmo-marconi-5-influence",
+      "text": "Guglielmo Marconi has a Facts Mode card reserved for deeper source research.",
+      "context": "Guglielmo Marconi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Guglielmo Marconi",
+      "sourceUrl": "https://pantheon.world/profile/person/Guglielmo_Marconi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,47 @@
+{
+  "personId": "plato",
+  "slug": "plato",
+  "name": "Plato",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Plato",
+      "url": "https://en.wikipedia.org/wiki/Plato",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Ancient Greek philosopher"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "plato-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Plato was an ancient Greek philosopher of Classical Athens who is most commonly considered the foundational thinker of the Western philosophical tradition."
+    },
+    {
+      "factId": "plato-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "An innovator of the literary dialogue and dialectic forms, Plato influenced all the major areas of theoretical philosophy and practical philosophy, and was the founder of the Academy, a philosophical school in Athens where Plato taught the collection of philosophical theories that would later becom."
+    },
+    {
+      "factId": "plato-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Plato is remembered as a philosopher connected with Greece."
+    },
+    {
+      "factId": "plato-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Plato's recorded life dates place this profile around -427--347."
+    },
+    {
+      "factId": "plato-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Plato is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

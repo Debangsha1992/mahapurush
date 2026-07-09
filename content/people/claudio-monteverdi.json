@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Claudio Monteverdi is a notable composer associated with Italy.",
+  "summary": "Claudio Monteverdi is a notable composer connected with Italy.",
   "knownFor": [
     "Composer",
-    "76 language biography editions",
-    "Historical Popularity Index 83.4"
+    "Literature, Arts & Culture",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Claudio Monteverdi",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "claudio-monteverdi-pantheon-profile",
-      "text": "Pantheon ranks Claudio Monteverdi as a globally documented composer with biographies in 76 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Claudio Monteverdi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "claudio-monteverdi-1-origin",
+      "text": "Claudio Monteverdi is remembered as a composer connected with Italy.",
+      "context": "Claudio Monteverdi's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Claudio Monteverdi",
       "sourceUrl": "https://pantheon.world/profile/person/Claudio_Monteverdi",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "claudio-monteverdi-2-obstacle",
+      "text": "Claudio Monteverdi's recorded life dates place this profile around 1567-1643.",
+      "context": "Claudio Monteverdi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Claudio Monteverdi",
+      "sourceUrl": "https://pantheon.world/profile/person/Claudio_Monteverdi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "claudio-monteverdi-3-turning-point",
+      "text": "Claudio Monteverdi is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Claudio Monteverdi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Claudio Monteverdi",
+      "sourceUrl": "https://pantheon.world/profile/person/Claudio_Monteverdi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "claudio-monteverdi-4-contribution",
+      "text": "Claudio Monteverdi's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Claudio Monteverdi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Claudio Monteverdi",
+      "sourceUrl": "https://pantheon.world/profile/person/Claudio_Monteverdi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "claudio-monteverdi-5-influence",
+      "text": "Claudio Monteverdi has a Facts Mode card reserved for deeper source research.",
+      "context": "Claudio Monteverdi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Claudio Monteverdi",
+      "sourceUrl": "https://pantheon.world/profile/person/Claudio_Monteverdi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

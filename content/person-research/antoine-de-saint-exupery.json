@@ -1,0 +1,46 @@
+{
+  "personId": "antoine-de-saint-exupery",
+  "slug": "antoine-de-saint-exupery",
+  "name": "Antoine de Saint-Exupéry",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Antoine de Saint-Exupéry",
+      "url": "https://pantheon.world/profile/person/Antoine_de_Saint-Exup%C3%A9ry",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "antoine-de-saint-exupery-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Antoine de Saint-Exupéry is remembered as a writer connected with France."
+    },
+    {
+      "factId": "antoine-de-saint-exupery-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Antoine de Saint-Exupéry's recorded life dates place this profile around 1900-1944."
+    },
+    {
+      "factId": "antoine-de-saint-exupery-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Antoine de Saint-Exupéry is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "antoine-de-saint-exupery-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Antoine de Saint-Exupéry's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "antoine-de-saint-exupery-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Antoine de Saint-Exupéry has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

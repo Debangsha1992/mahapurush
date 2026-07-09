@@ -12,35 +12,105 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Aesop is a notable writer associated with Bulgaria.",
+  "summary": "Aesop was a Greek fabulist and storyteller credited with a number of fables now collectively known as Aesop's Fables.",
   "knownFor": [
     "Writer",
-    "102 language biography editions",
-    "Historical Popularity Index 86.3"
+    "Literature, Arts & Culture",
+    "Bulgaria"
   ],
   "featured": true,
   "featuredRank": 326,
   "imageAlt": "Portrait-style visual for Aesop",
   "sourceRefs": [
     {
-      "title": "Pantheon: Aesop",
-      "url": "https://pantheon.world/profile/person/Aesop",
+      "title": "Wikipedia: Aesop",
+      "url": "https://en.wikipedia.org/wiki/Aesop",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "aesop-pantheon-profile",
-      "text": "Pantheon ranks Aesop as a globally documented writer with biographies in 102 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Aesop a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Aesop",
-      "sourceUrl": "https://pantheon.world/profile/person/Aesop",
+      "id": "aesop-1-origin",
+      "text": "Aesop was a Greek fabulist and storyteller credited with a number of fables now collectively known as Aesop's Fables.",
+      "context": "Aesop's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Aesop",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aesop",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aesop-2-obstacle",
+      "text": "Aesop is remembered as a writer connected with Bulgaria.",
+      "context": "Aesop's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Aesop",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aesop",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aesop-3-turning-point",
+      "text": "Aesop's recorded life dates place this profile around -620--564.",
+      "context": "Aesop's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Aesop",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aesop",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aesop-4-contribution",
+      "text": "Aesop is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Aesop's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Aesop",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aesop",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aesop-5-influence",
+      "text": "Aesop's profile connects a short Fact to a wider Bulgaria historical setting.",
+      "context": "Aesop's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Aesop",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Aesop",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

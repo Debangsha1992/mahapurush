@@ -1,0 +1,46 @@
+{
+  "personId": "chiang-kai-shek",
+  "slug": "chiang-kai-shek",
+  "name": "Chiang Kai-shek",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Chiang Kai-shek",
+      "url": "https://pantheon.world/profile/person/Chiang_Kai-shek",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "chiang-kai-shek-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Chiang Kai-shek is remembered as a military personnel connected with China."
+    },
+    {
+      "factId": "chiang-kai-shek-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Chiang Kai-shek's recorded life dates place this profile around 1887-1975."
+    },
+    {
+      "factId": "chiang-kai-shek-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Chiang Kai-shek is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "chiang-kai-shek-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Chiang Kai-shek's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "chiang-kai-shek-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Chiang Kai-shek has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

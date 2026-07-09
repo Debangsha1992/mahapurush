@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "philosopher"
   ],
-  "summary": "Swami Vivekananda is a notable philosopher associated with India.",
+  "summary": "Swami Vivekananda is a notable philosopher connected with India.",
   "knownFor": [
     "Philosopher",
-    "92 language biography editions",
-    "Historical Popularity Index 82.7"
+    "Philosophy, Ethics & Religion",
+    "India"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Swami Vivekananda",
@@ -25,23 +25,120 @@
       "title": "Pantheon: Swami Vivekananda",
       "url": "https://pantheon.world/profile/person/Swami_Vivekananda",
       "accessedAt": "2026-07-06"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Vivekananda",
+      "url": "https://www.britannica.com/biography/Vivekananda",
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "swami-vivekananda-pantheon-profile",
-      "text": "Pantheon ranks Swami Vivekananda as a globally documented philosopher with biographies in 92 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Swami Vivekananda a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "swami-vivekananda-approved-01",
+      "text": "Swami Vivekananda introduced many Americans to Vedanta at the 1893 World's Parliament of Religions in Chicago.",
+      "context": "Vivekananda shows how one speech can carry a spiritual tradition into a new public conversation.",
+      "sourceTitle": "Encyclopaedia Britannica: Vivekananda",
+      "sourceUrl": "https://www.britannica.com/biography/Vivekananda",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "Britannica describes Vivekananda's appearance at the 1893 World's Parliament of Religions.",
+      "tags": [
+        "philosophy-ethics-religion"
+      ],
+      "verified": true
+    },
+    {
+      "id": "swami-vivekananda-1-origin",
+      "text": "Swami Vivekananda is remembered as a philosopher connected with India.",
+      "context": "Swami Vivekananda's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Swami Vivekananda",
       "sourceUrl": "https://pantheon.world/profile/person/Swami_Vivekananda",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
       ],
-      "verified": true
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "swami-vivekananda-2-obstacle",
+      "text": "Swami Vivekananda's recorded life dates place this profile around 1863-1902.",
+      "context": "Swami Vivekananda's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Swami Vivekananda",
+      "sourceUrl": "https://pantheon.world/profile/person/Swami_Vivekananda",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "swami-vivekananda-3-turning-point",
+      "text": "Swami Vivekananda is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Swami Vivekananda's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Swami Vivekananda",
+      "sourceUrl": "https://pantheon.world/profile/person/Swami_Vivekananda",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "swami-vivekananda-4-contribution",
+      "text": "Swami Vivekananda's profile connects a short Fact to a wider India historical setting.",
+      "context": "Swami Vivekananda's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Swami Vivekananda",
+      "sourceUrl": "https://pantheon.world/profile/person/Swami_Vivekananda",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "swami-vivekananda-5-influence",
+      "text": "Swami Vivekananda has a Facts Mode card reserved for deeper source research.",
+      "context": "Swami Vivekananda's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Swami Vivekananda",
+      "sourceUrl": "https://pantheon.world/profile/person/Swami_Vivekananda",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ]
 }

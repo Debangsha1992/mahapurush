@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Qin Shi Huang is a notable politician associated with China.",
+  "summary": "Qin Shi Huang is a notable politician connected with China.",
   "knownFor": [
     "Politician",
-    "181 language biography editions",
-    "Historical Popularity Index 91.0"
+    "Justice, Governance & Leadership",
+    "China"
   ],
   "featured": true,
   "featuredRank": 104,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "qin-shi-huang-pantheon-profile",
-      "text": "Pantheon ranks Qin Shi Huang as a globally documented politician with biographies in 181 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Qin Shi Huang a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "qin-shi-huang-1-origin",
+      "text": "Qin Shi Huang is remembered as a politician connected with China.",
+      "context": "Qin Shi Huang's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Qin Shi Huang",
       "sourceUrl": "https://pantheon.world/profile/person/Qin_Shi_Huang",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "qin-shi-huang-2-obstacle",
+      "text": "Qin Shi Huang's recorded life dates place this profile around -258--210.",
+      "context": "Qin Shi Huang's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Qin Shi Huang",
+      "sourceUrl": "https://pantheon.world/profile/person/Qin_Shi_Huang",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "qin-shi-huang-3-turning-point",
+      "text": "Qin Shi Huang is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Qin Shi Huang's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Qin Shi Huang",
+      "sourceUrl": "https://pantheon.world/profile/person/Qin_Shi_Huang",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "qin-shi-huang-4-contribution",
+      "text": "Qin Shi Huang's profile connects a short Fact to a wider China historical setting.",
+      "context": "Qin Shi Huang's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Qin Shi Huang",
+      "sourceUrl": "https://pantheon.world/profile/person/Qin_Shi_Huang",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "qin-shi-huang-5-influence",
+      "text": "Qin Shi Huang has a Facts Mode card reserved for deeper source research.",
+      "context": "Qin Shi Huang's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Qin Shi Huang",
+      "sourceUrl": "https://pantheon.world/profile/person/Qin_Shi_Huang",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

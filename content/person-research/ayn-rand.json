@@ -1,0 +1,46 @@
+{
+  "personId": "ayn-rand",
+  "slug": "ayn-rand",
+  "name": "Ayn Rand",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ayn Rand",
+      "url": "https://pantheon.world/profile/person/Ayn_Rand",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ayn-rand-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ayn Rand is remembered as a writer connected with Russia."
+    },
+    {
+      "factId": "ayn-rand-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ayn Rand's recorded life dates place this profile around 1905-1982."
+    },
+    {
+      "factId": "ayn-rand-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ayn Rand is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "ayn-rand-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ayn Rand's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "ayn-rand-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ayn Rand has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "james-vi-and-i",
+  "slug": "james-vi-and-i",
+  "name": "James VI and I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James VI and I",
+      "url": "https://pantheon.world/profile/person/James_VI_and_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-vi-and-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James VI and I is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "james-vi-and-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James VI and I's recorded life dates place this profile around 1566-1625."
+    },
+    {
+      "factId": "james-vi-and-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James VI and I is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "james-vi-and-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James VI and I's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "james-vi-and-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James VI and I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

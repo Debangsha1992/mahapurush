@@ -1,0 +1,46 @@
+{
+  "personId": "john-major",
+  "slug": "john-major",
+  "name": "John Major",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John Major",
+      "url": "https://pantheon.world/profile/person/John_Major",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-major-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John Major is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "john-major-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John Major's recorded life dates place this profile around born 1943."
+    },
+    {
+      "factId": "john-major-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John Major is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "john-major-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John Major's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "john-major-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John Major has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

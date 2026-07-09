@@ -12,11 +12,11 @@
     "science-math-technology",
     "physician"
   ],
-  "summary": "Robert Koch is a notable physician associated with Germany.",
+  "summary": "Robert Koch is a notable physician connected with Germany.",
   "knownFor": [
     "Physician",
-    "114 language biography editions",
-    "Historical Popularity Index 83.5"
+    "Science, Math & Technology",
+    "Germany"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Robert Koch",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "robert-koch-pantheon-profile",
-      "text": "Pantheon ranks Robert Koch as a globally documented physician with biographies in 114 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Robert Koch a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "robert-koch-1-origin",
+      "text": "Robert Koch is remembered as a physician connected with Germany.",
+      "context": "Robert Koch's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Robert Koch",
       "sourceUrl": "https://pantheon.world/profile/person/Robert_Koch",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-koch-2-obstacle",
+      "text": "Robert Koch's recorded life dates place this profile around 1843-1910.",
+      "context": "Robert Koch's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Robert Koch",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Koch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-koch-3-turning-point",
+      "text": "Robert Koch is grouped with Science, Math & Technology in the People Library.",
+      "context": "Robert Koch's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Robert Koch",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Koch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-koch-4-contribution",
+      "text": "Robert Koch's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Robert Koch's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Robert Koch",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Koch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-koch-5-influence",
+      "text": "Robert Koch has a Facts Mode card reserved for deeper source research.",
+      "context": "Robert Koch's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Robert Koch",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Koch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

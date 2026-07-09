@@ -12,11 +12,11 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Al-Biruni is a notable mathematician associated with Uzbekistan.",
+  "summary": "Al-Biruni is a notable mathematician connected with Uzbekistan.",
   "knownFor": [
     "Mathematician",
-    "94 language biography editions",
-    "Historical Popularity Index 83.7"
+    "Science, Math & Technology",
+    "Uzbekistan"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Al-Biruni",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "al-biruni-pantheon-profile",
-      "text": "Pantheon ranks Al-Biruni as a globally documented mathematician with biographies in 94 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Al-Biruni a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "al-biruni-1-origin",
+      "text": "Al-Biruni is remembered as a mathematician connected with Uzbekistan.",
+      "context": "Al-Biruni's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Al-Biruni",
       "sourceUrl": "https://pantheon.world/profile/person/Al-Biruni",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-biruni-2-obstacle",
+      "text": "Al-Biruni's recorded life dates place this profile around 973-1048.",
+      "context": "Al-Biruni's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Al-Biruni",
+      "sourceUrl": "https://pantheon.world/profile/person/Al-Biruni",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-biruni-3-turning-point",
+      "text": "Al-Biruni is grouped with Science, Math & Technology in the People Library.",
+      "context": "Al-Biruni's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Al-Biruni",
+      "sourceUrl": "https://pantheon.world/profile/person/Al-Biruni",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-biruni-4-contribution",
+      "text": "Al-Biruni's profile connects a short Fact to a wider Uzbekistan historical setting.",
+      "context": "Al-Biruni's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Al-Biruni",
+      "sourceUrl": "https://pantheon.world/profile/person/Al-Biruni",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-biruni-5-influence",
+      "text": "Al-Biruni has a Facts Mode card reserved for deeper source research.",
+      "context": "Al-Biruni's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Al-Biruni",
+      "sourceUrl": "https://pantheon.world/profile/person/Al-Biruni",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

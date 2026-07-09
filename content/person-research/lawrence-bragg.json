@@ -1,0 +1,46 @@
+{
+  "personId": "lawrence-bragg",
+  "slug": "lawrence-bragg",
+  "name": "Lawrence Bragg",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Lawrence Bragg",
+      "url": "https://pantheon.world/profile/person/Lawrence_Bragg",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lawrence-bragg-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Lawrence Bragg is remembered as a physicist connected with Australia."
+    },
+    {
+      "factId": "lawrence-bragg-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Lawrence Bragg's recorded life dates place this profile around 1890-1971."
+    },
+    {
+      "factId": "lawrence-bragg-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Lawrence Bragg is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "lawrence-bragg-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lawrence Bragg's profile connects a short Fact to a wider Australia historical setting."
+    },
+    {
+      "factId": "lawrence-bragg-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lawrence Bragg has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

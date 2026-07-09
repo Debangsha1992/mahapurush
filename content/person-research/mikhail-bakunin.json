@@ -1,0 +1,46 @@
+{
+  "personId": "mikhail-bakunin",
+  "slug": "mikhail-bakunin",
+  "name": "Mikhail Bakunin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mikhail Bakunin",
+      "url": "https://pantheon.world/profile/person/Mikhail_Bakunin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mikhail-bakunin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mikhail Bakunin is remembered as a philosopher connected with Russia."
+    },
+    {
+      "factId": "mikhail-bakunin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mikhail Bakunin's recorded life dates place this profile around 1814-1876."
+    },
+    {
+      "factId": "mikhail-bakunin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mikhail Bakunin is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "mikhail-bakunin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mikhail Bakunin's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "mikhail-bakunin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mikhail Bakunin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "zheng-he",
+  "slug": "zheng-he",
+  "name": "Zheng He",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Zheng He",
+      "url": "https://pantheon.world/profile/person/Zheng_He",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "zheng-he-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Zheng He is remembered as a explorer connected with China."
+    },
+    {
+      "factId": "zheng-he-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Zheng He's recorded life dates place this profile around 1387-1433."
+    },
+    {
+      "factId": "zheng-he-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Zheng He is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "zheng-he-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Zheng He's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "zheng-he-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Zheng He has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

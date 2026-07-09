@@ -1,0 +1,46 @@
+{
+  "personId": "saint-lucy",
+  "slug": "saint-lucy",
+  "name": "Saint Lucy",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Saint Lucy",
+      "url": "https://pantheon.world/profile/person/Saint_Lucy",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saint-lucy-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Saint Lucy is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "saint-lucy-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Saint Lucy's recorded life dates place this profile around 283-304."
+    },
+    {
+      "factId": "saint-lucy-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Saint Lucy is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "saint-lucy-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Saint Lucy's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "saint-lucy-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Saint Lucy has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

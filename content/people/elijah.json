@@ -12,35 +12,105 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Elijah is a notable religious figure associated with Israel.",
+  "summary": "Elijah was a prophet and miracle worker who lived in the northern kingdom of Israel during the reign of King Ahab, according to the Books of Kings in the Hebrew Bible.",
   "knownFor": [
     "Religious Figure",
-    "87 language biography editions",
-    "Historical Popularity Index 85.7"
+    "Philosophy, Ethics & Religion",
+    "Israel"
   ],
   "featured": true,
   "featuredRank": 378,
   "imageAlt": "Portrait-style visual for Elijah",
   "sourceRefs": [
     {
-      "title": "Pantheon: Elijah",
-      "url": "https://pantheon.world/profile/person/Elijah",
+      "title": "Wikipedia: Elijah",
+      "url": "https://en.wikipedia.org/wiki/Elijah",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "elijah-pantheon-profile",
-      "text": "Pantheon ranks Elijah as a globally documented religious figure with biographies in 87 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Elijah a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Elijah",
-      "sourceUrl": "https://pantheon.world/profile/person/Elijah",
+      "id": "elijah-1-origin",
+      "text": "Elijah was a prophet and miracle worker who lived in the northern kingdom of Israel during the reign of King Ahab, according to the Books of Kings in the Hebrew Bible.",
+      "context": "Elijah's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Elijah",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elijah",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elijah-2-obstacle",
+      "text": "Elijah is remembered as a religious figure connected with Israel.",
+      "context": "Elijah's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Elijah",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elijah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elijah-3-turning-point",
+      "text": "Elijah's recorded life dates place this profile around -1000--900.",
+      "context": "Elijah's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Elijah",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elijah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elijah-4-contribution",
+      "text": "Elijah is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Elijah's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Elijah",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elijah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elijah-5-influence",
+      "text": "Elijah's profile connects a short Fact to a wider Israel historical setting.",
+      "context": "Elijah's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Elijah",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elijah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

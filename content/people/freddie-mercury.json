@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "musician"
   ],
-  "summary": "Freddie Mercury is a notable musician associated with Tanzania.",
+  "summary": "Freddie Mercury is a notable musician connected with Tanzania.",
   "knownFor": [
     "Musician",
-    "147 language biography editions",
-    "Historical Popularity Index 87.0"
+    "Literature, Arts & Culture",
+    "Tanzania"
   ],
   "featured": true,
   "featuredRank": 274,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "freddie-mercury-pantheon-profile",
-      "text": "Pantheon ranks Freddie Mercury as a globally documented musician with biographies in 147 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Freddie Mercury a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "freddie-mercury-1-origin",
+      "text": "Freddie Mercury is remembered as a musician connected with Tanzania.",
+      "context": "Freddie Mercury's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Freddie Mercury",
       "sourceUrl": "https://pantheon.world/profile/person/Freddie_Mercury",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "freddie-mercury-2-obstacle",
+      "text": "Freddie Mercury's recorded life dates place this profile around 1946-1991.",
+      "context": "Freddie Mercury's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Freddie Mercury",
+      "sourceUrl": "https://pantheon.world/profile/person/Freddie_Mercury",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "freddie-mercury-3-turning-point",
+      "text": "Freddie Mercury is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Freddie Mercury's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Freddie Mercury",
+      "sourceUrl": "https://pantheon.world/profile/person/Freddie_Mercury",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "freddie-mercury-4-contribution",
+      "text": "Freddie Mercury's profile connects a short Fact to a wider Tanzania historical setting.",
+      "context": "Freddie Mercury's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Freddie Mercury",
+      "sourceUrl": "https://pantheon.world/profile/person/Freddie_Mercury",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "freddie-mercury-5-influence",
+      "text": "Freddie Mercury has a Facts Mode card reserved for deeper source research.",
+      "context": "Freddie Mercury's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Freddie Mercury",
+      "sourceUrl": "https://pantheon.world/profile/person/Freddie_Mercury",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

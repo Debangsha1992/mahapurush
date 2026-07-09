@@ -1,0 +1,46 @@
+{
+  "personId": "helena-empress",
+  "slug": "helena-empress",
+  "name": "Helena",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Helena",
+      "url": "https://pantheon.world/profile/person/Helena_(empress)",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "helena-empress-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Helena is remembered as a companion connected with Türkiye."
+    },
+    {
+      "factId": "helena-empress-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Helena's recorded life dates place this profile around 250-330."
+    },
+    {
+      "factId": "helena-empress-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Helena is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "helena-empress-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Helena's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "helena-empress-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Helena has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

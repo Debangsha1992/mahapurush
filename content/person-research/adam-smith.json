@@ -1,0 +1,47 @@
+{
+  "personId": "adam-smith",
+  "slug": "adam-smith",
+  "name": "Adam Smith",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Adam Smith",
+      "url": "https://en.wikipedia.org/wiki/Adam_Smith",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Scottish economist and philosopher (1723–1790)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "adam-smith-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Adam Smith was a Scottish economist and philosopher who was a pioneer in the field of political economy and key figure during the Scottish Enlightenment."
+    },
+    {
+      "factId": "adam-smith-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Adam Smith refuses to explain the distribution of wealth and power in terms of divine will and instead appeals to natural, political, social, economic, legal, environmental and technological factors, as well as the interactions among them."
+    },
+    {
+      "factId": "adam-smith-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Adam Smith is remembered as a economist connected with United Kingdom."
+    },
+    {
+      "factId": "adam-smith-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Adam Smith's recorded life dates place this profile around 1723-1790."
+    },
+    {
+      "factId": "adam-smith-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Adam Smith is grouped with Environment, Exploration & Human Achievement in the People Library."
+    }
+  ]
+}

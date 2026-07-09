@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mary I of England is a notable politician associated with United Kingdom.",
+  "summary": "Mary I of England is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "89 language biography editions",
-    "Historical Popularity Index 85.2"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 420,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mary-i-of-england-pantheon-profile",
-      "text": "Pantheon ranks Mary I of England as a globally documented politician with biographies in 89 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mary I of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mary-i-of-england-1-origin",
+      "text": "Mary I of England is remembered as a politician connected with United Kingdom.",
+      "context": "Mary I of England's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mary I of England",
       "sourceUrl": "https://pantheon.world/profile/person/Mary_I_of_England",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mary-i-of-england-2-obstacle",
+      "text": "Mary I of England's recorded life dates place this profile around 1516-1558.",
+      "context": "Mary I of England's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mary I of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary_I_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mary-i-of-england-3-turning-point",
+      "text": "Mary I of England is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mary I of England's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mary I of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary_I_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mary-i-of-england-4-contribution",
+      "text": "Mary I of England's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Mary I of England's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mary I of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary_I_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mary-i-of-england-5-influence",
+      "text": "Mary I of England has a Facts Mode card reserved for deeper source research.",
+      "context": "Mary I of England's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mary I of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary_I_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

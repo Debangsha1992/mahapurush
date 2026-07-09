@@ -1,0 +1,46 @@
+{
+  "personId": "francisco-goya",
+  "slug": "francisco-goya",
+  "name": "Francisco Goya",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Francisco Goya",
+      "url": "https://pantheon.world/profile/person/Francisco_Goya",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "francisco-goya-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Francisco Goya is remembered as a painter connected with Spain."
+    },
+    {
+      "factId": "francisco-goya-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Francisco Goya's recorded life dates place this profile around 1746-1828."
+    },
+    {
+      "factId": "francisco-goya-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Francisco Goya is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "francisco-goya-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Francisco Goya's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "francisco-goya-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Francisco Goya has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

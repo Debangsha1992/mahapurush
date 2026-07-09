@@ -1,0 +1,46 @@
+{
+  "personId": "alfredo-di-stefano",
+  "slug": "alfredo-di-stefano",
+  "name": "Alfredo Di Stéfano",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alfredo Di Stéfano",
+      "url": "https://pantheon.world/profile/person/Alfredo_Di_St%C3%A9fano",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alfredo-di-stefano-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alfredo Di Stéfano is remembered as a soccer player connected with Argentina."
+    },
+    {
+      "factId": "alfredo-di-stefano-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alfredo Di Stéfano's recorded life dates place this profile around 1926-2014."
+    },
+    {
+      "factId": "alfredo-di-stefano-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alfredo Di Stéfano is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "alfredo-di-stefano-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alfredo Di Stéfano's profile connects a short Fact to a wider Argentina historical setting."
+    },
+    {
+      "factId": "alfredo-di-stefano-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alfredo Di Stéfano has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

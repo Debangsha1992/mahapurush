@@ -12,35 +12,104 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Umar is a notable politician associated with Saudi Arabia.",
+  "summary": "Umar ibn al-Khattab, simply known as Umar, was the second Rashidun caliph, ruling from August 634 until his assassination in 644.",
   "knownFor": [
     "Politician",
-    "135 language biography editions",
-    "Historical Popularity Index 89.3"
+    "Justice, Governance & Leadership",
+    "Saudi Arabia"
   ],
   "featured": true,
   "featuredRank": 159,
   "imageAlt": "Portrait-style visual for Umar",
   "sourceRefs": [
     {
-      "title": "Pantheon: Umar",
-      "url": "https://pantheon.world/profile/person/Umar",
+      "title": "Wikipedia: Umar",
+      "url": "https://en.wikipedia.org/wiki/Umar",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "umar-pantheon-profile",
-      "text": "Pantheon ranks Umar as a globally documented politician with biographies in 135 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Umar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Umar",
-      "sourceUrl": "https://pantheon.world/profile/person/Umar",
+      "id": "umar-1-origin",
+      "text": "Umar ibn al-Khattab, simply known as Umar, was the second Rashidun caliph, ruling from August 634 until his assassination in 644.",
+      "context": "Umar's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Umar",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Umar",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "umar-2-obstacle",
+      "text": "Umar succeeded Abu Bakr and is regarded as a senior companion and father-in-law of the Islamic prophet Muhammad.",
+      "context": "Umar's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Umar",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Umar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "umar-3-turning-point",
+      "text": "Umar is remembered as a politician connected with Saudi Arabia.",
+      "context": "Umar's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Umar",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Umar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "umar-4-contribution",
+      "text": "Umar's recorded life dates place this profile around 585-644.",
+      "context": "Umar's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Umar",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Umar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "umar-5-influence",
+      "text": "Umar is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Umar's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Umar",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Umar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

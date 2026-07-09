@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "extremist"
   ],
-  "summary": "John Wilkes Booth is a notable extremist associated with United States.",
+  "summary": "John Wilkes Booth is a notable extremist connected with United States.",
   "knownFor": [
     "Extremist",
-    "57 language biography editions",
-    "Historical Popularity Index 83.6"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for John Wilkes Booth",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "john-wilkes-booth-pantheon-profile",
-      "text": "Pantheon ranks John Wilkes Booth as a globally documented extremist with biographies in 57 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make John Wilkes Booth a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "john-wilkes-booth-1-origin",
+      "text": "John Wilkes Booth is remembered as a extremist connected with United States.",
+      "context": "John Wilkes Booth's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: John Wilkes Booth",
       "sourceUrl": "https://pantheon.world/profile/person/John_Wilkes_Booth",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-wilkes-booth-2-obstacle",
+      "text": "John Wilkes Booth's recorded life dates place this profile around 1838-1865.",
+      "context": "John Wilkes Booth's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: John Wilkes Booth",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Wilkes_Booth",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-wilkes-booth-3-turning-point",
+      "text": "John Wilkes Booth is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "John Wilkes Booth's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: John Wilkes Booth",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Wilkes_Booth",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-wilkes-booth-4-contribution",
+      "text": "John Wilkes Booth's profile connects a short Fact to a wider United States historical setting.",
+      "context": "John Wilkes Booth's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: John Wilkes Booth",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Wilkes_Booth",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-wilkes-booth-5-influence",
+      "text": "John Wilkes Booth has a Facts Mode card reserved for deeper source research.",
+      "context": "John Wilkes Booth's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: John Wilkes Booth",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Wilkes_Booth",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "nicholas-ii-of-russia",
+  "slug": "nicholas-ii-of-russia",
+  "name": "Nicholas II of Russia",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Nicholas II of Russia",
+      "url": "https://pantheon.world/profile/person/Nicholas_II_of_Russia",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "nicholas-ii-of-russia-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Nicholas II of Russia is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "nicholas-ii-of-russia-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Nicholas II of Russia's recorded life dates place this profile around 1868-1918."
+    },
+    {
+      "factId": "nicholas-ii-of-russia-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Nicholas II of Russia is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "nicholas-ii-of-russia-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Nicholas II of Russia's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "nicholas-ii-of-russia-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Nicholas II of Russia has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

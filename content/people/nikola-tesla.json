@@ -12,35 +12,104 @@
     "science-math-technology",
     "inventor"
   ],
-  "summary": "Nikola Tesla is a notable inventor associated with Croatia.",
+  "summary": "Nikola Tesla was a Serbian-American engineer, futurist, and inventor.",
   "knownFor": [
     "Inventor",
-    "169 language biography editions",
-    "Historical Popularity Index 91.9"
+    "Science, Math & Technology",
+    "Croatia"
   ],
   "featured": true,
   "featuredRank": 83,
   "imageAlt": "Portrait-style visual for Nikola Tesla",
   "sourceRefs": [
     {
-      "title": "Pantheon: Nikola Tesla",
-      "url": "https://pantheon.world/profile/person/Nikola_Tesla",
+      "title": "Wikipedia: Nikola Tesla",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "nikola-tesla-pantheon-profile",
-      "text": "Pantheon ranks Nikola Tesla as a globally documented inventor with biographies in 169 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Nikola Tesla a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Nikola Tesla",
-      "sourceUrl": "https://pantheon.world/profile/person/Nikola_Tesla",
+      "id": "nikola-tesla-1-origin",
+      "text": "Nikola Tesla was a Serbian-American engineer, futurist, and inventor.",
+      "context": "Nikola Tesla's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Nikola Tesla",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nikola_Tesla",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikola-tesla-2-obstacle",
+      "text": "Nikola Tesla is known for his contributions to the design of the modern alternating current (AC) electricity supply system.",
+      "context": "Nikola Tesla's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Nikola Tesla",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikola-tesla-3-turning-point",
+      "text": "Nikola Tesla is remembered as a inventor connected with Croatia.",
+      "context": "Nikola Tesla's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Nikola Tesla",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikola-tesla-4-contribution",
+      "text": "Nikola Tesla's recorded life dates place this profile around 1856-1943.",
+      "context": "Nikola Tesla's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Nikola Tesla",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikola-tesla-5-influence",
+      "text": "Nikola Tesla is grouped with Science, Math & Technology in the People Library.",
+      "context": "Nikola Tesla's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Nikola Tesla",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

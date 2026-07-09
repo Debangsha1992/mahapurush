@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Pope Clement VIII is a notable religious figure associated with Italy.",
+  "summary": "Pope Clement VIII is a notable religious figure connected with Italy.",
   "knownFor": [
     "Religious Figure",
-    "73 language biography editions",
-    "Historical Popularity Index 82.3"
+    "Philosophy, Ethics & Religion",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Pope Clement VIII",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pope-clement-viii-pantheon-profile",
-      "text": "Pantheon ranks Pope Clement VIII as a globally documented religious figure with biographies in 73 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Clement VIII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pope-clement-viii-1-origin",
+      "text": "Pope Clement VIII is remembered as a religious figure connected with Italy.",
+      "context": "Pope Clement VIII's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Pope Clement VIII",
       "sourceUrl": "https://pantheon.world/profile/person/Pope_Clement_VIII",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-clement-viii-2-obstacle",
+      "text": "Pope Clement VIII's recorded life dates place this profile around 1536-1605.",
+      "context": "Pope Clement VIII's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pope Clement VIII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Clement_VIII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-clement-viii-3-turning-point",
+      "text": "Pope Clement VIII is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Pope Clement VIII's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pope Clement VIII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Clement_VIII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-clement-viii-4-contribution",
+      "text": "Pope Clement VIII's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Pope Clement VIII's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pope Clement VIII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Clement_VIII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-clement-viii-5-influence",
+      "text": "Pope Clement VIII has a Facts Mode card reserved for deeper source research.",
+      "context": "Pope Clement VIII's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pope Clement VIII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Clement_VIII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

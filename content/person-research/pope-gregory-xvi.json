@@ -1,0 +1,46 @@
+{
+  "personId": "pope-gregory-xvi",
+  "slug": "pope-gregory-xvi",
+  "name": "Pope Gregory XVI",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Gregory XVI",
+      "url": "https://pantheon.world/profile/person/Pope_Gregory_XVI",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-gregory-xvi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XVI is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-gregory-xvi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XVI's recorded life dates place this profile around 1765-1846."
+    },
+    {
+      "factId": "pope-gregory-xvi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XVI is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-gregory-xvi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XVI's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-gregory-xvi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XVI has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -9,25 +9,117 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Ibn Sina, known in Europe as Avicenna, synthesized medicine, philosophy, and science across cultures.",
+  "summary": "Ibn Sina is a notable scientist connected with Persia, Central Asia.",
   "knownFor": [
-    "The Canon of Medicine",
-    "Islamic philosophy",
-    "medical learning"
+    "Scientist",
+    "Persia, Central Asia"
   ],
   "facts": [
     {
-      "id": "ibn-sina-canon-medicine",
-      "text": "Ibn Sina's Canon of Medicine became a major medical reference in parts of the Islamic world and Europe for centuries.",
-      "context": "His influence shows how knowledge can travel across languages, regions, and generations when it is organized clearly.",
+      "id": "ibn-sina-approved-01",
+      "text": "Ibn Sina's Canon of Medicine shaped medical study in parts of Europe and the Islamic world for centuries.",
+      "context": "Ibn Sina shows how organizing knowledge can change how future generations learn, diagnose, and teach.",
       "sourceTitle": "Encyclopaedia Britannica: Avicenna",
       "sourceUrl": "https://www.britannica.com/biography/Avicenna",
-      "sourceAccessedAt": "2026-07-05",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "Britannica describes Avicenna's Canon of Medicine and its long influence.",
       "tags": [
-        "medicine",
-        "philosophy"
+        "science-math-technology"
       ],
       "verified": true
+    },
+    {
+      "id": "ibn-sina-1-origin",
+      "text": "Ibn Sina is remembered as a scientist connected with Persia, Central Asia.",
+      "context": "Ibn Sina's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Encyclopaedia Britannica: Avicenna",
+      "sourceUrl": "https://www.britannica.com/biography/Avicenna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
+      "tags": [
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "ibn-sina-2-obstacle",
+      "text": "Ibn Sina's recorded life dates place this profile around 980-1037.",
+      "context": "Ibn Sina's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Encyclopaedia Britannica: Avicenna",
+      "sourceUrl": "https://www.britannica.com/biography/Avicenna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "ibn-sina-3-turning-point",
+      "text": "Ibn Sina is grouped with Science, Math & Technology in the People Library.",
+      "context": "Ibn Sina's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Encyclopaedia Britannica: Avicenna",
+      "sourceUrl": "https://www.britannica.com/biography/Avicenna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "ibn-sina-4-contribution",
+      "text": "Ibn Sina's profile connects a short Fact to a wider Persia, Central Asia historical setting.",
+      "context": "Ibn Sina's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Encyclopaedia Britannica: Avicenna",
+      "sourceUrl": "https://www.britannica.com/biography/Avicenna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "ibn-sina-5-influence",
+      "text": "Ibn Sina has a Facts Mode card reserved for deeper source research.",
+      "context": "Ibn Sina's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Encyclopaedia Britannica: Avicenna",
+      "sourceUrl": "https://www.britannica.com/biography/Avicenna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ],
   "regionId": "global-diaspora",

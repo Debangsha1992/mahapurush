@@ -1,0 +1,46 @@
+{
+  "personId": "saparmurat-niyazov",
+  "slug": "saparmurat-niyazov",
+  "name": "Saparmurat Niyazov",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Saparmurat Niyazov",
+      "url": "https://pantheon.world/profile/person/Saparmurat_Niyazov",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saparmurat-niyazov-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Saparmurat Niyazov is remembered as a politician connected with Turkmenistan."
+    },
+    {
+      "factId": "saparmurat-niyazov-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Saparmurat Niyazov's recorded life dates place this profile around 1940-2006."
+    },
+    {
+      "factId": "saparmurat-niyazov-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Saparmurat Niyazov is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "saparmurat-niyazov-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Saparmurat Niyazov's profile connects a short Fact to a wider Turkmenistan historical setting."
+    },
+    {
+      "factId": "saparmurat-niyazov-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Saparmurat Niyazov has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

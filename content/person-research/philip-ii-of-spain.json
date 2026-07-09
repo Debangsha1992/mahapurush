@@ -1,0 +1,46 @@
+{
+  "personId": "philip-ii-of-spain",
+  "slug": "philip-ii-of-spain",
+  "name": "Philip II of Spain",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Philip II of Spain",
+      "url": "https://pantheon.world/profile/person/Philip_II_of_Spain",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "philip-ii-of-spain-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Philip II of Spain is remembered as a politician connected with Spain."
+    },
+    {
+      "factId": "philip-ii-of-spain-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Philip II of Spain's recorded life dates place this profile around 1527-1598."
+    },
+    {
+      "factId": "philip-ii-of-spain-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Philip II of Spain is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "philip-ii-of-spain-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Philip II of Spain's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "philip-ii-of-spain-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Philip II of Spain has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

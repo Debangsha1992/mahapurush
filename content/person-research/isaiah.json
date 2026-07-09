@@ -1,0 +1,47 @@
+{
+  "personId": "isaiah",
+  "slug": "isaiah",
+  "name": "Isaiah",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Isaiah",
+      "url": "https://en.wikipedia.org/wiki/Isaiah",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Israelite prophet"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "isaiah-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Isaiah was the 8th-century BC Israelite prophet after whom the Book of Isaiah is named."
+    },
+    {
+      "factId": "isaiah-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Isaiah is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "isaiah-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Isaiah's recorded life dates place this profile around -800--700."
+    },
+    {
+      "factId": "isaiah-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Isaiah is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "isaiah-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Isaiah's profile connects a short Fact to a wider Israel historical setting."
+    }
+  ]
+}

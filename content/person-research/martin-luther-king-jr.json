@@ -1,0 +1,46 @@
+{
+  "personId": "martin-luther-king-jr",
+  "slug": "martin-luther-king-jr",
+  "name": "Martin Luther King Jr.",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Nobel Prize: Martin Luther King Jr. Facts",
+      "url": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "martin-luther-king-jr-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Martin Luther King Jr. is remembered as a leader connected with United States."
+    },
+    {
+      "factId": "martin-luther-king-jr-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Martin Luther King Jr.'s recorded life dates place this profile around 1929-1968."
+    },
+    {
+      "factId": "martin-luther-king-jr-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Martin Luther King Jr. is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "martin-luther-king-jr-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Martin Luther King Jr.'s profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "martin-luther-king-jr-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Martin Luther King Jr. has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

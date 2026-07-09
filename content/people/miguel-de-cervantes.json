@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Miguel de Cervantes is a notable writer associated with Spain.",
+  "summary": "Miguel de Cervantes is a notable writer connected with Spain.",
   "knownFor": [
     "Writer",
-    "180 language biography editions",
-    "Historical Popularity Index 87.6"
+    "Literature, Arts & Culture",
+    "Spain"
   ],
   "featured": true,
   "featuredRank": 237,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "miguel-de-cervantes-pantheon-profile",
-      "text": "Pantheon ranks Miguel de Cervantes as a globally documented writer with biographies in 180 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Miguel de Cervantes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "miguel-de-cervantes-1-origin",
+      "text": "Miguel de Cervantes is remembered as a writer connected with Spain.",
+      "context": "Miguel de Cervantes's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Miguel de Cervantes",
       "sourceUrl": "https://pantheon.world/profile/person/Miguel_de_Cervantes",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "miguel-de-cervantes-2-obstacle",
+      "text": "Miguel de Cervantes's recorded life dates place this profile around 1547-1616.",
+      "context": "Miguel de Cervantes's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Miguel de Cervantes",
+      "sourceUrl": "https://pantheon.world/profile/person/Miguel_de_Cervantes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "miguel-de-cervantes-3-turning-point",
+      "text": "Miguel de Cervantes is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Miguel de Cervantes's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Miguel de Cervantes",
+      "sourceUrl": "https://pantheon.world/profile/person/Miguel_de_Cervantes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "miguel-de-cervantes-4-contribution",
+      "text": "Miguel de Cervantes's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Miguel de Cervantes's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Miguel de Cervantes",
+      "sourceUrl": "https://pantheon.world/profile/person/Miguel_de_Cervantes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "miguel-de-cervantes-5-influence",
+      "text": "Miguel de Cervantes has a Facts Mode card reserved for deeper source research.",
+      "context": "Miguel de Cervantes's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Miguel de Cervantes",
+      "sourceUrl": "https://pantheon.world/profile/person/Miguel_de_Cervantes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

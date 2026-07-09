@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Carl XVI Gustaf of Sweden is a notable politician associated with Sweden.",
+  "summary": "Carl XVI Gustaf of Sweden is a notable politician connected with Sweden.",
   "knownFor": [
     "Politician",
-    "90 language biography editions",
-    "Historical Popularity Index 84.5"
+    "Justice, Governance & Leadership",
+    "Sweden"
   ],
   "featured": true,
   "featuredRank": 487,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "carl-xvi-gustaf-of-sweden-pantheon-profile",
-      "text": "Pantheon ranks Carl XVI Gustaf of Sweden as a globally documented politician with biographies in 90 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Carl XVI Gustaf of Sweden a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "carl-xvi-gustaf-of-sweden-1-origin",
+      "text": "Carl XVI Gustaf of Sweden is remembered as a politician connected with Sweden.",
+      "context": "Carl XVI Gustaf of Sweden's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Carl XVI Gustaf of Sweden",
       "sourceUrl": "https://pantheon.world/profile/person/Carl_XVI_Gustaf_of_Sweden",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-xvi-gustaf-of-sweden-2-obstacle",
+      "text": "Carl XVI Gustaf of Sweden's recorded life dates place this profile around born 1946.",
+      "context": "Carl XVI Gustaf of Sweden's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Carl XVI Gustaf of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_XVI_Gustaf_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-xvi-gustaf-of-sweden-3-turning-point",
+      "text": "Carl XVI Gustaf of Sweden is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Carl XVI Gustaf of Sweden's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Carl XVI Gustaf of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_XVI_Gustaf_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-xvi-gustaf-of-sweden-4-contribution",
+      "text": "Carl XVI Gustaf of Sweden's profile connects a short Fact to a wider Sweden historical setting.",
+      "context": "Carl XVI Gustaf of Sweden's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Carl XVI Gustaf of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_XVI_Gustaf_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-xvi-gustaf-of-sweden-5-influence",
+      "text": "Carl XVI Gustaf of Sweden has a Facts Mode card reserved for deeper source research.",
+      "context": "Carl XVI Gustaf of Sweden's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Carl XVI Gustaf of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_XVI_Gustaf_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

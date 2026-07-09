@@ -1,0 +1,46 @@
+{
+  "personId": "erwin-schrodinger",
+  "slug": "erwin-schrodinger",
+  "name": "Erwin Schrödinger",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Erwin Schrödinger",
+      "url": "https://pantheon.world/profile/person/Erwin_Schr%C3%B6dinger",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "erwin-schrodinger-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Erwin Schrödinger is remembered as a physicist connected with Austria."
+    },
+    {
+      "factId": "erwin-schrodinger-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Erwin Schrödinger's recorded life dates place this profile around 1887-1961."
+    },
+    {
+      "factId": "erwin-schrodinger-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Erwin Schrödinger is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "erwin-schrodinger-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Erwin Schrödinger's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "erwin-schrodinger-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Erwin Schrödinger has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

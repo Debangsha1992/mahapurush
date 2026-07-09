@@ -1,0 +1,46 @@
+{
+  "personId": "pope-clement-xiv",
+  "slug": "pope-clement-xiv",
+  "name": "Pope Clement XIV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Clement XIV",
+      "url": "https://pantheon.world/profile/person/Pope_Clement_XIV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-clement-xiv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XIV is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-clement-xiv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XIV's recorded life dates place this profile around 1705-1774."
+    },
+    {
+      "factId": "pope-clement-xiv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XIV is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-clement-xiv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XIV's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-clement-xiv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XIV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

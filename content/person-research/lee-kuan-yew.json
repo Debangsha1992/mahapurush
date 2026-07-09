@@ -1,0 +1,47 @@
+{
+  "personId": "lee-kuan-yew",
+  "slug": "lee-kuan-yew",
+  "name": "Lee Kuan Yew",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Lee Kuan Yew",
+      "url": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Prime Minister of Singapore from 1959 to 1990"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lee-kuan-yew-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Lee Kuan Yew, also known as LKY, was a Singaporean politician and barrister who served as the first prime minister of Singapore from 1959 to 1990."
+    },
+    {
+      "factId": "lee-kuan-yew-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Lee Kuan Yew is regarded as the founding father of modern Singapore."
+    },
+    {
+      "factId": "lee-kuan-yew-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Lee Kuan Yew is remembered as a politician connected with Singapore."
+    },
+    {
+      "factId": "lee-kuan-yew-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lee Kuan Yew's recorded life dates place this profile around 1923-2015."
+    },
+    {
+      "factId": "lee-kuan-yew-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lee Kuan Yew is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

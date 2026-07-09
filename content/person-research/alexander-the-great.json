@@ -1,0 +1,46 @@
+{
+  "personId": "alexander-the-great",
+  "slug": "alexander-the-great",
+  "name": "Alexander the Great",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alexander the Great",
+      "url": "https://pantheon.world/profile/person/Alexander_the_Great",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alexander-the-great-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alexander the Great is remembered as a military personnel connected with Greece."
+    },
+    {
+      "factId": "alexander-the-great-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alexander the Great's recorded life dates place this profile around -356--323."
+    },
+    {
+      "factId": "alexander-the-great-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alexander the Great is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "alexander-the-great-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alexander the Great's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "alexander-the-great-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alexander the Great has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

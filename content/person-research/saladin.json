@@ -1,0 +1,46 @@
+{
+  "personId": "saladin",
+  "slug": "saladin",
+  "name": "Saladin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Saladin",
+      "url": "https://pantheon.world/profile/person/Saladin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saladin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Saladin is remembered as a politician connected with Iraq."
+    },
+    {
+      "factId": "saladin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Saladin's recorded life dates place this profile around 1138-1193."
+    },
+    {
+      "factId": "saladin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Saladin is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "saladin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Saladin's profile connects a short Fact to a wider Iraq historical setting."
+    },
+    {
+      "factId": "saladin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Saladin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

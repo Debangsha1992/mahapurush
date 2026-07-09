@@ -1,0 +1,46 @@
+{
+  "personId": "pope-gregory-xv",
+  "slug": "pope-gregory-xv",
+  "name": "Pope Gregory XV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Gregory XV",
+      "url": "https://pantheon.world/profile/person/Pope_Gregory_XV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-gregory-xv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XV is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-gregory-xv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XV's recorded life dates place this profile around 1554-1623."
+    },
+    {
+      "factId": "pope-gregory-xv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XV is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-gregory-xv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XV's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-gregory-xv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

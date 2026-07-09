@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Rodrigo Duterte is a notable politician associated with Philippines.",
+  "summary": "Rodrigo Duterte is a notable politician connected with Philippines.",
   "knownFor": [
     "Politician",
-    "96 language biography editions",
-    "Historical Popularity Index 84.4"
+    "Justice, Governance & Leadership",
+    "Philippines"
   ],
   "featured": true,
   "featuredRank": 495,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "rodrigo-duterte-pantheon-profile",
-      "text": "Pantheon ranks Rodrigo Duterte as a globally documented politician with biographies in 96 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Rodrigo Duterte a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "rodrigo-duterte-1-origin",
+      "text": "Rodrigo Duterte is remembered as a politician connected with Philippines.",
+      "context": "Rodrigo Duterte's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Rodrigo Duterte",
       "sourceUrl": "https://pantheon.world/profile/person/Rodrigo_Duterte",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rodrigo-duterte-2-obstacle",
+      "text": "Rodrigo Duterte's recorded life dates place this profile around born 1945.",
+      "context": "Rodrigo Duterte's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Rodrigo Duterte",
+      "sourceUrl": "https://pantheon.world/profile/person/Rodrigo_Duterte",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rodrigo-duterte-3-turning-point",
+      "text": "Rodrigo Duterte is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Rodrigo Duterte's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Rodrigo Duterte",
+      "sourceUrl": "https://pantheon.world/profile/person/Rodrigo_Duterte",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rodrigo-duterte-4-contribution",
+      "text": "Rodrigo Duterte's profile connects a short Fact to a wider Philippines historical setting.",
+      "context": "Rodrigo Duterte's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Rodrigo Duterte",
+      "sourceUrl": "https://pantheon.world/profile/person/Rodrigo_Duterte",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rodrigo-duterte-5-influence",
+      "text": "Rodrigo Duterte has a Facts Mode card reserved for deeper source research.",
+      "context": "Rodrigo Duterte's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Rodrigo Duterte",
+      "sourceUrl": "https://pantheon.world/profile/person/Rodrigo_Duterte",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

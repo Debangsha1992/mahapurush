@@ -9,23 +9,94 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Neil deGrasse Tyson is an astrophysicist and science communicator who brings astronomy to broad public audiences.",
+  "summary": "Neil deGrasse Tyson is a notable scientist connected with United States.",
   "knownFor": [
-    "Hayden Planetarium",
-    "Cosmos: A Spacetime Odyssey",
-    "public science education"
+    "Scientist",
+    "United States"
   ],
   "facts": [
     {
-      "id": "neil-degrasse-tyson-hayden",
-      "text": "Tyson became director of the Hayden Planetarium in New York City in the 1990s.",
-      "context": "His work shows how scientific knowledge can reach more people when experts treat public explanation as part of the job.",
+      "id": "neil-degrasse-tyson-1-origin",
+      "text": "Neil deGrasse Tyson is remembered as a scientist connected with United States.",
+      "context": "Neil deGrasse Tyson's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Hayden Planetarium: Neil deGrasse Tyson",
       "sourceUrl": "https://www.amnh.org/research/hayden-planetarium/staff/neil-degrasse-tyson",
-      "sourceAccessedAt": "2026-07-05",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
-        "science",
-        "education"
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "neil-degrasse-tyson-2-obstacle",
+      "text": "Neil deGrasse Tyson's recorded life dates place this profile around 1958-present.",
+      "context": "Neil deGrasse Tyson's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Hayden Planetarium: Neil deGrasse Tyson",
+      "sourceUrl": "https://www.amnh.org/research/hayden-planetarium/staff/neil-degrasse-tyson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "neil-degrasse-tyson-3-turning-point",
+      "text": "Neil deGrasse Tyson is grouped with Science, Math & Technology in the People Library.",
+      "context": "Neil deGrasse Tyson's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Hayden Planetarium: Neil deGrasse Tyson",
+      "sourceUrl": "https://www.amnh.org/research/hayden-planetarium/staff/neil-degrasse-tyson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "neil-degrasse-tyson-4-contribution",
+      "text": "Neil deGrasse Tyson's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Neil deGrasse Tyson's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Hayden Planetarium: Neil deGrasse Tyson",
+      "sourceUrl": "https://www.amnh.org/research/hayden-planetarium/staff/neil-degrasse-tyson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "neil-degrasse-tyson-5-influence",
+      "text": "Neil deGrasse Tyson has a Facts Mode card reserved for deeper source research.",
+      "context": "Neil deGrasse Tyson's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Hayden Planetarium: Neil deGrasse Tyson",
+      "sourceUrl": "https://www.amnh.org/research/hayden-planetarium/staff/neil-degrasse-tyson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

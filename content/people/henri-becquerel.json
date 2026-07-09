@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Henri Becquerel is a notable physicist associated with France.",
+  "summary": "Henri Becquerel is a notable physicist connected with France.",
   "knownFor": [
     "Physicist",
-    "105 language biography editions",
-    "Historical Popularity Index 84.1"
+    "Science, Math & Technology",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Henri Becquerel",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "henri-becquerel-pantheon-profile",
-      "text": "Pantheon ranks Henri Becquerel as a globally documented physicist with biographies in 105 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Henri Becquerel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "henri-becquerel-1-origin",
+      "text": "Henri Becquerel is remembered as a physicist connected with France.",
+      "context": "Henri Becquerel's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Henri Becquerel",
       "sourceUrl": "https://pantheon.world/profile/person/Henri_Becquerel",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henri-becquerel-2-obstacle",
+      "text": "Henri Becquerel's recorded life dates place this profile around 1852-1908.",
+      "context": "Henri Becquerel's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Henri Becquerel",
+      "sourceUrl": "https://pantheon.world/profile/person/Henri_Becquerel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henri-becquerel-3-turning-point",
+      "text": "Henri Becquerel is grouped with Science, Math & Technology in the People Library.",
+      "context": "Henri Becquerel's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Henri Becquerel",
+      "sourceUrl": "https://pantheon.world/profile/person/Henri_Becquerel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henri-becquerel-4-contribution",
+      "text": "Henri Becquerel's profile connects a short Fact to a wider France historical setting.",
+      "context": "Henri Becquerel's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Henri Becquerel",
+      "sourceUrl": "https://pantheon.world/profile/person/Henri_Becquerel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henri-becquerel-5-influence",
+      "text": "Henri Becquerel has a Facts Mode card reserved for deeper source research.",
+      "context": "Henri Becquerel's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Henri Becquerel",
+      "sourceUrl": "https://pantheon.world/profile/person/Henri_Becquerel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "w-somerset-maugham",
+  "slug": "w-somerset-maugham",
+  "name": "W. Somerset Maugham",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: W. Somerset Maugham",
+      "url": "https://pantheon.world/profile/person/W._Somerset_Maugham",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "w-somerset-maugham-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "W. Somerset Maugham is remembered as a writer connected with France."
+    },
+    {
+      "factId": "w-somerset-maugham-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "W. Somerset Maugham's recorded life dates place this profile around 1874-1965."
+    },
+    {
+      "factId": "w-somerset-maugham-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "W. Somerset Maugham is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "w-somerset-maugham-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "W. Somerset Maugham's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "w-somerset-maugham-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "W. Somerset Maugham has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

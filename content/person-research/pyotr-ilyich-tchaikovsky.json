@@ -1,0 +1,46 @@
+{
+  "personId": "pyotr-ilyich-tchaikovsky",
+  "slug": "pyotr-ilyich-tchaikovsky",
+  "name": "Pyotr Ilyich Tchaikovsky",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pyotr Ilyich Tchaikovsky",
+      "url": "https://pantheon.world/profile/person/Pyotr_Ilyich_Tchaikovsky",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pyotr-ilyich-tchaikovsky-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pyotr Ilyich Tchaikovsky is remembered as a composer connected with Russia."
+    },
+    {
+      "factId": "pyotr-ilyich-tchaikovsky-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pyotr Ilyich Tchaikovsky's recorded life dates place this profile around 1840-1893."
+    },
+    {
+      "factId": "pyotr-ilyich-tchaikovsky-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pyotr Ilyich Tchaikovsky is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "pyotr-ilyich-tchaikovsky-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pyotr Ilyich Tchaikovsky's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "pyotr-ilyich-tchaikovsky-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pyotr Ilyich Tchaikovsky has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

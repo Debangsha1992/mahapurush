@@ -1,0 +1,46 @@
+{
+  "personId": "khalil-gibran",
+  "slug": "khalil-gibran",
+  "name": "Khalil Gibran",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Khalil Gibran",
+      "url": "https://pantheon.world/profile/person/Khalil_Gibran",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "khalil-gibran-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Khalil Gibran is remembered as a writer connected with Lebanon."
+    },
+    {
+      "factId": "khalil-gibran-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Khalil Gibran's recorded life dates place this profile around 1883-1931."
+    },
+    {
+      "factId": "khalil-gibran-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Khalil Gibran is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "khalil-gibran-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Khalil Gibran's profile connects a short Fact to a wider Lebanon historical setting."
+    },
+    {
+      "factId": "khalil-gibran-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Khalil Gibran has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

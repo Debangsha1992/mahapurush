@@ -1,0 +1,46 @@
+{
+  "personId": "john-calvin",
+  "slug": "john-calvin",
+  "name": "John Calvin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John Calvin",
+      "url": "https://pantheon.world/profile/person/John_Calvin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-calvin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John Calvin is remembered as a religious figure connected with France."
+    },
+    {
+      "factId": "john-calvin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John Calvin's recorded life dates place this profile around 1509-1564."
+    },
+    {
+      "factId": "john-calvin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John Calvin is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "john-calvin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John Calvin's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "john-calvin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John Calvin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

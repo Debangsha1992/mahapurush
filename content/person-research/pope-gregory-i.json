@@ -1,0 +1,46 @@
+{
+  "personId": "pope-gregory-i",
+  "slug": "pope-gregory-i",
+  "name": "Pope Gregory I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Gregory I",
+      "url": "https://pantheon.world/profile/person/Pope_Gregory_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-gregory-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory I is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-gregory-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory I's recorded life dates place this profile around 540-604."
+    },
+    {
+      "factId": "pope-gregory-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory I is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-gregory-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory I's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-gregory-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

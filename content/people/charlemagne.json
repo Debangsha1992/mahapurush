@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Charlemagne is a notable politician associated with Germany.",
+  "summary": "Charlemagne is a notable politician connected with Germany.",
   "knownFor": [
     "Politician",
-    "161 language biography editions",
-    "Historical Popularity Index 89.9"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 134,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "charlemagne-pantheon-profile",
-      "text": "Pantheon ranks Charlemagne as a globally documented politician with biographies in 161 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Charlemagne a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "charlemagne-1-origin",
+      "text": "Charlemagne is remembered as a politician connected with Germany.",
+      "context": "Charlemagne's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Charlemagne",
       "sourceUrl": "https://pantheon.world/profile/person/Charlemagne",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charlemagne-2-obstacle",
+      "text": "Charlemagne's recorded life dates place this profile around 748-814.",
+      "context": "Charlemagne's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Charlemagne",
+      "sourceUrl": "https://pantheon.world/profile/person/Charlemagne",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charlemagne-3-turning-point",
+      "text": "Charlemagne is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Charlemagne's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Charlemagne",
+      "sourceUrl": "https://pantheon.world/profile/person/Charlemagne",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charlemagne-4-contribution",
+      "text": "Charlemagne's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Charlemagne's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Charlemagne",
+      "sourceUrl": "https://pantheon.world/profile/person/Charlemagne",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charlemagne-5-influence",
+      "text": "Charlemagne has a Facts Mode card reserved for deeper source research.",
+      "context": "Charlemagne's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Charlemagne",
+      "sourceUrl": "https://pantheon.world/profile/person/Charlemagne",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

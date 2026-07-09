@@ -1,0 +1,46 @@
+{
+  "personId": "blaise-pascal",
+  "slug": "blaise-pascal",
+  "name": "Blaise Pascal",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Blaise Pascal",
+      "url": "https://pantheon.world/profile/person/Blaise_Pascal",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "blaise-pascal-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Blaise Pascal is remembered as a mathematician connected with France."
+    },
+    {
+      "factId": "blaise-pascal-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Blaise Pascal's recorded life dates place this profile around 1623-1662."
+    },
+    {
+      "factId": "blaise-pascal-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Blaise Pascal is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "blaise-pascal-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Blaise Pascal's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "blaise-pascal-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Blaise Pascal has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

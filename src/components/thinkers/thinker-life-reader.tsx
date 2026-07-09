@@ -2,7 +2,11 @@
 
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
-import { Card } from "@/components/ui/card";
+import {
+  EditorialCard,
+  editorialEyebrow,
+  mutedText,
+} from "@/components/ui/editorial";
 import { RotatingThinkerImage } from "@/components/ui/rotating-thinker-image";
 import type { LifeStoryPage } from "@/lib/content/schemas";
 
@@ -32,7 +36,8 @@ export function ThinkerLifeReader({
   }
 
   return (
-    <Card className="space-y-6">
+    <EditorialCard className="space-y-6 p-8 md:p-10">
+      <div className="absolute -right-20 -top-20 size-52 rounded-full bg-yellow-400/10" />
       <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
         <RotatingThinkerImage
           slug={thinkerSlug}
@@ -47,14 +52,14 @@ export function ThinkerLifeReader({
         />
         <div className="flex-1 space-y-3">
           <div className="flex items-start justify-between gap-4">
-            <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-muted)]">
+            <p className={editorialEyebrow}>
               Life Story
             </p>
-            <p className="text-sm text-[var(--color-muted)]">
+            <p className={`text-sm ${mutedText}`}>
               Page {pageIndex + 1} / {pageCount}
             </p>
           </div>
-          <h3 className="text-2xl font-semibold">{page.title}</h3>
+          <h3 className="text-3xl font-extrabold tracking-tight">{page.title}</h3>
           <p className="text-lg leading-8 text-[var(--color-text)]">{page.body}</p>
         </div>
       </div>
@@ -69,8 +74,8 @@ export function ThinkerLifeReader({
               index === pageIndex
                 ? "bg-[var(--color-accent)] text-[#101014]"
                 : index < pageIndex
-                  ? "bg-[var(--color-surface-raised)] text-[var(--color-text)]"
-                  : "bg-[var(--color-surface)] text-[var(--color-muted)]"
+                  ? "border border-white/10 bg-white/[0.08] text-[var(--color-text)]"
+                  : "border border-white/10 bg-white/[0.04] text-foreground/50"
             }`}
           >
             {index + 1}
@@ -88,6 +93,6 @@ export function ThinkerLifeReader({
           <Button onClick={() => goToPage(pageIndex + 1)}>Continue</Button>
         )}
       </div>
-    </Card>
+    </EditorialCard>
   );
 }

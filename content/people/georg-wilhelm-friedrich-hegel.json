@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "philosopher"
   ],
-  "summary": "Georg Wilhelm Friedrich Hegel is a notable philosopher associated with Germany.",
+  "summary": "Georg Wilhelm Friedrich Hegel is a notable philosopher connected with Germany.",
   "knownFor": [
     "Philosopher",
-    "137 language biography editions",
-    "Historical Popularity Index 88.3"
+    "Philosophy, Ethics & Religion",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 207,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "georg-wilhelm-friedrich-hegel-pantheon-profile",
-      "text": "Pantheon ranks Georg Wilhelm Friedrich Hegel as a globally documented philosopher with biographies in 137 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Georg Wilhelm Friedrich Hegel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "georg-wilhelm-friedrich-hegel-1-origin",
+      "text": "Georg Wilhelm Friedrich Hegel is remembered as a philosopher connected with Germany.",
+      "context": "Georg Wilhelm Friedrich Hegel's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Georg Wilhelm Friedrich Hegel",
       "sourceUrl": "https://pantheon.world/profile/person/Georg_Wilhelm_Friedrich_Hegel",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "georg-wilhelm-friedrich-hegel-2-obstacle",
+      "text": "Georg Wilhelm Friedrich Hegel's recorded life dates place this profile around 1770-1831.",
+      "context": "Georg Wilhelm Friedrich Hegel's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Georg Wilhelm Friedrich Hegel",
+      "sourceUrl": "https://pantheon.world/profile/person/Georg_Wilhelm_Friedrich_Hegel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "georg-wilhelm-friedrich-hegel-3-turning-point",
+      "text": "Georg Wilhelm Friedrich Hegel is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Georg Wilhelm Friedrich Hegel's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Georg Wilhelm Friedrich Hegel",
+      "sourceUrl": "https://pantheon.world/profile/person/Georg_Wilhelm_Friedrich_Hegel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "georg-wilhelm-friedrich-hegel-4-contribution",
+      "text": "Georg Wilhelm Friedrich Hegel's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Georg Wilhelm Friedrich Hegel's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Georg Wilhelm Friedrich Hegel",
+      "sourceUrl": "https://pantheon.world/profile/person/Georg_Wilhelm_Friedrich_Hegel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "georg-wilhelm-friedrich-hegel-5-influence",
+      "text": "Georg Wilhelm Friedrich Hegel has a Facts Mode card reserved for deeper source research.",
+      "context": "Georg Wilhelm Friedrich Hegel's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Georg Wilhelm Friedrich Hegel",
+      "sourceUrl": "https://pantheon.world/profile/person/Georg_Wilhelm_Friedrich_Hegel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

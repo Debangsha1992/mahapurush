@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Georg Ohm is a notable physicist associated with Germany.",
+  "summary": "Georg Ohm is a notable physicist connected with Germany.",
   "knownFor": [
     "Physicist",
-    "96 language biography editions",
-    "Historical Popularity Index 83.1"
+    "Science, Math & Technology",
+    "Germany"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Georg Ohm",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "georg-ohm-pantheon-profile",
-      "text": "Pantheon ranks Georg Ohm as a globally documented physicist with biographies in 96 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Georg Ohm a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "georg-ohm-1-origin",
+      "text": "Georg Ohm is remembered as a physicist connected with Germany.",
+      "context": "Georg Ohm's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Georg Ohm",
       "sourceUrl": "https://pantheon.world/profile/person/Georg_Ohm",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "georg-ohm-2-obstacle",
+      "text": "Georg Ohm's recorded life dates place this profile around 1789-1854.",
+      "context": "Georg Ohm's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Georg Ohm",
+      "sourceUrl": "https://pantheon.world/profile/person/Georg_Ohm",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "georg-ohm-3-turning-point",
+      "text": "Georg Ohm is grouped with Science, Math & Technology in the People Library.",
+      "context": "Georg Ohm's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Georg Ohm",
+      "sourceUrl": "https://pantheon.world/profile/person/Georg_Ohm",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "georg-ohm-4-contribution",
+      "text": "Georg Ohm's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Georg Ohm's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Georg Ohm",
+      "sourceUrl": "https://pantheon.world/profile/person/Georg_Ohm",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "georg-ohm-5-influence",
+      "text": "Georg Ohm has a Facts Mode card reserved for deeper source research.",
+      "context": "Georg Ohm's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Georg Ohm",
+      "sourceUrl": "https://pantheon.world/profile/person/Georg_Ohm",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

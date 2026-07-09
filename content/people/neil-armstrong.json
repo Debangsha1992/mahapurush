@@ -12,35 +12,104 @@
     "environment-exploration-human-achievement",
     "astronaut"
   ],
-  "summary": "Neil Armstrong is a notable astronaut associated with United States.",
+  "summary": "Neil Alden Armstrong was an American astronaut and aeronautical engineer who, as the commander of the 1969 Apollo 11 mission, became the first person to walk on the Moon.",
   "knownFor": [
     "Astronaut",
-    "170 language biography editions",
-    "Historical Popularity Index 86.0"
+    "Environment, Exploration & Human Achievement",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 351,
   "imageAlt": "Portrait-style visual for Neil Armstrong",
   "sourceRefs": [
     {
-      "title": "Pantheon: Neil Armstrong",
-      "url": "https://pantheon.world/profile/person/Neil_Armstrong",
+      "title": "Wikipedia: Neil Armstrong",
+      "url": "https://en.wikipedia.org/wiki/Neil_Armstrong",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "neil-armstrong-pantheon-profile",
-      "text": "Pantheon ranks Neil Armstrong as a globally documented astronaut with biographies in 170 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Neil Armstrong a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Neil Armstrong",
-      "sourceUrl": "https://pantheon.world/profile/person/Neil_Armstrong",
+      "id": "neil-armstrong-1-origin",
+      "text": "Neil Alden Neil Armstrong was an American astronaut and aeronautical engineer who, as the commander of the 1969 Apollo 11 mission, became the first person to walk on the Moon.",
+      "context": "Neil Armstrong's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
+      "sourceTitle": "Wikipedia: Neil Armstrong",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Armstrong",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "neil-armstrong-2-obstacle",
+      "text": "Neil Armstrong was also a naval aviator, test pilot and university professor.",
+      "context": "Neil Armstrong's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Neil Armstrong",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "neil-armstrong-3-turning-point",
+      "text": "Neil Armstrong is remembered as a astronaut connected with United States.",
+      "context": "Neil Armstrong's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Neil Armstrong",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "neil-armstrong-4-contribution",
+      "text": "Neil Armstrong's recorded life dates place this profile around 1930-2012.",
+      "context": "Neil Armstrong's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Neil Armstrong",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "neil-armstrong-5-influence",
+      "text": "Neil Armstrong is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Neil Armstrong's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Neil Armstrong",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

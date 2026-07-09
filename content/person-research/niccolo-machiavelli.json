@@ -1,0 +1,46 @@
+{
+  "personId": "niccolo-machiavelli",
+  "slug": "niccolo-machiavelli",
+  "name": "Niccolò Machiavelli",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Niccolò Machiavelli",
+      "url": "https://pantheon.world/profile/person/Niccol%C3%B2_Machiavelli",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "niccolo-machiavelli-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Niccolò Machiavelli is remembered as a philosopher connected with Italy."
+    },
+    {
+      "factId": "niccolo-machiavelli-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Niccolò Machiavelli's recorded life dates place this profile around 1469-1527."
+    },
+    {
+      "factId": "niccolo-machiavelli-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Niccolò Machiavelli is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "niccolo-machiavelli-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Niccolò Machiavelli's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "niccolo-machiavelli-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Niccolò Machiavelli has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

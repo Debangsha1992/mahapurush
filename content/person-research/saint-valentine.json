@@ -1,0 +1,46 @@
+{
+  "personId": "saint-valentine",
+  "slug": "saint-valentine",
+  "name": "Saint Valentine",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Saint Valentine",
+      "url": "https://pantheon.world/profile/person/Saint_Valentine",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saint-valentine-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Saint Valentine is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "saint-valentine-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Saint Valentine's recorded life dates place this profile around 226-273."
+    },
+    {
+      "factId": "saint-valentine-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Saint Valentine is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "saint-valentine-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Saint Valentine's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "saint-valentine-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Saint Valentine has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

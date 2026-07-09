@@ -1,0 +1,46 @@
+{
+  "personId": "johann-strauss-ii",
+  "slug": "johann-strauss-ii",
+  "name": "Johann Strauss II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Johann Strauss II",
+      "url": "https://pantheon.world/profile/person/Johann_Strauss_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "johann-strauss-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Johann Strauss II is remembered as a composer connected with Austria."
+    },
+    {
+      "factId": "johann-strauss-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Johann Strauss II's recorded life dates place this profile around 1825-1899."
+    },
+    {
+      "factId": "johann-strauss-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Johann Strauss II is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "johann-strauss-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Johann Strauss II's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "johann-strauss-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Johann Strauss II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

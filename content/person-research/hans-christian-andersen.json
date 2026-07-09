@@ -1,0 +1,46 @@
+{
+  "personId": "hans-christian-andersen",
+  "slug": "hans-christian-andersen",
+  "name": "Hans Christian Andersen",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hans Christian Andersen",
+      "url": "https://pantheon.world/profile/person/Hans_Christian_Andersen",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hans-christian-andersen-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hans Christian Andersen is remembered as a writer connected with Denmark."
+    },
+    {
+      "factId": "hans-christian-andersen-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hans Christian Andersen's recorded life dates place this profile around 1805-1875."
+    },
+    {
+      "factId": "hans-christian-andersen-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hans Christian Andersen is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "hans-christian-andersen-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hans Christian Andersen's profile connects a short Fact to a wider Denmark historical setting."
+    },
+    {
+      "factId": "hans-christian-andersen-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hans Christian Andersen has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

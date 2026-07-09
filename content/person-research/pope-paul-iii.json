@@ -1,0 +1,46 @@
+{
+  "personId": "pope-paul-iii",
+  "slug": "pope-paul-iii",
+  "name": "Pope Paul III",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Paul III",
+      "url": "https://pantheon.world/profile/person/Pope_Paul_III",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-paul-iii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul III is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-paul-iii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul III's recorded life dates place this profile around 1468-1549."
+    },
+    {
+      "factId": "pope-paul-iii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul III is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-paul-iii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul III's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-paul-iii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul III has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

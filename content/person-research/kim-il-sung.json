@@ -1,0 +1,46 @@
+{
+  "personId": "kim-il-sung",
+  "slug": "kim-il-sung",
+  "name": "Kim Il-sung",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Kim Il-sung",
+      "url": "https://pantheon.world/profile/person/Kim_Il-sung",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "kim-il-sung-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Kim Il-sung is remembered as a politician connected with South Korea."
+    },
+    {
+      "factId": "kim-il-sung-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Kim Il-sung's recorded life dates place this profile around 1912-1994."
+    },
+    {
+      "factId": "kim-il-sung-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Kim Il-sung is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "kim-il-sung-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Kim Il-sung's profile connects a short Fact to a wider South Korea historical setting."
+    },
+    {
+      "factId": "kim-il-sung-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Kim Il-sung has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

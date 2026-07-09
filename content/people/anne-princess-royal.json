@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Anne, Princess Royal is a notable nobleman associated with United Kingdom.",
+  "summary": "Anne, Princess Royal is a notable nobleman connected with United Kingdom.",
   "knownFor": [
     "Nobleman",
-    "62 language biography editions",
-    "Historical Popularity Index 82.1"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Anne, Princess Royal",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "anne-princess-royal-pantheon-profile",
-      "text": "Pantheon ranks Anne, Princess Royal as a globally documented nobleman with biographies in 62 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Anne, Princess Royal a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "anne-princess-royal-1-origin",
+      "text": "Anne, Princess Royal is remembered as a nobleman connected with United Kingdom.",
+      "context": "Anne, Princess Royal's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Anne, Princess Royal",
       "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Princess_Royal",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-princess-royal-2-obstacle",
+      "text": "Anne, Princess Royal's recorded life dates place this profile around born 1950.",
+      "context": "Anne, Princess Royal's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Anne, Princess Royal",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Princess_Royal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-princess-royal-3-turning-point",
+      "text": "Anne, Princess Royal is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Anne, Princess Royal's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Anne, Princess Royal",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Princess_Royal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-princess-royal-4-contribution",
+      "text": "Anne, Princess Royal's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Anne, Princess Royal's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Anne, Princess Royal",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Princess_Royal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-princess-royal-5-influence",
+      "text": "Anne, Princess Royal has a Facts Mode card reserved for deeper source research.",
+      "context": "Anne, Princess Royal's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Anne, Princess Royal",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Princess_Royal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

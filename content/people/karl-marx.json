@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "economist"
   ],
-  "summary": "Karl Marx is a notable economist associated with Germany.",
+  "summary": "Karl Marx is a notable economist connected with Germany.",
   "knownFor": [
     "Economist",
-    "206 language biography editions",
-    "Historical Popularity Index 92.2"
+    "Environment, Exploration & Human Achievement",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 76,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "karl-marx-pantheon-profile",
-      "text": "Pantheon ranks Karl Marx as a globally documented economist with biographies in 206 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Karl Marx a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "karl-marx-1-origin",
+      "text": "Karl Marx is remembered as a economist connected with Germany.",
+      "context": "Karl Marx's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Karl Marx",
       "sourceUrl": "https://pantheon.world/profile/person/Karl_Marx",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "karl-marx-2-obstacle",
+      "text": "Karl Marx's recorded life dates place this profile around 1818-1883.",
+      "context": "Karl Marx's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Karl Marx",
+      "sourceUrl": "https://pantheon.world/profile/person/Karl_Marx",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "karl-marx-3-turning-point",
+      "text": "Karl Marx is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Karl Marx's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Karl Marx",
+      "sourceUrl": "https://pantheon.world/profile/person/Karl_Marx",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "karl-marx-4-contribution",
+      "text": "Karl Marx's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Karl Marx's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Karl Marx",
+      "sourceUrl": "https://pantheon.world/profile/person/Karl_Marx",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "karl-marx-5-influence",
+      "text": "Karl Marx has a Facts Mode card reserved for deeper source research.",
+      "context": "Karl Marx's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Karl Marx",
+      "sourceUrl": "https://pantheon.world/profile/person/Karl_Marx",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

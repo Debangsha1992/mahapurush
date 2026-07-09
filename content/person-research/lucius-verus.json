@@ -1,0 +1,46 @@
+{
+  "personId": "lucius-verus",
+  "slug": "lucius-verus",
+  "name": "Lucius Verus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Lucius Verus",
+      "url": "https://pantheon.world/profile/person/Lucius_Verus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lucius-verus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Lucius Verus is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "lucius-verus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Lucius Verus's recorded life dates place this profile around 130-169."
+    },
+    {
+      "factId": "lucius-verus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Lucius Verus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "lucius-verus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lucius Verus's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "lucius-verus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lucius Verus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

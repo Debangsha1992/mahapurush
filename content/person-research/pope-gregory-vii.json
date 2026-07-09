@@ -1,0 +1,46 @@
+{
+  "personId": "pope-gregory-vii",
+  "slug": "pope-gregory-vii",
+  "name": "Pope Gregory VII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Gregory VII",
+      "url": "https://pantheon.world/profile/person/Pope_Gregory_VII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-gregory-vii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory VII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-gregory-vii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory VII's recorded life dates place this profile around 1020-1085."
+    },
+    {
+      "factId": "pope-gregory-vii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory VII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-gregory-vii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory VII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-gregory-vii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory VII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

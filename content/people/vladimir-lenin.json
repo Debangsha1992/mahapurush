@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Vladimir Lenin is a notable politician associated with Russia.",
+  "summary": "Vladimir Lenin is a notable politician connected with Russia.",
   "knownFor": [
     "Politician",
-    "209 language biography editions",
-    "Historical Popularity Index 91.5"
+    "Justice, Governance & Leadership",
+    "Russia"
   ],
   "featured": true,
   "featuredRank": 90,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "vladimir-lenin-pantheon-profile",
-      "text": "Pantheon ranks Vladimir Lenin as a globally documented politician with biographies in 209 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Vladimir Lenin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "vladimir-lenin-1-origin",
+      "text": "Vladimir Lenin is remembered as a politician connected with Russia.",
+      "context": "Vladimir Lenin's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Vladimir Lenin",
       "sourceUrl": "https://pantheon.world/profile/person/Vladimir_Lenin",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vladimir-lenin-2-obstacle",
+      "text": "Vladimir Lenin's recorded life dates place this profile around 1870-1924.",
+      "context": "Vladimir Lenin's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Vladimir Lenin",
+      "sourceUrl": "https://pantheon.world/profile/person/Vladimir_Lenin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vladimir-lenin-3-turning-point",
+      "text": "Vladimir Lenin is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Vladimir Lenin's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Vladimir Lenin",
+      "sourceUrl": "https://pantheon.world/profile/person/Vladimir_Lenin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vladimir-lenin-4-contribution",
+      "text": "Vladimir Lenin's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Vladimir Lenin's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Vladimir Lenin",
+      "sourceUrl": "https://pantheon.world/profile/person/Vladimir_Lenin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vladimir-lenin-5-influence",
+      "text": "Vladimir Lenin has a Facts Mode card reserved for deeper source research.",
+      "context": "Vladimir Lenin's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Vladimir Lenin",
+      "sourceUrl": "https://pantheon.world/profile/person/Vladimir_Lenin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

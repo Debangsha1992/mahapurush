@@ -1,0 +1,46 @@
+{
+  "personId": "musa-i-of-mali",
+  "slug": "musa-i-of-mali",
+  "name": "Musa I of Mali",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Musa I of Mali",
+      "url": "https://pantheon.world/profile/person/Musa_I_of_Mali",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "musa-i-of-mali-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Musa I of Mali is remembered as a politician connected with Mali."
+    },
+    {
+      "factId": "musa-i-of-mali-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Musa I of Mali's recorded life dates place this profile around 1280-1337."
+    },
+    {
+      "factId": "musa-i-of-mali-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Musa I of Mali is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "musa-i-of-mali-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Musa I of Mali's profile connects a short Fact to a wider Mali historical setting."
+    },
+    {
+      "factId": "musa-i-of-mali-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Musa I of Mali has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

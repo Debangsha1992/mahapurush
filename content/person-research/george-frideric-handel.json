@@ -1,0 +1,46 @@
+{
+  "personId": "george-frideric-handel",
+  "slug": "george-frideric-handel",
+  "name": "George Frideric Handel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: George Frideric Handel",
+      "url": "https://pantheon.world/profile/person/George_Frideric_Handel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "george-frideric-handel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "George Frideric Handel is remembered as a composer connected with Germany."
+    },
+    {
+      "factId": "george-frideric-handel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "George Frideric Handel's recorded life dates place this profile around 1685-1759."
+    },
+    {
+      "factId": "george-frideric-handel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "George Frideric Handel is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "george-frideric-handel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "George Frideric Handel's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "george-frideric-handel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "George Frideric Handel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

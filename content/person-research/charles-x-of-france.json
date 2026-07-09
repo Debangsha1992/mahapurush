@@ -1,0 +1,46 @@
+{
+  "personId": "charles-x-of-france",
+  "slug": "charles-x-of-france",
+  "name": "Charles X of France",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles X of France",
+      "url": "https://pantheon.world/profile/person/Charles_X_of_France",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-x-of-france-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles X of France is remembered as a politician connected with France."
+    },
+    {
+      "factId": "charles-x-of-france-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles X of France's recorded life dates place this profile around 1757-1836."
+    },
+    {
+      "factId": "charles-x-of-france-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles X of France is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "charles-x-of-france-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles X of France's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "charles-x-of-france-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles X of France has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

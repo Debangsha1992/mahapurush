@@ -1,0 +1,46 @@
+{
+  "personId": "hayreddin-barbarossa",
+  "slug": "hayreddin-barbarossa",
+  "name": "Hayreddin Barbarossa",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hayreddin Barbarossa",
+      "url": "https://pantheon.world/profile/person/Hayreddin_Barbarossa",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hayreddin-barbarossa-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hayreddin Barbarossa is remembered as a pirate connected with Greece."
+    },
+    {
+      "factId": "hayreddin-barbarossa-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hayreddin Barbarossa's recorded life dates place this profile around 1478-1546."
+    },
+    {
+      "factId": "hayreddin-barbarossa-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hayreddin Barbarossa is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "hayreddin-barbarossa-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hayreddin Barbarossa's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "hayreddin-barbarossa-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hayreddin Barbarossa has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

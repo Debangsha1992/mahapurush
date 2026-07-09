@@ -1,0 +1,46 @@
+{
+  "personId": "thelwulf-king-of-wessex",
+  "slug": "thelwulf-king-of-wessex",
+  "name": "Æthelwulf, King of Wessex",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Æthelwulf, King of Wessex",
+      "url": "https://pantheon.world/profile/person/%C3%86thelwulf%2C_King_of_Wessex",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "thelwulf-king-of-wessex-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Æthelwulf, King of Wessex is remembered as a politician connected with Germany."
+    },
+    {
+      "factId": "thelwulf-king-of-wessex-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Æthelwulf, King of Wessex's recorded life dates place this profile around 795-858."
+    },
+    {
+      "factId": "thelwulf-king-of-wessex-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Æthelwulf, King of Wessex is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "thelwulf-king-of-wessex-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Æthelwulf, King of Wessex's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "thelwulf-king-of-wessex-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Æthelwulf, King of Wessex has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

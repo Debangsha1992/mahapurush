@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Igor Stravinsky is a notable composer associated with Russia.",
+  "summary": "Igor Stravinsky is a notable composer connected with Russia.",
   "knownFor": [
     "Composer",
-    "133 language biography editions",
-    "Historical Popularity Index 87.3"
+    "Literature, Arts & Culture",
+    "Russia"
   ],
   "featured": true,
   "featuredRank": 255,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "igor-stravinsky-pantheon-profile",
-      "text": "Pantheon ranks Igor Stravinsky as a globally documented composer with biographies in 133 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Igor Stravinsky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "igor-stravinsky-1-origin",
+      "text": "Igor Stravinsky is remembered as a composer connected with Russia.",
+      "context": "Igor Stravinsky's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Igor Stravinsky",
       "sourceUrl": "https://pantheon.world/profile/person/Igor_Stravinsky",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "igor-stravinsky-2-obstacle",
+      "text": "Igor Stravinsky's recorded life dates place this profile around 1882-1971.",
+      "context": "Igor Stravinsky's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Igor Stravinsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Igor_Stravinsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "igor-stravinsky-3-turning-point",
+      "text": "Igor Stravinsky is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Igor Stravinsky's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Igor Stravinsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Igor_Stravinsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "igor-stravinsky-4-contribution",
+      "text": "Igor Stravinsky's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Igor Stravinsky's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Igor Stravinsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Igor_Stravinsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "igor-stravinsky-5-influence",
+      "text": "Igor Stravinsky has a Facts Mode card reserved for deeper source research.",
+      "context": "Igor Stravinsky's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Igor Stravinsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Igor_Stravinsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

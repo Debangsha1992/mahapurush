@@ -1,0 +1,46 @@
+{
+  "personId": "henrik-ibsen",
+  "slug": "henrik-ibsen",
+  "name": "Henrik Ibsen",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Henrik Ibsen",
+      "url": "https://pantheon.world/profile/person/Henrik_Ibsen",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "henrik-ibsen-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Henrik Ibsen is remembered as a writer connected with Norway."
+    },
+    {
+      "factId": "henrik-ibsen-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Henrik Ibsen's recorded life dates place this profile around 1828-1906."
+    },
+    {
+      "factId": "henrik-ibsen-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Henrik Ibsen is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "henrik-ibsen-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Henrik Ibsen's profile connects a short Fact to a wider Norway historical setting."
+    },
+    {
+      "factId": "henrik-ibsen-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Henrik Ibsen has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

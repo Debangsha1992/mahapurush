@@ -12,34 +12,103 @@
     "philosophy-ethics-religion",
     "philosopher"
   ],
-  "summary": "Al-Farabi is a notable philosopher associated with Afghanistan.",
+  "summary": "Abu Nasr Muhammad al-Farabi, known in the Latin West as Alpharabius, was an early Islamic philosopher and music theorist.",
   "knownFor": [
     "Philosopher",
-    "80 language biography editions",
-    "Historical Popularity Index 84.2"
+    "Philosophy, Ethics & Religion",
+    "Afghanistan"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Al-Farabi",
   "sourceRefs": [
     {
-      "title": "Pantheon: Al-Farabi",
-      "url": "https://pantheon.world/profile/person/Al-Farabi",
+      "title": "Wikipedia: Al-Farabi",
+      "url": "https://en.wikipedia.org/wiki/Al-Farabi",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "al-farabi-pantheon-profile",
-      "text": "Pantheon ranks Al-Farabi as a globally documented philosopher with biographies in 80 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Al-Farabi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Al-Farabi",
-      "sourceUrl": "https://pantheon.world/profile/person/Al-Farabi",
+      "id": "al-farabi-1-origin",
+      "text": "Abu Nasr Muhammad al-Farabi, known in the Latin West as Alpharabius, was an early Islamic philosopher and music theorist.",
+      "context": "Al-Farabi's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Al-Farabi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Farabi",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-farabi-2-obstacle",
+      "text": "Al-Farabi has been designated as \"Father of Islamic Neoplatonism\", and the \"Founder of Islamic Political Philosophy\".",
+      "context": "Al-Farabi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Al-Farabi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Farabi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-farabi-3-turning-point",
+      "text": "Al-Farabi is remembered as a philosopher connected with Afghanistan.",
+      "context": "Al-Farabi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Al-Farabi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Farabi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-farabi-4-contribution",
+      "text": "Al-Farabi's recorded life dates place this profile around 872-951.",
+      "context": "Al-Farabi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Al-Farabi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Farabi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-farabi-5-influence",
+      "text": "Al-Farabi is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Al-Farabi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Al-Farabi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Farabi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "anthony-hopkins",
+  "slug": "anthony-hopkins",
+  "name": "Anthony Hopkins",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anthony Hopkins",
+      "url": "https://pantheon.world/profile/person/Anthony_Hopkins",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anthony-hopkins-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anthony Hopkins is remembered as a actor connected with United Kingdom."
+    },
+    {
+      "factId": "anthony-hopkins-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anthony Hopkins's recorded life dates place this profile around born 1937."
+    },
+    {
+      "factId": "anthony-hopkins-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anthony Hopkins is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "anthony-hopkins-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anthony Hopkins's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "anthony-hopkins-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anthony Hopkins has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

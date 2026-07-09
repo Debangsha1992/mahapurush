@@ -1,0 +1,46 @@
+{
+  "personId": "bartolomeu-dias",
+  "slug": "bartolomeu-dias",
+  "name": "Bartolomeu Dias",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bartolomeu Dias",
+      "url": "https://pantheon.world/profile/person/Bartolomeu_Dias",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bartolomeu-dias-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bartolomeu Dias is remembered as a explorer connected with Portugal."
+    },
+    {
+      "factId": "bartolomeu-dias-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bartolomeu Dias's recorded life dates place this profile around 1450-1500."
+    },
+    {
+      "factId": "bartolomeu-dias-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bartolomeu Dias is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "bartolomeu-dias-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bartolomeu Dias's profile connects a short Fact to a wider Portugal historical setting."
+    },
+    {
+      "factId": "bartolomeu-dias-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bartolomeu Dias has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

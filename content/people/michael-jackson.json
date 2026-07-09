@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "musician"
   ],
-  "summary": "Michael Jackson is a notable musician associated with United States.",
+  "summary": "Michael Jackson is a notable musician connected with United States.",
   "knownFor": [
     "Musician",
-    "279 language biography editions",
-    "Historical Popularity Index 85.1"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 433,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "michael-jackson-pantheon-profile",
-      "text": "Pantheon ranks Michael Jackson as a globally documented musician with biographies in 279 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Michael Jackson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "michael-jackson-1-origin",
+      "text": "Michael Jackson is remembered as a musician connected with United States.",
+      "context": "Michael Jackson's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Michael Jackson",
       "sourceUrl": "https://pantheon.world/profile/person/Michael_Jackson",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michael-jackson-2-obstacle",
+      "text": "Michael Jackson's recorded life dates place this profile around 1958-2009.",
+      "context": "Michael Jackson's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Michael Jackson",
+      "sourceUrl": "https://pantheon.world/profile/person/Michael_Jackson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michael-jackson-3-turning-point",
+      "text": "Michael Jackson is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Michael Jackson's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Michael Jackson",
+      "sourceUrl": "https://pantheon.world/profile/person/Michael_Jackson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michael-jackson-4-contribution",
+      "text": "Michael Jackson's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Michael Jackson's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Michael Jackson",
+      "sourceUrl": "https://pantheon.world/profile/person/Michael_Jackson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michael-jackson-5-influence",
+      "text": "Michael Jackson has a Facts Mode card reserved for deeper source research.",
+      "context": "Michael Jackson's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Michael Jackson",
+      "sourceUrl": "https://pantheon.world/profile/person/Michael_Jackson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

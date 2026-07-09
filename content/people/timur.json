@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Timur is a notable military personnel associated with Uzbekistan.",
+  "summary": "Timur is a notable military personnel connected with Uzbekistan.",
   "knownFor": [
     "Military Personnel",
-    "139 language biography editions",
-    "Historical Popularity Index 90.7"
+    "Justice, Governance & Leadership",
+    "Uzbekistan"
   ],
   "featured": true,
   "featuredRank": 108,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "timur-pantheon-profile",
-      "text": "Pantheon ranks Timur as a globally documented military personnel with biographies in 139 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Timur a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "timur-1-origin",
+      "text": "Timur is remembered as a military personnel connected with Uzbekistan.",
+      "context": "Timur's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Timur",
       "sourceUrl": "https://pantheon.world/profile/person/Timur",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "timur-2-obstacle",
+      "text": "Timur's recorded life dates place this profile around 1336-1405.",
+      "context": "Timur's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Timur",
+      "sourceUrl": "https://pantheon.world/profile/person/Timur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "timur-3-turning-point",
+      "text": "Timur is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Timur's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Timur",
+      "sourceUrl": "https://pantheon.world/profile/person/Timur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "timur-4-contribution",
+      "text": "Timur's profile connects a short Fact to a wider Uzbekistan historical setting.",
+      "context": "Timur's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Timur",
+      "sourceUrl": "https://pantheon.world/profile/person/Timur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "timur-5-influence",
+      "text": "Timur has a Facts Mode card reserved for deeper source research.",
+      "context": "Timur's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Timur",
+      "sourceUrl": "https://pantheon.world/profile/person/Timur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

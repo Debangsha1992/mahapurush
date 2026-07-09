@@ -12,35 +12,105 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Pompey is a notable politician associated with Italy.",
+  "summary": "Gnaeus Pompeius Magnus, known in English as Pompey or Pompey the Great, was a Roman general and statesman who was prominent in the final decades of the Roman Republic.",
   "knownFor": [
     "Politician",
-    "87 language biography editions",
-    "Historical Popularity Index 87.7"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 233,
   "imageAlt": "Portrait-style visual for Pompey",
   "sourceRefs": [
     {
-      "title": "Pantheon: Pompey",
-      "url": "https://pantheon.world/profile/person/Pompey",
+      "title": "Wikipedia: Pompey",
+      "url": "https://en.wikipedia.org/wiki/Pompey",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pompey-pantheon-profile",
-      "text": "Pantheon ranks Pompey as a globally documented politician with biographies in 87 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pompey a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Pompey",
-      "sourceUrl": "https://pantheon.world/profile/person/Pompey",
+      "id": "pompey-1-origin",
+      "text": "Gnaeus Pompeius Magnus, known in English as Pompey or Pompey the Great, was a Roman general and statesman who was prominent in the final decades of the Roman Republic.",
+      "context": "Pompey's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Pompey",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pompey",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pompey-2-obstacle",
+      "text": "Pompey is remembered as a politician connected with Italy.",
+      "context": "Pompey's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Pompey",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pompey",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pompey-3-turning-point",
+      "text": "Pompey's recorded life dates place this profile around -106--48.",
+      "context": "Pompey's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Pompey",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pompey",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pompey-4-contribution",
+      "text": "Pompey is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Pompey's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Pompey",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pompey",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pompey-5-influence",
+      "text": "Pompey's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Pompey's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Pompey",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Pompey",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

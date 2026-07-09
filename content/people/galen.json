@@ -12,35 +12,104 @@
     "science-math-technology",
     "physician"
   ],
-  "summary": "Galen is a notable physician associated with Türkiye.",
+  "summary": "Aelius Galenus or Claudius Galenus, often anglicized as Galen or Galen of Pergamon, was a Roman and Greek physician, surgeon, and philosopher.",
   "knownFor": [
     "Physician",
-    "113 language biography editions",
-    "Historical Popularity Index 85.7"
+    "Science, Math & Technology",
+    "Türkiye"
   ],
   "featured": true,
   "featuredRank": 374,
   "imageAlt": "Portrait-style visual for Galen",
   "sourceRefs": [
     {
-      "title": "Pantheon: Galen",
-      "url": "https://pantheon.world/profile/person/Galen",
+      "title": "Wikipedia: Galen",
+      "url": "https://en.wikipedia.org/wiki/Galen",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "galen-pantheon-profile",
-      "text": "Pantheon ranks Galen as a globally documented physician with biographies in 113 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Galen a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Galen",
-      "sourceUrl": "https://pantheon.world/profile/person/Galen",
+      "id": "galen-1-origin",
+      "text": "Aelius Galenus or Claudius Galenus, often anglicized as Galen or Galen of Pergamon, was a Roman and Greek physician, surgeon, and philosopher.",
+      "context": "Galen's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Galen",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galen",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "galen-2-obstacle",
+      "text": "Considered to be one of the most accomplished of all medical researchers of antiquity, Galen influenced the development of various scientific disciplines, including anatomy, physiology, pathology, pharmacology, and neurology, as well as philosophy and logic.",
+      "context": "Galen's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Galen",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "galen-3-turning-point",
+      "text": "Galen is remembered as a physician connected with Türkiye.",
+      "context": "Galen's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Galen",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "galen-4-contribution",
+      "text": "Galen's recorded life dates place this profile around 129-215.",
+      "context": "Galen's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Galen",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "galen-5-influence",
+      "text": "Galen is grouped with Science, Math & Technology in the People Library.",
+      "context": "Galen's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Galen",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Galen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

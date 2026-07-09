@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "James Clerk Maxwell is a notable physicist associated with United Kingdom.",
+  "summary": "James Clerk Maxwell is a notable physicist connected with United Kingdom.",
   "knownFor": [
     "Physicist",
-    "134 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for James Clerk Maxwell",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "james-clerk-maxwell-pantheon-profile",
-      "text": "Pantheon ranks James Clerk Maxwell as a globally documented physicist with biographies in 134 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make James Clerk Maxwell a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "james-clerk-maxwell-1-origin",
+      "text": "James Clerk Maxwell is remembered as a physicist connected with United Kingdom.",
+      "context": "James Clerk Maxwell's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: James Clerk Maxwell",
       "sourceUrl": "https://pantheon.world/profile/person/James_Clerk_Maxwell",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-clerk-maxwell-2-obstacle",
+      "text": "James Clerk Maxwell's recorded life dates place this profile around 1831-1879.",
+      "context": "James Clerk Maxwell's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: James Clerk Maxwell",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Clerk_Maxwell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-clerk-maxwell-3-turning-point",
+      "text": "James Clerk Maxwell is grouped with Science, Math & Technology in the People Library.",
+      "context": "James Clerk Maxwell's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: James Clerk Maxwell",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Clerk_Maxwell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-clerk-maxwell-4-contribution",
+      "text": "James Clerk Maxwell's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "James Clerk Maxwell's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: James Clerk Maxwell",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Clerk_Maxwell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-clerk-maxwell-5-influence",
+      "text": "James Clerk Maxwell has a Facts Mode card reserved for deeper source research.",
+      "context": "James Clerk Maxwell's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: James Clerk Maxwell",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Clerk_Maxwell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

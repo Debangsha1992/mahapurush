@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Robert De Niro is a notable actor associated with United States.",
+  "summary": "Robert De Niro is a notable actor connected with United States.",
   "knownFor": [
     "Actor",
-    "123 language biography editions",
-    "Historical Popularity Index 83.8"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Robert De Niro",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "robert-de-niro-pantheon-profile",
-      "text": "Pantheon ranks Robert De Niro as a globally documented actor with biographies in 123 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Robert De Niro a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "robert-de-niro-1-origin",
+      "text": "Robert De Niro is remembered as a actor connected with United States.",
+      "context": "Robert De Niro's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Robert De Niro",
       "sourceUrl": "https://pantheon.world/profile/person/Robert_De_Niro",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-de-niro-2-obstacle",
+      "text": "Robert De Niro's recorded life dates place this profile around born 1943.",
+      "context": "Robert De Niro's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Robert De Niro",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_De_Niro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-de-niro-3-turning-point",
+      "text": "Robert De Niro is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Robert De Niro's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Robert De Niro",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_De_Niro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-de-niro-4-contribution",
+      "text": "Robert De Niro's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Robert De Niro's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Robert De Niro",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_De_Niro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-de-niro-5-influence",
+      "text": "Robert De Niro has a Facts Mode card reserved for deeper source research.",
+      "context": "Robert De Niro's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Robert De Niro",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_De_Niro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

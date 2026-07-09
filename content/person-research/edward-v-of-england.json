@@ -1,0 +1,46 @@
+{
+  "personId": "edward-v-of-england",
+  "slug": "edward-v-of-england",
+  "name": "Edward V of England",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edward V of England",
+      "url": "https://pantheon.world/profile/person/Edward_V_of_England",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edward-v-of-england-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edward V of England is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "edward-v-of-england-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edward V of England's recorded life dates place this profile around 1470-1483."
+    },
+    {
+      "factId": "edward-v-of-england-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edward V of England is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "edward-v-of-england-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edward V of England's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "edward-v-of-england-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edward V of England has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

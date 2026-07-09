@@ -1,0 +1,46 @@
+{
+  "personId": "hildegard-of-bingen",
+  "slug": "hildegard-of-bingen",
+  "name": "Hildegard of Bingen",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hildegard of Bingen",
+      "url": "https://pantheon.world/profile/person/Hildegard_of_Bingen",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hildegard-of-bingen-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hildegard of Bingen is remembered as a religious figure connected with Germany."
+    },
+    {
+      "factId": "hildegard-of-bingen-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hildegard of Bingen's recorded life dates place this profile around 1098-1179."
+    },
+    {
+      "factId": "hildegard-of-bingen-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hildegard of Bingen is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "hildegard-of-bingen-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hildegard of Bingen's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "hildegard-of-bingen-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hildegard of Bingen has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

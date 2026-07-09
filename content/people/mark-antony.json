@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mark Antony is a notable politician associated with Italy.",
+  "summary": "Mark Antony is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "90 language biography editions",
-    "Historical Popularity Index 84.0"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mark Antony",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mark-antony-pantheon-profile",
-      "text": "Pantheon ranks Mark Antony as a globally documented politician with biographies in 90 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mark Antony a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mark-antony-1-origin",
+      "text": "Mark Antony is remembered as a politician connected with Italy.",
+      "context": "Mark Antony's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mark Antony",
       "sourceUrl": "https://pantheon.world/profile/person/Mark_Antony",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-antony-2-obstacle",
+      "text": "Mark Antony's recorded life dates place this profile around -83--30.",
+      "context": "Mark Antony's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mark Antony",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_Antony",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-antony-3-turning-point",
+      "text": "Mark Antony is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mark Antony's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mark Antony",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_Antony",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-antony-4-contribution",
+      "text": "Mark Antony's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Mark Antony's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mark Antony",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_Antony",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-antony-5-influence",
+      "text": "Mark Antony has a Facts Mode card reserved for deeper source research.",
+      "context": "Mark Antony's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mark Antony",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_Antony",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

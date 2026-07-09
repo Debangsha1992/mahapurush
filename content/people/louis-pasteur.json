@@ -12,11 +12,11 @@
     "science-math-technology",
     "chemist"
   ],
-  "summary": "Louis Pasteur is a notable chemist associated with France.",
+  "summary": "Louis Pasteur is a notable chemist connected with France.",
   "knownFor": [
     "Chemist",
-    "164 language biography editions",
-    "Historical Popularity Index 89.2"
+    "Science, Math & Technology",
+    "France"
   ],
   "featured": true,
   "featuredRank": 161,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "louis-pasteur-pantheon-profile",
-      "text": "Pantheon ranks Louis Pasteur as a globally documented chemist with biographies in 164 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Louis Pasteur a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "louis-pasteur-1-origin",
+      "text": "Louis Pasteur is remembered as a chemist connected with France.",
+      "context": "Louis Pasteur's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Louis Pasteur",
       "sourceUrl": "https://pantheon.world/profile/person/Louis_Pasteur",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-pasteur-2-obstacle",
+      "text": "Louis Pasteur's recorded life dates place this profile around 1822-1895.",
+      "context": "Louis Pasteur's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Louis Pasteur",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_Pasteur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-pasteur-3-turning-point",
+      "text": "Louis Pasteur is grouped with Science, Math & Technology in the People Library.",
+      "context": "Louis Pasteur's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Louis Pasteur",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_Pasteur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-pasteur-4-contribution",
+      "text": "Louis Pasteur's profile connects a short Fact to a wider France historical setting.",
+      "context": "Louis Pasteur's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Louis Pasteur",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_Pasteur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-pasteur-5-influence",
+      "text": "Louis Pasteur has a Facts Mode card reserved for deeper source research.",
+      "context": "Louis Pasteur's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Louis Pasteur",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_Pasteur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

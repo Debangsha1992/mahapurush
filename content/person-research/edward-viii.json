@@ -1,0 +1,46 @@
+{
+  "personId": "edward-viii",
+  "slug": "edward-viii",
+  "name": "Edward VIII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edward VIII",
+      "url": "https://pantheon.world/profile/person/Edward_VIII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edward-viii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edward VIII is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "edward-viii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edward VIII's recorded life dates place this profile around 1894-1972."
+    },
+    {
+      "factId": "edward-viii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edward VIII is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "edward-viii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edward VIII's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "edward-viii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edward VIII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "bernhard-riemann",
+  "slug": "bernhard-riemann",
+  "name": "Bernhard Riemann",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bernhard Riemann",
+      "url": "https://pantheon.world/profile/person/Bernhard_Riemann",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bernhard-riemann-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bernhard Riemann is remembered as a mathematician connected with Germany."
+    },
+    {
+      "factId": "bernhard-riemann-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bernhard Riemann's recorded life dates place this profile around 1826-1866."
+    },
+    {
+      "factId": "bernhard-riemann-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bernhard Riemann is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "bernhard-riemann-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bernhard Riemann's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "bernhard-riemann-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bernhard Riemann has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

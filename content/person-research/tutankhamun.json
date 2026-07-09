@@ -1,0 +1,46 @@
+{
+  "personId": "tutankhamun",
+  "slug": "tutankhamun",
+  "name": "Tutankhamun",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Tutankhamun",
+      "url": "https://pantheon.world/profile/person/Tutankhamun",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "tutankhamun-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Tutankhamun is remembered as a religious figure connected with Egypt."
+    },
+    {
+      "factId": "tutankhamun-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Tutankhamun's recorded life dates place this profile around -1341--1323."
+    },
+    {
+      "factId": "tutankhamun-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Tutankhamun is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "tutankhamun-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Tutankhamun's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "tutankhamun-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Tutankhamun has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

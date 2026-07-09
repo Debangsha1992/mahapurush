@@ -1,0 +1,46 @@
+{
+  "personId": "louis-xv-of-france",
+  "slug": "louis-xv-of-france",
+  "name": "Louis XV of France",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Louis XV of France",
+      "url": "https://pantheon.world/profile/person/Louis_XV_of_France",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "louis-xv-of-france-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Louis XV of France is remembered as a politician connected with France."
+    },
+    {
+      "factId": "louis-xv-of-france-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Louis XV of France's recorded life dates place this profile around 1710-1774."
+    },
+    {
+      "factId": "louis-xv-of-france-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Louis XV of France is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "louis-xv-of-france-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Louis XV of France's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "louis-xv-of-france-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Louis XV of France has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

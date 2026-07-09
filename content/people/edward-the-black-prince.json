@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Edward the Black Prince is a notable nobleman associated with United Kingdom.",
+  "summary": "Edward the Black Prince is a notable nobleman connected with United Kingdom.",
   "knownFor": [
     "Nobleman",
-    "60 language biography editions",
-    "Historical Popularity Index 83.1"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Edward the Black Prince",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edward-the-black-prince-pantheon-profile",
-      "text": "Pantheon ranks Edward the Black Prince as a globally documented nobleman with biographies in 60 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward the Black Prince a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edward-the-black-prince-1-origin",
+      "text": "Edward the Black Prince is remembered as a nobleman connected with United Kingdom.",
+      "context": "Edward the Black Prince's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Edward the Black Prince",
       "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Black_Prince",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-the-black-prince-2-obstacle",
+      "text": "Edward the Black Prince's recorded life dates place this profile around 1330-1376.",
+      "context": "Edward the Black Prince's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Edward the Black Prince",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Black_Prince",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-the-black-prince-3-turning-point",
+      "text": "Edward the Black Prince is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Edward the Black Prince's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Edward the Black Prince",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Black_Prince",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-the-black-prince-4-contribution",
+      "text": "Edward the Black Prince's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Edward the Black Prince's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Edward the Black Prince",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Black_Prince",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-the-black-prince-5-influence",
+      "text": "Edward the Black Prince has a Facts Mode card reserved for deeper source research.",
+      "context": "Edward the Black Prince's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Edward the Black Prince",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Black_Prince",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

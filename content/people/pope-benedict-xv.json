@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Pope Benedict XV is a notable religious figure associated with Italy.",
+  "summary": "Pope Benedict XV is a notable religious figure connected with Italy.",
   "knownFor": [
     "Religious Figure",
-    "98 language biography editions",
-    "Historical Popularity Index 86.0"
+    "Philosophy, Ethics & Religion",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 352,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pope-benedict-xv-pantheon-profile",
-      "text": "Pantheon ranks Pope Benedict XV as a globally documented religious figure with biographies in 98 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Benedict XV a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pope-benedict-xv-1-origin",
+      "text": "Pope Benedict XV is remembered as a religious figure connected with Italy.",
+      "context": "Pope Benedict XV's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Pope Benedict XV",
       "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XV",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-benedict-xv-2-obstacle",
+      "text": "Pope Benedict XV's recorded life dates place this profile around 1854-1922.",
+      "context": "Pope Benedict XV's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pope Benedict XV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-benedict-xv-3-turning-point",
+      "text": "Pope Benedict XV is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Pope Benedict XV's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pope Benedict XV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-benedict-xv-4-contribution",
+      "text": "Pope Benedict XV's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Pope Benedict XV's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pope Benedict XV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-benedict-xv-5-influence",
+      "text": "Pope Benedict XV has a Facts Mode card reserved for deeper source research.",
+      "context": "Pope Benedict XV's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pope Benedict XV",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Benedict_XV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

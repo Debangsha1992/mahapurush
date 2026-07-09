@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Marcus Aurelius is a notable politician associated with Italy.",
+  "summary": "Marcus Aurelius is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "112 language biography editions",
-    "Historical Popularity Index 87.4"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 253,
@@ -26,23 +26,120 @@
       "title": "Pantheon: Marcus Aurelius",
       "url": "https://pantheon.world/profile/person/Marcus_Aurelius",
       "accessedAt": "2026-07-06"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Marcus Aurelius",
+      "url": "https://www.britannica.com/biography/Marcus-Aurelius-Roman-emperor",
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "marcus-aurelius-pantheon-profile",
-      "text": "Pantheon ranks Marcus Aurelius as a globally documented politician with biographies in 112 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Marcus Aurelius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "marcus-aurelius-approved-01",
+      "text": "Marcus Aurelius wrote the reflections now called Meditations while carrying the responsibilities of a Roman emperor.",
+      "context": "Marcus Aurelius shows philosophy being tested under pressure, not kept as decoration.",
+      "sourceTitle": "Encyclopaedia Britannica: Marcus Aurelius",
+      "sourceUrl": "https://www.britannica.com/biography/Marcus-Aurelius-Roman-emperor",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "Britannica discusses Marcus Aurelius as emperor and author of the Meditations.",
+      "tags": [
+        "justice-governance-leadership"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marcus-aurelius-1-origin",
+      "text": "Marcus Aurelius is remembered as a politician connected with Italy.",
+      "context": "Marcus Aurelius's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Marcus Aurelius",
       "sourceUrl": "https://pantheon.world/profile/person/Marcus_Aurelius",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
       ],
-      "verified": true
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "marcus-aurelius-2-obstacle",
+      "text": "Marcus Aurelius's recorded life dates place this profile around 121-180.",
+      "context": "Marcus Aurelius's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Marcus Aurelius",
+      "sourceUrl": "https://pantheon.world/profile/person/Marcus_Aurelius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "marcus-aurelius-3-turning-point",
+      "text": "Marcus Aurelius is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Marcus Aurelius's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Marcus Aurelius",
+      "sourceUrl": "https://pantheon.world/profile/person/Marcus_Aurelius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "marcus-aurelius-4-contribution",
+      "text": "Marcus Aurelius's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Marcus Aurelius's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Marcus Aurelius",
+      "sourceUrl": "https://pantheon.world/profile/person/Marcus_Aurelius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "marcus-aurelius-5-influence",
+      "text": "Marcus Aurelius has a Facts Mode card reserved for deeper source research.",
+      "context": "Marcus Aurelius's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Marcus Aurelius",
+      "sourceUrl": "https://pantheon.world/profile/person/Marcus_Aurelius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ]
 }

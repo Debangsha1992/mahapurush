@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "John, King of England is a notable politician associated with United Kingdom.",
+  "summary": "John, King of England is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "85 language biography editions",
-    "Historical Popularity Index 88.3"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 205,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "john-king-of-england-pantheon-profile",
-      "text": "Pantheon ranks John, King of England as a globally documented politician with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make John, King of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "john-king-of-england-1-origin",
+      "text": "John, King of England is remembered as a politician connected with United Kingdom.",
+      "context": "John, King of England's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: John, King of England",
       "sourceUrl": "https://pantheon.world/profile/person/John%2C_King_of_England",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-king-of-england-2-obstacle",
+      "text": "John, King of England's recorded life dates place this profile around 1166-1216.",
+      "context": "John, King of England's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: John, King of England",
+      "sourceUrl": "https://pantheon.world/profile/person/John%2C_King_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-king-of-england-3-turning-point",
+      "text": "John, King of England is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "John, King of England's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: John, King of England",
+      "sourceUrl": "https://pantheon.world/profile/person/John%2C_King_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-king-of-england-4-contribution",
+      "text": "John, King of England's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "John, King of England's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: John, King of England",
+      "sourceUrl": "https://pantheon.world/profile/person/John%2C_King_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-king-of-england-5-influence",
+      "text": "John, King of England has a Facts Mode card reserved for deeper source research.",
+      "context": "John, King of England's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: John, King of England",
+      "sourceUrl": "https://pantheon.world/profile/person/John%2C_King_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

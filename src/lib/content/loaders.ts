@@ -29,6 +29,7 @@ import {
   PERSON_REGION_IDS,
   type PersonRegionId,
 } from "@/lib/constants/person-regions";
+import { getPublicPersonSummary } from "@/lib/content/public-copy";
 
 const contentRoot = path.join(process.cwd(), "content");
 const PEOPLE_PAGE_SIZE = 24;
@@ -36,9 +37,45 @@ const MAX_PEOPLE_PAGE_SIZE = 48;
 const FACT_BATCH_SIZE = 20;
 const MIN_PEOPLE_COUNT = 1000;
 const MIN_FEATURED_PEOPLE_COUNT = 500;
+const BANNED_FACT_COPY_PHRASES = [
+  "pantheon ranks",
+  "historical popularity index",
+  "language biography editions",
+  "language editions",
+];
+const FORBIDDEN_APPROVED_FACT_PHRASES = [
+  "profile",
+  "facts mode",
+  "people library",
+  "recorded life dates",
+  "connected with",
+  "grouped with",
+  "reserved for deeper source research",
+  "background gives readers",
+  "belongs in the people library",
+];
+const ALL_AGES_READER_COPY_BANNED_PHRASES = [
+  "teenager",
+  "teenagers",
+  "if you are fifteen",
+  "at fifteen or sixteen",
+  "for readers aged fifteen",
+  "students aged",
+  "modern students",
+  "student life",
+  "your class",
+  "your school",
+  "exam competition",
+  "homework",
+];
 
 let thinkersCache: Thinker[] | undefined;
 let peopleCache: NotablePerson[] | undefined;
+
+type ReaderCopyField = {
+  label: string;
+  value: string;
+};
 
 function readJsonFiles<T>(
   directory: string,
@@ -108,14 +145,28 @@ export function getAllFacts(): FactWithPerson[] {
 
   return getAllPeople().flatMap((person) => {
     const { facts, ...personSummary } = person;
-    return facts.map((fact) => ({
-      ...fact,
-      person: personSummary,
-      thinkerSlug: person.thinkerId
-        ? thinkerSlugById.get(person.thinkerId)
-        : undefined,
-    }));
+    const publicPersonSummary = {
+      ...personSummary,
+      summary: getPublicPersonSummary(personSummary.summary) ?? "",
+    };
+    return facts
+      .filter((fact) => fact.editorialStatus === "facts-mode-approved")
+      .map((fact) => ({
+        ...fact,
+        person: publicPersonSummary,
+        thinkerSlug: person.thinkerId
+          ? thinkerSlugById.get(person.thinkerId)
+          : undefined,
+      }));
   });
+}
+
+export function getApprovedFactsForPerson(
+  person: NotablePerson,
+): NotablePerson["facts"] {
+  return person.facts.filter(
+    (fact) => fact.editorialStatus === "facts-mode-approved",
+  );
 }
 
 function toPersonSummary(person: NotablePerson): PersonSummary {
@@ -128,7 +179,7 @@ function toPersonSummary(person: NotablePerson): PersonSummary {
     region: person.region,
     regionId: person.regionId,
     primaryDomain: person.primaryDomain,
-    summary: person.summary,
+    summary: getPublicPersonSummary(person.summary) ?? "",
     knownFor: person.knownFor,
     featured: person.featured,
     featuredRank: person.featuredRank,
@@ -253,7 +304,7 @@ export function getFactBatch({
     (fact) => fact.verified && !excluded.has(fact.id),
   );
 
-  return facts
+  const batch = facts
     .map((fact) => ({
       fact,
       score: hashSeed(`${seed}:${fact.id}`),
@@ -261,12 +312,14 @@ export function getFactBatch({
     .sort((a, b) => a.score - b.score)
     .slice(0, batchSize)
     .map((entry) => entry.fact);
+
+  return batch;
 }
 
 export function getRandomFact(seed?: string): FactWithPerson {
   const fact = getFactBatch({ seed, limit: 1 })[0];
   if (!fact) {
-    throw new Error("No verified facts configured");
+    throw new Error("No approved facts configured");
   }
 
   return fact;
@@ -275,7 +328,7 @@ export function getRandomFact(seed?: string): FactWithPerson {
 export function getFactForDate(date = new Date()): FactWithPerson {
   const facts = getAllFacts().filter((fact) => fact.verified);
   if (facts.length === 0) {
-    throw new Error("No verified facts configured");
+    throw new Error("No approved facts configured");
   }
 
   const dayIndex = Math.floor(
@@ -396,12 +449,128 @@ function ensureDateLike(value: string, label: string): void {
   }
 }
 
+function ensureNoBannedFactCopy(value: string, label: string): void {
+  const normalized = value.toLowerCase();
+  const phrase = BANNED_FACT_COPY_PHRASES.find((item) =>
+    normalized.includes(item),
+  );
+  if (phrase) {
+    throw new Error(`${label} contains banned ranking prose: ${phrase}`);
+  }
+}
+
+function ensureNoForbiddenApprovedFactCopy(value: string, label: string): void {
+  const normalized = value.toLowerCase();
+  const phrase = FORBIDDEN_APPROVED_FACT_PHRASES.find((item) =>
+    normalized.includes(item),
+  );
+  if (phrase) {
+    throw new Error(`${label} contains forbidden public copy: ${phrase}`);
+  }
+}
+
+export function validateAllAgesReaderCopy(fields: ReaderCopyField[]): void {
+  for (const field of fields) {
+    const normalized = field.value.toLowerCase();
+    const phrase = ALL_AGES_READER_COPY_BANNED_PHRASES.find((item) =>
+      normalized.includes(item),
+    );
+    if (phrase) {
+      throw new Error(
+        `${field.label} contains teen-default reader-address copy, not all-ages copy: ${phrase}`,
+      );
+    }
+  }
+}
+
+function collectLessonReaderCopyFields(lesson: Lesson): ReaderCopyField[] {
+  const fields: ReaderCopyField[] = [];
+
+  for (const [layerName, layer] of Object.entries(lesson.layers)) {
+    if (!layer) {
+      continue;
+    }
+
+    fields.push(
+      {
+        label: `Lesson ${lesson.id} ${layerName} modernTest scenario`,
+        value: layer.modernTest.scenario,
+      },
+      {
+        label: `Lesson ${lesson.id} ${layerName} modernTest question`,
+        value: layer.modernTest.question,
+      },
+      {
+        label: `Lesson ${lesson.id} ${layerName} modernTest discussionNotes`,
+        value: layer.modernTest.discussionNotes,
+      },
+      {
+        label: `Lesson ${lesson.id} ${layerName} reflectionPrompt`,
+        value: layer.reflectionPrompt,
+      },
+      {
+        label: `Lesson ${lesson.id} ${layerName} thoughtTension counterView`,
+        value: layer.thoughtTension.counterView,
+      },
+      {
+        label: `Lesson ${lesson.id} ${layerName} thoughtTension responsePrompt`,
+        value: layer.thoughtTension.responsePrompt,
+      },
+    );
+
+    for (const option of layer.modernTest.options) {
+      fields.push(
+        {
+          label: `Lesson ${lesson.id} ${layerName} modernTest option ${option.id}`,
+          value: option.label,
+        },
+        {
+          label: `Lesson ${lesson.id} ${layerName} modernTest option ${option.id} explanation`,
+          value: option.explanation,
+        },
+      );
+    }
+  }
+
+  return fields;
+}
+
+function ensureApprovedFactSourceQuality(factId: string, fact: NotablePerson["facts"][number]): void {
+  if (fact.sourceTitle.toLowerCase().startsWith("pantheon:")) {
+    throw new Error(`Approved fact ${factId} cannot use Pantheon as its only source`);
+  }
+  if (!fact.sourceExcerpt && !fact.sourceNote) {
+    throw new Error(`Approved fact ${factId} needs sourceExcerpt or sourceNote`);
+  }
+}
+
+function textContainsName(text: string, name: string): boolean {
+  if (name.length <= 2) {
+    return new RegExp(`\\b${name.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i").test(
+      text,
+    );
+  }
+  return text.toLowerCase().includes(name.toLowerCase());
+}
+
+function ensureFactNamesPerson(person: NotablePerson, factId: string, text: string): void {
+  const acceptedNames = [person.name, person.shortName]
+    .filter(Boolean);
+  if (!acceptedNames.some((name) => textContainsName(text, name))) {
+    throw new Error(`Fact ${factId} must name ${person.name}`);
+  }
+}
+
 export function validateAllContent(): void {
   const thinkers = getAllThinkers();
   const thinkerIds = new Set(thinkers.map((thinker) => thinker.id));
+  const readerCopyFields: ReaderCopyField[] = [];
 
   for (const thinker of thinkers) {
-    getLessonsForThinker(thinker.id);
+    const lessons = getLessonsForThinker(thinker.id);
+    for (const lesson of lessons) {
+      readerCopyFields.push(...collectLessonReaderCopyFields(lesson));
+    }
     const lifeStory = getLifeStoryForThinker(thinker.id);
     if (!lifeStory) {
       throw new Error(`Thinker ${thinker.id} is missing life-story.json`);
@@ -411,9 +580,19 @@ export function validateAllContent(): void {
         `Life story for ${thinker.id} references ${lifeStory.thinkerId}`,
       );
     }
+    for (const [index, page] of lifeStory.pages.entries()) {
+      readerCopyFields.push({
+        label: `Life story ${thinker.id} page ${index + 1}`,
+        value: `${page.title} ${page.body}`,
+      });
+    }
   }
 
   for (const learningPath of getAllPaths()) {
+    readerCopyFields.push({
+      label: `Learning path ${learningPath.id} description`,
+      value: learningPath.description,
+    });
     for (const thinkerId of learningPath.thinkerIds) {
       if (!thinkerIds.has(thinkerId)) {
         throw new Error(
@@ -424,6 +603,10 @@ export function validateAllContent(): void {
   }
 
   for (const spark of getAllDailySparks()) {
+    readerCopyFields.push({
+      label: `Daily spark ${spark.id} question`,
+      value: spark.question,
+    });
     if (!thinkerIds.has(spark.thinkerId)) {
       throw new Error(`Daily spark ${spark.id} references unknown thinker`);
     }
@@ -433,10 +616,39 @@ export function validateAllContent(): void {
   }
 
   for (const quote of getAllQuoteCards()) {
+    readerCopyFields.push(
+      {
+        label: `Quote ${quote.id} meaning`,
+        value: quote.meaning,
+      },
+      {
+        label: `Quote ${quote.id} todayQuestion`,
+        value: quote.todayQuestion,
+      },
+    );
     if (!thinkerIds.has(quote.thinkerId)) {
       throw new Error(`Quote ${quote.id} references unknown thinker`);
     }
   }
+
+  for (const challenge of getAllWeeklyChallenges()) {
+    readerCopyFields.push(
+      {
+        label: `Weekly challenge ${challenge.id} title`,
+        value: challenge.title,
+      },
+      {
+        label: `Weekly challenge ${challenge.id} prompt`,
+        value: challenge.prompt,
+      },
+      {
+        label: `Weekly challenge ${challenge.id} instructions`,
+        value: challenge.instructions,
+      },
+    );
+  }
+
+  validateAllAgesReaderCopy(readerCopyFields);
 
   const people = getAllPeople();
   if (people.length < MIN_PEOPLE_COUNT) {
@@ -488,8 +700,9 @@ export function validateAllContent(): void {
     if (!person.featured && person.featuredRank) {
       throw new Error(`Unfeatured person ${person.id} has featuredRank`);
     }
-    if (!person.facts.some((fact) => fact.verified)) {
-      throw new Error(`Person ${person.id} needs at least one verified fact`);
+    ensureNoBannedFactCopy(person.summary, `Person ${person.id} summary`);
+    for (const knownFor of person.knownFor) {
+      ensureNoBannedFactCopy(knownFor, `Person ${person.id} knownFor`);
     }
     for (const source of person.sourceRefs) {
       ensureDateLike(source.accessedAt, `Person ${person.id} source accessedAt`);
@@ -506,9 +719,23 @@ export function validateAllContent(): void {
         throw new Error(`Duplicate fact id: ${fact.id}`);
       }
       factIds.add(fact.id);
+      ensureNoBannedFactCopy(fact.text, `Fact ${fact.id} text`);
+      ensureNoBannedFactCopy(fact.context, `Fact ${fact.id} context`);
+      ensureFactNamesPerson(person, fact.id, fact.text);
+      if (fact.editorialStatus === "facts-mode-approved") {
+        ensureNoForbiddenApprovedFactCopy(fact.text, `Fact ${fact.id} text`);
+        ensureNoForbiddenApprovedFactCopy(fact.context, `Fact ${fact.id} context`);
+        ensureApprovedFactSourceQuality(fact.id, fact);
+      }
 
       if (fact.verified) {
-        if (!fact.sourceTitle || !fact.sourceUrl || !fact.sourceAccessedAt) {
+        if (
+          !fact.sourceTitle ||
+          !fact.sourceUrl ||
+          !fact.sourceAccessedAt ||
+          !fact.sourceType ||
+          !fact.claimStatus
+        ) {
           throw new Error(`Verified fact ${fact.id} is missing source metadata`);
         }
       }
@@ -520,6 +747,9 @@ export function validateAllContent(): void {
       if (fact.currentAsOf) {
         ensureDateLike(fact.currentAsOf, `Fact ${fact.id} currentAsOf`);
       }
+      if (fact.claimStatus === "current-as-of" && !fact.currentAsOf) {
+        throw new Error(`Fact ${fact.id} needs currentAsOf for current claims`);
+      }
 
       const changingClaimTags = new Set(["current", "first"]);
       if (
@@ -529,5 +759,10 @@ export function validateAllContent(): void {
         throw new Error(`Fact ${fact.id} needs currentAsOf for changing claims`);
       }
     }
+  }
+
+  const approvedFacts = getAllFacts();
+  if (approvedFacts.length === 0) {
+    throw new Error("Facts Mode needs at least one approved fact");
   }
 }

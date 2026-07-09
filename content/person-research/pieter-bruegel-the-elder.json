@@ -1,0 +1,46 @@
+{
+  "personId": "pieter-bruegel-the-elder",
+  "slug": "pieter-bruegel-the-elder",
+  "name": "Pieter Bruegel the Elder",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pieter Bruegel the Elder",
+      "url": "https://pantheon.world/profile/person/Pieter_Bruegel_the_Elder",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pieter-bruegel-the-elder-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pieter Bruegel the Elder is remembered as a painter connected with Netherlands."
+    },
+    {
+      "factId": "pieter-bruegel-the-elder-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pieter Bruegel the Elder's recorded life dates place this profile around 1525-1569."
+    },
+    {
+      "factId": "pieter-bruegel-the-elder-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pieter Bruegel the Elder is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "pieter-bruegel-the-elder-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pieter Bruegel the Elder's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "pieter-bruegel-the-elder-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pieter Bruegel the Elder has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

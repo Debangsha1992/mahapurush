@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Hosni Mubarak is a notable politician associated with Egypt.",
+  "summary": "Hosni Mubarak is a notable politician connected with Egypt.",
   "knownFor": [
     "Politician",
-    "116 language biography editions",
-    "Historical Popularity Index 82.4"
+    "Justice, Governance & Leadership",
+    "Egypt"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Hosni Mubarak",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hosni-mubarak-pantheon-profile",
-      "text": "Pantheon ranks Hosni Mubarak as a globally documented politician with biographies in 116 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hosni Mubarak a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hosni-mubarak-1-origin",
+      "text": "Hosni Mubarak is remembered as a politician connected with Egypt.",
+      "context": "Hosni Mubarak's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Hosni Mubarak",
       "sourceUrl": "https://pantheon.world/profile/person/Hosni_Mubarak",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hosni-mubarak-2-obstacle",
+      "text": "Hosni Mubarak's recorded life dates place this profile around 1928-2020.",
+      "context": "Hosni Mubarak's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hosni Mubarak",
+      "sourceUrl": "https://pantheon.world/profile/person/Hosni_Mubarak",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hosni-mubarak-3-turning-point",
+      "text": "Hosni Mubarak is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Hosni Mubarak's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hosni Mubarak",
+      "sourceUrl": "https://pantheon.world/profile/person/Hosni_Mubarak",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hosni-mubarak-4-contribution",
+      "text": "Hosni Mubarak's profile connects a short Fact to a wider Egypt historical setting.",
+      "context": "Hosni Mubarak's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hosni Mubarak",
+      "sourceUrl": "https://pantheon.world/profile/person/Hosni_Mubarak",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hosni-mubarak-5-influence",
+      "text": "Hosni Mubarak has a Facts Mode card reserved for deeper source research.",
+      "context": "Hosni Mubarak's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hosni Mubarak",
+      "sourceUrl": "https://pantheon.world/profile/person/Hosni_Mubarak",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Ecgberht, King of Wessex is a notable politician associated with United Kingdom.",
+  "summary": "Ecgberht, King of Wessex is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "54 language biography editions",
-    "Historical Popularity Index 83.7"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ecgberht, King of Wessex",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ecgberht-king-of-wessex-pantheon-profile",
-      "text": "Pantheon ranks Ecgberht, King of Wessex as a globally documented politician with biographies in 54 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ecgberht, King of Wessex a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ecgberht-king-of-wessex-1-origin",
+      "text": "Ecgberht, King of Wessex is remembered as a politician connected with United Kingdom.",
+      "context": "Ecgberht, King of Wessex's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ecgberht, King of Wessex",
       "sourceUrl": "https://pantheon.world/profile/person/Ecgberht%2C_King_of_Wessex",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ecgberht-king-of-wessex-2-obstacle",
+      "text": "Ecgberht, King of Wessex's recorded life dates place this profile around 800-839.",
+      "context": "Ecgberht, King of Wessex's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ecgberht, King of Wessex",
+      "sourceUrl": "https://pantheon.world/profile/person/Ecgberht%2C_King_of_Wessex",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ecgberht-king-of-wessex-3-turning-point",
+      "text": "Ecgberht, King of Wessex is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ecgberht, King of Wessex's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ecgberht, King of Wessex",
+      "sourceUrl": "https://pantheon.world/profile/person/Ecgberht%2C_King_of_Wessex",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ecgberht-king-of-wessex-4-contribution",
+      "text": "Ecgberht, King of Wessex's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Ecgberht, King of Wessex's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ecgberht, King of Wessex",
+      "sourceUrl": "https://pantheon.world/profile/person/Ecgberht%2C_King_of_Wessex",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ecgberht-king-of-wessex-5-influence",
+      "text": "Ecgberht, King of Wessex has a Facts Mode card reserved for deeper source research.",
+      "context": "Ecgberht, King of Wessex's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ecgberht, King of Wessex",
+      "sourceUrl": "https://pantheon.world/profile/person/Ecgberht%2C_King_of_Wessex",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

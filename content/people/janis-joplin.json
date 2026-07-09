@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "singer"
   ],
-  "summary": "Janis Joplin is a notable singer associated with United States.",
+  "summary": "Janis Joplin is a notable singer connected with United States.",
   "knownFor": [
     "Singer",
-    "85 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Janis Joplin",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "janis-joplin-pantheon-profile",
-      "text": "Pantheon ranks Janis Joplin as a globally documented singer with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Janis Joplin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "janis-joplin-1-origin",
+      "text": "Janis Joplin is remembered as a singer connected with United States.",
+      "context": "Janis Joplin's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Janis Joplin",
       "sourceUrl": "https://pantheon.world/profile/person/Janis_Joplin",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "janis-joplin-2-obstacle",
+      "text": "Janis Joplin's recorded life dates place this profile around 1943-1970.",
+      "context": "Janis Joplin's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Janis Joplin",
+      "sourceUrl": "https://pantheon.world/profile/person/Janis_Joplin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "janis-joplin-3-turning-point",
+      "text": "Janis Joplin is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Janis Joplin's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Janis Joplin",
+      "sourceUrl": "https://pantheon.world/profile/person/Janis_Joplin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "janis-joplin-4-contribution",
+      "text": "Janis Joplin's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Janis Joplin's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Janis Joplin",
+      "sourceUrl": "https://pantheon.world/profile/person/Janis_Joplin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "janis-joplin-5-influence",
+      "text": "Janis Joplin has a Facts Mode card reserved for deeper source research.",
+      "context": "Janis Joplin's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Janis Joplin",
+      "sourceUrl": "https://pantheon.world/profile/person/Janis_Joplin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

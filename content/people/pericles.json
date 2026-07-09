@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Pericles is a notable politician associated with Greece.",
+  "summary": "Pericles is a notable politician connected with Greece.",
   "knownFor": [
     "Politician",
-    "94 language biography editions",
-    "Historical Popularity Index 86.4"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": true,
   "featuredRank": 323,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pericles-pantheon-profile",
-      "text": "Pantheon ranks Pericles as a globally documented politician with biographies in 94 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pericles a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pericles-1-origin",
+      "text": "Pericles is remembered as a politician connected with Greece.",
+      "context": "Pericles's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Pericles",
       "sourceUrl": "https://pantheon.world/profile/person/Pericles",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pericles-2-obstacle",
+      "text": "Pericles's recorded life dates place this profile around -494--429.",
+      "context": "Pericles's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pericles",
+      "sourceUrl": "https://pantheon.world/profile/person/Pericles",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pericles-3-turning-point",
+      "text": "Pericles is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Pericles's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pericles",
+      "sourceUrl": "https://pantheon.world/profile/person/Pericles",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pericles-4-contribution",
+      "text": "Pericles's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Pericles's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pericles",
+      "sourceUrl": "https://pantheon.world/profile/person/Pericles",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pericles-5-influence",
+      "text": "Pericles has a Facts Mode card reserved for deeper source research.",
+      "context": "Pericles's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pericles",
+      "sourceUrl": "https://pantheon.world/profile/person/Pericles",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

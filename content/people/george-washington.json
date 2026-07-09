@@ -12,35 +12,103 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "George Washington is a notable politician associated with United States.",
+  "summary": "George Washington was a Founding Father and the first president of the United States, serving from 1789 to 1797.",
   "knownFor": [
     "Politician",
-    "210 language biography editions",
-    "Historical Popularity Index 86.0"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 343,
   "imageAlt": "Portrait-style visual for George Washington",
   "sourceRefs": [
     {
-      "title": "Pantheon: George Washington",
-      "url": "https://pantheon.world/profile/person/George_Washington",
+      "title": "Wikipedia: George Washington",
+      "url": "https://en.wikipedia.org/wiki/George_Washington",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "george-washington-pantheon-profile",
-      "text": "Pantheon ranks George Washington as a globally documented politician with biographies in 210 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make George Washington a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: George Washington",
-      "sourceUrl": "https://pantheon.world/profile/person/George_Washington",
+      "id": "george-washington-1-origin",
+      "text": "George Washington was a Founding Father and the first president of the United States, serving from 1789 to 1797.",
+      "context": "George Washington's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: George Washington",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Washington",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-washington-2-obstacle",
+      "text": "As commander of the Continental Army, George Washington led Patriot forces to victory in the American Revolutionary War against the British Empire.",
+      "context": "George Washington's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: George Washington",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Washington",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-washington-3-turning-point",
+      "text": "George Washington is commonly known as the Father of His Country for his role in bringing about American independence.",
+      "context": "George Washington's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: George Washington",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Washington",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-washington-4-contribution",
+      "text": "George Washington is remembered as a politician connected with United States.",
+      "context": "George Washington's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: George Washington",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Washington",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-washington-5-influence",
+      "text": "George Washington's recorded life dates place this profile around 1732-1799.",
+      "context": "George Washington's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: George Washington",
+      "sourceUrl": "https://en.wikipedia.org/wiki/George_Washington",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

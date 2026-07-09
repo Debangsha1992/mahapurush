@@ -1,0 +1,46 @@
+{
+  "personId": "isabella-i-of-castile",
+  "slug": "isabella-i-of-castile",
+  "name": "Isabella I of Castile",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Isabella I of Castile",
+      "url": "https://pantheon.world/profile/person/Isabella_I_of_Castile",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "isabella-i-of-castile-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Isabella I of Castile is remembered as a politician connected with Spain."
+    },
+    {
+      "factId": "isabella-i-of-castile-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Isabella I of Castile's recorded life dates place this profile around 1451-1504."
+    },
+    {
+      "factId": "isabella-i-of-castile-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Isabella I of Castile is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "isabella-i-of-castile-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Isabella I of Castile's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "isabella-i-of-castile-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Isabella I of Castile has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

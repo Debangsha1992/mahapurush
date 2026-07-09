@@ -1,0 +1,46 @@
+{
+  "personId": "s-somanath",
+  "slug": "s-somanath",
+  "name": "S. Somanath",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "ISRO: Chandrayaan-3 Mission",
+      "url": "https://www.isro.gov.in/Chandrayaan3.html",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "s-somanath-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "S. Somanath is remembered as a scientist connected with India."
+    },
+    {
+      "factId": "s-somanath-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "S. Somanath's recorded life dates place this profile around 1963-present."
+    },
+    {
+      "factId": "s-somanath-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "S. Somanath is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "s-somanath-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "S. Somanath's profile connects a short Fact to a wider India historical setting."
+    },
+    {
+      "factId": "s-somanath-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "S. Somanath has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

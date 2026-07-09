@@ -1,0 +1,46 @@
+{
+  "personId": "georg-wilhelm-friedrich-hegel",
+  "slug": "georg-wilhelm-friedrich-hegel",
+  "name": "Georg Wilhelm Friedrich Hegel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Georg Wilhelm Friedrich Hegel",
+      "url": "https://pantheon.world/profile/person/Georg_Wilhelm_Friedrich_Hegel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "georg-wilhelm-friedrich-hegel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Georg Wilhelm Friedrich Hegel is remembered as a philosopher connected with Germany."
+    },
+    {
+      "factId": "georg-wilhelm-friedrich-hegel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Georg Wilhelm Friedrich Hegel's recorded life dates place this profile around 1770-1831."
+    },
+    {
+      "factId": "georg-wilhelm-friedrich-hegel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Georg Wilhelm Friedrich Hegel is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "georg-wilhelm-friedrich-hegel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Georg Wilhelm Friedrich Hegel's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "georg-wilhelm-friedrich-hegel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Georg Wilhelm Friedrich Hegel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

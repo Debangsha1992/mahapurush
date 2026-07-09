@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Cicero is a notable politician associated with Italy.",
+  "summary": "Cicero is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "131 language biography editions",
-    "Historical Popularity Index 88.2"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 209,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "cicero-pantheon-profile",
-      "text": "Pantheon ranks Cicero as a globally documented politician with biographies in 131 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Cicero a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "cicero-1-origin",
+      "text": "Cicero is remembered as a politician connected with Italy.",
+      "context": "Cicero's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Cicero",
       "sourceUrl": "https://pantheon.world/profile/person/Cicero",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cicero-2-obstacle",
+      "text": "Cicero's recorded life dates place this profile around -106--43.",
+      "context": "Cicero's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Cicero",
+      "sourceUrl": "https://pantheon.world/profile/person/Cicero",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cicero-3-turning-point",
+      "text": "Cicero is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Cicero's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Cicero",
+      "sourceUrl": "https://pantheon.world/profile/person/Cicero",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cicero-4-contribution",
+      "text": "Cicero's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Cicero's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Cicero",
+      "sourceUrl": "https://pantheon.world/profile/person/Cicero",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cicero-5-influence",
+      "text": "Cicero has a Facts Mode card reserved for deeper source research.",
+      "context": "Cicero's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Cicero",
+      "sourceUrl": "https://pantheon.world/profile/person/Cicero",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,47 @@
+{
+  "personId": "rajneesh",
+  "slug": "rajneesh",
+  "name": "Rajneesh",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Rajneesh",
+      "url": "https://en.wikipedia.org/wiki/Rajneesh",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Indian mystic (1931–1990)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "rajneesh-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Rajneesh, also known as Bhagwan Shree Rajneesh, Acharya Rajneesh, and Osho, was an Indian godman, and founder of the new religious movement, the Rajneesh movement."
+    },
+    {
+      "factId": "rajneesh-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Rajneesh rejected institutional religions, insisting that spiritual experience could not be organized into any one system of religious dogma."
+    },
+    {
+      "factId": "rajneesh-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Rajneesh is remembered as a philosopher connected with India."
+    },
+    {
+      "factId": "rajneesh-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Rajneesh's recorded life dates place this profile around 1931-1990."
+    },
+    {
+      "factId": "rajneesh-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Rajneesh is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

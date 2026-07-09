@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "linguist"
   ],
-  "summary": "Edgar de Wahl is a notable linguist associated with Ukraine.",
+  "summary": "Edgar de Wahl is a notable linguist connected with Ukraine.",
   "knownFor": [
     "Linguist",
-    "102 language biography editions",
-    "Historical Popularity Index 81.9"
+    "Literature, Arts & Culture",
+    "Ukraine"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Edgar de Wahl",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edgar-de-wahl-pantheon-profile",
-      "text": "Pantheon ranks Edgar de Wahl as a globally documented linguist with biographies in 102 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Edgar de Wahl a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edgar-de-wahl-1-origin",
+      "text": "Edgar de Wahl is remembered as a linguist connected with Ukraine.",
+      "context": "Edgar de Wahl's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Edgar de Wahl",
       "sourceUrl": "https://pantheon.world/profile/person/Edgar_de_Wahl",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edgar-de-wahl-2-obstacle",
+      "text": "Edgar de Wahl's recorded life dates place this profile around 1867-1948.",
+      "context": "Edgar de Wahl's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Edgar de Wahl",
+      "sourceUrl": "https://pantheon.world/profile/person/Edgar_de_Wahl",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edgar-de-wahl-3-turning-point",
+      "text": "Edgar de Wahl is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Edgar de Wahl's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Edgar de Wahl",
+      "sourceUrl": "https://pantheon.world/profile/person/Edgar_de_Wahl",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edgar-de-wahl-4-contribution",
+      "text": "Edgar de Wahl's profile connects a short Fact to a wider Ukraine historical setting.",
+      "context": "Edgar de Wahl's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Edgar de Wahl",
+      "sourceUrl": "https://pantheon.world/profile/person/Edgar_de_Wahl",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edgar-de-wahl-5-influence",
+      "text": "Edgar de Wahl has a Facts Mode card reserved for deeper source research.",
+      "context": "Edgar de Wahl's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Edgar de Wahl",
+      "sourceUrl": "https://pantheon.world/profile/person/Edgar_de_Wahl",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

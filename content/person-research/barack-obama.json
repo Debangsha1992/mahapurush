@@ -1,0 +1,46 @@
+{
+  "personId": "barack-obama",
+  "slug": "barack-obama",
+  "name": "Barack Obama",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "The White House: Barack Obama",
+      "url": "https://www.whitehouse.gov/about-the-white-house/presidents/barack-obama/",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "barack-obama-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Barack Obama is remembered as a leader connected with United States."
+    },
+    {
+      "factId": "barack-obama-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Barack Obama's recorded life dates place this profile around 1961-present."
+    },
+    {
+      "factId": "barack-obama-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Barack Obama is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "barack-obama-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Barack Obama's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "barack-obama-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Barack Obama has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

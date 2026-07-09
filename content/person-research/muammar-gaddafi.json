@@ -1,0 +1,46 @@
+{
+  "personId": "muammar-gaddafi",
+  "slug": "muammar-gaddafi",
+  "name": "Muammar Gaddafi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Muammar Gaddafi",
+      "url": "https://pantheon.world/profile/person/Muammar_Gaddafi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "muammar-gaddafi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Muammar Gaddafi is remembered as a politician connected with Libya."
+    },
+    {
+      "factId": "muammar-gaddafi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Muammar Gaddafi's recorded life dates place this profile around 1942-2011."
+    },
+    {
+      "factId": "muammar-gaddafi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Muammar Gaddafi is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "muammar-gaddafi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Muammar Gaddafi's profile connects a short Fact to a wider Libya historical setting."
+    },
+    {
+      "factId": "muammar-gaddafi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Muammar Gaddafi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

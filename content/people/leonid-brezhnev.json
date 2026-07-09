@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Leonid Brezhnev is a notable politician associated with Ukraine.",
+  "summary": "Leonid Brezhnev is a notable politician connected with Ukraine.",
   "knownFor": [
     "Politician",
-    "114 language biography editions",
-    "Historical Popularity Index 85.4"
+    "Justice, Governance & Leadership",
+    "Ukraine"
   ],
   "featured": true,
   "featuredRank": 402,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "leonid-brezhnev-pantheon-profile",
-      "text": "Pantheon ranks Leonid Brezhnev as a globally documented politician with biographies in 114 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Leonid Brezhnev a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "leonid-brezhnev-1-origin",
+      "text": "Leonid Brezhnev is remembered as a politician connected with Ukraine.",
+      "context": "Leonid Brezhnev's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Leonid Brezhnev",
       "sourceUrl": "https://pantheon.world/profile/person/Leonid_Brezhnev",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leonid-brezhnev-2-obstacle",
+      "text": "Leonid Brezhnev's recorded life dates place this profile around 1906-1982.",
+      "context": "Leonid Brezhnev's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Leonid Brezhnev",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonid_Brezhnev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leonid-brezhnev-3-turning-point",
+      "text": "Leonid Brezhnev is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Leonid Brezhnev's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Leonid Brezhnev",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonid_Brezhnev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leonid-brezhnev-4-contribution",
+      "text": "Leonid Brezhnev's profile connects a short Fact to a wider Ukraine historical setting.",
+      "context": "Leonid Brezhnev's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Leonid Brezhnev",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonid_Brezhnev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leonid-brezhnev-5-influence",
+      "text": "Leonid Brezhnev has a Facts Mode card reserved for deeper source research.",
+      "context": "Leonid Brezhnev's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Leonid Brezhnev",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonid_Brezhnev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

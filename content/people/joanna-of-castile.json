@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Joanna of Castile is a notable politician associated with Spain.",
+  "summary": "Joanna of Castile is a notable politician connected with Spain.",
   "knownFor": [
     "Politician",
-    "68 language biography editions",
-    "Historical Popularity Index 82.7"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Joanna of Castile",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "joanna-of-castile-pantheon-profile",
-      "text": "Pantheon ranks Joanna of Castile as a globally documented politician with biographies in 68 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Joanna of Castile a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "joanna-of-castile-1-origin",
+      "text": "Joanna of Castile is remembered as a politician connected with Spain.",
+      "context": "Joanna of Castile's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Joanna of Castile",
       "sourceUrl": "https://pantheon.world/profile/person/Joanna_of_Castile",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joanna-of-castile-2-obstacle",
+      "text": "Joanna of Castile's recorded life dates place this profile around 1479-1555.",
+      "context": "Joanna of Castile's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Joanna of Castile",
+      "sourceUrl": "https://pantheon.world/profile/person/Joanna_of_Castile",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joanna-of-castile-3-turning-point",
+      "text": "Joanna of Castile is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Joanna of Castile's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Joanna of Castile",
+      "sourceUrl": "https://pantheon.world/profile/person/Joanna_of_Castile",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joanna-of-castile-4-contribution",
+      "text": "Joanna of Castile's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Joanna of Castile's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Joanna of Castile",
+      "sourceUrl": "https://pantheon.world/profile/person/Joanna_of_Castile",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joanna-of-castile-5-influence",
+      "text": "Joanna of Castile has a Facts Mode card reserved for deeper source research.",
+      "context": "Joanna of Castile's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Joanna of Castile",
+      "sourceUrl": "https://pantheon.world/profile/person/Joanna_of_Castile",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

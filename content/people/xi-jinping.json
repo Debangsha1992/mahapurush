@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Xi Jinping is a notable politician associated with China.",
+  "summary": "Xi Jinping is a notable politician connected with China.",
   "knownFor": [
     "Politician",
-    "144 language biography editions",
-    "Historical Popularity Index 82.8"
+    "Justice, Governance & Leadership",
+    "China"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Xi Jinping",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "xi-jinping-pantheon-profile",
-      "text": "Pantheon ranks Xi Jinping as a globally documented politician with biographies in 144 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Xi Jinping a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "xi-jinping-1-origin",
+      "text": "Xi Jinping is remembered as a politician connected with China.",
+      "context": "Xi Jinping's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Xi Jinping",
       "sourceUrl": "https://pantheon.world/profile/person/Xi_Jinping",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "xi-jinping-2-obstacle",
+      "text": "Xi Jinping's recorded life dates place this profile around born 1953.",
+      "context": "Xi Jinping's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Xi Jinping",
+      "sourceUrl": "https://pantheon.world/profile/person/Xi_Jinping",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "xi-jinping-3-turning-point",
+      "text": "Xi Jinping is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Xi Jinping's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Xi Jinping",
+      "sourceUrl": "https://pantheon.world/profile/person/Xi_Jinping",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "xi-jinping-4-contribution",
+      "text": "Xi Jinping's profile connects a short Fact to a wider China historical setting.",
+      "context": "Xi Jinping's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Xi Jinping",
+      "sourceUrl": "https://pantheon.world/profile/person/Xi_Jinping",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "xi-jinping-5-influence",
+      "text": "Xi Jinping has a Facts Mode card reserved for deeper source research.",
+      "context": "Xi Jinping's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Xi Jinping",
+      "sourceUrl": "https://pantheon.world/profile/person/Xi_Jinping",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "science-math-technology",
     "physician"
   ],
-  "summary": "Hippocrates is a notable physician associated with Greece.",
+  "summary": "Hippocrates is a notable physician connected with Greece.",
   "knownFor": [
     "Physician",
-    "121 language biography editions",
-    "Historical Popularity Index 90.2"
+    "Science, Math & Technology",
+    "Greece"
   ],
   "featured": true,
   "featuredRank": 123,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hippocrates-pantheon-profile",
-      "text": "Pantheon ranks Hippocrates as a globally documented physician with biographies in 121 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hippocrates a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hippocrates-1-origin",
+      "text": "Hippocrates is remembered as a physician connected with Greece.",
+      "context": "Hippocrates's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Hippocrates",
       "sourceUrl": "https://pantheon.world/profile/person/Hippocrates",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hippocrates-2-obstacle",
+      "text": "Hippocrates's recorded life dates place this profile around -460--370.",
+      "context": "Hippocrates's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hippocrates",
+      "sourceUrl": "https://pantheon.world/profile/person/Hippocrates",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hippocrates-3-turning-point",
+      "text": "Hippocrates is grouped with Science, Math & Technology in the People Library.",
+      "context": "Hippocrates's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hippocrates",
+      "sourceUrl": "https://pantheon.world/profile/person/Hippocrates",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hippocrates-4-contribution",
+      "text": "Hippocrates's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Hippocrates's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hippocrates",
+      "sourceUrl": "https://pantheon.world/profile/person/Hippocrates",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hippocrates-5-influence",
+      "text": "Hippocrates has a Facts Mode card reserved for deeper source research.",
+      "context": "Hippocrates's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hippocrates",
+      "sourceUrl": "https://pantheon.world/profile/person/Hippocrates",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

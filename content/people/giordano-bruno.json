@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "astronomer"
   ],
-  "summary": "Giordano Bruno is a notable astronomer associated with Italy.",
+  "summary": "Giordano Bruno is a notable astronomer connected with Italy.",
   "knownFor": [
     "Astronomer",
-    "111 language biography editions",
-    "Historical Popularity Index 88.6"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 191,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "giordano-bruno-pantheon-profile",
-      "text": "Pantheon ranks Giordano Bruno as a globally documented astronomer with biographies in 111 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Giordano Bruno a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "giordano-bruno-1-origin",
+      "text": "Giordano Bruno is remembered as a astronomer connected with Italy.",
+      "context": "Giordano Bruno's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Giordano Bruno",
       "sourceUrl": "https://pantheon.world/profile/person/Giordano_Bruno",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "giordano-bruno-2-obstacle",
+      "text": "Giordano Bruno's recorded life dates place this profile around 1548-1600.",
+      "context": "Giordano Bruno's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Giordano Bruno",
+      "sourceUrl": "https://pantheon.world/profile/person/Giordano_Bruno",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "giordano-bruno-3-turning-point",
+      "text": "Giordano Bruno is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Giordano Bruno's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Giordano Bruno",
+      "sourceUrl": "https://pantheon.world/profile/person/Giordano_Bruno",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "giordano-bruno-4-contribution",
+      "text": "Giordano Bruno's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Giordano Bruno's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Giordano Bruno",
+      "sourceUrl": "https://pantheon.world/profile/person/Giordano_Bruno",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "giordano-bruno-5-influence",
+      "text": "Giordano Bruno has a Facts Mode card reserved for deeper source research.",
+      "context": "Giordano Bruno's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Giordano Bruno",
+      "sourceUrl": "https://pantheon.world/profile/person/Giordano_Bruno",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

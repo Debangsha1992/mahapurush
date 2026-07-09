@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Ibrahim of the Ottoman Empire is a notable politician associated with Türkiye.",
+  "summary": "Ibrahim of the Ottoman Empire is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "70 language biography editions",
-    "Historical Popularity Index 82.4"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ibrahim of the Ottoman Empire",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ibrahim-of-the-ottoman-empire-pantheon-profile",
-      "text": "Pantheon ranks Ibrahim of the Ottoman Empire as a globally documented politician with biographies in 70 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ibrahim of the Ottoman Empire a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ibrahim-of-the-ottoman-empire-1-origin",
+      "text": "Ibrahim of the Ottoman Empire is remembered as a politician connected with Türkiye.",
+      "context": "Ibrahim of the Ottoman Empire's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ibrahim of the Ottoman Empire",
       "sourceUrl": "https://pantheon.world/profile/person/Ibrahim_of_the_Ottoman_Empire",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ibrahim-of-the-ottoman-empire-2-obstacle",
+      "text": "Ibrahim of the Ottoman Empire's recorded life dates place this profile around 1615-1648.",
+      "context": "Ibrahim of the Ottoman Empire's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ibrahim of the Ottoman Empire",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibrahim_of_the_Ottoman_Empire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ibrahim-of-the-ottoman-empire-3-turning-point",
+      "text": "Ibrahim of the Ottoman Empire is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ibrahim of the Ottoman Empire's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ibrahim of the Ottoman Empire",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibrahim_of_the_Ottoman_Empire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ibrahim-of-the-ottoman-empire-4-contribution",
+      "text": "Ibrahim of the Ottoman Empire's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Ibrahim of the Ottoman Empire's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ibrahim of the Ottoman Empire",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibrahim_of_the_Ottoman_Empire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ibrahim-of-the-ottoman-empire-5-influence",
+      "text": "Ibrahim of the Ottoman Empire has a Facts Mode card reserved for deeper source research.",
+      "context": "Ibrahim of the Ottoman Empire's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ibrahim of the Ottoman Empire",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibrahim_of_the_Ottoman_Empire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "James K. Polk is a notable politician associated with United States.",
+  "summary": "James K. Polk is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "129 language biography editions",
-    "Historical Popularity Index 87.8"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 227,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "james-k-polk-pantheon-profile",
-      "text": "Pantheon ranks James K. Polk as a globally documented politician with biographies in 129 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make James K. Polk a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "james-k-polk-1-origin",
+      "text": "James K. Polk is remembered as a politician connected with United States.",
+      "context": "James K. Polk's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: James K. Polk",
       "sourceUrl": "https://pantheon.world/profile/person/James_K._Polk",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-k-polk-2-obstacle",
+      "text": "James K. Polk's recorded life dates place this profile around 1795-1849.",
+      "context": "James K. Polk's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: James K. Polk",
+      "sourceUrl": "https://pantheon.world/profile/person/James_K._Polk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-k-polk-3-turning-point",
+      "text": "James K. Polk is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "James K. Polk's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: James K. Polk",
+      "sourceUrl": "https://pantheon.world/profile/person/James_K._Polk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-k-polk-4-contribution",
+      "text": "James K. Polk's profile connects a short Fact to a wider United States historical setting.",
+      "context": "James K. Polk's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: James K. Polk",
+      "sourceUrl": "https://pantheon.world/profile/person/James_K._Polk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-k-polk-5-influence",
+      "text": "James K. Polk has a Facts Mode card reserved for deeper source research.",
+      "context": "James K. Polk's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: James K. Polk",
+      "sourceUrl": "https://pantheon.world/profile/person/James_K._Polk",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

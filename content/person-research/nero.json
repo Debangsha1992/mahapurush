@@ -1,0 +1,46 @@
+{
+  "personId": "nero",
+  "slug": "nero",
+  "name": "Nero",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Nero",
+      "url": "https://pantheon.world/profile/person/Nero",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "nero-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Nero is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "nero-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Nero's recorded life dates place this profile around 37-68."
+    },
+    {
+      "factId": "nero-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Nero is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "nero-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Nero's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "nero-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Nero has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "khufu",
+  "slug": "khufu",
+  "name": "Khufu",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Khufu",
+      "url": "https://pantheon.world/profile/person/Khufu",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "khufu-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Khufu is remembered as a architect connected with Egypt."
+    },
+    {
+      "factId": "khufu-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Khufu's recorded life dates place this profile around -2700--2570."
+    },
+    {
+      "factId": "khufu-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Khufu is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "khufu-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Khufu's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "khufu-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Khufu has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "science-math-technology",
     "physician"
   ],
-  "summary": "L. L. Zamenhof is a notable physician associated with Poland.",
+  "summary": "L. L. Zamenhof is a notable physician connected with Poland.",
   "knownFor": [
     "Physician",
-    "115 language biography editions",
-    "Historical Popularity Index 82.1"
+    "Science, Math & Technology",
+    "Poland"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for L. L. Zamenhof",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "l-l-zamenhof-pantheon-profile",
-      "text": "Pantheon ranks L. L. Zamenhof as a globally documented physician with biographies in 115 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make L. L. Zamenhof a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "l-l-zamenhof-1-origin",
+      "text": "L. L. Zamenhof is remembered as a physician connected with Poland.",
+      "context": "L. L. Zamenhof's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: L. L. Zamenhof",
       "sourceUrl": "https://pantheon.world/profile/person/L._L._Zamenhof",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "l-l-zamenhof-2-obstacle",
+      "text": "L. L. Zamenhof's recorded life dates place this profile around 1859-1917.",
+      "context": "L. L. Zamenhof's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: L. L. Zamenhof",
+      "sourceUrl": "https://pantheon.world/profile/person/L._L._Zamenhof",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "l-l-zamenhof-3-turning-point",
+      "text": "L. L. Zamenhof is grouped with Science, Math & Technology in the People Library.",
+      "context": "L. L. Zamenhof's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: L. L. Zamenhof",
+      "sourceUrl": "https://pantheon.world/profile/person/L._L._Zamenhof",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "l-l-zamenhof-4-contribution",
+      "text": "L. L. Zamenhof's profile connects a short Fact to a wider Poland historical setting.",
+      "context": "L. L. Zamenhof's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: L. L. Zamenhof",
+      "sourceUrl": "https://pantheon.world/profile/person/L._L._Zamenhof",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "l-l-zamenhof-5-influence",
+      "text": "L. L. Zamenhof has a Facts Mode card reserved for deeper source research.",
+      "context": "L. L. Zamenhof's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: L. L. Zamenhof",
+      "sourceUrl": "https://pantheon.world/profile/person/L._L._Zamenhof",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

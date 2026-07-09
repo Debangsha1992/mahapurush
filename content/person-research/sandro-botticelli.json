@@ -1,0 +1,46 @@
+{
+  "personId": "sandro-botticelli",
+  "slug": "sandro-botticelli",
+  "name": "Sandro Botticelli",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Sandro Botticelli",
+      "url": "https://pantheon.world/profile/person/Sandro_Botticelli",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sandro-botticelli-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Sandro Botticelli is remembered as a painter connected with Italy."
+    },
+    {
+      "factId": "sandro-botticelli-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Sandro Botticelli's recorded life dates place this profile around 1445-1510."
+    },
+    {
+      "factId": "sandro-botticelli-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Sandro Botticelli is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "sandro-botticelli-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Sandro Botticelli's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "sandro-botticelli-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sandro Botticelli has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

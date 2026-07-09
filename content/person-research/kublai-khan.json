@@ -1,0 +1,46 @@
+{
+  "personId": "kublai-khan",
+  "slug": "kublai-khan",
+  "name": "Kublai Khan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Kublai Khan",
+      "url": "https://pantheon.world/profile/person/Kublai_Khan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "kublai-khan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Kublai Khan is remembered as a politician connected with China."
+    },
+    {
+      "factId": "kublai-khan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Kublai Khan's recorded life dates place this profile around 1215-1294."
+    },
+    {
+      "factId": "kublai-khan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Kublai Khan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "kublai-khan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Kublai Khan's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "kublai-khan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Kublai Khan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

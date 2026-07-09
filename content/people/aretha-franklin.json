@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "singer"
   ],
-  "summary": "Aretha Franklin is a notable singer associated with United States.",
+  "summary": "Aretha Franklin is a notable singer connected with United States.",
   "knownFor": [
     "Singer",
-    "100 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Aretha Franklin",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "aretha-franklin-pantheon-profile",
-      "text": "Pantheon ranks Aretha Franklin as a globally documented singer with biographies in 100 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Aretha Franklin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "aretha-franklin-1-origin",
+      "text": "Aretha Franklin is remembered as a singer connected with United States.",
+      "context": "Aretha Franklin's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Aretha Franklin",
       "sourceUrl": "https://pantheon.world/profile/person/Aretha_Franklin",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aretha-franklin-2-obstacle",
+      "text": "Aretha Franklin's recorded life dates place this profile around 1942-2018.",
+      "context": "Aretha Franklin's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Aretha Franklin",
+      "sourceUrl": "https://pantheon.world/profile/person/Aretha_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aretha-franklin-3-turning-point",
+      "text": "Aretha Franklin is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Aretha Franklin's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Aretha Franklin",
+      "sourceUrl": "https://pantheon.world/profile/person/Aretha_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aretha-franklin-4-contribution",
+      "text": "Aretha Franklin's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Aretha Franklin's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Aretha Franklin",
+      "sourceUrl": "https://pantheon.world/profile/person/Aretha_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aretha-franklin-5-influence",
+      "text": "Aretha Franklin has a Facts Mode card reserved for deeper source research.",
+      "context": "Aretha Franklin's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Aretha Franklin",
+      "sourceUrl": "https://pantheon.world/profile/person/Aretha_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

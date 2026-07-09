@@ -1,0 +1,46 @@
+{
+  "personId": "antonie-van-leeuwenhoek",
+  "slug": "antonie-van-leeuwenhoek",
+  "name": "Antonie van Leeuwenhoek",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Antonie van Leeuwenhoek",
+      "url": "https://pantheon.world/profile/person/Antonie_van_Leeuwenhoek",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "antonie-van-leeuwenhoek-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Antonie van Leeuwenhoek is remembered as a biologist connected with Netherlands."
+    },
+    {
+      "factId": "antonie-van-leeuwenhoek-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Antonie van Leeuwenhoek's recorded life dates place this profile around 1632-1723."
+    },
+    {
+      "factId": "antonie-van-leeuwenhoek-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Antonie van Leeuwenhoek is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "antonie-van-leeuwenhoek-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Antonie van Leeuwenhoek's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "antonie-van-leeuwenhoek-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Antonie van Leeuwenhoek has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

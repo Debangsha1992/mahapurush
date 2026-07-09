@@ -1,0 +1,46 @@
+{
+  "personId": "alexander-ii-of-russia",
+  "slug": "alexander-ii-of-russia",
+  "name": "Alexander II of Russia",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alexander II of Russia",
+      "url": "https://pantheon.world/profile/person/Alexander_II_of_Russia",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alexander-ii-of-russia-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alexander II of Russia is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "alexander-ii-of-russia-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alexander II of Russia's recorded life dates place this profile around 1818-1881."
+    },
+    {
+      "factId": "alexander-ii-of-russia-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alexander II of Russia is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "alexander-ii-of-russia-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alexander II of Russia's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "alexander-ii-of-russia-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alexander II of Russia has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

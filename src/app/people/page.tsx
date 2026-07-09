@@ -1,6 +1,12 @@
 import Link from "next/link";
 import { PersonCard } from "@/components/people/person-card";
-import { Card } from "@/components/ui/card";
+import { Button } from "@/components/ui/button";
+import {
+  EditorialCard,
+  EditorialPageHero,
+  SectionHeader,
+  mutedText,
+} from "@/components/ui/editorial";
 import {
   PERSON_DOMAIN_IDS,
   PERSON_DOMAINS,
@@ -90,35 +96,34 @@ export default async function PeoplePage({
 
   return (
     <div className="space-y-6">
-      <div>
-        <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-          People Library
-        </p>
-        <h2 className="mt-2 text-3xl font-semibold">1000 notable people</h2>
-        <p className="mt-2 text-[var(--color-muted)]">
-          Browse source-backed profiles from science, philosophy, justice,
-          culture, and human achievement.
-        </p>
-      </div>
+      <EditorialPageHero
+        eyebrow="People Library"
+        title="1000 notable people"
+        description="Browse source-backed profiles from science, philosophy, justice, culture, and human achievement."
+      />
 
-      <Card>
+      <EditorialCard>
         <form className="grid gap-3 md:grid-cols-[1.5fr_1fr_1fr_auto]" action="/people">
           <label className="space-y-2">
-            <span className="text-sm font-medium">Search</span>
+            <span className="text-sm font-semibold uppercase tracking-[0.16em] text-[var(--color-accent)]">
+              Search
+            </span>
             <input
               name="q"
               defaultValue={query}
               placeholder="Search Einstein, justice, poetry..."
-              className="w-full rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-4 py-3 text-sm outline-none transition focus:border-[var(--color-accent)]"
+              className="w-full rounded-2xl border border-white/10 bg-white/[0.04] px-4 py-3 text-sm outline-none transition focus:border-[var(--color-accent)]"
             />
           </label>
 
           <label className="space-y-2">
-            <span className="text-sm font-medium">Domain</span>
+            <span className="text-sm font-semibold uppercase tracking-[0.16em] text-[var(--color-accent)]">
+              Domain
+            </span>
             <select
               name="domain"
               defaultValue={primaryDomain ?? ""}
-              className="w-full rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-4 py-3 text-sm outline-none transition focus:border-[var(--color-accent)]"
+              className="w-full rounded-2xl border border-white/10 bg-white/[0.04] px-4 py-3 text-sm outline-none transition focus:border-[var(--color-accent)]"
             >
               <option value="">All domains</option>
               {PERSON_DOMAINS.map((domain) => (
@@ -130,11 +135,13 @@ export default async function PeoplePage({
           </label>
 
           <label className="space-y-2">
-            <span className="text-sm font-medium">Region</span>
+            <span className="text-sm font-semibold uppercase tracking-[0.16em] text-[var(--color-accent)]">
+              Region
+            </span>
             <select
               name="region"
               defaultValue={regionId ?? ""}
-              className="w-full rounded-2xl border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-4 py-3 text-sm outline-none transition focus:border-[var(--color-accent)]"
+              className="w-full rounded-2xl border border-white/10 bg-white/[0.04] px-4 py-3 text-sm outline-none transition focus:border-[var(--color-accent)]"
             >
               <option value="">All regions</option>
               {PERSON_REGIONS.map((region) => (
@@ -145,16 +152,13 @@ export default async function PeoplePage({
             </select>
           </label>
 
-          <button
-            type="submit"
-            className="self-end rounded-full bg-[var(--color-accent)] px-5 py-3 text-sm font-medium text-[#101014] transition hover:bg-[var(--color-accent-soft)]"
-          >
+          <Button type="submit" className="self-end">
             Filter
-          </button>
+          </Button>
         </form>
-      </Card>
+      </EditorialCard>
 
-      <div className="flex items-center justify-between gap-4 text-sm text-[var(--color-muted)]">
+      <div className={`flex items-center justify-between gap-4 text-sm ${mutedText}`}>
         <p>
           Showing {result.people.length} of {result.total} people
         </p>
@@ -170,12 +174,12 @@ export default async function PeoplePage({
           ))}
         </div>
       ) : (
-        <Card>
-          <h3 className="text-xl font-semibold">No people found</h3>
-          <p className="mt-2 text-[var(--color-muted)]">
-            Try a broader search or clear one of the filters.
-          </p>
-        </Card>
+        <EditorialCard>
+          <SectionHeader
+            title="No people found"
+            description="Try a broader search or clear one of the filters."
+          />
+        </EditorialCard>
       )}
 
       <div className="flex items-center justify-between gap-4">
@@ -187,7 +191,7 @@ export default async function PeoplePage({
               regionId,
               page: result.page - 1,
             })}
-            className="rounded-full border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-5 py-3 text-sm font-medium transition hover:border-[var(--color-accent)]"
+            className="rounded-full border border-white/10 bg-white/[0.04] px-5 py-3 text-sm font-medium transition hover:border-[var(--color-accent)]"
           >
             Previous
           </Link>
@@ -202,7 +206,7 @@ export default async function PeoplePage({
               regionId,
               page: result.page + 1,
             })}
-            className="rounded-full border border-[var(--color-border)] bg-[var(--color-surface-raised)] px-5 py-3 text-sm font-medium transition hover:border-[var(--color-accent)]"
+            className="rounded-full border border-white/10 bg-white/[0.04] px-5 py-3 text-sm font-medium transition hover:border-[var(--color-accent)]"
           >
             Next
           </Link>

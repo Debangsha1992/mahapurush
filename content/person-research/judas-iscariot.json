@@ -1,0 +1,46 @@
+{
+  "personId": "judas-iscariot",
+  "slug": "judas-iscariot",
+  "name": "Judas Iscariot",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Judas Iscariot",
+      "url": "https://pantheon.world/profile/person/Judas_Iscariot",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "judas-iscariot-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Judas Iscariot is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "judas-iscariot-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Judas Iscariot's recorded life dates place this profile around 50-30."
+    },
+    {
+      "factId": "judas-iscariot-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Judas Iscariot is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "judas-iscariot-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Judas Iscariot's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "judas-iscariot-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Judas Iscariot has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

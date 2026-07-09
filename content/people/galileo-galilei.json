@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "astronomer"
   ],
-  "summary": "Galileo Galilei is a notable astronomer associated with Italy.",
+  "summary": "Galileo Galilei is a notable astronomer connected with Italy.",
   "knownFor": [
     "Astronomer",
-    "203 language biography editions",
-    "Historical Popularity Index 95.1"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 50,
@@ -26,23 +26,120 @@
       "title": "Pantheon: Galileo Galilei",
       "url": "https://pantheon.world/profile/person/Galileo_Galilei",
       "accessedAt": "2026-07-06"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Galileo",
+      "url": "https://www.britannica.com/biography/Galileo-Galilei",
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "galileo-galilei-pantheon-profile",
-      "text": "Pantheon ranks Galileo Galilei as a globally documented astronomer with biographies in 203 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Galileo Galilei a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "galileo-galilei-approved-01",
+      "text": "Galileo Galilei's telescope observations showed four moons orbiting Jupiter, challenging the idea that everything circled Earth.",
+      "context": "Galileo Galilei shows how looking carefully can disrupt an entire worldview.",
+      "sourceTitle": "Encyclopaedia Britannica: Galileo",
+      "sourceUrl": "https://www.britannica.com/biography/Galileo-Galilei",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "Britannica describes Galileo's telescopic discoveries, including Jupiter's moons.",
+      "tags": [
+        "justice-governance-leadership"
+      ],
+      "verified": true
+    },
+    {
+      "id": "galileo-galilei-1-origin",
+      "text": "Galileo Galilei is remembered as a astronomer connected with Italy.",
+      "context": "Galileo Galilei's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Galileo Galilei",
       "sourceUrl": "https://pantheon.world/profile/person/Galileo_Galilei",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
       ],
-      "verified": true
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "galileo-galilei-2-obstacle",
+      "text": "Galileo Galilei's recorded life dates place this profile around 1564-1642.",
+      "context": "Galileo Galilei's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Galileo Galilei",
+      "sourceUrl": "https://pantheon.world/profile/person/Galileo_Galilei",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "galileo-galilei-3-turning-point",
+      "text": "Galileo Galilei is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Galileo Galilei's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Galileo Galilei",
+      "sourceUrl": "https://pantheon.world/profile/person/Galileo_Galilei",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "galileo-galilei-4-contribution",
+      "text": "Galileo Galilei's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Galileo Galilei's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Galileo Galilei",
+      "sourceUrl": "https://pantheon.world/profile/person/Galileo_Galilei",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "galileo-galilei-5-influence",
+      "text": "Galileo Galilei has a Facts Mode card reserved for deeper source research.",
+      "context": "Galileo Galilei's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Galileo Galilei",
+      "sourceUrl": "https://pantheon.world/profile/person/Galileo_Galilei",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ]
 }

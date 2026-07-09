@@ -1,0 +1,46 @@
+{
+  "personId": "bayezid-ii",
+  "slug": "bayezid-ii",
+  "name": "Bayezid II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bayezid II",
+      "url": "https://pantheon.world/profile/person/Bayezid_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bayezid-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bayezid II is remembered as a politician connected with Greece."
+    },
+    {
+      "factId": "bayezid-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bayezid II's recorded life dates place this profile around 1447-1512."
+    },
+    {
+      "factId": "bayezid-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bayezid II is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "bayezid-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bayezid II's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "bayezid-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bayezid II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

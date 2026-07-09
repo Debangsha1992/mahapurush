@@ -1,0 +1,47 @@
+{
+  "personId": "jeremiah",
+  "slug": "jeremiah",
+  "name": "Jeremiah",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Jeremiah",
+      "url": "https://en.wikipedia.org/wiki/Jeremiah",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Biblical prophet"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jeremiah-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Jeremiah, also called Jeremias, and occasionally in older English texts Jeremy, was one of the major prophets of the Hebrew Bible."
+    },
+    {
+      "factId": "jeremiah-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "According to Jewish tradition, Jeremiah authored the book that bears his name, the Books of Kings, and the Book of Lamentations, with the assistance and under the editorship of Baruch ben Neriah, his scribe and disciple."
+    },
+    {
+      "factId": "jeremiah-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jeremiah is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "jeremiah-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jeremiah's recorded life dates place this profile around -650--586."
+    },
+    {
+      "factId": "jeremiah-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jeremiah is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

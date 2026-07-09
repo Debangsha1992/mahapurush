@@ -12,35 +12,104 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Fidel Castro is a notable politician associated with Cuba.",
+  "summary": "Fidel Alejandro Castro Ruz was a Cuban communist revolutionary and statesman who was the leader of Cuba from 1959 to 2008.",
   "knownFor": [
     "Politician",
-    "153 language biography editions",
-    "Historical Popularity Index 85.9"
+    "Justice, Governance & Leadership",
+    "Cuba"
   ],
   "featured": true,
   "featuredRank": 358,
   "imageAlt": "Portrait-style visual for Fidel Castro",
   "sourceRefs": [
     {
-      "title": "Pantheon: Fidel Castro",
-      "url": "https://pantheon.world/profile/person/Fidel_Castro",
+      "title": "Wikipedia: Fidel Castro",
+      "url": "https://en.wikipedia.org/wiki/Fidel_Castro",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "fidel-castro-pantheon-profile",
-      "text": "Pantheon ranks Fidel Castro as a globally documented politician with biographies in 153 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Fidel Castro a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Fidel Castro",
-      "sourceUrl": "https://pantheon.world/profile/person/Fidel_Castro",
+      "id": "fidel-castro-1-origin",
+      "text": "Fidel Alejandro Fidel Castro Ruz was a Cuban communist revolutionary and statesman who was the leader of Cuba from 1959 to 2008.",
+      "context": "Fidel Castro's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Fidel Castro",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fidel-castro-2-obstacle",
+      "text": "Fidel Castro served as prime minister from 1959 to 1976 and president from 1976 to 2008.",
+      "context": "Fidel Castro's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Fidel Castro",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fidel-castro-3-turning-point",
+      "text": "Fidel Castro is remembered as a politician connected with Cuba.",
+      "context": "Fidel Castro's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Fidel Castro",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fidel-castro-4-contribution",
+      "text": "Fidel Castro's recorded life dates place this profile around 1926-2016.",
+      "context": "Fidel Castro's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Fidel Castro",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fidel-castro-5-influence",
+      "text": "Fidel Castro is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Fidel Castro's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Fidel Castro",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

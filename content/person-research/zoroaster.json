@@ -1,0 +1,46 @@
+{
+  "personId": "zoroaster",
+  "slug": "zoroaster",
+  "name": "Zoroaster",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Zoroaster",
+      "url": "https://pantheon.world/profile/person/Zoroaster",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "zoroaster-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Zoroaster is remembered as a religious figure connected with Iran."
+    },
+    {
+      "factId": "zoroaster-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Zoroaster's recorded life dates place this profile around -2000--2000."
+    },
+    {
+      "factId": "zoroaster-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Zoroaster is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "zoroaster-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Zoroaster's profile connects a short Fact to a wider Iran historical setting."
+    },
+    {
+      "factId": "zoroaster-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Zoroaster has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

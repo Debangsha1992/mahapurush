@@ -1,0 +1,46 @@
+{
+  "personId": "karl-benz",
+  "slug": "karl-benz",
+  "name": "Karl Benz",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Karl Benz",
+      "url": "https://pantheon.world/profile/person/Karl_Benz",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "karl-benz-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Karl Benz is remembered as a inventor connected with Germany."
+    },
+    {
+      "factId": "karl-benz-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Karl Benz's recorded life dates place this profile around 1844-1929."
+    },
+    {
+      "factId": "karl-benz-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Karl Benz is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "karl-benz-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Karl Benz's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "karl-benz-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Karl Benz has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

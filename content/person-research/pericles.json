@@ -1,0 +1,46 @@
+{
+  "personId": "pericles",
+  "slug": "pericles",
+  "name": "Pericles",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pericles",
+      "url": "https://pantheon.world/profile/person/Pericles",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pericles-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pericles is remembered as a politician connected with Greece."
+    },
+    {
+      "factId": "pericles-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pericles's recorded life dates place this profile around -494--429."
+    },
+    {
+      "factId": "pericles-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pericles is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "pericles-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pericles's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "pericles-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pericles has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

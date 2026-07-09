@@ -1,0 +1,46 @@
+{
+  "personId": "kofi-annan",
+  "slug": "kofi-annan",
+  "name": "Kofi Annan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Kofi Annan",
+      "url": "https://pantheon.world/profile/person/Kofi_Annan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "kofi-annan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Kofi Annan is remembered as a diplomat connected with Ghana."
+    },
+    {
+      "factId": "kofi-annan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Kofi Annan's recorded life dates place this profile around 1938-2018."
+    },
+    {
+      "factId": "kofi-annan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Kofi Annan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "kofi-annan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Kofi Annan's profile connects a short Fact to a wider Ghana historical setting."
+    },
+    {
+      "factId": "kofi-annan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Kofi Annan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "lord-byron",
+  "slug": "lord-byron",
+  "name": "Lord Byron",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Lord Byron",
+      "url": "https://pantheon.world/profile/person/Lord_Byron",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lord-byron-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Lord Byron is remembered as a writer connected with United Kingdom."
+    },
+    {
+      "factId": "lord-byron-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Lord Byron's recorded life dates place this profile around 1788-1824."
+    },
+    {
+      "factId": "lord-byron-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Lord Byron is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "lord-byron-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lord Byron's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "lord-byron-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lord Byron has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

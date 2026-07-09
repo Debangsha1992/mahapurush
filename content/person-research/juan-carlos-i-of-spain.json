@@ -1,0 +1,46 @@
+{
+  "personId": "juan-carlos-i-of-spain",
+  "slug": "juan-carlos-i-of-spain",
+  "name": "Juan Carlos I of Spain",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Juan Carlos I of Spain",
+      "url": "https://pantheon.world/profile/person/Juan_Carlos_I_of_Spain",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "juan-carlos-i-of-spain-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Juan Carlos I of Spain is remembered as a nobleman connected with Italy."
+    },
+    {
+      "factId": "juan-carlos-i-of-spain-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Juan Carlos I of Spain's recorded life dates place this profile around born 1938."
+    },
+    {
+      "factId": "juan-carlos-i-of-spain-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Juan Carlos I of Spain is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "juan-carlos-i-of-spain-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Juan Carlos I of Spain's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "juan-carlos-i-of-spain-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Juan Carlos I of Spain has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

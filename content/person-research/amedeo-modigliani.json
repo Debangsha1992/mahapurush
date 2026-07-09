@@ -1,0 +1,46 @@
+{
+  "personId": "amedeo-modigliani",
+  "slug": "amedeo-modigliani",
+  "name": "Amedeo Modigliani",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Amedeo Modigliani",
+      "url": "https://pantheon.world/profile/person/Amedeo_Modigliani",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "amedeo-modigliani-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Amedeo Modigliani is remembered as a painter connected with Italy."
+    },
+    {
+      "factId": "amedeo-modigliani-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Amedeo Modigliani's recorded life dates place this profile around 1884-1920."
+    },
+    {
+      "factId": "amedeo-modigliani-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Amedeo Modigliani is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "amedeo-modigliani-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Amedeo Modigliani's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "amedeo-modigliani-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Amedeo Modigliani has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

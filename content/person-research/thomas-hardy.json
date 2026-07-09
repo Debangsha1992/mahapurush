@@ -1,0 +1,46 @@
+{
+  "personId": "thomas-hardy",
+  "slug": "thomas-hardy",
+  "name": "Thomas Hardy",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Thomas Hardy",
+      "url": "https://pantheon.world/profile/person/Thomas_Hardy",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "thomas-hardy-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Hardy is remembered as a writer connected with United Kingdom."
+    },
+    {
+      "factId": "thomas-hardy-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Hardy's recorded life dates place this profile around 1840-1928."
+    },
+    {
+      "factId": "thomas-hardy-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Hardy is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "thomas-hardy-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Hardy's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "thomas-hardy-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Hardy has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

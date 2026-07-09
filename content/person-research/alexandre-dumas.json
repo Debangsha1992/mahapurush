@@ -1,0 +1,46 @@
+{
+  "personId": "alexandre-dumas",
+  "slug": "alexandre-dumas",
+  "name": "Alexandre Dumas",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alexandre Dumas",
+      "url": "https://pantheon.world/profile/person/Alexandre_Dumas",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alexandre-dumas-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alexandre Dumas is remembered as a writer connected with France."
+    },
+    {
+      "factId": "alexandre-dumas-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alexandre Dumas's recorded life dates place this profile around 1802-1870."
+    },
+    {
+      "factId": "alexandre-dumas-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alexandre Dumas is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "alexandre-dumas-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alexandre Dumas's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "alexandre-dumas-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alexandre Dumas has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

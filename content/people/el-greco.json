@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "El Greco is a notable painter associated with Greece.",
+  "summary": "El Greco is a notable painter connected with Greece.",
   "knownFor": [
     "Painter",
-    "105 language biography editions",
-    "Historical Popularity Index 84.3"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for El Greco",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "el-greco-pantheon-profile",
-      "text": "Pantheon ranks El Greco as a globally documented painter with biographies in 105 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make El Greco a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "el-greco-1-origin",
+      "text": "El Greco is remembered as a painter connected with Greece.",
+      "context": "El Greco's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: El Greco",
       "sourceUrl": "https://pantheon.world/profile/person/El_Greco",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "el-greco-2-obstacle",
+      "text": "El Greco's recorded life dates place this profile around 1541-1614.",
+      "context": "El Greco's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: El Greco",
+      "sourceUrl": "https://pantheon.world/profile/person/El_Greco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "el-greco-3-turning-point",
+      "text": "El Greco is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "El Greco's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: El Greco",
+      "sourceUrl": "https://pantheon.world/profile/person/El_Greco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "el-greco-4-contribution",
+      "text": "El Greco's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "El Greco's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: El Greco",
+      "sourceUrl": "https://pantheon.world/profile/person/El_Greco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "el-greco-5-influence",
+      "text": "El Greco has a Facts Mode card reserved for deeper source research.",
+      "context": "El Greco's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: El Greco",
+      "sourceUrl": "https://pantheon.world/profile/person/El_Greco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

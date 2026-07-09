@@ -1,0 +1,46 @@
+{
+  "personId": "johan-cruyff",
+  "slug": "johan-cruyff",
+  "name": "Johan Cruyff",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Johan Cruyff",
+      "url": "https://pantheon.world/profile/person/Johan_Cruyff",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "johan-cruyff-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Johan Cruyff is remembered as a soccer player connected with Netherlands."
+    },
+    {
+      "factId": "johan-cruyff-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Johan Cruyff's recorded life dates place this profile around 1947-2016."
+    },
+    {
+      "factId": "johan-cruyff-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Johan Cruyff is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "johan-cruyff-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Johan Cruyff's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "johan-cruyff-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Johan Cruyff has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

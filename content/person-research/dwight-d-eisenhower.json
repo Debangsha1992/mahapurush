@@ -1,0 +1,47 @@
+{
+  "personId": "dwight-d-eisenhower",
+  "slug": "dwight-d-eisenhower",
+  "name": "Dwight D. Eisenhower",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Dwight D. Eisenhower",
+      "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "World War II general, U.S. president from 1953 to 1961"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "dwight-d-eisenhower-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Dwight David Dwight D. Eisenhower, also known as Ike, was the 34th president of the United States from 1953 to 1961."
+    },
+    {
+      "factId": "dwight-d-eisenhower-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Dwight D. Eisenhower is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "dwight-d-eisenhower-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Dwight D. Eisenhower's recorded life dates place this profile around 1890-1969."
+    },
+    {
+      "factId": "dwight-d-eisenhower-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Dwight D. Eisenhower is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "dwight-d-eisenhower-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Dwight D. Eisenhower's profile connects a short Fact to a wider United States historical setting."
+    }
+  ]
+}

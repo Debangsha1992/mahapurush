@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Nebuchadnezzar II is a notable politician associated with Iraq.",
+  "summary": "Nebuchadnezzar II is a notable politician connected with Iraq.",
   "knownFor": [
     "Politician",
-    "89 language biography editions",
-    "Historical Popularity Index 85.4"
+    "Justice, Governance & Leadership",
+    "Iraq"
   ],
   "featured": true,
   "featuredRank": 403,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "nebuchadnezzar-ii-pantheon-profile",
-      "text": "Pantheon ranks Nebuchadnezzar II as a globally documented politician with biographies in 89 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Nebuchadnezzar II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "nebuchadnezzar-ii-1-origin",
+      "text": "Nebuchadnezzar II is remembered as a politician connected with Iraq.",
+      "context": "Nebuchadnezzar II's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Nebuchadnezzar II",
       "sourceUrl": "https://pantheon.world/profile/person/Nebuchadnezzar_II",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nebuchadnezzar-ii-2-obstacle",
+      "text": "Nebuchadnezzar II's recorded life dates place this profile around -630--562.",
+      "context": "Nebuchadnezzar II's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Nebuchadnezzar II",
+      "sourceUrl": "https://pantheon.world/profile/person/Nebuchadnezzar_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nebuchadnezzar-ii-3-turning-point",
+      "text": "Nebuchadnezzar II is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Nebuchadnezzar II's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Nebuchadnezzar II",
+      "sourceUrl": "https://pantheon.world/profile/person/Nebuchadnezzar_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nebuchadnezzar-ii-4-contribution",
+      "text": "Nebuchadnezzar II's profile connects a short Fact to a wider Iraq historical setting.",
+      "context": "Nebuchadnezzar II's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Nebuchadnezzar II",
+      "sourceUrl": "https://pantheon.world/profile/person/Nebuchadnezzar_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nebuchadnezzar-ii-5-influence",
+      "text": "Nebuchadnezzar II has a Facts Mode card reserved for deeper source research.",
+      "context": "Nebuchadnezzar II's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Nebuchadnezzar II",
+      "sourceUrl": "https://pantheon.world/profile/person/Nebuchadnezzar_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

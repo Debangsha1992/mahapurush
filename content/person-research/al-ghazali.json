@@ -1,0 +1,46 @@
+{
+  "personId": "al-ghazali",
+  "slug": "al-ghazali",
+  "name": "Al-Ghazali",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Al-Ghazali",
+      "url": "https://pantheon.world/profile/person/Al-Ghazali",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "al-ghazali-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Al-Ghazali is remembered as a philosopher connected with Iran."
+    },
+    {
+      "factId": "al-ghazali-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Al-Ghazali's recorded life dates place this profile around 1058-1111."
+    },
+    {
+      "factId": "al-ghazali-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Al-Ghazali is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "al-ghazali-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Al-Ghazali's profile connects a short Fact to a wider Iran historical setting."
+    },
+    {
+      "factId": "al-ghazali-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Al-Ghazali has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

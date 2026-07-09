@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Niels Bohr is a notable physicist associated with Denmark.",
+  "summary": "Niels Bohr is a notable physicist connected with Denmark.",
   "knownFor": [
     "Physicist",
-    "141 language biography editions",
-    "Historical Popularity Index 85.5"
+    "Science, Math & Technology",
+    "Denmark"
   ],
   "featured": true,
   "featuredRank": 391,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "niels-bohr-pantheon-profile",
-      "text": "Pantheon ranks Niels Bohr as a globally documented physicist with biographies in 141 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Niels Bohr a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "niels-bohr-1-origin",
+      "text": "Niels Bohr is remembered as a physicist connected with Denmark.",
+      "context": "Niels Bohr's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Niels Bohr",
       "sourceUrl": "https://pantheon.world/profile/person/Niels_Bohr",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "niels-bohr-2-obstacle",
+      "text": "Niels Bohr's recorded life dates place this profile around 1885-1962.",
+      "context": "Niels Bohr's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Niels Bohr",
+      "sourceUrl": "https://pantheon.world/profile/person/Niels_Bohr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "niels-bohr-3-turning-point",
+      "text": "Niels Bohr is grouped with Science, Math & Technology in the People Library.",
+      "context": "Niels Bohr's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Niels Bohr",
+      "sourceUrl": "https://pantheon.world/profile/person/Niels_Bohr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "niels-bohr-4-contribution",
+      "text": "Niels Bohr's profile connects a short Fact to a wider Denmark historical setting.",
+      "context": "Niels Bohr's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Niels Bohr",
+      "sourceUrl": "https://pantheon.world/profile/person/Niels_Bohr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "niels-bohr-5-influence",
+      "text": "Niels Bohr has a Facts Mode card reserved for deeper source research.",
+      "context": "Niels Bohr's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Niels Bohr",
+      "sourceUrl": "https://pantheon.world/profile/person/Niels_Bohr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "basil-of-caesarea",
+  "slug": "basil-of-caesarea",
+  "name": "Basil of Caesarea",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Basil of Caesarea",
+      "url": "https://pantheon.world/profile/person/Basil_of_Caesarea",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "basil-of-caesarea-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Basil of Caesarea is remembered as a physician connected with Türkiye."
+    },
+    {
+      "factId": "basil-of-caesarea-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Basil of Caesarea's recorded life dates place this profile around 329-379."
+    },
+    {
+      "factId": "basil-of-caesarea-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Basil of Caesarea is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "basil-of-caesarea-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Basil of Caesarea's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "basil-of-caesarea-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Basil of Caesarea has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

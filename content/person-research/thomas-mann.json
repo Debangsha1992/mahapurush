@@ -1,0 +1,46 @@
+{
+  "personId": "thomas-mann",
+  "slug": "thomas-mann",
+  "name": "Thomas Mann",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Thomas Mann",
+      "url": "https://pantheon.world/profile/person/Thomas_Mann",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "thomas-mann-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Mann is remembered as a writer connected with Germany."
+    },
+    {
+      "factId": "thomas-mann-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Mann's recorded life dates place this profile around 1875-1955."
+    },
+    {
+      "factId": "thomas-mann-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Mann is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "thomas-mann-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Mann's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "thomas-mann-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Mann has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

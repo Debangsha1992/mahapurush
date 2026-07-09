@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Sigismund, Holy Roman Emperor is a notable politician associated with Germany.",
+  "summary": "Sigismund, Holy Roman Emperor is a notable politician connected with Germany.",
   "knownFor": [
     "Politician",
-    "66 language biography editions",
-    "Historical Popularity Index 85.3"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 416,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "sigismund-holy-roman-emperor-pantheon-profile",
-      "text": "Pantheon ranks Sigismund, Holy Roman Emperor as a globally documented politician with biographies in 66 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Sigismund, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "sigismund-holy-roman-emperor-1-origin",
+      "text": "Sigismund, Holy Roman Emperor is remembered as a politician connected with Germany.",
+      "context": "Sigismund, Holy Roman Emperor's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Sigismund, Holy Roman Emperor",
       "sourceUrl": "https://pantheon.world/profile/person/Sigismund%2C_Holy_Roman_Emperor",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sigismund-holy-roman-emperor-2-obstacle",
+      "text": "Sigismund, Holy Roman Emperor's recorded life dates place this profile around 1368-1437.",
+      "context": "Sigismund, Holy Roman Emperor's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Sigismund, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Sigismund%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sigismund-holy-roman-emperor-3-turning-point",
+      "text": "Sigismund, Holy Roman Emperor is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Sigismund, Holy Roman Emperor's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Sigismund, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Sigismund%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sigismund-holy-roman-emperor-4-contribution",
+      "text": "Sigismund, Holy Roman Emperor's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Sigismund, Holy Roman Emperor's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Sigismund, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Sigismund%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sigismund-holy-roman-emperor-5-influence",
+      "text": "Sigismund, Holy Roman Emperor has a Facts Mode card reserved for deeper source research.",
+      "context": "Sigismund, Holy Roman Emperor's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Sigismund, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Sigismund%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

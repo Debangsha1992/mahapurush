@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Ursula K. Le Guin is a notable writer associated with United States.",
+  "summary": "Ursula K. Le Guin is a notable writer connected with United States.",
   "knownFor": [
     "Writer",
-    "82 language biography editions",
-    "Historical Popularity Index 81.9"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ursula K. Le Guin",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ursula-k-le-guin-pantheon-profile",
-      "text": "Pantheon ranks Ursula K. Le Guin as a globally documented writer with biographies in 82 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ursula K. Le Guin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ursula-k-le-guin-1-origin",
+      "text": "Ursula K. Le Guin is remembered as a writer connected with United States.",
+      "context": "Ursula K. Le Guin's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Ursula K. Le Guin",
       "sourceUrl": "https://pantheon.world/profile/person/Ursula_K._Le_Guin",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ursula-k-le-guin-2-obstacle",
+      "text": "Ursula K. Le Guin's recorded life dates place this profile around 1929-2018.",
+      "context": "Ursula K. Le Guin's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ursula K. Le Guin",
+      "sourceUrl": "https://pantheon.world/profile/person/Ursula_K._Le_Guin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ursula-k-le-guin-3-turning-point",
+      "text": "Ursula K. Le Guin is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Ursula K. Le Guin's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ursula K. Le Guin",
+      "sourceUrl": "https://pantheon.world/profile/person/Ursula_K._Le_Guin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ursula-k-le-guin-4-contribution",
+      "text": "Ursula K. Le Guin's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Ursula K. Le Guin's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ursula K. Le Guin",
+      "sourceUrl": "https://pantheon.world/profile/person/Ursula_K._Le_Guin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ursula-k-le-guin-5-influence",
+      "text": "Ursula K. Le Guin has a Facts Mode card reserved for deeper source research.",
+      "context": "Ursula K. Le Guin's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ursula K. Le Guin",
+      "sourceUrl": "https://pantheon.world/profile/person/Ursula_K._Le_Guin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

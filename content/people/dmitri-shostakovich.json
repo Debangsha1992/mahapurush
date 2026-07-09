@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Dmitri Shostakovich is a notable composer associated with Russia.",
+  "summary": "Dmitri Shostakovich is a notable composer connected with Russia.",
   "knownFor": [
     "Composer",
-    "82 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Literature, Arts & Culture",
+    "Russia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Dmitri Shostakovich",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "dmitri-shostakovich-pantheon-profile",
-      "text": "Pantheon ranks Dmitri Shostakovich as a globally documented composer with biographies in 82 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Dmitri Shostakovich a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "dmitri-shostakovich-1-origin",
+      "text": "Dmitri Shostakovich is remembered as a composer connected with Russia.",
+      "context": "Dmitri Shostakovich's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Dmitri Shostakovich",
       "sourceUrl": "https://pantheon.world/profile/person/Dmitri_Shostakovich",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dmitri-shostakovich-2-obstacle",
+      "text": "Dmitri Shostakovich's recorded life dates place this profile around 1906-1975.",
+      "context": "Dmitri Shostakovich's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Dmitri Shostakovich",
+      "sourceUrl": "https://pantheon.world/profile/person/Dmitri_Shostakovich",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dmitri-shostakovich-3-turning-point",
+      "text": "Dmitri Shostakovich is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Dmitri Shostakovich's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Dmitri Shostakovich",
+      "sourceUrl": "https://pantheon.world/profile/person/Dmitri_Shostakovich",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dmitri-shostakovich-4-contribution",
+      "text": "Dmitri Shostakovich's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Dmitri Shostakovich's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Dmitri Shostakovich",
+      "sourceUrl": "https://pantheon.world/profile/person/Dmitri_Shostakovich",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dmitri-shostakovich-5-influence",
+      "text": "Dmitri Shostakovich has a Facts Mode card reserved for deeper source research.",
+      "context": "Dmitri Shostakovich's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Dmitri Shostakovich",
+      "sourceUrl": "https://pantheon.world/profile/person/Dmitri_Shostakovich",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

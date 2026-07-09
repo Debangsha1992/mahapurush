@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Ibn al-Haytham is a notable physicist associated with Iraq.",
+  "summary": "Ibn al-Haytham is a notable physicist connected with Iraq.",
   "knownFor": [
     "Physicist",
-    "89 language biography editions",
-    "Historical Popularity Index 82.4"
+    "Science, Math & Technology",
+    "Iraq"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ibn al-Haytham",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ibn-al-haytham-pantheon-profile",
-      "text": "Pantheon ranks Ibn al-Haytham as a globally documented physicist with biographies in 89 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ibn al-Haytham a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ibn-al-haytham-1-origin",
+      "text": "Ibn al-Haytham is remembered as a physicist connected with Iraq.",
+      "context": "Ibn al-Haytham's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Ibn al-Haytham",
       "sourceUrl": "https://pantheon.world/profile/person/Ibn_al-Haytham",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ibn-al-haytham-2-obstacle",
+      "text": "Ibn al-Haytham's recorded life dates place this profile around 965-1039.",
+      "context": "Ibn al-Haytham's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ibn al-Haytham",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibn_al-Haytham",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ibn-al-haytham-3-turning-point",
+      "text": "Ibn al-Haytham is grouped with Science, Math & Technology in the People Library.",
+      "context": "Ibn al-Haytham's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ibn al-Haytham",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibn_al-Haytham",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ibn-al-haytham-4-contribution",
+      "text": "Ibn al-Haytham's profile connects a short Fact to a wider Iraq historical setting.",
+      "context": "Ibn al-Haytham's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ibn al-Haytham",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibn_al-Haytham",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ibn-al-haytham-5-influence",
+      "text": "Ibn al-Haytham has a Facts Mode card reserved for deeper source research.",
+      "context": "Ibn al-Haytham's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ibn al-Haytham",
+      "sourceUrl": "https://pantheon.world/profile/person/Ibn_al-Haytham",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

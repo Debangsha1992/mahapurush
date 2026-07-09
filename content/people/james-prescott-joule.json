@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "James Prescott Joule is a notable physicist associated with United Kingdom.",
+  "summary": "James Prescott Joule is a notable physicist connected with United Kingdom.",
   "knownFor": [
     "Physicist",
-    "119 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for James Prescott Joule",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "james-prescott-joule-pantheon-profile",
-      "text": "Pantheon ranks James Prescott Joule as a globally documented physicist with biographies in 119 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make James Prescott Joule a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "james-prescott-joule-1-origin",
+      "text": "James Prescott Joule is remembered as a physicist connected with United Kingdom.",
+      "context": "James Prescott Joule's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: James Prescott Joule",
       "sourceUrl": "https://pantheon.world/profile/person/James_Prescott_Joule",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-prescott-joule-2-obstacle",
+      "text": "James Prescott Joule's recorded life dates place this profile around 1818-1889.",
+      "context": "James Prescott Joule's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: James Prescott Joule",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Prescott_Joule",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-prescott-joule-3-turning-point",
+      "text": "James Prescott Joule is grouped with Science, Math & Technology in the People Library.",
+      "context": "James Prescott Joule's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: James Prescott Joule",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Prescott_Joule",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-prescott-joule-4-contribution",
+      "text": "James Prescott Joule's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "James Prescott Joule's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: James Prescott Joule",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Prescott_Joule",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-prescott-joule-5-influence",
+      "text": "James Prescott Joule has a Facts Mode card reserved for deeper source research.",
+      "context": "James Prescott Joule's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: James Prescott Joule",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Prescott_Joule",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

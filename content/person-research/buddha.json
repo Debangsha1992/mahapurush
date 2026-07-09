@@ -1,0 +1,47 @@
+{
+  "personId": "buddha",
+  "slug": "buddha",
+  "name": "Buddha",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: The Buddha",
+      "url": "https://en.wikipedia.org/wiki/The_Buddha",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Founder of Buddhism"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "buddha-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Siddhartha Gautama, most commonly referred to as the Buddha, was a wandering ascetic and religious teacher who lived in the eastern Indo-Gangetic Plains during the 6th or 5th century BCE and founded Buddhism."
+    },
+    {
+      "factId": "buddha-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "The Buddha then wandered through the lower Indo-Gangetic Plain, teaching and building a monastic order (sangha)."
+    },
+    {
+      "factId": "buddha-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Buddha is remembered as a philosopher connected with Ancient India."
+    },
+    {
+      "factId": "buddha-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Buddha's recorded life dates place this profile around 563-483 BCE."
+    },
+    {
+      "factId": "buddha-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Buddha is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

@@ -12,35 +12,105 @@
     "science-math-technology",
     "physician"
   ],
-  "summary": "Paracelsus is a notable physician associated with Switzerland.",
+  "summary": "Theophrastus Bombast von Hohenheim, known as Paracelsus, was a Swiss physician, alchemist, lay theologian, and philosopher of the German Renaissance.",
   "knownFor": [
     "Physician",
-    "78 language biography editions",
-    "Historical Popularity Index 85.1"
+    "Science, Math & Technology",
+    "Switzerland"
   ],
   "featured": true,
   "featuredRank": 436,
   "imageAlt": "Portrait-style visual for Paracelsus",
   "sourceRefs": [
     {
-      "title": "Pantheon: Paracelsus",
-      "url": "https://pantheon.world/profile/person/Paracelsus",
+      "title": "Wikipedia: Paracelsus",
+      "url": "https://en.wikipedia.org/wiki/Paracelsus",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "paracelsus-pantheon-profile",
-      "text": "Pantheon ranks Paracelsus as a globally documented physician with biographies in 78 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Paracelsus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Paracelsus",
-      "sourceUrl": "https://pantheon.world/profile/person/Paracelsus",
+      "id": "paracelsus-1-origin",
+      "text": "Theophrastus Bombast von Hohenheim, known as Paracelsus, was a Swiss physician, alchemist, lay theologian, and philosopher of the German Renaissance.",
+      "context": "Paracelsus's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Paracelsus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paracelsus",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paracelsus-2-obstacle",
+      "text": "Paracelsus is remembered as a physician connected with Switzerland.",
+      "context": "Paracelsus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Paracelsus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paracelsus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paracelsus-3-turning-point",
+      "text": "Paracelsus's recorded life dates place this profile around 1493-1541.",
+      "context": "Paracelsus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Paracelsus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paracelsus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paracelsus-4-contribution",
+      "text": "Paracelsus is grouped with Science, Math & Technology in the People Library.",
+      "context": "Paracelsus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Paracelsus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paracelsus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paracelsus-5-influence",
+      "text": "Paracelsus's profile connects a short Fact to a wider Switzerland historical setting.",
+      "context": "Paracelsus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Paracelsus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Paracelsus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

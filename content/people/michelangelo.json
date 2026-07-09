@@ -12,35 +12,101 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Michelangelo is a notable painter associated with Italy.",
+  "summary": "Michelangelo di Lodovico Buonarroti Simoni, known mononymously as Michelangelo, was an Italian sculptor, painter, architect, and poet of the High Renaissance.",
   "knownFor": [
     "Painter",
-    "210 language biography editions",
-    "Historical Popularity Index 93.5"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 58,
   "imageAlt": "Portrait-style visual for Michelangelo",
   "sourceRefs": [
     {
-      "title": "Pantheon: Michelangelo",
-      "url": "https://pantheon.world/profile/person/Michelangelo",
+      "title": "Wikipedia: Michelangelo",
+      "url": "https://en.wikipedia.org/wiki/Michelangelo",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "michelangelo-pantheon-profile",
-      "text": "Pantheon ranks Michelangelo as a globally documented painter with biographies in 210 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Michelangelo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Michelangelo",
-      "sourceUrl": "https://pantheon.world/profile/person/Michelangelo",
+      "id": "michelangelo-1-origin",
+      "text": "Michelangelo di Lodovico Buonarroti Simoni, known mononymously as Michelangelo, was an Italian sculptor, painter, architect, and poet of the High Renaissance.",
+      "context": "Michelangelo's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Michelangelo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Michelangelo",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michelangelo-2-obstacle",
+      "text": "Michelangelo was born in the Republic of Florence but was mostly active in Rome from his 30s onwards.",
+      "context": "Michelangelo's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Michelangelo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Michelangelo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michelangelo-3-turning-point",
+      "text": "Michelangelo's work was inspired by models from classical antiquity and had a lasting influence on Western art.",
+      "context": "Michelangelo's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Michelangelo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Michelangelo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michelangelo-4-contribution",
+      "text": "Michelangelo's creative abilities and mastery in a range of artistic arenas define him as an archetypal Renaissance man, along with his rival and elder contemporary, Leonardo da Vinci.",
+      "context": "Michelangelo's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Michelangelo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Michelangelo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michelangelo-5-influence",
+      "text": "Given the sheer volume of surviving correspondence, sketches, and reminiscences, Michelangelo is one of the best-documented artists of the 16th century.",
+      "context": "Michelangelo's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Michelangelo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Michelangelo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

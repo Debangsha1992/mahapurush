@@ -1,0 +1,46 @@
+{
+  "personId": "ruhollah-khomeini",
+  "slug": "ruhollah-khomeini",
+  "name": "Ruhollah Khomeini",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ruhollah Khomeini",
+      "url": "https://pantheon.world/profile/person/Ruhollah_Khomeini",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ruhollah-khomeini-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ruhollah Khomeini is remembered as a religious figure connected with Iran."
+    },
+    {
+      "factId": "ruhollah-khomeini-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ruhollah Khomeini's recorded life dates place this profile around 1902-1989."
+    },
+    {
+      "factId": "ruhollah-khomeini-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ruhollah Khomeini is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "ruhollah-khomeini-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ruhollah Khomeini's profile connects a short Fact to a wider Iran historical setting."
+    },
+    {
+      "factId": "ruhollah-khomeini-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ruhollah Khomeini has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

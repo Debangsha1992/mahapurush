@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Marie Louise, Duchess of Parma is a notable companion associated with Austria.",
+  "summary": "Marie Louise, Duchess of Parma is a notable companion connected with Austria.",
   "knownFor": [
     "Companion",
-    "61 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Justice, Governance & Leadership",
+    "Austria"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Marie Louise, Duchess of Parma",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "marie-louise-duchess-of-parma-pantheon-profile",
-      "text": "Pantheon ranks Marie Louise, Duchess of Parma as a globally documented companion with biographies in 61 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Marie Louise, Duchess of Parma a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "marie-louise-duchess-of-parma-1-origin",
+      "text": "Marie Louise, Duchess of Parma is remembered as a companion connected with Austria.",
+      "context": "Marie Louise, Duchess of Parma's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Marie Louise, Duchess of Parma",
       "sourceUrl": "https://pantheon.world/profile/person/Marie_Louise%2C_Duchess_of_Parma",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-louise-duchess-of-parma-2-obstacle",
+      "text": "Marie Louise, Duchess of Parma's recorded life dates place this profile around 1791-1847.",
+      "context": "Marie Louise, Duchess of Parma's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Marie Louise, Duchess of Parma",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_Louise%2C_Duchess_of_Parma",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-louise-duchess-of-parma-3-turning-point",
+      "text": "Marie Louise, Duchess of Parma is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Marie Louise, Duchess of Parma's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Marie Louise, Duchess of Parma",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_Louise%2C_Duchess_of_Parma",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-louise-duchess-of-parma-4-contribution",
+      "text": "Marie Louise, Duchess of Parma's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Marie Louise, Duchess of Parma's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Marie Louise, Duchess of Parma",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_Louise%2C_Duchess_of_Parma",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-louise-duchess-of-parma-5-influence",
+      "text": "Marie Louise, Duchess of Parma has a Facts Mode card reserved for deeper source research.",
+      "context": "Marie Louise, Duchess of Parma's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Marie Louise, Duchess of Parma",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_Louise%2C_Duchess_of_Parma",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

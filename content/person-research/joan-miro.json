@@ -1,0 +1,46 @@
+{
+  "personId": "joan-miro",
+  "slug": "joan-miro",
+  "name": "Joan Miró",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Joan Miró",
+      "url": "https://pantheon.world/profile/person/Joan_Mir%C3%B3",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "joan-miro-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Joan Miró is remembered as a painter connected with Spain."
+    },
+    {
+      "factId": "joan-miro-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Joan Miró's recorded life dates place this profile around 1893-1983."
+    },
+    {
+      "factId": "joan-miro-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Joan Miró is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "joan-miro-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Joan Miró's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "joan-miro-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Joan Miró has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

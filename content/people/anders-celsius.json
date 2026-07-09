@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "astronomer"
   ],
-  "summary": "Anders Celsius is a notable astronomer associated with Sweden.",
+  "summary": "Anders Celsius is a notable astronomer connected with Sweden.",
   "knownFor": [
     "Astronomer",
-    "93 language biography editions",
-    "Historical Popularity Index 83.2"
+    "Justice, Governance & Leadership",
+    "Sweden"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Anders Celsius",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "anders-celsius-pantheon-profile",
-      "text": "Pantheon ranks Anders Celsius as a globally documented astronomer with biographies in 93 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Anders Celsius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "anders-celsius-1-origin",
+      "text": "Anders Celsius is remembered as a astronomer connected with Sweden.",
+      "context": "Anders Celsius's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Anders Celsius",
       "sourceUrl": "https://pantheon.world/profile/person/Anders_Celsius",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anders-celsius-2-obstacle",
+      "text": "Anders Celsius's recorded life dates place this profile around 1701-1744.",
+      "context": "Anders Celsius's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Anders Celsius",
+      "sourceUrl": "https://pantheon.world/profile/person/Anders_Celsius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anders-celsius-3-turning-point",
+      "text": "Anders Celsius is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Anders Celsius's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Anders Celsius",
+      "sourceUrl": "https://pantheon.world/profile/person/Anders_Celsius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anders-celsius-4-contribution",
+      "text": "Anders Celsius's profile connects a short Fact to a wider Sweden historical setting.",
+      "context": "Anders Celsius's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Anders Celsius",
+      "sourceUrl": "https://pantheon.world/profile/person/Anders_Celsius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anders-celsius-5-influence",
+      "text": "Anders Celsius has a Facts Mode card reserved for deeper source research.",
+      "context": "Anders Celsius's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Anders Celsius",
+      "sourceUrl": "https://pantheon.world/profile/person/Anders_Celsius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

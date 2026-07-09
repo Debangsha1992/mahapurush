@@ -1,0 +1,46 @@
+{
+  "personId": "maria-callas",
+  "slug": "maria-callas",
+  "name": "Maria Callas",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Maria Callas",
+      "url": "https://pantheon.world/profile/person/Maria_Callas",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "maria-callas-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Maria Callas is remembered as a singer connected with United States."
+    },
+    {
+      "factId": "maria-callas-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Maria Callas's recorded life dates place this profile around 1923-1977."
+    },
+    {
+      "factId": "maria-callas-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Maria Callas is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "maria-callas-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Maria Callas's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "maria-callas-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Maria Callas has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

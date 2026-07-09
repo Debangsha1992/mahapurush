@@ -1,0 +1,46 @@
+{
+  "personId": "alexander-graham-bell",
+  "slug": "alexander-graham-bell",
+  "name": "Alexander Graham Bell",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alexander Graham Bell",
+      "url": "https://pantheon.world/profile/person/Alexander_Graham_Bell",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alexander-graham-bell-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Graham Bell is remembered as a inventor connected with United Kingdom."
+    },
+    {
+      "factId": "alexander-graham-bell-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Graham Bell's recorded life dates place this profile around 1847-1922."
+    },
+    {
+      "factId": "alexander-graham-bell-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Graham Bell is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "alexander-graham-bell-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Graham Bell's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "alexander-graham-bell-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Graham Bell has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

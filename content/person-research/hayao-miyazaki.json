@@ -1,0 +1,46 @@
+{
+  "personId": "hayao-miyazaki",
+  "slug": "hayao-miyazaki",
+  "name": "Hayao Miyazaki",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hayao Miyazaki",
+      "url": "https://pantheon.world/profile/person/Hayao_Miyazaki",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hayao-miyazaki-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hayao Miyazaki is remembered as a film director connected with Japan."
+    },
+    {
+      "factId": "hayao-miyazaki-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hayao Miyazaki's recorded life dates place this profile around born 1941."
+    },
+    {
+      "factId": "hayao-miyazaki-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hayao Miyazaki is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "hayao-miyazaki-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hayao Miyazaki's profile connects a short Fact to a wider Japan historical setting."
+    },
+    {
+      "factId": "hayao-miyazaki-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hayao Miyazaki has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

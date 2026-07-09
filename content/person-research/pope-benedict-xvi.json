@@ -1,0 +1,46 @@
+{
+  "personId": "pope-benedict-xvi",
+  "slug": "pope-benedict-xvi",
+  "name": "Pope Benedict XVI",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Benedict XVI",
+      "url": "https://pantheon.world/profile/person/Pope_Benedict_XVI",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-benedict-xvi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XVI is remembered as a religious figure connected with Germany."
+    },
+    {
+      "factId": "pope-benedict-xvi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XVI's recorded life dates place this profile around 1927-2022."
+    },
+    {
+      "factId": "pope-benedict-xvi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XVI is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-benedict-xvi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XVI's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "pope-benedict-xvi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XVI has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "steve-jobs",
+  "slug": "steve-jobs",
+  "name": "Steve Jobs",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Steve Jobs",
+      "url": "https://pantheon.world/profile/person/Steve_Jobs",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "steve-jobs-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Steve Jobs is remembered as a designer connected with United States."
+    },
+    {
+      "factId": "steve-jobs-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Steve Jobs's recorded life dates place this profile around 1955-2011."
+    },
+    {
+      "factId": "steve-jobs-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Steve Jobs is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "steve-jobs-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Steve Jobs's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "steve-jobs-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Steve Jobs has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

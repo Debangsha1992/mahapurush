@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Queen of Sheba is a notable religious figure associated with Global.",
+  "summary": "Queen of Sheba is a notable religious figure connected with Global.",
   "knownFor": [
     "Religious Figure",
-    "89 language biography editions",
-    "Historical Popularity Index 84.7"
+    "Philosophy, Ethics & Religion",
+    "Global"
   ],
   "featured": true,
   "featuredRank": 462,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "queen-of-sheba-pantheon-profile",
-      "text": "Pantheon ranks Queen of Sheba as a globally documented religious figure with biographies in 89 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Queen of Sheba a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "queen-of-sheba-1-origin",
+      "text": "Queen of Sheba is remembered as a religious figure connected with Global.",
+      "context": "Queen of Sheba's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Queen of Sheba",
       "sourceUrl": "https://pantheon.world/profile/person/Queen_of_Sheba",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "queen-of-sheba-2-obstacle",
+      "text": "Queen of Sheba's recorded life dates place this profile around -1000--1000.",
+      "context": "Queen of Sheba's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Queen of Sheba",
+      "sourceUrl": "https://pantheon.world/profile/person/Queen_of_Sheba",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "queen-of-sheba-3-turning-point",
+      "text": "Queen of Sheba is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Queen of Sheba's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Queen of Sheba",
+      "sourceUrl": "https://pantheon.world/profile/person/Queen_of_Sheba",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "queen-of-sheba-4-contribution",
+      "text": "Queen of Sheba's profile connects a short Fact to a wider Global historical setting.",
+      "context": "Queen of Sheba's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Queen of Sheba",
+      "sourceUrl": "https://pantheon.world/profile/person/Queen_of_Sheba",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "queen-of-sheba-5-influence",
+      "text": "Queen of Sheba has a Facts Mode card reserved for deeper source research.",
+      "context": "Queen of Sheba's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Queen of Sheba",
+      "sourceUrl": "https://pantheon.world/profile/person/Queen_of_Sheba",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

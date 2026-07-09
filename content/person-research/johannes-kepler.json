@@ -1,0 +1,46 @@
+{
+  "personId": "johannes-kepler",
+  "slug": "johannes-kepler",
+  "name": "Johannes Kepler",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Johannes Kepler",
+      "url": "https://pantheon.world/profile/person/Johannes_Kepler",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "johannes-kepler-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Kepler is remembered as a astronomer connected with Germany."
+    },
+    {
+      "factId": "johannes-kepler-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Kepler's recorded life dates place this profile around 1571-1630."
+    },
+    {
+      "factId": "johannes-kepler-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Kepler is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "johannes-kepler-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Kepler's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "johannes-kepler-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Kepler has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

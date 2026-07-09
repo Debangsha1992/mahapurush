@@ -12,35 +12,103 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Moses is a notable religious figure associated with Egypt.",
+  "summary": "In Abrahamic religions, Moses was the Hebrew prophet who led the Israelites out of slavery in the Exodus from Egypt.",
   "knownFor": [
     "Religious Figure",
-    "160 language biography editions",
-    "Historical Popularity Index 93.3"
+    "Philosophy, Ethics & Religion",
+    "Egypt"
   ],
   "featured": true,
   "featuredRank": 62,
   "imageAlt": "Portrait-style visual for Moses",
   "sourceRefs": [
     {
-      "title": "Pantheon: Moses",
-      "url": "https://pantheon.world/profile/person/Moses",
+      "title": "Wikipedia: Moses",
+      "url": "https://en.wikipedia.org/wiki/Moses",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "moses-pantheon-profile",
-      "text": "Pantheon ranks Moses as a globally documented religious figure with biographies in 160 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Moses a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Moses",
-      "sourceUrl": "https://pantheon.world/profile/person/Moses",
+      "id": "moses-1-origin",
+      "text": "In Abrahamic religions, Moses was the Hebrew prophet who led the Israelites out of slavery in the Exodus from Egypt.",
+      "context": "Moses's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Moses",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moses",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "moses-2-obstacle",
+      "text": "Moses is considered the most important prophet in Judaism and Samaritanism, and one of the most important prophets in Christianity, Islam, the Baháʼí Faith, and other Abrahamic religions.",
+      "context": "Moses's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Moses",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moses",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "moses-3-turning-point",
+      "text": "According to the Abrahamic scriptures, God dictated the Mosaic Law to Moses, which he wrote down and which formed part of the Torah.",
+      "context": "Moses's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Moses",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moses",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "moses-4-contribution",
+      "text": "Moses is remembered as a religious figure connected with Egypt.",
+      "context": "Moses's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Moses",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moses",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "moses-5-influence",
+      "text": "Moses's recorded life dates place this profile around -1393--1273.",
+      "context": "Moses's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Moses",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moses",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

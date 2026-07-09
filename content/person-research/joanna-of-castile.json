@@ -1,0 +1,46 @@
+{
+  "personId": "joanna-of-castile",
+  "slug": "joanna-of-castile",
+  "name": "Joanna of Castile",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Joanna of Castile",
+      "url": "https://pantheon.world/profile/person/Joanna_of_Castile",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "joanna-of-castile-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Joanna of Castile is remembered as a politician connected with Spain."
+    },
+    {
+      "factId": "joanna-of-castile-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Joanna of Castile's recorded life dates place this profile around 1479-1555."
+    },
+    {
+      "factId": "joanna-of-castile-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Joanna of Castile is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "joanna-of-castile-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Joanna of Castile's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "joanna-of-castile-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Joanna of Castile has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

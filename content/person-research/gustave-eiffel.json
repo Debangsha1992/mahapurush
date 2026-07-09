@@ -1,0 +1,46 @@
+{
+  "personId": "gustave-eiffel",
+  "slug": "gustave-eiffel",
+  "name": "Gustave Eiffel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gustave Eiffel",
+      "url": "https://pantheon.world/profile/person/Gustave_Eiffel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gustave-eiffel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gustave Eiffel is remembered as a engineer connected with France."
+    },
+    {
+      "factId": "gustave-eiffel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gustave Eiffel's recorded life dates place this profile around 1832-1923."
+    },
+    {
+      "factId": "gustave-eiffel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gustave Eiffel is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "gustave-eiffel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gustave Eiffel's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "gustave-eiffel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gustave Eiffel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

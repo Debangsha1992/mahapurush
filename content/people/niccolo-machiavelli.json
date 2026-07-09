@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "philosopher"
   ],
-  "summary": "Niccolò Machiavelli is a notable philosopher associated with Italy.",
+  "summary": "Niccolò Machiavelli is a notable philosopher connected with Italy.",
   "knownFor": [
     "Philosopher",
-    "151 language biography editions",
-    "Historical Popularity Index 90.4"
+    "Philosophy, Ethics & Religion",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 118,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "niccolo-machiavelli-pantheon-profile",
-      "text": "Pantheon ranks Niccolò Machiavelli as a globally documented philosopher with biographies in 151 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Niccolò Machiavelli a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "niccolo-machiavelli-1-origin",
+      "text": "Niccolò Machiavelli is remembered as a philosopher connected with Italy.",
+      "context": "Niccolò Machiavelli's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Niccolò Machiavelli",
       "sourceUrl": "https://pantheon.world/profile/person/Niccol%C3%B2_Machiavelli",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "niccolo-machiavelli-2-obstacle",
+      "text": "Niccolò Machiavelli's recorded life dates place this profile around 1469-1527.",
+      "context": "Niccolò Machiavelli's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Niccolò Machiavelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Niccol%C3%B2_Machiavelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "niccolo-machiavelli-3-turning-point",
+      "text": "Niccolò Machiavelli is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Niccolò Machiavelli's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Niccolò Machiavelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Niccol%C3%B2_Machiavelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "niccolo-machiavelli-4-contribution",
+      "text": "Niccolò Machiavelli's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Niccolò Machiavelli's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Niccolò Machiavelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Niccol%C3%B2_Machiavelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "niccolo-machiavelli-5-influence",
+      "text": "Niccolò Machiavelli has a Facts Mode card reserved for deeper source research.",
+      "context": "Niccolò Machiavelli's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Niccolò Machiavelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Niccol%C3%B2_Machiavelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

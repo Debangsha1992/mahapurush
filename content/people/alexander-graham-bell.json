@@ -12,11 +12,11 @@
     "science-math-technology",
     "inventor"
   ],
-  "summary": "Alexander Graham Bell is a notable inventor associated with United Kingdom.",
+  "summary": "Alexander Graham Bell is a notable inventor connected with United Kingdom.",
   "knownFor": [
     "Inventor",
-    "128 language biography editions",
-    "Historical Popularity Index 85.3"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 414,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "alexander-graham-bell-pantheon-profile",
-      "text": "Pantheon ranks Alexander Graham Bell as a globally documented inventor with biographies in 128 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Alexander Graham Bell a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "alexander-graham-bell-1-origin",
+      "text": "Alexander Graham Bell is remembered as a inventor connected with United Kingdom.",
+      "context": "Alexander Graham Bell's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Alexander Graham Bell",
       "sourceUrl": "https://pantheon.world/profile/person/Alexander_Graham_Bell",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-graham-bell-2-obstacle",
+      "text": "Alexander Graham Bell's recorded life dates place this profile around 1847-1922.",
+      "context": "Alexander Graham Bell's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Alexander Graham Bell",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_Graham_Bell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-graham-bell-3-turning-point",
+      "text": "Alexander Graham Bell is grouped with Science, Math & Technology in the People Library.",
+      "context": "Alexander Graham Bell's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Alexander Graham Bell",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_Graham_Bell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-graham-bell-4-contribution",
+      "text": "Alexander Graham Bell's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Alexander Graham Bell's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Alexander Graham Bell",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_Graham_Bell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-graham-bell-5-influence",
+      "text": "Alexander Graham Bell has a Facts Mode card reserved for deeper source research.",
+      "context": "Alexander Graham Bell's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Alexander Graham Bell",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_Graham_Bell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "maurice-maeterlinck",
+  "slug": "maurice-maeterlinck",
+  "name": "Maurice Maeterlinck",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Maurice Maeterlinck",
+      "url": "https://pantheon.world/profile/person/Maurice_Maeterlinck",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "maurice-maeterlinck-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Maurice Maeterlinck is remembered as a writer connected with Belgium."
+    },
+    {
+      "factId": "maurice-maeterlinck-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Maurice Maeterlinck's recorded life dates place this profile around 1862-1949."
+    },
+    {
+      "factId": "maurice-maeterlinck-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Maurice Maeterlinck is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "maurice-maeterlinck-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Maurice Maeterlinck's profile connects a short Fact to a wider Belgium historical setting."
+    },
+    {
+      "factId": "maurice-maeterlinck-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Maurice Maeterlinck has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

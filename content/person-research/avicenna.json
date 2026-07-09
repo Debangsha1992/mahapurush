@@ -1,0 +1,47 @@
+{
+  "personId": "avicenna",
+  "slug": "avicenna",
+  "name": "Avicenna",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Avicenna",
+      "url": "https://en.wikipedia.org/wiki/Avicenna",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Persian polymath, physician and philosopher (c. 980–1037)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "avicenna-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Ibn Sina, commonly known in the West as Avicenna, was a preeminent philosopher and physician of the Muslim world."
+    },
+    {
+      "factId": "avicenna-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Avicenna was a seminal figure of the Islamic Golden Age, serving in the courts of various Iranian rulers, and was influential to medieval European medical and Scholastic thought."
+    },
+    {
+      "factId": "avicenna-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Avicenna is remembered as a philosopher connected with Uzbekistan."
+    },
+    {
+      "factId": "avicenna-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Avicenna's recorded life dates place this profile around 980-1037."
+    },
+    {
+      "factId": "avicenna-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Avicenna is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "muhammad-ali-of-egypt",
+  "slug": "muhammad-ali-of-egypt",
+  "name": "Muhammad Ali of Egypt",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Muhammad Ali of Egypt",
+      "url": "https://pantheon.world/profile/person/Muhammad_Ali_of_Egypt",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "muhammad-ali-of-egypt-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad Ali of Egypt is remembered as a politician connected with Greece."
+    },
+    {
+      "factId": "muhammad-ali-of-egypt-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad Ali of Egypt's recorded life dates place this profile around 1769-1849."
+    },
+    {
+      "factId": "muhammad-ali-of-egypt-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad Ali of Egypt is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "muhammad-ali-of-egypt-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad Ali of Egypt's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "muhammad-ali-of-egypt-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad Ali of Egypt has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

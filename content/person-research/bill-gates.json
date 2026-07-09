@@ -1,0 +1,46 @@
+{
+  "personId": "bill-gates",
+  "slug": "bill-gates",
+  "name": "Bill Gates",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bill Gates",
+      "url": "https://pantheon.world/profile/person/Bill_Gates",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bill-gates-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bill Gates is remembered as a businessperson connected with United States."
+    },
+    {
+      "factId": "bill-gates-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bill Gates's recorded life dates place this profile around born 1955."
+    },
+    {
+      "factId": "bill-gates-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bill Gates is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "bill-gates-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bill Gates's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "bill-gates-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bill Gates has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

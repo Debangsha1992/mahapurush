@@ -1,0 +1,46 @@
+{
+  "personId": "louisa-may-alcott",
+  "slug": "louisa-may-alcott",
+  "name": "Louisa May Alcott",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Louisa May Alcott",
+      "url": "https://pantheon.world/profile/person/Louisa_May_Alcott",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "louisa-may-alcott-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Louisa May Alcott is remembered as a writer connected with United States."
+    },
+    {
+      "factId": "louisa-may-alcott-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Louisa May Alcott's recorded life dates place this profile around 1832-1888."
+    },
+    {
+      "factId": "louisa-may-alcott-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Louisa May Alcott is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "louisa-may-alcott-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Louisa May Alcott's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "louisa-may-alcott-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Louisa May Alcott has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

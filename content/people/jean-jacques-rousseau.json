@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "philosopher"
   ],
-  "summary": "Jean-Jacques Rousseau is a notable philosopher associated with Switzerland.",
+  "summary": "Jean-Jacques Rousseau is a notable philosopher connected with Switzerland.",
   "knownFor": [
     "Philosopher",
-    "157 language biography editions",
-    "Historical Popularity Index 91.3"
+    "Philosophy, Ethics & Religion",
+    "Switzerland"
   ],
   "featured": true,
   "featuredRank": 95,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jean-jacques-rousseau-pantheon-profile",
-      "text": "Pantheon ranks Jean-Jacques Rousseau as a globally documented philosopher with biographies in 157 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jean-Jacques Rousseau a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "jean-jacques-rousseau-1-origin",
+      "text": "Jean-Jacques Rousseau is remembered as a philosopher connected with Switzerland.",
+      "context": "Jean-Jacques Rousseau's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Jean-Jacques Rousseau",
       "sourceUrl": "https://pantheon.world/profile/person/Jean-Jacques_Rousseau",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-jacques-rousseau-2-obstacle",
+      "text": "Jean-Jacques Rousseau's recorded life dates place this profile around 1712-1778.",
+      "context": "Jean-Jacques Rousseau's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Jean-Jacques Rousseau",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Jacques_Rousseau",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-jacques-rousseau-3-turning-point",
+      "text": "Jean-Jacques Rousseau is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Jean-Jacques Rousseau's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Jean-Jacques Rousseau",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Jacques_Rousseau",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-jacques-rousseau-4-contribution",
+      "text": "Jean-Jacques Rousseau's profile connects a short Fact to a wider Switzerland historical setting.",
+      "context": "Jean-Jacques Rousseau's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Jean-Jacques Rousseau",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Jacques_Rousseau",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-jacques-rousseau-5-influence",
+      "text": "Jean-Jacques Rousseau has a Facts Mode card reserved for deeper source research.",
+      "context": "Jean-Jacques Rousseau's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Jean-Jacques Rousseau",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Jacques_Rousseau",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

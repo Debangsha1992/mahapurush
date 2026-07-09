@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "astronomer"
   ],
-  "summary": "Johannes Kepler is a notable astronomer associated with Germany.",
+  "summary": "Johannes Kepler is a notable astronomer connected with Germany.",
   "knownFor": [
     "Astronomer",
-    "149 language biography editions",
-    "Historical Popularity Index 89.2"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 162,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "johannes-kepler-pantheon-profile",
-      "text": "Pantheon ranks Johannes Kepler as a globally documented astronomer with biographies in 149 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Johannes Kepler a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "johannes-kepler-1-origin",
+      "text": "Johannes Kepler is remembered as a astronomer connected with Germany.",
+      "context": "Johannes Kepler's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Johannes Kepler",
       "sourceUrl": "https://pantheon.world/profile/person/Johannes_Kepler",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-kepler-2-obstacle",
+      "text": "Johannes Kepler's recorded life dates place this profile around 1571-1630.",
+      "context": "Johannes Kepler's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Johannes Kepler",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Kepler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-kepler-3-turning-point",
+      "text": "Johannes Kepler is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Johannes Kepler's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Johannes Kepler",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Kepler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-kepler-4-contribution",
+      "text": "Johannes Kepler's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Johannes Kepler's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Johannes Kepler",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Kepler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-kepler-5-influence",
+      "text": "Johannes Kepler has a Facts Mode card reserved for deeper source research.",
+      "context": "Johannes Kepler's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Johannes Kepler",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Kepler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

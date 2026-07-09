@@ -1,0 +1,46 @@
+{
+  "personId": "muhammad-ibn-musa-al-khwarizmi",
+  "slug": "muhammad-ibn-musa-al-khwarizmi",
+  "name": "Muhammad ibn Musa al-Khwarizmi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Muhammad ibn Musa al-Khwarizmi",
+      "url": "https://pantheon.world/profile/person/Muhammad_ibn_Musa_al-Khwarizmi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "muhammad-ibn-musa-al-khwarizmi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad ibn Musa al-Khwarizmi is remembered as a mathematician connected with Turkmenistan."
+    },
+    {
+      "factId": "muhammad-ibn-musa-al-khwarizmi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad ibn Musa al-Khwarizmi's recorded life dates place this profile around 780-850."
+    },
+    {
+      "factId": "muhammad-ibn-musa-al-khwarizmi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad ibn Musa al-Khwarizmi is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "muhammad-ibn-musa-al-khwarizmi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad ibn Musa al-Khwarizmi's profile connects a short Fact to a wider Turkmenistan historical setting."
+    },
+    {
+      "factId": "muhammad-ibn-musa-al-khwarizmi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad ibn Musa al-Khwarizmi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

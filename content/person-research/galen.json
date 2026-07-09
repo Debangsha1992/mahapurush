@@ -1,0 +1,47 @@
+{
+  "personId": "galen",
+  "slug": "galen",
+  "name": "Galen",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Galen",
+      "url": "https://en.wikipedia.org/wiki/Galen",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Greek physician, surgeon, and philosopher (c. 129–216 AD)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "galen-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Aelius Galenus or Claudius Galenus, often anglicized as Galen or Galen of Pergamon, was a Roman and Greek physician, surgeon, and philosopher."
+    },
+    {
+      "factId": "galen-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Considered to be one of the most accomplished of all medical researchers of antiquity, Galen influenced the development of various scientific disciplines, including anatomy, physiology, pathology, pharmacology, and neurology, as well as philosophy and logic."
+    },
+    {
+      "factId": "galen-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Galen is remembered as a physician connected with Türkiye."
+    },
+    {
+      "factId": "galen-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Galen's recorded life dates place this profile around 129-215."
+    },
+    {
+      "factId": "galen-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Galen is grouped with Science, Math & Technology in the People Library."
+    }
+  ]
+}

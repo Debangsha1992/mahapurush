@@ -1,0 +1,47 @@
+{
+  "personId": "pele",
+  "slug": "pele",
+  "name": "Pelé",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Pelé",
+      "url": "https://en.wikipedia.org/wiki/Pel%C3%A9",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Brazilian footballer (1940–2022)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pele-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Edson Arantes do Nascimento, better known by his nickname Pelé, was a Brazilian professional footballer who played as a forward."
+    },
+    {
+      "factId": "pele-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Pelé's 1,279 goals in 1,363 games, which includes friendlies, is recognised as a Guinness World Record."
+    },
+    {
+      "factId": "pele-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "In 2000, Pelé was voted World Player of the Century by the International Federation of Football History & Statistics (IFFHS) and was one of the two joint winners of the FIFA Player of the Century, alongside Diego Maradona."
+    },
+    {
+      "factId": "pele-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pelé is remembered as a soccer player connected with Brazil."
+    },
+    {
+      "factId": "pele-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pelé's recorded life dates place this profile around 1940-2022."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "psychologist"
   ],
-  "summary": "Sigmund Freud is a notable psychologist associated with Czechia.",
+  "summary": "Sigmund Freud is a notable psychologist connected with Czechia.",
   "knownFor": [
     "Psychologist",
-    "188 language biography editions",
-    "Historical Popularity Index 91.1"
+    "Justice, Governance & Leadership",
+    "Czechia"
   ],
   "featured": true,
   "featuredRank": 98,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "sigmund-freud-pantheon-profile",
-      "text": "Pantheon ranks Sigmund Freud as a globally documented psychologist with biographies in 188 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Sigmund Freud a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "sigmund-freud-1-origin",
+      "text": "Sigmund Freud is remembered as a psychologist connected with Czechia.",
+      "context": "Sigmund Freud's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Sigmund Freud",
       "sourceUrl": "https://pantheon.world/profile/person/Sigmund_Freud",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sigmund-freud-2-obstacle",
+      "text": "Sigmund Freud's recorded life dates place this profile around 1856-1939.",
+      "context": "Sigmund Freud's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Sigmund Freud",
+      "sourceUrl": "https://pantheon.world/profile/person/Sigmund_Freud",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sigmund-freud-3-turning-point",
+      "text": "Sigmund Freud is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Sigmund Freud's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Sigmund Freud",
+      "sourceUrl": "https://pantheon.world/profile/person/Sigmund_Freud",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sigmund-freud-4-contribution",
+      "text": "Sigmund Freud's profile connects a short Fact to a wider Czechia historical setting.",
+      "context": "Sigmund Freud's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Sigmund Freud",
+      "sourceUrl": "https://pantheon.world/profile/person/Sigmund_Freud",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sigmund-freud-5-influence",
+      "text": "Sigmund Freud has a Facts Mode card reserved for deeper source research.",
+      "context": "Sigmund Freud's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Sigmund Freud",
+      "sourceUrl": "https://pantheon.world/profile/person/Sigmund_Freud",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

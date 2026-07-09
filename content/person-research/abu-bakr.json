@@ -1,0 +1,47 @@
+{
+  "personId": "abu-bakr",
+  "slug": "abu-bakr",
+  "name": "Abu Bakr",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Abu Bakr",
+      "url": "https://en.wikipedia.org/wiki/Abu_Bakr",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "First caliph of Rashidun Caliphate from 632 to 634"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "abu-bakr-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Abu Bakr, born Abdullah ibn Abi Quhafa, was a senior companion, and father-in-law of Muhammad, the Islamic prophet."
+    },
+    {
+      "factId": "abu-bakr-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Abu Bakr served as the first caliph of the Rashidun Caliphate, ruling from 632 until his death in 634."
+    },
+    {
+      "factId": "abu-bakr-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Abu Bakr was granted the honorific title al-Ṣiddīq by Muhammad, a designation that continues to be used by Sunni Muslims to this day."
+    },
+    {
+      "factId": "abu-bakr-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Abu Bakr is remembered as a religious figure connected with Saudi Arabia."
+    },
+    {
+      "factId": "abu-bakr-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Abu Bakr's recorded life dates place this profile around 573-634."
+    }
+  ]
+}

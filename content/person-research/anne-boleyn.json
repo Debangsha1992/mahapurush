@@ -1,0 +1,46 @@
+{
+  "personId": "anne-boleyn",
+  "slug": "anne-boleyn",
+  "name": "Anne Boleyn",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anne Boleyn",
+      "url": "https://pantheon.world/profile/person/Anne_Boleyn",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anne-boleyn-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anne Boleyn is remembered as a companion connected with United Kingdom."
+    },
+    {
+      "factId": "anne-boleyn-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anne Boleyn's recorded life dates place this profile around 1501-1536."
+    },
+    {
+      "factId": "anne-boleyn-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anne Boleyn is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "anne-boleyn-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anne Boleyn's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "anne-boleyn-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anne Boleyn has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

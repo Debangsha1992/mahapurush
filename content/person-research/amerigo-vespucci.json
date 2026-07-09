@@ -1,0 +1,46 @@
+{
+  "personId": "amerigo-vespucci",
+  "slug": "amerigo-vespucci",
+  "name": "Amerigo Vespucci",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Amerigo Vespucci",
+      "url": "https://pantheon.world/profile/person/Amerigo_Vespucci",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "amerigo-vespucci-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Amerigo Vespucci is remembered as a explorer connected with Italy."
+    },
+    {
+      "factId": "amerigo-vespucci-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Amerigo Vespucci's recorded life dates place this profile around 1454-1512."
+    },
+    {
+      "factId": "amerigo-vespucci-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Amerigo Vespucci is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "amerigo-vespucci-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Amerigo Vespucci's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "amerigo-vespucci-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Amerigo Vespucci has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

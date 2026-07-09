@@ -1,0 +1,46 @@
+{
+  "personId": "cardinal-richelieu",
+  "slug": "cardinal-richelieu",
+  "name": "Cardinal Richelieu",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Cardinal Richelieu",
+      "url": "https://pantheon.world/profile/person/Cardinal_Richelieu",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "cardinal-richelieu-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Cardinal Richelieu is remembered as a politician connected with France."
+    },
+    {
+      "factId": "cardinal-richelieu-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Cardinal Richelieu's recorded life dates place this profile around 1585-1642."
+    },
+    {
+      "factId": "cardinal-richelieu-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Cardinal Richelieu is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "cardinal-richelieu-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Cardinal Richelieu's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "cardinal-richelieu-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Cardinal Richelieu has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

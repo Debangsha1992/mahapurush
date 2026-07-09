@@ -1,0 +1,46 @@
+{
+  "personId": "jacques-chirac",
+  "slug": "jacques-chirac",
+  "name": "Jacques Chirac",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jacques Chirac",
+      "url": "https://pantheon.world/profile/person/Jacques_Chirac",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jacques-chirac-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Chirac is remembered as a politician connected with France."
+    },
+    {
+      "factId": "jacques-chirac-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Chirac's recorded life dates place this profile around 1932-2019."
+    },
+    {
+      "factId": "jacques-chirac-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Chirac is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "jacques-chirac-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Chirac's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "jacques-chirac-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Chirac has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

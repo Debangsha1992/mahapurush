@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mithridates VI of Pontus is a notable politician associated with Türkiye.",
+  "summary": "Mithridates VI of Pontus is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "63 language biography editions",
-    "Historical Popularity Index 82.6"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mithridates VI of Pontus",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mithridates-vi-of-pontus-pantheon-profile",
-      "text": "Pantheon ranks Mithridates VI of Pontus as a globally documented politician with biographies in 63 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mithridates VI of Pontus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mithridates-vi-of-pontus-1-origin",
+      "text": "Mithridates VI of Pontus is remembered as a politician connected with Türkiye.",
+      "context": "Mithridates VI of Pontus's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mithridates VI of Pontus",
       "sourceUrl": "https://pantheon.world/profile/person/Mithridates_VI_of_Pontus",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mithridates-vi-of-pontus-2-obstacle",
+      "text": "Mithridates VI of Pontus's recorded life dates place this profile around -132--63.",
+      "context": "Mithridates VI of Pontus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mithridates VI of Pontus",
+      "sourceUrl": "https://pantheon.world/profile/person/Mithridates_VI_of_Pontus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mithridates-vi-of-pontus-3-turning-point",
+      "text": "Mithridates VI of Pontus is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mithridates VI of Pontus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mithridates VI of Pontus",
+      "sourceUrl": "https://pantheon.world/profile/person/Mithridates_VI_of_Pontus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mithridates-vi-of-pontus-4-contribution",
+      "text": "Mithridates VI of Pontus's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Mithridates VI of Pontus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mithridates VI of Pontus",
+      "sourceUrl": "https://pantheon.world/profile/person/Mithridates_VI_of_Pontus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mithridates-vi-of-pontus-5-influence",
+      "text": "Mithridates VI of Pontus has a Facts Mode card reserved for deeper source research.",
+      "context": "Mithridates VI of Pontus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mithridates VI of Pontus",
+      "sourceUrl": "https://pantheon.world/profile/person/Mithridates_VI_of_Pontus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

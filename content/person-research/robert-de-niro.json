@@ -1,0 +1,46 @@
+{
+  "personId": "robert-de-niro",
+  "slug": "robert-de-niro",
+  "name": "Robert De Niro",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Robert De Niro",
+      "url": "https://pantheon.world/profile/person/Robert_De_Niro",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "robert-de-niro-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Robert De Niro is remembered as a actor connected with United States."
+    },
+    {
+      "factId": "robert-de-niro-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Robert De Niro's recorded life dates place this profile around born 1943."
+    },
+    {
+      "factId": "robert-de-niro-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Robert De Niro is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "robert-de-niro-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Robert De Niro's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "robert-de-niro-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Robert De Niro has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "kosem-sultan",
+  "slug": "kosem-sultan",
+  "name": "Kösem Sultan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Kösem Sultan",
+      "url": "https://pantheon.world/profile/person/K%C3%B6sem_Sultan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "kosem-sultan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Kösem Sultan is remembered as a politician connected with Greece."
+    },
+    {
+      "factId": "kosem-sultan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Kösem Sultan's recorded life dates place this profile around 1590-1651."
+    },
+    {
+      "factId": "kosem-sultan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Kösem Sultan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "kosem-sultan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Kösem Sultan's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "kosem-sultan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Kösem Sultan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

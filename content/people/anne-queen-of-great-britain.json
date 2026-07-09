@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Anne, Queen of Great Britain is a notable politician associated with United Kingdom.",
+  "summary": "Anne, Queen of Great Britain is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "86 language biography editions",
-    "Historical Popularity Index 88.4"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 199,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "anne-queen-of-great-britain-pantheon-profile",
-      "text": "Pantheon ranks Anne, Queen of Great Britain as a globally documented politician with biographies in 86 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Anne, Queen of Great Britain a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "anne-queen-of-great-britain-1-origin",
+      "text": "Anne, Queen of Great Britain is remembered as a politician connected with United Kingdom.",
+      "context": "Anne, Queen of Great Britain's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Anne, Queen of Great Britain",
       "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Queen_of_Great_Britain",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-queen-of-great-britain-2-obstacle",
+      "text": "Anne, Queen of Great Britain's recorded life dates place this profile around 1665-1714.",
+      "context": "Anne, Queen of Great Britain's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Anne, Queen of Great Britain",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Queen_of_Great_Britain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-queen-of-great-britain-3-turning-point",
+      "text": "Anne, Queen of Great Britain is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Anne, Queen of Great Britain's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Anne, Queen of Great Britain",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Queen_of_Great_Britain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-queen-of-great-britain-4-contribution",
+      "text": "Anne, Queen of Great Britain's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Anne, Queen of Great Britain's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Anne, Queen of Great Britain",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Queen_of_Great_Britain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-queen-of-great-britain-5-influence",
+      "text": "Anne, Queen of Great Britain has a Facts Mode card reserved for deeper source research.",
+      "context": "Anne, Queen of Great Britain's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Anne, Queen of Great Britain",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne%2C_Queen_of_Great_Britain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

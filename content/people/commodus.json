@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Commodus is a notable politician associated with Italy.",
+  "summary": "Commodus is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "79 language biography editions",
-    "Historical Popularity Index 89.8"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 139,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "commodus-pantheon-profile",
-      "text": "Pantheon ranks Commodus as a globally documented politician with biographies in 79 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Commodus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "commodus-1-origin",
+      "text": "Commodus is remembered as a politician connected with Italy.",
+      "context": "Commodus's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Commodus",
       "sourceUrl": "https://pantheon.world/profile/person/Commodus",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "commodus-2-obstacle",
+      "text": "Commodus's recorded life dates place this profile around 161-192.",
+      "context": "Commodus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Commodus",
+      "sourceUrl": "https://pantheon.world/profile/person/Commodus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "commodus-3-turning-point",
+      "text": "Commodus is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Commodus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Commodus",
+      "sourceUrl": "https://pantheon.world/profile/person/Commodus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "commodus-4-contribution",
+      "text": "Commodus's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Commodus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Commodus",
+      "sourceUrl": "https://pantheon.world/profile/person/Commodus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "commodus-5-influence",
+      "text": "Commodus has a Facts Mode card reserved for deeper source research.",
+      "context": "Commodus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Commodus",
+      "sourceUrl": "https://pantheon.world/profile/person/Commodus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

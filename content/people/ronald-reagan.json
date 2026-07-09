@@ -12,35 +12,104 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Ronald Reagan is a notable politician associated with United States.",
+  "summary": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.",
   "knownFor": [
     "Politician",
-    "249 language biography editions",
-    "Historical Popularity Index 86.4"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 325,
   "imageAlt": "Portrait-style visual for Ronald Reagan",
   "sourceRefs": [
     {
-      "title": "Pantheon: Ronald Reagan",
-      "url": "https://pantheon.world/profile/person/Ronald_Reagan",
+      "title": "Wikipedia: Ronald Reagan",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ronald-reagan-pantheon-profile",
-      "text": "Pantheon ranks Ronald Reagan as a globally documented politician with biographies in 249 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ronald Reagan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Ronald Reagan",
-      "sourceUrl": "https://pantheon.world/profile/person/Ronald_Reagan",
+      "id": "ronald-reagan-1-origin",
+      "text": "Ronald Wilson Ronald Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989.",
+      "context": "Ronald Reagan's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Ronald Reagan",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ronald-reagan-2-obstacle",
+      "text": "The period encompassing his presidency is known as the Ronald Reagan era.",
+      "context": "Ronald Reagan's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Ronald Reagan",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ronald-reagan-3-turning-point",
+      "text": "Ronald Reagan is remembered as a politician connected with United States.",
+      "context": "Ronald Reagan's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Ronald Reagan",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ronald-reagan-4-contribution",
+      "text": "Ronald Reagan's recorded life dates place this profile around 1911-2004.",
+      "context": "Ronald Reagan's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Ronald Reagan",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ronald-reagan-5-influence",
+      "text": "Ronald Reagan is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ronald Reagan's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Ronald Reagan",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

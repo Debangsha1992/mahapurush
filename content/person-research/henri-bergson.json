@@ -1,0 +1,46 @@
+{
+  "personId": "henri-bergson",
+  "slug": "henri-bergson",
+  "name": "Henri Bergson",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Henri Bergson",
+      "url": "https://pantheon.world/profile/person/Henri_Bergson",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "henri-bergson-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Henri Bergson is remembered as a philosopher connected with France."
+    },
+    {
+      "factId": "henri-bergson-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Henri Bergson's recorded life dates place this profile around 1859-1941."
+    },
+    {
+      "factId": "henri-bergson-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Henri Bergson is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "henri-bergson-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Henri Bergson's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "henri-bergson-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Henri Bergson has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

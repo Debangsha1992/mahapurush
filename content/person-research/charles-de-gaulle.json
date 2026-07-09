@@ -1,0 +1,46 @@
+{
+  "personId": "charles-de-gaulle",
+  "slug": "charles-de-gaulle",
+  "name": "Charles de Gaulle",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles de Gaulle",
+      "url": "https://pantheon.world/profile/person/Charles_de_Gaulle",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-de-gaulle-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles de Gaulle is remembered as a military personnel connected with France."
+    },
+    {
+      "factId": "charles-de-gaulle-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles de Gaulle's recorded life dates place this profile around 1890-1970."
+    },
+    {
+      "factId": "charles-de-gaulle-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles de Gaulle is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "charles-de-gaulle-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles de Gaulle's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "charles-de-gaulle-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles de Gaulle has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

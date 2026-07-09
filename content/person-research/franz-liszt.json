@@ -1,0 +1,46 @@
+{
+  "personId": "franz-liszt",
+  "slug": "franz-liszt",
+  "name": "Franz Liszt",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Franz Liszt",
+      "url": "https://pantheon.world/profile/person/Franz_Liszt",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "franz-liszt-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Franz Liszt is remembered as a musician connected with Austria."
+    },
+    {
+      "factId": "franz-liszt-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Franz Liszt's recorded life dates place this profile around 1811-1886."
+    },
+    {
+      "factId": "franz-liszt-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Franz Liszt is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "franz-liszt-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Franz Liszt's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "franz-liszt-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Franz Liszt has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

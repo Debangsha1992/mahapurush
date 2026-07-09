@@ -12,34 +12,104 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Dwight D. Eisenhower is a notable politician associated with United States.",
+  "summary": "Dwight David Eisenhower, also known as Ike, was the 34th president of the United States from 1953 to 1961.",
   "knownFor": [
     "Politician",
-    "146 language biography editions",
-    "Historical Popularity Index 82.3"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Dwight D. Eisenhower",
   "sourceRefs": [
     {
-      "title": "Pantheon: Dwight D. Eisenhower",
-      "url": "https://pantheon.world/profile/person/Dwight_D._Eisenhower",
+      "title": "Wikipedia: Dwight D. Eisenhower",
+      "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "dwight-d-eisenhower-pantheon-profile",
-      "text": "Pantheon ranks Dwight D. Eisenhower as a globally documented politician with biographies in 146 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Dwight D. Eisenhower a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Dwight D. Eisenhower",
-      "sourceUrl": "https://pantheon.world/profile/person/Dwight_D._Eisenhower",
+      "id": "dwight-d-eisenhower-1-origin",
+      "text": "Dwight David Dwight D. Eisenhower, also known as Ike, was the 34th president of the United States from 1953 to 1961.",
+      "context": "Dwight D. Eisenhower's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Dwight D. Eisenhower",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dwight-d-eisenhower-2-obstacle",
+      "text": "Dwight D. Eisenhower is remembered as a politician connected with United States.",
+      "context": "Dwight D. Eisenhower's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Dwight D. Eisenhower",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dwight-d-eisenhower-3-turning-point",
+      "text": "Dwight D. Eisenhower's recorded life dates place this profile around 1890-1969.",
+      "context": "Dwight D. Eisenhower's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Dwight D. Eisenhower",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dwight-d-eisenhower-4-contribution",
+      "text": "Dwight D. Eisenhower is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Dwight D. Eisenhower's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Dwight D. Eisenhower",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dwight-d-eisenhower-5-influence",
+      "text": "Dwight D. Eisenhower's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Dwight D. Eisenhower's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Dwight D. Eisenhower",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

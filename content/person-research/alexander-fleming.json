@@ -1,0 +1,47 @@
+{
+  "personId": "alexander-fleming",
+  "slug": "alexander-fleming",
+  "name": "Alexander Fleming",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Alexander Fleming",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Scottish physician and microbiologist (1881–1955)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alexander-fleming-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Sir Alexander Fleming was a Scottish physician and microbiologist."
+    },
+    {
+      "factId": "alexander-fleming-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Alexander Fleming shared the 1945 Nobel Prize in Physiology or Medicine with Howard Florey and Ernst Chain \"for the discovery of penicillin and its curative effect in various infectious diseases\"."
+    },
+    {
+      "factId": "alexander-fleming-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Fleming is remembered as a biologist connected with United Kingdom."
+    },
+    {
+      "factId": "alexander-fleming-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Fleming's recorded life dates place this profile around 1881-1955."
+    },
+    {
+      "factId": "alexander-fleming-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Fleming is grouped with Science, Math & Technology in the People Library."
+    }
+  ]
+}

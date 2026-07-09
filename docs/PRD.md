@@ -8,7 +8,7 @@
 | Subtitle | Inspired by Mahapurusher Mohakotha |
 | Version | 1.0 MVP |
 | Owner | Debangsha |
-| Target users | Students aged 15-18 |
+| Target users | Curious people across life stages |
 | Platform | Responsive web, mobile-first |
 | Language | English for MVP |
 | Authentication | None for MVP |
@@ -16,29 +16,29 @@
 
 ## 1. Product Summary
 
-MindSpark helps teenagers discover the world's great thinkers through short, interactive learning experiences. The product should feel like a thinking gym: students learn a powerful idea, apply it to a modern dilemma, reflect privately, and grow a visible set of mental skills.
+MindSpark helps modern learners discover the world's great thinkers through short, interactive learning experiences. The product should feel like a thinking gym: users learn a powerful idea, apply it to a modern dilemma, reflect privately, and grow a visible set of mental skills.
 
 The product is not a quote collection or a biography app. Its central promise is:
 
 > Learn how great minds questioned the world, then learn to question it yourself.
 
-Success means a student can look at a problem from their own life and ask, "How would this thinker approach this?" The app should inform, educate, and provoke independent thought without becoming preachy or academic.
+Success means a user can look at a problem from their own life and ask, "How would this thinker approach this?" The app should inform, educate, and provoke independent thought without becoming preachy or academic.
 
 ## 2. Problem Statement
 
-Students often meet great thinkers through textbooks, dates, exams, and isolated quotes. That format rarely helps them understand why the ideas mattered or how those ideas can be used in real life.
+People often meet great thinkers through textbooks, dates, exams, and isolated quotes. That format rarely helps them understand why the ideas mattered or how those ideas can be used in real life.
 
-Teenagers aged 15-18 are ready for serious questions about identity, justice, ambition, technology, relationships, success, courage, and meaning. They need content that is short, emotionally relevant, visually clear, and intellectually honest.
+Modern learners across ages are ready for serious questions about identity, justice, ambition, technology, relationships, success, courage, and meaning. They need content that is short, emotionally relevant, visually clear, and intellectually honest.
 
 MindSpark fills the gap between dry school material and shallow inspirational content by turning great ideas into applied thinking exercises.
 
 ## 3. Product Vision
 
-MindSpark should become a daily practice app for independent thought. It should help students:
+MindSpark should become a daily practice app for independent thought. It should help users:
 
 - Understand great thinkers as real humans who faced real problems.
 - Learn one clear idea at a time.
-- Apply ideas to modern teenage situations.
+- Apply ideas to modern situations across work, family, technology, and civic life.
 - See disagreement between thinkers as a strength, not confusion.
 - Build mental skills such as questioning, logic, courage, empathy, imagination, justice, and self-awareness.
 - Keep a private record of how their thinking changes over time.
@@ -47,19 +47,19 @@ MindSpark should become a daily practice app for independent thought. It should 
 
 ### Primary Audience
 
-Students aged 15-18.
+Curious people across life stages.
 
-They are old enough for complex ideas but need those ideas presented with clarity, emotion, and relevance. The tone should respect their intelligence without sounding like a lecture.
+They may be students, working adults, parents, caregivers, career changers, or lifelong learners. The tone should respect their intelligence without sounding like a lecture.
 
 ### User Needs
 
 | User type | Need | Product response |
 | --- | --- | --- |
-| Curious student | Wants ideas that feel alive | Hooks, dilemmas, modern examples |
-| Exam-focused student | Has limited time | 60-second Quick Spark option |
-| Creative student | Wants imagination and self-expression | Creative Mind path, quote cards, journal prompts |
-| Socially conscious student | Cares about fairness and society | Justice path, Ambedkar, MLK, Mandela, Beauvoir |
-| Quiet reflective student | Wants private thinking space | Mind Journal, no public ranking |
+| Curious learner | Wants ideas that feel alive | Hooks, dilemmas, modern examples |
+| Time-strapped adult | Has limited time | 60-second Quick Spark option |
+| Creative thinker | Wants imagination and self-expression | Creative Mind path, quote cards, journal prompts |
+| Socially conscious learner | Cares about fairness and society | Justice path, Ambedkar, MLK, Mandela, Beauvoir |
+| Private reflector | Wants private thinking space | Mind Journal, no public ranking |
 
 ### What Users Usually Dislike
 
@@ -76,10 +76,10 @@ They are old enough for complex ideas but need those ideas presented with clarit
 - Dilemmas.
 - Debate.
 - Identity.
-- Rebellion.
+- Intellectual independence.
 - Progress and unlocks.
 - "What would you do?" questions.
-- Real-life topics such as friends, school, social media, family expectations, AI, climate, career, justice, love, fear, and purpose.
+- Real-life topics such as social media, work, family expectations, caregiving, AI, climate, money, career, justice, love, fear, and purpose.
 
 ## 5. Positioning
 
@@ -101,7 +101,7 @@ Supporting message:
 - Require no login, signup, or authentication.
 - Offer a Daily Spark habit loop.
 - Provide 20 thinkers with 5 lessons each.
-- Organize discovery around teen-relevant problems, not only academic categories.
+- Organize discovery around modern human problems, not only academic categories.
 - Use a consistent lesson format: hook, story, big idea, modern scenario, challenge, reflection, thought tension, reward.
 - Store progress and journal entries locally in the browser.
 - Provide basic gamification through XP, streaks, badges, and skill growth.
@@ -136,10 +136,10 @@ flowchart LR
   Grow --> Discover
 ```
 
-1. Discover: A provocative Daily Spark or library category pulls the student in.
+1. Discover: A provocative Daily Spark or library category pulls the user in.
 2. Learn: A short story explains the thinker and the central idea.
-3. Apply: A modern scenario forces the student to use the idea.
-4. Reflect: The student writes, chooses, ranks, or debates a position.
+3. Apply: A modern scenario forces the user to use the idea.
+4. Reflect: The user writes, chooses, ranks, or debates a position.
 5. Grow: The app rewards thinking progress through XP, badges, skills, and journal history.
 
 ## 8. Information Architecture
@@ -263,8 +263,8 @@ Acceptance criteria:
 | Requirement | Acceptance |
 | --- | --- |
 | Lesson is bite-sized | Full Lesson can be completed in 3-5 minutes |
-| Student applies idea | Every lesson includes a modern scenario |
-| Student reflects | Every lesson includes a private response prompt |
+| User applies idea | Every lesson includes a modern scenario |
+| User reflects | Every lesson includes a private response prompt |
 | Thought is not one-sided | Every lesson includes Thought Tension |
 | Reward is meaningful | Reward maps to a mental skill |
 | Progress persists | Current step saves locally after each card |
@@ -273,7 +273,7 @@ Acceptance criteria:
 
 Priority: P0
 
-The library should let students enter through problems they care about, not only through alphabetical names.
+The library should let users enter through problems they care about, not only through alphabetical names.
 
 Primary categories:
 
@@ -331,7 +331,7 @@ Acceptance criteria:
 
 Priority: P0
 
-Learning paths group thinkers by student motivation.
+Learning paths group thinkers by user motivation.
 
 MVP paths:
 
@@ -363,7 +363,7 @@ Journal entries should include:
 - Thinker.
 - Lesson.
 - Prompt.
-- Student response.
+- User response.
 - Related skill.
 
 Features:
@@ -508,8 +508,8 @@ Every lesson must answer:
 2. What problem did they care about?
 3. What was their big idea?
 4. Why was the idea dangerous, unusual, or powerful?
-5. How does it apply to a teenager today?
-6. What question should the student ask themselves?
+5. How does it apply to someone living with modern technology, work, family, and civic pressure?
+6. What question should the user ask themselves?
 7. What action or challenge should they do?
 
 If a lesson does not answer these questions, it should not ship.
@@ -529,7 +529,7 @@ The voice should be:
 
 Bad:
 
-> Dear students, today we shall learn about the great philosopher Socrates.
+> Dear learners, today we shall learn about the great philosopher Socrates.
 
 Better:
 
@@ -539,7 +539,7 @@ Sensitive topics such as caste, race, religion, political violence, gender, and 
 
 ## 13. UX and Visual Direction
 
-The app should feel like a modern learning app for young adults.
+The app should feel like a modern learning app for thoughtful people across ages.
 
 Design principles:
 
@@ -603,9 +603,9 @@ Analytics should be privacy-friendly. Recommended options are Vercel Analytics o
 | Phase | Scope | Exit criteria |
 | --- | --- | --- |
 | Alpha | 5 thinkers, Daily Spark, lesson flow, local progress | Core loop works end-to-end |
-| Beta | 20 thinkers, paths, journal, skill tree | Content and retention tested with real students |
+| Beta | 20 thinkers, paths, journal, skill tree | Content and retention tested with real users across life stages |
 | MVP launch | Quote cards, weekly challenges, polish, Vercel production | Public launch-ready |
-| v1.1 | Static Thought Battles, Deep Dive layer | Students can compare opposing views |
+| v1.1 | Static Thought Battles, Deep Dive layer | Users can compare opposing views |
 | v2 | Optional auth, cloud sync, AI coach, i18n | Data and safety model reviewed |
 
 ## 17. Future Features

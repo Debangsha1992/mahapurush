@@ -1,0 +1,46 @@
+{
+  "personId": "federico-fellini",
+  "slug": "federico-fellini",
+  "name": "Federico Fellini",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Federico Fellini",
+      "url": "https://pantheon.world/profile/person/Federico_Fellini",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "federico-fellini-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Federico Fellini is remembered as a film director connected with Italy."
+    },
+    {
+      "factId": "federico-fellini-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Federico Fellini's recorded life dates place this profile around 1920-1993."
+    },
+    {
+      "factId": "federico-fellini-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Federico Fellini is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "federico-fellini-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Federico Fellini's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "federico-fellini-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Federico Fellini has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "charlie-chaplin",
+  "slug": "charlie-chaplin",
+  "name": "Charlie Chaplin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charlie Chaplin",
+      "url": "https://pantheon.world/profile/person/Charlie_Chaplin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charlie-chaplin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charlie Chaplin is remembered as a actor connected with United Kingdom."
+    },
+    {
+      "factId": "charlie-chaplin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charlie Chaplin's recorded life dates place this profile around 1889-1977."
+    },
+    {
+      "factId": "charlie-chaplin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charlie Chaplin is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "charlie-chaplin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charlie Chaplin's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "charlie-chaplin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charlie Chaplin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

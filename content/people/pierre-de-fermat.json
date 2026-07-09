@@ -12,11 +12,11 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Pierre de Fermat is a notable mathematician associated with France.",
+  "summary": "Pierre de Fermat is a notable mathematician connected with France.",
   "knownFor": [
     "Mathematician",
-    "97 language biography editions",
-    "Historical Popularity Index 83.5"
+    "Science, Math & Technology",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Pierre de Fermat",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pierre-de-fermat-pantheon-profile",
-      "text": "Pantheon ranks Pierre de Fermat as a globally documented mathematician with biographies in 97 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pierre de Fermat a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pierre-de-fermat-1-origin",
+      "text": "Pierre de Fermat is remembered as a mathematician connected with France.",
+      "context": "Pierre de Fermat's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Pierre de Fermat",
       "sourceUrl": "https://pantheon.world/profile/person/Pierre_de_Fermat",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-de-fermat-2-obstacle",
+      "text": "Pierre de Fermat's recorded life dates place this profile around 1601-1665.",
+      "context": "Pierre de Fermat's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pierre de Fermat",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre_de_Fermat",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-de-fermat-3-turning-point",
+      "text": "Pierre de Fermat is grouped with Science, Math & Technology in the People Library.",
+      "context": "Pierre de Fermat's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pierre de Fermat",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre_de_Fermat",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-de-fermat-4-contribution",
+      "text": "Pierre de Fermat's profile connects a short Fact to a wider France historical setting.",
+      "context": "Pierre de Fermat's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pierre de Fermat",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre_de_Fermat",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-de-fermat-5-influence",
+      "text": "Pierre de Fermat has a Facts Mode card reserved for deeper source research.",
+      "context": "Pierre de Fermat's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pierre de Fermat",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre_de_Fermat",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

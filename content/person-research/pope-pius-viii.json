@@ -1,0 +1,46 @@
+{
+  "personId": "pope-pius-viii",
+  "slug": "pope-pius-viii",
+  "name": "Pope Pius VIII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Pius VIII",
+      "url": "https://pantheon.world/profile/person/Pope_Pius_VIII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-pius-viii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VIII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-pius-viii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VIII's recorded life dates place this profile around 1761-1830."
+    },
+    {
+      "factId": "pope-pius-viii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VIII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-pius-viii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VIII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-pius-viii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VIII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

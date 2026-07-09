@@ -1,0 +1,47 @@
+{
+  "personId": "stendhal",
+  "slug": "stendhal",
+  "name": "Stendhal",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Stendhal",
+      "url": "https://en.wikipedia.org/wiki/Stendhal",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "French writer (1783–1842)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "stendhal-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Marie-Henri Beyle, better known by his pen name Stendhal, was a French writer."
+    },
+    {
+      "factId": "stendhal-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Stendhal is remembered as a writer connected with France."
+    },
+    {
+      "factId": "stendhal-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Stendhal's recorded life dates place this profile around 1783-1842."
+    },
+    {
+      "factId": "stendhal-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Stendhal is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "stendhal-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Stendhal's profile connects a short Fact to a wider France historical setting."
+    }
+  ]
+}

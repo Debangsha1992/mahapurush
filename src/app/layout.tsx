@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import { AppShell } from "@/components/layout/app-shell";
 import { ProgressProvider } from "@/components/progress/progress-provider";
 import "./globals.css";
@@ -38,6 +39,7 @@ export default function RootLayout({
         <ProgressProvider>
           <AppShell>{children}</AppShell>
         </ProgressProvider>
+        <Analytics />
       </body>
     </html>
   );

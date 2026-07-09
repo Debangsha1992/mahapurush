@@ -1,0 +1,46 @@
+{
+  "personId": "marilyn-monroe",
+  "slug": "marilyn-monroe",
+  "name": "Marilyn Monroe",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Marilyn Monroe",
+      "url": "https://pantheon.world/profile/person/Marilyn_Monroe",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "marilyn-monroe-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Marilyn Monroe is remembered as a actor connected with United States."
+    },
+    {
+      "factId": "marilyn-monroe-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Marilyn Monroe's recorded life dates place this profile around 1926-1962."
+    },
+    {
+      "factId": "marilyn-monroe-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Marilyn Monroe is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "marilyn-monroe-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Marilyn Monroe's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "marilyn-monroe-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Marilyn Monroe has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

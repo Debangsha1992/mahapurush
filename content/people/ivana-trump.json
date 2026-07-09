@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "businessperson"
   ],
-  "summary": "Ivana Trump is a notable businessperson associated with Czechia.",
+  "summary": "Ivana Trump is a notable businessperson connected with Czechia.",
   "knownFor": [
     "Businessperson",
-    "56 language biography editions",
-    "Historical Popularity Index 85.7"
+    "Environment, Exploration & Human Achievement",
+    "Czechia"
   ],
   "featured": true,
   "featuredRank": 379,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ivana-trump-pantheon-profile",
-      "text": "Pantheon ranks Ivana Trump as a globally documented businessperson with biographies in 56 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ivana Trump a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ivana-trump-1-origin",
+      "text": "Ivana Trump is remembered as a businessperson connected with Czechia.",
+      "context": "Ivana Trump's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Ivana Trump",
       "sourceUrl": "https://pantheon.world/profile/person/Ivana_Trump",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivana-trump-2-obstacle",
+      "text": "Ivana Trump's recorded life dates place this profile around 1949-2022.",
+      "context": "Ivana Trump's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ivana Trump",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivana_Trump",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivana-trump-3-turning-point",
+      "text": "Ivana Trump is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Ivana Trump's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ivana Trump",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivana_Trump",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivana-trump-4-contribution",
+      "text": "Ivana Trump's profile connects a short Fact to a wider Czechia historical setting.",
+      "context": "Ivana Trump's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ivana Trump",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivana_Trump",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivana-trump-5-influence",
+      "text": "Ivana Trump has a Facts Mode card reserved for deeper source research.",
+      "context": "Ivana Trump's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ivana Trump",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivana_Trump",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

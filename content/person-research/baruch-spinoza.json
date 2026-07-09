@@ -1,0 +1,46 @@
+{
+  "personId": "baruch-spinoza",
+  "slug": "baruch-spinoza",
+  "name": "Baruch Spinoza",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Baruch Spinoza",
+      "url": "https://pantheon.world/profile/person/Baruch_Spinoza",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "baruch-spinoza-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Baruch Spinoza is remembered as a philosopher connected with Netherlands."
+    },
+    {
+      "factId": "baruch-spinoza-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Baruch Spinoza's recorded life dates place this profile around 1632-1677."
+    },
+    {
+      "factId": "baruch-spinoza-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Baruch Spinoza is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "baruch-spinoza-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Baruch Spinoza's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "baruch-spinoza-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Baruch Spinoza has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

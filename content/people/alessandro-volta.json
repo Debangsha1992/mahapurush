@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Alessandro Volta is a notable physicist associated with Italy.",
+  "summary": "Alessandro Volta is a notable physicist connected with Italy.",
   "knownFor": [
     "Physicist",
-    "107 language biography editions",
-    "Historical Popularity Index 85.3"
+    "Science, Math & Technology",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 405,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "alessandro-volta-pantheon-profile",
-      "text": "Pantheon ranks Alessandro Volta as a globally documented physicist with biographies in 107 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Alessandro Volta a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "alessandro-volta-1-origin",
+      "text": "Alessandro Volta is remembered as a physicist connected with Italy.",
+      "context": "Alessandro Volta's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Alessandro Volta",
       "sourceUrl": "https://pantheon.world/profile/person/Alessandro_Volta",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alessandro-volta-2-obstacle",
+      "text": "Alessandro Volta's recorded life dates place this profile around 1745-1827.",
+      "context": "Alessandro Volta's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Alessandro Volta",
+      "sourceUrl": "https://pantheon.world/profile/person/Alessandro_Volta",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alessandro-volta-3-turning-point",
+      "text": "Alessandro Volta is grouped with Science, Math & Technology in the People Library.",
+      "context": "Alessandro Volta's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Alessandro Volta",
+      "sourceUrl": "https://pantheon.world/profile/person/Alessandro_Volta",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alessandro-volta-4-contribution",
+      "text": "Alessandro Volta's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Alessandro Volta's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Alessandro Volta",
+      "sourceUrl": "https://pantheon.world/profile/person/Alessandro_Volta",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alessandro-volta-5-influence",
+      "text": "Alessandro Volta has a Facts Mode card reserved for deeper source research.",
+      "context": "Alessandro Volta's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Alessandro Volta",
+      "sourceUrl": "https://pantheon.world/profile/person/Alessandro_Volta",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

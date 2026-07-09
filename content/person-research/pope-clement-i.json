@@ -1,0 +1,46 @@
+{
+  "personId": "pope-clement-i",
+  "slug": "pope-clement-i",
+  "name": "Pope Clement I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Clement I",
+      "url": "https://pantheon.world/profile/person/Pope_Clement_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-clement-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement I is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-clement-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement I's recorded life dates place this profile around 40-99."
+    },
+    {
+      "factId": "pope-clement-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement I is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-clement-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement I's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-clement-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

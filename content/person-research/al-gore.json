@@ -1,0 +1,46 @@
+{
+  "personId": "al-gore",
+  "slug": "al-gore",
+  "name": "Al Gore",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Al Gore",
+      "url": "https://pantheon.world/profile/person/Al_Gore",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "al-gore-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Al Gore is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "al-gore-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Al Gore's recorded life dates place this profile around born 1948."
+    },
+    {
+      "factId": "al-gore-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Al Gore is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "al-gore-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Al Gore's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "al-gore-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Al Gore has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

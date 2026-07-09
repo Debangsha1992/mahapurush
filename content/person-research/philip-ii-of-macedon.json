@@ -1,0 +1,46 @@
+{
+  "personId": "philip-ii-of-macedon",
+  "slug": "philip-ii-of-macedon",
+  "name": "Philip II of Macedon",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Philip II of Macedon",
+      "url": "https://pantheon.world/profile/person/Philip_II_of_Macedon",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "philip-ii-of-macedon-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Philip II of Macedon is remembered as a politician connected with Greece."
+    },
+    {
+      "factId": "philip-ii-of-macedon-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Philip II of Macedon's recorded life dates place this profile around -382--336."
+    },
+    {
+      "factId": "philip-ii-of-macedon-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Philip II of Macedon is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "philip-ii-of-macedon-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Philip II of Macedon's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "philip-ii-of-macedon-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Philip II of Macedon has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

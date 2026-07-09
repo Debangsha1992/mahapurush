@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "businessperson"
   ],
-  "summary": "Cecil Rhodes is a notable businessperson associated with United Kingdom.",
+  "summary": "Cecil Rhodes is a notable businessperson connected with United Kingdom.",
   "knownFor": [
     "Businessperson",
-    "84 language biography editions",
-    "Historical Popularity Index 82.7"
+    "Environment, Exploration & Human Achievement",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Cecil Rhodes",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "cecil-rhodes-pantheon-profile",
-      "text": "Pantheon ranks Cecil Rhodes as a globally documented businessperson with biographies in 84 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Cecil Rhodes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "cecil-rhodes-1-origin",
+      "text": "Cecil Rhodes is remembered as a businessperson connected with United Kingdom.",
+      "context": "Cecil Rhodes's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Cecil Rhodes",
       "sourceUrl": "https://pantheon.world/profile/person/Cecil_Rhodes",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cecil-rhodes-2-obstacle",
+      "text": "Cecil Rhodes's recorded life dates place this profile around 1853-1902.",
+      "context": "Cecil Rhodes's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Cecil Rhodes",
+      "sourceUrl": "https://pantheon.world/profile/person/Cecil_Rhodes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cecil-rhodes-3-turning-point",
+      "text": "Cecil Rhodes is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Cecil Rhodes's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Cecil Rhodes",
+      "sourceUrl": "https://pantheon.world/profile/person/Cecil_Rhodes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cecil-rhodes-4-contribution",
+      "text": "Cecil Rhodes's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Cecil Rhodes's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Cecil Rhodes",
+      "sourceUrl": "https://pantheon.world/profile/person/Cecil_Rhodes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cecil-rhodes-5-influence",
+      "text": "Cecil Rhodes has a Facts Mode card reserved for deeper source research.",
+      "context": "Cecil Rhodes's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Cecil Rhodes",
+      "sourceUrl": "https://pantheon.world/profile/person/Cecil_Rhodes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

@@ -17,6 +17,24 @@ export const personReviewStatusSchema = z.enum([
   "featured-approved",
   "published",
 ]);
+export const factSourceTypeSchema = z.enum([
+  "primary",
+  "reference",
+  "scholarly",
+  "news",
+  "institutional",
+]);
+export const factClaimStatusSchema = z.enum([
+  "verified",
+  "disputed",
+  "tradition",
+  "current-as-of",
+]);
+export const factEditorialStatusSchema = z.enum([
+  "draft",
+  "source-checked",
+  "facts-mode-approved",
+]);
 
 const httpsUrlSchema = z
   .string()
@@ -112,15 +130,42 @@ export const thinkerSchema = z.object({
   summary: z.string().min(1),
 });
 
+function sentenceCount(value: string): number {
+  const normalized = value
+    .replace(/\b(?:U\.S|U\.K|St|Dr|Mr|Mrs|Ms|Prof|Jr|Sr|c)\./gi, (match) =>
+      match.replaceAll(".", ""),
+    )
+    .replace(/\b[A-Z]\./g, (match) => match.replace(".", ""));
+
+  return normalized
+    .split(/[.!?]+/)
+    .map((sentence) => sentence.trim())
+    .filter(Boolean).length;
+}
+
+const biteSizedTextSchema = z
+  .string()
+  .min(20)
+  .max(320)
+  .refine((value) => sentenceCount(value) <= 2, {
+    message: "Facts Mode copy must be no more than two sentences",
+  });
+
 export const factSchema = z.object({
   id: z.string().min(1),
-  text: z.string().min(20).max(280),
-  context: z.string().min(40).max(600),
+  text: biteSizedTextSchema,
+  context: biteSizedTextSchema,
   sourceTitle: z.string().min(1),
   sourceUrl: httpsUrlSchema,
   sourceAccessedAt: z.string().min(1),
+  sourceType: factSourceTypeSchema,
+  claimStatus: factClaimStatusSchema,
+  editorialStatus: factEditorialStatusSchema.default("draft"),
+  sourceExcerpt: z.string().min(1).optional(),
+  sourceNote: z.string().min(1).optional(),
   sourceDate: z.string().min(1).optional(),
   currentAsOf: z.string().min(1).optional(),
+  storyAngle: z.string().min(1).optional(),
   tags: z.array(z.string().min(1)).min(1),
   verified: z.boolean(),
 });
@@ -152,7 +197,7 @@ export const notablePersonSchema = z.object({
   reviewStatus: personReviewStatusSchema,
   thinkerId: z.string().min(1).optional(),
   sensitiveContextNote: z.string().min(1).optional(),
-  facts: z.array(factSchema).min(1),
+  facts: z.array(factSchema),
 });
 
 export const pathSchema = z.object({
@@ -222,6 +267,9 @@ export type LifeStoryPage = z.infer<typeof lifeStoryPageSchema>;
 export type LifeStory = z.infer<typeof lifeStorySchema>;
 export type Thinker = z.infer<typeof thinkerSchema>;
 export type Fact = z.infer<typeof factSchema>;
+export type FactSourceType = z.infer<typeof factSourceTypeSchema>;
+export type FactClaimStatus = z.infer<typeof factClaimStatusSchema>;
+export type FactEditorialStatus = z.infer<typeof factEditorialStatusSchema>;
 export type SourceRef = z.infer<typeof sourceRefSchema>;
 export type NotablePerson = z.infer<typeof notablePersonSchema>;
 export type FactWithPerson = Fact & {

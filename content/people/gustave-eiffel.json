@@ -12,11 +12,11 @@
     "science-math-technology",
     "engineer"
   ],
-  "summary": "Gustave Eiffel is a notable engineer associated with France.",
+  "summary": "Gustave Eiffel is a notable engineer connected with France.",
   "knownFor": [
     "Engineer",
-    "95 language biography editions",
-    "Historical Popularity Index 83.3"
+    "Science, Math & Technology",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Gustave Eiffel",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "gustave-eiffel-pantheon-profile",
-      "text": "Pantheon ranks Gustave Eiffel as a globally documented engineer with biographies in 95 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Gustave Eiffel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "gustave-eiffel-1-origin",
+      "text": "Gustave Eiffel is remembered as a engineer connected with France.",
+      "context": "Gustave Eiffel's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Gustave Eiffel",
       "sourceUrl": "https://pantheon.world/profile/person/Gustave_Eiffel",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustave-eiffel-2-obstacle",
+      "text": "Gustave Eiffel's recorded life dates place this profile around 1832-1923.",
+      "context": "Gustave Eiffel's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Gustave Eiffel",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustave_Eiffel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustave-eiffel-3-turning-point",
+      "text": "Gustave Eiffel is grouped with Science, Math & Technology in the People Library.",
+      "context": "Gustave Eiffel's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Gustave Eiffel",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustave_Eiffel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustave-eiffel-4-contribution",
+      "text": "Gustave Eiffel's profile connects a short Fact to a wider France historical setting.",
+      "context": "Gustave Eiffel's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Gustave Eiffel",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustave_Eiffel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustave-eiffel-5-influence",
+      "text": "Gustave Eiffel has a Facts Mode card reserved for deeper source research.",
+      "context": "Gustave Eiffel's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Gustave Eiffel",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustave_Eiffel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

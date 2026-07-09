@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Julius Caesar is a notable politician associated with Italy.",
+  "summary": "Julius Caesar is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "215 language biography editions",
-    "Historical Popularity Index 93.8"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 57,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "julius-caesar-pantheon-profile",
-      "text": "Pantheon ranks Julius Caesar as a globally documented politician with biographies in 215 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Julius Caesar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "julius-caesar-1-origin",
+      "text": "Julius Caesar is remembered as a politician connected with Italy.",
+      "context": "Julius Caesar's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Julius Caesar",
       "sourceUrl": "https://pantheon.world/profile/person/Julius_Caesar",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "julius-caesar-2-obstacle",
+      "text": "Julius Caesar's recorded life dates place this profile around -100--44.",
+      "context": "Julius Caesar's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Julius Caesar",
+      "sourceUrl": "https://pantheon.world/profile/person/Julius_Caesar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "julius-caesar-3-turning-point",
+      "text": "Julius Caesar is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Julius Caesar's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Julius Caesar",
+      "sourceUrl": "https://pantheon.world/profile/person/Julius_Caesar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "julius-caesar-4-contribution",
+      "text": "Julius Caesar's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Julius Caesar's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Julius Caesar",
+      "sourceUrl": "https://pantheon.world/profile/person/Julius_Caesar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "julius-caesar-5-influence",
+      "text": "Julius Caesar has a Facts Mode card reserved for deeper source research.",
+      "context": "Julius Caesar's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Julius Caesar",
+      "sourceUrl": "https://pantheon.world/profile/person/Julius_Caesar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

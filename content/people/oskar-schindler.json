@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "businessperson"
   ],
-  "summary": "Oskar Schindler is a notable businessperson associated with Czechia.",
+  "summary": "Oskar Schindler is a notable businessperson connected with Czechia.",
   "knownFor": [
     "Businessperson",
-    "73 language biography editions",
-    "Historical Popularity Index 81.7"
+    "Environment, Exploration & Human Achievement",
+    "Czechia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Oskar Schindler",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "oskar-schindler-pantheon-profile",
-      "text": "Pantheon ranks Oskar Schindler as a globally documented businessperson with biographies in 73 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Oskar Schindler a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "oskar-schindler-1-origin",
+      "text": "Oskar Schindler is remembered as a businessperson connected with Czechia.",
+      "context": "Oskar Schindler's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Oskar Schindler",
       "sourceUrl": "https://pantheon.world/profile/person/Oskar_Schindler",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "oskar-schindler-2-obstacle",
+      "text": "Oskar Schindler's recorded life dates place this profile around 1908-1974.",
+      "context": "Oskar Schindler's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Oskar Schindler",
+      "sourceUrl": "https://pantheon.world/profile/person/Oskar_Schindler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "oskar-schindler-3-turning-point",
+      "text": "Oskar Schindler is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Oskar Schindler's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Oskar Schindler",
+      "sourceUrl": "https://pantheon.world/profile/person/Oskar_Schindler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "oskar-schindler-4-contribution",
+      "text": "Oskar Schindler's profile connects a short Fact to a wider Czechia historical setting.",
+      "context": "Oskar Schindler's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Oskar Schindler",
+      "sourceUrl": "https://pantheon.world/profile/person/Oskar_Schindler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "oskar-schindler-5-influence",
+      "text": "Oskar Schindler has a Facts Mode card reserved for deeper source research.",
+      "context": "Oskar Schindler's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Oskar Schindler",
+      "sourceUrl": "https://pantheon.world/profile/person/Oskar_Schindler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

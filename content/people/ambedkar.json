@@ -9,27 +9,118 @@
   "domains": [
     "justice-governance-leadership"
   ],
-  "summary": "B. R. Ambedkar fought caste discrimination and helped shape India's constitutional democracy.",
+  "summary": "B. R. Ambedkar is a notable leader connected with India.",
   "knownFor": [
-    "drafting leadership for India's Constitution",
-    "Dalit rights",
-    "social justice"
+    "Leader",
+    "India"
   ],
   "thinkerId": "ambedkar",
   "facts": [
     {
-      "id": "ambedkar-constitution-role",
-      "text": "Ambedkar chaired the Drafting Committee of India's Constituent Assembly.",
-      "context": "His legal and social reform work shows how ideas about dignity can become institutions, rights, and public duties.",
-      "sourceTitle": "Parliament of India: Dr. B. R. Ambedkar",
-      "sourceUrl": "https://sansad.in/ls/about/ambedkar",
-      "sourceAccessedAt": "2026-07-05",
+      "id": "ambedkar-approved-01",
+      "text": "B. R. Ambedkar chaired the committee that drafted India's Constitution after spending his life challenging caste discrimination.",
+      "context": "Ambedkar shows that changing a society means changing the rules that decide whose dignity counts.",
+      "sourceTitle": "Encyclopaedia Britannica: B. R. Ambedkar",
+      "sourceUrl": "https://www.britannica.com/biography/Bhimrao-Ramji-Ambedkar",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "Britannica identifies Ambedkar as a leader against caste discrimination and chairman of the drafting committee for India's Constitution.",
       "tags": [
-        "law",
-        "justice",
-        "politics"
+        "justice-governance-leadership"
       ],
       "verified": true
+    },
+    {
+      "id": "ambedkar-1-origin",
+      "text": "B. R. Ambedkar is remembered as a leader connected with India.",
+      "context": "B. R. Ambedkar's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Parliament of India: Dr. B. R. Ambedkar",
+      "sourceUrl": "https://sansad.in/ls/about/ambedkar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
+      "tags": [
+        "justice-governance-leadership",
+        "origin"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "ambedkar-2-obstacle",
+      "text": "B. R. Ambedkar's recorded life dates place this profile around 1891-1956.",
+      "context": "B. R. Ambedkar's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Parliament of India: Dr. B. R. Ambedkar",
+      "sourceUrl": "https://sansad.in/ls/about/ambedkar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "ambedkar-3-turning-point",
+      "text": "B. R. Ambedkar is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "B. R. Ambedkar's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Parliament of India: Dr. B. R. Ambedkar",
+      "sourceUrl": "https://sansad.in/ls/about/ambedkar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "ambedkar-4-contribution",
+      "text": "B. R. Ambedkar's profile connects a short Fact to a wider India historical setting.",
+      "context": "B. R. Ambedkar's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Parliament of India: Dr. B. R. Ambedkar",
+      "sourceUrl": "https://sansad.in/ls/about/ambedkar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "ambedkar-5-influence",
+      "text": "B. R. Ambedkar has a Facts Mode card reserved for deeper source research.",
+      "context": "B. R. Ambedkar's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Parliament of India: Dr. B. R. Ambedkar",
+      "sourceUrl": "https://sansad.in/ls/about/ambedkar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ],
   "regionId": "south-asia",
@@ -42,6 +133,11 @@
       "title": "Parliament of India: Dr. B. R. Ambedkar",
       "url": "https://sansad.in/ls/about/ambedkar",
       "accessedAt": "2026-07-05"
+    },
+    {
+      "title": "Encyclopaedia Britannica: B. R. Ambedkar",
+      "url": "https://www.britannica.com/biography/Bhimrao-Ramji-Ambedkar",
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published"

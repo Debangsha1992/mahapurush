@@ -1,0 +1,46 @@
+{
+  "personId": "john-amos-comenius",
+  "slug": "john-amos-comenius",
+  "name": "John Amos Comenius",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John Amos Comenius",
+      "url": "https://pantheon.world/profile/person/John_Amos_Comenius",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-amos-comenius-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John Amos Comenius is remembered as a philosopher connected with Czechia."
+    },
+    {
+      "factId": "john-amos-comenius-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John Amos Comenius's recorded life dates place this profile around 1592-1670."
+    },
+    {
+      "factId": "john-amos-comenius-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John Amos Comenius is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "john-amos-comenius-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John Amos Comenius's profile connects a short Fact to a wider Czechia historical setting."
+    },
+    {
+      "factId": "john-amos-comenius-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John Amos Comenius has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

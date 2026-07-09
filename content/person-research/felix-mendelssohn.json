@@ -1,0 +1,46 @@
+{
+  "personId": "felix-mendelssohn",
+  "slug": "felix-mendelssohn",
+  "name": "Felix Mendelssohn",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Felix Mendelssohn",
+      "url": "https://pantheon.world/profile/person/Felix_Mendelssohn",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "felix-mendelssohn-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Felix Mendelssohn is remembered as a composer connected with Germany."
+    },
+    {
+      "factId": "felix-mendelssohn-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Felix Mendelssohn's recorded life dates place this profile around 1809-1847."
+    },
+    {
+      "factId": "felix-mendelssohn-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Felix Mendelssohn is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "felix-mendelssohn-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Felix Mendelssohn's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "felix-mendelssohn-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Felix Mendelssohn has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

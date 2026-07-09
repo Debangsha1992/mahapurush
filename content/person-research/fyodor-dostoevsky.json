@@ -1,0 +1,46 @@
+{
+  "personId": "fyodor-dostoevsky",
+  "slug": "fyodor-dostoevsky",
+  "name": "Fyodor Dostoevsky",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Fyodor Dostoevsky",
+      "url": "https://pantheon.world/profile/person/Fyodor_Dostoevsky",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "fyodor-dostoevsky-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Fyodor Dostoevsky is remembered as a writer connected with Russia."
+    },
+    {
+      "factId": "fyodor-dostoevsky-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Fyodor Dostoevsky's recorded life dates place this profile around 1821-1881."
+    },
+    {
+      "factId": "fyodor-dostoevsky-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Fyodor Dostoevsky is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "fyodor-dostoevsky-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Fyodor Dostoevsky's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "fyodor-dostoevsky-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Fyodor Dostoevsky has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "huang-xianfan",
+  "slug": "huang-xianfan",
+  "name": "Huang Xianfan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Huang Xianfan",
+      "url": "https://pantheon.world/profile/person/Huang_Xianfan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "huang-xianfan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Huang Xianfan is remembered as a politician connected with China."
+    },
+    {
+      "factId": "huang-xianfan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Huang Xianfan's recorded life dates place this profile around 1899-1982."
+    },
+    {
+      "factId": "huang-xianfan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Huang Xianfan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "huang-xianfan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Huang Xianfan's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "huang-xianfan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Huang Xianfan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

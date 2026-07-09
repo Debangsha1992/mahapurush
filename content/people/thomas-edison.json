@@ -12,35 +12,101 @@
     "science-math-technology",
     "inventor"
   ],
-  "summary": "Thomas Edison is a notable inventor associated with United States.",
+  "summary": "Thomas Alva Edison was an American inventor and businessman.",
   "knownFor": [
     "Inventor",
-    "189 language biography editions",
-    "Historical Popularity Index 91.6"
+    "Science, Math & Technology",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 87,
   "imageAlt": "Portrait-style visual for Thomas Edison",
   "sourceRefs": [
     {
-      "title": "Pantheon: Thomas Edison",
-      "url": "https://pantheon.world/profile/person/Thomas_Edison",
+      "title": "Wikipedia: Thomas Edison",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "thomas-edison-pantheon-profile",
-      "text": "Pantheon ranks Thomas Edison as a globally documented inventor with biographies in 189 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Thomas Edison a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Thomas Edison",
-      "sourceUrl": "https://pantheon.world/profile/person/Thomas_Edison",
+      "id": "thomas-edison-1-origin",
+      "text": "Thomas Alva Thomas Edison was an American inventor and businessman.",
+      "context": "Thomas Edison's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Thomas Edison",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Edison",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thomas-edison-2-obstacle",
+      "text": "Thomas Edison grew up in Michigan with little formal schooling and began working at a young age.",
+      "context": "Thomas Edison's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Thomas Edison",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thomas-edison-3-turning-point",
+      "text": "Thomas Edison became deaf as a child and learned through books and tinkering.",
+      "context": "Thomas Edison's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Thomas Edison",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thomas-edison-4-contribution",
+      "text": "Thomas Edison had three children with Mary, his first wife, but Edison was neglectful.",
+      "context": "Thomas Edison's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Thomas Edison",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thomas-edison-5-influence",
+      "text": "Thomas Edison had troubled relationships with his kids for the rest of his life.",
+      "context": "Thomas Edison's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Thomas Edison",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "murad-ii",
+  "slug": "murad-ii",
+  "name": "Murad II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Murad II",
+      "url": "https://pantheon.world/profile/person/Murad_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "murad-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Murad II is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "murad-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Murad II's recorded life dates place this profile around 1404-1451."
+    },
+    {
+      "factId": "murad-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Murad II is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "murad-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Murad II's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "murad-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Murad II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

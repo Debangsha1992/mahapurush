@@ -1,0 +1,46 @@
+{
+  "personId": "alessandro-volta",
+  "slug": "alessandro-volta",
+  "name": "Alessandro Volta",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alessandro Volta",
+      "url": "https://pantheon.world/profile/person/Alessandro_Volta",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alessandro-volta-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alessandro Volta is remembered as a physicist connected with Italy."
+    },
+    {
+      "factId": "alessandro-volta-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alessandro Volta's recorded life dates place this profile around 1745-1827."
+    },
+    {
+      "factId": "alessandro-volta-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alessandro Volta is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "alessandro-volta-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alessandro Volta's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "alessandro-volta-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alessandro Volta has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

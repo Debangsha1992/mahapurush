@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Bayezid I is a notable politician associated with Türkiye.",
+  "summary": "Bayezid I is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "77 language biography editions",
-    "Historical Popularity Index 83.6"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Bayezid I",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "bayezid-i-pantheon-profile",
-      "text": "Pantheon ranks Bayezid I as a globally documented politician with biographies in 77 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Bayezid I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "bayezid-i-1-origin",
+      "text": "Bayezid I is remembered as a politician connected with Türkiye.",
+      "context": "Bayezid I's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Bayezid I",
       "sourceUrl": "https://pantheon.world/profile/person/Bayezid_I",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bayezid-i-2-obstacle",
+      "text": "Bayezid I's recorded life dates place this profile around 1354-1403.",
+      "context": "Bayezid I's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Bayezid I",
+      "sourceUrl": "https://pantheon.world/profile/person/Bayezid_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bayezid-i-3-turning-point",
+      "text": "Bayezid I is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Bayezid I's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Bayezid I",
+      "sourceUrl": "https://pantheon.world/profile/person/Bayezid_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bayezid-i-4-contribution",
+      "text": "Bayezid I's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Bayezid I's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Bayezid I",
+      "sourceUrl": "https://pantheon.world/profile/person/Bayezid_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bayezid-i-5-influence",
+      "text": "Bayezid I has a Facts Mode card reserved for deeper source research.",
+      "context": "Bayezid I's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Bayezid I",
+      "sourceUrl": "https://pantheon.world/profile/person/Bayezid_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

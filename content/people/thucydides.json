@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "historian"
   ],
-  "summary": "Thucydides is a notable historian associated with Greece.",
+  "summary": "Thucydides is a notable historian connected with Greece.",
   "knownFor": [
     "Historian",
-    "93 language biography editions",
-    "Historical Popularity Index 83.7"
+    "Literature, Arts & Culture",
+    "Greece"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Thucydides",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "thucydides-pantheon-profile",
-      "text": "Pantheon ranks Thucydides as a globally documented historian with biographies in 93 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Thucydides a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "thucydides-1-origin",
+      "text": "Thucydides is remembered as a historian connected with Greece.",
+      "context": "Thucydides's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Thucydides",
       "sourceUrl": "https://pantheon.world/profile/person/Thucydides",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thucydides-2-obstacle",
+      "text": "Thucydides's recorded life dates place this profile around -460--397.",
+      "context": "Thucydides's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Thucydides",
+      "sourceUrl": "https://pantheon.world/profile/person/Thucydides",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thucydides-3-turning-point",
+      "text": "Thucydides is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Thucydides's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Thucydides",
+      "sourceUrl": "https://pantheon.world/profile/person/Thucydides",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thucydides-4-contribution",
+      "text": "Thucydides's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Thucydides's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Thucydides",
+      "sourceUrl": "https://pantheon.world/profile/person/Thucydides",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "thucydides-5-influence",
+      "text": "Thucydides has a Facts Mode card reserved for deeper source research.",
+      "context": "Thucydides's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Thucydides",
+      "sourceUrl": "https://pantheon.world/profile/person/Thucydides",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

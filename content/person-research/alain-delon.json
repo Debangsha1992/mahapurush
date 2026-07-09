@@ -1,0 +1,46 @@
+{
+  "personId": "alain-delon",
+  "slug": "alain-delon",
+  "name": "Alain Delon",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alain Delon",
+      "url": "https://pantheon.world/profile/person/Alain_Delon",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alain-delon-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alain Delon is remembered as a actor connected with France."
+    },
+    {
+      "factId": "alain-delon-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alain Delon's recorded life dates place this profile around 1935-2024."
+    },
+    {
+      "factId": "alain-delon-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alain Delon is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "alain-delon-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alain Delon's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "alain-delon-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alain Delon has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

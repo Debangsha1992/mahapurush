@@ -1,0 +1,46 @@
+{
+  "personId": "antoine-lavoisier",
+  "slug": "antoine-lavoisier",
+  "name": "Antoine Lavoisier",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Antoine Lavoisier",
+      "url": "https://pantheon.world/profile/person/Antoine_Lavoisier",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "antoine-lavoisier-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Antoine Lavoisier is remembered as a chemist connected with France."
+    },
+    {
+      "factId": "antoine-lavoisier-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Antoine Lavoisier's recorded life dates place this profile around 1743-1794."
+    },
+    {
+      "factId": "antoine-lavoisier-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Antoine Lavoisier is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "antoine-lavoisier-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Antoine Lavoisier's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "antoine-lavoisier-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Antoine Lavoisier has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

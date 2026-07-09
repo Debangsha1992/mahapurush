@@ -1,0 +1,46 @@
+{
+  "personId": "queen-of-sheba",
+  "slug": "queen-of-sheba",
+  "name": "Queen of Sheba",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Queen of Sheba",
+      "url": "https://pantheon.world/profile/person/Queen_of_Sheba",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "queen-of-sheba-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Queen of Sheba is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "queen-of-sheba-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Queen of Sheba's recorded life dates place this profile around -1000--1000."
+    },
+    {
+      "factId": "queen-of-sheba-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Queen of Sheba is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "queen-of-sheba-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Queen of Sheba's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "queen-of-sheba-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Queen of Sheba has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

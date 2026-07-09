@@ -1,0 +1,46 @@
+{
+  "personId": "mustafa-kemal-ataturk",
+  "slug": "mustafa-kemal-ataturk",
+  "name": "Mustafa Kemal Atatürk",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mustafa Kemal Atatürk",
+      "url": "https://pantheon.world/profile/person/Mustafa_Kemal_Atat%C3%BCrk",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mustafa-kemal-ataturk-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mustafa Kemal Atatürk is remembered as a politician connected with Greece."
+    },
+    {
+      "factId": "mustafa-kemal-ataturk-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mustafa Kemal Atatürk's recorded life dates place this profile around 1881-1938."
+    },
+    {
+      "factId": "mustafa-kemal-ataturk-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mustafa Kemal Atatürk is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mustafa-kemal-ataturk-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mustafa Kemal Atatürk's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "mustafa-kemal-ataturk-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mustafa Kemal Atatürk has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

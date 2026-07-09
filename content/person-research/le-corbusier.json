@@ -1,0 +1,46 @@
+{
+  "personId": "le-corbusier",
+  "slug": "le-corbusier",
+  "name": "Le Corbusier",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Le Corbusier",
+      "url": "https://pantheon.world/profile/person/Le_Corbusier",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "le-corbusier-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Le Corbusier is remembered as a architect connected with Switzerland."
+    },
+    {
+      "factId": "le-corbusier-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Le Corbusier's recorded life dates place this profile around 1887-1965."
+    },
+    {
+      "factId": "le-corbusier-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Le Corbusier is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "le-corbusier-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Le Corbusier's profile connects a short Fact to a wider Switzerland historical setting."
+    },
+    {
+      "factId": "le-corbusier-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Le Corbusier has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

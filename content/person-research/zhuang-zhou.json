@@ -1,0 +1,46 @@
+{
+  "personId": "zhuang-zhou",
+  "slug": "zhuang-zhou",
+  "name": "Zhuang Zhou",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Zhuang Zhou",
+      "url": "https://pantheon.world/profile/person/Zhuang_Zhou",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "zhuang-zhou-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Zhuang Zhou is remembered as a philosopher connected with China."
+    },
+    {
+      "factId": "zhuang-zhou-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Zhuang Zhou's recorded life dates place this profile around -369--286."
+    },
+    {
+      "factId": "zhuang-zhou-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Zhuang Zhou is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "zhuang-zhou-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Zhuang Zhou's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "zhuang-zhou-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Zhuang Zhou has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

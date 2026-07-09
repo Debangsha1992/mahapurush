@@ -1,0 +1,46 @@
+{
+  "personId": "empress-matilda",
+  "slug": "empress-matilda",
+  "name": "Empress Matilda",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Empress Matilda",
+      "url": "https://pantheon.world/profile/person/Empress_Matilda",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "empress-matilda-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Empress Matilda is remembered as a nobleman connected with United Kingdom."
+    },
+    {
+      "factId": "empress-matilda-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Empress Matilda's recorded life dates place this profile around 1102-1167."
+    },
+    {
+      "factId": "empress-matilda-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Empress Matilda is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "empress-matilda-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Empress Matilda's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "empress-matilda-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Empress Matilda has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

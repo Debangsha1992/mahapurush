@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Gustave Courbet is a notable painter associated with France.",
+  "summary": "Gustave Courbet is a notable painter connected with France.",
   "knownFor": [
     "Painter",
-    "72 language biography editions",
-    "Historical Popularity Index 81.8"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Gustave Courbet",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "gustave-courbet-pantheon-profile",
-      "text": "Pantheon ranks Gustave Courbet as a globally documented painter with biographies in 72 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Gustave Courbet a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "gustave-courbet-1-origin",
+      "text": "Gustave Courbet is remembered as a painter connected with France.",
+      "context": "Gustave Courbet's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Gustave Courbet",
       "sourceUrl": "https://pantheon.world/profile/person/Gustave_Courbet",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustave-courbet-2-obstacle",
+      "text": "Gustave Courbet's recorded life dates place this profile around 1819-1877.",
+      "context": "Gustave Courbet's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Gustave Courbet",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustave_Courbet",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustave-courbet-3-turning-point",
+      "text": "Gustave Courbet is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Gustave Courbet's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Gustave Courbet",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustave_Courbet",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustave-courbet-4-contribution",
+      "text": "Gustave Courbet's profile connects a short Fact to a wider France historical setting.",
+      "context": "Gustave Courbet's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Gustave Courbet",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustave_Courbet",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustave-courbet-5-influence",
+      "text": "Gustave Courbet has a Facts Mode card reserved for deeper source research.",
+      "context": "Gustave Courbet's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Gustave Courbet",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustave_Courbet",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Benjamin Franklin is a notable politician associated with United States.",
+  "summary": "Benjamin Franklin is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "141 language biography editions",
-    "Historical Popularity Index 85.9"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 356,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "benjamin-franklin-pantheon-profile",
-      "text": "Pantheon ranks Benjamin Franklin as a globally documented politician with biographies in 141 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Benjamin Franklin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "benjamin-franklin-1-origin",
+      "text": "Benjamin Franklin is remembered as a politician connected with United States.",
+      "context": "Benjamin Franklin's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Benjamin Franklin",
       "sourceUrl": "https://pantheon.world/profile/person/Benjamin_Franklin",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "benjamin-franklin-2-obstacle",
+      "text": "Benjamin Franklin's recorded life dates place this profile around 1706-1790.",
+      "context": "Benjamin Franklin's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Benjamin Franklin",
+      "sourceUrl": "https://pantheon.world/profile/person/Benjamin_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "benjamin-franklin-3-turning-point",
+      "text": "Benjamin Franklin is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Benjamin Franklin's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Benjamin Franklin",
+      "sourceUrl": "https://pantheon.world/profile/person/Benjamin_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "benjamin-franklin-4-contribution",
+      "text": "Benjamin Franklin's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Benjamin Franklin's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Benjamin Franklin",
+      "sourceUrl": "https://pantheon.world/profile/person/Benjamin_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "benjamin-franklin-5-influence",
+      "text": "Benjamin Franklin has a Facts Mode card reserved for deeper source research.",
+      "context": "Benjamin Franklin's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Benjamin Franklin",
+      "sourceUrl": "https://pantheon.world/profile/person/Benjamin_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

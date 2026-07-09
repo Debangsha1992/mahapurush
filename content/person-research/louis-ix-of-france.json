@@ -1,0 +1,46 @@
+{
+  "personId": "louis-ix-of-france",
+  "slug": "louis-ix-of-france",
+  "name": "Louis IX of France",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Louis IX of France",
+      "url": "https://pantheon.world/profile/person/Louis_IX_of_France",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "louis-ix-of-france-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Louis IX of France is remembered as a politician connected with France."
+    },
+    {
+      "factId": "louis-ix-of-france-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Louis IX of France's recorded life dates place this profile around 1214-1270."
+    },
+    {
+      "factId": "louis-ix-of-france-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Louis IX of France is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "louis-ix-of-france-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Louis IX of France's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "louis-ix-of-france-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Louis IX of France has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

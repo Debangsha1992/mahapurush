@@ -1,0 +1,46 @@
+{
+  "personId": "elizabeth-biblical-figure",
+  "slug": "elizabeth-biblical-figure",
+  "name": "Elizabeth",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Elizabeth",
+      "url": "https://pantheon.world/profile/person/Elizabeth_(biblical_figure)",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "elizabeth-biblical-figure-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "elizabeth-biblical-figure-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth's recorded life dates place this profile around -100-100."
+    },
+    {
+      "factId": "elizabeth-biblical-figure-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "elizabeth-biblical-figure-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "elizabeth-biblical-figure-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Elizabeth has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Li Bai is a notable writer associated with China.",
+  "summary": "Li Bai is a notable writer connected with China.",
   "knownFor": [
     "Writer",
-    "151 language biography editions",
-    "Historical Popularity Index 84.1"
+    "Literature, Arts & Culture",
+    "China"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Li Bai",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "li-bai-pantheon-profile",
-      "text": "Pantheon ranks Li Bai as a globally documented writer with biographies in 151 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Li Bai a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "li-bai-1-origin",
+      "text": "Li Bai is remembered as a writer connected with China.",
+      "context": "Li Bai's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Li Bai",
       "sourceUrl": "https://pantheon.world/profile/person/Li_Bai",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "li-bai-2-obstacle",
+      "text": "Li Bai's recorded life dates place this profile around 701-762.",
+      "context": "Li Bai's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Li Bai",
+      "sourceUrl": "https://pantheon.world/profile/person/Li_Bai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "li-bai-3-turning-point",
+      "text": "Li Bai is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Li Bai's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Li Bai",
+      "sourceUrl": "https://pantheon.world/profile/person/Li_Bai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "li-bai-4-contribution",
+      "text": "Li Bai's profile connects a short Fact to a wider China historical setting.",
+      "context": "Li Bai's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Li Bai",
+      "sourceUrl": "https://pantheon.world/profile/person/Li_Bai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "li-bai-5-influence",
+      "text": "Li Bai has a Facts Mode card reserved for deeper source research.",
+      "context": "Li Bai's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Li Bai",
+      "sourceUrl": "https://pantheon.world/profile/person/Li_Bai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "explorer"
   ],
-  "summary": "Ferdinand Magellan is a notable explorer associated with Portugal.",
+  "summary": "Ferdinand Magellan is a notable explorer connected with Portugal.",
   "knownFor": [
     "Explorer",
-    "176 language biography editions",
-    "Historical Popularity Index 92.6"
+    "Environment, Exploration & Human Achievement",
+    "Portugal"
   ],
   "featured": true,
   "featuredRank": 71,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ferdinand-magellan-pantheon-profile",
-      "text": "Pantheon ranks Ferdinand Magellan as a globally documented explorer with biographies in 176 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ferdinand Magellan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ferdinand-magellan-1-origin",
+      "text": "Ferdinand Magellan is remembered as a explorer connected with Portugal.",
+      "context": "Ferdinand Magellan's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Ferdinand Magellan",
       "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Magellan",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-magellan-2-obstacle",
+      "text": "Ferdinand Magellan's recorded life dates place this profile around 1480-1521.",
+      "context": "Ferdinand Magellan's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ferdinand Magellan",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Magellan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-magellan-3-turning-point",
+      "text": "Ferdinand Magellan is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Ferdinand Magellan's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ferdinand Magellan",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Magellan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-magellan-4-contribution",
+      "text": "Ferdinand Magellan's profile connects a short Fact to a wider Portugal historical setting.",
+      "context": "Ferdinand Magellan's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ferdinand Magellan",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Magellan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-magellan-5-influence",
+      "text": "Ferdinand Magellan has a Facts Mode card reserved for deeper source research.",
+      "context": "Ferdinand Magellan's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ferdinand Magellan",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_Magellan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

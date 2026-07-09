@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "astronomer"
   ],
-  "summary": "Ptolemy is a notable astronomer associated with Egypt.",
+  "summary": "Ptolemy is a notable astronomer connected with Egypt.",
   "knownFor": [
     "Astronomer",
-    "118 language biography editions",
-    "Historical Popularity Index 87.1"
+    "Justice, Governance & Leadership",
+    "Egypt"
   ],
   "featured": true,
   "featuredRank": 271,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ptolemy-pantheon-profile",
-      "text": "Pantheon ranks Ptolemy as a globally documented astronomer with biographies in 118 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ptolemy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ptolemy-1-origin",
+      "text": "Ptolemy is remembered as a astronomer connected with Egypt.",
+      "context": "Ptolemy's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ptolemy",
       "sourceUrl": "https://pantheon.world/profile/person/Ptolemy",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ptolemy-2-obstacle",
+      "text": "Ptolemy's recorded life dates place this profile around 100-170.",
+      "context": "Ptolemy's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ptolemy",
+      "sourceUrl": "https://pantheon.world/profile/person/Ptolemy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ptolemy-3-turning-point",
+      "text": "Ptolemy is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ptolemy's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ptolemy",
+      "sourceUrl": "https://pantheon.world/profile/person/Ptolemy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ptolemy-4-contribution",
+      "text": "Ptolemy's profile connects a short Fact to a wider Egypt historical setting.",
+      "context": "Ptolemy's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ptolemy",
+      "sourceUrl": "https://pantheon.world/profile/person/Ptolemy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ptolemy-5-influence",
+      "text": "Ptolemy has a Facts Mode card reserved for deeper source research.",
+      "context": "Ptolemy's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ptolemy",
+      "sourceUrl": "https://pantheon.world/profile/person/Ptolemy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

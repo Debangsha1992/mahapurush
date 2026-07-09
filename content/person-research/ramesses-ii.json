@@ -1,0 +1,46 @@
+{
+  "personId": "ramesses-ii",
+  "slug": "ramesses-ii",
+  "name": "Ramesses II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ramesses II",
+      "url": "https://pantheon.world/profile/person/Ramesses_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ramesses-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ramesses II is remembered as a nobleman connected with Israel."
+    },
+    {
+      "factId": "ramesses-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ramesses II's recorded life dates place this profile around -1303--1213."
+    },
+    {
+      "factId": "ramesses-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ramesses II is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ramesses-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ramesses II's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "ramesses-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ramesses II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

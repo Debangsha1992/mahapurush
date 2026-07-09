@@ -1,0 +1,46 @@
+{
+  "personId": "victor-hugo",
+  "slug": "victor-hugo",
+  "name": "Victor Hugo",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Victor Hugo",
+      "url": "https://pantheon.world/profile/person/Victor_Hugo",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "victor-hugo-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Victor Hugo is remembered as a writer connected with France."
+    },
+    {
+      "factId": "victor-hugo-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Victor Hugo's recorded life dates place this profile around 1802-1885."
+    },
+    {
+      "factId": "victor-hugo-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Victor Hugo is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "victor-hugo-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Victor Hugo's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "victor-hugo-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Victor Hugo has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

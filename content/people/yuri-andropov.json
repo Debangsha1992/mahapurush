@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Yuri Andropov is a notable politician associated with Russia.",
+  "summary": "Yuri Andropov is a notable politician connected with Russia.",
   "knownFor": [
     "Politician",
-    "99 language biography editions",
-    "Historical Popularity Index 82.3"
+    "Justice, Governance & Leadership",
+    "Russia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Yuri Andropov",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "yuri-andropov-pantheon-profile",
-      "text": "Pantheon ranks Yuri Andropov as a globally documented politician with biographies in 99 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Yuri Andropov a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "yuri-andropov-1-origin",
+      "text": "Yuri Andropov is remembered as a politician connected with Russia.",
+      "context": "Yuri Andropov's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Yuri Andropov",
       "sourceUrl": "https://pantheon.world/profile/person/Yuri_Andropov",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "yuri-andropov-2-obstacle",
+      "text": "Yuri Andropov's recorded life dates place this profile around 1914-1984.",
+      "context": "Yuri Andropov's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Yuri Andropov",
+      "sourceUrl": "https://pantheon.world/profile/person/Yuri_Andropov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "yuri-andropov-3-turning-point",
+      "text": "Yuri Andropov is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Yuri Andropov's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Yuri Andropov",
+      "sourceUrl": "https://pantheon.world/profile/person/Yuri_Andropov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "yuri-andropov-4-contribution",
+      "text": "Yuri Andropov's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Yuri Andropov's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Yuri Andropov",
+      "sourceUrl": "https://pantheon.world/profile/person/Yuri_Andropov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "yuri-andropov-5-influence",
+      "text": "Yuri Andropov has a Facts Mode card reserved for deeper source research.",
+      "context": "Yuri Andropov's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Yuri Andropov",
+      "sourceUrl": "https://pantheon.world/profile/person/Yuri_Andropov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

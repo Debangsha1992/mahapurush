@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "John the Baptist is a notable religious figure associated with Israel.",
+  "summary": "John the Baptist is a notable religious figure connected with Israel.",
   "knownFor": [
     "Religious Figure",
-    "112 language biography editions",
-    "Historical Popularity Index 89.1"
+    "Philosophy, Ethics & Religion",
+    "Israel"
   ],
   "featured": true,
   "featuredRank": 172,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "john-the-baptist-pantheon-profile",
-      "text": "Pantheon ranks John the Baptist as a globally documented religious figure with biographies in 112 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make John the Baptist a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "john-the-baptist-1-origin",
+      "text": "John the Baptist is remembered as a religious figure connected with Israel.",
+      "context": "John the Baptist's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: John the Baptist",
       "sourceUrl": "https://pantheon.world/profile/person/John_the_Baptist",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-the-baptist-2-obstacle",
+      "text": "John the Baptist's recorded life dates place this profile around -20-31.",
+      "context": "John the Baptist's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: John the Baptist",
+      "sourceUrl": "https://pantheon.world/profile/person/John_the_Baptist",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-the-baptist-3-turning-point",
+      "text": "John the Baptist is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "John the Baptist's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: John the Baptist",
+      "sourceUrl": "https://pantheon.world/profile/person/John_the_Baptist",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-the-baptist-4-contribution",
+      "text": "John the Baptist's profile connects a short Fact to a wider Israel historical setting.",
+      "context": "John the Baptist's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: John the Baptist",
+      "sourceUrl": "https://pantheon.world/profile/person/John_the_Baptist",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-the-baptist-5-influence",
+      "text": "John the Baptist has a Facts Mode card reserved for deeper source research.",
+      "context": "John the Baptist's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: John the Baptist",
+      "sourceUrl": "https://pantheon.world/profile/person/John_the_Baptist",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

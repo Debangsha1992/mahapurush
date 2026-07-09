@@ -1,0 +1,46 @@
+{
+  "personId": "archduke-franz-ferdinand-of-austria",
+  "slug": "archduke-franz-ferdinand-of-austria",
+  "name": "Archduke Franz Ferdinand of Austria",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Archduke Franz Ferdinand of Austria",
+      "url": "https://pantheon.world/profile/person/Archduke_Franz_Ferdinand_of_Austria",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "archduke-franz-ferdinand-of-austria-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Archduke Franz Ferdinand of Austria is remembered as a nobleman connected with Austria."
+    },
+    {
+      "factId": "archduke-franz-ferdinand-of-austria-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Archduke Franz Ferdinand of Austria's recorded life dates place this profile around 1863-1914."
+    },
+    {
+      "factId": "archduke-franz-ferdinand-of-austria-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Archduke Franz Ferdinand of Austria is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "archduke-franz-ferdinand-of-austria-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Archduke Franz Ferdinand of Austria's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "archduke-franz-ferdinand-of-austria-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Archduke Franz Ferdinand of Austria has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

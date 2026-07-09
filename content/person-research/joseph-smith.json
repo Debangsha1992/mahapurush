@@ -1,0 +1,46 @@
+{
+  "personId": "joseph-smith",
+  "slug": "joseph-smith",
+  "name": "Joseph Smith",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Joseph Smith",
+      "url": "https://pantheon.world/profile/person/Joseph_Smith",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "joseph-smith-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Joseph Smith is remembered as a religious figure connected with United States."
+    },
+    {
+      "factId": "joseph-smith-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Joseph Smith's recorded life dates place this profile around 1805-1844."
+    },
+    {
+      "factId": "joseph-smith-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Joseph Smith is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "joseph-smith-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Joseph Smith's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "joseph-smith-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Joseph Smith has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

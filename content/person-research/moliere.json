@@ -1,0 +1,47 @@
+{
+  "personId": "moliere",
+  "slug": "moliere",
+  "name": "Molière",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Molière",
+      "url": "https://en.wikipedia.org/wiki/Moli%C3%A8re",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "French playwright and actor (1622–1673)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "moliere-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Jean-Baptiste Poquelin, known by his stage name Molière, was a French playwright, actor, and poet, widely regarded as one of the great writers in the French language and world literature."
+    },
+    {
+      "factId": "moliere-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Molière's extant works include comedies, farces, tragicomedies, comédie-ballets, and more."
+    },
+    {
+      "factId": "moliere-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Molière's plays have been translated into every major living language and are performed at the Comédie-Française more often than those of any other playwright today."
+    },
+    {
+      "factId": "moliere-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Molière's influence is such that the French language is often referred to as the \"language of Molière\"."
+    },
+    {
+      "factId": "moliere-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Molière is remembered as a writer connected with France."
+    }
+  ]
+}

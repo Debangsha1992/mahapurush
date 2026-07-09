@@ -1,0 +1,46 @@
+{
+  "personId": "marc-chagall",
+  "slug": "marc-chagall",
+  "name": "Marc Chagall",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Marc Chagall",
+      "url": "https://pantheon.world/profile/person/Marc_Chagall",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "marc-chagall-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Marc Chagall is remembered as a painter connected with Belarus."
+    },
+    {
+      "factId": "marc-chagall-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Marc Chagall's recorded life dates place this profile around 1887-1985."
+    },
+    {
+      "factId": "marc-chagall-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Marc Chagall is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "marc-chagall-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Marc Chagall's profile connects a short Fact to a wider Belarus historical setting."
+    },
+    {
+      "factId": "marc-chagall-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Marc Chagall has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

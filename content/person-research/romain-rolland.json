@@ -1,0 +1,46 @@
+{
+  "personId": "romain-rolland",
+  "slug": "romain-rolland",
+  "name": "Romain Rolland",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Romain Rolland",
+      "url": "https://pantheon.world/profile/person/Romain_Rolland",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "romain-rolland-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Romain Rolland is remembered as a writer connected with France."
+    },
+    {
+      "factId": "romain-rolland-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Romain Rolland's recorded life dates place this profile around 1866-1944."
+    },
+    {
+      "factId": "romain-rolland-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Romain Rolland is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "romain-rolland-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Romain Rolland's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "romain-rolland-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Romain Rolland has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

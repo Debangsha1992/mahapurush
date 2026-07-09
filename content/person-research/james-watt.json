@@ -1,0 +1,46 @@
+{
+  "personId": "james-watt",
+  "slug": "james-watt",
+  "name": "James Watt",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James Watt",
+      "url": "https://pantheon.world/profile/person/James_Watt",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-watt-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James Watt is remembered as a inventor connected with United Kingdom."
+    },
+    {
+      "factId": "james-watt-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James Watt's recorded life dates place this profile around 1736-1819."
+    },
+    {
+      "factId": "james-watt-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James Watt is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "james-watt-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James Watt's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "james-watt-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James Watt has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

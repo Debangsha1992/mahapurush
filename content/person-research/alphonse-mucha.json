@@ -1,0 +1,46 @@
+{
+  "personId": "alphonse-mucha",
+  "slug": "alphonse-mucha",
+  "name": "Alphonse Mucha",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alphonse Mucha",
+      "url": "https://pantheon.world/profile/person/Alphonse_Mucha",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alphonse-mucha-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alphonse Mucha is remembered as a painter connected with Czechia."
+    },
+    {
+      "factId": "alphonse-mucha-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alphonse Mucha's recorded life dates place this profile around 1860-1939."
+    },
+    {
+      "factId": "alphonse-mucha-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alphonse Mucha is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "alphonse-mucha-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alphonse Mucha's profile connects a short Fact to a wider Czechia historical setting."
+    },
+    {
+      "factId": "alphonse-mucha-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alphonse Mucha has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

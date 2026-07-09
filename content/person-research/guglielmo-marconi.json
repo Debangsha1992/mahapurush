@@ -1,0 +1,46 @@
+{
+  "personId": "guglielmo-marconi",
+  "slug": "guglielmo-marconi",
+  "name": "Guglielmo Marconi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Guglielmo Marconi",
+      "url": "https://pantheon.world/profile/person/Guglielmo_Marconi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "guglielmo-marconi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Guglielmo Marconi is remembered as a inventor connected with Italy."
+    },
+    {
+      "factId": "guglielmo-marconi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Guglielmo Marconi's recorded life dates place this profile around 1874-1937."
+    },
+    {
+      "factId": "guglielmo-marconi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Guglielmo Marconi is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "guglielmo-marconi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Guglielmo Marconi's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "guglielmo-marconi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Guglielmo Marconi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

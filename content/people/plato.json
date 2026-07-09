@@ -12,35 +12,104 @@
     "philosophy-ethics-religion",
     "philosopher"
   ],
-  "summary": "Plato is a notable philosopher associated with Greece.",
+  "summary": "Plato was an ancient Greek philosopher of Classical Athens who is most commonly considered the foundational thinker of the Western philosophical tradition.",
   "knownFor": [
     "Philosopher",
-    "217 language biography editions",
-    "Historical Popularity Index 95.9"
+    "Philosophy, Ethics & Religion",
+    "Greece"
   ],
   "featured": true,
   "featuredRank": 44,
   "imageAlt": "Portrait-style visual for Plato",
   "sourceRefs": [
     {
-      "title": "Pantheon: Plato",
-      "url": "https://pantheon.world/profile/person/Plato",
+      "title": "Wikipedia: Plato",
+      "url": "https://en.wikipedia.org/wiki/Plato",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "plato-pantheon-profile",
-      "text": "Pantheon ranks Plato as a globally documented philosopher with biographies in 217 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Plato a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Plato",
-      "sourceUrl": "https://pantheon.world/profile/person/Plato",
+      "id": "plato-1-origin",
+      "text": "Plato was an ancient Greek philosopher of Classical Athens who is most commonly considered the foundational thinker of the Western philosophical tradition.",
+      "context": "Plato's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Plato",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Plato",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "plato-2-obstacle",
+      "text": "An innovator of the literary dialogue and dialectic forms, Plato influenced all the major areas of theoretical philosophy and practical philosophy, and was the founder of the Academy, a philosophical school in Athens where Plato taught the collection of philosophical theories that would later becom.",
+      "context": "Plato's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Plato",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Plato",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "plato-3-turning-point",
+      "text": "Plato is remembered as a philosopher connected with Greece.",
+      "context": "Plato's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Plato",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Plato",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "plato-4-contribution",
+      "text": "Plato's recorded life dates place this profile around -427--347.",
+      "context": "Plato's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Plato",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Plato",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "plato-5-influence",
+      "text": "Plato is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Plato's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Plato",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Plato",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

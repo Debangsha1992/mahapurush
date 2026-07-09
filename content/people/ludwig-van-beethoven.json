@@ -12,35 +12,104 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Ludwig van Beethoven is a notable composer associated with Germany.",
+  "summary": "Ludwig van Beethoven was a German composer, conductor, and pianist.",
   "knownFor": [
     "Composer",
-    "210 language biography editions",
-    "Historical Popularity Index 96.9"
+    "Literature, Arts & Culture",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 39,
   "imageAlt": "Portrait-style visual for Ludwig van Beethoven",
   "sourceRefs": [
     {
-      "title": "Pantheon: Ludwig van Beethoven",
-      "url": "https://pantheon.world/profile/person/Ludwig_van_Beethoven",
+      "title": "Wikipedia: Ludwig van Beethoven",
+      "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ludwig-van-beethoven-pantheon-profile",
-      "text": "Pantheon ranks Ludwig van Beethoven as a globally documented composer with biographies in 210 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ludwig van Beethoven a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Ludwig van Beethoven",
-      "sourceUrl": "https://pantheon.world/profile/person/Ludwig_van_Beethoven",
+      "id": "ludwig-van-beethoven-1-origin",
+      "text": "Ludwig van Beethoven was a German composer, conductor, and pianist.",
+      "context": "Ludwig van Beethoven's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Ludwig van Beethoven",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ludwig-van-beethoven-2-obstacle",
+      "text": "Ludwig van Beethoven's compositions have attracted extraordinary casual and scholarly interest, and remain among the most performed in the world.",
+      "context": "Ludwig van Beethoven's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Ludwig van Beethoven",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ludwig-van-beethoven-3-turning-point",
+      "text": "Ludwig van Beethoven is remembered as a composer connected with Germany.",
+      "context": "Ludwig van Beethoven's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Ludwig van Beethoven",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ludwig-van-beethoven-4-contribution",
+      "text": "Ludwig van Beethoven's recorded life dates place this profile around 1770-1827.",
+      "context": "Ludwig van Beethoven's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Ludwig van Beethoven",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ludwig-van-beethoven-5-influence",
+      "text": "Ludwig van Beethoven is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Ludwig van Beethoven's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Ludwig van Beethoven",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

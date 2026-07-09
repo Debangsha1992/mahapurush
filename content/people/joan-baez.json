@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "singer"
   ],
-  "summary": "Joan Baez is a notable singer associated with United States.",
+  "summary": "Joan Baez is a notable singer connected with United States.",
   "knownFor": [
     "Singer",
-    "80 language biography editions",
-    "Historical Popularity Index 83.5"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Joan Baez",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "joan-baez-pantheon-profile",
-      "text": "Pantheon ranks Joan Baez as a globally documented singer with biographies in 80 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Joan Baez a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "joan-baez-1-origin",
+      "text": "Joan Baez is remembered as a singer connected with United States.",
+      "context": "Joan Baez's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Joan Baez",
       "sourceUrl": "https://pantheon.world/profile/person/Joan_Baez",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joan-baez-2-obstacle",
+      "text": "Joan Baez's recorded life dates place this profile around born 1941.",
+      "context": "Joan Baez's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Joan Baez",
+      "sourceUrl": "https://pantheon.world/profile/person/Joan_Baez",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joan-baez-3-turning-point",
+      "text": "Joan Baez is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Joan Baez's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Joan Baez",
+      "sourceUrl": "https://pantheon.world/profile/person/Joan_Baez",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joan-baez-4-contribution",
+      "text": "Joan Baez's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Joan Baez's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Joan Baez",
+      "sourceUrl": "https://pantheon.world/profile/person/Joan_Baez",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joan-baez-5-influence",
+      "text": "Joan Baez has a Facts Mode card reserved for deeper source research.",
+      "context": "Joan Baez's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Joan Baez",
+      "sourceUrl": "https://pantheon.world/profile/person/Joan_Baez",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

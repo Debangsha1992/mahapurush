@@ -1,0 +1,47 @@
+{
+  "personId": "spartacus",
+  "slug": "spartacus",
+  "name": "Spartacus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Spartacus",
+      "url": "https://en.wikipedia.org/wiki/Spartacus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Thracian gladiator who led a slave revolt"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "spartacus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Spartacus was a Thracian gladiator who was one of the escaped slave leaders in the Third Servile War, a major slave uprising against the Roman Republic."
+    },
+    {
+      "factId": "spartacus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Spartacus is remembered as a military personnel connected with Greece."
+    },
+    {
+      "factId": "spartacus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Spartacus's recorded life dates place this profile around -109--71."
+    },
+    {
+      "factId": "spartacus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Spartacus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "spartacus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Spartacus's profile connects a short Fact to a wider Greece historical setting."
+    }
+  ]
+}

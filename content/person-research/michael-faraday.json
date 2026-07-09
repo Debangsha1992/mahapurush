@@ -1,0 +1,46 @@
+{
+  "personId": "michael-faraday",
+  "slug": "michael-faraday",
+  "name": "Michael Faraday",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Michael Faraday",
+      "url": "https://pantheon.world/profile/person/Michael_Faraday",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "michael-faraday-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Michael Faraday is remembered as a physicist connected with United Kingdom."
+    },
+    {
+      "factId": "michael-faraday-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Michael Faraday's recorded life dates place this profile around 1791-1867."
+    },
+    {
+      "factId": "michael-faraday-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Michael Faraday is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "michael-faraday-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Michael Faraday's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "michael-faraday-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Michael Faraday has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

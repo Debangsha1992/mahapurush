@@ -1,0 +1,46 @@
+{
+  "personId": "prince-henry-the-navigator",
+  "slug": "prince-henry-the-navigator",
+  "name": "Prince Henry the Navigator",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Prince Henry the Navigator",
+      "url": "https://pantheon.world/profile/person/Prince_Henry_the_Navigator",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "prince-henry-the-navigator-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Prince Henry the Navigator is remembered as a explorer connected with Portugal."
+    },
+    {
+      "factId": "prince-henry-the-navigator-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Prince Henry the Navigator's recorded life dates place this profile around 1394-1460."
+    },
+    {
+      "factId": "prince-henry-the-navigator-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Prince Henry the Navigator is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "prince-henry-the-navigator-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Prince Henry the Navigator's profile connects a short Fact to a wider Portugal historical setting."
+    },
+    {
+      "factId": "prince-henry-the-navigator-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Prince Henry the Navigator has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "karl-popper",
+  "slug": "karl-popper",
+  "name": "Karl Popper",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Karl Popper",
+      "url": "https://pantheon.world/profile/person/Karl_Popper",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "karl-popper-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Karl Popper is remembered as a philosopher connected with Austria."
+    },
+    {
+      "factId": "karl-popper-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Karl Popper's recorded life dates place this profile around 1902-1994."
+    },
+    {
+      "factId": "karl-popper-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Karl Popper is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "karl-popper-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Karl Popper's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "karl-popper-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Karl Popper has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

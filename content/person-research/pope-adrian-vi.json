@@ -1,0 +1,46 @@
+{
+  "personId": "pope-adrian-vi",
+  "slug": "pope-adrian-vi",
+  "name": "Pope Adrian VI",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Adrian VI",
+      "url": "https://pantheon.world/profile/person/Pope_Adrian_VI",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-adrian-vi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Adrian VI is remembered as a religious figure connected with Netherlands."
+    },
+    {
+      "factId": "pope-adrian-vi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Adrian VI's recorded life dates place this profile around 1459-1523."
+    },
+    {
+      "factId": "pope-adrian-vi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Adrian VI is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-adrian-vi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Adrian VI's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "pope-adrian-vi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Adrian VI has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

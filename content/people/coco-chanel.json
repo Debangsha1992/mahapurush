@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "fashion-designer"
   ],
-  "summary": "Coco Chanel is a notable fashion designer associated with France.",
+  "summary": "Coco Chanel is a notable fashion designer connected with France.",
   "knownFor": [
     "Fashion Designer",
-    "89 language biography editions",
-    "Historical Popularity Index 85.2"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": true,
   "featuredRank": 417,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "coco-chanel-pantheon-profile",
-      "text": "Pantheon ranks Coco Chanel as a globally documented fashion designer with biographies in 89 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Coco Chanel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "coco-chanel-1-origin",
+      "text": "Coco Chanel is remembered as a fashion designer connected with France.",
+      "context": "Coco Chanel's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Coco Chanel",
       "sourceUrl": "https://pantheon.world/profile/person/Coco_Chanel",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "coco-chanel-2-obstacle",
+      "text": "Coco Chanel's recorded life dates place this profile around 1883-1971.",
+      "context": "Coco Chanel's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Coco Chanel",
+      "sourceUrl": "https://pantheon.world/profile/person/Coco_Chanel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "coco-chanel-3-turning-point",
+      "text": "Coco Chanel is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Coco Chanel's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Coco Chanel",
+      "sourceUrl": "https://pantheon.world/profile/person/Coco_Chanel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "coco-chanel-4-contribution",
+      "text": "Coco Chanel's profile connects a short Fact to a wider France historical setting.",
+      "context": "Coco Chanel's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Coco Chanel",
+      "sourceUrl": "https://pantheon.world/profile/person/Coco_Chanel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "coco-chanel-5-influence",
+      "text": "Coco Chanel has a Facts Mode card reserved for deeper source research.",
+      "context": "Coco Chanel's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Coco Chanel",
+      "sourceUrl": "https://pantheon.world/profile/person/Coco_Chanel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

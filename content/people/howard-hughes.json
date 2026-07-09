@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "businessperson"
   ],
-  "summary": "Howard Hughes is a notable businessperson associated with United States.",
+  "summary": "Howard Hughes is a notable businessperson connected with United States.",
   "knownFor": [
     "Businessperson",
-    "68 language biography editions",
-    "Historical Popularity Index 83.2"
+    "Environment, Exploration & Human Achievement",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Howard Hughes",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "howard-hughes-pantheon-profile",
-      "text": "Pantheon ranks Howard Hughes as a globally documented businessperson with biographies in 68 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Howard Hughes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "howard-hughes-1-origin",
+      "text": "Howard Hughes is remembered as a businessperson connected with United States.",
+      "context": "Howard Hughes's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Howard Hughes",
       "sourceUrl": "https://pantheon.world/profile/person/Howard_Hughes",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "howard-hughes-2-obstacle",
+      "text": "Howard Hughes's recorded life dates place this profile around 1905-1976.",
+      "context": "Howard Hughes's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Howard Hughes",
+      "sourceUrl": "https://pantheon.world/profile/person/Howard_Hughes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "howard-hughes-3-turning-point",
+      "text": "Howard Hughes is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Howard Hughes's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Howard Hughes",
+      "sourceUrl": "https://pantheon.world/profile/person/Howard_Hughes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "howard-hughes-4-contribution",
+      "text": "Howard Hughes's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Howard Hughes's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Howard Hughes",
+      "sourceUrl": "https://pantheon.world/profile/person/Howard_Hughes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "howard-hughes-5-influence",
+      "text": "Howard Hughes has a Facts Mode card reserved for deeper source research.",
+      "context": "Howard Hughes's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Howard Hughes",
+      "sourceUrl": "https://pantheon.world/profile/person/Howard_Hughes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "protagoras",
+  "slug": "protagoras",
+  "name": "Protagoras",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Protagoras",
+      "url": "https://pantheon.world/profile/person/Protagoras",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "protagoras-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Protagoras is remembered as a philosopher connected with Greece."
+    },
+    {
+      "factId": "protagoras-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Protagoras's recorded life dates place this profile around -486--420."
+    },
+    {
+      "factId": "protagoras-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Protagoras is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "protagoras-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Protagoras's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "protagoras-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Protagoras has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

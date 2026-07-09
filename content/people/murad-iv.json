@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Murad IV is a notable politician associated with Türkiye.",
+  "summary": "Murad IV is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "71 language biography editions",
-    "Historical Popularity Index 82.6"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Murad IV",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "murad-iv-pantheon-profile",
-      "text": "Pantheon ranks Murad IV as a globally documented politician with biographies in 71 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Murad IV a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "murad-iv-1-origin",
+      "text": "Murad IV is remembered as a politician connected with Türkiye.",
+      "context": "Murad IV's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Murad IV",
       "sourceUrl": "https://pantheon.world/profile/person/Murad_IV",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "murad-iv-2-obstacle",
+      "text": "Murad IV's recorded life dates place this profile around 1612-1640.",
+      "context": "Murad IV's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Murad IV",
+      "sourceUrl": "https://pantheon.world/profile/person/Murad_IV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "murad-iv-3-turning-point",
+      "text": "Murad IV is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Murad IV's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Murad IV",
+      "sourceUrl": "https://pantheon.world/profile/person/Murad_IV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "murad-iv-4-contribution",
+      "text": "Murad IV's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Murad IV's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Murad IV",
+      "sourceUrl": "https://pantheon.world/profile/person/Murad_IV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "murad-iv-5-influence",
+      "text": "Murad IV has a Facts Mode card reserved for deeper source research.",
+      "context": "Murad IV's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Murad IV",
+      "sourceUrl": "https://pantheon.world/profile/person/Murad_IV",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

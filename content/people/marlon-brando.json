@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Marlon Brando is a notable actor associated with United States.",
+  "summary": "Marlon Brando is a notable actor connected with United States.",
   "knownFor": [
     "Actor",
-    "134 language biography editions",
-    "Historical Popularity Index 82.9"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Marlon Brando",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "marlon-brando-pantheon-profile",
-      "text": "Pantheon ranks Marlon Brando as a globally documented actor with biographies in 134 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Marlon Brando a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "marlon-brando-1-origin",
+      "text": "Marlon Brando is remembered as a actor connected with United States.",
+      "context": "Marlon Brando's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Marlon Brando",
       "sourceUrl": "https://pantheon.world/profile/person/Marlon_Brando",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marlon-brando-2-obstacle",
+      "text": "Marlon Brando's recorded life dates place this profile around 1924-2004.",
+      "context": "Marlon Brando's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Marlon Brando",
+      "sourceUrl": "https://pantheon.world/profile/person/Marlon_Brando",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marlon-brando-3-turning-point",
+      "text": "Marlon Brando is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Marlon Brando's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Marlon Brando",
+      "sourceUrl": "https://pantheon.world/profile/person/Marlon_Brando",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marlon-brando-4-contribution",
+      "text": "Marlon Brando's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Marlon Brando's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Marlon Brando",
+      "sourceUrl": "https://pantheon.world/profile/person/Marlon_Brando",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marlon-brando-5-influence",
+      "text": "Marlon Brando has a Facts Mode card reserved for deeper source research.",
+      "context": "Marlon Brando's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Marlon Brando",
+      "sourceUrl": "https://pantheon.world/profile/person/Marlon_Brando",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

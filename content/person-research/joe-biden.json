@@ -1,0 +1,46 @@
+{
+  "personId": "joe-biden",
+  "slug": "joe-biden",
+  "name": "Joe Biden",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Joe Biden",
+      "url": "https://pantheon.world/profile/person/Joe_Biden",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "joe-biden-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Joe Biden is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "joe-biden-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Joe Biden's recorded life dates place this profile around born 1942."
+    },
+    {
+      "factId": "joe-biden-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Joe Biden is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "joe-biden-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Joe Biden's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "joe-biden-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Joe Biden has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

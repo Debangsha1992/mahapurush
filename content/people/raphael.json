@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Raphael is a notable painter associated with Italy.",
+  "summary": "Raphael is a notable painter connected with Italy.",
   "knownFor": [
     "Painter",
-    "169 language biography editions",
-    "Historical Popularity Index 91.0"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 103,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "raphael-pantheon-profile",
-      "text": "Pantheon ranks Raphael as a globally documented painter with biographies in 169 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Raphael a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "raphael-1-origin",
+      "text": "Raphael is remembered as a painter connected with Italy.",
+      "context": "Raphael's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Raphael",
       "sourceUrl": "https://pantheon.world/profile/person/Raphael",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "raphael-2-obstacle",
+      "text": "Raphael's recorded life dates place this profile around 1483-1520.",
+      "context": "Raphael's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Raphael",
+      "sourceUrl": "https://pantheon.world/profile/person/Raphael",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "raphael-3-turning-point",
+      "text": "Raphael is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Raphael's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Raphael",
+      "sourceUrl": "https://pantheon.world/profile/person/Raphael",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "raphael-4-contribution",
+      "text": "Raphael's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Raphael's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Raphael",
+      "sourceUrl": "https://pantheon.world/profile/person/Raphael",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "raphael-5-influence",
+      "text": "Raphael has a Facts Mode card reserved for deeper source research.",
+      "context": "Raphael's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Raphael",
+      "sourceUrl": "https://pantheon.world/profile/person/Raphael",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

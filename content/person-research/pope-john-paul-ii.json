@@ -1,0 +1,46 @@
+{
+  "personId": "pope-john-paul-ii",
+  "slug": "pope-john-paul-ii",
+  "name": "Pope John Paul II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope John Paul II",
+      "url": "https://pantheon.world/profile/person/Pope_John_Paul_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-john-paul-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope John Paul II is remembered as a religious figure connected with Poland."
+    },
+    {
+      "factId": "pope-john-paul-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope John Paul II's recorded life dates place this profile around 1920-2005."
+    },
+    {
+      "factId": "pope-john-paul-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope John Paul II is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-john-paul-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope John Paul II's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "pope-john-paul-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope John Paul II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

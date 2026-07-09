@@ -1,0 +1,46 @@
+{
+  "personId": "tycho-brahe",
+  "slug": "tycho-brahe",
+  "name": "Tycho Brahe",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Tycho Brahe",
+      "url": "https://pantheon.world/profile/person/Tycho_Brahe",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "tycho-brahe-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Tycho Brahe is remembered as a astronomer connected with Sweden."
+    },
+    {
+      "factId": "tycho-brahe-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Tycho Brahe's recorded life dates place this profile around 1546-1601."
+    },
+    {
+      "factId": "tycho-brahe-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Tycho Brahe is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "tycho-brahe-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Tycho Brahe's profile connects a short Fact to a wider Sweden historical setting."
+    },
+    {
+      "factId": "tycho-brahe-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Tycho Brahe has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

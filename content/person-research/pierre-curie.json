@@ -1,0 +1,46 @@
+{
+  "personId": "pierre-curie",
+  "slug": "pierre-curie",
+  "name": "Pierre Curie",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pierre Curie",
+      "url": "https://pantheon.world/profile/person/Pierre_Curie",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pierre-curie-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pierre Curie is remembered as a physicist connected with France."
+    },
+    {
+      "factId": "pierre-curie-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pierre Curie's recorded life dates place this profile around 1859-1906."
+    },
+    {
+      "factId": "pierre-curie-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pierre Curie is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "pierre-curie-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pierre Curie's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "pierre-curie-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pierre Curie has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

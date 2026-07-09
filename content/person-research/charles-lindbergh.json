@@ -1,0 +1,46 @@
+{
+  "personId": "charles-lindbergh",
+  "slug": "charles-lindbergh",
+  "name": "Charles Lindbergh",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles Lindbergh",
+      "url": "https://pantheon.world/profile/person/Charles_Lindbergh",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-lindbergh-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles Lindbergh is remembered as a pilot connected with United States."
+    },
+    {
+      "factId": "charles-lindbergh-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles Lindbergh's recorded life dates place this profile around 1902-1974."
+    },
+    {
+      "factId": "charles-lindbergh-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles Lindbergh is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "charles-lindbergh-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles Lindbergh's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "charles-lindbergh-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles Lindbergh has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

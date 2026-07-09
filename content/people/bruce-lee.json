@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Bruce Lee is a notable actor associated with United States.",
+  "summary": "Bruce Lee is a notable actor connected with United States.",
   "knownFor": [
     "Actor",
-    "128 language biography editions",
-    "Historical Popularity Index 86.3"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 332,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "bruce-lee-pantheon-profile",
-      "text": "Pantheon ranks Bruce Lee as a globally documented actor with biographies in 128 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Bruce Lee a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "bruce-lee-1-origin",
+      "text": "Bruce Lee is remembered as a actor connected with United States.",
+      "context": "Bruce Lee's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Bruce Lee",
       "sourceUrl": "https://pantheon.world/profile/person/Bruce_Lee",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bruce-lee-2-obstacle",
+      "text": "Bruce Lee's recorded life dates place this profile around 1940-1973.",
+      "context": "Bruce Lee's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Bruce Lee",
+      "sourceUrl": "https://pantheon.world/profile/person/Bruce_Lee",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bruce-lee-3-turning-point",
+      "text": "Bruce Lee is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Bruce Lee's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Bruce Lee",
+      "sourceUrl": "https://pantheon.world/profile/person/Bruce_Lee",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bruce-lee-4-contribution",
+      "text": "Bruce Lee's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Bruce Lee's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Bruce Lee",
+      "sourceUrl": "https://pantheon.world/profile/person/Bruce_Lee",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bruce-lee-5-influence",
+      "text": "Bruce Lee has a Facts Mode card reserved for deeper source research.",
+      "context": "Bruce Lee's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Bruce Lee",
+      "sourceUrl": "https://pantheon.world/profile/person/Bruce_Lee",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

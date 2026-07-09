@@ -1,0 +1,46 @@
+{
+  "personId": "haakon-vii-of-norway",
+  "slug": "haakon-vii-of-norway",
+  "name": "Haakon VII of Norway",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Haakon VII of Norway",
+      "url": "https://pantheon.world/profile/person/Haakon_VII_of_Norway",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "haakon-vii-of-norway-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Haakon VII of Norway is remembered as a politician connected with Denmark."
+    },
+    {
+      "factId": "haakon-vii-of-norway-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Haakon VII of Norway's recorded life dates place this profile around 1872-1957."
+    },
+    {
+      "factId": "haakon-vii-of-norway-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Haakon VII of Norway is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "haakon-vii-of-norway-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Haakon VII of Norway's profile connects a short Fact to a wider Denmark historical setting."
+    },
+    {
+      "factId": "haakon-vii-of-norway-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Haakon VII of Norway has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

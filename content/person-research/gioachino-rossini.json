@@ -1,0 +1,46 @@
+{
+  "personId": "gioachino-rossini",
+  "slug": "gioachino-rossini",
+  "name": "Gioachino Rossini",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gioachino Rossini",
+      "url": "https://pantheon.world/profile/person/Gioachino_Rossini",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gioachino-rossini-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gioachino Rossini is remembered as a composer connected with Italy."
+    },
+    {
+      "factId": "gioachino-rossini-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gioachino Rossini's recorded life dates place this profile around 1792-1868."
+    },
+    {
+      "factId": "gioachino-rossini-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gioachino Rossini is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "gioachino-rossini-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gioachino Rossini's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "gioachino-rossini-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gioachino Rossini has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

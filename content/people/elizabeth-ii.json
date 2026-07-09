@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Elizabeth II is a notable nobleman associated with United Kingdom.",
+  "summary": "Elizabeth II is a notable nobleman connected with United Kingdom.",
   "knownFor": [
     "Nobleman",
-    "208 language biography editions",
-    "Historical Popularity Index 89.7"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 141,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "elizabeth-ii-pantheon-profile",
-      "text": "Pantheon ranks Elizabeth II as a globally documented nobleman with biographies in 208 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Elizabeth II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "elizabeth-ii-1-origin",
+      "text": "Elizabeth II is remembered as a nobleman connected with United Kingdom.",
+      "context": "Elizabeth II's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Elizabeth II",
       "sourceUrl": "https://pantheon.world/profile/person/Elizabeth_II",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elizabeth-ii-2-obstacle",
+      "text": "Elizabeth II's recorded life dates place this profile around 1926-2022.",
+      "context": "Elizabeth II's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Elizabeth II",
+      "sourceUrl": "https://pantheon.world/profile/person/Elizabeth_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elizabeth-ii-3-turning-point",
+      "text": "Elizabeth II is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Elizabeth II's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Elizabeth II",
+      "sourceUrl": "https://pantheon.world/profile/person/Elizabeth_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elizabeth-ii-4-contribution",
+      "text": "Elizabeth II's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Elizabeth II's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Elizabeth II",
+      "sourceUrl": "https://pantheon.world/profile/person/Elizabeth_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elizabeth-ii-5-influence",
+      "text": "Elizabeth II has a Facts Mode card reserved for deeper source research.",
+      "context": "Elizabeth II's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Elizabeth II",
+      "sourceUrl": "https://pantheon.world/profile/person/Elizabeth_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

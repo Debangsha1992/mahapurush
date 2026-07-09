@@ -1,0 +1,46 @@
+{
+  "personId": "leif-erikson",
+  "slug": "leif-erikson",
+  "name": "Leif Erikson",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Leif Erikson",
+      "url": "https://pantheon.world/profile/person/Leif_Erikson",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "leif-erikson-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Leif Erikson is remembered as a explorer connected with Iceland."
+    },
+    {
+      "factId": "leif-erikson-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Leif Erikson's recorded life dates place this profile around 970-1020."
+    },
+    {
+      "factId": "leif-erikson-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Leif Erikson is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "leif-erikson-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Leif Erikson's profile connects a short Fact to a wider Iceland historical setting."
+    },
+    {
+      "factId": "leif-erikson-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Leif Erikson has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

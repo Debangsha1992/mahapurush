@@ -1,0 +1,46 @@
+{
+  "personId": "mimar-sinan",
+  "slug": "mimar-sinan",
+  "name": "Mimar Sinan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mimar Sinan",
+      "url": "https://pantheon.world/profile/person/Mimar_Sinan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mimar-sinan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mimar Sinan is remembered as a architect connected with Türkiye."
+    },
+    {
+      "factId": "mimar-sinan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mimar Sinan's recorded life dates place this profile around 1490-1588."
+    },
+    {
+      "factId": "mimar-sinan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mimar Sinan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mimar-sinan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mimar Sinan's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "mimar-sinan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mimar Sinan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

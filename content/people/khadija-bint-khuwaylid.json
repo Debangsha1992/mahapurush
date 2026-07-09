@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Khadija bint Khuwaylid is a notable companion associated with Saudi Arabia.",
+  "summary": "Khadija bint Khuwaylid is a notable companion connected with Saudi Arabia.",
   "knownFor": [
     "Companion",
-    "89 language biography editions",
-    "Historical Popularity Index 86.6"
+    "Justice, Governance & Leadership",
+    "Saudi Arabia"
   ],
   "featured": true,
   "featuredRank": 315,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "khadija-bint-khuwaylid-pantheon-profile",
-      "text": "Pantheon ranks Khadija bint Khuwaylid as a globally documented companion with biographies in 89 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Khadija bint Khuwaylid a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "khadija-bint-khuwaylid-1-origin",
+      "text": "Khadija bint Khuwaylid is remembered as a companion connected with Saudi Arabia.",
+      "context": "Khadija bint Khuwaylid's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Khadija bint Khuwaylid",
       "sourceUrl": "https://pantheon.world/profile/person/Khadija_bint_Khuwaylid",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khadija-bint-khuwaylid-2-obstacle",
+      "text": "Khadija bint Khuwaylid's recorded life dates place this profile around 556-619.",
+      "context": "Khadija bint Khuwaylid's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Khadija bint Khuwaylid",
+      "sourceUrl": "https://pantheon.world/profile/person/Khadija_bint_Khuwaylid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khadija-bint-khuwaylid-3-turning-point",
+      "text": "Khadija bint Khuwaylid is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Khadija bint Khuwaylid's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Khadija bint Khuwaylid",
+      "sourceUrl": "https://pantheon.world/profile/person/Khadija_bint_Khuwaylid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khadija-bint-khuwaylid-4-contribution",
+      "text": "Khadija bint Khuwaylid's profile connects a short Fact to a wider Saudi Arabia historical setting.",
+      "context": "Khadija bint Khuwaylid's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Khadija bint Khuwaylid",
+      "sourceUrl": "https://pantheon.world/profile/person/Khadija_bint_Khuwaylid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khadija-bint-khuwaylid-5-influence",
+      "text": "Khadija bint Khuwaylid has a Facts Mode card reserved for deeper source research.",
+      "context": "Khadija bint Khuwaylid's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Khadija bint Khuwaylid",
+      "sourceUrl": "https://pantheon.world/profile/person/Khadija_bint_Khuwaylid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

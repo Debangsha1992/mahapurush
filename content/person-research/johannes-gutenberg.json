@@ -1,0 +1,46 @@
+{
+  "personId": "johannes-gutenberg",
+  "slug": "johannes-gutenberg",
+  "name": "Johannes Gutenberg",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Johannes Gutenberg",
+      "url": "https://pantheon.world/profile/person/Johannes_Gutenberg",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "johannes-gutenberg-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Gutenberg is remembered as a inventor connected with Germany."
+    },
+    {
+      "factId": "johannes-gutenberg-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Gutenberg's recorded life dates place this profile around 1394-1468."
+    },
+    {
+      "factId": "johannes-gutenberg-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Gutenberg is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "johannes-gutenberg-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Gutenberg's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "johannes-gutenberg-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Gutenberg has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

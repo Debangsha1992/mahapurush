@@ -1,0 +1,46 @@
+{
+  "personId": "severus-alexander",
+  "slug": "severus-alexander",
+  "name": "Severus Alexander",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Severus Alexander",
+      "url": "https://pantheon.world/profile/person/Severus_Alexander",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "severus-alexander-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Severus Alexander is remembered as a politician connected with Lebanon."
+    },
+    {
+      "factId": "severus-alexander-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Severus Alexander's recorded life dates place this profile around 208-235."
+    },
+    {
+      "factId": "severus-alexander-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Severus Alexander is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "severus-alexander-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Severus Alexander's profile connects a short Fact to a wider Lebanon historical setting."
+    },
+    {
+      "factId": "severus-alexander-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Severus Alexander has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

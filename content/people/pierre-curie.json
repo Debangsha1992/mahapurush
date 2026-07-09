@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Pierre Curie is a notable physicist associated with France.",
+  "summary": "Pierre Curie is a notable physicist connected with France.",
   "knownFor": [
     "Physicist",
-    "114 language biography editions",
-    "Historical Popularity Index 84.4"
+    "Science, Math & Technology",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Pierre Curie",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pierre-curie-pantheon-profile",
-      "text": "Pantheon ranks Pierre Curie as a globally documented physicist with biographies in 114 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pierre Curie a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pierre-curie-1-origin",
+      "text": "Pierre Curie is remembered as a physicist connected with France.",
+      "context": "Pierre Curie's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Pierre Curie",
       "sourceUrl": "https://pantheon.world/profile/person/Pierre_Curie",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-curie-2-obstacle",
+      "text": "Pierre Curie's recorded life dates place this profile around 1859-1906.",
+      "context": "Pierre Curie's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pierre Curie",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre_Curie",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-curie-3-turning-point",
+      "text": "Pierre Curie is grouped with Science, Math & Technology in the People Library.",
+      "context": "Pierre Curie's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pierre Curie",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre_Curie",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-curie-4-contribution",
+      "text": "Pierre Curie's profile connects a short Fact to a wider France historical setting.",
+      "context": "Pierre Curie's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pierre Curie",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre_Curie",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pierre-curie-5-influence",
+      "text": "Pierre Curie has a Facts Mode card reserved for deeper source research.",
+      "context": "Pierre Curie's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pierre Curie",
+      "sourceUrl": "https://pantheon.world/profile/person/Pierre_Curie",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

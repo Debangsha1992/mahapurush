@@ -1,0 +1,46 @@
+{
+  "personId": "wu-zetian",
+  "slug": "wu-zetian",
+  "name": "Wu Zetian",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Wu Zetian",
+      "url": "https://pantheon.world/profile/person/Wu_Zetian",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "wu-zetian-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Wu Zetian is remembered as a politician connected with China."
+    },
+    {
+      "factId": "wu-zetian-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Wu Zetian's recorded life dates place this profile around 624-705."
+    },
+    {
+      "factId": "wu-zetian-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Wu Zetian is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "wu-zetian-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Wu Zetian's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "wu-zetian-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Wu Zetian has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

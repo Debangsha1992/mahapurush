@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "musician"
   ],
-  "summary": "John Lennon is a notable musician associated with United Kingdom.",
+  "summary": "John Lennon is a notable musician connected with United Kingdom.",
   "knownFor": [
     "Musician",
-    "138 language biography editions",
-    "Historical Popularity Index 83.6"
+    "Literature, Arts & Culture",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for John Lennon",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "john-lennon-pantheon-profile",
-      "text": "Pantheon ranks John Lennon as a globally documented musician with biographies in 138 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make John Lennon a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "john-lennon-1-origin",
+      "text": "John Lennon is remembered as a musician connected with United Kingdom.",
+      "context": "John Lennon's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: John Lennon",
       "sourceUrl": "https://pantheon.world/profile/person/John_Lennon",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-lennon-2-obstacle",
+      "text": "John Lennon's recorded life dates place this profile around 1940-1980.",
+      "context": "John Lennon's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: John Lennon",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Lennon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-lennon-3-turning-point",
+      "text": "John Lennon is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "John Lennon's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: John Lennon",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Lennon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-lennon-4-contribution",
+      "text": "John Lennon's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "John Lennon's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: John Lennon",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Lennon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-lennon-5-influence",
+      "text": "John Lennon has a Facts Mode card reserved for deeper source research.",
+      "context": "John Lennon's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: John Lennon",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Lennon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

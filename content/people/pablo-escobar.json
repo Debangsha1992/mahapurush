@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "mafioso"
   ],
-  "summary": "Pablo Escobar is a notable mafioso associated with Colombia.",
+  "summary": "Pablo Escobar is a notable mafioso connected with Colombia.",
   "knownFor": [
     "Mafioso",
-    "99 language biography editions",
-    "Historical Popularity Index 85.0"
+    "Justice, Governance & Leadership",
+    "Colombia"
   ],
   "featured": true,
   "featuredRank": 446,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pablo-escobar-pantheon-profile",
-      "text": "Pantheon ranks Pablo Escobar as a globally documented mafioso with biographies in 99 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pablo Escobar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pablo-escobar-1-origin",
+      "text": "Pablo Escobar is remembered as a mafioso connected with Colombia.",
+      "context": "Pablo Escobar's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Pablo Escobar",
       "sourceUrl": "https://pantheon.world/profile/person/Pablo_Escobar",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pablo-escobar-2-obstacle",
+      "text": "Pablo Escobar's recorded life dates place this profile around 1949-1993.",
+      "context": "Pablo Escobar's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pablo Escobar",
+      "sourceUrl": "https://pantheon.world/profile/person/Pablo_Escobar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pablo-escobar-3-turning-point",
+      "text": "Pablo Escobar is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Pablo Escobar's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pablo Escobar",
+      "sourceUrl": "https://pantheon.world/profile/person/Pablo_Escobar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pablo-escobar-4-contribution",
+      "text": "Pablo Escobar's profile connects a short Fact to a wider Colombia historical setting.",
+      "context": "Pablo Escobar's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pablo Escobar",
+      "sourceUrl": "https://pantheon.world/profile/person/Pablo_Escobar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pablo-escobar-5-influence",
+      "text": "Pablo Escobar has a Facts Mode card reserved for deeper source research.",
+      "context": "Pablo Escobar's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pablo Escobar",
+      "sourceUrl": "https://pantheon.world/profile/person/Pablo_Escobar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

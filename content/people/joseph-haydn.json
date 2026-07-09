@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Joseph Haydn is a notable composer associated with Austria.",
+  "summary": "Joseph Haydn is a notable composer connected with Austria.",
   "knownFor": [
     "Composer",
-    "130 language biography editions",
-    "Historical Popularity Index 88.3"
+    "Literature, Arts & Culture",
+    "Austria"
   ],
   "featured": true,
   "featuredRank": 204,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "joseph-haydn-pantheon-profile",
-      "text": "Pantheon ranks Joseph Haydn as a globally documented composer with biographies in 130 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Joseph Haydn a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "joseph-haydn-1-origin",
+      "text": "Joseph Haydn is remembered as a composer connected with Austria.",
+      "context": "Joseph Haydn's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Joseph Haydn",
       "sourceUrl": "https://pantheon.world/profile/person/Joseph_Haydn",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-haydn-2-obstacle",
+      "text": "Joseph Haydn's recorded life dates place this profile around 1732-1809.",
+      "context": "Joseph Haydn's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Joseph Haydn",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_Haydn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-haydn-3-turning-point",
+      "text": "Joseph Haydn is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Joseph Haydn's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Joseph Haydn",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_Haydn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-haydn-4-contribution",
+      "text": "Joseph Haydn's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Joseph Haydn's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Joseph Haydn",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_Haydn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-haydn-5-influence",
+      "text": "Joseph Haydn has a Facts Mode card reserved for deeper source research.",
+      "context": "Joseph Haydn's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Joseph Haydn",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_Haydn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

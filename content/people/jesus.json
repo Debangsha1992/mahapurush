@@ -12,35 +12,101 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Jesus is a notable religious figure associated with Israel.",
+  "summary": "Jesus, also referred to as Jesus Christ, Jesus of Nazareth, and by various other names and titles, was a 1st-century Jewish preacher and religious leader in the Roman province of Judaea.",
   "knownFor": [
     "Religious Figure",
-    "274 language biography editions",
-    "Historical Popularity Index 94.2"
+    "Philosophy, Ethics & Religion",
+    "Israel"
   ],
   "featured": true,
   "featuredRank": 53,
   "imageAlt": "Portrait-style visual for Jesus",
   "sourceRefs": [
     {
-      "title": "Pantheon: Jesus",
-      "url": "https://pantheon.world/profile/person/Jesus",
+      "title": "Wikipedia: Jesus",
+      "url": "https://en.wikipedia.org/wiki/Jesus",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jesus-pantheon-profile",
-      "text": "Pantheon ranks Jesus as a globally documented religious figure with biographies in 274 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jesus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Jesus",
-      "sourceUrl": "https://pantheon.world/profile/person/Jesus",
+      "id": "jesus-1-origin",
+      "text": "Jesus, also referred to as Jesus Christ, Jesus of Nazareth, and by various other names and titles, was a 1st-century Jewish preacher and religious leader in the Roman province of Judaea.",
+      "context": "Jesus's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Jesus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jesus",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jesus-2-obstacle",
+      "text": "Jesus is the central figure of Christianity, the world's largest religion.",
+      "context": "Jesus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Jesus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jesus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jesus-3-turning-point",
+      "text": "Most branches of Christianity consider Jesus the incarnation of God the Son and the awaited Messiah or Christ.",
+      "context": "Jesus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Jesus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jesus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jesus-4-contribution",
+      "text": "Accounts of Jesus's life are contained in the Gospels, especially the four canonical Gospels of the New Testament.",
+      "context": "Jesus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Jesus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jesus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jesus-5-influence",
+      "text": "Since the Enlightenment, academic research has produced various views on the historical reliability of the Gospels and the extent to which they reflect the historical Jesus, but virtually all modern scholars of antiquity agree that Jesus existed historically.",
+      "context": "Jesus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Jesus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jesus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

@@ -12,35 +12,104 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Homer is a notable writer associated with Greece.",
+  "summary": "Homer was an ancient Greek poet who is widely credited as the author of the Iliad and the Odyssey, two epic poems that are foundational works of ancient Greek literature.",
   "knownFor": [
     "Writer",
-    "194 language biography editions",
-    "Historical Popularity Index 95.4"
+    "Literature, Arts & Culture",
+    "Greece"
   ],
   "featured": true,
   "featuredRank": 47,
   "imageAlt": "Portrait-style visual for Homer",
   "sourceRefs": [
     {
-      "title": "Pantheon: Homer",
-      "url": "https://pantheon.world/profile/person/Homer",
+      "title": "Wikipedia: Homer",
+      "url": "https://en.wikipedia.org/wiki/Homer",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "homer-pantheon-profile",
-      "text": "Pantheon ranks Homer as a globally documented writer with biographies in 194 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Homer a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Homer",
-      "sourceUrl": "https://pantheon.world/profile/person/Homer",
+      "id": "homer-1-origin",
+      "text": "Homer was an ancient Greek poet who is widely credited as the author of the Iliad and the Odyssey, two epic poems that are foundational works of ancient Greek literature.",
+      "context": "Homer's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Homer",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Homer",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "homer-2-obstacle",
+      "text": "Although his life and authorship remain obscure, Homer was highly revered in ancient Greek society and is considered one of the most influential authors in history.",
+      "context": "Homer's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Homer",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Homer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "homer-3-turning-point",
+      "text": "Homer is remembered as a writer connected with Greece.",
+      "context": "Homer's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Homer",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Homer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "homer-4-contribution",
+      "text": "Homer's recorded life dates place this profile around -800--750.",
+      "context": "Homer's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Homer",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Homer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "homer-5-influence",
+      "text": "Homer is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Homer's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Homer",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Homer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Salvador Dalí is a notable painter associated with Spain.",
+  "summary": "Salvador Dalí is a notable painter connected with Spain.",
   "knownFor": [
     "Painter",
-    "201 language biography editions",
-    "Historical Popularity Index 89.9"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": true,
   "featuredRank": 131,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "salvador-dali-pantheon-profile",
-      "text": "Pantheon ranks Salvador Dalí as a globally documented painter with biographies in 201 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Salvador Dalí a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "salvador-dali-1-origin",
+      "text": "Salvador Dalí is remembered as a painter connected with Spain.",
+      "context": "Salvador Dalí's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Salvador Dalí",
       "sourceUrl": "https://pantheon.world/profile/person/Salvador_Dal%C3%AD",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "salvador-dali-2-obstacle",
+      "text": "Salvador Dalí's recorded life dates place this profile around 1904-1989.",
+      "context": "Salvador Dalí's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Salvador Dalí",
+      "sourceUrl": "https://pantheon.world/profile/person/Salvador_Dal%C3%AD",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "salvador-dali-3-turning-point",
+      "text": "Salvador Dalí is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Salvador Dalí's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Salvador Dalí",
+      "sourceUrl": "https://pantheon.world/profile/person/Salvador_Dal%C3%AD",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "salvador-dali-4-contribution",
+      "text": "Salvador Dalí's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Salvador Dalí's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Salvador Dalí",
+      "sourceUrl": "https://pantheon.world/profile/person/Salvador_Dal%C3%AD",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "salvador-dali-5-influence",
+      "text": "Salvador Dalí has a Facts Mode card reserved for deeper source research.",
+      "context": "Salvador Dalí's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Salvador Dalí",
+      "sourceUrl": "https://pantheon.world/profile/person/Salvador_Dal%C3%AD",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

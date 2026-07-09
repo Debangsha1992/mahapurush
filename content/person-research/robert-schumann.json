@@ -1,0 +1,46 @@
+{
+  "personId": "robert-schumann",
+  "slug": "robert-schumann",
+  "name": "Robert Schumann",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Robert Schumann",
+      "url": "https://pantheon.world/profile/person/Robert_Schumann",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "robert-schumann-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Robert Schumann is remembered as a composer connected with Germany."
+    },
+    {
+      "factId": "robert-schumann-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Robert Schumann's recorded life dates place this profile around 1810-1856."
+    },
+    {
+      "factId": "robert-schumann-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Robert Schumann is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "robert-schumann-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Robert Schumann's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "robert-schumann-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Robert Schumann has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

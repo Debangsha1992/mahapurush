@@ -1,0 +1,46 @@
+{
+  "personId": "ferdinand-marcos",
+  "slug": "ferdinand-marcos",
+  "name": "Ferdinand Marcos",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ferdinand Marcos",
+      "url": "https://pantheon.world/profile/person/Ferdinand_Marcos",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ferdinand-marcos-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand Marcos is remembered as a politician connected with Philippines."
+    },
+    {
+      "factId": "ferdinand-marcos-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand Marcos's recorded life dates place this profile around 1917-1989."
+    },
+    {
+      "factId": "ferdinand-marcos-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand Marcos is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ferdinand-marcos-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand Marcos's profile connects a short Fact to a wider Philippines historical setting."
+    },
+    {
+      "factId": "ferdinand-marcos-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand Marcos has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

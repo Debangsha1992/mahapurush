@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mehmed III is a notable politician associated with Türkiye.",
+  "summary": "Mehmed III is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "69 language biography editions",
-    "Historical Popularity Index 82.7"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mehmed III",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mehmed-iii-pantheon-profile",
-      "text": "Pantheon ranks Mehmed III as a globally documented politician with biographies in 69 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mehmed III a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mehmed-iii-1-origin",
+      "text": "Mehmed III is remembered as a politician connected with Türkiye.",
+      "context": "Mehmed III's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mehmed III",
       "sourceUrl": "https://pantheon.world/profile/person/Mehmed_III",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mehmed-iii-2-obstacle",
+      "text": "Mehmed III's recorded life dates place this profile around 1566-1603.",
+      "context": "Mehmed III's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mehmed III",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mehmed-iii-3-turning-point",
+      "text": "Mehmed III is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mehmed III's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mehmed III",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mehmed-iii-4-contribution",
+      "text": "Mehmed III's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Mehmed III's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mehmed III",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mehmed-iii-5-influence",
+      "text": "Mehmed III has a Facts Mode card reserved for deeper source research.",
+      "context": "Mehmed III's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mehmed III",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

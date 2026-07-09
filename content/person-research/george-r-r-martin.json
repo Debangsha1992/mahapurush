@@ -1,0 +1,46 @@
+{
+  "personId": "george-r-r-martin",
+  "slug": "george-r-r-martin",
+  "name": "George R. R. Martin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: George R. R. Martin",
+      "url": "https://pantheon.world/profile/person/George_R._R._Martin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "george-r-r-martin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "George R. R. Martin is remembered as a writer connected with United States."
+    },
+    {
+      "factId": "george-r-r-martin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "George R. R. Martin's recorded life dates place this profile around born 1948."
+    },
+    {
+      "factId": "george-r-r-martin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "George R. R. Martin is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "george-r-r-martin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "George R. R. Martin's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "george-r-r-martin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "George R. R. Martin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "marcus-aurelius",
+  "slug": "marcus-aurelius",
+  "name": "Marcus Aurelius",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Marcus Aurelius",
+      "url": "https://pantheon.world/profile/person/Marcus_Aurelius",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "marcus-aurelius-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Marcus Aurelius is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "marcus-aurelius-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Marcus Aurelius's recorded life dates place this profile around 121-180."
+    },
+    {
+      "factId": "marcus-aurelius-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Marcus Aurelius is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "marcus-aurelius-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Marcus Aurelius's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "marcus-aurelius-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Marcus Aurelius has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

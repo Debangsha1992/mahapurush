@@ -1,0 +1,46 @@
+{
+  "personId": "paul-the-apostle",
+  "slug": "paul-the-apostle",
+  "name": "Paul the Apostle",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Paul the Apostle",
+      "url": "https://pantheon.world/profile/person/Paul_the_Apostle",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "paul-the-apostle-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Paul the Apostle is remembered as a religious figure connected with Türkiye."
+    },
+    {
+      "factId": "paul-the-apostle-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Paul the Apostle's recorded life dates place this profile around 5-66."
+    },
+    {
+      "factId": "paul-the-apostle-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Paul the Apostle is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "paul-the-apostle-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Paul the Apostle's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "paul-the-apostle-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Paul the Apostle has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "einstein",
+  "slug": "einstein",
+  "name": "Albert Einstein",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Albert Einstein",
+      "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "German-born theoretical physicist (1879–1955)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "einstein-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Albert Einstein was a German-born theoretical physicist best known for developing the known theory of relativity."
+    },
+    {
+      "factId": "einstein-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Albert Einstein also made important contributions to quantum theory."
+    },
+    {
+      "factId": "einstein-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Albert Einstein received the 1921 Nobel Prize in Physics for \"his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\"."
+    },
+    {
+      "factId": "einstein-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Albert Einstein is remembered as a scientist connected with Germany, Switzerland, United States."
+    },
+    {
+      "factId": "einstein-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Albert Einstein's recorded life dates place this profile around 1879-1955."
+    }
+  ]
+}

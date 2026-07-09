@@ -1,0 +1,46 @@
+{
+  "personId": "marie-louise-duchess-of-parma",
+  "slug": "marie-louise-duchess-of-parma",
+  "name": "Marie Louise, Duchess of Parma",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Marie Louise, Duchess of Parma",
+      "url": "https://pantheon.world/profile/person/Marie_Louise%2C_Duchess_of_Parma",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "marie-louise-duchess-of-parma-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Marie Louise, Duchess of Parma is remembered as a companion connected with Austria."
+    },
+    {
+      "factId": "marie-louise-duchess-of-parma-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Marie Louise, Duchess of Parma's recorded life dates place this profile around 1791-1847."
+    },
+    {
+      "factId": "marie-louise-duchess-of-parma-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Marie Louise, Duchess of Parma is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "marie-louise-duchess-of-parma-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Marie Louise, Duchess of Parma's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "marie-louise-duchess-of-parma-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Marie Louise, Duchess of Parma has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

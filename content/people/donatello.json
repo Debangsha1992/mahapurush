@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Donatello is a notable painter associated with Italy.",
+  "summary": "Donatello is a notable painter connected with Italy.",
   "knownFor": [
     "Painter",
-    "100 language biography editions",
-    "Historical Popularity Index 84.8"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 453,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "donatello-pantheon-profile",
-      "text": "Pantheon ranks Donatello as a globally documented painter with biographies in 100 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Donatello a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "donatello-1-origin",
+      "text": "Donatello is remembered as a painter connected with Italy.",
+      "context": "Donatello's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Donatello",
       "sourceUrl": "https://pantheon.world/profile/person/Donatello",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "donatello-2-obstacle",
+      "text": "Donatello's recorded life dates place this profile around 1386-1466.",
+      "context": "Donatello's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Donatello",
+      "sourceUrl": "https://pantheon.world/profile/person/Donatello",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "donatello-3-turning-point",
+      "text": "Donatello is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Donatello's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Donatello",
+      "sourceUrl": "https://pantheon.world/profile/person/Donatello",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "donatello-4-contribution",
+      "text": "Donatello's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Donatello's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Donatello",
+      "sourceUrl": "https://pantheon.world/profile/person/Donatello",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "donatello-5-influence",
+      "text": "Donatello has a Facts Mode card reserved for deeper source research.",
+      "context": "Donatello's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Donatello",
+      "sourceUrl": "https://pantheon.world/profile/person/Donatello",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

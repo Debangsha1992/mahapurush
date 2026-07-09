@@ -1,0 +1,46 @@
+{
+  "personId": "franz-kafka",
+  "slug": "franz-kafka",
+  "name": "Franz Kafka",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Franz Kafka",
+      "url": "https://pantheon.world/profile/person/Franz_Kafka",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "franz-kafka-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Franz Kafka is remembered as a writer connected with Czechia."
+    },
+    {
+      "factId": "franz-kafka-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Franz Kafka's recorded life dates place this profile around 1883-1924."
+    },
+    {
+      "factId": "franz-kafka-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Franz Kafka is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "franz-kafka-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Franz Kafka's profile connects a short Fact to a wider Czechia historical setting."
+    },
+    {
+      "factId": "franz-kafka-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Franz Kafka has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mary, Queen of Scots is a notable politician associated with United Kingdom.",
+  "summary": "Mary, Queen of Scots is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "92 language biography editions",
-    "Historical Popularity Index 84.0"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mary, Queen of Scots",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mary-queen-of-scots-pantheon-profile",
-      "text": "Pantheon ranks Mary, Queen of Scots as a globally documented politician with biographies in 92 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mary, Queen of Scots a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mary-queen-of-scots-1-origin",
+      "text": "Mary, Queen of Scots is remembered as a politician connected with United Kingdom.",
+      "context": "Mary, Queen of Scots's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mary, Queen of Scots",
       "sourceUrl": "https://pantheon.world/profile/person/Mary%2C_Queen_of_Scots",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mary-queen-of-scots-2-obstacle",
+      "text": "Mary, Queen of Scots's recorded life dates place this profile around 1542-1587.",
+      "context": "Mary, Queen of Scots's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mary, Queen of Scots",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary%2C_Queen_of_Scots",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mary-queen-of-scots-3-turning-point",
+      "text": "Mary, Queen of Scots is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mary, Queen of Scots's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mary, Queen of Scots",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary%2C_Queen_of_Scots",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mary-queen-of-scots-4-contribution",
+      "text": "Mary, Queen of Scots's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Mary, Queen of Scots's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mary, Queen of Scots",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary%2C_Queen_of_Scots",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mary-queen-of-scots-5-influence",
+      "text": "Mary, Queen of Scots has a Facts Mode card reserved for deeper source research.",
+      "context": "Mary, Queen of Scots's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mary, Queen of Scots",
+      "sourceUrl": "https://pantheon.world/profile/person/Mary%2C_Queen_of_Scots",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "sima-qian",
+  "slug": "sima-qian",
+  "name": "Sima Qian",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Sima Qian",
+      "url": "https://pantheon.world/profile/person/Sima_Qian",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sima-qian-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Sima Qian is remembered as a historian connected with China."
+    },
+    {
+      "factId": "sima-qian-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Sima Qian's recorded life dates place this profile around -145--86."
+    },
+    {
+      "factId": "sima-qian-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Sima Qian is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "sima-qian-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Sima Qian's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "sima-qian-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sima Qian has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

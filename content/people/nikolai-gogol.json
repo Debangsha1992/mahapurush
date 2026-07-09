@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Nikolai Gogol is a notable writer associated with Ukraine.",
+  "summary": "Nikolai Gogol is a notable writer connected with Ukraine.",
   "knownFor": [
     "Writer",
-    "107 language biography editions",
-    "Historical Popularity Index 82.8"
+    "Literature, Arts & Culture",
+    "Ukraine"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Nikolai Gogol",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "nikolai-gogol-pantheon-profile",
-      "text": "Pantheon ranks Nikolai Gogol as a globally documented writer with biographies in 107 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Nikolai Gogol a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "nikolai-gogol-1-origin",
+      "text": "Nikolai Gogol is remembered as a writer connected with Ukraine.",
+      "context": "Nikolai Gogol's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Nikolai Gogol",
       "sourceUrl": "https://pantheon.world/profile/person/Nikolai_Gogol",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikolai-gogol-2-obstacle",
+      "text": "Nikolai Gogol's recorded life dates place this profile around 1809-1852.",
+      "context": "Nikolai Gogol's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Nikolai Gogol",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikolai_Gogol",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikolai-gogol-3-turning-point",
+      "text": "Nikolai Gogol is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Nikolai Gogol's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Nikolai Gogol",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikolai_Gogol",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikolai-gogol-4-contribution",
+      "text": "Nikolai Gogol's profile connects a short Fact to a wider Ukraine historical setting.",
+      "context": "Nikolai Gogol's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Nikolai Gogol",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikolai_Gogol",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikolai-gogol-5-influence",
+      "text": "Nikolai Gogol has a Facts Mode card reserved for deeper source research.",
+      "context": "Nikolai Gogol's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Nikolai Gogol",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikolai_Gogol",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

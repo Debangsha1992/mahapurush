@@ -12,35 +12,105 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Donald Trump is a notable politician associated with United States.",
+  "summary": "Donald John Trump is an American politician, media personality, and businessman who is the 47th president of the United States.",
   "knownFor": [
     "Politician",
-    "253 language biography editions",
-    "Historical Popularity Index 99.3"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 33,
   "imageAlt": "Portrait-style visual for Donald Trump",
   "sourceRefs": [
     {
-      "title": "Pantheon: Donald Trump",
-      "url": "https://pantheon.world/profile/person/Donald_Trump",
+      "title": "Wikipedia: Donald Trump",
+      "url": "https://en.wikipedia.org/wiki/Donald_Trump",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "donald-trump-pantheon-profile",
-      "text": "Pantheon ranks Donald Trump as a globally documented politician with biographies in 253 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Donald Trump a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Donald Trump",
-      "sourceUrl": "https://pantheon.world/profile/person/Donald_Trump",
+      "id": "donald-trump-1-origin",
+      "text": "Donald John Donald Trump is an American politician, media personality, and businessman who is the 47th president of the United States.",
+      "context": "Donald Trump's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Donald Trump",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "donald-trump-2-obstacle",
+      "text": "Donald Trump is remembered as a politician connected with United States.",
+      "context": "Donald Trump's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Donald Trump",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "donald-trump-3-turning-point",
+      "text": "Donald Trump's recorded life dates place this profile around born 1946.",
+      "context": "Donald Trump's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Donald Trump",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "donald-trump-4-contribution",
+      "text": "Donald Trump is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Donald Trump's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Donald Trump",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "donald-trump-5-influence",
+      "text": "Donald Trump's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Donald Trump's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Donald Trump",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

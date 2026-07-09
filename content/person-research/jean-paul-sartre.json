@@ -1,0 +1,46 @@
+{
+  "personId": "jean-paul-sartre",
+  "slug": "jean-paul-sartre",
+  "name": "Jean-Paul Sartre",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jean-Paul Sartre",
+      "url": "https://pantheon.world/profile/person/Jean-Paul_Sartre",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jean-paul-sartre-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Paul Sartre is remembered as a writer connected with France."
+    },
+    {
+      "factId": "jean-paul-sartre-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Paul Sartre's recorded life dates place this profile around 1905-1980."
+    },
+    {
+      "factId": "jean-paul-sartre-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Paul Sartre is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "jean-paul-sartre-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Paul Sartre's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "jean-paul-sartre-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Paul Sartre has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

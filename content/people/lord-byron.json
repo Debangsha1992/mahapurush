@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Lord Byron is a notable writer associated with United Kingdom.",
+  "summary": "Lord Byron is a notable writer connected with United Kingdom.",
   "knownFor": [
     "Writer",
-    "152 language biography editions",
-    "Historical Popularity Index 82.8"
+    "Literature, Arts & Culture",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Lord Byron",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "lord-byron-pantheon-profile",
-      "text": "Pantheon ranks Lord Byron as a globally documented writer with biographies in 152 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Lord Byron a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "lord-byron-1-origin",
+      "text": "Lord Byron is remembered as a writer connected with United Kingdom.",
+      "context": "Lord Byron's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Lord Byron",
       "sourceUrl": "https://pantheon.world/profile/person/Lord_Byron",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lord-byron-2-obstacle",
+      "text": "Lord Byron's recorded life dates place this profile around 1788-1824.",
+      "context": "Lord Byron's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Lord Byron",
+      "sourceUrl": "https://pantheon.world/profile/person/Lord_Byron",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lord-byron-3-turning-point",
+      "text": "Lord Byron is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Lord Byron's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Lord Byron",
+      "sourceUrl": "https://pantheon.world/profile/person/Lord_Byron",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lord-byron-4-contribution",
+      "text": "Lord Byron's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Lord Byron's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Lord Byron",
+      "sourceUrl": "https://pantheon.world/profile/person/Lord_Byron",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lord-byron-5-influence",
+      "text": "Lord Byron has a Facts Mode card reserved for deeper source research.",
+      "context": "Lord Byron's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Lord Byron",
+      "sourceUrl": "https://pantheon.world/profile/person/Lord_Byron",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

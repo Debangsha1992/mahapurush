@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Pyotr Ilyich Tchaikovsky is a notable composer associated with Russia.",
+  "summary": "Pyotr Ilyich Tchaikovsky is a notable composer connected with Russia.",
   "knownFor": [
     "Composer",
-    "155 language biography editions",
-    "Historical Popularity Index 89.4"
+    "Literature, Arts & Culture",
+    "Russia"
   ],
   "featured": true,
   "featuredRank": 153,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pyotr-ilyich-tchaikovsky-pantheon-profile",
-      "text": "Pantheon ranks Pyotr Ilyich Tchaikovsky as a globally documented composer with biographies in 155 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pyotr Ilyich Tchaikovsky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pyotr-ilyich-tchaikovsky-1-origin",
+      "text": "Pyotr Ilyich Tchaikovsky is remembered as a composer connected with Russia.",
+      "context": "Pyotr Ilyich Tchaikovsky's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Pyotr Ilyich Tchaikovsky",
       "sourceUrl": "https://pantheon.world/profile/person/Pyotr_Ilyich_Tchaikovsky",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pyotr-ilyich-tchaikovsky-2-obstacle",
+      "text": "Pyotr Ilyich Tchaikovsky's recorded life dates place this profile around 1840-1893.",
+      "context": "Pyotr Ilyich Tchaikovsky's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pyotr Ilyich Tchaikovsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Pyotr_Ilyich_Tchaikovsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pyotr-ilyich-tchaikovsky-3-turning-point",
+      "text": "Pyotr Ilyich Tchaikovsky is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Pyotr Ilyich Tchaikovsky's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pyotr Ilyich Tchaikovsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Pyotr_Ilyich_Tchaikovsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pyotr-ilyich-tchaikovsky-4-contribution",
+      "text": "Pyotr Ilyich Tchaikovsky's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Pyotr Ilyich Tchaikovsky's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pyotr Ilyich Tchaikovsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Pyotr_Ilyich_Tchaikovsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pyotr-ilyich-tchaikovsky-5-influence",
+      "text": "Pyotr Ilyich Tchaikovsky has a Facts Mode card reserved for deeper source research.",
+      "context": "Pyotr Ilyich Tchaikovsky's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pyotr Ilyich Tchaikovsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Pyotr_Ilyich_Tchaikovsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "catherine-de-medici",
+  "slug": "catherine-de-medici",
+  "name": "Catherine de' Medici",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Catherine de' Medici",
+      "url": "https://pantheon.world/profile/person/Catherine_de'_Medici",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "catherine-de-medici-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Catherine de' Medici is remembered as a companion connected with Italy."
+    },
+    {
+      "factId": "catherine-de-medici-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Catherine de' Medici's recorded life dates place this profile around 1519-1589."
+    },
+    {
+      "factId": "catherine-de-medici-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Catherine de' Medici is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "catherine-de-medici-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Catherine de' Medici's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "catherine-de-medici-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Catherine de' Medici has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

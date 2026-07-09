@@ -1,0 +1,46 @@
+{
+  "personId": "pope-benedict-xv",
+  "slug": "pope-benedict-xv",
+  "name": "Pope Benedict XV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Benedict XV",
+      "url": "https://pantheon.world/profile/person/Pope_Benedict_XV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-benedict-xv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XV is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-benedict-xv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XV's recorded life dates place this profile around 1854-1922."
+    },
+    {
+      "factId": "pope-benedict-xv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XV is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-benedict-xv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XV's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-benedict-xv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

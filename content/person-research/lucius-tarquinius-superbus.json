@@ -1,0 +1,46 @@
+{
+  "personId": "lucius-tarquinius-superbus",
+  "slug": "lucius-tarquinius-superbus",
+  "name": "Lucius Tarquinius Superbus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Lucius Tarquinius Superbus",
+      "url": "https://pantheon.world/profile/person/Lucius_Tarquinius_Superbus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lucius-tarquinius-superbus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Lucius Tarquinius Superbus is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "lucius-tarquinius-superbus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Lucius Tarquinius Superbus's recorded life dates place this profile around -600--495."
+    },
+    {
+      "factId": "lucius-tarquinius-superbus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Lucius Tarquinius Superbus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "lucius-tarquinius-superbus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lucius Tarquinius Superbus's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "lucius-tarquinius-superbus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lucius Tarquinius Superbus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

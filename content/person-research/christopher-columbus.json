@@ -1,0 +1,46 @@
+{
+  "personId": "christopher-columbus",
+  "slug": "christopher-columbus",
+  "name": "Christopher Columbus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Christopher Columbus",
+      "url": "https://pantheon.world/profile/person/Christopher_Columbus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "christopher-columbus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Christopher Columbus is remembered as a explorer connected with Italy."
+    },
+    {
+      "factId": "christopher-columbus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Christopher Columbus's recorded life dates place this profile around 1451-1506."
+    },
+    {
+      "factId": "christopher-columbus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Christopher Columbus is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "christopher-columbus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Christopher Columbus's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "christopher-columbus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Christopher Columbus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

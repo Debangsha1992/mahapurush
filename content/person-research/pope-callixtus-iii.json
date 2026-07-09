@@ -1,0 +1,46 @@
+{
+  "personId": "pope-callixtus-iii",
+  "slug": "pope-callixtus-iii",
+  "name": "Pope Callixtus III",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Callixtus III",
+      "url": "https://pantheon.world/profile/person/Pope_Callixtus_III",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-callixtus-iii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Callixtus III is remembered as a religious figure connected with Spain."
+    },
+    {
+      "factId": "pope-callixtus-iii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Callixtus III's recorded life dates place this profile around 1379-1458."
+    },
+    {
+      "factId": "pope-callixtus-iii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Callixtus III is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-callixtus-iii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Callixtus III's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "pope-callixtus-iii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Callixtus III has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

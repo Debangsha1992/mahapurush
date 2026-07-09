@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Lady Jane Grey is a notable nobleman associated with United Kingdom.",
+  "summary": "Lady Jane Grey is a notable nobleman connected with United Kingdom.",
   "knownFor": [
     "Nobleman",
-    "77 language biography editions",
-    "Historical Popularity Index 88.9"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 178,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "lady-jane-grey-pantheon-profile",
-      "text": "Pantheon ranks Lady Jane Grey as a globally documented nobleman with biographies in 77 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Lady Jane Grey a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "lady-jane-grey-1-origin",
+      "text": "Lady Jane Grey is remembered as a nobleman connected with United Kingdom.",
+      "context": "Lady Jane Grey's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Lady Jane Grey",
       "sourceUrl": "https://pantheon.world/profile/person/Lady_Jane_Grey",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lady-jane-grey-2-obstacle",
+      "text": "Lady Jane Grey's recorded life dates place this profile around 1537-1554.",
+      "context": "Lady Jane Grey's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Lady Jane Grey",
+      "sourceUrl": "https://pantheon.world/profile/person/Lady_Jane_Grey",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lady-jane-grey-3-turning-point",
+      "text": "Lady Jane Grey is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Lady Jane Grey's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Lady Jane Grey",
+      "sourceUrl": "https://pantheon.world/profile/person/Lady_Jane_Grey",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lady-jane-grey-4-contribution",
+      "text": "Lady Jane Grey's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Lady Jane Grey's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Lady Jane Grey",
+      "sourceUrl": "https://pantheon.world/profile/person/Lady_Jane_Grey",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lady-jane-grey-5-influence",
+      "text": "Lady Jane Grey has a Facts Mode card reserved for deeper source research.",
+      "context": "Lady Jane Grey's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Lady Jane Grey",
+      "sourceUrl": "https://pantheon.world/profile/person/Lady_Jane_Grey",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

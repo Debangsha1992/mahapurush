@@ -1,0 +1,46 @@
+{
+  "personId": "roald-amundsen",
+  "slug": "roald-amundsen",
+  "name": "Roald Amundsen",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Roald Amundsen",
+      "url": "https://pantheon.world/profile/person/Roald_Amundsen",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "roald-amundsen-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Roald Amundsen is remembered as a explorer connected with Norway."
+    },
+    {
+      "factId": "roald-amundsen-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Roald Amundsen's recorded life dates place this profile around 1872-1928."
+    },
+    {
+      "factId": "roald-amundsen-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Roald Amundsen is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "roald-amundsen-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Roald Amundsen's profile connects a short Fact to a wider Norway historical setting."
+    },
+    {
+      "factId": "roald-amundsen-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Roald Amundsen has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

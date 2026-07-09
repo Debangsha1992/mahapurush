@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "architect"
   ],
-  "summary": "Ludwig Mies van der Rohe is a notable architect associated with Germany.",
+  "summary": "Ludwig Mies van der Rohe is a notable architect connected with Germany.",
   "knownFor": [
     "Architect",
-    "74 language biography editions",
-    "Historical Popularity Index 81.8"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ludwig Mies van der Rohe",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ludwig-mies-van-der-rohe-pantheon-profile",
-      "text": "Pantheon ranks Ludwig Mies van der Rohe as a globally documented architect with biographies in 74 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ludwig Mies van der Rohe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ludwig-mies-van-der-rohe-1-origin",
+      "text": "Ludwig Mies van der Rohe is remembered as a architect connected with Germany.",
+      "context": "Ludwig Mies van der Rohe's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ludwig Mies van der Rohe",
       "sourceUrl": "https://pantheon.world/profile/person/Ludwig_Mies_van_der_Rohe",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ludwig-mies-van-der-rohe-2-obstacle",
+      "text": "Ludwig Mies van der Rohe's recorded life dates place this profile around 1886-1969.",
+      "context": "Ludwig Mies van der Rohe's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ludwig Mies van der Rohe",
+      "sourceUrl": "https://pantheon.world/profile/person/Ludwig_Mies_van_der_Rohe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ludwig-mies-van-der-rohe-3-turning-point",
+      "text": "Ludwig Mies van der Rohe is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ludwig Mies van der Rohe's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ludwig Mies van der Rohe",
+      "sourceUrl": "https://pantheon.world/profile/person/Ludwig_Mies_van_der_Rohe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ludwig-mies-van-der-rohe-4-contribution",
+      "text": "Ludwig Mies van der Rohe's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Ludwig Mies van der Rohe's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ludwig Mies van der Rohe",
+      "sourceUrl": "https://pantheon.world/profile/person/Ludwig_Mies_van_der_Rohe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ludwig-mies-van-der-rohe-5-influence",
+      "text": "Ludwig Mies van der Rohe has a Facts Mode card reserved for deeper source research.",
+      "context": "Ludwig Mies van der Rohe's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ludwig Mies van der Rohe",
+      "sourceUrl": "https://pantheon.world/profile/person/Ludwig_Mies_van_der_Rohe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

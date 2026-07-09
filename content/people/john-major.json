@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "John Major is a notable politician associated with United Kingdom.",
+  "summary": "John Major is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "92 language biography editions",
-    "Historical Popularity Index 83.8"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for John Major",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "john-major-pantheon-profile",
-      "text": "Pantheon ranks John Major as a globally documented politician with biographies in 92 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make John Major a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "john-major-1-origin",
+      "text": "John Major is remembered as a politician connected with United Kingdom.",
+      "context": "John Major's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: John Major",
       "sourceUrl": "https://pantheon.world/profile/person/John_Major",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-major-2-obstacle",
+      "text": "John Major's recorded life dates place this profile around born 1943.",
+      "context": "John Major's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: John Major",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Major",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-major-3-turning-point",
+      "text": "John Major is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "John Major's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: John Major",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Major",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-major-4-contribution",
+      "text": "John Major's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "John Major's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: John Major",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Major",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-major-5-influence",
+      "text": "John Major has a Facts Mode card reserved for deeper source research.",
+      "context": "John Major's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: John Major",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Major",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

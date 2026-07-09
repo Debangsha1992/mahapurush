@@ -1,0 +1,46 @@
+{
+  "personId": "john-glenn",
+  "slug": "john-glenn",
+  "name": "John Glenn",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John Glenn",
+      "url": "https://pantheon.world/profile/person/John_Glenn",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-glenn-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John Glenn is remembered as a astronaut connected with United States."
+    },
+    {
+      "factId": "john-glenn-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John Glenn's recorded life dates place this profile around 1921-2016."
+    },
+    {
+      "factId": "john-glenn-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John Glenn is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "john-glenn-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John Glenn's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "john-glenn-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John Glenn has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

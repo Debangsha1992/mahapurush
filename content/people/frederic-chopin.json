@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Frédéric Chopin is a notable composer associated with Poland.",
+  "summary": "Frédéric Chopin is a notable composer connected with Poland.",
   "knownFor": [
     "Composer",
-    "163 language biography editions",
-    "Historical Popularity Index 92.5"
+    "Literature, Arts & Culture",
+    "Poland"
   ],
   "featured": true,
   "featuredRank": 74,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "frederic-chopin-pantheon-profile",
-      "text": "Pantheon ranks Frédéric Chopin as a globally documented composer with biographies in 163 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Frédéric Chopin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "frederic-chopin-1-origin",
+      "text": "Frédéric Chopin is remembered as a composer connected with Poland.",
+      "context": "Frédéric Chopin's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Frédéric Chopin",
       "sourceUrl": "https://pantheon.world/profile/person/Fr%C3%A9d%C3%A9ric_Chopin",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frederic-chopin-2-obstacle",
+      "text": "Frédéric Chopin's recorded life dates place this profile around 1810-1849.",
+      "context": "Frédéric Chopin's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Frédéric Chopin",
+      "sourceUrl": "https://pantheon.world/profile/person/Fr%C3%A9d%C3%A9ric_Chopin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frederic-chopin-3-turning-point",
+      "text": "Frédéric Chopin is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Frédéric Chopin's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Frédéric Chopin",
+      "sourceUrl": "https://pantheon.world/profile/person/Fr%C3%A9d%C3%A9ric_Chopin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frederic-chopin-4-contribution",
+      "text": "Frédéric Chopin's profile connects a short Fact to a wider Poland historical setting.",
+      "context": "Frédéric Chopin's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Frédéric Chopin",
+      "sourceUrl": "https://pantheon.world/profile/person/Fr%C3%A9d%C3%A9ric_Chopin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frederic-chopin-5-influence",
+      "text": "Frédéric Chopin has a Facts Mode card reserved for deeper source research.",
+      "context": "Frédéric Chopin's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Frédéric Chopin",
+      "sourceUrl": "https://pantheon.world/profile/person/Fr%C3%A9d%C3%A9ric_Chopin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

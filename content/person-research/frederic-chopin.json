@@ -1,0 +1,46 @@
+{
+  "personId": "frederic-chopin",
+  "slug": "frederic-chopin",
+  "name": "Frédéric Chopin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Frédéric Chopin",
+      "url": "https://pantheon.world/profile/person/Fr%C3%A9d%C3%A9ric_Chopin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "frederic-chopin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Frédéric Chopin is remembered as a composer connected with Poland."
+    },
+    {
+      "factId": "frederic-chopin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Frédéric Chopin's recorded life dates place this profile around 1810-1849."
+    },
+    {
+      "factId": "frederic-chopin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Frédéric Chopin is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "frederic-chopin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Frédéric Chopin's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "frederic-chopin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Frédéric Chopin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

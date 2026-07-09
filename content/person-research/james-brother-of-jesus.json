@@ -1,0 +1,46 @@
+{
+  "personId": "james-brother-of-jesus",
+  "slug": "james-brother-of-jesus",
+  "name": "James, brother of Jesus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James, brother of Jesus",
+      "url": "https://pantheon.world/profile/person/James%2C_brother_of_Jesus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-brother-of-jesus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James, brother of Jesus is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "james-brother-of-jesus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James, brother of Jesus's recorded life dates place this profile around -20-69."
+    },
+    {
+      "factId": "james-brother-of-jesus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James, brother of Jesus is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "james-brother-of-jesus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James, brother of Jesus's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "james-brother-of-jesus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James, brother of Jesus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

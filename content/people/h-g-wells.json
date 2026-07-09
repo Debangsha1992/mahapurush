@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "H. G. Wells is a notable writer associated with United Kingdom.",
+  "summary": "H. G. Wells is a notable writer connected with United Kingdom.",
   "knownFor": [
     "Writer",
-    "112 language biography editions",
-    "Historical Popularity Index 85.8"
+    "Literature, Arts & Culture",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 370,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "h-g-wells-pantheon-profile",
-      "text": "Pantheon ranks H. G. Wells as a globally documented writer with biographies in 112 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make H. G. Wells a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "h-g-wells-1-origin",
+      "text": "H. G. Wells is remembered as a writer connected with United Kingdom.",
+      "context": "H. G. Wells's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: H. G. Wells",
       "sourceUrl": "https://pantheon.world/profile/person/H._G._Wells",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "h-g-wells-2-obstacle",
+      "text": "H. G. Wells's recorded life dates place this profile around 1866-1946.",
+      "context": "H. G. Wells's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: H. G. Wells",
+      "sourceUrl": "https://pantheon.world/profile/person/H._G._Wells",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "h-g-wells-3-turning-point",
+      "text": "H. G. Wells is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "H. G. Wells's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: H. G. Wells",
+      "sourceUrl": "https://pantheon.world/profile/person/H._G._Wells",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "h-g-wells-4-contribution",
+      "text": "H. G. Wells's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "H. G. Wells's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: H. G. Wells",
+      "sourceUrl": "https://pantheon.world/profile/person/H._G._Wells",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "h-g-wells-5-influence",
+      "text": "H. G. Wells has a Facts Mode card reserved for deeper source research.",
+      "context": "H. G. Wells's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: H. G. Wells",
+      "sourceUrl": "https://pantheon.world/profile/person/H._G._Wells",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "richard-wagner",
+  "slug": "richard-wagner",
+  "name": "Richard Wagner",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Richard Wagner",
+      "url": "https://pantheon.world/profile/person/Richard_Wagner",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "richard-wagner-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Richard Wagner is remembered as a composer connected with Germany."
+    },
+    {
+      "factId": "richard-wagner-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Richard Wagner's recorded life dates place this profile around 1813-1883."
+    },
+    {
+      "factId": "richard-wagner-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Richard Wagner is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "richard-wagner-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Richard Wagner's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "richard-wagner-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Richard Wagner has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

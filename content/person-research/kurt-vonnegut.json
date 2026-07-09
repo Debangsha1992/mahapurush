@@ -1,0 +1,46 @@
+{
+  "personId": "kurt-vonnegut",
+  "slug": "kurt-vonnegut",
+  "name": "Kurt Vonnegut",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Kurt Vonnegut",
+      "url": "https://pantheon.world/profile/person/Kurt_Vonnegut",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "kurt-vonnegut-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Kurt Vonnegut is remembered as a writer connected with United States."
+    },
+    {
+      "factId": "kurt-vonnegut-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Kurt Vonnegut's recorded life dates place this profile around 1922-2007."
+    },
+    {
+      "factId": "kurt-vonnegut-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Kurt Vonnegut is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "kurt-vonnegut-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Kurt Vonnegut's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "kurt-vonnegut-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Kurt Vonnegut has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

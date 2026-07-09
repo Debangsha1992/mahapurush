@@ -1,0 +1,46 @@
+{
+  "personId": "edward-the-black-prince",
+  "slug": "edward-the-black-prince",
+  "name": "Edward the Black Prince",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edward the Black Prince",
+      "url": "https://pantheon.world/profile/person/Edward_the_Black_Prince",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edward-the-black-prince-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edward the Black Prince is remembered as a nobleman connected with United Kingdom."
+    },
+    {
+      "factId": "edward-the-black-prince-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edward the Black Prince's recorded life dates place this profile around 1330-1376."
+    },
+    {
+      "factId": "edward-the-black-prince-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edward the Black Prince is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "edward-the-black-prince-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edward the Black Prince's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "edward-the-black-prince-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edward the Black Prince has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

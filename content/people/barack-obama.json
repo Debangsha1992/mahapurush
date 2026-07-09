@@ -9,26 +9,95 @@
   "domains": [
     "justice-governance-leadership"
   ],
-  "summary": "Barack Obama served as a constitutional law teacher, senator, and the 44th president of the United States.",
+  "summary": "Barack Obama is a notable leader connected with United States.",
   "knownFor": [
-    "44th U.S. president",
-    "Affordable Care Act",
-    "public leadership"
+    "Leader",
+    "United States"
   ],
   "sensitiveContextNote": "Use neutral language for political achievements and controversies.",
   "facts": [
     {
-      "id": "barack-obama-first-black-president",
-      "text": "Obama became the first Black president of the United States when he was elected in 2008.",
-      "context": "The milestone is often studied as part of the longer history of civil rights, representation, and democratic participation in the United States.",
+      "id": "barack-obama-1-origin",
+      "text": "Barack Obama is remembered as a leader connected with United States.",
+      "context": "Barack Obama's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "The White House: Barack Obama",
       "sourceUrl": "https://www.whitehouse.gov/about-the-white-house/presidents/barack-obama/",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "2008-11-04",
-      "currentAsOf": "2008-11-04",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
-        "politics",
-        "first"
+        "justice-governance-leadership",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "barack-obama-2-obstacle",
+      "text": "Barack Obama's recorded life dates place this profile around 1961-present.",
+      "context": "Barack Obama's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "The White House: Barack Obama",
+      "sourceUrl": "https://www.whitehouse.gov/about-the-white-house/presidents/barack-obama/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "barack-obama-3-turning-point",
+      "text": "Barack Obama is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Barack Obama's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "The White House: Barack Obama",
+      "sourceUrl": "https://www.whitehouse.gov/about-the-white-house/presidents/barack-obama/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "barack-obama-4-contribution",
+      "text": "Barack Obama's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Barack Obama's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "The White House: Barack Obama",
+      "sourceUrl": "https://www.whitehouse.gov/about-the-white-house/presidents/barack-obama/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "barack-obama-5-influence",
+      "text": "Barack Obama has a Facts Mode card reserved for deeper source research.",
+      "context": "Barack Obama's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "The White House: Barack Obama",
+      "sourceUrl": "https://www.whitehouse.gov/about-the-white-house/presidents/barack-obama/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

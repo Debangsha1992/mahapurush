@@ -1,0 +1,46 @@
+{
+  "personId": "pope-clement-viii",
+  "slug": "pope-clement-viii",
+  "name": "Pope Clement VIII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Clement VIII",
+      "url": "https://pantheon.world/profile/person/Pope_Clement_VIII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-clement-viii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement VIII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-clement-viii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement VIII's recorded life dates place this profile around 1536-1605."
+    },
+    {
+      "factId": "pope-clement-viii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement VIII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-clement-viii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement VIII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-clement-viii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement VIII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

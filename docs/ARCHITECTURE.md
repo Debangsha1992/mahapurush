@@ -157,7 +157,7 @@ content/thinkers/socrates/
         "instruction": "Before accepting a belief, ask why it is true, why people believe it, and why it matters."
       },
       "modernTest": {
-        "scenario": "Your class is mocking someone online and calling it a joke.",
+        "scenario": "A work group chat is mocking someone online and calling it a joke.",
         "question": "What would Socrates ask first?",
         "options": [
           {
@@ -463,7 +463,7 @@ Design for future localization:
 | Pure gamification module | Easier tests and fewer UI bugs |
 | Vercel deployment | Fast preview deploys and strong Next.js support |
 | No database | Avoids unnecessary complexity before product validation |
-| No public social features | Protects teen users from pressure and toxicity |
+| No public social features | Protects users from pressure, performative comparison, and toxicity |
 
 ## 16. MVP Technical Definition of Done
 

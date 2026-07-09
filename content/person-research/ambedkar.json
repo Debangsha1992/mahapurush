@@ -1,0 +1,46 @@
+{
+  "personId": "ambedkar",
+  "slug": "ambedkar",
+  "name": "B. R. Ambedkar",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Parliament of India: Dr. B. R. Ambedkar",
+      "url": "https://sansad.in/ls/about/ambedkar",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ambedkar-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "B. R. Ambedkar is remembered as a leader connected with India."
+    },
+    {
+      "factId": "ambedkar-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "B. R. Ambedkar's recorded life dates place this profile around 1891-1956."
+    },
+    {
+      "factId": "ambedkar-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "B. R. Ambedkar is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ambedkar-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "B. R. Ambedkar's profile connects a short Fact to a wider India historical setting."
+    },
+    {
+      "factId": "ambedkar-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "B. R. Ambedkar has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

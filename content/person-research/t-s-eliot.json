@@ -1,0 +1,46 @@
+{
+  "personId": "t-s-eliot",
+  "slug": "t-s-eliot",
+  "name": "T. S. Eliot",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: T. S. Eliot",
+      "url": "https://pantheon.world/profile/person/T._S._Eliot",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "t-s-eliot-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "T. S. Eliot is remembered as a writer connected with United States."
+    },
+    {
+      "factId": "t-s-eliot-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "T. S. Eliot's recorded life dates place this profile around 1888-1965."
+    },
+    {
+      "factId": "t-s-eliot-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "T. S. Eliot is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "t-s-eliot-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "T. S. Eliot's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "t-s-eliot-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "T. S. Eliot has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

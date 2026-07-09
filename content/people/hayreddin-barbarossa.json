@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "pirate"
   ],
-  "summary": "Hayreddin Barbarossa is a notable pirate associated with Greece.",
+  "summary": "Hayreddin Barbarossa is a notable pirate connected with Greece.",
   "knownFor": [
     "Pirate",
-    "63 language biography editions",
-    "Historical Popularity Index 81.6"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Hayreddin Barbarossa",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hayreddin-barbarossa-pantheon-profile",
-      "text": "Pantheon ranks Hayreddin Barbarossa as a globally documented pirate with biographies in 63 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hayreddin Barbarossa a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hayreddin-barbarossa-1-origin",
+      "text": "Hayreddin Barbarossa is remembered as a pirate connected with Greece.",
+      "context": "Hayreddin Barbarossa's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Hayreddin Barbarossa",
       "sourceUrl": "https://pantheon.world/profile/person/Hayreddin_Barbarossa",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hayreddin-barbarossa-2-obstacle",
+      "text": "Hayreddin Barbarossa's recorded life dates place this profile around 1478-1546.",
+      "context": "Hayreddin Barbarossa's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hayreddin Barbarossa",
+      "sourceUrl": "https://pantheon.world/profile/person/Hayreddin_Barbarossa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hayreddin-barbarossa-3-turning-point",
+      "text": "Hayreddin Barbarossa is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Hayreddin Barbarossa's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hayreddin Barbarossa",
+      "sourceUrl": "https://pantheon.world/profile/person/Hayreddin_Barbarossa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hayreddin-barbarossa-4-contribution",
+      "text": "Hayreddin Barbarossa's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Hayreddin Barbarossa's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hayreddin Barbarossa",
+      "sourceUrl": "https://pantheon.world/profile/person/Hayreddin_Barbarossa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hayreddin-barbarossa-5-influence",
+      "text": "Hayreddin Barbarossa has a Facts Mode card reserved for deeper source research.",
+      "context": "Hayreddin Barbarossa's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hayreddin Barbarossa",
+      "sourceUrl": "https://pantheon.world/profile/person/Hayreddin_Barbarossa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

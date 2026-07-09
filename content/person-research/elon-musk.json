@@ -1,0 +1,46 @@
+{
+  "personId": "elon-musk",
+  "slug": "elon-musk",
+  "name": "Elon Musk",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Elon Musk",
+      "url": "https://pantheon.world/profile/person/Elon_Musk",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "elon-musk-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Elon Musk is remembered as a inventor connected with South Africa."
+    },
+    {
+      "factId": "elon-musk-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Elon Musk's recorded life dates place this profile around born 1971."
+    },
+    {
+      "factId": "elon-musk-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Elon Musk is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "elon-musk-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Elon Musk's profile connects a short Fact to a wider South Africa historical setting."
+    },
+    {
+      "factId": "elon-musk-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Elon Musk has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

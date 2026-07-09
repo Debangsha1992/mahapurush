@@ -8,11 +8,12 @@ import {
   getFactBatch,
   getFeaturedPeople,
   getPeoplePage,
+  validateAllAgesReaderCopy,
   validateAllContent,
 } from "@/lib/content/loaders";
 
 describe("people and facts content", () => {
-  it("loads a published people library with featured records and verified facts", () => {
+  it("loads a published people library without requiring every person to have approved facts", () => {
     const people = getAllPeople();
     const facts = getAllFacts();
     const featured = getFeaturedPeople();
@@ -21,13 +22,12 @@ describe("people and facts content", () => {
 
     expect(people.length).toBeGreaterThanOrEqual(1000);
     expect(featured.length).toBeGreaterThanOrEqual(500);
-    expect(facts.length).toBeGreaterThanOrEqual(people.length);
+    expect(facts.length).toBeGreaterThan(0);
+    expect(facts.length).toBeLessThan(people.length * 5);
     expect(people.every((person) => person.reviewStatus === "published")).toBe(true);
-    expect(
-      people.every((person) =>
-        person.facts.some((fact) => fact.verified),
-      ),
-    ).toBe(true);
+    expect(facts.every((fact) => fact.editorialStatus === "facts-mode-approved")).toBe(
+      true,
+    );
     expect(people.every((person) => domainIds.has(person.primaryDomain))).toBe(true);
     expect(people.every((person) => regionIds.has(person.regionId))).toBe(true);
 
@@ -39,6 +39,40 @@ describe("people and facts content", () => {
       true,
     );
     expect(new Set(featuredRanks).size).toBe(featuredRanks.length);
+  });
+
+  it("keeps Facts Mode copy approved, sourced, and free of metadata filler", () => {
+    const bannedUserFacingPhrases = [
+      "Pantheon ranks",
+      "Historical Popularity Index",
+      "language biography editions",
+      "language editions",
+      "Facts Mode",
+      "People Library",
+      "profile",
+      "recorded life dates",
+      "connected with",
+      "grouped with",
+      "reserved for deeper source research",
+      "background gives readers",
+      "belongs in the People Library",
+    ];
+
+    for (const fact of getAllFacts()) {
+      expect(fact.editorialStatus).toBe("facts-mode-approved");
+      expect(factTextNamesPerson(fact.text, fact.person.name, fact.person.shortName)).toBe(
+        true,
+      );
+      expect(fact.sourceType).toBeDefined();
+      expect(fact.claimStatus).toBeDefined();
+      expect(fact.sourceTitle).not.toMatch(/^Pantheon:/);
+      expect(fact.sourceNote ?? fact.sourceExcerpt).toBeDefined();
+      expect(sentenceCount(fact.text)).toBeLessThanOrEqual(2);
+      expect(sentenceCount(fact.context)).toBeLessThanOrEqual(2);
+      for (const phrase of bannedUserFacingPhrases) {
+        expect(`${fact.text} ${fact.context}`).not.toContain(phrase);
+      }
+    }
   });
 
   it("returns a deterministic fact for a given date", () => {
@@ -78,6 +112,9 @@ describe("people and facts content", () => {
 
     expect(facts.length).toBeLessThanOrEqual(20);
     expect(facts.every((fact) => fact.verified)).toBe(true);
+    expect(facts.every((fact) => fact.editorialStatus === "facts-mode-approved")).toBe(
+      true,
+    );
   });
 
   it("spreads fact batches across the full library instead of returning adjacent slices", () => {
@@ -108,11 +145,51 @@ describe("people and facts content", () => {
     });
     const firstBatchIds = new Set(firstBatch.map((fact) => fact.id));
 
-    expect(secondBatch).toHaveLength(20);
+    expect(secondBatch.length).toBeLessThanOrEqual(20);
     expect(secondBatch.every((fact) => !firstBatchIds.has(fact.id))).toBe(true);
   });
 
   it("validates people, facts, and cross-content references", () => {
     expect(() => validateAllContent()).not.toThrow();
   });
+
+  it("rejects teen-default reader-address copy on reflective content surfaces", () => {
+    expect(() =>
+      validateAllAgesReaderCopy([
+        {
+          label: "Socrates quick modern test",
+          value: "Your class is mocking someone online and calling it a joke.",
+        },
+      ]),
+    ).toThrow(/all-ages copy/i);
+  });
 });
+
+function sentenceCount(value: string): number {
+  const normalized = value
+    .replace(/\b(?:U\.S|U\.K|St|Dr|Mr|Mrs|Ms|Prof|Jr|Sr|c)\./gi, (match) =>
+      match.replaceAll(".", ""),
+    )
+    .replace(/\b[A-Z]\./g, (match) => match.replace(".", ""));
+
+  return normalized
+    .split(/[.!?]+/)
+    .map((sentence) => sentence.trim())
+    .filter(Boolean).length;
+}
+
+function factTextNamesPerson(
+  text: string,
+  name: string,
+  shortName: string,
+): boolean {
+  return [name, shortName].filter(Boolean).some((candidate) => {
+    if (candidate.length <= 2) {
+      return new RegExp(
+        `\\b${candidate.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`,
+        "i",
+      ).test(text);
+    }
+    return text.toLowerCase().includes(candidate.toLowerCase());
+  });
+}

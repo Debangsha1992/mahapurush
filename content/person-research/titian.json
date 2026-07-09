@@ -1,0 +1,47 @@
+{
+  "personId": "titian",
+  "slug": "titian",
+  "name": "Titian",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Titian",
+      "url": "https://en.wikipedia.org/wiki/Titian",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Italian painter (c. 1477/88/90–1576)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "titian-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Tiziano Vecellio, Latinized as Titianus, hence known in English as Titian, was an Italian Renaissance painter."
+    },
+    {
+      "factId": "titian-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Titian is remembered as a painter connected with Italy."
+    },
+    {
+      "factId": "titian-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Titian's recorded life dates place this profile around 1488-1576."
+    },
+    {
+      "factId": "titian-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Titian is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "titian-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Titian's profile connects a short Fact to a wider Italy historical setting."
+    }
+  ]
+}

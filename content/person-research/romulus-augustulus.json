@@ -1,0 +1,46 @@
+{
+  "personId": "romulus-augustulus",
+  "slug": "romulus-augustulus",
+  "name": "Romulus Augustulus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Romulus Augustulus",
+      "url": "https://pantheon.world/profile/person/Romulus_Augustulus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "romulus-augustulus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Romulus Augustulus is remembered as a military personnel connected with Serbia."
+    },
+    {
+      "factId": "romulus-augustulus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Romulus Augustulus's recorded life dates place this profile around 460-527."
+    },
+    {
+      "factId": "romulus-augustulus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Romulus Augustulus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "romulus-augustulus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Romulus Augustulus's profile connects a short Fact to a wider Serbia historical setting."
+    },
+    {
+      "factId": "romulus-augustulus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Romulus Augustulus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

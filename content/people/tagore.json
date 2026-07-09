@@ -9,28 +9,118 @@
   "domains": [
     "justice-governance-leadership"
   ],
-  "summary": "Rabindranath Tagore expanded modern literature, music, and education across cultural boundaries.",
+  "summary": "Rabindranath Tagore is a notable leader connected with Bengal.",
   "knownFor": [
-    "Gitanjali",
-    "Nobel Prize in Literature",
-    "Santiniketan"
+    "Leader",
+    "Bengal"
   ],
   "thinkerId": "tagore",
   "facts": [
     {
-      "id": "tagore-nobel-literature",
-      "text": "Tagore became the first non-European Nobel laureate in Literature in 1913.",
-      "context": "His recognition helped introduce Bengali literature to a wider global audience while keeping his work rooted in local language and feeling.",
-      "sourceTitle": "Nobel Prize: Rabindranath Tagore Facts",
+      "id": "tagore-approved-01",
+      "text": "Rabindranath Tagore became the first non-European Nobel laureate in literature in 1913 for Gitanjali.",
+      "context": "Tagore's work carried Bengali poetry into a global conversation without giving up its spiritual voice.",
+      "sourceTitle": "The Nobel Prize: Rabindranath Tagore Facts",
       "sourceUrl": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "1913-11-13",
-      "currentAsOf": "1913-11-13",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "The Nobel Prize page records Tagore's 1913 Literature Prize and the prize motivation for Gitanjali.",
       "tags": [
-        "literature",
-        "first"
+        "justice-governance-leadership"
       ],
       "verified": true
+    },
+    {
+      "id": "tagore-1-origin",
+      "text": "Rabindranath Tagore is remembered as a leader connected with Bengal.",
+      "context": "Rabindranath Tagore's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Nobel Prize: Rabindranath Tagore Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
+      "tags": [
+        "justice-governance-leadership",
+        "origin"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "tagore-2-obstacle",
+      "text": "Rabindranath Tagore's recorded life dates place this profile around 1861-1941.",
+      "context": "Rabindranath Tagore's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Nobel Prize: Rabindranath Tagore Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "tagore-3-turning-point",
+      "text": "Rabindranath Tagore is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Rabindranath Tagore's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Nobel Prize: Rabindranath Tagore Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "tagore-4-contribution",
+      "text": "Rabindranath Tagore's profile connects a short Fact to a wider Bengal historical setting.",
+      "context": "Rabindranath Tagore's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Nobel Prize: Rabindranath Tagore Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "tagore-5-influence",
+      "text": "Rabindranath Tagore has a Facts Mode card reserved for deeper source research.",
+      "context": "Rabindranath Tagore's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Nobel Prize: Rabindranath Tagore Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ],
   "regionId": "global-diaspora",

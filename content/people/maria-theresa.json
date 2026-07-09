@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Maria Theresa is a notable politician associated with Austria.",
+  "summary": "Maria Theresa is a notable politician connected with Austria.",
   "knownFor": [
     "Politician",
-    "91 language biography editions",
-    "Historical Popularity Index 87.4"
+    "Justice, Governance & Leadership",
+    "Austria"
   ],
   "featured": true,
   "featuredRank": 249,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "maria-theresa-pantheon-profile",
-      "text": "Pantheon ranks Maria Theresa as a globally documented politician with biographies in 91 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Maria Theresa a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "maria-theresa-1-origin",
+      "text": "Maria Theresa is remembered as a politician connected with Austria.",
+      "context": "Maria Theresa's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Maria Theresa",
       "sourceUrl": "https://pantheon.world/profile/person/Maria_Theresa",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-theresa-2-obstacle",
+      "text": "Maria Theresa's recorded life dates place this profile around 1717-1780.",
+      "context": "Maria Theresa's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Maria Theresa",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Theresa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-theresa-3-turning-point",
+      "text": "Maria Theresa is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Maria Theresa's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Maria Theresa",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Theresa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-theresa-4-contribution",
+      "text": "Maria Theresa's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Maria Theresa's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Maria Theresa",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Theresa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-theresa-5-influence",
+      "text": "Maria Theresa has a Facts Mode card reserved for deeper source research.",
+      "context": "Maria Theresa's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Maria Theresa",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Theresa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

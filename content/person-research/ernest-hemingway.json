@@ -1,0 +1,46 @@
+{
+  "personId": "ernest-hemingway",
+  "slug": "ernest-hemingway",
+  "name": "Ernest Hemingway",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ernest Hemingway",
+      "url": "https://pantheon.world/profile/person/Ernest_Hemingway",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ernest-hemingway-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ernest Hemingway is remembered as a writer connected with United States."
+    },
+    {
+      "factId": "ernest-hemingway-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ernest Hemingway's recorded life dates place this profile around 1899-1961."
+    },
+    {
+      "factId": "ernest-hemingway-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ernest Hemingway is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "ernest-hemingway-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ernest Hemingway's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "ernest-hemingway-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ernest Hemingway has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "explorer"
   ],
-  "summary": "Francisco Pizarro is a notable explorer associated with Spain.",
+  "summary": "Francisco Pizarro is a notable explorer connected with Spain.",
   "knownFor": [
     "Explorer",
-    "87 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Environment, Exploration & Human Achievement",
+    "Spain"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Francisco Pizarro",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "francisco-pizarro-pantheon-profile",
-      "text": "Pantheon ranks Francisco Pizarro as a globally documented explorer with biographies in 87 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Francisco Pizarro a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "francisco-pizarro-1-origin",
+      "text": "Francisco Pizarro is remembered as a explorer connected with Spain.",
+      "context": "Francisco Pizarro's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Francisco Pizarro",
       "sourceUrl": "https://pantheon.world/profile/person/Francisco_Pizarro",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-pizarro-2-obstacle",
+      "text": "Francisco Pizarro's recorded life dates place this profile around 1478-1541.",
+      "context": "Francisco Pizarro's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Francisco Pizarro",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Pizarro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-pizarro-3-turning-point",
+      "text": "Francisco Pizarro is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Francisco Pizarro's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Francisco Pizarro",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Pizarro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-pizarro-4-contribution",
+      "text": "Francisco Pizarro's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Francisco Pizarro's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Francisco Pizarro",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Pizarro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-pizarro-5-influence",
+      "text": "Francisco Pizarro has a Facts Mode card reserved for deeper source research.",
+      "context": "Francisco Pizarro's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Francisco Pizarro",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Pizarro",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

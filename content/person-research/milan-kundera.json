@@ -1,0 +1,46 @@
+{
+  "personId": "milan-kundera",
+  "slug": "milan-kundera",
+  "name": "Milan Kundera",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Milan Kundera",
+      "url": "https://pantheon.world/profile/person/Milan_Kundera",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "milan-kundera-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Milan Kundera is remembered as a writer connected with Czechia."
+    },
+    {
+      "factId": "milan-kundera-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Milan Kundera's recorded life dates place this profile around 1929-2023."
+    },
+    {
+      "factId": "milan-kundera-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Milan Kundera is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "milan-kundera-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Milan Kundera's profile connects a short Fact to a wider Czechia historical setting."
+    },
+    {
+      "factId": "milan-kundera-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Milan Kundera has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "mikhail-gorbachev",
+  "slug": "mikhail-gorbachev",
+  "name": "Mikhail Gorbachev",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mikhail Gorbachev",
+      "url": "https://pantheon.world/profile/person/Mikhail_Gorbachev",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mikhail-gorbachev-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mikhail Gorbachev is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "mikhail-gorbachev-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mikhail Gorbachev's recorded life dates place this profile around 1931-2022."
+    },
+    {
+      "factId": "mikhail-gorbachev-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mikhail Gorbachev is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mikhail-gorbachev-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mikhail Gorbachev's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "mikhail-gorbachev-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mikhail Gorbachev has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

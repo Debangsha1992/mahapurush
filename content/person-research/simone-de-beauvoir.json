@@ -1,0 +1,46 @@
+{
+  "personId": "simone-de-beauvoir",
+  "slug": "simone-de-beauvoir",
+  "name": "Simone de Beauvoir",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Simone de Beauvoir",
+      "url": "https://pantheon.world/profile/person/Simone_de_Beauvoir",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "simone-de-beauvoir-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Simone de Beauvoir is remembered as a writer connected with France."
+    },
+    {
+      "factId": "simone-de-beauvoir-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Simone de Beauvoir's recorded life dates place this profile around 1908-1986."
+    },
+    {
+      "factId": "simone-de-beauvoir-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Simone de Beauvoir is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "simone-de-beauvoir-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Simone de Beauvoir's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "simone-de-beauvoir-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Simone de Beauvoir has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

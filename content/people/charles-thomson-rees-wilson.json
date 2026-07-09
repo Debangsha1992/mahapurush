@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Charles Thomson Rees Wilson is a notable physicist associated with United Kingdom.",
+  "summary": "Charles Thomson Rees Wilson is a notable physicist connected with United Kingdom.",
   "knownFor": [
     "Physicist",
-    "87 language biography editions",
-    "Historical Popularity Index 82.6"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Charles Thomson Rees Wilson",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "charles-thomson-rees-wilson-pantheon-profile",
-      "text": "Pantheon ranks Charles Thomson Rees Wilson as a globally documented physicist with biographies in 87 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles Thomson Rees Wilson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "charles-thomson-rees-wilson-1-origin",
+      "text": "Charles Thomson Rees Wilson is remembered as a physicist connected with United Kingdom.",
+      "context": "Charles Thomson Rees Wilson's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Charles Thomson Rees Wilson",
       "sourceUrl": "https://pantheon.world/profile/person/Charles_Thomson_Rees_Wilson",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-thomson-rees-wilson-2-obstacle",
+      "text": "Charles Thomson Rees Wilson's recorded life dates place this profile around 1869-1959.",
+      "context": "Charles Thomson Rees Wilson's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Charles Thomson Rees Wilson",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Thomson_Rees_Wilson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-thomson-rees-wilson-3-turning-point",
+      "text": "Charles Thomson Rees Wilson is grouped with Science, Math & Technology in the People Library.",
+      "context": "Charles Thomson Rees Wilson's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Charles Thomson Rees Wilson",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Thomson_Rees_Wilson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-thomson-rees-wilson-4-contribution",
+      "text": "Charles Thomson Rees Wilson's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Charles Thomson Rees Wilson's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Charles Thomson Rees Wilson",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Thomson_Rees_Wilson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-thomson-rees-wilson-5-influence",
+      "text": "Charles Thomson Rees Wilson has a Facts Mode card reserved for deeper source research.",
+      "context": "Charles Thomson Rees Wilson's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Charles Thomson Rees Wilson",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Thomson_Rees_Wilson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

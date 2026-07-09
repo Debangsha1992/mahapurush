@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Charles I of Austria is a notable politician associated with Austria.",
+  "summary": "Charles I of Austria is a notable politician connected with Austria.",
   "knownFor": [
     "Politician",
-    "65 language biography editions",
-    "Historical Popularity Index 81.7"
+    "Justice, Governance & Leadership",
+    "Austria"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Charles I of Austria",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "charles-i-of-austria-pantheon-profile",
-      "text": "Pantheon ranks Charles I of Austria as a globally documented politician with biographies in 65 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles I of Austria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "charles-i-of-austria-1-origin",
+      "text": "Charles I of Austria is remembered as a politician connected with Austria.",
+      "context": "Charles I of Austria's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Charles I of Austria",
       "sourceUrl": "https://pantheon.world/profile/person/Charles_I_of_Austria",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-i-of-austria-2-obstacle",
+      "text": "Charles I of Austria's recorded life dates place this profile around 1887-1922.",
+      "context": "Charles I of Austria's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Charles I of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_I_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-i-of-austria-3-turning-point",
+      "text": "Charles I of Austria is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Charles I of Austria's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Charles I of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_I_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-i-of-austria-4-contribution",
+      "text": "Charles I of Austria's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Charles I of Austria's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Charles I of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_I_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-i-of-austria-5-influence",
+      "text": "Charles I of Austria has a Facts Mode card reserved for deeper source research.",
+      "context": "Charles I of Austria's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Charles I of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_I_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

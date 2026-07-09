@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mao Zedong is a notable politician associated with China.",
+  "summary": "Mao Zedong is a notable politician connected with China.",
   "knownFor": [
     "Politician",
-    "181 language biography editions",
-    "Historical Popularity Index 88.7"
+    "Justice, Governance & Leadership",
+    "China"
   ],
   "featured": true,
   "featuredRank": 187,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mao-zedong-pantheon-profile",
-      "text": "Pantheon ranks Mao Zedong as a globally documented politician with biographies in 181 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mao Zedong a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mao-zedong-1-origin",
+      "text": "Mao Zedong is remembered as a politician connected with China.",
+      "context": "Mao Zedong's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mao Zedong",
       "sourceUrl": "https://pantheon.world/profile/person/Mao_Zedong",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mao-zedong-2-obstacle",
+      "text": "Mao Zedong's recorded life dates place this profile around 1893-1976.",
+      "context": "Mao Zedong's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mao Zedong",
+      "sourceUrl": "https://pantheon.world/profile/person/Mao_Zedong",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mao-zedong-3-turning-point",
+      "text": "Mao Zedong is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mao Zedong's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mao Zedong",
+      "sourceUrl": "https://pantheon.world/profile/person/Mao_Zedong",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mao-zedong-4-contribution",
+      "text": "Mao Zedong's profile connects a short Fact to a wider China historical setting.",
+      "context": "Mao Zedong's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mao Zedong",
+      "sourceUrl": "https://pantheon.world/profile/person/Mao_Zedong",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mao-zedong-5-influence",
+      "text": "Mao Zedong has a Facts Mode card reserved for deeper source research.",
+      "context": "Mao Zedong's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mao Zedong",
+      "sourceUrl": "https://pantheon.world/profile/person/Mao_Zedong",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

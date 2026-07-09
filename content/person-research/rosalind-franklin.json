@@ -1,0 +1,47 @@
+{
+  "personId": "rosalind-franklin",
+  "slug": "rosalind-franklin",
+  "name": "Rosalind Franklin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Rosalind Franklin",
+      "url": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "British X-ray crystallographer (1920–1958)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "rosalind-franklin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Rosalind Elsie Rosalind Franklin was an English chemist and X-ray crystallographer."
+    },
+    {
+      "factId": "rosalind-franklin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Rosalind Franklin's work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite."
+    },
+    {
+      "factId": "rosalind-franklin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Although her works on coal and viruses were appreciated in her lifetime, Rosalind Franklin's contributions to the discovery of the structure of DNA were largely unrecognised during her life, for which Franklin has been variously referred to as the \"wronged heroine\", the \"dark lady of DNA\", the \"for."
+    },
+    {
+      "factId": "rosalind-franklin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "tradition",
+      "text": "James Watson believed that, had she not died, ideally, Rosalind Franklin would have been awarded a Nobel Prize in Chemistry."
+    },
+    {
+      "factId": "rosalind-franklin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Rosalind Franklin is remembered as a scientist connected with United Kingdom."
+    }
+  ]
+}

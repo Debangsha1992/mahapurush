@@ -1,0 +1,46 @@
+{
+  "personId": "william-i-german-emperor",
+  "slug": "william-i-german-emperor",
+  "name": "William I, German Emperor",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: William I, German Emperor",
+      "url": "https://pantheon.world/profile/person/William_I%2C_German_Emperor",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "william-i-german-emperor-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "William I, German Emperor is remembered as a politician connected with Germany."
+    },
+    {
+      "factId": "william-i-german-emperor-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "William I, German Emperor's recorded life dates place this profile around 1797-1888."
+    },
+    {
+      "factId": "william-i-german-emperor-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "William I, German Emperor is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "william-i-german-emperor-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "William I, German Emperor's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "william-i-german-emperor-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "William I, German Emperor has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

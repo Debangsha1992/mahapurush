@@ -1,0 +1,46 @@
+{
+  "personId": "mao-zedong",
+  "slug": "mao-zedong",
+  "name": "Mao Zedong",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mao Zedong",
+      "url": "https://pantheon.world/profile/person/Mao_Zedong",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mao-zedong-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mao Zedong is remembered as a politician connected with China."
+    },
+    {
+      "factId": "mao-zedong-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mao Zedong's recorded life dates place this profile around 1893-1976."
+    },
+    {
+      "factId": "mao-zedong-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mao Zedong is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mao-zedong-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mao Zedong's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "mao-zedong-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mao Zedong has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

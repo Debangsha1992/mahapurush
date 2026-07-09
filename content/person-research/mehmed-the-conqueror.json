@@ -1,0 +1,46 @@
+{
+  "personId": "mehmed-the-conqueror",
+  "slug": "mehmed-the-conqueror",
+  "name": "Mehmed the Conqueror",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mehmed the Conqueror",
+      "url": "https://pantheon.world/profile/person/Mehmed_the_Conqueror",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mehmed-the-conqueror-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed the Conqueror is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "mehmed-the-conqueror-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed the Conqueror's recorded life dates place this profile around 1432-1481."
+    },
+    {
+      "factId": "mehmed-the-conqueror-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed the Conqueror is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mehmed-the-conqueror-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed the Conqueror's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "mehmed-the-conqueror-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed the Conqueror has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

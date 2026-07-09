@@ -1,0 +1,46 @@
+{
+  "personId": "anaxagoras",
+  "slug": "anaxagoras",
+  "name": "Anaxagoras",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anaxagoras",
+      "url": "https://pantheon.world/profile/person/Anaxagoras",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anaxagoras-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anaxagoras is remembered as a philosopher connected with Türkiye."
+    },
+    {
+      "factId": "anaxagoras-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anaxagoras's recorded life dates place this profile around -500--428."
+    },
+    {
+      "factId": "anaxagoras-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anaxagoras is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "anaxagoras-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anaxagoras's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "anaxagoras-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anaxagoras has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

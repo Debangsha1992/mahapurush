@@ -1,0 +1,46 @@
+{
+  "personId": "maria-theresa",
+  "slug": "maria-theresa",
+  "name": "Maria Theresa",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Maria Theresa",
+      "url": "https://pantheon.world/profile/person/Maria_Theresa",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "maria-theresa-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Maria Theresa is remembered as a politician connected with Austria."
+    },
+    {
+      "factId": "maria-theresa-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Maria Theresa's recorded life dates place this profile around 1717-1780."
+    },
+    {
+      "factId": "maria-theresa-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Maria Theresa is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "maria-theresa-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Maria Theresa's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "maria-theresa-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Maria Theresa has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

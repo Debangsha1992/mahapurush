@@ -1,0 +1,46 @@
+{
+  "personId": "anthony-the-great",
+  "slug": "anthony-the-great",
+  "name": "Anthony the Great",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anthony the Great",
+      "url": "https://pantheon.world/profile/person/Anthony_the_Great",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anthony-the-great-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anthony the Great is remembered as a religious figure connected with Egypt."
+    },
+    {
+      "factId": "anthony-the-great-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anthony the Great's recorded life dates place this profile around 251-356."
+    },
+    {
+      "factId": "anthony-the-great-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anthony the Great is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "anthony-the-great-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anthony the Great's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "anthony-the-great-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anthony the Great has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

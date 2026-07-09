@@ -1,0 +1,46 @@
+{
+  "personId": "osman-i",
+  "slug": "osman-i",
+  "name": "Osman I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Osman I",
+      "url": "https://pantheon.world/profile/person/Osman_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "osman-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Osman I is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "osman-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Osman I's recorded life dates place this profile around 1254-1327."
+    },
+    {
+      "factId": "osman-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Osman I is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "osman-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Osman I's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "osman-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Osman I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "louis-braille",
+  "slug": "louis-braille",
+  "name": "Louis Braille",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Louis Braille",
+      "url": "https://pantheon.world/profile/person/Louis_Braille",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "louis-braille-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Louis Braille is remembered as a inventor connected with France."
+    },
+    {
+      "factId": "louis-braille-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Louis Braille's recorded life dates place this profile around 1809-1852."
+    },
+    {
+      "factId": "louis-braille-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Louis Braille is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "louis-braille-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Louis Braille's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "louis-braille-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Louis Braille has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

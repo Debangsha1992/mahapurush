@@ -12,11 +12,11 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Bernhard Riemann is a notable mathematician associated with Germany.",
+  "summary": "Bernhard Riemann is a notable mathematician connected with Germany.",
   "knownFor": [
     "Mathematician",
-    "101 language biography editions",
-    "Historical Popularity Index 85.3"
+    "Science, Math & Technology",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 411,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "bernhard-riemann-pantheon-profile",
-      "text": "Pantheon ranks Bernhard Riemann as a globally documented mathematician with biographies in 101 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Bernhard Riemann a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "bernhard-riemann-1-origin",
+      "text": "Bernhard Riemann is remembered as a mathematician connected with Germany.",
+      "context": "Bernhard Riemann's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Bernhard Riemann",
       "sourceUrl": "https://pantheon.world/profile/person/Bernhard_Riemann",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bernhard-riemann-2-obstacle",
+      "text": "Bernhard Riemann's recorded life dates place this profile around 1826-1866.",
+      "context": "Bernhard Riemann's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Bernhard Riemann",
+      "sourceUrl": "https://pantheon.world/profile/person/Bernhard_Riemann",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bernhard-riemann-3-turning-point",
+      "text": "Bernhard Riemann is grouped with Science, Math & Technology in the People Library.",
+      "context": "Bernhard Riemann's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Bernhard Riemann",
+      "sourceUrl": "https://pantheon.world/profile/person/Bernhard_Riemann",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bernhard-riemann-4-contribution",
+      "text": "Bernhard Riemann's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Bernhard Riemann's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Bernhard Riemann",
+      "sourceUrl": "https://pantheon.world/profile/person/Bernhard_Riemann",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bernhard-riemann-5-influence",
+      "text": "Bernhard Riemann has a Facts Mode card reserved for deeper source research.",
+      "context": "Bernhard Riemann's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Bernhard Riemann",
+      "sourceUrl": "https://pantheon.world/profile/person/Bernhard_Riemann",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "tacitus",
+  "slug": "tacitus",
+  "name": "Tacitus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Tacitus",
+      "url": "https://pantheon.world/profile/person/Tacitus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "tacitus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Tacitus is remembered as a historian connected with France."
+    },
+    {
+      "factId": "tacitus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Tacitus's recorded life dates place this profile around 54-120."
+    },
+    {
+      "factId": "tacitus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Tacitus is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "tacitus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Tacitus's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "tacitus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Tacitus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

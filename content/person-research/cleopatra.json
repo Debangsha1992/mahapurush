@@ -1,0 +1,47 @@
+{
+  "personId": "cleopatra",
+  "slug": "cleopatra",
+  "name": "Cleopatra",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Cleopatra",
+      "url": "https://en.wikipedia.org/wiki/Cleopatra",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Pharaoh of Egypt from 51 to 30 BC"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "cleopatra-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh."
+    },
+    {
+      "factId": "cleopatra-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Cleopatra's first language was Koine Greek, and she is the only Ptolemaic ruler known to have learned the Egyptian language, among several others."
+    },
+    {
+      "factId": "cleopatra-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Cleopatra is remembered as a politician connected with Egypt."
+    },
+    {
+      "factId": "cleopatra-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Cleopatra's recorded life dates place this profile around -69--30."
+    },
+    {
+      "factId": "cleopatra-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Cleopatra is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

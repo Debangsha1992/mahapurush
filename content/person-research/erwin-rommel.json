@@ -1,0 +1,47 @@
+{
+  "personId": "erwin-rommel",
+  "slug": "erwin-rommel",
+  "name": "Erwin Rommel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Erwin Rommel",
+      "url": "https://en.wikipedia.org/wiki/Erwin_Rommel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "German field marshal (1891–1944)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "erwin-rommel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Johannes Erwin Eugen Erwin Rommel, known as The Desert Fox, was a German Generalfeldmarschall during World War II."
+    },
+    {
+      "factId": "erwin-rommel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Erwin Rommel served in the Wehrmacht of Nazi Germany, as well as in the Reichswehr of the Weimar Republic, and Imperial German Army of the German Empire."
+    },
+    {
+      "factId": "erwin-rommel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Erwin Rommel is remembered as a military personnel connected with Germany."
+    },
+    {
+      "factId": "erwin-rommel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Erwin Rommel's recorded life dates place this profile around 1891-1944."
+    },
+    {
+      "factId": "erwin-rommel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Erwin Rommel is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

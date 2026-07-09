@@ -1,0 +1,46 @@
+{
+  "personId": "nebuchadnezzar-ii",
+  "slug": "nebuchadnezzar-ii",
+  "name": "Nebuchadnezzar II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Nebuchadnezzar II",
+      "url": "https://pantheon.world/profile/person/Nebuchadnezzar_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "nebuchadnezzar-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Nebuchadnezzar II is remembered as a politician connected with Iraq."
+    },
+    {
+      "factId": "nebuchadnezzar-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Nebuchadnezzar II's recorded life dates place this profile around -630--562."
+    },
+    {
+      "factId": "nebuchadnezzar-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Nebuchadnezzar II is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "nebuchadnezzar-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Nebuchadnezzar II's profile connects a short Fact to a wider Iraq historical setting."
+    },
+    {
+      "factId": "nebuchadnezzar-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Nebuchadnezzar II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

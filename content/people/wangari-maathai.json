@@ -9,24 +9,93 @@
   "domains": [
     "environment-exploration-human-achievement"
   ],
-  "summary": "Wangari Maathai connected environmental restoration with civic participation and women's leadership.",
+  "summary": "Wangarĩ Maathai was a Kenyan social, environmental, and political activist who founded the Green Belt Movement, an environmental non-governmental organization focused on planting trees, environmental conservation, and women's rights.",
   "knownFor": [
-    "Green Belt Movement",
-    "environmental activism",
-    "Nobel Peace Prize"
+    "Explorer",
+    "Kenya"
   ],
   "facts": [
     {
-      "id": "wangari-maathai-green-belt",
-      "text": "Maathai founded the Green Belt Movement, which mobilized communities in Kenya to plant trees and protect local environments.",
-      "context": "Her work shows how ecological repair can also build local agency, dignity, and democratic participation.",
-      "sourceTitle": "Nobel Prize: Wangari Maathai Facts",
-      "sourceUrl": "https://www.nobelprize.org/prizes/peace/2004/maathai/facts/",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "2004-10-08",
+      "id": "wangari-maathai-1-origin",
+      "text": "Wangarĩ Wangari Maathai was a Kenyan social, environmental, and political activist who founded the Green Belt Movement, an environmental non-governmental organization focused on planting trees, environmental conservation, and women's rights.",
+      "context": "Wangari Maathai's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
+      "sourceTitle": "Wikipedia: Wangarĩ Maathai",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wangar%C4%A9_Maathai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
-        "environment",
-        "community"
+        "environment-exploration-human-achievement",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wangari-maathai-2-obstacle",
+      "text": "Wangari Maathai is remembered as a explorer connected with Kenya.",
+      "context": "Wangari Maathai's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Wangarĩ Maathai",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wangar%C4%A9_Maathai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wangari-maathai-3-turning-point",
+      "text": "Wangari Maathai's recorded life dates place this profile around 1940-2011.",
+      "context": "Wangari Maathai's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Wangarĩ Maathai",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wangar%C4%A9_Maathai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wangari-maathai-4-contribution",
+      "text": "Wangari Maathai is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Wangari Maathai's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Wangarĩ Maathai",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wangar%C4%A9_Maathai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wangari-maathai-5-influence",
+      "text": "Wangari Maathai's profile connects a short Fact to a wider Kenya historical setting.",
+      "context": "Wangari Maathai's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Wangarĩ Maathai",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Wangar%C4%A9_Maathai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }
@@ -37,9 +106,9 @@
   "imageAlt": "Portrait-style visual for Wangari Maathai",
   "sourceRefs": [
     {
-      "title": "Nobel Prize: Wangari Maathai Facts",
-      "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/facts/",
-      "accessedAt": "2026-07-05"
+      "title": "Wikipedia: Wangarĩ Maathai",
+      "url": "https://en.wikipedia.org/wiki/Wangar%C4%A9_Maathai",
+      "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",

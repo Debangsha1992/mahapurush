@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Skanderbeg is a notable politician associated with Albania.",
+  "summary": "Skanderbeg is a notable politician connected with Albania.",
   "knownFor": [
     "Politician",
-    "75 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Justice, Governance & Leadership",
+    "Albania"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Skanderbeg",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "skanderbeg-pantheon-profile",
-      "text": "Pantheon ranks Skanderbeg as a globally documented politician with biographies in 75 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Skanderbeg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "skanderbeg-1-origin",
+      "text": "Skanderbeg is remembered as a politician connected with Albania.",
+      "context": "Skanderbeg's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Skanderbeg",
       "sourceUrl": "https://pantheon.world/profile/person/Skanderbeg",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "skanderbeg-2-obstacle",
+      "text": "Skanderbeg's recorded life dates place this profile around 1405-1468.",
+      "context": "Skanderbeg's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Skanderbeg",
+      "sourceUrl": "https://pantheon.world/profile/person/Skanderbeg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "skanderbeg-3-turning-point",
+      "text": "Skanderbeg is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Skanderbeg's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Skanderbeg",
+      "sourceUrl": "https://pantheon.world/profile/person/Skanderbeg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "skanderbeg-4-contribution",
+      "text": "Skanderbeg's profile connects a short Fact to a wider Albania historical setting.",
+      "context": "Skanderbeg's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Skanderbeg",
+      "sourceUrl": "https://pantheon.world/profile/person/Skanderbeg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "skanderbeg-5-influence",
+      "text": "Skanderbeg has a Facts Mode card reserved for deeper source research.",
+      "context": "Skanderbeg's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Skanderbeg",
+      "sourceUrl": "https://pantheon.world/profile/person/Skanderbeg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

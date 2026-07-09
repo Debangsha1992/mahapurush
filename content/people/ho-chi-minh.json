@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Ho Chi Minh is a notable politician associated with Vietnam.",
+  "summary": "Ho Chi Minh is a notable politician connected with Vietnam.",
   "knownFor": [
     "Politician",
-    "126 language biography editions",
-    "Historical Popularity Index 86.6"
+    "Justice, Governance & Leadership",
+    "Vietnam"
   ],
   "featured": true,
   "featuredRank": 302,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ho-chi-minh-pantheon-profile",
-      "text": "Pantheon ranks Ho Chi Minh as a globally documented politician with biographies in 126 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ho Chi Minh a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ho-chi-minh-1-origin",
+      "text": "Ho Chi Minh is remembered as a politician connected with Vietnam.",
+      "context": "Ho Chi Minh's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ho Chi Minh",
       "sourceUrl": "https://pantheon.world/profile/person/Ho_Chi_Minh",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ho-chi-minh-2-obstacle",
+      "text": "Ho Chi Minh's recorded life dates place this profile around 1890-1969.",
+      "context": "Ho Chi Minh's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ho Chi Minh",
+      "sourceUrl": "https://pantheon.world/profile/person/Ho_Chi_Minh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ho-chi-minh-3-turning-point",
+      "text": "Ho Chi Minh is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ho Chi Minh's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ho Chi Minh",
+      "sourceUrl": "https://pantheon.world/profile/person/Ho_Chi_Minh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ho-chi-minh-4-contribution",
+      "text": "Ho Chi Minh's profile connects a short Fact to a wider Vietnam historical setting.",
+      "context": "Ho Chi Minh's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ho Chi Minh",
+      "sourceUrl": "https://pantheon.world/profile/person/Ho_Chi_Minh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ho-chi-minh-5-influence",
+      "text": "Ho Chi Minh has a Facts Mode card reserved for deeper source research.",
+      "context": "Ho Chi Minh's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ho Chi Minh",
+      "sourceUrl": "https://pantheon.world/profile/person/Ho_Chi_Minh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

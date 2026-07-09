@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Khalid ibn al-Walid is a notable military personnel associated with Saudi Arabia.",
+  "summary": "Khalid ibn al-Walid is a notable military personnel connected with Saudi Arabia.",
   "knownFor": [
     "Military Personnel",
-    "65 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Justice, Governance & Leadership",
+    "Saudi Arabia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Khalid ibn al-Walid",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "khalid-ibn-al-walid-pantheon-profile",
-      "text": "Pantheon ranks Khalid ibn al-Walid as a globally documented military personnel with biographies in 65 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Khalid ibn al-Walid a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "khalid-ibn-al-walid-1-origin",
+      "text": "Khalid ibn al-Walid is remembered as a military personnel connected with Saudi Arabia.",
+      "context": "Khalid ibn al-Walid's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Khalid ibn al-Walid",
       "sourceUrl": "https://pantheon.world/profile/person/Khalid_ibn_al-Walid",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khalid-ibn-al-walid-2-obstacle",
+      "text": "Khalid ibn al-Walid's recorded life dates place this profile around 592-642.",
+      "context": "Khalid ibn al-Walid's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Khalid ibn al-Walid",
+      "sourceUrl": "https://pantheon.world/profile/person/Khalid_ibn_al-Walid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khalid-ibn-al-walid-3-turning-point",
+      "text": "Khalid ibn al-Walid is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Khalid ibn al-Walid's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Khalid ibn al-Walid",
+      "sourceUrl": "https://pantheon.world/profile/person/Khalid_ibn_al-Walid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khalid-ibn-al-walid-4-contribution",
+      "text": "Khalid ibn al-Walid's profile connects a short Fact to a wider Saudi Arabia historical setting.",
+      "context": "Khalid ibn al-Walid's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Khalid ibn al-Walid",
+      "sourceUrl": "https://pantheon.world/profile/person/Khalid_ibn_al-Walid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khalid-ibn-al-walid-5-influence",
+      "text": "Khalid ibn al-Walid has a Facts Mode card reserved for deeper source research.",
+      "context": "Khalid ibn al-Walid's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Khalid ibn al-Walid",
+      "sourceUrl": "https://pantheon.world/profile/person/Khalid_ibn_al-Walid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

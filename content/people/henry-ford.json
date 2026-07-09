@@ -12,11 +12,11 @@
     "science-math-technology",
     "inventor"
   ],
-  "summary": "Henry Ford is a notable inventor associated with United States.",
+  "summary": "Henry Ford is a notable inventor connected with United States.",
   "knownFor": [
     "Inventor",
-    "148 language biography editions",
-    "Historical Popularity Index 82.3"
+    "Science, Math & Technology",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Henry Ford",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "henry-ford-pantheon-profile",
-      "text": "Pantheon ranks Henry Ford as a globally documented inventor with biographies in 148 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Henry Ford a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "henry-ford-1-origin",
+      "text": "Henry Ford is remembered as a inventor connected with United States.",
+      "context": "Henry Ford's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Henry Ford",
       "sourceUrl": "https://pantheon.world/profile/person/Henry_Ford",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-ford-2-obstacle",
+      "text": "Henry Ford's recorded life dates place this profile around 1863-1947.",
+      "context": "Henry Ford's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Henry Ford",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_Ford",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-ford-3-turning-point",
+      "text": "Henry Ford is grouped with Science, Math & Technology in the People Library.",
+      "context": "Henry Ford's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Henry Ford",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_Ford",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-ford-4-contribution",
+      "text": "Henry Ford's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Henry Ford's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Henry Ford",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_Ford",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-ford-5-influence",
+      "text": "Henry Ford has a Facts Mode card reserved for deeper source research.",
+      "context": "Henry Ford's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Henry Ford",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_Ford",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

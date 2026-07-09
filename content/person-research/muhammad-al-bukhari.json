@@ -1,0 +1,46 @@
+{
+  "personId": "muhammad-al-bukhari",
+  "slug": "muhammad-al-bukhari",
+  "name": "Muhammad al-Bukhari",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Muhammad al-Bukhari",
+      "url": "https://pantheon.world/profile/person/Muhammad_al-Bukhari",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "muhammad-al-bukhari-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad al-Bukhari is remembered as a religious figure connected with Uzbekistan."
+    },
+    {
+      "factId": "muhammad-al-bukhari-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad al-Bukhari's recorded life dates place this profile around 810-870."
+    },
+    {
+      "factId": "muhammad-al-bukhari-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad al-Bukhari is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "muhammad-al-bukhari-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad al-Bukhari's profile connects a short Fact to a wider Uzbekistan historical setting."
+    },
+    {
+      "factId": "muhammad-al-bukhari-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad al-Bukhari has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

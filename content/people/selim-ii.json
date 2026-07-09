@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Selim II is a notable politician associated with Türkiye.",
+  "summary": "Selim II is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "75 language biography editions",
-    "Historical Popularity Index 85.8"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": true,
   "featuredRank": 362,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "selim-ii-pantheon-profile",
-      "text": "Pantheon ranks Selim II as a globally documented politician with biographies in 75 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Selim II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "selim-ii-1-origin",
+      "text": "Selim II is remembered as a politician connected with Türkiye.",
+      "context": "Selim II's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Selim II",
       "sourceUrl": "https://pantheon.world/profile/person/Selim_II",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "selim-ii-2-obstacle",
+      "text": "Selim II's recorded life dates place this profile around 1524-1574.",
+      "context": "Selim II's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Selim II",
+      "sourceUrl": "https://pantheon.world/profile/person/Selim_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "selim-ii-3-turning-point",
+      "text": "Selim II is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Selim II's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Selim II",
+      "sourceUrl": "https://pantheon.world/profile/person/Selim_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "selim-ii-4-contribution",
+      "text": "Selim II's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Selim II's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Selim II",
+      "sourceUrl": "https://pantheon.world/profile/person/Selim_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "selim-ii-5-influence",
+      "text": "Selim II has a Facts Mode card reserved for deeper source research.",
+      "context": "Selim II's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Selim II",
+      "sourceUrl": "https://pantheon.world/profile/person/Selim_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

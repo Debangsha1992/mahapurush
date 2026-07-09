@@ -1,0 +1,46 @@
+{
+  "personId": "nicolaus-copernicus",
+  "slug": "nicolaus-copernicus",
+  "name": "Nicolaus Copernicus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Nicolaus Copernicus",
+      "url": "https://pantheon.world/profile/person/Nicolaus_Copernicus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "nicolaus-copernicus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Nicolaus Copernicus is remembered as a astronomer connected with Poland."
+    },
+    {
+      "factId": "nicolaus-copernicus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Nicolaus Copernicus's recorded life dates place this profile around 1473-1543."
+    },
+    {
+      "factId": "nicolaus-copernicus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Nicolaus Copernicus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "nicolaus-copernicus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Nicolaus Copernicus's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "nicolaus-copernicus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Nicolaus Copernicus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

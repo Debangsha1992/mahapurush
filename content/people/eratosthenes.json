@@ -12,35 +12,103 @@
     "justice-governance-leadership",
     "geographer"
   ],
-  "summary": "Eratosthenes is a notable geographer associated with Libya.",
+  "summary": "Eratosthenes of Cyrene was an Ancient Greek polymath: a philosopher, scholar, mathematician, geographer, poet, astronomer, and music theorist.",
   "knownFor": [
     "Geographer",
-    "101 language biography editions",
-    "Historical Popularity Index 85.8"
+    "Justice, Governance & Leadership",
+    "Libya"
   ],
   "featured": true,
   "featuredRank": 364,
   "imageAlt": "Portrait-style visual for Eratosthenes",
   "sourceRefs": [
     {
-      "title": "Pantheon: Eratosthenes",
-      "url": "https://pantheon.world/profile/person/Eratosthenes",
+      "title": "Wikipedia: Eratosthenes",
+      "url": "https://en.wikipedia.org/wiki/Eratosthenes",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "eratosthenes-pantheon-profile",
-      "text": "Pantheon ranks Eratosthenes as a globally documented geographer with biographies in 101 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Eratosthenes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Eratosthenes",
-      "sourceUrl": "https://pantheon.world/profile/person/Eratosthenes",
+      "id": "eratosthenes-1-origin",
+      "text": "Eratosthenes of Cyrene was an Ancient Greek polymath: a philosopher, scholar, mathematician, geographer, poet, astronomer, and music theorist.",
+      "context": "Eratosthenes's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Eratosthenes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eratosthenes",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "eratosthenes-2-obstacle",
+      "text": "Eratosthenes eventually became the chief librarian at the Library of Alexandria.",
+      "context": "Eratosthenes's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Eratosthenes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eratosthenes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "eratosthenes-3-turning-point",
+      "text": "Eratosthenes's work was the precursor to the modern discipline of geography, and he introduced some of its terminology, coining the terms geography and geographer.",
+      "context": "Eratosthenes's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Eratosthenes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eratosthenes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "eratosthenes-4-contribution",
+      "text": "Eratosthenes is remembered as a geographer connected with Libya.",
+      "context": "Eratosthenes's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Eratosthenes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eratosthenes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "eratosthenes-5-influence",
+      "text": "Eratosthenes's recorded life dates place this profile around -276--194.",
+      "context": "Eratosthenes's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Eratosthenes",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eratosthenes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

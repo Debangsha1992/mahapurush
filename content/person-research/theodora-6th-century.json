@@ -1,0 +1,46 @@
+{
+  "personId": "theodora-6th-century",
+  "slug": "theodora-6th-century",
+  "name": "Theodora",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Theodora",
+      "url": "https://pantheon.world/profile/person/Theodora_(6th_century)",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "theodora-6th-century-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Theodora is remembered as a companion connected with Cyprus."
+    },
+    {
+      "factId": "theodora-6th-century-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Theodora's recorded life dates place this profile around 500-548."
+    },
+    {
+      "factId": "theodora-6th-century-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Theodora is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "theodora-6th-century-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Theodora's profile connects a short Fact to a wider Cyprus historical setting."
+    },
+    {
+      "factId": "theodora-6th-century-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Theodora has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

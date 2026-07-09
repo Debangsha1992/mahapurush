@@ -1,0 +1,46 @@
+{
+  "personId": "otto-von-bismarck",
+  "slug": "otto-von-bismarck",
+  "name": "Otto von Bismarck",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Otto von Bismarck",
+      "url": "https://pantheon.world/profile/person/Otto_von_Bismarck",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "otto-von-bismarck-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Otto von Bismarck is remembered as a politician connected with Germany."
+    },
+    {
+      "factId": "otto-von-bismarck-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Otto von Bismarck's recorded life dates place this profile around 1815-1898."
+    },
+    {
+      "factId": "otto-von-bismarck-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Otto von Bismarck is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "otto-von-bismarck-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Otto von Bismarck's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "otto-von-bismarck-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Otto von Bismarck has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

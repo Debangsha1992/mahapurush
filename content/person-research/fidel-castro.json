@@ -1,0 +1,47 @@
+{
+  "personId": "fidel-castro",
+  "slug": "fidel-castro",
+  "name": "Fidel Castro",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Fidel Castro",
+      "url": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Leader of Cuba from 1959 to 2008"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "fidel-castro-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Fidel Alejandro Fidel Castro Ruz was a Cuban communist revolutionary and statesman who was the leader of Cuba from 1959 to 2008."
+    },
+    {
+      "factId": "fidel-castro-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Fidel Castro served as prime minister from 1959 to 1976 and president from 1976 to 2008."
+    },
+    {
+      "factId": "fidel-castro-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Fidel Castro is remembered as a politician connected with Cuba."
+    },
+    {
+      "factId": "fidel-castro-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Fidel Castro's recorded life dates place this profile around 1926-2016."
+    },
+    {
+      "factId": "fidel-castro-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Fidel Castro is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

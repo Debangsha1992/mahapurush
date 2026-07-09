@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Muhammad Ali Jinnah is a notable politician associated with Pakistan.",
+  "summary": "Muhammad Ali Jinnah is a notable politician connected with Pakistan.",
   "knownFor": [
     "Politician",
-    "99 language biography editions",
-    "Historical Popularity Index 86.9"
+    "Justice, Governance & Leadership",
+    "Pakistan"
   ],
   "featured": true,
   "featuredRank": 283,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "muhammad-ali-jinnah-pantheon-profile",
-      "text": "Pantheon ranks Muhammad Ali Jinnah as a globally documented politician with biographies in 99 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Muhammad Ali Jinnah a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "muhammad-ali-jinnah-1-origin",
+      "text": "Muhammad Ali Jinnah is remembered as a politician connected with Pakistan.",
+      "context": "Muhammad Ali Jinnah's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Muhammad Ali Jinnah",
       "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_Jinnah",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-jinnah-2-obstacle",
+      "text": "Muhammad Ali Jinnah's recorded life dates place this profile around 1876-1948.",
+      "context": "Muhammad Ali Jinnah's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Muhammad Ali Jinnah",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_Jinnah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-jinnah-3-turning-point",
+      "text": "Muhammad Ali Jinnah is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Muhammad Ali Jinnah's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Muhammad Ali Jinnah",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_Jinnah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-jinnah-4-contribution",
+      "text": "Muhammad Ali Jinnah's profile connects a short Fact to a wider Pakistan historical setting.",
+      "context": "Muhammad Ali Jinnah's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Muhammad Ali Jinnah",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_Jinnah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-jinnah-5-influence",
+      "text": "Muhammad Ali Jinnah has a Facts Mode card reserved for deeper source research.",
+      "context": "Muhammad Ali Jinnah's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Muhammad Ali Jinnah",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_Jinnah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

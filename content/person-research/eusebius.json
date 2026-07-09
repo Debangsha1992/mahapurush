@@ -1,0 +1,46 @@
+{
+  "personId": "eusebius",
+  "slug": "eusebius",
+  "name": "Eusebius",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Eusebius",
+      "url": "https://pantheon.world/profile/person/Eusebius",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "eusebius-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Eusebius is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "eusebius-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Eusebius's recorded life dates place this profile around 265-339."
+    },
+    {
+      "factId": "eusebius-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Eusebius is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "eusebius-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Eusebius's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "eusebius-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Eusebius has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

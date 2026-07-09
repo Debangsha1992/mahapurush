@@ -1,0 +1,46 @@
+{
+  "personId": "maximilien-robespierre",
+  "slug": "maximilien-robespierre",
+  "name": "Maximilien Robespierre",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Maximilien Robespierre",
+      "url": "https://pantheon.world/profile/person/Maximilien_Robespierre",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "maximilien-robespierre-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Maximilien Robespierre is remembered as a politician connected with France."
+    },
+    {
+      "factId": "maximilien-robespierre-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Maximilien Robespierre's recorded life dates place this profile around 1758-1794."
+    },
+    {
+      "factId": "maximilien-robespierre-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Maximilien Robespierre is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "maximilien-robespierre-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Maximilien Robespierre's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "maximilien-robespierre-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Maximilien Robespierre has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

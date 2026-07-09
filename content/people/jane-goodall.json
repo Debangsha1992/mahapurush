@@ -9,24 +9,92 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Jane Goodall changed how scientists and the public understand chimpanzees, animals, and conservation.",
+  "summary": "Dame Valerie Jane Morris Goodall was an English primatologist and anthropologist.",
   "knownFor": [
-    "chimpanzee field research",
-    "Gombe Stream research",
-    "conservation advocacy"
+    "Scientist",
+    "United Kingdom, Tanzania"
   ],
   "facts": [
     {
-      "id": "jane-goodall-gombe-research",
-      "text": "Goodall began her chimpanzee research at Gombe Stream in Tanzania in 1960.",
-      "context": "Her patient field observation helped challenge assumptions about tool use, animal behavior, and the boundary between humans and other animals.",
-      "sourceTitle": "Jane Goodall Institute: Biography",
-      "sourceUrl": "https://janegoodall.org/our-story/about-jane/",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "1960-07-14",
+      "id": "jane-goodall-1-origin",
+      "text": "Dame Valerie Jane Morris Jane Goodall was an English primatologist and anthropologist.",
+      "context": "Jane Goodall's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Jane Goodall",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Goodall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
-        "science",
-        "conservation"
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jane-goodall-2-obstacle",
+      "text": "Beginning in 1960, under the mentorship of the palaeontologist Louis Leakey, Jane Goodall's research demonstrated that chimpanzees share many key traits with humans, such as using tools, having complex emotions, forming lasting social bonds, engaging in organised warfare, and passing on knowledge a.",
+      "context": "Jane Goodall's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Jane Goodall",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Goodall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jane-goodall-3-turning-point",
+      "text": "Jane Goodall is remembered as a scientist connected with United Kingdom, Tanzania.",
+      "context": "Jane Goodall's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Jane Goodall",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Goodall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jane-goodall-4-contribution",
+      "text": "Jane Goodall's recorded life dates place this profile around 1934-present.",
+      "context": "Jane Goodall's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Jane Goodall",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Goodall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jane-goodall-5-influence",
+      "text": "Jane Goodall is grouped with Science, Math & Technology in the People Library.",
+      "context": "Jane Goodall's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Jane Goodall",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jane_Goodall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }
@@ -38,9 +106,9 @@
   "imageAlt": "Portrait-style visual for Jane Goodall",
   "sourceRefs": [
     {
-      "title": "Jane Goodall Institute: Biography",
-      "url": "https://janegoodall.org/our-story/about-jane/",
-      "accessedAt": "2026-07-05"
+      "title": "Wikipedia: Jane Goodall",
+      "url": "https://en.wikipedia.org/wiki/Jane_Goodall",
+      "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published"

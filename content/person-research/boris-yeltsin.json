@@ -1,0 +1,46 @@
+{
+  "personId": "boris-yeltsin",
+  "slug": "boris-yeltsin",
+  "name": "Boris Yeltsin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Boris Yeltsin",
+      "url": "https://pantheon.world/profile/person/Boris_Yeltsin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "boris-yeltsin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Boris Yeltsin is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "boris-yeltsin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Boris Yeltsin's recorded life dates place this profile around 1931-2007."
+    },
+    {
+      "factId": "boris-yeltsin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Boris Yeltsin is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "boris-yeltsin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Boris Yeltsin's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "boris-yeltsin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Boris Yeltsin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

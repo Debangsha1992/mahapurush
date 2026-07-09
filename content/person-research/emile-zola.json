@@ -1,0 +1,46 @@
+{
+  "personId": "emile-zola",
+  "slug": "emile-zola",
+  "name": "Émile Zola",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Émile Zola",
+      "url": "https://pantheon.world/profile/person/%C3%89mile_Zola",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "emile-zola-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Émile Zola is remembered as a writer connected with France."
+    },
+    {
+      "factId": "emile-zola-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Émile Zola's recorded life dates place this profile around 1840-1902."
+    },
+    {
+      "factId": "emile-zola-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Émile Zola is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "emile-zola-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Émile Zola's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "emile-zola-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Émile Zola has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

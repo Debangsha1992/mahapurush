@@ -1,0 +1,46 @@
+{
+  "personId": "louis-philippe-i",
+  "slug": "louis-philippe-i",
+  "name": "Louis Philippe I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Louis Philippe I",
+      "url": "https://pantheon.world/profile/person/Louis_Philippe_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "louis-philippe-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Louis Philippe I is remembered as a politician connected with France."
+    },
+    {
+      "factId": "louis-philippe-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Louis Philippe I's recorded life dates place this profile around 1773-1850."
+    },
+    {
+      "factId": "louis-philippe-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Louis Philippe I is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "louis-philippe-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Louis Philippe I's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "louis-philippe-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Louis Philippe I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

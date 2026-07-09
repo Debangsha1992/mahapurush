@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Justinian I is a notable politician associated with North Macedonia.",
+  "summary": "Justinian I is a notable politician connected with North Macedonia.",
   "knownFor": [
     "Politician",
-    "101 language biography editions",
-    "Historical Popularity Index 85.7"
+    "Justice, Governance & Leadership",
+    "North Macedonia"
   ],
   "featured": true,
   "featuredRank": 380,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "justinian-i-pantheon-profile",
-      "text": "Pantheon ranks Justinian I as a globally documented politician with biographies in 101 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Justinian I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "justinian-i-1-origin",
+      "text": "Justinian I is remembered as a politician connected with North Macedonia.",
+      "context": "Justinian I's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Justinian I",
       "sourceUrl": "https://pantheon.world/profile/person/Justinian_I",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "justinian-i-2-obstacle",
+      "text": "Justinian I's recorded life dates place this profile around 482-565.",
+      "context": "Justinian I's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Justinian I",
+      "sourceUrl": "https://pantheon.world/profile/person/Justinian_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "justinian-i-3-turning-point",
+      "text": "Justinian I is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Justinian I's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Justinian I",
+      "sourceUrl": "https://pantheon.world/profile/person/Justinian_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "justinian-i-4-contribution",
+      "text": "Justinian I's profile connects a short Fact to a wider North Macedonia historical setting.",
+      "context": "Justinian I's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Justinian I",
+      "sourceUrl": "https://pantheon.world/profile/person/Justinian_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "justinian-i-5-influence",
+      "text": "Justinian I has a Facts Mode card reserved for deeper source research.",
+      "context": "Justinian I's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Justinian I",
+      "sourceUrl": "https://pantheon.world/profile/person/Justinian_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

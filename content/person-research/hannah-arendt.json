@@ -1,0 +1,46 @@
+{
+  "personId": "hannah-arendt",
+  "slug": "hannah-arendt",
+  "name": "Hannah Arendt",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hannah Arendt",
+      "url": "https://pantheon.world/profile/person/Hannah_Arendt",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hannah-arendt-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hannah Arendt is remembered as a philosopher connected with Germany."
+    },
+    {
+      "factId": "hannah-arendt-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hannah Arendt's recorded life dates place this profile around 1906-1975."
+    },
+    {
+      "factId": "hannah-arendt-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hannah Arendt is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "hannah-arendt-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hannah Arendt's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "hannah-arendt-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hannah Arendt has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

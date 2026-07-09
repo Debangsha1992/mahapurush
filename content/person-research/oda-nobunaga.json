@@ -1,0 +1,46 @@
+{
+  "personId": "oda-nobunaga",
+  "slug": "oda-nobunaga",
+  "name": "Oda Nobunaga",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Oda Nobunaga",
+      "url": "https://pantheon.world/profile/person/Oda_Nobunaga",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "oda-nobunaga-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Oda Nobunaga is remembered as a military personnel connected with Japan."
+    },
+    {
+      "factId": "oda-nobunaga-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Oda Nobunaga's recorded life dates place this profile around 1534-1582."
+    },
+    {
+      "factId": "oda-nobunaga-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Oda Nobunaga is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "oda-nobunaga-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Oda Nobunaga's profile connects a short Fact to a wider Japan historical setting."
+    },
+    {
+      "factId": "oda-nobunaga-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Oda Nobunaga has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

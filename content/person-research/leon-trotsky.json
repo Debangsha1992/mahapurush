@@ -1,0 +1,46 @@
+{
+  "personId": "leon-trotsky",
+  "slug": "leon-trotsky",
+  "name": "Leon Trotsky",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Leon Trotsky",
+      "url": "https://pantheon.world/profile/person/Leon_Trotsky",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "leon-trotsky-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Leon Trotsky is remembered as a politician connected with Ukraine."
+    },
+    {
+      "factId": "leon-trotsky-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Leon Trotsky's recorded life dates place this profile around 1879-1940."
+    },
+    {
+      "factId": "leon-trotsky-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Leon Trotsky is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "leon-trotsky-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Leon Trotsky's profile connects a short Fact to a wider Ukraine historical setting."
+    },
+    {
+      "factId": "leon-trotsky-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Leon Trotsky has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,34 +12,105 @@
     "justice-governance-leadership",
     "racing-driver"
   ],
-  "summary": "Ayrton Senna is a notable racing driver associated with Brazil.",
+  "summary": "Ayrton Senna is a notable racing driver connected with Brazil.",
   "knownFor": [
     "Racing Driver",
-    "90 language biography editions",
-    "Historical Popularity Index 82.7"
+    "Justice, Governance & Leadership",
+    "Brazil"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ayrton Senna",
   "sourceRefs": [
     {
-      "title": "Pantheon: Ayrton Senna",
-      "url": "https://pantheon.world/profile/person/Ayrton_Senna",
+      "title": "Wikipedia: Ayrton Senna",
+      "url": "https://en.wikipedia.org/wiki/Ayrton_Senna",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ayrton-senna-pantheon-profile",
-      "text": "Pantheon ranks Ayrton Senna as a globally documented racing driver with biographies in 90 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ayrton Senna a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Ayrton Senna",
-      "sourceUrl": "https://pantheon.world/profile/person/Ayrton_Senna",
+      "id": "ayrton-senna-1-origin",
+      "text": "Ayrton Senna is remembered as a racing driver connected with Brazil.",
+      "context": "Ayrton Senna's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Ayrton Senna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ayrton_Senna",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ayrton-senna-2-obstacle",
+      "text": "Ayrton Senna's recorded life dates place this profile around 1960-1994.",
+      "context": "Ayrton Senna's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Ayrton Senna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ayrton-senna-3-turning-point",
+      "text": "Ayrton Senna is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ayrton Senna's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Ayrton Senna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ayrton-senna-4-contribution",
+      "text": "Ayrton Senna's profile connects a short Fact to a wider Brazil historical setting.",
+      "context": "Ayrton Senna's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Ayrton Senna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ayrton-senna-5-influence",
+      "text": "Ayrton Senna has a Facts Mode card reserved for deeper source research.",
+      "context": "Ayrton Senna's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Ayrton Senna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

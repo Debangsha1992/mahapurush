@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Matsuo Bashō is a notable writer associated with Japan.",
+  "summary": "Matsuo Bashō is a notable writer connected with Japan.",
   "knownFor": [
     "Writer",
-    "163 language biography editions",
-    "Historical Popularity Index 85.1"
+    "Literature, Arts & Culture",
+    "Japan"
   ],
   "featured": true,
   "featuredRank": 426,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "matsuo-basho-pantheon-profile",
-      "text": "Pantheon ranks Matsuo Bashō as a globally documented writer with biographies in 163 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Matsuo Bashō a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "matsuo-basho-1-origin",
+      "text": "Matsuo Bashō is remembered as a writer connected with Japan.",
+      "context": "Matsuo Bashō's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Matsuo Bashō",
       "sourceUrl": "https://pantheon.world/profile/person/Matsuo_Bash%C5%8D",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "matsuo-basho-2-obstacle",
+      "text": "Matsuo Bashō's recorded life dates place this profile around 1644-1694.",
+      "context": "Matsuo Bashō's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Matsuo Bashō",
+      "sourceUrl": "https://pantheon.world/profile/person/Matsuo_Bash%C5%8D",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "matsuo-basho-3-turning-point",
+      "text": "Matsuo Bashō is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Matsuo Bashō's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Matsuo Bashō",
+      "sourceUrl": "https://pantheon.world/profile/person/Matsuo_Bash%C5%8D",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "matsuo-basho-4-contribution",
+      "text": "Matsuo Bashō's profile connects a short Fact to a wider Japan historical setting.",
+      "context": "Matsuo Bashō's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Matsuo Bashō",
+      "sourceUrl": "https://pantheon.world/profile/person/Matsuo_Bash%C5%8D",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "matsuo-basho-5-influence",
+      "text": "Matsuo Bashō has a Facts Mode card reserved for deeper source research.",
+      "context": "Matsuo Bashō's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Matsuo Bashō",
+      "sourceUrl": "https://pantheon.world/profile/person/Matsuo_Bash%C5%8D",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

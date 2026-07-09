@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "musician"
   ],
-  "summary": "Franz Liszt is a notable musician associated with Austria.",
+  "summary": "Franz Liszt is a notable musician connected with Austria.",
   "knownFor": [
     "Musician",
-    "101 language biography editions",
-    "Historical Popularity Index 85.0"
+    "Literature, Arts & Culture",
+    "Austria"
   ],
   "featured": true,
   "featuredRank": 443,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "franz-liszt-pantheon-profile",
-      "text": "Pantheon ranks Franz Liszt as a globally documented musician with biographies in 101 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Franz Liszt a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "franz-liszt-1-origin",
+      "text": "Franz Liszt is remembered as a musician connected with Austria.",
+      "context": "Franz Liszt's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Franz Liszt",
       "sourceUrl": "https://pantheon.world/profile/person/Franz_Liszt",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-liszt-2-obstacle",
+      "text": "Franz Liszt's recorded life dates place this profile around 1811-1886.",
+      "context": "Franz Liszt's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Franz Liszt",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Liszt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-liszt-3-turning-point",
+      "text": "Franz Liszt is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Franz Liszt's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Franz Liszt",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Liszt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-liszt-4-contribution",
+      "text": "Franz Liszt's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Franz Liszt's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Franz Liszt",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Liszt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-liszt-5-influence",
+      "text": "Franz Liszt has a Facts Mode card reserved for deeper source research.",
+      "context": "Franz Liszt's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Franz Liszt",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Liszt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

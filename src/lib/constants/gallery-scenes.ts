@@ -6,7 +6,7 @@ export type GalleryScene = {
 };
 
 const stylePrefix =
-  "Editorial historical illustration for a teen philosophy learning app. Painterly digital art, cinematic lighting, deep charcoal and warm gold palette, dignified and respectful, no text, no watermarks, no logos. ";
+  "Editorial historical illustration for a modern reflective learning app. Painterly digital art, cinematic lighting, deep charcoal and warm gold palette, dignified and respectful, no text, no watermarks, no logos. ";
 
 const mobileStylePrefix =
   "Vertical 9:16 portrait illustration for a mobile learning app. Subject centered with headroom, full-bleed cinematic frame, painterly digital art, deep charcoal and warm gold palette, dignified and respectful, no text, no watermarks, no logos. ";

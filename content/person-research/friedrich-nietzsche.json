@@ -1,0 +1,46 @@
+{
+  "personId": "friedrich-nietzsche",
+  "slug": "friedrich-nietzsche",
+  "name": "Friedrich Nietzsche",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Friedrich Nietzsche",
+      "url": "https://pantheon.world/profile/person/Friedrich_Nietzsche",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "friedrich-nietzsche-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Friedrich Nietzsche is remembered as a philosopher connected with Germany."
+    },
+    {
+      "factId": "friedrich-nietzsche-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Friedrich Nietzsche's recorded life dates place this profile around 1844-1900."
+    },
+    {
+      "factId": "friedrich-nietzsche-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Friedrich Nietzsche is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "friedrich-nietzsche-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Friedrich Nietzsche's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "friedrich-nietzsche-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Friedrich Nietzsche has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

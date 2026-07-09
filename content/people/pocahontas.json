@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "diplomat"
   ],
-  "summary": "Pocahontas is a notable diplomat associated with United States.",
+  "summary": "Pocahontas is a notable diplomat connected with United States.",
   "knownFor": [
     "Diplomat",
-    "61 language biography editions",
-    "Historical Popularity Index 85.5"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 389,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pocahontas-pantheon-profile",
-      "text": "Pantheon ranks Pocahontas as a globally documented diplomat with biographies in 61 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pocahontas a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pocahontas-1-origin",
+      "text": "Pocahontas is remembered as a diplomat connected with United States.",
+      "context": "Pocahontas's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Pocahontas",
       "sourceUrl": "https://pantheon.world/profile/person/Pocahontas",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pocahontas-2-obstacle",
+      "text": "Pocahontas's recorded life dates place this profile around 1595-1617.",
+      "context": "Pocahontas's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pocahontas",
+      "sourceUrl": "https://pantheon.world/profile/person/Pocahontas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pocahontas-3-turning-point",
+      "text": "Pocahontas is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Pocahontas's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pocahontas",
+      "sourceUrl": "https://pantheon.world/profile/person/Pocahontas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pocahontas-4-contribution",
+      "text": "Pocahontas's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Pocahontas's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pocahontas",
+      "sourceUrl": "https://pantheon.world/profile/person/Pocahontas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pocahontas-5-influence",
+      "text": "Pocahontas has a Facts Mode card reserved for deeper source research.",
+      "context": "Pocahontas's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pocahontas",
+      "sourceUrl": "https://pantheon.world/profile/person/Pocahontas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

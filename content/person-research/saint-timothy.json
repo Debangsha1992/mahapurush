@@ -1,0 +1,46 @@
+{
+  "personId": "saint-timothy",
+  "slug": "saint-timothy",
+  "name": "Saint Timothy",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Saint Timothy",
+      "url": "https://pantheon.world/profile/person/Saint_Timothy",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saint-timothy-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Saint Timothy is remembered as a religious figure connected with Türkiye."
+    },
+    {
+      "factId": "saint-timothy-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Saint Timothy's recorded life dates place this profile around 17-97."
+    },
+    {
+      "factId": "saint-timothy-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Saint Timothy is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "saint-timothy-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Saint Timothy's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "saint-timothy-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Saint Timothy has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

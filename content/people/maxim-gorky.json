@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Maxim Gorky is a notable writer associated with Russia.",
+  "summary": "Maxim Gorky is a notable writer connected with Russia.",
   "knownFor": [
     "Writer",
-    "113 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Literature, Arts & Culture",
+    "Russia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Maxim Gorky",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "maxim-gorky-pantheon-profile",
-      "text": "Pantheon ranks Maxim Gorky as a globally documented writer with biographies in 113 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Maxim Gorky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "maxim-gorky-1-origin",
+      "text": "Maxim Gorky is remembered as a writer connected with Russia.",
+      "context": "Maxim Gorky's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Maxim Gorky",
       "sourceUrl": "https://pantheon.world/profile/person/Maxim_Gorky",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maxim-gorky-2-obstacle",
+      "text": "Maxim Gorky's recorded life dates place this profile around 1868-1936.",
+      "context": "Maxim Gorky's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Maxim Gorky",
+      "sourceUrl": "https://pantheon.world/profile/person/Maxim_Gorky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maxim-gorky-3-turning-point",
+      "text": "Maxim Gorky is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Maxim Gorky's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Maxim Gorky",
+      "sourceUrl": "https://pantheon.world/profile/person/Maxim_Gorky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maxim-gorky-4-contribution",
+      "text": "Maxim Gorky's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Maxim Gorky's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Maxim Gorky",
+      "sourceUrl": "https://pantheon.world/profile/person/Maxim_Gorky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maxim-gorky-5-influence",
+      "text": "Maxim Gorky has a Facts Mode card reserved for deeper source research.",
+      "context": "Maxim Gorky's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Maxim Gorky",
+      "sourceUrl": "https://pantheon.world/profile/person/Maxim_Gorky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

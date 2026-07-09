@@ -1,0 +1,46 @@
+{
+  "personId": "james-stewart",
+  "slug": "james-stewart",
+  "name": "James Stewart",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James Stewart",
+      "url": "https://pantheon.world/profile/person/James_Stewart",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-stewart-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James Stewart is remembered as a actor connected with United States."
+    },
+    {
+      "factId": "james-stewart-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James Stewart's recorded life dates place this profile around 1908-1997."
+    },
+    {
+      "factId": "james-stewart-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James Stewart is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "james-stewart-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James Stewart's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "james-stewart-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James Stewart has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

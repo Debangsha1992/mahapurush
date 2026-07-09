@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Hafez al-Assad is a notable politician associated with Syria.",
+  "summary": "Hafez al-Assad is a notable politician connected with Syria.",
   "knownFor": [
     "Politician",
-    "85 language biography editions",
-    "Historical Popularity Index 87.2"
+    "Justice, Governance & Leadership",
+    "Syria"
   ],
   "featured": true,
   "featuredRank": 265,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hafez-al-assad-pantheon-profile",
-      "text": "Pantheon ranks Hafez al-Assad as a globally documented politician with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hafez al-Assad a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hafez-al-assad-1-origin",
+      "text": "Hafez al-Assad is remembered as a politician connected with Syria.",
+      "context": "Hafez al-Assad's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Hafez al-Assad",
       "sourceUrl": "https://pantheon.world/profile/person/Hafez_al-Assad",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hafez-al-assad-2-obstacle",
+      "text": "Hafez al-Assad's recorded life dates place this profile around 1930-2000.",
+      "context": "Hafez al-Assad's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hafez al-Assad",
+      "sourceUrl": "https://pantheon.world/profile/person/Hafez_al-Assad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hafez-al-assad-3-turning-point",
+      "text": "Hafez al-Assad is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Hafez al-Assad's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hafez al-Assad",
+      "sourceUrl": "https://pantheon.world/profile/person/Hafez_al-Assad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hafez-al-assad-4-contribution",
+      "text": "Hafez al-Assad's profile connects a short Fact to a wider Syria historical setting.",
+      "context": "Hafez al-Assad's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hafez al-Assad",
+      "sourceUrl": "https://pantheon.world/profile/person/Hafez_al-Assad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hafez-al-assad-5-influence",
+      "text": "Hafez al-Assad has a Facts Mode card reserved for deeper source research.",
+      "context": "Hafez al-Assad's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hafez al-Assad",
+      "sourceUrl": "https://pantheon.world/profile/person/Hafez_al-Assad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

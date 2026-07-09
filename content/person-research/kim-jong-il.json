@@ -1,0 +1,46 @@
+{
+  "personId": "kim-jong-il",
+  "slug": "kim-jong-il",
+  "name": "Kim Jong-il",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Kim Jong-il",
+      "url": "https://pantheon.world/profile/person/Kim_Jong-il",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "kim-jong-il-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Kim Jong-il is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "kim-jong-il-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Kim Jong-il's recorded life dates place this profile around 1941-2011."
+    },
+    {
+      "factId": "kim-jong-il-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Kim Jong-il is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "kim-jong-il-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Kim Jong-il's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "kim-jong-il-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Kim Jong-il has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "claude-debussy",
+  "slug": "claude-debussy",
+  "name": "Claude Debussy",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Claude Debussy",
+      "url": "https://pantheon.world/profile/person/Claude_Debussy",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "claude-debussy-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Claude Debussy is remembered as a composer connected with France."
+    },
+    {
+      "factId": "claude-debussy-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Claude Debussy's recorded life dates place this profile around 1862-1918."
+    },
+    {
+      "factId": "claude-debussy-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Claude Debussy is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "claude-debussy-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Claude Debussy's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "claude-debussy-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Claude Debussy has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

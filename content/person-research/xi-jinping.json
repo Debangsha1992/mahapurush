@@ -1,0 +1,46 @@
+{
+  "personId": "xi-jinping",
+  "slug": "xi-jinping",
+  "name": "Xi Jinping",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Xi Jinping",
+      "url": "https://pantheon.world/profile/person/Xi_Jinping",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "xi-jinping-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Xi Jinping is remembered as a politician connected with China."
+    },
+    {
+      "factId": "xi-jinping-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Xi Jinping's recorded life dates place this profile around born 1953."
+    },
+    {
+      "factId": "xi-jinping-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Xi Jinping is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "xi-jinping-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Xi Jinping's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "xi-jinping-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Xi Jinping has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

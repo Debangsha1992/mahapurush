@@ -1,0 +1,46 @@
+{
+  "personId": "johann-sebastian-bach",
+  "slug": "johann-sebastian-bach",
+  "name": "Johann Sebastian Bach",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Johann Sebastian Bach",
+      "url": "https://pantheon.world/profile/person/Johann_Sebastian_Bach",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "johann-sebastian-bach-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Johann Sebastian Bach is remembered as a composer connected with Germany."
+    },
+    {
+      "factId": "johann-sebastian-bach-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Johann Sebastian Bach's recorded life dates place this profile around 1685-1750."
+    },
+    {
+      "factId": "johann-sebastian-bach-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Johann Sebastian Bach is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "johann-sebastian-bach-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Johann Sebastian Bach's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "johann-sebastian-bach-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Johann Sebastian Bach has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

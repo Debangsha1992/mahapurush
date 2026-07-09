@@ -1,0 +1,46 @@
+{
+  "personId": "mehmed-i",
+  "slug": "mehmed-i",
+  "name": "Mehmed I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mehmed I",
+      "url": "https://pantheon.world/profile/person/Mehmed_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mehmed-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed I is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "mehmed-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed I's recorded life dates place this profile around 1386-1421."
+    },
+    {
+      "factId": "mehmed-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed I is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mehmed-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed I's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "mehmed-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mehmed I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

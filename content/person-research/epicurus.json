@@ -1,0 +1,47 @@
+{
+  "personId": "epicurus",
+  "slug": "epicurus",
+  "name": "Epicurus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Epicurus",
+      "url": "https://en.wikipedia.org/wiki/Epicurus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Ancient Greek philosopher (341–270 BC)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "epicurus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Epicurus was an ancient Greek philosopher who founded the philosophical school of Epicureanism, which taught that management of one's desires, removal of unnecessary fears, friendship, and virtuous living led to a pleasant life and constant happiness, the highest good."
+    },
+    {
+      "factId": "epicurus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Epicurus is remembered as a philosopher connected with Greece."
+    },
+    {
+      "factId": "epicurus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Epicurus's recorded life dates place this profile around -341--269."
+    },
+    {
+      "factId": "epicurus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Epicurus is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "epicurus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Epicurus's profile connects a short Fact to a wider Greece historical setting."
+    }
+  ]
+}

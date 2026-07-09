@@ -1,0 +1,47 @@
+{
+  "personId": "george-h-w-bush",
+  "slug": "george-h-w-bush",
+  "name": "George H. W. Bush",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: George H. W. Bush",
+      "url": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "President of the United States from 1989 to 1993"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "george-h-w-bush-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "George Herbert Walker George H. W. Bush was the 41st president of the United States, serving from 1989 to 1993."
+    },
+    {
+      "factId": "george-h-w-bush-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "George H. W. Bush was Ronald Reagan's vice president from 1981 to 1989."
+    },
+    {
+      "factId": "george-h-w-bush-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "George H. W. Bush, the 43rd president of the United States."
+    },
+    {
+      "factId": "george-h-w-bush-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "George H. W. Bush is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "george-h-w-bush-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "George H. W. Bush's recorded life dates place this profile around 1924-2018."
+    }
+  ]
+}

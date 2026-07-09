@@ -1,0 +1,46 @@
+{
+  "personId": "bruce-lee",
+  "slug": "bruce-lee",
+  "name": "Bruce Lee",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bruce Lee",
+      "url": "https://pantheon.world/profile/person/Bruce_Lee",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bruce-lee-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bruce Lee is remembered as a actor connected with United States."
+    },
+    {
+      "factId": "bruce-lee-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bruce Lee's recorded life dates place this profile around 1940-1973."
+    },
+    {
+      "factId": "bruce-lee-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bruce Lee is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "bruce-lee-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bruce Lee's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "bruce-lee-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bruce Lee has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

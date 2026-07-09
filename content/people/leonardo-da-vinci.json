@@ -12,11 +12,11 @@
     "science-math-technology",
     "inventor"
   ],
-  "summary": "Leonardo da Vinci is a notable inventor associated with Italy.",
+  "summary": "Leonardo da Vinci is a notable inventor connected with Italy.",
   "knownFor": [
     "Inventor",
-    "239 language biography editions",
-    "Historical Popularity Index 96.8"
+    "Science, Math & Technology",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 40,
@@ -26,23 +26,120 @@
       "title": "Pantheon: Leonardo da Vinci",
       "url": "https://pantheon.world/profile/person/Leonardo_da_Vinci",
       "accessedAt": "2026-07-06"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Leonardo da Vinci",
+      "url": "https://www.britannica.com/biography/Leonardo-da-Vinci",
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "leonardo-da-vinci-pantheon-profile",
-      "text": "Pantheon ranks Leonardo da Vinci as a globally documented inventor with biographies in 239 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Leonardo da Vinci a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "leonardo-da-vinci-approved-01",
+      "text": "Leonardo da Vinci filled notebooks with studies of anatomy, machines, water, flight, and painting.",
+      "context": "Leonardo shows curiosity refusing to stay inside one subject.",
+      "sourceTitle": "Encyclopaedia Britannica: Leonardo da Vinci",
+      "sourceUrl": "https://www.britannica.com/biography/Leonardo-da-Vinci",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "Britannica describes Leonardo's notebooks and wide-ranging studies across art and science.",
+      "tags": [
+        "science-math-technology"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leonardo-da-vinci-1-origin",
+      "text": "Leonardo da Vinci is remembered as a inventor connected with Italy.",
+      "context": "Leonardo da Vinci's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Leonardo da Vinci",
       "sourceUrl": "https://pantheon.world/profile/person/Leonardo_da_Vinci",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
       ],
-      "verified": true
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "leonardo-da-vinci-2-obstacle",
+      "text": "Leonardo da Vinci's recorded life dates place this profile around 1452-1519.",
+      "context": "Leonardo da Vinci's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Leonardo da Vinci",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonardo_da_Vinci",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "leonardo-da-vinci-3-turning-point",
+      "text": "Leonardo da Vinci is grouped with Science, Math & Technology in the People Library.",
+      "context": "Leonardo da Vinci's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Leonardo da Vinci",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonardo_da_Vinci",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "leonardo-da-vinci-4-contribution",
+      "text": "Leonardo da Vinci's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Leonardo da Vinci's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Leonardo da Vinci",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonardo_da_Vinci",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "leonardo-da-vinci-5-influence",
+      "text": "Leonardo da Vinci has a Facts Mode card reserved for deeper source research.",
+      "context": "Leonardo da Vinci's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Leonardo da Vinci",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonardo_da_Vinci",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ]
 }

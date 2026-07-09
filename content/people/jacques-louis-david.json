@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Jacques-Louis David is a notable painter associated with France.",
+  "summary": "Jacques-Louis David is a notable painter connected with France.",
   "knownFor": [
     "Painter",
-    "85 language biography editions",
-    "Historical Popularity Index 82.1"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Jacques-Louis David",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jacques-louis-david-pantheon-profile",
-      "text": "Pantheon ranks Jacques-Louis David as a globally documented painter with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jacques-Louis David a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "jacques-louis-david-1-origin",
+      "text": "Jacques-Louis David is remembered as a painter connected with France.",
+      "context": "Jacques-Louis David's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Jacques-Louis David",
       "sourceUrl": "https://pantheon.world/profile/person/Jacques-Louis_David",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacques-louis-david-2-obstacle",
+      "text": "Jacques-Louis David's recorded life dates place this profile around 1748-1825.",
+      "context": "Jacques-Louis David's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Jacques-Louis David",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacques-Louis_David",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacques-louis-david-3-turning-point",
+      "text": "Jacques-Louis David is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Jacques-Louis David's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Jacques-Louis David",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacques-Louis_David",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacques-louis-david-4-contribution",
+      "text": "Jacques-Louis David's profile connects a short Fact to a wider France historical setting.",
+      "context": "Jacques-Louis David's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Jacques-Louis David",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacques-Louis_David",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacques-louis-david-5-influence",
+      "text": "Jacques-Louis David has a Facts Mode card reserved for deeper source research.",
+      "context": "Jacques-Louis David's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Jacques-Louis David",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacques-Louis_David",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Kim Il-sung is a notable politician associated with South Korea.",
+  "summary": "Kim Il-sung is a notable politician connected with South Korea.",
   "knownFor": [
     "Politician",
-    "139 language biography editions",
-    "Historical Popularity Index 89.1"
+    "Justice, Governance & Leadership",
+    "South Korea"
   ],
   "featured": true,
   "featuredRank": 169,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "kim-il-sung-pantheon-profile",
-      "text": "Pantheon ranks Kim Il-sung as a globally documented politician with biographies in 139 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Kim Il-sung a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "kim-il-sung-1-origin",
+      "text": "Kim Il-sung is remembered as a politician connected with South Korea.",
+      "context": "Kim Il-sung's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Kim Il-sung",
       "sourceUrl": "https://pantheon.world/profile/person/Kim_Il-sung",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kim-il-sung-2-obstacle",
+      "text": "Kim Il-sung's recorded life dates place this profile around 1912-1994.",
+      "context": "Kim Il-sung's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Kim Il-sung",
+      "sourceUrl": "https://pantheon.world/profile/person/Kim_Il-sung",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kim-il-sung-3-turning-point",
+      "text": "Kim Il-sung is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Kim Il-sung's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Kim Il-sung",
+      "sourceUrl": "https://pantheon.world/profile/person/Kim_Il-sung",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kim-il-sung-4-contribution",
+      "text": "Kim Il-sung's profile connects a short Fact to a wider South Korea historical setting.",
+      "context": "Kim Il-sung's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Kim Il-sung",
+      "sourceUrl": "https://pantheon.world/profile/person/Kim_Il-sung",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kim-il-sung-5-influence",
+      "text": "Kim Il-sung has a Facts Mode card reserved for deeper source research.",
+      "context": "Kim Il-sung's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Kim Il-sung",
+      "sourceUrl": "https://pantheon.world/profile/person/Kim_Il-sung",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

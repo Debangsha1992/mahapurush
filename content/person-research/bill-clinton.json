@@ -1,0 +1,47 @@
+{
+  "personId": "bill-clinton",
+  "slug": "bill-clinton",
+  "name": "Bill Clinton",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Bill Clinton",
+      "url": "https://en.wikipedia.org/wiki/Bill_Clinton",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "President of the United States from 1993 to 2001"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bill-clinton-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "William Jefferson Bill Clinton is an American former politician and lawyer who served as the 42nd president of the United States from 1993 to 2001."
+    },
+    {
+      "factId": "bill-clinton-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Bill Clinton's centrist \"Third Way\" political philosophy became known as Clintonism, which dominated his presidency and the succeeding decades of Democratic Party history."
+    },
+    {
+      "factId": "bill-clinton-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bill Clinton is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "bill-clinton-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bill Clinton's recorded life dates place this profile around born 1946."
+    },
+    {
+      "factId": "bill-clinton-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bill Clinton is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

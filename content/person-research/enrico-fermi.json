@@ -1,0 +1,46 @@
+{
+  "personId": "enrico-fermi",
+  "slug": "enrico-fermi",
+  "name": "Enrico Fermi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Enrico Fermi",
+      "url": "https://pantheon.world/profile/person/Enrico_Fermi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "enrico-fermi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Enrico Fermi is remembered as a physicist connected with Italy."
+    },
+    {
+      "factId": "enrico-fermi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Enrico Fermi's recorded life dates place this profile around 1901-1954."
+    },
+    {
+      "factId": "enrico-fermi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Enrico Fermi is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "enrico-fermi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Enrico Fermi's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "enrico-fermi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Enrico Fermi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

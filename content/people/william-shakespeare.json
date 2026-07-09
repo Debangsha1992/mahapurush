@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "William Shakespeare is a notable writer associated with United Kingdom.",
+  "summary": "William Shakespeare is a notable writer connected with United Kingdom.",
   "knownFor": [
     "Writer",
-    "230 language biography editions",
-    "Historical Popularity Index 92.6"
+    "Literature, Arts & Culture",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 72,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "william-shakespeare-pantheon-profile",
-      "text": "Pantheon ranks William Shakespeare as a globally documented writer with biographies in 230 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make William Shakespeare a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "william-shakespeare-1-origin",
+      "text": "William Shakespeare is remembered as a writer connected with United Kingdom.",
+      "context": "William Shakespeare's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: William Shakespeare",
       "sourceUrl": "https://pantheon.world/profile/person/William_Shakespeare",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-shakespeare-2-obstacle",
+      "text": "William Shakespeare's recorded life dates place this profile around 1564-1616.",
+      "context": "William Shakespeare's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: William Shakespeare",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Shakespeare",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-shakespeare-3-turning-point",
+      "text": "William Shakespeare is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "William Shakespeare's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: William Shakespeare",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Shakespeare",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-shakespeare-4-contribution",
+      "text": "William Shakespeare's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "William Shakespeare's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: William Shakespeare",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Shakespeare",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-shakespeare-5-influence",
+      "text": "William Shakespeare has a Facts Mode card reserved for deeper source research.",
+      "context": "William Shakespeare's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: William Shakespeare",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Shakespeare",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

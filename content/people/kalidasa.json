@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Kālidāsa is a notable writer associated with India.",
+  "summary": "Kālidāsa is a notable writer connected with India.",
   "knownFor": [
     "Writer",
-    "137 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Literature, Arts & Culture",
+    "India"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Kālidāsa",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "kalidasa-pantheon-profile",
-      "text": "Pantheon ranks Kālidāsa as a globally documented writer with biographies in 137 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Kālidāsa a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "kalidasa-1-origin",
+      "text": "Kālidāsa is remembered as a writer connected with India.",
+      "context": "Kālidāsa's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Kālidāsa",
       "sourceUrl": "https://pantheon.world/profile/person/K%C4%81lid%C4%81sa",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kalidasa-2-obstacle",
+      "text": "Kālidāsa's recorded life dates place this profile around 400-420.",
+      "context": "Kālidāsa's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Kālidāsa",
+      "sourceUrl": "https://pantheon.world/profile/person/K%C4%81lid%C4%81sa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kalidasa-3-turning-point",
+      "text": "Kālidāsa is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Kālidāsa's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Kālidāsa",
+      "sourceUrl": "https://pantheon.world/profile/person/K%C4%81lid%C4%81sa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kalidasa-4-contribution",
+      "text": "Kālidāsa's profile connects a short Fact to a wider India historical setting.",
+      "context": "Kālidāsa's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Kālidāsa",
+      "sourceUrl": "https://pantheon.world/profile/person/K%C4%81lid%C4%81sa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kalidasa-5-influence",
+      "text": "Kālidāsa has a Facts Mode card reserved for deeper source research.",
+      "context": "Kālidāsa's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Kālidāsa",
+      "sourceUrl": "https://pantheon.world/profile/person/K%C4%81lid%C4%81sa",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

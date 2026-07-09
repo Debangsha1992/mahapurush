@@ -1,0 +1,46 @@
+{
+  "personId": "catherine-the-great",
+  "slug": "catherine-the-great",
+  "name": "Catherine the Great",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Catherine the Great",
+      "url": "https://pantheon.world/profile/person/Catherine_the_Great",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "catherine-the-great-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Catherine the Great is remembered as a nobleman connected with Poland."
+    },
+    {
+      "factId": "catherine-the-great-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Catherine the Great's recorded life dates place this profile around 1729-1796."
+    },
+    {
+      "factId": "catherine-the-great-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Catherine the Great is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "catherine-the-great-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Catherine the Great's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "catherine-the-great-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Catherine the Great has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

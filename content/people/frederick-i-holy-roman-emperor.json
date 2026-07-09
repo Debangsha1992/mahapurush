@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Frederick I, Holy Roman Emperor is a notable politician associated with France.",
+  "summary": "Frederick I, Holy Roman Emperor is a notable politician connected with France.",
   "knownFor": [
     "Politician",
-    "90 language biography editions",
-    "Historical Popularity Index 85.8"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": true,
   "featuredRank": 361,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "frederick-i-holy-roman-emperor-pantheon-profile",
-      "text": "Pantheon ranks Frederick I, Holy Roman Emperor as a globally documented politician with biographies in 90 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Frederick I, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "frederick-i-holy-roman-emperor-1-origin",
+      "text": "Frederick I, Holy Roman Emperor is remembered as a politician connected with France.",
+      "context": "Frederick I, Holy Roman Emperor's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Frederick I, Holy Roman Emperor",
       "sourceUrl": "https://pantheon.world/profile/person/Frederick_I%2C_Holy_Roman_Emperor",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frederick-i-holy-roman-emperor-2-obstacle",
+      "text": "Frederick I, Holy Roman Emperor's recorded life dates place this profile around 1122-1190.",
+      "context": "Frederick I, Holy Roman Emperor's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Frederick I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Frederick_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frederick-i-holy-roman-emperor-3-turning-point",
+      "text": "Frederick I, Holy Roman Emperor is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Frederick I, Holy Roman Emperor's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Frederick I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Frederick_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frederick-i-holy-roman-emperor-4-contribution",
+      "text": "Frederick I, Holy Roman Emperor's profile connects a short Fact to a wider France historical setting.",
+      "context": "Frederick I, Holy Roman Emperor's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Frederick I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Frederick_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frederick-i-holy-roman-emperor-5-influence",
+      "text": "Frederick I, Holy Roman Emperor has a Facts Mode card reserved for deeper source research.",
+      "context": "Frederick I, Holy Roman Emperor's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Frederick I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Frederick_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

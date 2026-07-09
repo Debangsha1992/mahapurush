@@ -1,0 +1,47 @@
+{
+  "personId": "clint-eastwood",
+  "slug": "clint-eastwood",
+  "name": "Clint Eastwood",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Clint Eastwood",
+      "url": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "American actor and filmmaker (born 1930)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "clint-eastwood-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Clinton Clint Eastwood Jr. is a retired American actor, filmmaker, and musician."
+    },
+    {
+      "factId": "clint-eastwood-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "After achieving success in the Western TV series Rawhide, Clint Eastwood rose to international fame with his role as the \"Man with No Name\" in Sergio Leone's Dollars Trilogy of spaghetti Westerns during the mid-1960s and as antihero cop Harry Callahan in the five Dirty Harry films throughout the 19."
+    },
+    {
+      "factId": "clint-eastwood-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "These roles, among others, have made Clint Eastwood an enduring cultural icon of masculinity."
+    },
+    {
+      "factId": "clint-eastwood-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Elected in 1986, Clint Eastwood served for two years as the mayor of Carmel-by-the-Sea, California."
+    },
+    {
+      "factId": "clint-eastwood-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Clint Eastwood is remembered as a actor connected with United States."
+    }
+  ]
+}

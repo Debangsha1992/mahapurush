@@ -1,0 +1,47 @@
+{
+  "personId": "mark-twain",
+  "slug": "mark-twain",
+  "name": "Mark Twain",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Mark Twain",
+      "url": "https://en.wikipedia.org/wiki/Mark_Twain",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "American author and humorist (1835–1910)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mark-twain-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Samuel Langhorne Clemens, known by the pen name Mark Twain, was an American writer, humorist, and essayist."
+    },
+    {
+      "factId": "mark-twain-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Mark Twain's novels include The Adventures of Tom Sawyer (1876) and its sequel, Adventures of Huckleberry Finn (1884), with the latter often called the \"Great American Novel\"."
+    },
+    {
+      "factId": "mark-twain-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Mark Twain also wrote A Connecticut Yankee in King Arthur's Court (1889) and Pudd'nhead Wilson (1894) and cowrote The Gilded Age: A Tale of Today (1873) with Charles Dudley Warner."
+    },
+    {
+      "factId": "mark-twain-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mark Twain is remembered as a writer connected with United States."
+    },
+    {
+      "factId": "mark-twain-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mark Twain's recorded life dates place this profile around 1835-1910."
+    }
+  ]
+}

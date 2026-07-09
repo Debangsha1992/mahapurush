@@ -1,0 +1,46 @@
+{
+  "personId": "genghis-khan",
+  "slug": "genghis-khan",
+  "name": "Genghis Khan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Genghis Khan",
+      "url": "https://pantheon.world/profile/person/Genghis_Khan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "genghis-khan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Genghis Khan is remembered as a military personnel connected with Mongolia."
+    },
+    {
+      "factId": "genghis-khan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Genghis Khan's recorded life dates place this profile around 1162-1227."
+    },
+    {
+      "factId": "genghis-khan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Genghis Khan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "genghis-khan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Genghis Khan's profile connects a short Fact to a wider Mongolia historical setting."
+    },
+    {
+      "factId": "genghis-khan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Genghis Khan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

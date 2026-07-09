@@ -1,0 +1,47 @@
+{
+  "personId": "george-washington",
+  "slug": "george-washington",
+  "name": "George Washington",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: George Washington",
+      "url": "https://en.wikipedia.org/wiki/George_Washington",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "U.S. Founding Father, president from 1789 to 1797"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "george-washington-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "George Washington was a Founding Father and the first president of the United States, serving from 1789 to 1797."
+    },
+    {
+      "factId": "george-washington-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "As commander of the Continental Army, George Washington led Patriot forces to victory in the American Revolutionary War against the British Empire."
+    },
+    {
+      "factId": "george-washington-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "George Washington is commonly known as the Father of His Country for his role in bringing about American independence."
+    },
+    {
+      "factId": "george-washington-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "George Washington is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "george-washington-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "George Washington's recorded life dates place this profile around 1732-1799."
+    }
+  ]
+}

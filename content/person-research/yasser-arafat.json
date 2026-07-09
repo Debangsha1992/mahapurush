@@ -1,0 +1,46 @@
+{
+  "personId": "yasser-arafat",
+  "slug": "yasser-arafat",
+  "name": "Yasser Arafat",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Yasser Arafat",
+      "url": "https://pantheon.world/profile/person/Yasser_Arafat",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "yasser-arafat-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Yasser Arafat is remembered as a politician connected with Egypt."
+    },
+    {
+      "factId": "yasser-arafat-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Yasser Arafat's recorded life dates place this profile around 1929-2004."
+    },
+    {
+      "factId": "yasser-arafat-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Yasser Arafat is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "yasser-arafat-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Yasser Arafat's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "yasser-arafat-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Yasser Arafat has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

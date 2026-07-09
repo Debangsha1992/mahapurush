@@ -1,0 +1,46 @@
+{
+  "personId": "masaccio",
+  "slug": "masaccio",
+  "name": "Masaccio",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Masaccio",
+      "url": "https://pantheon.world/profile/person/Masaccio",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "masaccio-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Masaccio is remembered as a painter connected with Italy."
+    },
+    {
+      "factId": "masaccio-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Masaccio's recorded life dates place this profile around 1401-1428."
+    },
+    {
+      "factId": "masaccio-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Masaccio is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "masaccio-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Masaccio's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "masaccio-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Masaccio has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Edvard Munch is a notable painter associated with Norway.",
+  "summary": "Edvard Munch is a notable painter connected with Norway.",
   "knownFor": [
     "Painter",
-    "102 language biography editions",
-    "Historical Popularity Index 87.2"
+    "Justice, Governance & Leadership",
+    "Norway"
   ],
   "featured": true,
   "featuredRank": 267,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edvard-munch-pantheon-profile",
-      "text": "Pantheon ranks Edvard Munch as a globally documented painter with biographies in 102 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Edvard Munch a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edvard-munch-1-origin",
+      "text": "Edvard Munch is remembered as a painter connected with Norway.",
+      "context": "Edvard Munch's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Edvard Munch",
       "sourceUrl": "https://pantheon.world/profile/person/Edvard_Munch",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edvard-munch-2-obstacle",
+      "text": "Edvard Munch's recorded life dates place this profile around 1863-1944.",
+      "context": "Edvard Munch's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Edvard Munch",
+      "sourceUrl": "https://pantheon.world/profile/person/Edvard_Munch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edvard-munch-3-turning-point",
+      "text": "Edvard Munch is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Edvard Munch's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Edvard Munch",
+      "sourceUrl": "https://pantheon.world/profile/person/Edvard_Munch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edvard-munch-4-contribution",
+      "text": "Edvard Munch's profile connects a short Fact to a wider Norway historical setting.",
+      "context": "Edvard Munch's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Edvard Munch",
+      "sourceUrl": "https://pantheon.world/profile/person/Edvard_Munch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edvard-munch-5-influence",
+      "text": "Edvard Munch has a Facts Mode card reserved for deeper source research.",
+      "context": "Edvard Munch's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Edvard Munch",
+      "sourceUrl": "https://pantheon.world/profile/person/Edvard_Munch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

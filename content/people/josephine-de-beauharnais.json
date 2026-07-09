@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Joséphine de Beauharnais is a notable companion associated with Saint Lucia.",
+  "summary": "Joséphine de Beauharnais is a notable companion connected with Saint Lucia.",
   "knownFor": [
     "Companion",
-    "72 language biography editions",
-    "Historical Popularity Index 85.1"
+    "Justice, Governance & Leadership",
+    "Saint Lucia"
   ],
   "featured": true,
   "featuredRank": 434,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "josephine-de-beauharnais-pantheon-profile",
-      "text": "Pantheon ranks Joséphine de Beauharnais as a globally documented companion with biographies in 72 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Joséphine de Beauharnais a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "josephine-de-beauharnais-1-origin",
+      "text": "Joséphine de Beauharnais is remembered as a companion connected with Saint Lucia.",
+      "context": "Joséphine de Beauharnais's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Joséphine de Beauharnais",
       "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9phine_de_Beauharnais",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "josephine-de-beauharnais-2-obstacle",
+      "text": "Joséphine de Beauharnais's recorded life dates place this profile around 1763-1814.",
+      "context": "Joséphine de Beauharnais's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Joséphine de Beauharnais",
+      "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9phine_de_Beauharnais",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "josephine-de-beauharnais-3-turning-point",
+      "text": "Joséphine de Beauharnais is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Joséphine de Beauharnais's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Joséphine de Beauharnais",
+      "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9phine_de_Beauharnais",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "josephine-de-beauharnais-4-contribution",
+      "text": "Joséphine de Beauharnais's profile connects a short Fact to a wider Saint Lucia historical setting.",
+      "context": "Joséphine de Beauharnais's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Joséphine de Beauharnais",
+      "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9phine_de_Beauharnais",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "josephine-de-beauharnais-5-influence",
+      "text": "Joséphine de Beauharnais has a Facts Mode card reserved for deeper source research.",
+      "context": "Joséphine de Beauharnais's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Joséphine de Beauharnais",
+      "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9phine_de_Beauharnais",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "albert-a-michelson",
+  "slug": "albert-a-michelson",
+  "name": "Albert A. Michelson",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Albert A. Michelson",
+      "url": "https://pantheon.world/profile/person/Albert_A._Michelson",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "albert-a-michelson-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Albert A. Michelson is remembered as a physicist connected with Poland."
+    },
+    {
+      "factId": "albert-a-michelson-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Albert A. Michelson's recorded life dates place this profile around 1852-1931."
+    },
+    {
+      "factId": "albert-a-michelson-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Albert A. Michelson is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "albert-a-michelson-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Albert A. Michelson's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "albert-a-michelson-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Albert A. Michelson has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

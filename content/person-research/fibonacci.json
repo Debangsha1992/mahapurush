@@ -1,0 +1,47 @@
+{
+  "personId": "fibonacci",
+  "slug": "fibonacci",
+  "name": "Fibonacci",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Fibonacci",
+      "url": "https://en.wikipedia.org/wiki/Fibonacci",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Italian mathematician (c. 1170 – c. 1240/50)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "fibonacci-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Leonardo Bonacci, commonly known as Fibonacci, was an Italian mathematician from the Republic of Pisa, considered to be \"the most talented Western mathematician of the Middle Ages\"."
+    },
+    {
+      "factId": "fibonacci-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Fibonacci is remembered as a mathematician connected with Italy."
+    },
+    {
+      "factId": "fibonacci-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Fibonacci's recorded life dates place this profile around 1170-1240."
+    },
+    {
+      "factId": "fibonacci-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Fibonacci is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "fibonacci-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Fibonacci's profile connects a short Fact to a wider Italy historical setting."
+    }
+  ]
+}

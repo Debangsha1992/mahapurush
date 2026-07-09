@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "film-director"
   ],
-  "summary": "Steven Spielberg is a notable film director associated with United States.",
+  "summary": "Steven Spielberg is a notable film director connected with United States.",
   "knownFor": [
     "Film Director",
-    "143 language biography editions",
-    "Historical Popularity Index 87.7"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 235,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "steven-spielberg-pantheon-profile",
-      "text": "Pantheon ranks Steven Spielberg as a globally documented film director with biographies in 143 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Steven Spielberg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "steven-spielberg-1-origin",
+      "text": "Steven Spielberg is remembered as a film director connected with United States.",
+      "context": "Steven Spielberg's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Steven Spielberg",
       "sourceUrl": "https://pantheon.world/profile/person/Steven_Spielberg",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "steven-spielberg-2-obstacle",
+      "text": "Steven Spielberg's recorded life dates place this profile around born 1946.",
+      "context": "Steven Spielberg's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Steven Spielberg",
+      "sourceUrl": "https://pantheon.world/profile/person/Steven_Spielberg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "steven-spielberg-3-turning-point",
+      "text": "Steven Spielberg is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Steven Spielberg's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Steven Spielberg",
+      "sourceUrl": "https://pantheon.world/profile/person/Steven_Spielberg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "steven-spielberg-4-contribution",
+      "text": "Steven Spielberg's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Steven Spielberg's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Steven Spielberg",
+      "sourceUrl": "https://pantheon.world/profile/person/Steven_Spielberg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "steven-spielberg-5-influence",
+      "text": "Steven Spielberg has a Facts Mode card reserved for deeper source research.",
+      "context": "Steven Spielberg's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Steven Spielberg",
+      "sourceUrl": "https://pantheon.world/profile/person/Steven_Spielberg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

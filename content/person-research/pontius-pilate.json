@@ -1,0 +1,46 @@
+{
+  "personId": "pontius-pilate",
+  "slug": "pontius-pilate",
+  "name": "Pontius Pilate",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pontius Pilate",
+      "url": "https://pantheon.world/profile/person/Pontius_Pilate",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pontius-pilate-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pontius Pilate is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "pontius-pilate-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pontius Pilate's recorded life dates place this profile around -12-38."
+    },
+    {
+      "factId": "pontius-pilate-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pontius Pilate is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "pontius-pilate-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pontius Pilate's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pontius-pilate-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pontius Pilate has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

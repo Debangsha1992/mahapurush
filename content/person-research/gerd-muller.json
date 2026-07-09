@@ -1,0 +1,46 @@
+{
+  "personId": "gerd-muller",
+  "slug": "gerd-muller",
+  "name": "Gerd Müller",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gerd Müller",
+      "url": "https://pantheon.world/profile/person/Gerd_M%C3%BCller",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gerd-muller-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gerd Müller is remembered as a soccer player connected with Germany."
+    },
+    {
+      "factId": "gerd-muller-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gerd Müller's recorded life dates place this profile around 1945-2021."
+    },
+    {
+      "factId": "gerd-muller-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gerd Müller is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "gerd-muller-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gerd Müller's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "gerd-muller-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gerd Müller has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

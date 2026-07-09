@@ -1,0 +1,46 @@
+{
+  "personId": "pope-innocent-viii",
+  "slug": "pope-innocent-viii",
+  "name": "Pope Innocent VIII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Innocent VIII",
+      "url": "https://pantheon.world/profile/person/Pope_Innocent_VIII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-innocent-viii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent VIII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-innocent-viii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent VIII's recorded life dates place this profile around 1432-1492."
+    },
+    {
+      "factId": "pope-innocent-viii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent VIII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-innocent-viii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent VIII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-innocent-viii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent VIII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

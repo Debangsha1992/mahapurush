@@ -1,0 +1,47 @@
+{
+  "personId": "andrew-jackson",
+  "slug": "andrew-jackson",
+  "name": "Andrew Jackson",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Andrew Jackson",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "President of the United States from 1829 to 1837"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "andrew-jackson-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Andrew Jackson was the seventh president of the United States from 1829 to 1837."
+    },
+    {
+      "factId": "andrew-jackson-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Andrew Jackson rose to fame as a US Army general and served in both houses of the US Congress."
+    },
+    {
+      "factId": "andrew-jackson-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Andrew Jackson's political philosophy, which dominated his presidency, became the basis for the rise of Jacksonian democracy."
+    },
+    {
+      "factId": "andrew-jackson-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "disputed",
+      "text": "Andrew Jackson's legacy is controversial: he has been praised as an advocate for white working Americans and preserving the union of states, and criticized for his racist policies, particularly towards Native Americans."
+    },
+    {
+      "factId": "andrew-jackson-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Andrew Jackson is remembered as a politician connected with United States."
+    }
+  ]
+}

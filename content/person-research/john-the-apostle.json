@@ -1,0 +1,46 @@
+{
+  "personId": "john-the-apostle",
+  "slug": "john-the-apostle",
+  "name": "John the Apostle",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John the Apostle",
+      "url": "https://pantheon.world/profile/person/John_the_Apostle",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-the-apostle-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John the Apostle is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "john-the-apostle-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John the Apostle's recorded life dates place this profile around 6-100."
+    },
+    {
+      "factId": "john-the-apostle-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John the Apostle is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "john-the-apostle-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John the Apostle's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "john-the-apostle-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John the Apostle has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

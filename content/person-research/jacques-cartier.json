@@ -1,0 +1,46 @@
+{
+  "personId": "jacques-cartier",
+  "slug": "jacques-cartier",
+  "name": "Jacques Cartier",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jacques Cartier",
+      "url": "https://pantheon.world/profile/person/Jacques_Cartier",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jacques-cartier-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Cartier is remembered as a explorer connected with France."
+    },
+    {
+      "factId": "jacques-cartier-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Cartier's recorded life dates place this profile around 1491-1557."
+    },
+    {
+      "factId": "jacques-cartier-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Cartier is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "jacques-cartier-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Cartier's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "jacques-cartier-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Cartier has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

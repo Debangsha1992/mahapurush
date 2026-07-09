@@ -1,0 +1,47 @@
+{
+  "personId": "aesop",
+  "slug": "aesop",
+  "name": "Aesop",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Aesop",
+      "url": "https://en.wikipedia.org/wiki/Aesop",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Ancient Greek storyteller (620–564 BCE)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "aesop-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Aesop was a Greek fabulist and storyteller credited with a number of fables now collectively known as Aesop's Fables."
+    },
+    {
+      "factId": "aesop-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Aesop is remembered as a writer connected with Bulgaria."
+    },
+    {
+      "factId": "aesop-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Aesop's recorded life dates place this profile around -620--564."
+    },
+    {
+      "factId": "aesop-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Aesop is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "aesop-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Aesop's profile connects a short Fact to a wider Bulgaria historical setting."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "d-h-lawrence",
+  "slug": "d-h-lawrence",
+  "name": "D. H. Lawrence",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: D. H. Lawrence",
+      "url": "https://pantheon.world/profile/person/D._H._Lawrence",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "d-h-lawrence-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "D. H. Lawrence is remembered as a writer connected with United Kingdom."
+    },
+    {
+      "factId": "d-h-lawrence-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "D. H. Lawrence's recorded life dates place this profile around 1885-1930."
+    },
+    {
+      "factId": "d-h-lawrence-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "D. H. Lawrence is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "d-h-lawrence-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "D. H. Lawrence's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "d-h-lawrence-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "D. H. Lawrence has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

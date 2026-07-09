@@ -1,0 +1,46 @@
+{
+  "personId": "mark-the-evangelist",
+  "slug": "mark-the-evangelist",
+  "name": "Mark the Evangelist",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mark the Evangelist",
+      "url": "https://pantheon.world/profile/person/Mark_the_Evangelist",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mark-the-evangelist-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mark the Evangelist is remembered as a religious figure connected with Libya."
+    },
+    {
+      "factId": "mark-the-evangelist-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mark the Evangelist's recorded life dates place this profile around 10-68."
+    },
+    {
+      "factId": "mark-the-evangelist-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mark the Evangelist is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "mark-the-evangelist-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mark the Evangelist's profile connects a short Fact to a wider Libya historical setting."
+    },
+    {
+      "factId": "mark-the-evangelist-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mark the Evangelist has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

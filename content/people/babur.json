@@ -12,34 +12,102 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Babur is a notable politician associated with Uzbekistan.",
+  "summary": "Babur was the founder of the Mughal Empire in the Indian subcontinent.",
   "knownFor": [
     "Politician",
-    "94 language biography editions",
-    "Historical Popularity Index 81.6"
+    "Justice, Governance & Leadership",
+    "Uzbekistan"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Babur",
   "sourceRefs": [
     {
-      "title": "Pantheon: Babur",
-      "url": "https://pantheon.world/profile/person/Babur",
+      "title": "Wikipedia: Babur",
+      "url": "https://en.wikipedia.org/wiki/Babur",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "babur-pantheon-profile",
-      "text": "Pantheon ranks Babur as a globally documented politician with biographies in 94 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Babur a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Babur",
-      "sourceUrl": "https://pantheon.world/profile/person/Babur",
+      "id": "babur-1-origin",
+      "text": "Babur was the founder of the Mughal Empire in the Indian subcontinent.",
+      "context": "Babur's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Babur",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Babur",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "babur-2-obstacle",
+      "text": "Babur was a descendant of Timur and Genghis Khan through his father and mother, respectively.",
+      "context": "Babur's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Babur",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Babur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "babur-3-turning-point",
+      "text": "Babur was also given the posthumous name of Firdaws Makani.",
+      "context": "Babur's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Babur",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Babur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "babur-4-contribution",
+      "text": "Babur is remembered as a politician connected with Uzbekistan.",
+      "context": "Babur's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Babur",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Babur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "babur-5-influence",
+      "text": "Babur's recorded life dates place this profile around 1483-1530.",
+      "context": "Babur's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Babur",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Babur",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "mark-antony",
+  "slug": "mark-antony",
+  "name": "Mark Antony",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mark Antony",
+      "url": "https://pantheon.world/profile/person/Mark_Antony",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mark-antony-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mark Antony is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "mark-antony-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mark Antony's recorded life dates place this profile around -83--30."
+    },
+    {
+      "factId": "mark-antony-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mark Antony is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mark-antony-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mark Antony's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "mark-antony-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mark Antony has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

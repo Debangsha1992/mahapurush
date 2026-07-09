@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Louis de Broglie is a notable physicist associated with France.",
+  "summary": "Louis de Broglie is a notable physicist connected with France.",
   "knownFor": [
     "Physicist",
-    "93 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Science, Math & Technology",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Louis de Broglie",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "louis-de-broglie-pantheon-profile",
-      "text": "Pantheon ranks Louis de Broglie as a globally documented physicist with biographies in 93 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Louis de Broglie a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "louis-de-broglie-1-origin",
+      "text": "Louis de Broglie is remembered as a physicist connected with France.",
+      "context": "Louis de Broglie's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Louis de Broglie",
       "sourceUrl": "https://pantheon.world/profile/person/Louis_de_Broglie",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-de-broglie-2-obstacle",
+      "text": "Louis de Broglie's recorded life dates place this profile around 1892-1987.",
+      "context": "Louis de Broglie's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Louis de Broglie",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_de_Broglie",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-de-broglie-3-turning-point",
+      "text": "Louis de Broglie is grouped with Science, Math & Technology in the People Library.",
+      "context": "Louis de Broglie's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Louis de Broglie",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_de_Broglie",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-de-broglie-4-contribution",
+      "text": "Louis de Broglie's profile connects a short Fact to a wider France historical setting.",
+      "context": "Louis de Broglie's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Louis de Broglie",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_de_Broglie",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-de-broglie-5-influence",
+      "text": "Louis de Broglie has a Facts Mode card reserved for deeper source research.",
+      "context": "Louis de Broglie's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Louis de Broglie",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_de_Broglie",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

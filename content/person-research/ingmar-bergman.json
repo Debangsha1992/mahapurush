@@ -1,0 +1,46 @@
+{
+  "personId": "ingmar-bergman",
+  "slug": "ingmar-bergman",
+  "name": "Ingmar Bergman",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ingmar Bergman",
+      "url": "https://pantheon.world/profile/person/Ingmar_Bergman",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ingmar-bergman-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ingmar Bergman is remembered as a film director connected with Sweden."
+    },
+    {
+      "factId": "ingmar-bergman-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ingmar Bergman's recorded life dates place this profile around 1918-2007."
+    },
+    {
+      "factId": "ingmar-bergman-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ingmar Bergman is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "ingmar-bergman-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ingmar Bergman's profile connects a short Fact to a wider Sweden historical setting."
+    },
+    {
+      "factId": "ingmar-bergman-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ingmar Bergman has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

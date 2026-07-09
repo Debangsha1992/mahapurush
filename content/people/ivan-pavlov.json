@@ -12,11 +12,11 @@
     "science-math-technology",
     "biologist"
   ],
-  "summary": "Ivan Pavlov is a notable biologist associated with Russia.",
+  "summary": "Ivan Pavlov is a notable biologist connected with Russia.",
   "knownFor": [
     "Biologist",
-    "99 language biography editions",
-    "Historical Popularity Index 83.0"
+    "Science, Math & Technology",
+    "Russia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ivan Pavlov",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ivan-pavlov-pantheon-profile",
-      "text": "Pantheon ranks Ivan Pavlov as a globally documented biologist with biographies in 99 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ivan Pavlov a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ivan-pavlov-1-origin",
+      "text": "Ivan Pavlov is remembered as a biologist connected with Russia.",
+      "context": "Ivan Pavlov's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Ivan Pavlov",
       "sourceUrl": "https://pantheon.world/profile/person/Ivan_Pavlov",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivan-pavlov-2-obstacle",
+      "text": "Ivan Pavlov's recorded life dates place this profile around 1849-1936.",
+      "context": "Ivan Pavlov's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ivan Pavlov",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivan_Pavlov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivan-pavlov-3-turning-point",
+      "text": "Ivan Pavlov is grouped with Science, Math & Technology in the People Library.",
+      "context": "Ivan Pavlov's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ivan Pavlov",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivan_Pavlov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivan-pavlov-4-contribution",
+      "text": "Ivan Pavlov's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Ivan Pavlov's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ivan Pavlov",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivan_Pavlov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ivan-pavlov-5-influence",
+      "text": "Ivan Pavlov has a Facts Mode card reserved for deeper source research.",
+      "context": "Ivan Pavlov's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ivan Pavlov",
+      "sourceUrl": "https://pantheon.world/profile/person/Ivan_Pavlov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

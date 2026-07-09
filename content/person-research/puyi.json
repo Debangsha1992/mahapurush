@@ -1,0 +1,46 @@
+{
+  "personId": "puyi",
+  "slug": "puyi",
+  "name": "Puyi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Puyi",
+      "url": "https://pantheon.world/profile/person/Puyi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "puyi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Puyi is remembered as a politician connected with China."
+    },
+    {
+      "factId": "puyi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Puyi's recorded life dates place this profile around 1906-1967."
+    },
+    {
+      "factId": "puyi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Puyi is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "puyi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Puyi's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "puyi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Puyi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

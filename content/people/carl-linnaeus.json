@@ -12,11 +12,11 @@
     "science-math-technology",
     "biologist"
   ],
-  "summary": "Carl Linnaeus is a notable biologist associated with Sweden.",
+  "summary": "Carl Linnaeus is a notable biologist connected with Sweden.",
   "knownFor": [
     "Biologist",
-    "182 language biography editions",
-    "Historical Popularity Index 90.2"
+    "Science, Math & Technology",
+    "Sweden"
   ],
   "featured": true,
   "featuredRank": 125,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "carl-linnaeus-pantheon-profile",
-      "text": "Pantheon ranks Carl Linnaeus as a globally documented biologist with biographies in 182 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Carl Linnaeus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "carl-linnaeus-1-origin",
+      "text": "Carl Linnaeus is remembered as a biologist connected with Sweden.",
+      "context": "Carl Linnaeus's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Carl Linnaeus",
       "sourceUrl": "https://pantheon.world/profile/person/Carl_Linnaeus",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-linnaeus-2-obstacle",
+      "text": "Carl Linnaeus's recorded life dates place this profile around 1707-1778.",
+      "context": "Carl Linnaeus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Carl Linnaeus",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Linnaeus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-linnaeus-3-turning-point",
+      "text": "Carl Linnaeus is grouped with Science, Math & Technology in the People Library.",
+      "context": "Carl Linnaeus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Carl Linnaeus",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Linnaeus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-linnaeus-4-contribution",
+      "text": "Carl Linnaeus's profile connects a short Fact to a wider Sweden historical setting.",
+      "context": "Carl Linnaeus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Carl Linnaeus",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Linnaeus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-linnaeus-5-influence",
+      "text": "Carl Linnaeus has a Facts Mode card reserved for deeper source research.",
+      "context": "Carl Linnaeus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Carl Linnaeus",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Linnaeus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

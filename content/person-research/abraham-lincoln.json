@@ -1,0 +1,46 @@
+{
+  "personId": "abraham-lincoln",
+  "slug": "abraham-lincoln",
+  "name": "Abraham Lincoln",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Abraham Lincoln",
+      "url": "https://pantheon.world/profile/person/Abraham_Lincoln",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "abraham-lincoln-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Abraham Lincoln is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "abraham-lincoln-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Abraham Lincoln's recorded life dates place this profile around 1809-1865."
+    },
+    {
+      "factId": "abraham-lincoln-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Abraham Lincoln is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "abraham-lincoln-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Abraham Lincoln's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "abraham-lincoln-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Abraham Lincoln has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

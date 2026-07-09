@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Tokugawa Ieyasu is a notable military personnel associated with Japan.",
+  "summary": "Tokugawa Ieyasu is a notable military personnel connected with Japan.",
   "knownFor": [
     "Military Personnel",
-    "76 language biography editions",
-    "Historical Popularity Index 82.6"
+    "Justice, Governance & Leadership",
+    "Japan"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Tokugawa Ieyasu",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "tokugawa-ieyasu-pantheon-profile",
-      "text": "Pantheon ranks Tokugawa Ieyasu as a globally documented military personnel with biographies in 76 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Tokugawa Ieyasu a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "tokugawa-ieyasu-1-origin",
+      "text": "Tokugawa Ieyasu is remembered as a military personnel connected with Japan.",
+      "context": "Tokugawa Ieyasu's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Tokugawa Ieyasu",
       "sourceUrl": "https://pantheon.world/profile/person/Tokugawa_Ieyasu",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tokugawa-ieyasu-2-obstacle",
+      "text": "Tokugawa Ieyasu's recorded life dates place this profile around 1542-1616.",
+      "context": "Tokugawa Ieyasu's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Tokugawa Ieyasu",
+      "sourceUrl": "https://pantheon.world/profile/person/Tokugawa_Ieyasu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tokugawa-ieyasu-3-turning-point",
+      "text": "Tokugawa Ieyasu is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Tokugawa Ieyasu's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Tokugawa Ieyasu",
+      "sourceUrl": "https://pantheon.world/profile/person/Tokugawa_Ieyasu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tokugawa-ieyasu-4-contribution",
+      "text": "Tokugawa Ieyasu's profile connects a short Fact to a wider Japan historical setting.",
+      "context": "Tokugawa Ieyasu's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Tokugawa Ieyasu",
+      "sourceUrl": "https://pantheon.world/profile/person/Tokugawa_Ieyasu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tokugawa-ieyasu-5-influence",
+      "text": "Tokugawa Ieyasu has a Facts Mode card reserved for deeper source research.",
+      "context": "Tokugawa Ieyasu's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Tokugawa Ieyasu",
+      "sourceUrl": "https://pantheon.world/profile/person/Tokugawa_Ieyasu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

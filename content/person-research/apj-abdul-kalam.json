@@ -1,0 +1,46 @@
+{
+  "personId": "apj-abdul-kalam",
+  "slug": "apj-abdul-kalam",
+  "name": "A. P. J. Abdul Kalam",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "ISRO: SLV-3",
+      "url": "https://www.isro.gov.in/SLV3.html",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "apj-abdul-kalam-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "A. P. J. Abdul Kalam is remembered as a leader connected with India."
+    },
+    {
+      "factId": "apj-abdul-kalam-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "A. P. J. Abdul Kalam's recorded life dates place this profile around 1931-2015."
+    },
+    {
+      "factId": "apj-abdul-kalam-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "A. P. J. Abdul Kalam is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "apj-abdul-kalam-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "A. P. J. Abdul Kalam's profile connects a short Fact to a wider India historical setting."
+    },
+    {
+      "factId": "apj-abdul-kalam-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "A. P. J. Abdul Kalam has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "diogenes",
+  "slug": "diogenes",
+  "name": "Diogenes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Diogenes",
+      "url": "https://en.wikipedia.org/wiki/Diogenes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "4th-century BC Greek Cynic philosopher"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "diogenes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Diogenes the Cynic, also known as Diogenes of Sinope, was an ancient Greek philosopher during the period of Classical Greece, and one of the founders of Cynicism."
+    },
+    {
+      "factId": "diogenes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Diogenes is remembered as a philosopher connected with Türkiye."
+    },
+    {
+      "factId": "diogenes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Diogenes's recorded life dates place this profile around -404--322."
+    },
+    {
+      "factId": "diogenes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Diogenes is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "diogenes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Diogenes's profile connects a short Fact to a wider Türkiye historical setting."
+    }
+  ]
+}

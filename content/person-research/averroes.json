@@ -1,0 +1,47 @@
+{
+  "personId": "averroes",
+  "slug": "averroes",
+  "name": "Averroes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Averroes",
+      "url": "https://en.wikipedia.org/wiki/Averroes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Andalusian Muslim polymath (1126–1198)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "averroes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Ibn Rushd, Latinized as Averroes, was an Andalusian polymath and jurist who was proficient in a variety of intellectual fields, including philosophy, theology, medicine, astronomy, physics, psychology, mathematics, neurology, Islamic jurisprudence and law, and linguistics."
+    },
+    {
+      "factId": "averroes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Averroes is remembered as a philosopher connected with Spain."
+    },
+    {
+      "factId": "averroes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Averroes's recorded life dates place this profile around 1126-1198."
+    },
+    {
+      "factId": "averroes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Averroes is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "averroes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Averroes's profile connects a short Fact to a wider Spain historical setting."
+    }
+  ]
+}

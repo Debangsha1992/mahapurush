@@ -1,0 +1,46 @@
+{
+  "personId": "harun-al-rashid",
+  "slug": "harun-al-rashid",
+  "name": "Harun al-Rashid",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Harun al-Rashid",
+      "url": "https://pantheon.world/profile/person/Harun_al-Rashid",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "harun-al-rashid-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Harun al-Rashid is remembered as a politician connected with Iran."
+    },
+    {
+      "factId": "harun-al-rashid-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Harun al-Rashid's recorded life dates place this profile around 766-809."
+    },
+    {
+      "factId": "harun-al-rashid-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Harun al-Rashid is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "harun-al-rashid-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Harun al-Rashid's profile connects a short Fact to a wider Iran historical setting."
+    },
+    {
+      "factId": "harun-al-rashid-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Harun al-Rashid has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

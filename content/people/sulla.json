@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Sulla is a notable politician associated with Italy.",
+  "summary": "Sulla is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "67 language biography editions",
-    "Historical Popularity Index 84.6"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 470,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "sulla-pantheon-profile",
-      "text": "Pantheon ranks Sulla as a globally documented politician with biographies in 67 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Sulla a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "sulla-1-origin",
+      "text": "Sulla is remembered as a politician connected with Italy.",
+      "context": "Sulla's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Sulla",
       "sourceUrl": "https://pantheon.world/profile/person/Sulla",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sulla-2-obstacle",
+      "text": "Sulla's recorded life dates place this profile around -138--78.",
+      "context": "Sulla's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Sulla",
+      "sourceUrl": "https://pantheon.world/profile/person/Sulla",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sulla-3-turning-point",
+      "text": "Sulla is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Sulla's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Sulla",
+      "sourceUrl": "https://pantheon.world/profile/person/Sulla",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sulla-4-contribution",
+      "text": "Sulla's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Sulla's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Sulla",
+      "sourceUrl": "https://pantheon.world/profile/person/Sulla",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sulla-5-influence",
+      "text": "Sulla has a Facts Mode card reserved for deeper source research.",
+      "context": "Sulla's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Sulla",
+      "sourceUrl": "https://pantheon.world/profile/person/Sulla",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

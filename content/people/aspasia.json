@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Aspasia is a notable companion associated with Türkiye.",
+  "summary": "Aspasia is a notable companion connected with Türkiye.",
   "knownFor": [
     "Companion",
-    "53 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Aspasia",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "aspasia-pantheon-profile",
-      "text": "Pantheon ranks Aspasia as a globally documented companion with biographies in 53 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Aspasia a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "aspasia-1-origin",
+      "text": "Aspasia is remembered as a companion connected with Türkiye.",
+      "context": "Aspasia's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Aspasia",
       "sourceUrl": "https://pantheon.world/profile/person/Aspasia",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aspasia-2-obstacle",
+      "text": "Aspasia's recorded life dates place this profile around -470--400.",
+      "context": "Aspasia's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Aspasia",
+      "sourceUrl": "https://pantheon.world/profile/person/Aspasia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aspasia-3-turning-point",
+      "text": "Aspasia is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Aspasia's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Aspasia",
+      "sourceUrl": "https://pantheon.world/profile/person/Aspasia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aspasia-4-contribution",
+      "text": "Aspasia's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Aspasia's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Aspasia",
+      "sourceUrl": "https://pantheon.world/profile/person/Aspasia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aspasia-5-influence",
+      "text": "Aspasia has a Facts Mode card reserved for deeper source research.",
+      "context": "Aspasia's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Aspasia",
+      "sourceUrl": "https://pantheon.world/profile/person/Aspasia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

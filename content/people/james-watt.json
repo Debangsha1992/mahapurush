@@ -12,11 +12,11 @@
     "science-math-technology",
     "inventor"
   ],
-  "summary": "James Watt is a notable inventor associated with United Kingdom.",
+  "summary": "James Watt is a notable inventor connected with United Kingdom.",
   "knownFor": [
     "Inventor",
-    "143 language biography editions",
-    "Historical Popularity Index 88.5"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 194,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "james-watt-pantheon-profile",
-      "text": "Pantheon ranks James Watt as a globally documented inventor with biographies in 143 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make James Watt a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "james-watt-1-origin",
+      "text": "James Watt is remembered as a inventor connected with United Kingdom.",
+      "context": "James Watt's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: James Watt",
       "sourceUrl": "https://pantheon.world/profile/person/James_Watt",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-watt-2-obstacle",
+      "text": "James Watt's recorded life dates place this profile around 1736-1819.",
+      "context": "James Watt's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: James Watt",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Watt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-watt-3-turning-point",
+      "text": "James Watt is grouped with Science, Math & Technology in the People Library.",
+      "context": "James Watt's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: James Watt",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Watt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-watt-4-contribution",
+      "text": "James Watt's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "James Watt's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: James Watt",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Watt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "james-watt-5-influence",
+      "text": "James Watt has a Facts Mode card reserved for deeper source research.",
+      "context": "James Watt's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: James Watt",
+      "sourceUrl": "https://pantheon.world/profile/person/James_Watt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

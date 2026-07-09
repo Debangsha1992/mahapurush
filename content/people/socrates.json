@@ -9,26 +9,113 @@
   "domains": [
     "philosophy-ethics-religion"
   ],
-  "summary": "Socrates shaped Western philosophy by turning inquiry toward how people should live.",
+  "summary": "Socrates was an ancient Greek philosopher from Classical Athens, perhaps the first Western moral philosopher, and a major inspiration on his student Plato, who largely founded the tradition of Western philosophy.",
   "knownFor": [
-    "Socratic questioning",
-    "ethical inquiry",
-    "public dialogue"
+    "Philosopher",
+    "Athens"
   ],
   "thinkerId": "socrates",
   "facts": [
     {
-      "id": "socrates-questioning-method",
-      "text": "Socrates left no writings of his own; much of what is known about him comes through students such as Plato and Xenophon.",
-      "context": "His legacy shows how conversation, questioning, and students can carry a teacher's ideas long after direct records are gone.",
+      "id": "socrates-approved-01",
+      "text": "Socrates was sentenced to death in Athens after a jury found him guilty of impiety and corrupting the city's youth.",
+      "context": "Socrates turns questioning into a real risk: asking uncomfortable questions can threaten people who depend on obedience.",
       "sourceTitle": "Encyclopaedia Britannica: Socrates",
       "sourceUrl": "https://www.britannica.com/biography/Socrates",
-      "sourceAccessedAt": "2026-07-05",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "Britannica describes Socrates' trial, charges, conviction, and death sentence in Athens.",
       "tags": [
-        "philosophy",
-        "education"
+        "philosophy-ethics-religion"
       ],
       "verified": true
+    },
+    {
+      "id": "socrates-1-origin",
+      "text": "Socrates was an ancient Greek philosopher from Classical Athens, perhaps the first Western moral philosopher, and a major inspiration on his student Plato, who largely founded the tradition of Western philosophy.",
+      "context": "Socrates's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Socrates",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Socrates",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
+      "tags": [
+        "philosophy-ethics-religion",
+        "origin"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "socrates-2-obstacle",
+      "text": "An enigmatic figure, Socrates authored no texts and is known mainly through the posthumous accounts of classical writers, particularly his students Plato and Xenophon.",
+      "context": "Socrates's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Socrates",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Socrates",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "socrates-3-turning-point",
+      "text": "These accounts are written as dialogues, in which Socrates and his interlocutors examine a subject in the style of question and answer; they gave rise to the Socratic dialogue literary genre.",
+      "context": "Socrates's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Socrates",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Socrates",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "socrates-4-contribution",
+      "text": "Contradictory accounts of Socrates make a reconstruction of his philosophy nearly impossible, a situation known as the Socratic problem.",
+      "context": "Socrates's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Socrates",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Socrates",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "socrates-5-influence",
+      "text": "Socrates was a polarizing figure in Athenian society.",
+      "context": "Socrates's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Socrates",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Socrates",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ],
   "regionId": "global-diaspora",
@@ -37,9 +124,14 @@
   "imageAlt": "Portrait-style visual for Socrates",
   "sourceRefs": [
     {
+      "title": "Wikipedia: Socrates",
+      "url": "https://en.wikipedia.org/wiki/Socrates",
+      "accessedAt": "2026-07-06"
+    },
+    {
       "title": "Encyclopaedia Britannica: Socrates",
       "url": "https://www.britannica.com/biography/Socrates",
-      "accessedAt": "2026-07-05"
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published",

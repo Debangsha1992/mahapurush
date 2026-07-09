@@ -9,23 +9,90 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Rosalind Franklin produced crucial experimental work that helped reveal the structure of DNA.",
+  "summary": "Rosalind Elsie Franklin was an English chemist and X-ray crystallographer.",
   "knownFor": [
-    "DNA x-ray diffraction",
-    "Photo 51",
-    "molecular biology"
+    "Scientist",
+    "United Kingdom"
   ],
   "facts": [
     {
-      "id": "rosalind-franklin-photo-51",
-      "text": "Franklin's x-ray diffraction image known as Photo 51 provided important evidence for DNA's helical structure.",
-      "context": "Her contribution reminds learners that careful experimental evidence can shape breakthroughs even when recognition is delayed.",
-      "sourceTitle": "Nature Education: Rosalind Franklin and Photo 51",
-      "sourceUrl": "https://www.nature.com/scitable/topicpage/rosalind-franklin-a-crucial-contribution-6538012/",
-      "sourceAccessedAt": "2026-07-05",
+      "id": "rosalind-franklin-1-origin",
+      "text": "Rosalind Elsie Rosalind Franklin was an English chemist and X-ray crystallographer.",
+      "context": "Rosalind Franklin's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Rosalind Franklin",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
-        "science",
-        "biology"
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rosalind-franklin-2-obstacle",
+      "text": "Rosalind Franklin's work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite.",
+      "context": "Rosalind Franklin's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Rosalind Franklin",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rosalind-franklin-3-turning-point",
+      "text": "Although her works on coal and viruses were appreciated in her lifetime, Rosalind Franklin's contributions to the discovery of the structure of DNA were largely unrecognised during her life, for which Franklin has been variously referred to as the \"wronged heroine\", the \"dark lady of DNA\", the \"for.",
+      "context": "Rosalind Franklin's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Rosalind Franklin",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rosalind-franklin-4-contribution",
+      "text": "James Watson believed that, had she not died, ideally, Rosalind Franklin would have been awarded a Nobel Prize in Chemistry.",
+      "context": "Rosalind Franklin's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Rosalind Franklin",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "tradition",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rosalind-franklin-5-influence",
+      "text": "Rosalind Franklin is remembered as a scientist connected with United Kingdom.",
+      "context": "Rosalind Franklin's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Rosalind Franklin",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }
@@ -36,9 +103,9 @@
   "imageAlt": "Portrait-style visual for Rosalind Franklin",
   "sourceRefs": [
     {
-      "title": "Nature Education: Rosalind Franklin and Photo 51",
-      "url": "https://www.nature.com/scitable/topicpage/rosalind-franklin-a-crucial-contribution-6538012/",
-      "accessedAt": "2026-07-05"
+      "title": "Wikipedia: Rosalind Franklin",
+      "url": "https://en.wikipedia.org/wiki/Rosalind_Franklin",
+      "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",

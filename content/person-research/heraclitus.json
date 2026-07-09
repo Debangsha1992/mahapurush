@@ -1,0 +1,46 @@
+{
+  "personId": "heraclitus",
+  "slug": "heraclitus",
+  "name": "Heraclitus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Heraclitus",
+      "url": "https://pantheon.world/profile/person/Heraclitus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "heraclitus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Heraclitus is remembered as a philosopher connected with Türkiye."
+    },
+    {
+      "factId": "heraclitus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Heraclitus's recorded life dates place this profile around -535--470."
+    },
+    {
+      "factId": "heraclitus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Heraclitus is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "heraclitus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Heraclitus's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "heraclitus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Heraclitus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

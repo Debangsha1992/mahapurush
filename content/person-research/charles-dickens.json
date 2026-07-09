@@ -1,0 +1,46 @@
+{
+  "personId": "charles-dickens",
+  "slug": "charles-dickens",
+  "name": "Charles Dickens",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles Dickens",
+      "url": "https://pantheon.world/profile/person/Charles_Dickens",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-dickens-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles Dickens is remembered as a writer connected with United Kingdom."
+    },
+    {
+      "factId": "charles-dickens-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles Dickens's recorded life dates place this profile around 1812-1870."
+    },
+    {
+      "factId": "charles-dickens-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles Dickens is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "charles-dickens-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles Dickens's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "charles-dickens-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles Dickens has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

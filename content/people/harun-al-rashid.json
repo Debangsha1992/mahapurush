@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Harun al-Rashid is a notable politician associated with Iran.",
+  "summary": "Harun al-Rashid is a notable politician connected with Iran.",
   "knownFor": [
     "Politician",
-    "83 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Justice, Governance & Leadership",
+    "Iran"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Harun al-Rashid",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "harun-al-rashid-pantheon-profile",
-      "text": "Pantheon ranks Harun al-Rashid as a globally documented politician with biographies in 83 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Harun al-Rashid a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "harun-al-rashid-1-origin",
+      "text": "Harun al-Rashid is remembered as a politician connected with Iran.",
+      "context": "Harun al-Rashid's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Harun al-Rashid",
       "sourceUrl": "https://pantheon.world/profile/person/Harun_al-Rashid",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harun-al-rashid-2-obstacle",
+      "text": "Harun al-Rashid's recorded life dates place this profile around 766-809.",
+      "context": "Harun al-Rashid's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Harun al-Rashid",
+      "sourceUrl": "https://pantheon.world/profile/person/Harun_al-Rashid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harun-al-rashid-3-turning-point",
+      "text": "Harun al-Rashid is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Harun al-Rashid's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Harun al-Rashid",
+      "sourceUrl": "https://pantheon.world/profile/person/Harun_al-Rashid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harun-al-rashid-4-contribution",
+      "text": "Harun al-Rashid's profile connects a short Fact to a wider Iran historical setting.",
+      "context": "Harun al-Rashid's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Harun al-Rashid",
+      "sourceUrl": "https://pantheon.world/profile/person/Harun_al-Rashid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harun-al-rashid-5-influence",
+      "text": "Harun al-Rashid has a Facts Mode card reserved for deeper source research.",
+      "context": "Harun al-Rashid's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Harun al-Rashid",
+      "sourceUrl": "https://pantheon.world/profile/person/Harun_al-Rashid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

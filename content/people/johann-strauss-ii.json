@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Johann Strauss II is a notable composer associated with Austria.",
+  "summary": "Johann Strauss II is a notable composer connected with Austria.",
   "knownFor": [
     "Composer",
-    "81 language biography editions",
-    "Historical Popularity Index 84.6"
+    "Literature, Arts & Culture",
+    "Austria"
   ],
   "featured": true,
   "featuredRank": 474,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "johann-strauss-ii-pantheon-profile",
-      "text": "Pantheon ranks Johann Strauss II as a globally documented composer with biographies in 81 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Johann Strauss II a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "johann-strauss-ii-1-origin",
+      "text": "Johann Strauss II is remembered as a composer connected with Austria.",
+      "context": "Johann Strauss II's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Johann Strauss II",
       "sourceUrl": "https://pantheon.world/profile/person/Johann_Strauss_II",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johann-strauss-ii-2-obstacle",
+      "text": "Johann Strauss II's recorded life dates place this profile around 1825-1899.",
+      "context": "Johann Strauss II's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Johann Strauss II",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Strauss_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johann-strauss-ii-3-turning-point",
+      "text": "Johann Strauss II is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Johann Strauss II's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Johann Strauss II",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Strauss_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johann-strauss-ii-4-contribution",
+      "text": "Johann Strauss II's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Johann Strauss II's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Johann Strauss II",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Strauss_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johann-strauss-ii-5-influence",
+      "text": "Johann Strauss II has a Facts Mode card reserved for deeper source research.",
+      "context": "Johann Strauss II's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Johann Strauss II",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Strauss_II",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

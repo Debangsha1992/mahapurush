@@ -1,0 +1,47 @@
+{
+  "personId": "babur",
+  "slug": "babur",
+  "name": "Babur",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Babur",
+      "url": "https://en.wikipedia.org/wiki/Babur",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Mughal emperor from 1526 to 1530"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "babur-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Babur was the founder of the Mughal Empire in the Indian subcontinent."
+    },
+    {
+      "factId": "babur-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Babur was a descendant of Timur and Genghis Khan through his father and mother, respectively."
+    },
+    {
+      "factId": "babur-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Babur was also given the posthumous name of Firdaws Makani."
+    },
+    {
+      "factId": "babur-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Babur is remembered as a politician connected with Uzbekistan."
+    },
+    {
+      "factId": "babur-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Babur's recorded life dates place this profile around 1483-1530."
+    }
+  ]
+}

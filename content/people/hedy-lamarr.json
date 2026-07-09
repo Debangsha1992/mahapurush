@@ -9,23 +9,94 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Hedy Lamarr was an actor and inventor whose work on frequency hopping anticipated later communications technologies.",
+  "summary": "Hedy Lamarr is a notable scientist connected with Austria, United States.",
   "knownFor": [
-    "film acting",
-    "frequency-hopping patent",
-    "inventive problem solving"
+    "Scientist",
+    "Austria, United States"
   ],
   "facts": [
     {
-      "id": "hedy-lamarr-frequency-hopping",
-      "text": "Lamarr co-invented a frequency-hopping communication system with composer George Antheil during World War II.",
-      "context": "Her story challenges narrow ideas about expertise by showing technical imagination in someone best known publicly for film.",
+      "id": "hedy-lamarr-1-origin",
+      "text": "Hedy Lamarr is remembered as a scientist connected with Austria, United States.",
+      "context": "Hedy Lamarr's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "National Women's History Museum: Hedy Lamarr",
       "sourceUrl": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
-      "sourceAccessedAt": "2026-07-05",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
-        "invention",
-        "arts"
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hedy-lamarr-2-obstacle",
+      "text": "Hedy Lamarr's recorded life dates place this profile around 1914-2000.",
+      "context": "Hedy Lamarr's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "National Women's History Museum: Hedy Lamarr",
+      "sourceUrl": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hedy-lamarr-3-turning-point",
+      "text": "Hedy Lamarr is grouped with Science, Math & Technology in the People Library.",
+      "context": "Hedy Lamarr's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "National Women's History Museum: Hedy Lamarr",
+      "sourceUrl": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hedy-lamarr-4-contribution",
+      "text": "Hedy Lamarr's profile connects a short Fact to a wider Austria, United States historical setting.",
+      "context": "Hedy Lamarr's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "National Women's History Museum: Hedy Lamarr",
+      "sourceUrl": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hedy-lamarr-5-influence",
+      "text": "Hedy Lamarr has a Facts Mode card reserved for deeper source research.",
+      "context": "Hedy Lamarr's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "National Women's History Museum: Hedy Lamarr",
+      "sourceUrl": "https://www.womenshistory.org/education-resources/biographies/hedy-lamarr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

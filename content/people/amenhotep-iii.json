@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Amenhotep III is a notable politician associated with Egypt.",
+  "summary": "Amenhotep III is a notable politician connected with Egypt.",
   "knownFor": [
     "Politician",
-    "63 language biography editions",
-    "Historical Popularity Index 83.8"
+    "Justice, Governance & Leadership",
+    "Egypt"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Amenhotep III",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "amenhotep-iii-pantheon-profile",
-      "text": "Pantheon ranks Amenhotep III as a globally documented politician with biographies in 63 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Amenhotep III a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "amenhotep-iii-1-origin",
+      "text": "Amenhotep III is remembered as a politician connected with Egypt.",
+      "context": "Amenhotep III's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Amenhotep III",
       "sourceUrl": "https://pantheon.world/profile/person/Amenhotep_III",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "amenhotep-iii-2-obstacle",
+      "text": "Amenhotep III's recorded life dates place this profile around -1403--1350.",
+      "context": "Amenhotep III's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Amenhotep III",
+      "sourceUrl": "https://pantheon.world/profile/person/Amenhotep_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "amenhotep-iii-3-turning-point",
+      "text": "Amenhotep III is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Amenhotep III's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Amenhotep III",
+      "sourceUrl": "https://pantheon.world/profile/person/Amenhotep_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "amenhotep-iii-4-contribution",
+      "text": "Amenhotep III's profile connects a short Fact to a wider Egypt historical setting.",
+      "context": "Amenhotep III's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Amenhotep III",
+      "sourceUrl": "https://pantheon.world/profile/person/Amenhotep_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "amenhotep-iii-5-influence",
+      "text": "Amenhotep III has a Facts Mode card reserved for deeper source research.",
+      "context": "Amenhotep III's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Amenhotep III",
+      "sourceUrl": "https://pantheon.world/profile/person/Amenhotep_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

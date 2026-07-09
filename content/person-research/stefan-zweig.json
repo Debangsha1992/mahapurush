@@ -1,0 +1,46 @@
+{
+  "personId": "stefan-zweig",
+  "slug": "stefan-zweig",
+  "name": "Stefan Zweig",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Stefan Zweig",
+      "url": "https://pantheon.world/profile/person/Stefan_Zweig",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "stefan-zweig-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Stefan Zweig is remembered as a writer connected with Austria."
+    },
+    {
+      "factId": "stefan-zweig-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Stefan Zweig's recorded life dates place this profile around 1881-1942."
+    },
+    {
+      "factId": "stefan-zweig-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Stefan Zweig is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "stefan-zweig-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Stefan Zweig's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "stefan-zweig-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Stefan Zweig has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

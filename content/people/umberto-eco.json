@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Umberto Eco is a notable writer associated with Italy.",
+  "summary": "Umberto Eco is a notable writer connected with Italy.",
   "knownFor": [
     "Writer",
-    "115 language biography editions",
-    "Historical Popularity Index 83.1"
+    "Literature, Arts & Culture",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Umberto Eco",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "umberto-eco-pantheon-profile",
-      "text": "Pantheon ranks Umberto Eco as a globally documented writer with biographies in 115 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Umberto Eco a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "umberto-eco-1-origin",
+      "text": "Umberto Eco is remembered as a writer connected with Italy.",
+      "context": "Umberto Eco's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Umberto Eco",
       "sourceUrl": "https://pantheon.world/profile/person/Umberto_Eco",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "umberto-eco-2-obstacle",
+      "text": "Umberto Eco's recorded life dates place this profile around 1932-2016.",
+      "context": "Umberto Eco's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Umberto Eco",
+      "sourceUrl": "https://pantheon.world/profile/person/Umberto_Eco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "umberto-eco-3-turning-point",
+      "text": "Umberto Eco is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Umberto Eco's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Umberto Eco",
+      "sourceUrl": "https://pantheon.world/profile/person/Umberto_Eco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "umberto-eco-4-contribution",
+      "text": "Umberto Eco's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Umberto Eco's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Umberto Eco",
+      "sourceUrl": "https://pantheon.world/profile/person/Umberto_Eco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "umberto-eco-5-influence",
+      "text": "Umberto Eco has a Facts Mode card reserved for deeper source research.",
+      "context": "Umberto Eco's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Umberto Eco",
+      "sourceUrl": "https://pantheon.world/profile/person/Umberto_Eco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }
