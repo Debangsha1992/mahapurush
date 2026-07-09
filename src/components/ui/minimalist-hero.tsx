@@ -33,11 +33,20 @@ const NavLink = ({ href, children }: { href: string; children: React.ReactNode }
 );
 
 // Helper component for social media icons
-const SocialIcon = ({ href, icon: Icon }: { href: string; icon: LucideIcon }) => (
-  <a href={href} target="_blank" rel="noopener noreferrer" className="text-foreground/60 transition-colors hover:text-foreground">
-    <Icon className="h-5 w-5" />
-  </a>
-);
+const SocialIcon = ({ href, icon: Icon }: { href: string; icon: LucideIcon }) => {
+  const isExternalLink = /^https?:\/\//.test(href);
+
+  return (
+    <a
+      href={href}
+      target={isExternalLink ? "_blank" : undefined}
+      rel={isExternalLink ? "noopener noreferrer" : undefined}
+      className="text-foreground/60 transition-colors hover:text-foreground"
+    >
+      <Icon className="h-5 w-5" />
+    </a>
+  );
+};
 
 // The main reusable Hero Section component
 export const MinimalistHero = ({
