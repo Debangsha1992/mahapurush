@@ -1,0 +1,46 @@
+{
+  "personId": "gregor-mendel",
+  "slug": "gregor-mendel",
+  "name": "Gregor Mendel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gregor Mendel",
+      "url": "https://pantheon.world/profile/person/Gregor_Mendel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gregor-mendel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gregor Mendel is remembered as a biologist connected with Czechia."
+    },
+    {
+      "factId": "gregor-mendel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gregor Mendel's recorded life dates place this profile around 1822-1884."
+    },
+    {
+      "factId": "gregor-mendel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gregor Mendel is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "gregor-mendel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gregor Mendel's profile connects a short Fact to a wider Czechia historical setting."
+    },
+    {
+      "factId": "gregor-mendel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gregor Mendel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "pocahontas",
+  "slug": "pocahontas",
+  "name": "Pocahontas",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pocahontas",
+      "url": "https://pantheon.world/profile/person/Pocahontas",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pocahontas-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pocahontas is remembered as a diplomat connected with United States."
+    },
+    {
+      "factId": "pocahontas-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pocahontas's recorded life dates place this profile around 1595-1617."
+    },
+    {
+      "factId": "pocahontas-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pocahontas is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "pocahontas-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pocahontas's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "pocahontas-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pocahontas has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

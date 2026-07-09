@@ -1,0 +1,46 @@
+{
+  "personId": "harold-harefoot",
+  "slug": "harold-harefoot",
+  "name": "Harold Harefoot",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Harold Harefoot",
+      "url": "https://pantheon.world/profile/person/Harold_Harefoot",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "harold-harefoot-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Harold Harefoot is remembered as a nobleman connected with United Kingdom."
+    },
+    {
+      "factId": "harold-harefoot-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Harold Harefoot's recorded life dates place this profile around 1016-1040."
+    },
+    {
+      "factId": "harold-harefoot-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Harold Harefoot is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "harold-harefoot-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Harold Harefoot's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "harold-harefoot-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Harold Harefoot has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

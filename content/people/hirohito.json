@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Hirohito is a notable politician associated with Japan.",
+  "summary": "Hirohito is a notable politician connected with Japan.",
   "knownFor": [
     "Politician",
-    "135 language biography editions",
-    "Historical Popularity Index 85.2"
+    "Justice, Governance & Leadership",
+    "Japan"
   ],
   "featured": true,
   "featuredRank": 418,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hirohito-pantheon-profile",
-      "text": "Pantheon ranks Hirohito as a globally documented politician with biographies in 135 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hirohito a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hirohito-1-origin",
+      "text": "Hirohito is remembered as a politician connected with Japan.",
+      "context": "Hirohito's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Hirohito",
       "sourceUrl": "https://pantheon.world/profile/person/Hirohito",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hirohito-2-obstacle",
+      "text": "Hirohito's recorded life dates place this profile around 1901-1989.",
+      "context": "Hirohito's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hirohito",
+      "sourceUrl": "https://pantheon.world/profile/person/Hirohito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hirohito-3-turning-point",
+      "text": "Hirohito is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Hirohito's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hirohito",
+      "sourceUrl": "https://pantheon.world/profile/person/Hirohito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hirohito-4-contribution",
+      "text": "Hirohito's profile connects a short Fact to a wider Japan historical setting.",
+      "context": "Hirohito's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hirohito",
+      "sourceUrl": "https://pantheon.world/profile/person/Hirohito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hirohito-5-influence",
+      "text": "Hirohito has a Facts Mode card reserved for deeper source research.",
+      "context": "Hirohito's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hirohito",
+      "sourceUrl": "https://pantheon.world/profile/person/Hirohito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

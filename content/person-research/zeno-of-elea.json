@@ -1,0 +1,46 @@
+{
+  "personId": "zeno-of-elea",
+  "slug": "zeno-of-elea",
+  "name": "Zeno of Elea",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Zeno of Elea",
+      "url": "https://pantheon.world/profile/person/Zeno_of_Elea",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "zeno-of-elea-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Zeno of Elea is remembered as a philosopher connected with Italy."
+    },
+    {
+      "factId": "zeno-of-elea-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Zeno of Elea's recorded life dates place this profile around -490--425."
+    },
+    {
+      "factId": "zeno-of-elea-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Zeno of Elea is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "zeno-of-elea-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Zeno of Elea's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "zeno-of-elea-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Zeno of Elea has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

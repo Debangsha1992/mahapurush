@@ -1,0 +1,46 @@
+{
+  "personId": "niels-bohr",
+  "slug": "niels-bohr",
+  "name": "Niels Bohr",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Niels Bohr",
+      "url": "https://pantheon.world/profile/person/Niels_Bohr",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "niels-bohr-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Niels Bohr is remembered as a physicist connected with Denmark."
+    },
+    {
+      "factId": "niels-bohr-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Niels Bohr's recorded life dates place this profile around 1885-1962."
+    },
+    {
+      "factId": "niels-bohr-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Niels Bohr is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "niels-bohr-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Niels Bohr's profile connects a short Fact to a wider Denmark historical setting."
+    },
+    {
+      "factId": "niels-bohr-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Niels Bohr has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

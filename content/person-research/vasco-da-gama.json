@@ -1,0 +1,46 @@
+{
+  "personId": "vasco-da-gama",
+  "slug": "vasco-da-gama",
+  "name": "Vasco da Gama",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Vasco da Gama",
+      "url": "https://pantheon.world/profile/person/Vasco_da_Gama",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "vasco-da-gama-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Vasco da Gama is remembered as a explorer connected with Portugal."
+    },
+    {
+      "factId": "vasco-da-gama-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Vasco da Gama's recorded life dates place this profile around 1460-1524."
+    },
+    {
+      "factId": "vasco-da-gama-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Vasco da Gama is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "vasco-da-gama-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Vasco da Gama's profile connects a short Fact to a wider Portugal historical setting."
+    },
+    {
+      "factId": "vasco-da-gama-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Vasco da Gama has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

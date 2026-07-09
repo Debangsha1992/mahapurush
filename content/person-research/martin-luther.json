@@ -1,0 +1,46 @@
+{
+  "personId": "martin-luther",
+  "slug": "martin-luther",
+  "name": "Martin Luther",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Martin Luther",
+      "url": "https://pantheon.world/profile/person/Martin_Luther",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "martin-luther-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Martin Luther is remembered as a religious figure connected with Germany."
+    },
+    {
+      "factId": "martin-luther-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Martin Luther's recorded life dates place this profile around 1483-1546."
+    },
+    {
+      "factId": "martin-luther-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Martin Luther is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "martin-luther-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Martin Luther's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "martin-luther-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Martin Luther has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

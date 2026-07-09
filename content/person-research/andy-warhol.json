@@ -1,0 +1,46 @@
+{
+  "personId": "andy-warhol",
+  "slug": "andy-warhol",
+  "name": "Andy Warhol",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Andy Warhol",
+      "url": "https://pantheon.world/profile/person/Andy_Warhol",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "andy-warhol-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Andy Warhol is remembered as a artist connected with United States."
+    },
+    {
+      "factId": "andy-warhol-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Andy Warhol's recorded life dates place this profile around 1928-1987."
+    },
+    {
+      "factId": "andy-warhol-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Andy Warhol is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "andy-warhol-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Andy Warhol's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "andy-warhol-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Andy Warhol has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

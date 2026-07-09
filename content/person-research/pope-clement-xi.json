@@ -1,0 +1,46 @@
+{
+  "personId": "pope-clement-xi",
+  "slug": "pope-clement-xi",
+  "name": "Pope Clement XI",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Clement XI",
+      "url": "https://pantheon.world/profile/person/Pope_Clement_XI",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-clement-xi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XI is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-clement-xi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XI's recorded life dates place this profile around 1649-1721."
+    },
+    {
+      "factId": "pope-clement-xi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XI is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-clement-xi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XI's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-clement-xi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XI has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

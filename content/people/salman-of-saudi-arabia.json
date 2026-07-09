@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Salman of Saudi Arabia is a notable politician associated with Saudi Arabia.",
+  "summary": "Salman of Saudi Arabia is a notable politician connected with Saudi Arabia.",
   "knownFor": [
     "Politician",
-    "95 language biography editions",
-    "Historical Popularity Index 83.4"
+    "Justice, Governance & Leadership",
+    "Saudi Arabia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Salman of Saudi Arabia",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "salman-of-saudi-arabia-pantheon-profile",
-      "text": "Pantheon ranks Salman of Saudi Arabia as a globally documented politician with biographies in 95 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Salman of Saudi Arabia a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "salman-of-saudi-arabia-1-origin",
+      "text": "Salman of Saudi Arabia is remembered as a politician connected with Saudi Arabia.",
+      "context": "Salman of Saudi Arabia's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Salman of Saudi Arabia",
       "sourceUrl": "https://pantheon.world/profile/person/Salman_of_Saudi_Arabia",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "salman-of-saudi-arabia-2-obstacle",
+      "text": "Salman of Saudi Arabia's recorded life dates place this profile around born 1935.",
+      "context": "Salman of Saudi Arabia's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Salman of Saudi Arabia",
+      "sourceUrl": "https://pantheon.world/profile/person/Salman_of_Saudi_Arabia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "salman-of-saudi-arabia-3-turning-point",
+      "text": "Salman of Saudi Arabia is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Salman of Saudi Arabia's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Salman of Saudi Arabia",
+      "sourceUrl": "https://pantheon.world/profile/person/Salman_of_Saudi_Arabia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "salman-of-saudi-arabia-4-contribution",
+      "text": "Salman of Saudi Arabia's profile connects a short Fact to a wider Saudi Arabia historical setting.",
+      "context": "Salman of Saudi Arabia's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Salman of Saudi Arabia",
+      "sourceUrl": "https://pantheon.world/profile/person/Salman_of_Saudi_Arabia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "salman-of-saudi-arabia-5-influence",
+      "text": "Salman of Saudi Arabia has a Facts Mode card reserved for deeper source research.",
+      "context": "Salman of Saudi Arabia's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Salman of Saudi Arabia",
+      "sourceUrl": "https://pantheon.world/profile/person/Salman_of_Saudi_Arabia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

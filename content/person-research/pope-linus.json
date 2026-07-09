@@ -1,0 +1,46 @@
+{
+  "personId": "pope-linus",
+  "slug": "pope-linus",
+  "name": "Pope Linus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Linus",
+      "url": "https://pantheon.world/profile/person/Pope_Linus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-linus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Linus is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-linus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Linus's recorded life dates place this profile around 1-79."
+    },
+    {
+      "factId": "pope-linus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Linus is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-linus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Linus's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-linus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Linus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

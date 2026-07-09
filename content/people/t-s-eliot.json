@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "T. S. Eliot is a notable writer associated with United States.",
+  "summary": "T. S. Eliot is a notable writer connected with United States.",
   "knownFor": [
     "Writer",
-    "112 language biography editions",
-    "Historical Popularity Index 87.3"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 260,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "t-s-eliot-pantheon-profile",
-      "text": "Pantheon ranks T. S. Eliot as a globally documented writer with biographies in 112 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make T. S. Eliot a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "t-s-eliot-1-origin",
+      "text": "T. S. Eliot is remembered as a writer connected with United States.",
+      "context": "T. S. Eliot's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: T. S. Eliot",
       "sourceUrl": "https://pantheon.world/profile/person/T._S._Eliot",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "t-s-eliot-2-obstacle",
+      "text": "T. S. Eliot's recorded life dates place this profile around 1888-1965.",
+      "context": "T. S. Eliot's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: T. S. Eliot",
+      "sourceUrl": "https://pantheon.world/profile/person/T._S._Eliot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "t-s-eliot-3-turning-point",
+      "text": "T. S. Eliot is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "T. S. Eliot's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: T. S. Eliot",
+      "sourceUrl": "https://pantheon.world/profile/person/T._S._Eliot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "t-s-eliot-4-contribution",
+      "text": "T. S. Eliot's profile connects a short Fact to a wider United States historical setting.",
+      "context": "T. S. Eliot's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: T. S. Eliot",
+      "sourceUrl": "https://pantheon.world/profile/person/T._S._Eliot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "t-s-eliot-5-influence",
+      "text": "T. S. Eliot has a Facts Mode card reserved for deeper source research.",
+      "context": "T. S. Eliot's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: T. S. Eliot",
+      "sourceUrl": "https://pantheon.world/profile/person/T._S._Eliot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

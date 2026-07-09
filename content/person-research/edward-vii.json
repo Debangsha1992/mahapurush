@@ -1,0 +1,46 @@
+{
+  "personId": "edward-vii",
+  "slug": "edward-vii",
+  "name": "Edward VII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edward VII",
+      "url": "https://pantheon.world/profile/person/Edward_VII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edward-vii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edward VII is remembered as a nobleman connected with United Kingdom."
+    },
+    {
+      "factId": "edward-vii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edward VII's recorded life dates place this profile around 1841-1910."
+    },
+    {
+      "factId": "edward-vii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edward VII is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "edward-vii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edward VII's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "edward-vii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edward VII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

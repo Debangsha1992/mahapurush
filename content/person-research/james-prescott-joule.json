@@ -1,0 +1,46 @@
+{
+  "personId": "james-prescott-joule",
+  "slug": "james-prescott-joule",
+  "name": "James Prescott Joule",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James Prescott Joule",
+      "url": "https://pantheon.world/profile/person/James_Prescott_Joule",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-prescott-joule-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James Prescott Joule is remembered as a physicist connected with United Kingdom."
+    },
+    {
+      "factId": "james-prescott-joule-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James Prescott Joule's recorded life dates place this profile around 1818-1889."
+    },
+    {
+      "factId": "james-prescott-joule-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James Prescott Joule is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "james-prescott-joule-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James Prescott Joule's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "james-prescott-joule-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James Prescott Joule has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

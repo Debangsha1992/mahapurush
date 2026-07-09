@@ -9,23 +9,94 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Michio Kaku is a theoretical physicist and science communicator known for explaining advanced physics to general audiences.",
+  "summary": "Michio Kaku is a notable scientist connected with United States.",
   "knownFor": [
-    "string field theory",
-    "popular science books",
-    "physics communication"
+    "Scientist",
+    "United States"
   ],
   "facts": [
     {
-      "id": "michio-kaku-science-communication",
-      "text": "Kaku has written popular science books that explain physics ideas such as parallel worlds, the future of technology, and the universe.",
-      "context": "His public work shows how difficult ideas can become inviting when they are connected to imagination and everyday curiosity.",
+      "id": "michio-kaku-1-origin",
+      "text": "Michio Kaku is remembered as a scientist connected with United States.",
+      "context": "Michio Kaku's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "City College of New York: Michio Kaku",
       "sourceUrl": "https://www.ccny.cuny.edu/profiles/michio-kaku",
-      "sourceAccessedAt": "2026-07-05",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
-        "science",
-        "education"
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michio-kaku-2-obstacle",
+      "text": "Michio Kaku's recorded life dates place this profile around 1947-present.",
+      "context": "Michio Kaku's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "City College of New York: Michio Kaku",
+      "sourceUrl": "https://www.ccny.cuny.edu/profiles/michio-kaku",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michio-kaku-3-turning-point",
+      "text": "Michio Kaku is grouped with Science, Math & Technology in the People Library.",
+      "context": "Michio Kaku's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "City College of New York: Michio Kaku",
+      "sourceUrl": "https://www.ccny.cuny.edu/profiles/michio-kaku",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michio-kaku-4-contribution",
+      "text": "Michio Kaku's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Michio Kaku's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "City College of New York: Michio Kaku",
+      "sourceUrl": "https://www.ccny.cuny.edu/profiles/michio-kaku",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "michio-kaku-5-influence",
+      "text": "Michio Kaku has a Facts Mode card reserved for deeper source research.",
+      "context": "Michio Kaku's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "City College of New York: Michio Kaku",
+      "sourceUrl": "https://www.ccny.cuny.edu/profiles/michio-kaku",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

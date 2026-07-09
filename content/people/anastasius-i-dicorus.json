@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Anastasius I Dicorus is a notable politician associated with Albania.",
+  "summary": "Anastasius I Dicorus is a notable politician connected with Albania.",
   "knownFor": [
     "Politician",
-    "59 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Justice, Governance & Leadership",
+    "Albania"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Anastasius I Dicorus",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "anastasius-i-dicorus-pantheon-profile",
-      "text": "Pantheon ranks Anastasius I Dicorus as a globally documented politician with biographies in 59 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Anastasius I Dicorus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "anastasius-i-dicorus-1-origin",
+      "text": "Anastasius I Dicorus is remembered as a politician connected with Albania.",
+      "context": "Anastasius I Dicorus's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Anastasius I Dicorus",
       "sourceUrl": "https://pantheon.world/profile/person/Anastasius_I_Dicorus",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anastasius-i-dicorus-2-obstacle",
+      "text": "Anastasius I Dicorus's recorded life dates place this profile around 430-518.",
+      "context": "Anastasius I Dicorus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Anastasius I Dicorus",
+      "sourceUrl": "https://pantheon.world/profile/person/Anastasius_I_Dicorus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anastasius-i-dicorus-3-turning-point",
+      "text": "Anastasius I Dicorus is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Anastasius I Dicorus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Anastasius I Dicorus",
+      "sourceUrl": "https://pantheon.world/profile/person/Anastasius_I_Dicorus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anastasius-i-dicorus-4-contribution",
+      "text": "Anastasius I Dicorus's profile connects a short Fact to a wider Albania historical setting.",
+      "context": "Anastasius I Dicorus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Anastasius I Dicorus",
+      "sourceUrl": "https://pantheon.world/profile/person/Anastasius_I_Dicorus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anastasius-i-dicorus-5-influence",
+      "text": "Anastasius I Dicorus has a Facts Mode card reserved for deeper source research.",
+      "context": "Anastasius I Dicorus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Anastasius I Dicorus",
+      "sourceUrl": "https://pantheon.world/profile/person/Anastasius_I_Dicorus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

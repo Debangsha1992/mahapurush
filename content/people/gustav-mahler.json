@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Gustav Mahler is a notable composer associated with Czechia.",
+  "summary": "Gustav Mahler is a notable composer connected with Czechia.",
   "knownFor": [
     "Composer",
-    "122 language biography editions",
-    "Historical Popularity Index 87.3"
+    "Literature, Arts & Culture",
+    "Czechia"
   ],
   "featured": true,
   "featuredRank": 256,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "gustav-mahler-pantheon-profile",
-      "text": "Pantheon ranks Gustav Mahler as a globally documented composer with biographies in 122 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Gustav Mahler a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "gustav-mahler-1-origin",
+      "text": "Gustav Mahler is remembered as a composer connected with Czechia.",
+      "context": "Gustav Mahler's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Gustav Mahler",
       "sourceUrl": "https://pantheon.world/profile/person/Gustav_Mahler",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustav-mahler-2-obstacle",
+      "text": "Gustav Mahler's recorded life dates place this profile around 1860-1911.",
+      "context": "Gustav Mahler's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Gustav Mahler",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustav_Mahler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustav-mahler-3-turning-point",
+      "text": "Gustav Mahler is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Gustav Mahler's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Gustav Mahler",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustav_Mahler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustav-mahler-4-contribution",
+      "text": "Gustav Mahler's profile connects a short Fact to a wider Czechia historical setting.",
+      "context": "Gustav Mahler's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Gustav Mahler",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustav_Mahler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustav-mahler-5-influence",
+      "text": "Gustav Mahler has a Facts Mode card reserved for deeper source research.",
+      "context": "Gustav Mahler's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Gustav Mahler",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustav_Mahler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

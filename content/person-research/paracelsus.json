@@ -1,0 +1,47 @@
+{
+  "personId": "paracelsus",
+  "slug": "paracelsus",
+  "name": "Paracelsus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Paracelsus",
+      "url": "https://en.wikipedia.org/wiki/Paracelsus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Swiss physician, philosopher, theologian, and alchemist (c. 1493 – 1541)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "paracelsus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Theophrastus Bombast von Hohenheim, known as Paracelsus, was a Swiss physician, alchemist, lay theologian, and philosopher of the German Renaissance."
+    },
+    {
+      "factId": "paracelsus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Paracelsus is remembered as a physician connected with Switzerland."
+    },
+    {
+      "factId": "paracelsus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Paracelsus's recorded life dates place this profile around 1493-1541."
+    },
+    {
+      "factId": "paracelsus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Paracelsus is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "paracelsus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Paracelsus's profile connects a short Fact to a wider Switzerland historical setting."
+    }
+  ]
+}

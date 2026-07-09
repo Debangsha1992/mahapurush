@@ -1,0 +1,46 @@
+{
+  "personId": "gilbert-du-motier-marquis-de-lafayette",
+  "slug": "gilbert-du-motier-marquis-de-lafayette",
+  "name": "Gilbert du Motier, Marquis de Lafayette",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gilbert du Motier, Marquis de Lafayette",
+      "url": "https://pantheon.world/profile/person/Gilbert_du_Motier%2C_Marquis_de_Lafayette",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gilbert-du-motier-marquis-de-lafayette-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gilbert du Motier, Marquis de Lafayette is remembered as a military personnel connected with France."
+    },
+    {
+      "factId": "gilbert-du-motier-marquis-de-lafayette-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gilbert du Motier, Marquis de Lafayette's recorded life dates place this profile around 1757-1834."
+    },
+    {
+      "factId": "gilbert-du-motier-marquis-de-lafayette-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gilbert du Motier, Marquis de Lafayette is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "gilbert-du-motier-marquis-de-lafayette-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gilbert du Motier, Marquis de Lafayette's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "gilbert-du-motier-marquis-de-lafayette-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gilbert du Motier, Marquis de Lafayette has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

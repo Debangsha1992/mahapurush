@@ -1,0 +1,46 @@
+{
+  "personId": "pope-leo-xii",
+  "slug": "pope-leo-xii",
+  "name": "Pope Leo XII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Leo XII",
+      "url": "https://pantheon.world/profile/person/Pope_Leo_XII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-leo-xii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-leo-xii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XII's recorded life dates place this profile around 1760-1829."
+    },
+    {
+      "factId": "pope-leo-xii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-leo-xii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-leo-xii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

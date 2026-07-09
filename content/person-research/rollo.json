@@ -1,0 +1,47 @@
+{
+  "personId": "rollo",
+  "slug": "rollo",
+  "name": "Rollo",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Rollo",
+      "url": "https://en.wikipedia.org/wiki/Rollo",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Viking, Count of Rouen from 911 to 928"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "rollo-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Rollo, or Rollo \"the Walker\", was a Viking who, as Count of Rouen, became the first ruler of Normandy, a region in today's northern France."
+    },
+    {
+      "factId": "rollo-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Rollo emerged as a war leader among the Norsemen who had secured a permanent foothold on Frankish soil in the valley of the lower Seine."
+    },
+    {
+      "factId": "rollo-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Rollo was a prominent figure among the Vikings who besieged Paris in 885 and led the ill-fated Siege of Chartres in 911."
+    },
+    {
+      "factId": "rollo-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "The latter was nonetheless the catalyst for the consequential Treaty of Saint-Clair-sur-Epte, which saw Charles the Simple, king of West Francia, grant Rollo lands between the river Epte and the sea in exchange for Rollo agreeing to end his brigandage, swear allegiance to Charles, convert to Christ."
+    },
+    {
+      "factId": "rollo-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Rollo is remembered as a nobleman connected with Norway."
+    }
+  ]
+}

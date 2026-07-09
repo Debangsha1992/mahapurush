@@ -1,0 +1,46 @@
+{
+  "personId": "aretha-franklin",
+  "slug": "aretha-franklin",
+  "name": "Aretha Franklin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Aretha Franklin",
+      "url": "https://pantheon.world/profile/person/Aretha_Franklin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "aretha-franklin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Aretha Franklin is remembered as a singer connected with United States."
+    },
+    {
+      "factId": "aretha-franklin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Aretha Franklin's recorded life dates place this profile around 1942-2018."
+    },
+    {
+      "factId": "aretha-franklin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Aretha Franklin is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "aretha-franklin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Aretha Franklin's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "aretha-franklin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Aretha Franklin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

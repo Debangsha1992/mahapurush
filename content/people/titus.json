@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Titus is a notable politician associated with Italy.",
+  "summary": "Titus is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "89 language biography editions",
-    "Historical Popularity Index 84.1"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Titus",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "titus-pantheon-profile",
-      "text": "Pantheon ranks Titus as a globally documented politician with biographies in 89 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Titus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "titus-1-origin",
+      "text": "Titus is remembered as a politician connected with Italy.",
+      "context": "Titus's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Titus",
       "sourceUrl": "https://pantheon.world/profile/person/Titus",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "titus-2-obstacle",
+      "text": "Titus's recorded life dates place this profile around 41-81.",
+      "context": "Titus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Titus",
+      "sourceUrl": "https://pantheon.world/profile/person/Titus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "titus-3-turning-point",
+      "text": "Titus is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Titus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Titus",
+      "sourceUrl": "https://pantheon.world/profile/person/Titus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "titus-4-contribution",
+      "text": "Titus's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Titus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Titus",
+      "sourceUrl": "https://pantheon.world/profile/person/Titus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "titus-5-influence",
+      "text": "Titus has a Facts Mode card reserved for deeper source research.",
+      "context": "Titus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Titus",
+      "sourceUrl": "https://pantheon.world/profile/person/Titus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

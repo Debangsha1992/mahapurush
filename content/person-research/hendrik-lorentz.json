@@ -1,0 +1,46 @@
+{
+  "personId": "hendrik-lorentz",
+  "slug": "hendrik-lorentz",
+  "name": "Hendrik Lorentz",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hendrik Lorentz",
+      "url": "https://pantheon.world/profile/person/Hendrik_Lorentz",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hendrik-lorentz-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hendrik Lorentz is remembered as a physicist connected with Netherlands."
+    },
+    {
+      "factId": "hendrik-lorentz-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hendrik Lorentz's recorded life dates place this profile around 1853-1928."
+    },
+    {
+      "factId": "hendrik-lorentz-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hendrik Lorentz is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "hendrik-lorentz-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hendrik Lorentz's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "hendrik-lorentz-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hendrik Lorentz has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

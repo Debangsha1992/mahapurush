@@ -1,0 +1,46 @@
+{
+  "personId": "karl-marx",
+  "slug": "karl-marx",
+  "name": "Karl Marx",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Karl Marx",
+      "url": "https://pantheon.world/profile/person/Karl_Marx",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "karl-marx-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Karl Marx is remembered as a economist connected with Germany."
+    },
+    {
+      "factId": "karl-marx-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Karl Marx's recorded life dates place this profile around 1818-1883."
+    },
+    {
+      "factId": "karl-marx-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Karl Marx is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "karl-marx-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Karl Marx's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "karl-marx-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Karl Marx has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

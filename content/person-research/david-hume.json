@@ -1,0 +1,46 @@
+{
+  "personId": "david-hume",
+  "slug": "david-hume",
+  "name": "David Hume",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: David Hume",
+      "url": "https://pantheon.world/profile/person/David_Hume",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "david-hume-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "David Hume is remembered as a philosopher connected with United Kingdom."
+    },
+    {
+      "factId": "david-hume-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "David Hume's recorded life dates place this profile around 1711-1776."
+    },
+    {
+      "factId": "david-hume-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "David Hume is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "david-hume-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "David Hume's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "david-hume-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "David Hume has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

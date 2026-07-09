@@ -1,0 +1,46 @@
+{
+  "personId": "ferdinand-i-of-austria",
+  "slug": "ferdinand-i-of-austria",
+  "name": "Ferdinand I of Austria",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ferdinand I of Austria",
+      "url": "https://pantheon.world/profile/person/Ferdinand_I_of_Austria",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ferdinand-i-of-austria-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand I of Austria is remembered as a politician connected with Austria."
+    },
+    {
+      "factId": "ferdinand-i-of-austria-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand I of Austria's recorded life dates place this profile around 1793-1875."
+    },
+    {
+      "factId": "ferdinand-i-of-austria-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand I of Austria is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ferdinand-i-of-austria-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand I of Austria's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "ferdinand-i-of-austria-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand I of Austria has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

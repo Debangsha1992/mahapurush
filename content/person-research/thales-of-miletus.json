@@ -1,0 +1,46 @@
+{
+  "personId": "thales-of-miletus",
+  "slug": "thales-of-miletus",
+  "name": "Thales of Miletus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Thales of Miletus",
+      "url": "https://pantheon.world/profile/person/Thales_of_Miletus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "thales-of-miletus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Thales of Miletus is remembered as a philosopher connected with Türkiye."
+    },
+    {
+      "factId": "thales-of-miletus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Thales of Miletus's recorded life dates place this profile around -623--546."
+    },
+    {
+      "factId": "thales-of-miletus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Thales of Miletus is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "thales-of-miletus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Thales of Miletus's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "thales-of-miletus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Thales of Miletus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

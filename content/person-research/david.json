@@ -1,0 +1,46 @@
+{
+  "personId": "david",
+  "slug": "david",
+  "name": "David",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: David",
+      "url": "https://pantheon.world/profile/person/David",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "david-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "David is remembered as a politician connected with Global."
+    },
+    {
+      "factId": "david-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "David's recorded life dates place this profile around -1010--970."
+    },
+    {
+      "factId": "david-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "David is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "david-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "David's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "david-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "David has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

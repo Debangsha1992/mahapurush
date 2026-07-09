@@ -1,0 +1,46 @@
+{
+  "personId": "lech-wa-esa",
+  "slug": "lech-wa-esa",
+  "name": "Lech Wałęsa",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Lech Wałęsa",
+      "url": "https://pantheon.world/profile/person/Lech_Wa%C5%82%C4%99sa",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lech-wa-esa-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Lech Wałęsa is remembered as a politician connected with Poland."
+    },
+    {
+      "factId": "lech-wa-esa-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Lech Wałęsa's recorded life dates place this profile around born 1943."
+    },
+    {
+      "factId": "lech-wa-esa-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Lech Wałęsa is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "lech-wa-esa-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lech Wałęsa's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "lech-wa-esa-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lech Wałęsa has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

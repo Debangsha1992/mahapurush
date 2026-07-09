@@ -1,0 +1,46 @@
+{
+  "personId": "reinhard-heydrich",
+  "slug": "reinhard-heydrich",
+  "name": "Reinhard Heydrich",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Reinhard Heydrich",
+      "url": "https://pantheon.world/profile/person/Reinhard_Heydrich",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "reinhard-heydrich-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Reinhard Heydrich is remembered as a politician connected with Germany."
+    },
+    {
+      "factId": "reinhard-heydrich-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Reinhard Heydrich's recorded life dates place this profile around 1904-1942."
+    },
+    {
+      "factId": "reinhard-heydrich-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Reinhard Heydrich is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "reinhard-heydrich-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Reinhard Heydrich's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "reinhard-heydrich-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Reinhard Heydrich has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

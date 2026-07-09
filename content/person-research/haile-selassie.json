@@ -1,0 +1,46 @@
+{
+  "personId": "haile-selassie",
+  "slug": "haile-selassie",
+  "name": "Haile Selassie",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Haile Selassie",
+      "url": "https://pantheon.world/profile/person/Haile_Selassie",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "haile-selassie-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Haile Selassie is remembered as a politician connected with Ethiopia."
+    },
+    {
+      "factId": "haile-selassie-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Haile Selassie's recorded life dates place this profile around 1892-1975."
+    },
+    {
+      "factId": "haile-selassie-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Haile Selassie is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "haile-selassie-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Haile Selassie's profile connects a short Fact to a wider Ethiopia historical setting."
+    },
+    {
+      "factId": "haile-selassie-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Haile Selassie has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

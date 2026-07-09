@@ -1,0 +1,46 @@
+{
+  "personId": "muhammad-ali",
+  "slug": "muhammad-ali",
+  "name": "Muhammad Ali",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Muhammad Ali",
+      "url": "https://pantheon.world/profile/person/Muhammad_Ali",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "muhammad-ali-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad Ali is remembered as a boxer connected with United States."
+    },
+    {
+      "factId": "muhammad-ali-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad Ali's recorded life dates place this profile around 1942-2016."
+    },
+    {
+      "factId": "muhammad-ali-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad Ali is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "muhammad-ali-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad Ali's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "muhammad-ali-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad Ali has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "empress-elisabeth-of-austria",
+  "slug": "empress-elisabeth-of-austria",
+  "name": "Empress Elisabeth of Austria",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Empress Elisabeth of Austria",
+      "url": "https://pantheon.world/profile/person/Empress_Elisabeth_of_Austria",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "empress-elisabeth-of-austria-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Empress Elisabeth of Austria is remembered as a companion connected with Germany."
+    },
+    {
+      "factId": "empress-elisabeth-of-austria-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Empress Elisabeth of Austria's recorded life dates place this profile around 1837-1898."
+    },
+    {
+      "factId": "empress-elisabeth-of-austria-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Empress Elisabeth of Austria is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "empress-elisabeth-of-austria-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Empress Elisabeth of Austria's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "empress-elisabeth-of-austria-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Empress Elisabeth of Austria has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

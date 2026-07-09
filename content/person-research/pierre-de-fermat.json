@@ -1,0 +1,46 @@
+{
+  "personId": "pierre-de-fermat",
+  "slug": "pierre-de-fermat",
+  "name": "Pierre de Fermat",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pierre de Fermat",
+      "url": "https://pantheon.world/profile/person/Pierre_de_Fermat",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pierre-de-fermat-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pierre de Fermat is remembered as a mathematician connected with France."
+    },
+    {
+      "factId": "pierre-de-fermat-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pierre de Fermat's recorded life dates place this profile around 1601-1665."
+    },
+    {
+      "factId": "pierre-de-fermat-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pierre de Fermat is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "pierre-de-fermat-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pierre de Fermat's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "pierre-de-fermat-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pierre de Fermat has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

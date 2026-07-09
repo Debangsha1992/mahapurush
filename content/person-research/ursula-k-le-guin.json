@@ -1,0 +1,46 @@
+{
+  "personId": "ursula-k-le-guin",
+  "slug": "ursula-k-le-guin",
+  "name": "Ursula K. Le Guin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ursula K. Le Guin",
+      "url": "https://pantheon.world/profile/person/Ursula_K._Le_Guin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ursula-k-le-guin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ursula K. Le Guin is remembered as a writer connected with United States."
+    },
+    {
+      "factId": "ursula-k-le-guin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ursula K. Le Guin's recorded life dates place this profile around 1929-2018."
+    },
+    {
+      "factId": "ursula-k-le-guin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ursula K. Le Guin is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "ursula-k-le-guin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ursula K. Le Guin's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "ursula-k-le-guin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ursula K. Le Guin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

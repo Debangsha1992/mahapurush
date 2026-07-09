@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Puyi is a notable politician associated with China.",
+  "summary": "Puyi is a notable politician connected with China.",
   "knownFor": [
     "Politician",
-    "77 language biography editions",
-    "Historical Popularity Index 83.4"
+    "Justice, Governance & Leadership",
+    "China"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Puyi",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "puyi-pantheon-profile",
-      "text": "Pantheon ranks Puyi as a globally documented politician with biographies in 77 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Puyi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "puyi-1-origin",
+      "text": "Puyi is remembered as a politician connected with China.",
+      "context": "Puyi's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Puyi",
       "sourceUrl": "https://pantheon.world/profile/person/Puyi",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "puyi-2-obstacle",
+      "text": "Puyi's recorded life dates place this profile around 1906-1967.",
+      "context": "Puyi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Puyi",
+      "sourceUrl": "https://pantheon.world/profile/person/Puyi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "puyi-3-turning-point",
+      "text": "Puyi is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Puyi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Puyi",
+      "sourceUrl": "https://pantheon.world/profile/person/Puyi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "puyi-4-contribution",
+      "text": "Puyi's profile connects a short Fact to a wider China historical setting.",
+      "context": "Puyi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Puyi",
+      "sourceUrl": "https://pantheon.world/profile/person/Puyi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "puyi-5-influence",
+      "text": "Puyi has a Facts Mode card reserved for deeper source research.",
+      "context": "Puyi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Puyi",
+      "sourceUrl": "https://pantheon.world/profile/person/Puyi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

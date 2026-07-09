@@ -1,0 +1,46 @@
+{
+  "personId": "steven-spielberg",
+  "slug": "steven-spielberg",
+  "name": "Steven Spielberg",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Steven Spielberg",
+      "url": "https://pantheon.world/profile/person/Steven_Spielberg",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "steven-spielberg-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Steven Spielberg is remembered as a film director connected with United States."
+    },
+    {
+      "factId": "steven-spielberg-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Steven Spielberg's recorded life dates place this profile around born 1946."
+    },
+    {
+      "factId": "steven-spielberg-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Steven Spielberg is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "steven-spielberg-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Steven Spielberg's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "steven-spielberg-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Steven Spielberg has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

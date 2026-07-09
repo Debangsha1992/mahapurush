@@ -1,0 +1,46 @@
+{
+  "personId": "jacques-louis-david",
+  "slug": "jacques-louis-david",
+  "name": "Jacques-Louis David",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jacques-Louis David",
+      "url": "https://pantheon.world/profile/person/Jacques-Louis_David",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jacques-louis-david-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jacques-Louis David is remembered as a painter connected with France."
+    },
+    {
+      "factId": "jacques-louis-david-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jacques-Louis David's recorded life dates place this profile around 1748-1825."
+    },
+    {
+      "factId": "jacques-louis-david-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jacques-Louis David is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "jacques-louis-david-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jacques-Louis David's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "jacques-louis-david-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jacques-Louis David has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

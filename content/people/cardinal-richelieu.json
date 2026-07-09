@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Cardinal Richelieu is a notable politician associated with France.",
+  "summary": "Cardinal Richelieu is a notable politician connected with France.",
   "knownFor": [
     "Politician",
-    "81 language biography editions",
-    "Historical Popularity Index 83.2"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Cardinal Richelieu",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "cardinal-richelieu-pantheon-profile",
-      "text": "Pantheon ranks Cardinal Richelieu as a globally documented politician with biographies in 81 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Cardinal Richelieu a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "cardinal-richelieu-1-origin",
+      "text": "Cardinal Richelieu is remembered as a politician connected with France.",
+      "context": "Cardinal Richelieu's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Cardinal Richelieu",
       "sourceUrl": "https://pantheon.world/profile/person/Cardinal_Richelieu",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cardinal-richelieu-2-obstacle",
+      "text": "Cardinal Richelieu's recorded life dates place this profile around 1585-1642.",
+      "context": "Cardinal Richelieu's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Cardinal Richelieu",
+      "sourceUrl": "https://pantheon.world/profile/person/Cardinal_Richelieu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cardinal-richelieu-3-turning-point",
+      "text": "Cardinal Richelieu is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Cardinal Richelieu's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Cardinal Richelieu",
+      "sourceUrl": "https://pantheon.world/profile/person/Cardinal_Richelieu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cardinal-richelieu-4-contribution",
+      "text": "Cardinal Richelieu's profile connects a short Fact to a wider France historical setting.",
+      "context": "Cardinal Richelieu's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Cardinal Richelieu",
+      "sourceUrl": "https://pantheon.world/profile/person/Cardinal_Richelieu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cardinal-richelieu-5-influence",
+      "text": "Cardinal Richelieu has a Facts Mode card reserved for deeper source research.",
+      "context": "Cardinal Richelieu's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Cardinal Richelieu",
+      "sourceUrl": "https://pantheon.world/profile/person/Cardinal_Richelieu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

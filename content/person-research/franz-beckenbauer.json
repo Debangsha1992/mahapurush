@@ -1,0 +1,46 @@
+{
+  "personId": "franz-beckenbauer",
+  "slug": "franz-beckenbauer",
+  "name": "Franz Beckenbauer",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Franz Beckenbauer",
+      "url": "https://pantheon.world/profile/person/Franz_Beckenbauer",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "franz-beckenbauer-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Franz Beckenbauer is remembered as a soccer player connected with Germany."
+    },
+    {
+      "factId": "franz-beckenbauer-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Franz Beckenbauer's recorded life dates place this profile around 1945-2024."
+    },
+    {
+      "factId": "franz-beckenbauer-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Franz Beckenbauer is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "franz-beckenbauer-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Franz Beckenbauer's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "franz-beckenbauer-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Franz Beckenbauer has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

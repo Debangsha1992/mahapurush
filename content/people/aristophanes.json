@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Aristophanes is a notable writer associated with Greece.",
+  "summary": "Aristophanes is a notable writer connected with Greece.",
   "knownFor": [
     "Writer",
-    "97 language biography editions",
-    "Historical Popularity Index 84.5"
+    "Literature, Arts & Culture",
+    "Greece"
   ],
   "featured": true,
   "featuredRank": 489,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "aristophanes-pantheon-profile",
-      "text": "Pantheon ranks Aristophanes as a globally documented writer with biographies in 97 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Aristophanes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "aristophanes-1-origin",
+      "text": "Aristophanes is remembered as a writer connected with Greece.",
+      "context": "Aristophanes's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Aristophanes",
       "sourceUrl": "https://pantheon.world/profile/person/Aristophanes",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aristophanes-2-obstacle",
+      "text": "Aristophanes's recorded life dates place this profile around -448--386.",
+      "context": "Aristophanes's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Aristophanes",
+      "sourceUrl": "https://pantheon.world/profile/person/Aristophanes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aristophanes-3-turning-point",
+      "text": "Aristophanes is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Aristophanes's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Aristophanes",
+      "sourceUrl": "https://pantheon.world/profile/person/Aristophanes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aristophanes-4-contribution",
+      "text": "Aristophanes's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Aristophanes's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Aristophanes",
+      "sourceUrl": "https://pantheon.world/profile/person/Aristophanes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "aristophanes-5-influence",
+      "text": "Aristophanes has a Facts Mode card reserved for deeper source research.",
+      "context": "Aristophanes's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Aristophanes",
+      "sourceUrl": "https://pantheon.world/profile/person/Aristophanes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

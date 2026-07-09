@@ -1,0 +1,46 @@
+{
+  "personId": "leonhard-euler",
+  "slug": "leonhard-euler",
+  "name": "Leonhard Euler",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Leonhard Euler",
+      "url": "https://pantheon.world/profile/person/Leonhard_Euler",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "leonhard-euler-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Leonhard Euler is remembered as a mathematician connected with Switzerland."
+    },
+    {
+      "factId": "leonhard-euler-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Leonhard Euler's recorded life dates place this profile around 1707-1783."
+    },
+    {
+      "factId": "leonhard-euler-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Leonhard Euler is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "leonhard-euler-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Leonhard Euler's profile connects a short Fact to a wider Switzerland historical setting."
+    },
+    {
+      "factId": "leonhard-euler-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Leonhard Euler has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

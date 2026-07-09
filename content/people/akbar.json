@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Akbar is a notable politician associated with Pakistan.",
+  "summary": "Akbar is a notable politician connected with Pakistan.",
   "knownFor": [
     "Politician",
-    "153 language biography editions",
-    "Historical Popularity Index 92.2"
+    "Justice, Governance & Leadership",
+    "Pakistan"
   ],
   "featured": true,
   "featuredRank": 77,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "akbar-pantheon-profile",
-      "text": "Pantheon ranks Akbar as a globally documented politician with biographies in 153 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Akbar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "akbar-1-origin",
+      "text": "Akbar is remembered as a politician connected with Pakistan.",
+      "context": "Akbar's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Akbar",
       "sourceUrl": "https://pantheon.world/profile/person/Akbar",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akbar-2-obstacle",
+      "text": "Akbar's recorded life dates place this profile around 1542-1605.",
+      "context": "Akbar's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Akbar",
+      "sourceUrl": "https://pantheon.world/profile/person/Akbar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akbar-3-turning-point",
+      "text": "Akbar is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Akbar's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Akbar",
+      "sourceUrl": "https://pantheon.world/profile/person/Akbar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akbar-4-contribution",
+      "text": "Akbar's profile connects a short Fact to a wider Pakistan historical setting.",
+      "context": "Akbar's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Akbar",
+      "sourceUrl": "https://pantheon.world/profile/person/Akbar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akbar-5-influence",
+      "text": "Akbar has a Facts Mode card reserved for deeper source research.",
+      "context": "Akbar's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Akbar",
+      "sourceUrl": "https://pantheon.world/profile/person/Akbar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

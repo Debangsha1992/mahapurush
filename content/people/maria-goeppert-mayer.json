@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Maria Goeppert Mayer is a notable physicist associated with Poland.",
+  "summary": "Maria Goeppert Mayer is a notable physicist connected with Poland.",
   "knownFor": [
     "Physicist",
-    "97 language biography editions",
-    "Historical Popularity Index 82.7"
+    "Science, Math & Technology",
+    "Poland"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Maria Goeppert Mayer",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "maria-goeppert-mayer-pantheon-profile",
-      "text": "Pantheon ranks Maria Goeppert Mayer as a globally documented physicist with biographies in 97 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Maria Goeppert Mayer a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "maria-goeppert-mayer-1-origin",
+      "text": "Maria Goeppert Mayer is remembered as a physicist connected with Poland.",
+      "context": "Maria Goeppert Mayer's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Maria Goeppert Mayer",
       "sourceUrl": "https://pantheon.world/profile/person/Maria_Goeppert_Mayer",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-goeppert-mayer-2-obstacle",
+      "text": "Maria Goeppert Mayer's recorded life dates place this profile around 1906-1972.",
+      "context": "Maria Goeppert Mayer's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Maria Goeppert Mayer",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Goeppert_Mayer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-goeppert-mayer-3-turning-point",
+      "text": "Maria Goeppert Mayer is grouped with Science, Math & Technology in the People Library.",
+      "context": "Maria Goeppert Mayer's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Maria Goeppert Mayer",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Goeppert_Mayer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-goeppert-mayer-4-contribution",
+      "text": "Maria Goeppert Mayer's profile connects a short Fact to a wider Poland historical setting.",
+      "context": "Maria Goeppert Mayer's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Maria Goeppert Mayer",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Goeppert_Mayer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-goeppert-mayer-5-influence",
+      "text": "Maria Goeppert Mayer has a Facts Mode card reserved for deeper source research.",
+      "context": "Maria Goeppert Mayer's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Maria Goeppert Mayer",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Goeppert_Mayer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

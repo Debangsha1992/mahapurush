@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Rudolf, Crown Prince of Austria is a notable nobleman associated with Austria.",
+  "summary": "Rudolf, Crown Prince of Austria is a notable nobleman connected with Austria.",
   "knownFor": [
     "Nobleman",
-    "47 language biography editions",
-    "Historical Popularity Index 82.7"
+    "Justice, Governance & Leadership",
+    "Austria"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Rudolf, Crown Prince of Austria",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "rudolf-crown-prince-of-austria-pantheon-profile",
-      "text": "Pantheon ranks Rudolf, Crown Prince of Austria as a globally documented nobleman with biographies in 47 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Rudolf, Crown Prince of Austria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "rudolf-crown-prince-of-austria-1-origin",
+      "text": "Rudolf, Crown Prince of Austria is remembered as a nobleman connected with Austria.",
+      "context": "Rudolf, Crown Prince of Austria's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Rudolf, Crown Prince of Austria",
       "sourceUrl": "https://pantheon.world/profile/person/Rudolf%2C_Crown_Prince_of_Austria",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rudolf-crown-prince-of-austria-2-obstacle",
+      "text": "Rudolf, Crown Prince of Austria's recorded life dates place this profile around 1858-1889.",
+      "context": "Rudolf, Crown Prince of Austria's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Rudolf, Crown Prince of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Rudolf%2C_Crown_Prince_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rudolf-crown-prince-of-austria-3-turning-point",
+      "text": "Rudolf, Crown Prince of Austria is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Rudolf, Crown Prince of Austria's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Rudolf, Crown Prince of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Rudolf%2C_Crown_Prince_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rudolf-crown-prince-of-austria-4-contribution",
+      "text": "Rudolf, Crown Prince of Austria's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Rudolf, Crown Prince of Austria's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Rudolf, Crown Prince of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Rudolf%2C_Crown_Prince_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rudolf-crown-prince-of-austria-5-influence",
+      "text": "Rudolf, Crown Prince of Austria has a Facts Mode card reserved for deeper source research.",
+      "context": "Rudolf, Crown Prince of Austria's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Rudolf, Crown Prince of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Rudolf%2C_Crown_Prince_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

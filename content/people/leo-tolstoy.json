@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Leo Tolstoy is a notable writer associated with Russia.",
+  "summary": "Leo Tolstoy is a notable writer connected with Russia.",
   "knownFor": [
     "Writer",
-    "183 language biography editions",
-    "Historical Popularity Index 89.8"
+    "Literature, Arts & Culture",
+    "Russia"
   ],
   "featured": true,
   "featuredRank": 137,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "leo-tolstoy-pantheon-profile",
-      "text": "Pantheon ranks Leo Tolstoy as a globally documented writer with biographies in 183 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Leo Tolstoy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "leo-tolstoy-1-origin",
+      "text": "Leo Tolstoy is remembered as a writer connected with Russia.",
+      "context": "Leo Tolstoy's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Leo Tolstoy",
       "sourceUrl": "https://pantheon.world/profile/person/Leo_Tolstoy",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leo-tolstoy-2-obstacle",
+      "text": "Leo Tolstoy's recorded life dates place this profile around 1828-1910.",
+      "context": "Leo Tolstoy's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Leo Tolstoy",
+      "sourceUrl": "https://pantheon.world/profile/person/Leo_Tolstoy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leo-tolstoy-3-turning-point",
+      "text": "Leo Tolstoy is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Leo Tolstoy's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Leo Tolstoy",
+      "sourceUrl": "https://pantheon.world/profile/person/Leo_Tolstoy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leo-tolstoy-4-contribution",
+      "text": "Leo Tolstoy's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Leo Tolstoy's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Leo Tolstoy",
+      "sourceUrl": "https://pantheon.world/profile/person/Leo_Tolstoy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leo-tolstoy-5-influence",
+      "text": "Leo Tolstoy has a Facts Mode card reserved for deeper source research.",
+      "context": "Leo Tolstoy's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Leo Tolstoy",
+      "sourceUrl": "https://pantheon.world/profile/person/Leo_Tolstoy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "s-ren-kierkegaard",
+  "slug": "s-ren-kierkegaard",
+  "name": "Søren Kierkegaard",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Søren Kierkegaard",
+      "url": "https://pantheon.world/profile/person/S%C3%B8ren_Kierkegaard",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "s-ren-kierkegaard-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Søren Kierkegaard is remembered as a philosopher connected with Denmark."
+    },
+    {
+      "factId": "s-ren-kierkegaard-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Søren Kierkegaard's recorded life dates place this profile around 1813-1855."
+    },
+    {
+      "factId": "s-ren-kierkegaard-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Søren Kierkegaard is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "s-ren-kierkegaard-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Søren Kierkegaard's profile connects a short Fact to a wider Denmark historical setting."
+    },
+    {
+      "factId": "s-ren-kierkegaard-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Søren Kierkegaard has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "leonardo-da-vinci",
+  "slug": "leonardo-da-vinci",
+  "name": "Leonardo da Vinci",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Leonardo da Vinci",
+      "url": "https://pantheon.world/profile/person/Leonardo_da_Vinci",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "leonardo-da-vinci-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Leonardo da Vinci is remembered as a inventor connected with Italy."
+    },
+    {
+      "factId": "leonardo-da-vinci-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Leonardo da Vinci's recorded life dates place this profile around 1452-1519."
+    },
+    {
+      "factId": "leonardo-da-vinci-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Leonardo da Vinci is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "leonardo-da-vinci-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Leonardo da Vinci's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "leonardo-da-vinci-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Leonardo da Vinci has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

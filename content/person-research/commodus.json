@@ -1,0 +1,46 @@
+{
+  "personId": "commodus",
+  "slug": "commodus",
+  "name": "Commodus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Commodus",
+      "url": "https://pantheon.world/profile/person/Commodus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "commodus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Commodus is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "commodus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Commodus's recorded life dates place this profile around 161-192."
+    },
+    {
+      "factId": "commodus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Commodus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "commodus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Commodus's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "commodus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Commodus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

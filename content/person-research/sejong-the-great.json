@@ -1,0 +1,46 @@
+{
+  "personId": "sejong-the-great",
+  "slug": "sejong-the-great",
+  "name": "Sejong the Great",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Sejong the Great",
+      "url": "https://pantheon.world/profile/person/Sejong_the_Great",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sejong-the-great-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Sejong the Great is remembered as a politician connected with South Korea."
+    },
+    {
+      "factId": "sejong-the-great-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Sejong the Great's recorded life dates place this profile around 1397-1450."
+    },
+    {
+      "factId": "sejong-the-great-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Sejong the Great is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "sejong-the-great-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Sejong the Great's profile connects a short Fact to a wider South Korea historical setting."
+    },
+    {
+      "factId": "sejong-the-great-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sejong the Great has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

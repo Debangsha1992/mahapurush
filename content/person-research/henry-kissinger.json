@@ -1,0 +1,46 @@
+{
+  "personId": "henry-kissinger",
+  "slug": "henry-kissinger",
+  "name": "Henry Kissinger",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Henry Kissinger",
+      "url": "https://pantheon.world/profile/person/Henry_Kissinger",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "henry-kissinger-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Henry Kissinger is remembered as a politician connected with Germany."
+    },
+    {
+      "factId": "henry-kissinger-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Henry Kissinger's recorded life dates place this profile around 1923-2023."
+    },
+    {
+      "factId": "henry-kissinger-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Henry Kissinger is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "henry-kissinger-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Henry Kissinger's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "henry-kissinger-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Henry Kissinger has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

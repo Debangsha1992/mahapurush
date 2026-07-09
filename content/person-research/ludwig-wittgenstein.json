@@ -1,0 +1,46 @@
+{
+  "personId": "ludwig-wittgenstein",
+  "slug": "ludwig-wittgenstein",
+  "name": "Ludwig Wittgenstein",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ludwig Wittgenstein",
+      "url": "https://pantheon.world/profile/person/Ludwig_Wittgenstein",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ludwig-wittgenstein-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig Wittgenstein is remembered as a philosopher connected with Austria."
+    },
+    {
+      "factId": "ludwig-wittgenstein-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig Wittgenstein's recorded life dates place this profile around 1889-1951."
+    },
+    {
+      "factId": "ludwig-wittgenstein-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig Wittgenstein is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "ludwig-wittgenstein-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig Wittgenstein's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "ludwig-wittgenstein-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig Wittgenstein has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

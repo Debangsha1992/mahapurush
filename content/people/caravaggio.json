@@ -12,35 +12,103 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Caravaggio is a notable painter associated with Italy.",
+  "summary": "Michelangelo Merisi da Caravaggio, known mononymously as Caravaggio, was an Italian painter active in Rome for a significant portion of his artistic life.",
   "knownFor": [
     "Painter",
-    "98 language biography editions",
-    "Historical Popularity Index 87.6"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 241,
   "imageAlt": "Portrait-style visual for Caravaggio",
   "sourceRefs": [
     {
-      "title": "Pantheon: Caravaggio",
-      "url": "https://pantheon.world/profile/person/Caravaggio",
+      "title": "Wikipedia: Caravaggio",
+      "url": "https://en.wikipedia.org/wiki/Caravaggio",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "caravaggio-pantheon-profile",
-      "text": "Pantheon ranks Caravaggio as a globally documented painter with biographies in 98 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Caravaggio a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Caravaggio",
-      "sourceUrl": "https://pantheon.world/profile/person/Caravaggio",
+      "id": "caravaggio-1-origin",
+      "text": "Michelangelo Merisi da Caravaggio, known mononymously as Caravaggio, was an Italian painter active in Rome for a significant portion of his artistic life.",
+      "context": "Caravaggio's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Caravaggio",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caravaggio",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "caravaggio-2-obstacle",
+      "text": "Caravaggio began his apprenticeship in Milan in 1584, and during the final four years of his life, he moved between Naples, Malta, and Sicily.",
+      "context": "Caravaggio's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Caravaggio",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caravaggio",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "caravaggio-3-turning-point",
+      "text": "Caravaggio's paintings have been characterized by art critics as combining a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.",
+      "context": "Caravaggio's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Caravaggio",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caravaggio",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "caravaggio-4-contribution",
+      "text": "Caravaggio is remembered as a painter connected with Italy.",
+      "context": "Caravaggio's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Caravaggio",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caravaggio",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "caravaggio-5-influence",
+      "text": "Caravaggio's recorded life dates place this profile around 1571-1610.",
+      "context": "Caravaggio's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Caravaggio",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Caravaggio",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

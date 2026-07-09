@@ -1,0 +1,46 @@
+{
+  "personId": "alexandre-dumas-fils",
+  "slug": "alexandre-dumas-fils",
+  "name": "Alexandre Dumas fils",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alexandre Dumas fils",
+      "url": "https://pantheon.world/profile/person/Alexandre_Dumas_fils",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alexandre-dumas-fils-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alexandre Dumas fils is remembered as a writer connected with France."
+    },
+    {
+      "factId": "alexandre-dumas-fils-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alexandre Dumas fils's recorded life dates place this profile around 1824-1895."
+    },
+    {
+      "factId": "alexandre-dumas-fils-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alexandre Dumas fils is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "alexandre-dumas-fils-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alexandre Dumas fils's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "alexandre-dumas-fils-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alexandre Dumas fils has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

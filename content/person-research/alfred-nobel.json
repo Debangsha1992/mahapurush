@@ -1,0 +1,46 @@
+{
+  "personId": "alfred-nobel",
+  "slug": "alfred-nobel",
+  "name": "Alfred Nobel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alfred Nobel",
+      "url": "https://pantheon.world/profile/person/Alfred_Nobel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alfred-nobel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alfred Nobel is remembered as a chemist connected with Sweden."
+    },
+    {
+      "factId": "alfred-nobel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alfred Nobel's recorded life dates place this profile around 1833-1896."
+    },
+    {
+      "factId": "alfred-nobel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alfred Nobel is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "alfred-nobel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alfred Nobel's profile connects a short Fact to a wider Sweden historical setting."
+    },
+    {
+      "factId": "alfred-nobel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alfred Nobel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

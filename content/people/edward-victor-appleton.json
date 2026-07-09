@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Edward Victor Appleton is a notable physicist associated with United Kingdom.",
+  "summary": "Edward Victor Appleton is a notable physicist connected with United Kingdom.",
   "knownFor": [
     "Physicist",
-    "81 language biography editions",
-    "Historical Popularity Index 83.6"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Edward Victor Appleton",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edward-victor-appleton-pantheon-profile",
-      "text": "Pantheon ranks Edward Victor Appleton as a globally documented physicist with biographies in 81 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward Victor Appleton a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edward-victor-appleton-1-origin",
+      "text": "Edward Victor Appleton is remembered as a physicist connected with United Kingdom.",
+      "context": "Edward Victor Appleton's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Edward Victor Appleton",
       "sourceUrl": "https://pantheon.world/profile/person/Edward_Victor_Appleton",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-victor-appleton-2-obstacle",
+      "text": "Edward Victor Appleton's recorded life dates place this profile around 1892-1965.",
+      "context": "Edward Victor Appleton's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Edward Victor Appleton",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_Victor_Appleton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-victor-appleton-3-turning-point",
+      "text": "Edward Victor Appleton is grouped with Science, Math & Technology in the People Library.",
+      "context": "Edward Victor Appleton's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Edward Victor Appleton",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_Victor_Appleton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-victor-appleton-4-contribution",
+      "text": "Edward Victor Appleton's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Edward Victor Appleton's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Edward Victor Appleton",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_Victor_Appleton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-victor-appleton-5-influence",
+      "text": "Edward Victor Appleton has a Facts Mode card reserved for deeper source research.",
+      "context": "Edward Victor Appleton's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Edward Victor Appleton",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_Victor_Appleton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

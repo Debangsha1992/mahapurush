@@ -1,0 +1,46 @@
+{
+  "personId": "pope-francis",
+  "slug": "pope-francis",
+  "name": "Pope Francis",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Francis",
+      "url": "https://pantheon.world/profile/person/Pope_Francis",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-francis-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Francis is remembered as a religious figure connected with Argentina."
+    },
+    {
+      "factId": "pope-francis-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Francis's recorded life dates place this profile around 1936-2025."
+    },
+    {
+      "factId": "pope-francis-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Francis is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-francis-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Francis's profile connects a short Fact to a wider Argentina historical setting."
+    },
+    {
+      "factId": "pope-francis-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Francis has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

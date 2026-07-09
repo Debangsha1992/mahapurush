@@ -1,0 +1,46 @@
+{
+  "personId": "barbara-bush",
+  "slug": "barbara-bush",
+  "name": "Barbara Bush",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Barbara Bush",
+      "url": "https://pantheon.world/profile/person/Barbara_Bush",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "barbara-bush-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Barbara Bush is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "barbara-bush-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Barbara Bush's recorded life dates place this profile around 1925-2018."
+    },
+    {
+      "factId": "barbara-bush-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Barbara Bush is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "barbara-bush-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Barbara Bush's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "barbara-bush-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Barbara Bush has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

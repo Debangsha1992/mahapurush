@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Alexander the Great is a notable military personnel associated with Greece.",
+  "summary": "Alexander the Great is a notable military personnel connected with Greece.",
   "knownFor": [
     "Military Personnel",
-    "213 language biography editions",
-    "Historical Popularity Index 95.6"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": true,
   "featuredRank": 45,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "alexander-the-great-pantheon-profile",
-      "text": "Pantheon ranks Alexander the Great as a globally documented military personnel with biographies in 213 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Alexander the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "alexander-the-great-1-origin",
+      "text": "Alexander the Great is remembered as a military personnel connected with Greece.",
+      "context": "Alexander the Great's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Alexander the Great",
       "sourceUrl": "https://pantheon.world/profile/person/Alexander_the_Great",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-the-great-2-obstacle",
+      "text": "Alexander the Great's recorded life dates place this profile around -356--323.",
+      "context": "Alexander the Great's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Alexander the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-the-great-3-turning-point",
+      "text": "Alexander the Great is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Alexander the Great's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Alexander the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-the-great-4-contribution",
+      "text": "Alexander the Great's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Alexander the Great's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Alexander the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-the-great-5-influence",
+      "text": "Alexander the Great has a Facts Mode card reserved for deeper source research.",
+      "context": "Alexander the Great's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Alexander the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Alexander_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "irene-joliot-curie",
+  "slug": "irene-joliot-curie",
+  "name": "Irène Joliot-Curie",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Irène Joliot-Curie",
+      "url": "https://pantheon.world/profile/person/Ir%C3%A8ne_Joliot-Curie",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "irene-joliot-curie-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Irène Joliot-Curie is remembered as a chemist connected with France."
+    },
+    {
+      "factId": "irene-joliot-curie-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Irène Joliot-Curie's recorded life dates place this profile around 1897-1956."
+    },
+    {
+      "factId": "irene-joliot-curie-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Irène Joliot-Curie is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "irene-joliot-curie-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Irène Joliot-Curie's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "irene-joliot-curie-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Irène Joliot-Curie has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

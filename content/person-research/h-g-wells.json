@@ -1,0 +1,46 @@
+{
+  "personId": "h-g-wells",
+  "slug": "h-g-wells",
+  "name": "H. G. Wells",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: H. G. Wells",
+      "url": "https://pantheon.world/profile/person/H._G._Wells",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "h-g-wells-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "H. G. Wells is remembered as a writer connected with United Kingdom."
+    },
+    {
+      "factId": "h-g-wells-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "H. G. Wells's recorded life dates place this profile around 1866-1946."
+    },
+    {
+      "factId": "h-g-wells-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "H. G. Wells is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "h-g-wells-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "H. G. Wells's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "h-g-wells-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "H. G. Wells has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "charles-baudelaire",
+  "slug": "charles-baudelaire",
+  "name": "Charles Baudelaire",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles Baudelaire",
+      "url": "https://pantheon.world/profile/person/Charles_Baudelaire",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-baudelaire-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles Baudelaire is remembered as a writer connected with France."
+    },
+    {
+      "factId": "charles-baudelaire-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles Baudelaire's recorded life dates place this profile around 1821-1867."
+    },
+    {
+      "factId": "charles-baudelaire-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles Baudelaire is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "charles-baudelaire-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles Baudelaire's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "charles-baudelaire-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles Baudelaire has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

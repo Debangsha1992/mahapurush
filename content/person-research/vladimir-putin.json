@@ -1,0 +1,46 @@
+{
+  "personId": "vladimir-putin",
+  "slug": "vladimir-putin",
+  "name": "Vladimir Putin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Vladimir Putin",
+      "url": "https://pantheon.world/profile/person/Vladimir_Putin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "vladimir-putin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Vladimir Putin is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "vladimir-putin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Vladimir Putin's recorded life dates place this profile around born 1952."
+    },
+    {
+      "factId": "vladimir-putin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Vladimir Putin is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "vladimir-putin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Vladimir Putin's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "vladimir-putin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Vladimir Putin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

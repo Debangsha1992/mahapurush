@@ -1,0 +1,46 @@
+{
+  "personId": "plotinus",
+  "slug": "plotinus",
+  "name": "Plotinus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Plotinus",
+      "url": "https://pantheon.world/profile/person/Plotinus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "plotinus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Plotinus is remembered as a philosopher connected with Egypt."
+    },
+    {
+      "factId": "plotinus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Plotinus's recorded life dates place this profile around 203-270."
+    },
+    {
+      "factId": "plotinus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Plotinus is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "plotinus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Plotinus's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "plotinus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Plotinus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

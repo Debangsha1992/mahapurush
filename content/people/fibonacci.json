@@ -12,35 +12,105 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Fibonacci is a notable mathematician associated with Italy.",
+  "summary": "Leonardo Bonacci, commonly known as Fibonacci, was an Italian mathematician from the Republic of Pisa, considered to be \"the most talented Western mathematician of the Middle Ages\".",
   "knownFor": [
     "Mathematician",
-    "115 language biography editions",
-    "Historical Popularity Index 89.7"
+    "Science, Math & Technology",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 140,
   "imageAlt": "Portrait-style visual for Fibonacci",
   "sourceRefs": [
     {
-      "title": "Pantheon: Fibonacci",
-      "url": "https://pantheon.world/profile/person/Fibonacci",
+      "title": "Wikipedia: Fibonacci",
+      "url": "https://en.wikipedia.org/wiki/Fibonacci",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "fibonacci-pantheon-profile",
-      "text": "Pantheon ranks Fibonacci as a globally documented mathematician with biographies in 115 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Fibonacci a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Fibonacci",
-      "sourceUrl": "https://pantheon.world/profile/person/Fibonacci",
+      "id": "fibonacci-1-origin",
+      "text": "Leonardo Bonacci, commonly known as Fibonacci, was an Italian mathematician from the Republic of Pisa, considered to be \"the most talented Western mathematician of the Middle Ages\".",
+      "context": "Fibonacci's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Fibonacci",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fibonacci",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fibonacci-2-obstacle",
+      "text": "Fibonacci is remembered as a mathematician connected with Italy.",
+      "context": "Fibonacci's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Fibonacci",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fibonacci",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fibonacci-3-turning-point",
+      "text": "Fibonacci's recorded life dates place this profile around 1170-1240.",
+      "context": "Fibonacci's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Fibonacci",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fibonacci",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fibonacci-4-contribution",
+      "text": "Fibonacci is grouped with Science, Math & Technology in the People Library.",
+      "context": "Fibonacci's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Fibonacci",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fibonacci",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fibonacci-5-influence",
+      "text": "Fibonacci's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Fibonacci's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Fibonacci",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Fibonacci",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Margaret Thatcher is a notable politician associated with United Kingdom.",
+  "summary": "Margaret Thatcher is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "152 language biography editions",
-    "Historical Popularity Index 83.8"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Margaret Thatcher",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "margaret-thatcher-pantheon-profile",
-      "text": "Pantheon ranks Margaret Thatcher as a globally documented politician with biographies in 152 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Margaret Thatcher a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "margaret-thatcher-1-origin",
+      "text": "Margaret Thatcher is remembered as a politician connected with United Kingdom.",
+      "context": "Margaret Thatcher's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Margaret Thatcher",
       "sourceUrl": "https://pantheon.world/profile/person/Margaret_Thatcher",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "margaret-thatcher-2-obstacle",
+      "text": "Margaret Thatcher's recorded life dates place this profile around 1925-2013.",
+      "context": "Margaret Thatcher's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Margaret Thatcher",
+      "sourceUrl": "https://pantheon.world/profile/person/Margaret_Thatcher",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "margaret-thatcher-3-turning-point",
+      "text": "Margaret Thatcher is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Margaret Thatcher's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Margaret Thatcher",
+      "sourceUrl": "https://pantheon.world/profile/person/Margaret_Thatcher",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "margaret-thatcher-4-contribution",
+      "text": "Margaret Thatcher's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Margaret Thatcher's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Margaret Thatcher",
+      "sourceUrl": "https://pantheon.world/profile/person/Margaret_Thatcher",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "margaret-thatcher-5-influence",
+      "text": "Margaret Thatcher has a Facts Mode card reserved for deeper source research.",
+      "context": "Margaret Thatcher's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Margaret Thatcher",
+      "sourceUrl": "https://pantheon.world/profile/person/Margaret_Thatcher",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

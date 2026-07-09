@@ -1,0 +1,46 @@
+{
+  "personId": "pope-marcellus-ii",
+  "slug": "pope-marcellus-ii",
+  "name": "Pope Marcellus II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Marcellus II",
+      "url": "https://pantheon.world/profile/person/Pope_Marcellus_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-marcellus-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Marcellus II is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-marcellus-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Marcellus II's recorded life dates place this profile around 1501-1555."
+    },
+    {
+      "factId": "pope-marcellus-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Marcellus II is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-marcellus-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Marcellus II's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-marcellus-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Marcellus II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

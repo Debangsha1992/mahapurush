@@ -1,0 +1,46 @@
+{
+  "personId": "titus",
+  "slug": "titus",
+  "name": "Titus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Titus",
+      "url": "https://pantheon.world/profile/person/Titus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "titus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Titus is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "titus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Titus's recorded life dates place this profile around 41-81."
+    },
+    {
+      "factId": "titus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Titus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "titus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Titus's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "titus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Titus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

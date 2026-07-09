@@ -1,0 +1,46 @@
+{
+  "personId": "richard-burton",
+  "slug": "richard-burton",
+  "name": "Richard Burton",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Richard Burton",
+      "url": "https://pantheon.world/profile/person/Richard_Burton",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "richard-burton-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Richard Burton is remembered as a actor connected with United Kingdom."
+    },
+    {
+      "factId": "richard-burton-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Richard Burton's recorded life dates place this profile around 1925-1984."
+    },
+    {
+      "factId": "richard-burton-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Richard Burton is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "richard-burton-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Richard Burton's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "richard-burton-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Richard Burton has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

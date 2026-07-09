@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Gilbert du Motier, Marquis de Lafayette is a notable military personnel associated with France.",
+  "summary": "Gilbert du Motier, Marquis de Lafayette is a notable military personnel connected with France.",
   "knownFor": [
     "Military Personnel",
-    "62 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Gilbert du Motier, Marquis de Lafayette",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "gilbert-du-motier-marquis-de-lafayette-pantheon-profile",
-      "text": "Pantheon ranks Gilbert du Motier, Marquis de Lafayette as a globally documented military personnel with biographies in 62 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Gilbert du Motier, Marquis de Lafayette a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "gilbert-du-motier-marquis-de-lafayette-1-origin",
+      "text": "Gilbert du Motier, Marquis de Lafayette is remembered as a military personnel connected with France.",
+      "context": "Gilbert du Motier, Marquis de Lafayette's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Gilbert du Motier, Marquis de Lafayette",
       "sourceUrl": "https://pantheon.world/profile/person/Gilbert_du_Motier%2C_Marquis_de_Lafayette",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gilbert-du-motier-marquis-de-lafayette-2-obstacle",
+      "text": "Gilbert du Motier, Marquis de Lafayette's recorded life dates place this profile around 1757-1834.",
+      "context": "Gilbert du Motier, Marquis de Lafayette's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Gilbert du Motier, Marquis de Lafayette",
+      "sourceUrl": "https://pantheon.world/profile/person/Gilbert_du_Motier%2C_Marquis_de_Lafayette",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gilbert-du-motier-marquis-de-lafayette-3-turning-point",
+      "text": "Gilbert du Motier, Marquis de Lafayette is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Gilbert du Motier, Marquis de Lafayette's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Gilbert du Motier, Marquis de Lafayette",
+      "sourceUrl": "https://pantheon.world/profile/person/Gilbert_du_Motier%2C_Marquis_de_Lafayette",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gilbert-du-motier-marquis-de-lafayette-4-contribution",
+      "text": "Gilbert du Motier, Marquis de Lafayette's profile connects a short Fact to a wider France historical setting.",
+      "context": "Gilbert du Motier, Marquis de Lafayette's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Gilbert du Motier, Marquis de Lafayette",
+      "sourceUrl": "https://pantheon.world/profile/person/Gilbert_du_Motier%2C_Marquis_de_Lafayette",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gilbert-du-motier-marquis-de-lafayette-5-influence",
+      "text": "Gilbert du Motier, Marquis de Lafayette has a Facts Mode card reserved for deeper source research.",
+      "context": "Gilbert du Motier, Marquis de Lafayette's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Gilbert du Motier, Marquis de Lafayette",
+      "sourceUrl": "https://pantheon.world/profile/person/Gilbert_du_Motier%2C_Marquis_de_Lafayette",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

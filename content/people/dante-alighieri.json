@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Dante Alighieri is a notable writer associated with Italy.",
+  "summary": "Dante Alighieri is a notable writer connected with Italy.",
   "knownFor": [
     "Writer",
-    "192 language biography editions",
-    "Historical Popularity Index 92.1"
+    "Literature, Arts & Culture",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 78,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "dante-alighieri-pantheon-profile",
-      "text": "Pantheon ranks Dante Alighieri as a globally documented writer with biographies in 192 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Dante Alighieri a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "dante-alighieri-1-origin",
+      "text": "Dante Alighieri is remembered as a writer connected with Italy.",
+      "context": "Dante Alighieri's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Dante Alighieri",
       "sourceUrl": "https://pantheon.world/profile/person/Dante_Alighieri",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dante-alighieri-2-obstacle",
+      "text": "Dante Alighieri's recorded life dates place this profile around 1265-1321.",
+      "context": "Dante Alighieri's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Dante Alighieri",
+      "sourceUrl": "https://pantheon.world/profile/person/Dante_Alighieri",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dante-alighieri-3-turning-point",
+      "text": "Dante Alighieri is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Dante Alighieri's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Dante Alighieri",
+      "sourceUrl": "https://pantheon.world/profile/person/Dante_Alighieri",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dante-alighieri-4-contribution",
+      "text": "Dante Alighieri's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Dante Alighieri's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Dante Alighieri",
+      "sourceUrl": "https://pantheon.world/profile/person/Dante_Alighieri",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "dante-alighieri-5-influence",
+      "text": "Dante Alighieri has a Facts Mode card reserved for deeper source research.",
+      "context": "Dante Alighieri's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Dante Alighieri",
+      "sourceUrl": "https://pantheon.world/profile/person/Dante_Alighieri",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

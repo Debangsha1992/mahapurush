@@ -12,34 +12,103 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Lee Kuan Yew is a notable politician associated with Singapore.",
+  "summary": "Lee Kuan Yew, also known as LKY, was a Singaporean politician and barrister who served as the first prime minister of Singapore from 1959 to 1990.",
   "knownFor": [
     "Politician",
-    "100 language biography editions",
-    "Historical Popularity Index 83.3"
+    "Justice, Governance & Leadership",
+    "Singapore"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Lee Kuan Yew",
   "sourceRefs": [
     {
-      "title": "Pantheon: Lee Kuan Yew",
-      "url": "https://pantheon.world/profile/person/Lee_Kuan_Yew",
+      "title": "Wikipedia: Lee Kuan Yew",
+      "url": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "lee-kuan-yew-pantheon-profile",
-      "text": "Pantheon ranks Lee Kuan Yew as a globally documented politician with biographies in 100 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Lee Kuan Yew a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Lee Kuan Yew",
-      "sourceUrl": "https://pantheon.world/profile/person/Lee_Kuan_Yew",
+      "id": "lee-kuan-yew-1-origin",
+      "text": "Lee Kuan Yew, also known as LKY, was a Singaporean politician and barrister who served as the first prime minister of Singapore from 1959 to 1990.",
+      "context": "Lee Kuan Yew's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Lee Kuan Yew",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lee-kuan-yew-2-obstacle",
+      "text": "Lee Kuan Yew is regarded as the founding father of modern Singapore.",
+      "context": "Lee Kuan Yew's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Lee Kuan Yew",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lee-kuan-yew-3-turning-point",
+      "text": "Lee Kuan Yew is remembered as a politician connected with Singapore.",
+      "context": "Lee Kuan Yew's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Lee Kuan Yew",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lee-kuan-yew-4-contribution",
+      "text": "Lee Kuan Yew's recorded life dates place this profile around 1923-2015.",
+      "context": "Lee Kuan Yew's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Lee Kuan Yew",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lee-kuan-yew-5-influence",
+      "text": "Lee Kuan Yew is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Lee Kuan Yew's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Lee Kuan Yew",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

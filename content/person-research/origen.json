@@ -1,0 +1,47 @@
+{
+  "personId": "origen",
+  "slug": "origen",
+  "name": "Origen",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Origen",
+      "url": "https://en.wikipedia.org/wiki/Origen",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Christian scholar, ascetic, and theologian (c. 185 – c. 253)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "origen-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Origen of Alexandria, also known as Origen Adamantius, was an early Christian scholar, ascetic, and theologian who was born and spent the first half of his career in Alexandria."
+    },
+    {
+      "factId": "origen-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Origen was a prolific writer who wrote roughly 2,000 treatises in multiple branches of theology, including textual criticism, biblical exegesis and hermeneutics, homiletics, and spirituality."
+    },
+    {
+      "factId": "origen-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "disputed",
+      "text": "Origen was one of the most influential and controversial figures in early Christian theology, apologetics, and asceticism."
+    },
+    {
+      "factId": "origen-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Origen is remembered as a philosopher connected with Egypt."
+    },
+    {
+      "factId": "origen-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Origen's recorded life dates place this profile around 185-254."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "jerome",
+  "slug": "jerome",
+  "name": "Jerome",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Jerome",
+      "url": "https://en.wikipedia.org/wiki/Jerome",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Priest and theologian (c. 342/347 – 420)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jerome-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Jerome, also known as Jerome of Stridon, was an early Christian priest, confessor, theologian, translator, and historian; he is commonly known as Saint Jerome."
+    },
+    {
+      "factId": "jerome-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jerome is remembered as a religious figure connected with Serbia."
+    },
+    {
+      "factId": "jerome-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jerome's recorded life dates place this profile around 345-420."
+    },
+    {
+      "factId": "jerome-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jerome is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "jerome-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jerome's profile connects a short Fact to a wider Serbia historical setting."
+    }
+  ]
+}

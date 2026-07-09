@@ -12,34 +12,102 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Tintoretto is a notable painter associated with Italy.",
+  "summary": "Jacopo Robusti, best known as Tintoretto, was an Italian Renaissance painter of the Venetian school.",
   "knownFor": [
     "Painter",
-    "76 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Tintoretto",
   "sourceRefs": [
     {
-      "title": "Pantheon: Tintoretto",
-      "url": "https://pantheon.world/profile/person/Tintoretto",
+      "title": "Wikipedia: Tintoretto",
+      "url": "https://en.wikipedia.org/wiki/Tintoretto",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "tintoretto-pantheon-profile",
-      "text": "Pantheon ranks Tintoretto as a globally documented painter with biographies in 76 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Tintoretto a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Tintoretto",
-      "sourceUrl": "https://pantheon.world/profile/person/Tintoretto",
+      "id": "tintoretto-1-origin",
+      "text": "Jacopo Robusti, best known as Tintoretto, was an Italian Renaissance painter of the Venetian school.",
+      "context": "Tintoretto's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Tintoretto",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tintoretto",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tintoretto-2-obstacle",
+      "text": "Tintoretto's contemporaries both admired and criticised the speed with which he painted and the unprecedented boldness of his brushwork.",
+      "context": "Tintoretto's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Tintoretto",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tintoretto",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tintoretto-3-turning-point",
+      "text": "Tintoretto's work is characterised by muscular figures, dramatic gestures and bold use of perspective, in the Mannerist style.",
+      "context": "Tintoretto's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Tintoretto",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tintoretto",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tintoretto-4-contribution",
+      "text": "Tintoretto is remembered as a painter connected with Italy.",
+      "context": "Tintoretto's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Tintoretto",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tintoretto",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tintoretto-5-influence",
+      "text": "Tintoretto's recorded life dates place this profile around 1518-1594.",
+      "context": "Tintoretto's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Tintoretto",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Tintoretto",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

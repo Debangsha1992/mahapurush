@@ -1,0 +1,46 @@
+{
+  "personId": "margrethe-ii-of-denmark",
+  "slug": "margrethe-ii-of-denmark",
+  "name": "Margrethe II of Denmark",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Margrethe II of Denmark",
+      "url": "https://pantheon.world/profile/person/Margrethe_II_of_Denmark",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "margrethe-ii-of-denmark-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Margrethe II of Denmark is remembered as a nobleman connected with Denmark."
+    },
+    {
+      "factId": "margrethe-ii-of-denmark-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Margrethe II of Denmark's recorded life dates place this profile around born 1940."
+    },
+    {
+      "factId": "margrethe-ii-of-denmark-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Margrethe II of Denmark is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "margrethe-ii-of-denmark-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Margrethe II of Denmark's profile connects a short Fact to a wider Denmark historical setting."
+    },
+    {
+      "factId": "margrethe-ii-of-denmark-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Margrethe II of Denmark has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

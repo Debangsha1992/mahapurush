@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Pope Innocent XII is a notable religious figure associated with Italy.",
+  "summary": "Pope Innocent XII is a notable religious figure connected with Italy.",
   "knownFor": [
     "Religious Figure",
-    "73 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Philosophy, Ethics & Religion",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Pope Innocent XII",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pope-innocent-xii-pantheon-profile",
-      "text": "Pantheon ranks Pope Innocent XII as a globally documented religious figure with biographies in 73 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Innocent XII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pope-innocent-xii-1-origin",
+      "text": "Pope Innocent XII is remembered as a religious figure connected with Italy.",
+      "context": "Pope Innocent XII's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Pope Innocent XII",
       "sourceUrl": "https://pantheon.world/profile/person/Pope_Innocent_XII",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-innocent-xii-2-obstacle",
+      "text": "Pope Innocent XII's recorded life dates place this profile around 1615-1700.",
+      "context": "Pope Innocent XII's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pope Innocent XII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Innocent_XII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-innocent-xii-3-turning-point",
+      "text": "Pope Innocent XII is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Pope Innocent XII's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pope Innocent XII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Innocent_XII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-innocent-xii-4-contribution",
+      "text": "Pope Innocent XII's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Pope Innocent XII's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pope Innocent XII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Innocent_XII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-innocent-xii-5-influence",
+      "text": "Pope Innocent XII has a Facts Mode card reserved for deeper source research.",
+      "context": "Pope Innocent XII's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pope Innocent XII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Innocent_XII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

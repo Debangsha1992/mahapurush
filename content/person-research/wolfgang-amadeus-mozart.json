@@ -1,0 +1,46 @@
+{
+  "personId": "wolfgang-amadeus-mozart",
+  "slug": "wolfgang-amadeus-mozart",
+  "name": "Wolfgang Amadeus Mozart",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Wolfgang Amadeus Mozart",
+      "url": "https://pantheon.world/profile/person/Wolfgang_Amadeus_Mozart",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "wolfgang-amadeus-mozart-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Wolfgang Amadeus Mozart is remembered as a composer connected with Austria."
+    },
+    {
+      "factId": "wolfgang-amadeus-mozart-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Wolfgang Amadeus Mozart's recorded life dates place this profile around 1756-1791."
+    },
+    {
+      "factId": "wolfgang-amadeus-mozart-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Wolfgang Amadeus Mozart is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "wolfgang-amadeus-mozart-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Wolfgang Amadeus Mozart's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "wolfgang-amadeus-mozart-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Wolfgang Amadeus Mozart has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

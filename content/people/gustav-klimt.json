@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Gustav Klimt is a notable painter associated with Austria.",
+  "summary": "Gustav Klimt is a notable painter connected with Austria.",
   "knownFor": [
     "Painter",
-    "92 language biography editions",
-    "Historical Popularity Index 84.5"
+    "Justice, Governance & Leadership",
+    "Austria"
   ],
   "featured": true,
   "featuredRank": 483,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "gustav-klimt-pantheon-profile",
-      "text": "Pantheon ranks Gustav Klimt as a globally documented painter with biographies in 92 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Gustav Klimt a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "gustav-klimt-1-origin",
+      "text": "Gustav Klimt is remembered as a painter connected with Austria.",
+      "context": "Gustav Klimt's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Gustav Klimt",
       "sourceUrl": "https://pantheon.world/profile/person/Gustav_Klimt",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustav-klimt-2-obstacle",
+      "text": "Gustav Klimt's recorded life dates place this profile around 1862-1918.",
+      "context": "Gustav Klimt's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Gustav Klimt",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustav_Klimt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustav-klimt-3-turning-point",
+      "text": "Gustav Klimt is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Gustav Klimt's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Gustav Klimt",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustav_Klimt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustav-klimt-4-contribution",
+      "text": "Gustav Klimt's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Gustav Klimt's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Gustav Klimt",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustav_Klimt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gustav-klimt-5-influence",
+      "text": "Gustav Klimt has a Facts Mode card reserved for deeper source research.",
+      "context": "Gustav Klimt's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Gustav Klimt",
+      "sourceUrl": "https://pantheon.world/profile/person/Gustav_Klimt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

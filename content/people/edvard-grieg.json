@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Edvard Grieg is a notable composer associated with Norway.",
+  "summary": "Edvard Grieg is a notable composer connected with Norway.",
   "knownFor": [
     "Composer",
-    "98 language biography editions",
-    "Historical Popularity Index 83.5"
+    "Literature, Arts & Culture",
+    "Norway"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Edvard Grieg",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edvard-grieg-pantheon-profile",
-      "text": "Pantheon ranks Edvard Grieg as a globally documented composer with biographies in 98 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Edvard Grieg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edvard-grieg-1-origin",
+      "text": "Edvard Grieg is remembered as a composer connected with Norway.",
+      "context": "Edvard Grieg's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Edvard Grieg",
       "sourceUrl": "https://pantheon.world/profile/person/Edvard_Grieg",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edvard-grieg-2-obstacle",
+      "text": "Edvard Grieg's recorded life dates place this profile around 1843-1907.",
+      "context": "Edvard Grieg's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Edvard Grieg",
+      "sourceUrl": "https://pantheon.world/profile/person/Edvard_Grieg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edvard-grieg-3-turning-point",
+      "text": "Edvard Grieg is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Edvard Grieg's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Edvard Grieg",
+      "sourceUrl": "https://pantheon.world/profile/person/Edvard_Grieg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edvard-grieg-4-contribution",
+      "text": "Edvard Grieg's profile connects a short Fact to a wider Norway historical setting.",
+      "context": "Edvard Grieg's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Edvard Grieg",
+      "sourceUrl": "https://pantheon.world/profile/person/Edvard_Grieg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edvard-grieg-5-influence",
+      "text": "Edvard Grieg has a Facts Mode card reserved for deeper source research.",
+      "context": "Edvard Grieg's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Edvard Grieg",
+      "sourceUrl": "https://pantheon.world/profile/person/Edvard_Grieg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

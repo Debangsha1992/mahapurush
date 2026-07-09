@@ -1,0 +1,46 @@
+{
+  "personId": "theodosius-i",
+  "slug": "theodosius-i",
+  "name": "Theodosius I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Theodosius I",
+      "url": "https://pantheon.world/profile/person/Theodosius_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "theodosius-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Theodosius I is remembered as a politician connected with Spain."
+    },
+    {
+      "factId": "theodosius-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Theodosius I's recorded life dates place this profile around 340-395."
+    },
+    {
+      "factId": "theodosius-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Theodosius I is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "theodosius-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Theodosius I's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "theodosius-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Theodosius I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

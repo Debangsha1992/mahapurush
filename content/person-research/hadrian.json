@@ -1,0 +1,46 @@
+{
+  "personId": "hadrian",
+  "slug": "hadrian",
+  "name": "Hadrian",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hadrian",
+      "url": "https://pantheon.world/profile/person/Hadrian",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hadrian-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hadrian is remembered as a politician connected with Spain."
+    },
+    {
+      "factId": "hadrian-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hadrian's recorded life dates place this profile around 76-138."
+    },
+    {
+      "factId": "hadrian-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hadrian is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "hadrian-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hadrian's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "hadrian-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hadrian has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

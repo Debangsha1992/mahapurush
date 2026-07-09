@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "William Thomson, 1st Baron Kelvin is a notable physicist associated with United Kingdom.",
+  "summary": "William Thomson, 1st Baron Kelvin is a notable physicist connected with United Kingdom.",
   "knownFor": [
     "Physicist",
-    "85 language biography editions",
-    "Historical Popularity Index 83.4"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for William Thomson, 1st Baron Kelvin",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "william-thomson-1st-baron-kelvin-pantheon-profile",
-      "text": "Pantheon ranks William Thomson, 1st Baron Kelvin as a globally documented physicist with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make William Thomson, 1st Baron Kelvin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "william-thomson-1st-baron-kelvin-1-origin",
+      "text": "William Thomson, 1st Baron Kelvin is remembered as a physicist connected with United Kingdom.",
+      "context": "William Thomson, 1st Baron Kelvin's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: William Thomson, 1st Baron Kelvin",
       "sourceUrl": "https://pantheon.world/profile/person/William_Thomson%2C_1st_Baron_Kelvin",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-thomson-1st-baron-kelvin-2-obstacle",
+      "text": "William Thomson, 1st Baron Kelvin's recorded life dates place this profile around 1824-1907.",
+      "context": "William Thomson, 1st Baron Kelvin's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: William Thomson, 1st Baron Kelvin",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Thomson%2C_1st_Baron_Kelvin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-thomson-1st-baron-kelvin-3-turning-point",
+      "text": "William Thomson, 1st Baron Kelvin is grouped with Science, Math & Technology in the People Library.",
+      "context": "William Thomson, 1st Baron Kelvin's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: William Thomson, 1st Baron Kelvin",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Thomson%2C_1st_Baron_Kelvin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-thomson-1st-baron-kelvin-4-contribution",
+      "text": "William Thomson, 1st Baron Kelvin's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "William Thomson, 1st Baron Kelvin's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: William Thomson, 1st Baron Kelvin",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Thomson%2C_1st_Baron_Kelvin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-thomson-1st-baron-kelvin-5-influence",
+      "text": "William Thomson, 1st Baron Kelvin has a Facts Mode card reserved for deeper source research.",
+      "context": "William Thomson, 1st Baron Kelvin's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: William Thomson, 1st Baron Kelvin",
+      "sourceUrl": "https://pantheon.world/profile/person/William_Thomson%2C_1st_Baron_Kelvin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

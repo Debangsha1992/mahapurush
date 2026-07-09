@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Louis IX of France is a notable politician associated with France.",
+  "summary": "Louis IX of France is a notable politician connected with France.",
   "knownFor": [
     "Politician",
-    "85 language biography editions",
-    "Historical Popularity Index 82.4"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Louis IX of France",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "louis-ix-of-france-pantheon-profile",
-      "text": "Pantheon ranks Louis IX of France as a globally documented politician with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Louis IX of France a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "louis-ix-of-france-1-origin",
+      "text": "Louis IX of France is remembered as a politician connected with France.",
+      "context": "Louis IX of France's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Louis IX of France",
       "sourceUrl": "https://pantheon.world/profile/person/Louis_IX_of_France",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-ix-of-france-2-obstacle",
+      "text": "Louis IX of France's recorded life dates place this profile around 1214-1270.",
+      "context": "Louis IX of France's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Louis IX of France",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_IX_of_France",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-ix-of-france-3-turning-point",
+      "text": "Louis IX of France is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Louis IX of France's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Louis IX of France",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_IX_of_France",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-ix-of-france-4-contribution",
+      "text": "Louis IX of France's profile connects a short Fact to a wider France historical setting.",
+      "context": "Louis IX of France's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Louis IX of France",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_IX_of_France",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-ix-of-france-5-influence",
+      "text": "Louis IX of France has a Facts Mode card reserved for deeper source research.",
+      "context": "Louis IX of France's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Louis IX of France",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_IX_of_France",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

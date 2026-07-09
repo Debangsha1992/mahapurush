@@ -1,0 +1,47 @@
+{
+  "personId": "socrates",
+  "slug": "socrates",
+  "name": "Socrates",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Socrates",
+      "url": "https://en.wikipedia.org/wiki/Socrates",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Greek philosopher (c. 470–399 BC)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "socrates-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Socrates was an ancient Greek philosopher from Classical Athens, perhaps the first Western moral philosopher, and a major inspiration on his student Plato, who largely founded the tradition of Western philosophy."
+    },
+    {
+      "factId": "socrates-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "An enigmatic figure, Socrates authored no texts and is known mainly through the posthumous accounts of classical writers, particularly his students Plato and Xenophon."
+    },
+    {
+      "factId": "socrates-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "These accounts are written as dialogues, in which Socrates and his interlocutors examine a subject in the style of question and answer; they gave rise to the Socratic dialogue literary genre."
+    },
+    {
+      "factId": "socrates-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Contradictory accounts of Socrates make a reconstruction of his philosophy nearly impossible, a situation known as the Socratic problem."
+    },
+    {
+      "factId": "socrates-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "verified",
+      "text": "Socrates was a polarizing figure in Athenian society."
+    }
+  ]
+}

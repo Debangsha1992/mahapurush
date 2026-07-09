@@ -1,0 +1,46 @@
+{
+  "personId": "bhumibol-adulyadej",
+  "slug": "bhumibol-adulyadej",
+  "name": "Bhumibol Adulyadej",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bhumibol Adulyadej",
+      "url": "https://pantheon.world/profile/person/Bhumibol_Adulyadej",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bhumibol-adulyadej-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bhumibol Adulyadej is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "bhumibol-adulyadej-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bhumibol Adulyadej's recorded life dates place this profile around 1927-2016."
+    },
+    {
+      "factId": "bhumibol-adulyadej-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bhumibol Adulyadej is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "bhumibol-adulyadej-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bhumibol Adulyadej's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "bhumibol-adulyadej-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bhumibol Adulyadej has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

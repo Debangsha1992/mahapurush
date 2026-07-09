@@ -1,0 +1,46 @@
+{
+  "personId": "giacomo-casanova",
+  "slug": "giacomo-casanova",
+  "name": "Giacomo Casanova",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Giacomo Casanova",
+      "url": "https://pantheon.world/profile/person/Giacomo_Casanova",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "giacomo-casanova-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Giacomo Casanova is remembered as a writer connected with Italy."
+    },
+    {
+      "factId": "giacomo-casanova-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Giacomo Casanova's recorded life dates place this profile around 1725-1798."
+    },
+    {
+      "factId": "giacomo-casanova-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Giacomo Casanova is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "giacomo-casanova-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Giacomo Casanova's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "giacomo-casanova-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Giacomo Casanova has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

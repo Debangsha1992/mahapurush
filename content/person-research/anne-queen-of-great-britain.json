@@ -1,0 +1,46 @@
+{
+  "personId": "anne-queen-of-great-britain",
+  "slug": "anne-queen-of-great-britain",
+  "name": "Anne, Queen of Great Britain",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anne, Queen of Great Britain",
+      "url": "https://pantheon.world/profile/person/Anne%2C_Queen_of_Great_Britain",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anne-queen-of-great-britain-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anne, Queen of Great Britain is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "anne-queen-of-great-britain-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anne, Queen of Great Britain's recorded life dates place this profile around 1665-1714."
+    },
+    {
+      "factId": "anne-queen-of-great-britain-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anne, Queen of Great Britain is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "anne-queen-of-great-britain-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anne, Queen of Great Britain's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "anne-queen-of-great-britain-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anne, Queen of Great Britain has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

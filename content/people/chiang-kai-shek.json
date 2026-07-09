@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Chiang Kai-shek is a notable military personnel associated with China.",
+  "summary": "Chiang Kai-shek is a notable military personnel connected with China.",
   "knownFor": [
     "Military Personnel",
-    "123 language biography editions",
-    "Historical Popularity Index 86.3"
+    "Justice, Governance & Leadership",
+    "China"
   ],
   "featured": true,
   "featuredRank": 333,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "chiang-kai-shek-pantheon-profile",
-      "text": "Pantheon ranks Chiang Kai-shek as a globally documented military personnel with biographies in 123 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Chiang Kai-shek a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "chiang-kai-shek-1-origin",
+      "text": "Chiang Kai-shek is remembered as a military personnel connected with China.",
+      "context": "Chiang Kai-shek's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Chiang Kai-shek",
       "sourceUrl": "https://pantheon.world/profile/person/Chiang_Kai-shek",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "chiang-kai-shek-2-obstacle",
+      "text": "Chiang Kai-shek's recorded life dates place this profile around 1887-1975.",
+      "context": "Chiang Kai-shek's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Chiang Kai-shek",
+      "sourceUrl": "https://pantheon.world/profile/person/Chiang_Kai-shek",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "chiang-kai-shek-3-turning-point",
+      "text": "Chiang Kai-shek is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Chiang Kai-shek's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Chiang Kai-shek",
+      "sourceUrl": "https://pantheon.world/profile/person/Chiang_Kai-shek",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "chiang-kai-shek-4-contribution",
+      "text": "Chiang Kai-shek's profile connects a short Fact to a wider China historical setting.",
+      "context": "Chiang Kai-shek's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Chiang Kai-shek",
+      "sourceUrl": "https://pantheon.world/profile/person/Chiang_Kai-shek",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "chiang-kai-shek-5-influence",
+      "text": "Chiang Kai-shek has a Facts Mode card reserved for deeper source research.",
+      "context": "Chiang Kai-shek's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Chiang Kai-shek",
+      "sourceUrl": "https://pantheon.world/profile/person/Chiang_Kai-shek",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

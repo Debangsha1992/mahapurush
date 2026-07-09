@@ -1,0 +1,46 @@
+{
+  "personId": "olav-v-of-norway",
+  "slug": "olav-v-of-norway",
+  "name": "Olav V of Norway",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Olav V of Norway",
+      "url": "https://pantheon.world/profile/person/Olav_V_of_Norway",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "olav-v-of-norway-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Olav V of Norway is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "olav-v-of-norway-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Olav V of Norway's recorded life dates place this profile around 1903-1991."
+    },
+    {
+      "factId": "olav-v-of-norway-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Olav V of Norway is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "olav-v-of-norway-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Olav V of Norway's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "olav-v-of-norway-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Olav V of Norway has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

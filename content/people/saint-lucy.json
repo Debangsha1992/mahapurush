@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Saint Lucy is a notable religious figure associated with Italy.",
+  "summary": "Saint Lucy is a notable religious figure connected with Italy.",
   "knownFor": [
     "Religious Figure",
-    "64 language biography editions",
-    "Historical Popularity Index 84.0"
+    "Philosophy, Ethics & Religion",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Saint Lucy",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "saint-lucy-pantheon-profile",
-      "text": "Pantheon ranks Saint Lucy as a globally documented religious figure with biographies in 64 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Saint Lucy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "saint-lucy-1-origin",
+      "text": "Saint Lucy is remembered as a religious figure connected with Italy.",
+      "context": "Saint Lucy's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Saint Lucy",
       "sourceUrl": "https://pantheon.world/profile/person/Saint_Lucy",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-lucy-2-obstacle",
+      "text": "Saint Lucy's recorded life dates place this profile around 283-304.",
+      "context": "Saint Lucy's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Saint Lucy",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Lucy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-lucy-3-turning-point",
+      "text": "Saint Lucy is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Saint Lucy's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Saint Lucy",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Lucy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-lucy-4-contribution",
+      "text": "Saint Lucy's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Saint Lucy's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Saint Lucy",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Lucy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-lucy-5-influence",
+      "text": "Saint Lucy has a Facts Mode card reserved for deeper source research.",
+      "context": "Saint Lucy's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Saint Lucy",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_Lucy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

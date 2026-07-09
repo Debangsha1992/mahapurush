@@ -1,0 +1,46 @@
+{
+  "personId": "josip-broz-tito",
+  "slug": "josip-broz-tito",
+  "name": "Josip Broz Tito",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Josip Broz Tito",
+      "url": "https://pantheon.world/profile/person/Josip_Broz_Tito",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "josip-broz-tito-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Josip Broz Tito is remembered as a politician connected with Croatia."
+    },
+    {
+      "factId": "josip-broz-tito-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Josip Broz Tito's recorded life dates place this profile around 1892-1980."
+    },
+    {
+      "factId": "josip-broz-tito-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Josip Broz Tito is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "josip-broz-tito-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Josip Broz Tito's profile connects a short Fact to a wider Croatia historical setting."
+    },
+    {
+      "factId": "josip-broz-tito-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Josip Broz Tito has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

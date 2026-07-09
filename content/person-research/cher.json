@@ -1,0 +1,47 @@
+{
+  "personId": "cher",
+  "slug": "cher",
+  "name": "Cher",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Cher",
+      "url": "https://en.wikipedia.org/wiki/Cher",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "American singer and actress (born 1946)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "cher-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Cher is an American singer and actress."
+    },
+    {
+      "factId": "cher-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Cher's screen roles often reflect her public image as a strong-willed, outspoken woman."
+    },
+    {
+      "factId": "cher-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Cher is remembered as a singer connected with United States."
+    },
+    {
+      "factId": "cher-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Cher's recorded life dates place this profile around born 1946."
+    },
+    {
+      "factId": "cher-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Cher is grouped with Literature, Arts & Culture in the People Library."
+    }
+  ]
+}

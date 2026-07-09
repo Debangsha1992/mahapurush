@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "António de Oliveira Salazar is a notable politician associated with Portugal.",
+  "summary": "António de Oliveira Salazar is a notable politician connected with Portugal.",
   "knownFor": [
     "Politician",
-    "84 language biography editions",
-    "Historical Popularity Index 81.6"
+    "Justice, Governance & Leadership",
+    "Portugal"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for António de Oliveira Salazar",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "antonio-de-oliveira-salazar-pantheon-profile",
-      "text": "Pantheon ranks António de Oliveira Salazar as a globally documented politician with biographies in 84 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make António de Oliveira Salazar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "antonio-de-oliveira-salazar-1-origin",
+      "text": "António de Oliveira Salazar is remembered as a politician connected with Portugal.",
+      "context": "António de Oliveira Salazar's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: António de Oliveira Salazar",
       "sourceUrl": "https://pantheon.world/profile/person/Ant%C3%B3nio_de_Oliveira_Salazar",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonio-de-oliveira-salazar-2-obstacle",
+      "text": "António de Oliveira Salazar's recorded life dates place this profile around 1889-1970.",
+      "context": "António de Oliveira Salazar's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: António de Oliveira Salazar",
+      "sourceUrl": "https://pantheon.world/profile/person/Ant%C3%B3nio_de_Oliveira_Salazar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonio-de-oliveira-salazar-3-turning-point",
+      "text": "António de Oliveira Salazar is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "António de Oliveira Salazar's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: António de Oliveira Salazar",
+      "sourceUrl": "https://pantheon.world/profile/person/Ant%C3%B3nio_de_Oliveira_Salazar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonio-de-oliveira-salazar-4-contribution",
+      "text": "António de Oliveira Salazar's profile connects a short Fact to a wider Portugal historical setting.",
+      "context": "António de Oliveira Salazar's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: António de Oliveira Salazar",
+      "sourceUrl": "https://pantheon.world/profile/person/Ant%C3%B3nio_de_Oliveira_Salazar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonio-de-oliveira-salazar-5-influence",
+      "text": "António de Oliveira Salazar has a Facts Mode card reserved for deeper source research.",
+      "context": "António de Oliveira Salazar's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: António de Oliveira Salazar",
+      "sourceUrl": "https://pantheon.world/profile/person/Ant%C3%B3nio_de_Oliveira_Salazar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "edgar-de-wahl",
+  "slug": "edgar-de-wahl",
+  "name": "Edgar de Wahl",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edgar de Wahl",
+      "url": "https://pantheon.world/profile/person/Edgar_de_Wahl",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edgar-de-wahl-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edgar de Wahl is remembered as a linguist connected with Ukraine."
+    },
+    {
+      "factId": "edgar-de-wahl-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edgar de Wahl's recorded life dates place this profile around 1867-1948."
+    },
+    {
+      "factId": "edgar-de-wahl-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edgar de Wahl is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "edgar-de-wahl-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edgar de Wahl's profile connects a short Fact to a wider Ukraine historical setting."
+    },
+    {
+      "factId": "edgar-de-wahl-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edgar de Wahl has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

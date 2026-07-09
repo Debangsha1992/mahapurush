@@ -1,0 +1,46 @@
+{
+  "personId": "patrick-swayze",
+  "slug": "patrick-swayze",
+  "name": "Patrick Swayze",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Patrick Swayze",
+      "url": "https://pantheon.world/profile/person/Patrick_Swayze",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "patrick-swayze-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Patrick Swayze is remembered as a actor connected with United States."
+    },
+    {
+      "factId": "patrick-swayze-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Patrick Swayze's recorded life dates place this profile around 1952-2009."
+    },
+    {
+      "factId": "patrick-swayze-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Patrick Swayze is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "patrick-swayze-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Patrick Swayze's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "patrick-swayze-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Patrick Swayze has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

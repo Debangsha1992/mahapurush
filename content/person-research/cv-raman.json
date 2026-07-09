@@ -1,0 +1,46 @@
+{
+  "personId": "cv-raman",
+  "slug": "cv-raman",
+  "name": "C. V. Raman",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Nobel Prize: C. V. Raman Facts",
+      "url": "https://www.nobelprize.org/prizes/physics/1930/raman/facts/",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "cv-raman-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "C. V. Raman is remembered as a scientist connected with India."
+    },
+    {
+      "factId": "cv-raman-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "C. V. Raman's recorded life dates place this profile around 1888-1970."
+    },
+    {
+      "factId": "cv-raman-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "C. V. Raman is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "cv-raman-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "C. V. Raman's profile connects a short Fact to a wider India historical setting."
+    },
+    {
+      "factId": "cv-raman-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "C. V. Raman has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

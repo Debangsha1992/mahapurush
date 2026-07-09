@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Ernest Hemingway is a notable writer associated with United States.",
+  "summary": "Ernest Hemingway is a notable writer connected with United States.",
   "knownFor": [
     "Writer",
-    "151 language biography editions",
-    "Historical Popularity Index 85.0"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 442,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ernest-hemingway-pantheon-profile",
-      "text": "Pantheon ranks Ernest Hemingway as a globally documented writer with biographies in 151 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ernest Hemingway a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ernest-hemingway-1-origin",
+      "text": "Ernest Hemingway is remembered as a writer connected with United States.",
+      "context": "Ernest Hemingway's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Ernest Hemingway",
       "sourceUrl": "https://pantheon.world/profile/person/Ernest_Hemingway",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ernest-hemingway-2-obstacle",
+      "text": "Ernest Hemingway's recorded life dates place this profile around 1899-1961.",
+      "context": "Ernest Hemingway's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ernest Hemingway",
+      "sourceUrl": "https://pantheon.world/profile/person/Ernest_Hemingway",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ernest-hemingway-3-turning-point",
+      "text": "Ernest Hemingway is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Ernest Hemingway's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ernest Hemingway",
+      "sourceUrl": "https://pantheon.world/profile/person/Ernest_Hemingway",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ernest-hemingway-4-contribution",
+      "text": "Ernest Hemingway's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Ernest Hemingway's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ernest Hemingway",
+      "sourceUrl": "https://pantheon.world/profile/person/Ernest_Hemingway",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ernest-hemingway-5-influence",
+      "text": "Ernest Hemingway has a Facts Mode card reserved for deeper source research.",
+      "context": "Ernest Hemingway's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ernest Hemingway",
+      "sourceUrl": "https://pantheon.world/profile/person/Ernest_Hemingway",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

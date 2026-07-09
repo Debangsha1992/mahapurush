@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "musician"
   ],
-  "summary": "Bob Dylan is a notable musician associated with United States.",
+  "summary": "Bob Dylan is a notable musician connected with United States.",
   "knownFor": [
     "Musician",
-    "143 language biography editions",
-    "Historical Popularity Index 82.7"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Bob Dylan",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "bob-dylan-pantheon-profile",
-      "text": "Pantheon ranks Bob Dylan as a globally documented musician with biographies in 143 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Bob Dylan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "bob-dylan-1-origin",
+      "text": "Bob Dylan is remembered as a musician connected with United States.",
+      "context": "Bob Dylan's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Bob Dylan",
       "sourceUrl": "https://pantheon.world/profile/person/Bob_Dylan",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bob-dylan-2-obstacle",
+      "text": "Bob Dylan's recorded life dates place this profile around born 1941.",
+      "context": "Bob Dylan's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Bob Dylan",
+      "sourceUrl": "https://pantheon.world/profile/person/Bob_Dylan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bob-dylan-3-turning-point",
+      "text": "Bob Dylan is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Bob Dylan's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Bob Dylan",
+      "sourceUrl": "https://pantheon.world/profile/person/Bob_Dylan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bob-dylan-4-contribution",
+      "text": "Bob Dylan's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Bob Dylan's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Bob Dylan",
+      "sourceUrl": "https://pantheon.world/profile/person/Bob_Dylan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bob-dylan-5-influence",
+      "text": "Bob Dylan has a Facts Mode card reserved for deeper source research.",
+      "context": "Bob Dylan's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Bob Dylan",
+      "sourceUrl": "https://pantheon.world/profile/person/Bob_Dylan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

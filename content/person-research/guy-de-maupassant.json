@@ -1,0 +1,46 @@
+{
+  "personId": "guy-de-maupassant",
+  "slug": "guy-de-maupassant",
+  "name": "Guy de Maupassant",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Guy de Maupassant",
+      "url": "https://pantheon.world/profile/person/Guy_de_Maupassant",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "guy-de-maupassant-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Guy de Maupassant is remembered as a writer connected with France."
+    },
+    {
+      "factId": "guy-de-maupassant-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Guy de Maupassant's recorded life dates place this profile around 1850-1893."
+    },
+    {
+      "factId": "guy-de-maupassant-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Guy de Maupassant is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "guy-de-maupassant-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Guy de Maupassant's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "guy-de-maupassant-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Guy de Maupassant has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

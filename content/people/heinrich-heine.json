@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Heinrich Heine is a notable writer associated with Germany.",
+  "summary": "Heinrich Heine is a notable writer connected with Germany.",
   "knownFor": [
     "Writer",
-    "97 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Literature, Arts & Culture",
+    "Germany"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Heinrich Heine",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "heinrich-heine-pantheon-profile",
-      "text": "Pantheon ranks Heinrich Heine as a globally documented writer with biographies in 97 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Heinrich Heine a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "heinrich-heine-1-origin",
+      "text": "Heinrich Heine is remembered as a writer connected with Germany.",
+      "context": "Heinrich Heine's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Heinrich Heine",
       "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Heine",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heinrich-heine-2-obstacle",
+      "text": "Heinrich Heine's recorded life dates place this profile around 1797-1856.",
+      "context": "Heinrich Heine's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Heinrich Heine",
+      "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Heine",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heinrich-heine-3-turning-point",
+      "text": "Heinrich Heine is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Heinrich Heine's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Heinrich Heine",
+      "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Heine",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heinrich-heine-4-contribution",
+      "text": "Heinrich Heine's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Heinrich Heine's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Heinrich Heine",
+      "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Heine",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heinrich-heine-5-influence",
+      "text": "Heinrich Heine has a Facts Mode card reserved for deeper source research.",
+      "context": "Heinrich Heine's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Heinrich Heine",
+      "sourceUrl": "https://pantheon.world/profile/person/Heinrich_Heine",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

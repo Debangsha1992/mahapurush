@@ -1,0 +1,46 @@
+{
+  "personId": "ibn-battuta",
+  "slug": "ibn-battuta",
+  "name": "Ibn Battuta",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ibn Battuta",
+      "url": "https://pantheon.world/profile/person/Ibn_Battuta",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ibn-battuta-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Battuta is remembered as a explorer connected with Morocco."
+    },
+    {
+      "factId": "ibn-battuta-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Battuta's recorded life dates place this profile around 1304-1368."
+    },
+    {
+      "factId": "ibn-battuta-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Battuta is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "ibn-battuta-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Battuta's profile connects a short Fact to a wider Morocco historical setting."
+    },
+    {
+      "factId": "ibn-battuta-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Battuta has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

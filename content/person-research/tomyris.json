@@ -1,0 +1,46 @@
+{
+  "personId": "tomyris",
+  "slug": "tomyris",
+  "name": "Tomyris",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Tomyris",
+      "url": "https://pantheon.world/profile/person/Tomyris",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "tomyris-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Tomyris is remembered as a politician connected with Kazakhstan."
+    },
+    {
+      "factId": "tomyris-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Tomyris's recorded life dates place this profile around -600--600."
+    },
+    {
+      "factId": "tomyris-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Tomyris is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "tomyris-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Tomyris's profile connects a short Fact to a wider Kazakhstan historical setting."
+    },
+    {
+      "factId": "tomyris-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Tomyris has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

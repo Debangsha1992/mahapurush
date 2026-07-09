@@ -1,0 +1,46 @@
+{
+  "personId": "pope-innocent-x",
+  "slug": "pope-innocent-x",
+  "name": "Pope Innocent X",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Innocent X",
+      "url": "https://pantheon.world/profile/person/Pope_Innocent_X",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-innocent-x-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent X is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-innocent-x-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent X's recorded life dates place this profile around 1574-1655."
+    },
+    {
+      "factId": "pope-innocent-x-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent X is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-innocent-x-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent X's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-innocent-x-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent X has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

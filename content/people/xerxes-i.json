@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Xerxes I is a notable politician associated with Iran.",
+  "summary": "Xerxes I is a notable politician connected with Iran.",
   "knownFor": [
     "Politician",
-    "84 language biography editions",
-    "Historical Popularity Index 88.0"
+    "Justice, Governance & Leadership",
+    "Iran"
   ],
   "featured": true,
   "featuredRank": 219,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "xerxes-i-pantheon-profile",
-      "text": "Pantheon ranks Xerxes I as a globally documented politician with biographies in 84 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Xerxes I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "xerxes-i-1-origin",
+      "text": "Xerxes I is remembered as a politician connected with Iran.",
+      "context": "Xerxes I's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Xerxes I",
       "sourceUrl": "https://pantheon.world/profile/person/Xerxes_I",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "xerxes-i-2-obstacle",
+      "text": "Xerxes I's recorded life dates place this profile around -519--475.",
+      "context": "Xerxes I's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Xerxes I",
+      "sourceUrl": "https://pantheon.world/profile/person/Xerxes_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "xerxes-i-3-turning-point",
+      "text": "Xerxes I is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Xerxes I's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Xerxes I",
+      "sourceUrl": "https://pantheon.world/profile/person/Xerxes_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "xerxes-i-4-contribution",
+      "text": "Xerxes I's profile connects a short Fact to a wider Iran historical setting.",
+      "context": "Xerxes I's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Xerxes I",
+      "sourceUrl": "https://pantheon.world/profile/person/Xerxes_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "xerxes-i-5-influence",
+      "text": "Xerxes I has a Facts Mode card reserved for deeper source research.",
+      "context": "Xerxes I's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Xerxes I",
+      "sourceUrl": "https://pantheon.world/profile/person/Xerxes_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

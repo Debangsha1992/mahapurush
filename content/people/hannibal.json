@@ -12,35 +12,103 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Hannibal is a notable politician associated with Tunisia.",
+  "summary": "Hannibal was a Carthaginian general and statesman who commanded the forces of Carthage in their battle against the Roman Republic during the Second Punic War.",
   "knownFor": [
     "Politician",
-    "114 language biography editions",
-    "Historical Popularity Index 86.6"
+    "Justice, Governance & Leadership",
+    "Tunisia"
   ],
   "featured": true,
   "featuredRank": 308,
   "imageAlt": "Portrait-style visual for Hannibal",
   "sourceRefs": [
     {
-      "title": "Pantheon: Hannibal",
-      "url": "https://pantheon.world/profile/person/Hannibal",
+      "title": "Wikipedia: Hannibal",
+      "url": "https://en.wikipedia.org/wiki/Hannibal",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hannibal-pantheon-profile",
-      "text": "Pantheon ranks Hannibal as a globally documented politician with biographies in 114 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hannibal a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Hannibal",
-      "sourceUrl": "https://pantheon.world/profile/person/Hannibal",
+      "id": "hannibal-1-origin",
+      "text": "Hannibal was a Carthaginian general and statesman who commanded the forces of Carthage in their battle against the Roman Republic during the Second Punic War.",
+      "context": "Hannibal's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Hannibal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hannibal",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hannibal-2-obstacle",
+      "text": "Hannibal lived during a period of great tension in the Mediterranean Basin, triggered by the emergence of the Roman Republic as a great power with its defeat of Carthage in the First Punic War.",
+      "context": "Hannibal's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Hannibal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hannibal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hannibal-3-turning-point",
+      "text": "Revanchism prevailed in Carthage, symbolized by the pledge that Hannibal made to his father to \"never be a friend of Rome\".",
+      "context": "Hannibal's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Hannibal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hannibal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hannibal-4-contribution",
+      "text": "Hannibal is remembered as a politician connected with Tunisia.",
+      "context": "Hannibal's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Hannibal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hannibal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hannibal-5-influence",
+      "text": "Hannibal's recorded life dates place this profile around -247--183.",
+      "context": "Hannibal's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Hannibal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hannibal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

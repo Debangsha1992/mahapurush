@@ -1,0 +1,46 @@
+{
+  "personId": "evangelista-torricelli",
+  "slug": "evangelista-torricelli",
+  "name": "Evangelista Torricelli",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Evangelista Torricelli",
+      "url": "https://pantheon.world/profile/person/Evangelista_Torricelli",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "evangelista-torricelli-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Evangelista Torricelli is remembered as a physicist connected with Italy."
+    },
+    {
+      "factId": "evangelista-torricelli-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Evangelista Torricelli's recorded life dates place this profile around 1608-1647."
+    },
+    {
+      "factId": "evangelista-torricelli-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Evangelista Torricelli is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "evangelista-torricelli-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Evangelista Torricelli's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "evangelista-torricelli-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Evangelista Torricelli has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

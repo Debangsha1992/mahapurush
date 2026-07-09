@@ -1,0 +1,46 @@
+{
+  "personId": "saint-nicholas",
+  "slug": "saint-nicholas",
+  "name": "Saint Nicholas",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Saint Nicholas",
+      "url": "https://pantheon.world/profile/person/Saint_Nicholas",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saint-nicholas-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Saint Nicholas is remembered as a religious figure connected with Türkiye."
+    },
+    {
+      "factId": "saint-nicholas-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Saint Nicholas's recorded life dates place this profile around 270-342."
+    },
+    {
+      "factId": "saint-nicholas-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Saint Nicholas is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "saint-nicholas-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Saint Nicholas's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "saint-nicholas-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Saint Nicholas has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

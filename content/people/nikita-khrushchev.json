@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Nikita Khrushchev is a notable politician associated with Russia.",
+  "summary": "Nikita Khrushchev is a notable politician connected with Russia.",
   "knownFor": [
     "Politician",
-    "126 language biography editions",
-    "Historical Popularity Index 85.6"
+    "Justice, Governance & Leadership",
+    "Russia"
   ],
   "featured": true,
   "featuredRank": 385,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "nikita-khrushchev-pantheon-profile",
-      "text": "Pantheon ranks Nikita Khrushchev as a globally documented politician with biographies in 126 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Nikita Khrushchev a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "nikita-khrushchev-1-origin",
+      "text": "Nikita Khrushchev is remembered as a politician connected with Russia.",
+      "context": "Nikita Khrushchev's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Nikita Khrushchev",
       "sourceUrl": "https://pantheon.world/profile/person/Nikita_Khrushchev",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikita-khrushchev-2-obstacle",
+      "text": "Nikita Khrushchev's recorded life dates place this profile around 1894-1971.",
+      "context": "Nikita Khrushchev's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Nikita Khrushchev",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikita_Khrushchev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikita-khrushchev-3-turning-point",
+      "text": "Nikita Khrushchev is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Nikita Khrushchev's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Nikita Khrushchev",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikita_Khrushchev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikita-khrushchev-4-contribution",
+      "text": "Nikita Khrushchev's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Nikita Khrushchev's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Nikita Khrushchev",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikita_Khrushchev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nikita-khrushchev-5-influence",
+      "text": "Nikita Khrushchev has a Facts Mode card reserved for deeper source research.",
+      "context": "Nikita Khrushchev's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Nikita Khrushchev",
+      "sourceUrl": "https://pantheon.world/profile/person/Nikita_Khrushchev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

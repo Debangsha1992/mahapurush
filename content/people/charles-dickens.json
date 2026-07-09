@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Charles Dickens is a notable writer associated with United Kingdom.",
+  "summary": "Charles Dickens is a notable writer connected with United Kingdom.",
   "knownFor": [
     "Writer",
-    "169 language biography editions",
-    "Historical Popularity Index 85.2"
+    "Literature, Arts & Culture",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 421,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "charles-dickens-pantheon-profile",
-      "text": "Pantheon ranks Charles Dickens as a globally documented writer with biographies in 169 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles Dickens a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "charles-dickens-1-origin",
+      "text": "Charles Dickens is remembered as a writer connected with United Kingdom.",
+      "context": "Charles Dickens's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Charles Dickens",
       "sourceUrl": "https://pantheon.world/profile/person/Charles_Dickens",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-dickens-2-obstacle",
+      "text": "Charles Dickens's recorded life dates place this profile around 1812-1870.",
+      "context": "Charles Dickens's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Charles Dickens",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Dickens",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-dickens-3-turning-point",
+      "text": "Charles Dickens is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Charles Dickens's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Charles Dickens",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Dickens",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-dickens-4-contribution",
+      "text": "Charles Dickens's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Charles Dickens's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Charles Dickens",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Dickens",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-dickens-5-influence",
+      "text": "Charles Dickens has a Facts Mode card reserved for deeper source research.",
+      "context": "Charles Dickens's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Charles Dickens",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Dickens",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

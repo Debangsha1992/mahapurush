@@ -1,0 +1,46 @@
+{
+  "personId": "ayrton-senna",
+  "slug": "ayrton-senna",
+  "name": "Ayrton Senna",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Ayrton Senna",
+      "url": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ayrton-senna-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ayrton Senna is remembered as a racing driver connected with Brazil."
+    },
+    {
+      "factId": "ayrton-senna-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ayrton Senna's recorded life dates place this profile around 1960-1994."
+    },
+    {
+      "factId": "ayrton-senna-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ayrton Senna is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ayrton-senna-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ayrton Senna's profile connects a short Fact to a wider Brazil historical setting."
+    },
+    {
+      "factId": "ayrton-senna-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ayrton Senna has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

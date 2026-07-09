@@ -1,0 +1,46 @@
+{
+  "personId": "richard-nixon",
+  "slug": "richard-nixon",
+  "name": "Richard Nixon",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Richard Nixon",
+      "url": "https://pantheon.world/profile/person/Richard_Nixon",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "richard-nixon-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Richard Nixon is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "richard-nixon-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Richard Nixon's recorded life dates place this profile around 1913-1994."
+    },
+    {
+      "factId": "richard-nixon-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Richard Nixon is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "richard-nixon-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Richard Nixon's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "richard-nixon-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Richard Nixon has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

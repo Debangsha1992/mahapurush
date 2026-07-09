@@ -1,0 +1,46 @@
+{
+  "personId": "james-son-of-zebedee",
+  "slug": "james-son-of-zebedee",
+  "name": "James, son of Zebedee",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James, son of Zebedee",
+      "url": "https://pantheon.world/profile/person/James%2C_son_of_Zebedee",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-son-of-zebedee-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James, son of Zebedee is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "james-son-of-zebedee-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James, son of Zebedee's recorded life dates place this profile around 1-44."
+    },
+    {
+      "factId": "james-son-of-zebedee-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James, son of Zebedee is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "james-son-of-zebedee-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James, son of Zebedee's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "james-son-of-zebedee-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James, son of Zebedee has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "michel-foucault",
+  "slug": "michel-foucault",
+  "name": "Michel Foucault",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Michel Foucault",
+      "url": "https://pantheon.world/profile/person/Michel_Foucault",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "michel-foucault-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Michel Foucault is remembered as a philosopher connected with France."
+    },
+    {
+      "factId": "michel-foucault-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Michel Foucault's recorded life dates place this profile around 1926-1984."
+    },
+    {
+      "factId": "michel-foucault-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Michel Foucault is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "michel-foucault-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Michel Foucault's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "michel-foucault-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Michel Foucault has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

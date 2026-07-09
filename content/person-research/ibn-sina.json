@@ -1,0 +1,46 @@
+{
+  "personId": "ibn-sina",
+  "slug": "ibn-sina",
+  "name": "Ibn Sina",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica: Avicenna",
+      "url": "https://www.britannica.com/biography/Avicenna",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ibn-sina-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Sina is remembered as a scientist connected with Persia, Central Asia."
+    },
+    {
+      "factId": "ibn-sina-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Sina's recorded life dates place this profile around 980-1037."
+    },
+    {
+      "factId": "ibn-sina-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Sina is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "ibn-sina-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Sina's profile connects a short Fact to a wider Persia, Central Asia historical setting."
+    },
+    {
+      "factId": "ibn-sina-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Sina has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

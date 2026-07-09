@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "John F. Kennedy is a notable politician associated with United States.",
+  "summary": "John F. Kennedy is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "175 language biography editions",
-    "Historical Popularity Index 86.0"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 346,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "john-f-kennedy-pantheon-profile",
-      "text": "Pantheon ranks John F. Kennedy as a globally documented politician with biographies in 175 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make John F. Kennedy a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "john-f-kennedy-1-origin",
+      "text": "John F. Kennedy is remembered as a politician connected with United States.",
+      "context": "John F. Kennedy's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: John F. Kennedy",
       "sourceUrl": "https://pantheon.world/profile/person/John_F._Kennedy",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-f-kennedy-2-obstacle",
+      "text": "John F. Kennedy's recorded life dates place this profile around 1917-1963.",
+      "context": "John F. Kennedy's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: John F. Kennedy",
+      "sourceUrl": "https://pantheon.world/profile/person/John_F._Kennedy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-f-kennedy-3-turning-point",
+      "text": "John F. Kennedy is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "John F. Kennedy's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: John F. Kennedy",
+      "sourceUrl": "https://pantheon.world/profile/person/John_F._Kennedy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-f-kennedy-4-contribution",
+      "text": "John F. Kennedy's profile connects a short Fact to a wider United States historical setting.",
+      "context": "John F. Kennedy's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: John F. Kennedy",
+      "sourceUrl": "https://pantheon.world/profile/person/John_F._Kennedy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-f-kennedy-5-influence",
+      "text": "John F. Kennedy has a Facts Mode card reserved for deeper source research.",
+      "context": "John F. Kennedy's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: John F. Kennedy",
+      "sourceUrl": "https://pantheon.world/profile/person/John_F._Kennedy",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

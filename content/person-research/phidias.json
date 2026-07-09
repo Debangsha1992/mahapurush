@@ -1,0 +1,47 @@
+{
+  "personId": "phidias",
+  "slug": "phidias",
+  "name": "Phidias",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Phidias",
+      "url": "https://en.wikipedia.org/wiki/Phidias",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Greek sculptor, painter and architect (c.480–430 BC)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "phidias-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Phidias or Pheidias was an Ancient Greek sculptor, painter, and architect, active in the 5th century BC."
+    },
+    {
+      "factId": "phidias-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Phidias's Statue of Zeus at Olympia was one of the Seven Wonders of the Ancient World."
+    },
+    {
+      "factId": "phidias-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Phidias also designed the statues of the goddess Athena on the Athenian Acropolis, namely the Athena Parthenos inside the Parthenon, and the Athena Promachos, a colossal bronze which stood between it and the Propylaea, a monumental gateway that served as the entrance to the Acropolis in Athens."
+    },
+    {
+      "factId": "phidias-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Phidias was the son of Charmides of Athens."
+    },
+    {
+      "factId": "phidias-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Phidias is remembered as a sculptor connected with Greece."
+    }
+  ]
+}

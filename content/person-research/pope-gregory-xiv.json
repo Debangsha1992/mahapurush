@@ -1,0 +1,46 @@
+{
+  "personId": "pope-gregory-xiv",
+  "slug": "pope-gregory-xiv",
+  "name": "Pope Gregory XIV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Gregory XIV",
+      "url": "https://pantheon.world/profile/person/Pope_Gregory_XIV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-gregory-xiv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XIV is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-gregory-xiv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XIV's recorded life dates place this profile around 1535-1591."
+    },
+    {
+      "factId": "pope-gregory-xiv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XIV is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-gregory-xiv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XIV's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-gregory-xiv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XIV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

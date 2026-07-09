@@ -1,0 +1,46 @@
+{
+  "personId": "galileo-galilei",
+  "slug": "galileo-galilei",
+  "name": "Galileo Galilei",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Galileo Galilei",
+      "url": "https://pantheon.world/profile/person/Galileo_Galilei",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "galileo-galilei-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Galileo Galilei is remembered as a astronomer connected with Italy."
+    },
+    {
+      "factId": "galileo-galilei-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Galileo Galilei's recorded life dates place this profile around 1564-1642."
+    },
+    {
+      "factId": "galileo-galilei-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Galileo Galilei is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "galileo-galilei-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Galileo Galilei's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "galileo-galilei-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Galileo Galilei has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

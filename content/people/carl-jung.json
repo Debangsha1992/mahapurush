@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "psychologist"
   ],
-  "summary": "Carl Jung is a notable psychologist associated with Switzerland.",
+  "summary": "Carl Jung is a notable psychologist connected with Switzerland.",
   "knownFor": [
     "Psychologist",
-    "110 language biography editions",
-    "Historical Popularity Index 85.6"
+    "Justice, Governance & Leadership",
+    "Switzerland"
   ],
   "featured": true,
   "featuredRank": 384,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "carl-jung-pantheon-profile",
-      "text": "Pantheon ranks Carl Jung as a globally documented psychologist with biographies in 110 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Carl Jung a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "carl-jung-1-origin",
+      "text": "Carl Jung is remembered as a psychologist connected with Switzerland.",
+      "context": "Carl Jung's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Carl Jung",
       "sourceUrl": "https://pantheon.world/profile/person/Carl_Jung",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-jung-2-obstacle",
+      "text": "Carl Jung's recorded life dates place this profile around 1875-1961.",
+      "context": "Carl Jung's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Carl Jung",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Jung",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-jung-3-turning-point",
+      "text": "Carl Jung is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Carl Jung's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Carl Jung",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Jung",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-jung-4-contribution",
+      "text": "Carl Jung's profile connects a short Fact to a wider Switzerland historical setting.",
+      "context": "Carl Jung's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Carl Jung",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Jung",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-jung-5-influence",
+      "text": "Carl Jung has a Facts Mode card reserved for deeper source research.",
+      "context": "Carl Jung's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Carl Jung",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Jung",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

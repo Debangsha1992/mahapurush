@@ -1,0 +1,46 @@
+{
+  "personId": "alexander-pushkin",
+  "slug": "alexander-pushkin",
+  "name": "Alexander Pushkin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Alexander Pushkin",
+      "url": "https://pantheon.world/profile/person/Alexander_Pushkin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "alexander-pushkin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Pushkin is remembered as a writer connected with Russia."
+    },
+    {
+      "factId": "alexander-pushkin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Pushkin's recorded life dates place this profile around 1799-1837."
+    },
+    {
+      "factId": "alexander-pushkin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Pushkin is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "alexander-pushkin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Pushkin's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "alexander-pushkin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Alexander Pushkin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "luke-the-evangelist",
+  "slug": "luke-the-evangelist",
+  "name": "Luke the Evangelist",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Luke the Evangelist",
+      "url": "https://pantheon.world/profile/person/Luke_the_Evangelist",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "luke-the-evangelist-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Luke the Evangelist is remembered as a religious figure connected with Türkiye."
+    },
+    {
+      "factId": "luke-the-evangelist-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Luke the Evangelist's recorded life dates place this profile around 31-84."
+    },
+    {
+      "factId": "luke-the-evangelist-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Luke the Evangelist is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "luke-the-evangelist-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Luke the Evangelist's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "luke-the-evangelist-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Luke the Evangelist has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

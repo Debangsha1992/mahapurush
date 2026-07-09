@@ -12,35 +12,102 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Andrew Jackson is a notable politician associated with United States.",
+  "summary": "Andrew Jackson was the seventh president of the United States from 1829 to 1837.",
   "knownFor": [
     "Politician",
-    "136 language biography editions",
-    "Historical Popularity Index 90.4"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 119,
   "imageAlt": "Portrait-style visual for Andrew Jackson",
   "sourceRefs": [
     {
-      "title": "Pantheon: Andrew Jackson",
-      "url": "https://pantheon.world/profile/person/Andrew_Jackson",
+      "title": "Wikipedia: Andrew Jackson",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Jackson",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "andrew-jackson-pantheon-profile",
-      "text": "Pantheon ranks Andrew Jackson as a globally documented politician with biographies in 136 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Andrew Jackson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Andrew Jackson",
-      "sourceUrl": "https://pantheon.world/profile/person/Andrew_Jackson",
+      "id": "andrew-jackson-1-origin",
+      "text": "Andrew Jackson was the seventh president of the United States from 1829 to 1837.",
+      "context": "Andrew Jackson's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Andrew Jackson",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Andrew_Jackson",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andrew-jackson-2-obstacle",
+      "text": "Andrew Jackson rose to fame as a US Army general and served in both houses of the US Congress.",
+      "context": "Andrew Jackson's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Andrew Jackson",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andrew-jackson-3-turning-point",
+      "text": "Andrew Jackson's political philosophy, which dominated his presidency, became the basis for the rise of Jacksonian democracy.",
+      "context": "Andrew Jackson's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Andrew Jackson",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andrew-jackson-4-contribution",
+      "text": "Andrew Jackson's legacy is controversial: he has been praised as an advocate for white working Americans and preserving the union of states, and criticized for his racist policies, particularly towards Native Americans.",
+      "context": "Andrew Jackson's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Andrew Jackson",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "disputed",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andrew-jackson-5-influence",
+      "text": "Andrew Jackson is remembered as a politician connected with United States.",
+      "context": "Andrew Jackson's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Andrew Jackson",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

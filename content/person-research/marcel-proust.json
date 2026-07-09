@@ -1,0 +1,46 @@
+{
+  "personId": "marcel-proust",
+  "slug": "marcel-proust",
+  "name": "Marcel Proust",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Marcel Proust",
+      "url": "https://pantheon.world/profile/person/Marcel_Proust",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "marcel-proust-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Marcel Proust is remembered as a writer connected with France."
+    },
+    {
+      "factId": "marcel-proust-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Marcel Proust's recorded life dates place this profile around 1871-1922."
+    },
+    {
+      "factId": "marcel-proust-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Marcel Proust is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "marcel-proust-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Marcel Proust's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "marcel-proust-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Marcel Proust has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "nikola-tesla",
+  "slug": "nikola-tesla",
+  "name": "Nikola Tesla",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Nikola Tesla",
+      "url": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Serbian-American engineer and inventor (1856–1943)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "nikola-tesla-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Nikola Tesla was a Serbian-American engineer, futurist, and inventor."
+    },
+    {
+      "factId": "nikola-tesla-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Nikola Tesla is known for his contributions to the design of the modern alternating current (AC) electricity supply system."
+    },
+    {
+      "factId": "nikola-tesla-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Nikola Tesla is remembered as a inventor connected with Croatia."
+    },
+    {
+      "factId": "nikola-tesla-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Nikola Tesla's recorded life dates place this profile around 1856-1943."
+    },
+    {
+      "factId": "nikola-tesla-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Nikola Tesla is grouped with Science, Math & Technology in the People Library."
+    }
+  ]
+}

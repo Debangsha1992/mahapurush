@@ -1,0 +1,46 @@
+{
+  "personId": "catherine-of-aragon",
+  "slug": "catherine-of-aragon",
+  "name": "Catherine of Aragon",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Catherine of Aragon",
+      "url": "https://pantheon.world/profile/person/Catherine_of_Aragon",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "catherine-of-aragon-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Catherine of Aragon is remembered as a religious figure connected with Spain."
+    },
+    {
+      "factId": "catherine-of-aragon-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Catherine of Aragon's recorded life dates place this profile around 1485-1536."
+    },
+    {
+      "factId": "catherine-of-aragon-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Catherine of Aragon is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "catherine-of-aragon-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Catherine of Aragon's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "catherine-of-aragon-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Catherine of Aragon has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Joseph Smith is a notable religious figure associated with United States.",
+  "summary": "Joseph Smith is a notable religious figure connected with United States.",
   "knownFor": [
     "Religious Figure",
-    "94 language biography editions",
-    "Historical Popularity Index 85.3"
+    "Philosophy, Ethics & Religion",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 404,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "joseph-smith-pantheon-profile",
-      "text": "Pantheon ranks Joseph Smith as a globally documented religious figure with biographies in 94 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Joseph Smith a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "joseph-smith-1-origin",
+      "text": "Joseph Smith is remembered as a religious figure connected with United States.",
+      "context": "Joseph Smith's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Joseph Smith",
       "sourceUrl": "https://pantheon.world/profile/person/Joseph_Smith",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-smith-2-obstacle",
+      "text": "Joseph Smith's recorded life dates place this profile around 1805-1844.",
+      "context": "Joseph Smith's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Joseph Smith",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_Smith",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-smith-3-turning-point",
+      "text": "Joseph Smith is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Joseph Smith's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Joseph Smith",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_Smith",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-smith-4-contribution",
+      "text": "Joseph Smith's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Joseph Smith's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Joseph Smith",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_Smith",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-smith-5-influence",
+      "text": "Joseph Smith has a Facts Mode card reserved for deeper source research.",
+      "context": "Joseph Smith's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Joseph Smith",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph_Smith",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

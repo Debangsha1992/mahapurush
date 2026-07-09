@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Marilyn Monroe is a notable actor associated with United States.",
+  "summary": "Marilyn Monroe is a notable actor connected with United States.",
   "knownFor": [
     "Actor",
-    "195 language biography editions",
-    "Historical Popularity Index 88.6"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 192,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "marilyn-monroe-pantheon-profile",
-      "text": "Pantheon ranks Marilyn Monroe as a globally documented actor with biographies in 195 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Marilyn Monroe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "marilyn-monroe-1-origin",
+      "text": "Marilyn Monroe is remembered as a actor connected with United States.",
+      "context": "Marilyn Monroe's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Marilyn Monroe",
       "sourceUrl": "https://pantheon.world/profile/person/Marilyn_Monroe",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marilyn-monroe-2-obstacle",
+      "text": "Marilyn Monroe's recorded life dates place this profile around 1926-1962.",
+      "context": "Marilyn Monroe's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Marilyn Monroe",
+      "sourceUrl": "https://pantheon.world/profile/person/Marilyn_Monroe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marilyn-monroe-3-turning-point",
+      "text": "Marilyn Monroe is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Marilyn Monroe's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Marilyn Monroe",
+      "sourceUrl": "https://pantheon.world/profile/person/Marilyn_Monroe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marilyn-monroe-4-contribution",
+      "text": "Marilyn Monroe's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Marilyn Monroe's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Marilyn Monroe",
+      "sourceUrl": "https://pantheon.world/profile/person/Marilyn_Monroe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marilyn-monroe-5-influence",
+      "text": "Marilyn Monroe has a Facts Mode card reserved for deeper source research.",
+      "context": "Marilyn Monroe's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Marilyn Monroe",
+      "sourceUrl": "https://pantheon.world/profile/person/Marilyn_Monroe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

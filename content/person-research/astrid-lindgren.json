@@ -1,0 +1,46 @@
+{
+  "personId": "astrid-lindgren",
+  "slug": "astrid-lindgren",
+  "name": "Astrid Lindgren",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Astrid Lindgren",
+      "url": "https://pantheon.world/profile/person/Astrid_Lindgren",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "astrid-lindgren-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Astrid Lindgren is remembered as a writer connected with Sweden."
+    },
+    {
+      "factId": "astrid-lindgren-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Astrid Lindgren's recorded life dates place this profile around 1907-2002."
+    },
+    {
+      "factId": "astrid-lindgren-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Astrid Lindgren is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "astrid-lindgren-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Astrid Lindgren's profile connects a short Fact to a wider Sweden historical setting."
+    },
+    {
+      "factId": "astrid-lindgren-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Astrid Lindgren has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

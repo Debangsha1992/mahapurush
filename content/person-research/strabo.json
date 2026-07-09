@@ -1,0 +1,46 @@
+{
+  "personId": "strabo",
+  "slug": "strabo",
+  "name": "Strabo",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Strabo",
+      "url": "https://pantheon.world/profile/person/Strabo",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "strabo-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Strabo is remembered as a geographer connected with Türkiye."
+    },
+    {
+      "factId": "strabo-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Strabo's recorded life dates place this profile around -64-23."
+    },
+    {
+      "factId": "strabo-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Strabo is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "strabo-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Strabo's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "strabo-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Strabo has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

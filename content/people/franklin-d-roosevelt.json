@@ -12,35 +12,102 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Franklin D. Roosevelt is a notable politician associated with United States.",
+  "summary": "Franklin Delano Roosevelt, also known as FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945.",
   "knownFor": [
     "Politician",
-    "180 language biography editions",
-    "Historical Popularity Index 85.9"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 355,
   "imageAlt": "Portrait-style visual for Franklin D. Roosevelt",
   "sourceRefs": [
     {
-      "title": "Pantheon: Franklin D. Roosevelt",
-      "url": "https://pantheon.world/profile/person/Franklin_D._Roosevelt",
+      "title": "Wikipedia: Franklin D. Roosevelt",
+      "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "franklin-d-roosevelt-pantheon-profile",
-      "text": "Pantheon ranks Franklin D. Roosevelt as a globally documented politician with biographies in 180 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Franklin D. Roosevelt a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Franklin D. Roosevelt",
-      "sourceUrl": "https://pantheon.world/profile/person/Franklin_D._Roosevelt",
+      "id": "franklin-d-roosevelt-1-origin",
+      "text": "Franklin Delano Franklin D. Roosevelt, also known as FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945.",
+      "context": "Franklin D. Roosevelt's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Franklin D. Roosevelt",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franklin-d-roosevelt-2-obstacle",
+      "text": "Franklin D. Roosevelt is the longest-serving US president and the only one to have served more than two terms.",
+      "context": "Franklin D. Roosevelt's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Franklin D. Roosevelt",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franklin-d-roosevelt-3-turning-point",
+      "text": "Franklin D. Roosevelt's first two terms were centered on combating the Great Depression, while his third and fourth focused on US involvement in World War II.",
+      "context": "Franklin D. Roosevelt's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Franklin D. Roosevelt",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franklin-d-roosevelt-4-contribution",
+      "text": "A member of the Democratic Party, Franklin D. Roosevelt served in the New York State Senate from 1911 to 1913 and as the 44th governor of New York from 1929 to 1932.",
+      "context": "Franklin D. Roosevelt's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Franklin D. Roosevelt",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franklin-d-roosevelt-5-influence",
+      "text": "Franklin D. Roosevelt is remembered as a politician connected with United States.",
+      "context": "Franklin D. Roosevelt's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Franklin D. Roosevelt",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

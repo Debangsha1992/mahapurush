@@ -1,0 +1,47 @@
+{
+  "personId": "george-w-bush",
+  "slug": "george-w-bush",
+  "name": "George W. Bush",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: George W. Bush",
+      "url": "https://en.wikipedia.org/wiki/George_W._Bush",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "President of the United States from 2001 to 2009"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "george-w-bush-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "George Walker George W. Bush is an American former politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009."
+    },
+    {
+      "factId": "george-w-bush-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "George W. Bush, the 41st president of the United States."
+    },
+    {
+      "factId": "george-w-bush-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "George W. Bush is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "george-w-bush-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "George W. Bush's recorded life dates place this profile around born 1946."
+    },
+    {
+      "factId": "george-w-bush-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "George W. Bush is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

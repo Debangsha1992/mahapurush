@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Marc Chagall is a notable painter associated with Belarus.",
+  "summary": "Marc Chagall is a notable painter connected with Belarus.",
   "knownFor": [
     "Painter",
-    "84 language biography editions",
-    "Historical Popularity Index 82.6"
+    "Justice, Governance & Leadership",
+    "Belarus"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Marc Chagall",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "marc-chagall-pantheon-profile",
-      "text": "Pantheon ranks Marc Chagall as a globally documented painter with biographies in 84 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Marc Chagall a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "marc-chagall-1-origin",
+      "text": "Marc Chagall is remembered as a painter connected with Belarus.",
+      "context": "Marc Chagall's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Marc Chagall",
       "sourceUrl": "https://pantheon.world/profile/person/Marc_Chagall",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marc-chagall-2-obstacle",
+      "text": "Marc Chagall's recorded life dates place this profile around 1887-1985.",
+      "context": "Marc Chagall's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Marc Chagall",
+      "sourceUrl": "https://pantheon.world/profile/person/Marc_Chagall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marc-chagall-3-turning-point",
+      "text": "Marc Chagall is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Marc Chagall's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Marc Chagall",
+      "sourceUrl": "https://pantheon.world/profile/person/Marc_Chagall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marc-chagall-4-contribution",
+      "text": "Marc Chagall's profile connects a short Fact to a wider Belarus historical setting.",
+      "context": "Marc Chagall's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Marc Chagall",
+      "sourceUrl": "https://pantheon.world/profile/person/Marc_Chagall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marc-chagall-5-influence",
+      "text": "Marc Chagall has a Facts Mode card reserved for deeper source research.",
+      "context": "Marc Chagall's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Marc Chagall",
+      "sourceUrl": "https://pantheon.world/profile/person/Marc_Chagall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

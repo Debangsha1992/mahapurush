@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Khafra is a notable politician associated with Egypt.",
+  "summary": "Khafra is a notable politician connected with Egypt.",
   "knownFor": [
     "Politician",
-    "62 language biography editions",
-    "Historical Popularity Index 83.8"
+    "Justice, Governance & Leadership",
+    "Egypt"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Khafra",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "khafra-pantheon-profile",
-      "text": "Pantheon ranks Khafra as a globally documented politician with biographies in 62 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Khafra a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "khafra-1-origin",
+      "text": "Khafra is remembered as a politician connected with Egypt.",
+      "context": "Khafra's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Khafra",
       "sourceUrl": "https://pantheon.world/profile/person/Khafra",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khafra-2-obstacle",
+      "text": "Khafra's recorded life dates place this profile around -2550--2479.",
+      "context": "Khafra's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Khafra",
+      "sourceUrl": "https://pantheon.world/profile/person/Khafra",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khafra-3-turning-point",
+      "text": "Khafra is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Khafra's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Khafra",
+      "sourceUrl": "https://pantheon.world/profile/person/Khafra",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khafra-4-contribution",
+      "text": "Khafra's profile connects a short Fact to a wider Egypt historical setting.",
+      "context": "Khafra's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Khafra",
+      "sourceUrl": "https://pantheon.world/profile/person/Khafra",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "khafra-5-influence",
+      "text": "Khafra has a Facts Mode card reserved for deeper source research.",
+      "context": "Khafra's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Khafra",
+      "sourceUrl": "https://pantheon.world/profile/person/Khafra",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

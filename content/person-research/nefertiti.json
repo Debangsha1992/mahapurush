@@ -1,0 +1,46 @@
+{
+  "personId": "nefertiti",
+  "slug": "nefertiti",
+  "name": "Nefertiti",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Nefertiti",
+      "url": "https://pantheon.world/profile/person/Nefertiti",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "nefertiti-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Nefertiti is remembered as a companion connected with Egypt."
+    },
+    {
+      "factId": "nefertiti-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Nefertiti's recorded life dates place this profile around -1400--1330."
+    },
+    {
+      "factId": "nefertiti-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Nefertiti is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "nefertiti-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Nefertiti's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "nefertiti-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Nefertiti has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

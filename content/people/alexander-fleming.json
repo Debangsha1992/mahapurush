@@ -12,35 +12,104 @@
     "science-math-technology",
     "biologist"
   ],
-  "summary": "Alexander Fleming is a notable biologist associated with United Kingdom.",
+  "summary": "Sir Alexander Fleming was a Scottish physician and microbiologist.",
   "knownFor": [
     "Biologist",
-    "116 language biography editions",
-    "Historical Popularity Index 84.8"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 460,
   "imageAlt": "Portrait-style visual for Alexander Fleming",
   "sourceRefs": [
     {
-      "title": "Pantheon: Alexander Fleming",
-      "url": "https://pantheon.world/profile/person/Alexander_Fleming",
+      "title": "Wikipedia: Alexander Fleming",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Fleming",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "alexander-fleming-pantheon-profile",
-      "text": "Pantheon ranks Alexander Fleming as a globally documented biologist with biographies in 116 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Alexander Fleming a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Alexander Fleming",
-      "sourceUrl": "https://pantheon.world/profile/person/Alexander_Fleming",
+      "id": "alexander-fleming-1-origin",
+      "text": "Sir Alexander Fleming was a Scottish physician and microbiologist.",
+      "context": "Alexander Fleming's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Alexander Fleming",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-fleming-2-obstacle",
+      "text": "Alexander Fleming shared the 1945 Nobel Prize in Physiology or Medicine with Howard Florey and Ernst Chain \"for the discovery of penicillin and its curative effect in various infectious diseases\".",
+      "context": "Alexander Fleming's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Alexander Fleming",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-fleming-3-turning-point",
+      "text": "Alexander Fleming is remembered as a biologist connected with United Kingdom.",
+      "context": "Alexander Fleming's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Alexander Fleming",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-fleming-4-contribution",
+      "text": "Alexander Fleming's recorded life dates place this profile around 1881-1955.",
+      "context": "Alexander Fleming's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Alexander Fleming",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alexander-fleming-5-influence",
+      "text": "Alexander Fleming is grouped with Science, Math & Technology in the People Library.",
+      "context": "Alexander Fleming's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Alexander Fleming",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

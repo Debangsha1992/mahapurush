@@ -1,0 +1,46 @@
+{
+  "personId": "mary-of-teck",
+  "slug": "mary-of-teck",
+  "name": "Mary of Teck",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mary of Teck",
+      "url": "https://pantheon.world/profile/person/Mary_of_Teck",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mary-of-teck-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mary of Teck is remembered as a companion connected with United Kingdom."
+    },
+    {
+      "factId": "mary-of-teck-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mary of Teck's recorded life dates place this profile around 1867-1953."
+    },
+    {
+      "factId": "mary-of-teck-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mary of Teck is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mary-of-teck-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mary of Teck's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "mary-of-teck-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mary of Teck has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

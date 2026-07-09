@@ -1,0 +1,46 @@
+{
+  "personId": "albert-prince-consort",
+  "slug": "albert-prince-consort",
+  "name": "Albert, Prince Consort",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Albert, Prince Consort",
+      "url": "https://pantheon.world/profile/person/Albert%2C_Prince_Consort",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "albert-prince-consort-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Albert, Prince Consort is remembered as a nobleman connected with Germany."
+    },
+    {
+      "factId": "albert-prince-consort-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Albert, Prince Consort's recorded life dates place this profile around 1819-1861."
+    },
+    {
+      "factId": "albert-prince-consort-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Albert, Prince Consort is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "albert-prince-consort-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Albert, Prince Consort's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "albert-prince-consort-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Albert, Prince Consort has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

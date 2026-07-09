@@ -1,0 +1,47 @@
+{
+  "personId": "benjamin-netanyahu",
+  "slug": "benjamin-netanyahu",
+  "name": "Benjamin Netanyahu",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Benjamin Netanyahu",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Prime Minister of Israel (1996–1999; 2009–2021; 2022–present)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "benjamin-netanyahu-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Benjamin Netanyahu, nicknamed \"Bibi\", is an Israeli politician and diplomat who has served as Prime Minister of Israel since 2022."
+    },
+    {
+      "factId": "benjamin-netanyahu-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Having previously held office from 1996 to 1999 and from 2009 to 2021, Benjamin Netanyahu is Israel's longest-serving prime minister."
+    },
+    {
+      "factId": "benjamin-netanyahu-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Benjamin Netanyahu is remembered as a politician connected with Israel."
+    },
+    {
+      "factId": "benjamin-netanyahu-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Benjamin Netanyahu's recorded life dates place this profile around born 1949."
+    },
+    {
+      "factId": "benjamin-netanyahu-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Benjamin Netanyahu is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

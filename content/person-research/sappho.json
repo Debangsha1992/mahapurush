@@ -1,0 +1,46 @@
+{
+  "personId": "sappho",
+  "slug": "sappho",
+  "name": "Sappho",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Sappho",
+      "url": "https://pantheon.world/profile/person/Sappho",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sappho-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Sappho is remembered as a writer connected with Greece."
+    },
+    {
+      "factId": "sappho-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Sappho's recorded life dates place this profile around -630--570."
+    },
+    {
+      "factId": "sappho-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Sappho is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "sappho-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Sappho's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "sappho-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sappho has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

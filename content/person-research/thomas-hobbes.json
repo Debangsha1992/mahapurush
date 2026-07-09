@@ -1,0 +1,46 @@
+{
+  "personId": "thomas-hobbes",
+  "slug": "thomas-hobbes",
+  "name": "Thomas Hobbes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Thomas Hobbes",
+      "url": "https://pantheon.world/profile/person/Thomas_Hobbes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "thomas-hobbes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Hobbes is remembered as a philosopher connected with United Kingdom."
+    },
+    {
+      "factId": "thomas-hobbes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Hobbes's recorded life dates place this profile around 1588-1679."
+    },
+    {
+      "factId": "thomas-hobbes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Hobbes is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "thomas-hobbes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Hobbes's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "thomas-hobbes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Hobbes has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "deng-xiaoping",
+  "slug": "deng-xiaoping",
+  "name": "Deng Xiaoping",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Deng Xiaoping",
+      "url": "https://pantheon.world/profile/person/Deng_Xiaoping",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "deng-xiaoping-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Deng Xiaoping is remembered as a politician connected with China."
+    },
+    {
+      "factId": "deng-xiaoping-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Deng Xiaoping's recorded life dates place this profile around 1904-1997."
+    },
+    {
+      "factId": "deng-xiaoping-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Deng Xiaoping is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "deng-xiaoping-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Deng Xiaoping's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "deng-xiaoping-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Deng Xiaoping has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

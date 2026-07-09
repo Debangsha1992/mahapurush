@@ -1,0 +1,46 @@
+{
+  "personId": "edward-the-martyr",
+  "slug": "edward-the-martyr",
+  "name": "Edward the Martyr",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edward the Martyr",
+      "url": "https://pantheon.world/profile/person/Edward_the_Martyr",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edward-the-martyr-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edward the Martyr is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "edward-the-martyr-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edward the Martyr's recorded life dates place this profile around 962-978."
+    },
+    {
+      "factId": "edward-the-martyr-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edward the Martyr is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "edward-the-martyr-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edward the Martyr's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "edward-the-martyr-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edward the Martyr has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "pope-pius-vii",
+  "slug": "pope-pius-vii",
+  "name": "Pope Pius VII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Pius VII",
+      "url": "https://pantheon.world/profile/person/Pope_Pius_VII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-pius-vii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-pius-vii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VII's recorded life dates place this profile around 1742-1823."
+    },
+    {
+      "factId": "pope-pius-vii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-pius-vii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-pius-vii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

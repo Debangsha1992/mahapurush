@@ -1,0 +1,46 @@
+{
+  "personId": "mata-hari",
+  "slug": "mata-hari",
+  "name": "Mata Hari",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mata Hari",
+      "url": "https://pantheon.world/profile/person/Mata_Hari",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mata-hari-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mata Hari is remembered as a dancer connected with Netherlands."
+    },
+    {
+      "factId": "mata-hari-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mata Hari's recorded life dates place this profile around 1876-1917."
+    },
+    {
+      "factId": "mata-hari-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mata Hari is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mata-hari-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mata Hari's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "mata-hari-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mata Hari has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

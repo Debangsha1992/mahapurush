@@ -1,0 +1,46 @@
+{
+  "personId": "harald-v-of-norway",
+  "slug": "harald-v-of-norway",
+  "name": "Harald V of Norway",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Harald V of Norway",
+      "url": "https://pantheon.world/profile/person/Harald_V_of_Norway",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "harald-v-of-norway-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Harald V of Norway is remembered as a politician connected with Norway."
+    },
+    {
+      "factId": "harald-v-of-norway-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Harald V of Norway's recorded life dates place this profile around born 1937."
+    },
+    {
+      "factId": "harald-v-of-norway-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Harald V of Norway is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "harald-v-of-norway-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Harald V of Norway's profile connects a short Fact to a wider Norway historical setting."
+    },
+    {
+      "factId": "harald-v-of-norway-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Harald V of Norway has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

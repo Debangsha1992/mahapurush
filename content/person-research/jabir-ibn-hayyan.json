@@ -1,0 +1,46 @@
+{
+  "personId": "jabir-ibn-hayyan",
+  "slug": "jabir-ibn-hayyan",
+  "name": "Jabir ibn Hayyan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jabir ibn Hayyan",
+      "url": "https://pantheon.world/profile/person/Jabir_ibn_Hayyan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jabir-ibn-hayyan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jabir ibn Hayyan is remembered as a chemist connected with Iran."
+    },
+    {
+      "factId": "jabir-ibn-hayyan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jabir ibn Hayyan's recorded life dates place this profile around 721-815."
+    },
+    {
+      "factId": "jabir-ibn-hayyan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jabir ibn Hayyan is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "jabir-ibn-hayyan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jabir ibn Hayyan's profile connects a short Fact to a wider Iran historical setting."
+    },
+    {
+      "factId": "jabir-ibn-hayyan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jabir ibn Hayyan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

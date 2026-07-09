@@ -1,0 +1,46 @@
+{
+  "personId": "coco-chanel",
+  "slug": "coco-chanel",
+  "name": "Coco Chanel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Coco Chanel",
+      "url": "https://pantheon.world/profile/person/Coco_Chanel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "coco-chanel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Coco Chanel is remembered as a fashion designer connected with France."
+    },
+    {
+      "factId": "coco-chanel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Coco Chanel's recorded life dates place this profile around 1883-1971."
+    },
+    {
+      "factId": "coco-chanel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Coco Chanel is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "coco-chanel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Coco Chanel's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "coco-chanel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Coco Chanel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

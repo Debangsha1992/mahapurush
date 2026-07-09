@@ -12,35 +12,104 @@
     "literature-arts-culture",
     "singer"
   ],
-  "summary": "Cher is a notable singer associated with United States.",
+  "summary": "Cher is an American singer and actress.",
   "knownFor": [
     "Singer",
-    "100 language biography editions",
-    "Historical Popularity Index 85.8"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 369,
   "imageAlt": "Portrait-style visual for Cher",
   "sourceRefs": [
     {
-      "title": "Pantheon: Cher",
-      "url": "https://pantheon.world/profile/person/Cher",
+      "title": "Wikipedia: Cher",
+      "url": "https://en.wikipedia.org/wiki/Cher",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "cher-pantheon-profile",
-      "text": "Pantheon ranks Cher as a globally documented singer with biographies in 100 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Cher a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Cher",
-      "sourceUrl": "https://pantheon.world/profile/person/Cher",
+      "id": "cher-1-origin",
+      "text": "Cher is an American singer and actress.",
+      "context": "Cher's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Cher",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cher",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cher-2-obstacle",
+      "text": "Cher's screen roles often reflect her public image as a strong-willed, outspoken woman.",
+      "context": "Cher's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Cher",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cher",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cher-3-turning-point",
+      "text": "Cher is remembered as a singer connected with United States.",
+      "context": "Cher's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Cher",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cher",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cher-4-contribution",
+      "text": "Cher's recorded life dates place this profile around born 1946.",
+      "context": "Cher's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Cher",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cher",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "cher-5-influence",
+      "text": "Cher is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Cher's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Cher",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cher",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

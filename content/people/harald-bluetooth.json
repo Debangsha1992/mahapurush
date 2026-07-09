@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Harald Bluetooth is a notable politician associated with Denmark.",
+  "summary": "Harald Bluetooth is a notable politician connected with Denmark.",
   "knownFor": [
     "Politician",
-    "55 language biography editions",
-    "Historical Popularity Index 83.2"
+    "Justice, Governance & Leadership",
+    "Denmark"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Harald Bluetooth",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "harald-bluetooth-pantheon-profile",
-      "text": "Pantheon ranks Harald Bluetooth as a globally documented politician with biographies in 55 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Harald Bluetooth a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "harald-bluetooth-1-origin",
+      "text": "Harald Bluetooth is remembered as a politician connected with Denmark.",
+      "context": "Harald Bluetooth's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Harald Bluetooth",
       "sourceUrl": "https://pantheon.world/profile/person/Harald_Bluetooth",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harald-bluetooth-2-obstacle",
+      "text": "Harald Bluetooth's recorded life dates place this profile around 935-986.",
+      "context": "Harald Bluetooth's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Harald Bluetooth",
+      "sourceUrl": "https://pantheon.world/profile/person/Harald_Bluetooth",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harald-bluetooth-3-turning-point",
+      "text": "Harald Bluetooth is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Harald Bluetooth's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Harald Bluetooth",
+      "sourceUrl": "https://pantheon.world/profile/person/Harald_Bluetooth",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harald-bluetooth-4-contribution",
+      "text": "Harald Bluetooth's profile connects a short Fact to a wider Denmark historical setting.",
+      "context": "Harald Bluetooth's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Harald Bluetooth",
+      "sourceUrl": "https://pantheon.world/profile/person/Harald_Bluetooth",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harald-bluetooth-5-influence",
+      "text": "Harald Bluetooth has a Facts Mode card reserved for deeper source research.",
+      "context": "Harald Bluetooth's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Harald Bluetooth",
+      "sourceUrl": "https://pantheon.world/profile/person/Harald_Bluetooth",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

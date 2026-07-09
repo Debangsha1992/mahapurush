@@ -1,0 +1,46 @@
+{
+  "personId": "sigmund-freud",
+  "slug": "sigmund-freud",
+  "name": "Sigmund Freud",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Sigmund Freud",
+      "url": "https://pantheon.world/profile/person/Sigmund_Freud",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sigmund-freud-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Sigmund Freud is remembered as a psychologist connected with Czechia."
+    },
+    {
+      "factId": "sigmund-freud-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Sigmund Freud's recorded life dates place this profile around 1856-1939."
+    },
+    {
+      "factId": "sigmund-freud-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Sigmund Freud is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "sigmund-freud-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Sigmund Freud's profile connects a short Fact to a wider Czechia historical setting."
+    },
+    {
+      "factId": "sigmund-freud-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sigmund Freud has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

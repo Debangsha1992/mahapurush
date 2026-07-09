@@ -1,0 +1,46 @@
+{
+  "personId": "mongke-khan",
+  "slug": "mongke-khan",
+  "name": "Möngke Khan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Möngke Khan",
+      "url": "https://pantheon.world/profile/person/M%C3%B6ngke_Khan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mongke-khan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Möngke Khan is remembered as a politician connected with Iraq."
+    },
+    {
+      "factId": "mongke-khan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Möngke Khan's recorded life dates place this profile around 1209-1259."
+    },
+    {
+      "factId": "mongke-khan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Möngke Khan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mongke-khan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Möngke Khan's profile connects a short Fact to a wider Iraq historical setting."
+    },
+    {
+      "factId": "mongke-khan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Möngke Khan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

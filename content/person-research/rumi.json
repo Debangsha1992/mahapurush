@@ -1,0 +1,47 @@
+{
+  "personId": "rumi",
+  "slug": "rumi",
+  "name": "Rumi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Rumi",
+      "url": "https://en.wikipedia.org/wiki/Rumi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Sufi mystic and poet (1207–1273)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "rumi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Jalāl al-Dīn Muḥammad Rūmī, commonly known as Rumi, was a Sufi mystic, poet, and founder of the Islamic brotherhood known as the Mevlevi Order."
+    },
+    {
+      "factId": "rumi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Rumi is an influential figure in Sufism, and his thought and works loom large both in Persian literature and mystic poetry in general."
+    },
+    {
+      "factId": "rumi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Rumi is remembered as a writer connected with Afghanistan."
+    },
+    {
+      "factId": "rumi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Rumi's recorded life dates place this profile around 1207-1273."
+    },
+    {
+      "factId": "rumi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Rumi is grouped with Literature, Arts & Culture in the People Library."
+    }
+  ]
+}

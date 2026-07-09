@@ -1,0 +1,47 @@
+{
+  "personId": "eratosthenes",
+  "slug": "eratosthenes",
+  "name": "Eratosthenes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Eratosthenes",
+      "url": "https://en.wikipedia.org/wiki/Eratosthenes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Greek librarian, mathematician, geographer, and poet"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "eratosthenes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Eratosthenes of Cyrene was an Ancient Greek polymath: a philosopher, scholar, mathematician, geographer, poet, astronomer, and music theorist."
+    },
+    {
+      "factId": "eratosthenes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Eratosthenes eventually became the chief librarian at the Library of Alexandria."
+    },
+    {
+      "factId": "eratosthenes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Eratosthenes's work was the precursor to the modern discipline of geography, and he introduced some of its terminology, coining the terms geography and geographer."
+    },
+    {
+      "factId": "eratosthenes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Eratosthenes is remembered as a geographer connected with Libya."
+    },
+    {
+      "factId": "eratosthenes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Eratosthenes's recorded life dates place this profile around -276--194."
+    }
+  ]
+}

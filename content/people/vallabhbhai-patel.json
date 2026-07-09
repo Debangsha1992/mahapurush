@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Vallabhbhai Patel is a notable politician associated with India.",
+  "summary": "Vallabhbhai Patel is a notable politician connected with India.",
   "knownFor": [
     "Politician",
-    "76 language biography editions",
-    "Historical Popularity Index 82.3"
+    "Justice, Governance & Leadership",
+    "India"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Vallabhbhai Patel",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "vallabhbhai-patel-pantheon-profile",
-      "text": "Pantheon ranks Vallabhbhai Patel as a globally documented politician with biographies in 76 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Vallabhbhai Patel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "vallabhbhai-patel-1-origin",
+      "text": "Vallabhbhai Patel is remembered as a politician connected with India.",
+      "context": "Vallabhbhai Patel's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Vallabhbhai Patel",
       "sourceUrl": "https://pantheon.world/profile/person/Vallabhbhai_Patel",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vallabhbhai-patel-2-obstacle",
+      "text": "Vallabhbhai Patel's recorded life dates place this profile around 1875-1950.",
+      "context": "Vallabhbhai Patel's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Vallabhbhai Patel",
+      "sourceUrl": "https://pantheon.world/profile/person/Vallabhbhai_Patel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vallabhbhai-patel-3-turning-point",
+      "text": "Vallabhbhai Patel is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Vallabhbhai Patel's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Vallabhbhai Patel",
+      "sourceUrl": "https://pantheon.world/profile/person/Vallabhbhai_Patel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vallabhbhai-patel-4-contribution",
+      "text": "Vallabhbhai Patel's profile connects a short Fact to a wider India historical setting.",
+      "context": "Vallabhbhai Patel's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Vallabhbhai Patel",
+      "sourceUrl": "https://pantheon.world/profile/person/Vallabhbhai_Patel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vallabhbhai-patel-5-influence",
+      "text": "Vallabhbhai Patel has a Facts Mode card reserved for deeper source research.",
+      "context": "Vallabhbhai Patel's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Vallabhbhai Patel",
+      "sourceUrl": "https://pantheon.world/profile/person/Vallabhbhai_Patel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

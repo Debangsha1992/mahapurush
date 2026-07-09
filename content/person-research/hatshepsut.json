@@ -1,0 +1,47 @@
+{
+  "personId": "hatshepsut",
+  "slug": "hatshepsut",
+  "name": "Hatshepsut",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Hatshepsut",
+      "url": "https://en.wikipedia.org/wiki/Hatshepsut",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Pharaoh of Egypt from 1479 to 1458 BC"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hatshepsut-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Hatshepsut was the sixth pharaoh of the Eighteenth Dynasty of Egypt, ruling first as regent, then as queen regnant from c. 1479 BC until c. 1458 BC and the Great Royal Wife of Pharaoh Thutmose II."
+    },
+    {
+      "factId": "hatshepsut-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Hatshepsut was Egypt's second confirmed woman who ruled in her own right, the first being Sobekneferu/Neferusobek in the Twelfth Dynasty."
+    },
+    {
+      "factId": "hatshepsut-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hatshepsut is remembered as a politician connected with Egypt."
+    },
+    {
+      "factId": "hatshepsut-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hatshepsut's recorded life dates place this profile around -1507--1458."
+    },
+    {
+      "factId": "hatshepsut-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hatshepsut is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

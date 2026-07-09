@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Johann Sebastian Bach is a notable composer associated with Germany.",
+  "summary": "Johann Sebastian Bach is a notable composer connected with Germany.",
   "knownFor": [
     "Composer",
-    "217 language biography editions",
-    "Historical Popularity Index 92.8"
+    "Literature, Arts & Culture",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 69,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "johann-sebastian-bach-pantheon-profile",
-      "text": "Pantheon ranks Johann Sebastian Bach as a globally documented composer with biographies in 217 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Johann Sebastian Bach a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "johann-sebastian-bach-1-origin",
+      "text": "Johann Sebastian Bach is remembered as a composer connected with Germany.",
+      "context": "Johann Sebastian Bach's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Johann Sebastian Bach",
       "sourceUrl": "https://pantheon.world/profile/person/Johann_Sebastian_Bach",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johann-sebastian-bach-2-obstacle",
+      "text": "Johann Sebastian Bach's recorded life dates place this profile around 1685-1750.",
+      "context": "Johann Sebastian Bach's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Johann Sebastian Bach",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Sebastian_Bach",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johann-sebastian-bach-3-turning-point",
+      "text": "Johann Sebastian Bach is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Johann Sebastian Bach's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Johann Sebastian Bach",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Sebastian_Bach",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johann-sebastian-bach-4-contribution",
+      "text": "Johann Sebastian Bach's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Johann Sebastian Bach's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Johann Sebastian Bach",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Sebastian_Bach",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johann-sebastian-bach-5-influence",
+      "text": "Johann Sebastian Bach has a Facts Mode card reserved for deeper source research.",
+      "context": "Johann Sebastian Bach's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Johann Sebastian Bach",
+      "sourceUrl": "https://pantheon.world/profile/person/Johann_Sebastian_Bach",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

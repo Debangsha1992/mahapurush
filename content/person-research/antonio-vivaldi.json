@@ -1,0 +1,46 @@
+{
+  "personId": "antonio-vivaldi",
+  "slug": "antonio-vivaldi",
+  "name": "Antonio Vivaldi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Antonio Vivaldi",
+      "url": "https://pantheon.world/profile/person/Antonio_Vivaldi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "antonio-vivaldi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Antonio Vivaldi is remembered as a composer connected with Italy."
+    },
+    {
+      "factId": "antonio-vivaldi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Antonio Vivaldi's recorded life dates place this profile around 1678-1741."
+    },
+    {
+      "factId": "antonio-vivaldi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Antonio Vivaldi is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "antonio-vivaldi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Antonio Vivaldi's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "antonio-vivaldi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Antonio Vivaldi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

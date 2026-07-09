@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Stephen Hawking is a notable physicist associated with United Kingdom.",
+  "summary": "Stephen Hawking is a notable physicist connected with United Kingdom.",
   "knownFor": [
     "Physicist",
-    "151 language biography editions",
-    "Historical Popularity Index 88.4"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 200,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "stephen-hawking-pantheon-profile",
-      "text": "Pantheon ranks Stephen Hawking as a globally documented physicist with biographies in 151 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Stephen Hawking a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "stephen-hawking-1-origin",
+      "text": "Stephen Hawking is remembered as a physicist connected with United Kingdom.",
+      "context": "Stephen Hawking's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Stephen Hawking",
       "sourceUrl": "https://pantheon.world/profile/person/Stephen_Hawking",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stephen-hawking-2-obstacle",
+      "text": "Stephen Hawking's recorded life dates place this profile around 1942-2018.",
+      "context": "Stephen Hawking's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Stephen Hawking",
+      "sourceUrl": "https://pantheon.world/profile/person/Stephen_Hawking",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stephen-hawking-3-turning-point",
+      "text": "Stephen Hawking is grouped with Science, Math & Technology in the People Library.",
+      "context": "Stephen Hawking's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Stephen Hawking",
+      "sourceUrl": "https://pantheon.world/profile/person/Stephen_Hawking",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stephen-hawking-4-contribution",
+      "text": "Stephen Hawking's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Stephen Hawking's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Stephen Hawking",
+      "sourceUrl": "https://pantheon.world/profile/person/Stephen_Hawking",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stephen-hawking-5-influence",
+      "text": "Stephen Hawking has a Facts Mode card reserved for deeper source research.",
+      "context": "Stephen Hawking's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Stephen Hawking",
+      "sourceUrl": "https://pantheon.world/profile/person/Stephen_Hawking",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

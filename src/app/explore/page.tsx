@@ -1,6 +1,11 @@
 import Link from "next/link";
-import { Card } from "@/components/ui/card";
 import { ThinkerMedia } from "@/components/thinkers/thinker-media";
+import {
+  EditorialCard,
+  EditorialPageHero,
+  SectionHeader,
+  mutedText,
+} from "@/components/ui/editorial";
 import { CATEGORY_LABELS } from "@/lib/constants/categories";
 import { getAllThinkers } from "@/lib/content/loaders";
 
@@ -10,32 +15,36 @@ export default function ExplorePage() {
 
   return (
     <div className="space-y-8">
-      <div>
-        <h2 className="text-3xl font-semibold">Thinker Library</h2>
-        <p className="mt-2 text-[var(--color-muted)]">
-          Explore great minds by the problems teenagers care about.
-        </p>
-      </div>
+      <EditorialPageHero
+        eyebrow="Explore"
+        title="Thinker Library"
+        description="Explore great minds by the problems modern life keeps asking."
+      />
 
       {categories.map((category) => (
         <section key={category} className="space-y-4">
-          <h3 className="text-xl font-semibold">{CATEGORY_LABELS[category]}</h3>
+          <SectionHeader eyebrow="Category" title={CATEGORY_LABELS[category]} />
           <div className="grid gap-4 sm:grid-cols-2">
             {thinkers
               .filter((thinker) => thinker.categories.includes(category))
               .map((thinker) => (
-                <Link key={thinker.id} href={`/thinkers/${thinker.slug}`}>
-                  <Card className="transition hover:border-[var(--color-accent)]">
+                <Link
+                  key={thinker.id}
+                  href={`/thinkers/${thinker.slug}`}
+                  className="group block"
+                >
+                  <EditorialCard className="transition hover:border-[var(--color-accent)]">
+                    <div className="absolute -right-12 -top-12 size-28 rounded-full bg-yellow-400/10 transition group-hover:bg-yellow-400/20" />
                     <div className="flex items-start gap-4">
                       <ThinkerMedia slug={thinker.slug} name={thinker.name} size={72} />
                       <div>
-                        <h4 className="text-lg font-semibold">{thinker.name}</h4>
-                        <p className="mt-2 text-sm text-[var(--color-muted)]">
+                        <h4 className="text-xl font-extrabold tracking-tight">{thinker.name}</h4>
+                        <p className={`mt-2 text-sm ${mutedText}`}>
                           {thinker.hook}
                         </p>
                       </div>
                     </div>
-                  </Card>
+                  </EditorialCard>
                 </Link>
               ))}
           </div>
@@ -43,14 +52,15 @@ export default function ExplorePage() {
       ))}
 
       <section className="space-y-4">
-        <h3 className="text-xl font-semibold">All Thinkers</h3>
+        <SectionHeader eyebrow="Directory" title="All Thinkers" />
         <div className="grid gap-4 sm:grid-cols-2">
           {thinkers.map((thinker) => (
-            <Link key={thinker.id} href={`/thinkers/${thinker.slug}`}>
-              <Card className="transition hover:border-[var(--color-accent)]">
-                <h4 className="text-lg font-semibold">{thinker.name}</h4>
-                <p className="mt-2 text-sm text-[var(--color-muted)]">{thinker.summary}</p>
-              </Card>
+            <Link key={thinker.id} href={`/thinkers/${thinker.slug}`} className="group block">
+              <EditorialCard className="transition hover:border-[var(--color-accent)]">
+                <div className="absolute -right-12 -top-12 size-28 rounded-full bg-yellow-400/10 transition group-hover:bg-yellow-400/20" />
+                <h4 className="text-xl font-extrabold tracking-tight">{thinker.name}</h4>
+                <p className={`mt-2 text-sm ${mutedText}`}>{thinker.summary}</p>
+              </EditorialCard>
             </Link>
           ))}
         </div>

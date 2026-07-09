@@ -1,0 +1,46 @@
+{
+  "personId": "miyamoto-musashi",
+  "slug": "miyamoto-musashi",
+  "name": "Miyamoto Musashi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Miyamoto Musashi",
+      "url": "https://pantheon.world/profile/person/Miyamoto_Musashi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "miyamoto-musashi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Miyamoto Musashi is remembered as a writer connected with Japan."
+    },
+    {
+      "factId": "miyamoto-musashi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Miyamoto Musashi's recorded life dates place this profile around 1584-1645."
+    },
+    {
+      "factId": "miyamoto-musashi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Miyamoto Musashi is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "miyamoto-musashi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Miyamoto Musashi's profile connects a short Fact to a wider Japan historical setting."
+    },
+    {
+      "factId": "miyamoto-musashi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Miyamoto Musashi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

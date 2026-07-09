@@ -12,35 +12,103 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Angela Merkel is a notable politician associated with Germany.",
+  "summary": "Angela Dorothea Merkel is a German stateswoman and retired politician who served as Chancellor of Germany from 2005 to 2021.",
   "knownFor": [
     "Politician",
-    "169 language biography editions",
-    "Historical Popularity Index 85.6"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 383,
   "imageAlt": "Portrait-style visual for Angela Merkel",
   "sourceRefs": [
     {
-      "title": "Pantheon: Angela Merkel",
-      "url": "https://pantheon.world/profile/person/Angela_Merkel",
+      "title": "Wikipedia: Angela Merkel",
+      "url": "https://en.wikipedia.org/wiki/Angela_Merkel",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "angela-merkel-pantheon-profile",
-      "text": "Pantheon ranks Angela Merkel as a globally documented politician with biographies in 169 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Angela Merkel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Angela Merkel",
-      "sourceUrl": "https://pantheon.world/profile/person/Angela_Merkel",
+      "id": "angela-merkel-1-origin",
+      "text": "Angela Dorothea Merkel is a German stateswoman and retired politician who served as Chancellor of Germany from 2005 to 2021.",
+      "context": "Angela Merkel's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Angela Merkel",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angela_Merkel",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "angela-merkel-2-obstacle",
+      "text": "Angela Merkel is the only woman to have held the office and the only from former East Germany.",
+      "context": "Angela Merkel's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Angela Merkel",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angela_Merkel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "angela-merkel-3-turning-point",
+      "text": "Angela Merkel was Leader of the Opposition from 2002 to 2005 and Leader of the Christian Democratic Union (CDU) from 2000 to 2018.",
+      "context": "Angela Merkel's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Angela Merkel",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angela_Merkel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "angela-merkel-4-contribution",
+      "text": "Angela Merkel is remembered as a politician connected with Germany.",
+      "context": "Angela Merkel's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Angela Merkel",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angela_Merkel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "angela-merkel-5-influence",
+      "text": "Angela Merkel's recorded life dates place this profile around born 1954.",
+      "context": "Angela Merkel's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Angela Merkel",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angela_Merkel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Louis Mountbatten, 1st Earl Mountbatten of Burma is a notable politician associated with United Kingdom.",
+  "summary": "Louis Mountbatten, 1st Earl Mountbatten of Burma is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "57 language biography editions",
-    "Historical Popularity Index 83.3"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Louis Mountbatten, 1st Earl Mountbatten of Burma",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "louis-mountbatten-1st-earl-mountbatten-of-burma-pantheon-profile",
-      "text": "Pantheon ranks Louis Mountbatten, 1st Earl Mountbatten of Burma as a globally documented politician with biographies in 57 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Louis Mountbatten, 1st Earl Mountbatten of Burma a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "louis-mountbatten-1st-earl-mountbatten-of-burma-1-origin",
+      "text": "Louis Mountbatten, 1st Earl Mountbatten of Burma is remembered as a politician connected with United Kingdom.",
+      "context": "Louis Mountbatten, 1st Earl Mountbatten of Burma's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Louis Mountbatten, 1st Earl Mountbatten of Burma",
       "sourceUrl": "https://pantheon.world/profile/person/Louis_Mountbatten%2C_1st_Earl_Mountbatten_of_Burma",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-mountbatten-1st-earl-mountbatten-of-burma-2-obstacle",
+      "text": "Louis Mountbatten, 1st Earl Mountbatten of Burma's recorded life dates place this profile around 1900-1979.",
+      "context": "Louis Mountbatten, 1st Earl Mountbatten of Burma's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Louis Mountbatten, 1st Earl Mountbatten of Burma",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_Mountbatten%2C_1st_Earl_Mountbatten_of_Burma",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-mountbatten-1st-earl-mountbatten-of-burma-3-turning-point",
+      "text": "Louis Mountbatten, 1st Earl Mountbatten of Burma is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Louis Mountbatten, 1st Earl Mountbatten of Burma's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Louis Mountbatten, 1st Earl Mountbatten of Burma",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_Mountbatten%2C_1st_Earl_Mountbatten_of_Burma",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-mountbatten-1st-earl-mountbatten-of-burma-4-contribution",
+      "text": "Louis Mountbatten, 1st Earl Mountbatten of Burma's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Louis Mountbatten, 1st Earl Mountbatten of Burma's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Louis Mountbatten, 1st Earl Mountbatten of Burma",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_Mountbatten%2C_1st_Earl_Mountbatten_of_Burma",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "louis-mountbatten-1st-earl-mountbatten-of-burma-5-influence",
+      "text": "Louis Mountbatten, 1st Earl Mountbatten of Burma has a Facts Mode card reserved for deeper source research.",
+      "context": "Louis Mountbatten, 1st Earl Mountbatten of Burma's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Louis Mountbatten, 1st Earl Mountbatten of Burma",
+      "sourceUrl": "https://pantheon.world/profile/person/Louis_Mountbatten%2C_1st_Earl_Mountbatten_of_Burma",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

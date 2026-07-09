@@ -1,0 +1,46 @@
+{
+  "personId": "carl-jung",
+  "slug": "carl-jung",
+  "name": "Carl Jung",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Carl Jung",
+      "url": "https://pantheon.world/profile/person/Carl_Jung",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "carl-jung-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Carl Jung is remembered as a psychologist connected with Switzerland."
+    },
+    {
+      "factId": "carl-jung-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Carl Jung's recorded life dates place this profile around 1875-1961."
+    },
+    {
+      "factId": "carl-jung-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Carl Jung is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "carl-jung-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Carl Jung's profile connects a short Fact to a wider Switzerland historical setting."
+    },
+    {
+      "factId": "carl-jung-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Carl Jung has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

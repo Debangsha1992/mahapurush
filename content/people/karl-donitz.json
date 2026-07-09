@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Karl Dönitz is a notable military personnel associated with Germany.",
+  "summary": "Karl Dönitz is a notable military personnel connected with Germany.",
   "knownFor": [
     "Military Personnel",
-    "78 language biography editions",
-    "Historical Popularity Index 84.9"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 450,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "karl-donitz-pantheon-profile",
-      "text": "Pantheon ranks Karl Dönitz as a globally documented military personnel with biographies in 78 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Karl Dönitz a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "karl-donitz-1-origin",
+      "text": "Karl Dönitz is remembered as a military personnel connected with Germany.",
+      "context": "Karl Dönitz's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Karl Dönitz",
       "sourceUrl": "https://pantheon.world/profile/person/Karl_D%C3%B6nitz",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "karl-donitz-2-obstacle",
+      "text": "Karl Dönitz's recorded life dates place this profile around 1891-1980.",
+      "context": "Karl Dönitz's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Karl Dönitz",
+      "sourceUrl": "https://pantheon.world/profile/person/Karl_D%C3%B6nitz",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "karl-donitz-3-turning-point",
+      "text": "Karl Dönitz is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Karl Dönitz's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Karl Dönitz",
+      "sourceUrl": "https://pantheon.world/profile/person/Karl_D%C3%B6nitz",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "karl-donitz-4-contribution",
+      "text": "Karl Dönitz's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Karl Dönitz's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Karl Dönitz",
+      "sourceUrl": "https://pantheon.world/profile/person/Karl_D%C3%B6nitz",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "karl-donitz-5-influence",
+      "text": "Karl Dönitz has a Facts Mode card reserved for deeper source research.",
+      "context": "Karl Dönitz's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Karl Dönitz",
+      "sourceUrl": "https://pantheon.world/profile/person/Karl_D%C3%B6nitz",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

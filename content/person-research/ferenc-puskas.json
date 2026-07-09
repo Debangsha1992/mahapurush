@@ -1,0 +1,46 @@
+{
+  "personId": "ferenc-puskas",
+  "slug": "ferenc-puskas",
+  "name": "Ferenc Puskás",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ferenc Puskás",
+      "url": "https://pantheon.world/profile/person/Ferenc_Pusk%C3%A1s",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ferenc-puskas-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ferenc Puskás is remembered as a soccer player connected with Hungary."
+    },
+    {
+      "factId": "ferenc-puskas-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ferenc Puskás's recorded life dates place this profile around 1927-2006."
+    },
+    {
+      "factId": "ferenc-puskas-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ferenc Puskás is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ferenc-puskas-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ferenc Puskás's profile connects a short Fact to a wider Hungary historical setting."
+    },
+    {
+      "factId": "ferenc-puskas-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ferenc Puskás has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

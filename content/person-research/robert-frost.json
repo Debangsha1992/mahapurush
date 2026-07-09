@@ -1,0 +1,46 @@
+{
+  "personId": "robert-frost",
+  "slug": "robert-frost",
+  "name": "Robert Frost",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Robert Frost",
+      "url": "https://pantheon.world/profile/person/Robert_Frost",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "robert-frost-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Robert Frost is remembered as a writer connected with United States."
+    },
+    {
+      "factId": "robert-frost-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Robert Frost's recorded life dates place this profile around 1874-1963."
+    },
+    {
+      "factId": "robert-frost-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Robert Frost is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "robert-frost-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Robert Frost's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "robert-frost-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Robert Frost has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

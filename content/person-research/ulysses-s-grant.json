@@ -1,0 +1,47 @@
+{
+  "personId": "ulysses-s-grant",
+  "slug": "ulysses-s-grant",
+  "name": "Ulysses S. Grant",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Ulysses S. Grant",
+      "url": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Civil War general, U.S. president from 1869 to 1877"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ulysses-s-grant-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Ulysses S. Grant was the 18th president of the United States, serving from 1869 to 1877, and was the Commanding General of the Union Army, leading it to victory in the American Civil War in 1865."
+    },
+    {
+      "factId": "ulysses-s-grant-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ulysses S. Grant is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "ulysses-s-grant-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ulysses S. Grant's recorded life dates place this profile around 1822-1885."
+    },
+    {
+      "factId": "ulysses-s-grant-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ulysses S. Grant is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ulysses-s-grant-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ulysses S. Grant's profile connects a short Fact to a wider United States historical setting."
+    }
+  ]
+}

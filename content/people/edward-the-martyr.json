@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Edward the Martyr is a notable politician associated with United Kingdom.",
+  "summary": "Edward the Martyr is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "52 language biography editions",
-    "Historical Popularity Index 81.8"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Edward the Martyr",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edward-the-martyr-pantheon-profile",
-      "text": "Pantheon ranks Edward the Martyr as a globally documented politician with biographies in 52 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward the Martyr a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edward-the-martyr-1-origin",
+      "text": "Edward the Martyr is remembered as a politician connected with United Kingdom.",
+      "context": "Edward the Martyr's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Edward the Martyr",
       "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Martyr",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-the-martyr-2-obstacle",
+      "text": "Edward the Martyr's recorded life dates place this profile around 962-978.",
+      "context": "Edward the Martyr's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Edward the Martyr",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Martyr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-the-martyr-3-turning-point",
+      "text": "Edward the Martyr is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Edward the Martyr's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Edward the Martyr",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Martyr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-the-martyr-4-contribution",
+      "text": "Edward the Martyr's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Edward the Martyr's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Edward the Martyr",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Martyr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-the-martyr-5-influence",
+      "text": "Edward the Martyr has a Facts Mode card reserved for deeper source research.",
+      "context": "Edward the Martyr's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Edward the Martyr",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_the_Martyr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "jacques-offenbach",
+  "slug": "jacques-offenbach",
+  "name": "Jacques Offenbach",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jacques Offenbach",
+      "url": "https://pantheon.world/profile/person/Jacques_Offenbach",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jacques-offenbach-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Offenbach is remembered as a composer connected with Germany."
+    },
+    {
+      "factId": "jacques-offenbach-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Offenbach's recorded life dates place this profile around 1819-1880."
+    },
+    {
+      "factId": "jacques-offenbach-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Offenbach is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "jacques-offenbach-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Offenbach's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "jacques-offenbach-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jacques Offenbach has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

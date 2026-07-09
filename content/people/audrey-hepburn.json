@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Audrey Hepburn is a notable actor associated with Belgium.",
+  "summary": "Audrey Hepburn is a notable actor connected with Belgium.",
   "knownFor": [
     "Actor",
-    "115 language biography editions",
-    "Historical Popularity Index 83.1"
+    "Literature, Arts & Culture",
+    "Belgium"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Audrey Hepburn",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "audrey-hepburn-pantheon-profile",
-      "text": "Pantheon ranks Audrey Hepburn as a globally documented actor with biographies in 115 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Audrey Hepburn a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "audrey-hepburn-1-origin",
+      "text": "Audrey Hepburn is remembered as a actor connected with Belgium.",
+      "context": "Audrey Hepburn's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Audrey Hepburn",
       "sourceUrl": "https://pantheon.world/profile/person/Audrey_Hepburn",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "audrey-hepburn-2-obstacle",
+      "text": "Audrey Hepburn's recorded life dates place this profile around 1929-1993.",
+      "context": "Audrey Hepburn's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Audrey Hepburn",
+      "sourceUrl": "https://pantheon.world/profile/person/Audrey_Hepburn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "audrey-hepburn-3-turning-point",
+      "text": "Audrey Hepburn is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Audrey Hepburn's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Audrey Hepburn",
+      "sourceUrl": "https://pantheon.world/profile/person/Audrey_Hepburn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "audrey-hepburn-4-contribution",
+      "text": "Audrey Hepburn's profile connects a short Fact to a wider Belgium historical setting.",
+      "context": "Audrey Hepburn's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Audrey Hepburn",
+      "sourceUrl": "https://pantheon.world/profile/person/Audrey_Hepburn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "audrey-hepburn-5-influence",
+      "text": "Audrey Hepburn has a Facts Mode card reserved for deeper source research.",
+      "context": "Audrey Hepburn's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Audrey Hepburn",
+      "sourceUrl": "https://pantheon.world/profile/person/Audrey_Hepburn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

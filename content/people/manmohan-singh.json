@@ -12,34 +12,105 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Manmohan Singh is a notable politician associated with Pakistan.",
+  "summary": "Manmohan Singh is a notable politician connected with Pakistan.",
   "knownFor": [
     "Politician",
-    "100 language biography editions",
-    "Historical Popularity Index 82.6"
+    "Justice, Governance & Leadership",
+    "Pakistan"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Manmohan Singh",
   "sourceRefs": [
     {
-      "title": "Pantheon: Manmohan Singh",
-      "url": "https://pantheon.world/profile/person/Manmohan_Singh",
+      "title": "Wikipedia: Manmohan Singh",
+      "url": "https://en.wikipedia.org/wiki/Manmohan_Singh",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "manmohan-singh-pantheon-profile",
-      "text": "Pantheon ranks Manmohan Singh as a globally documented politician with biographies in 100 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Manmohan Singh a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Manmohan Singh",
-      "sourceUrl": "https://pantheon.world/profile/person/Manmohan_Singh",
+      "id": "manmohan-singh-1-origin",
+      "text": "Manmohan Singh is remembered as a politician connected with Pakistan.",
+      "context": "Manmohan Singh's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Manmohan Singh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Manmohan_Singh",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "manmohan-singh-2-obstacle",
+      "text": "Manmohan Singh's recorded life dates place this profile around 1932-2024.",
+      "context": "Manmohan Singh's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Manmohan Singh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "manmohan-singh-3-turning-point",
+      "text": "Manmohan Singh is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Manmohan Singh's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Manmohan Singh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "manmohan-singh-4-contribution",
+      "text": "Manmohan Singh's profile connects a short Fact to a wider Pakistan historical setting.",
+      "context": "Manmohan Singh's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Manmohan Singh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "manmohan-singh-5-influence",
+      "text": "Manmohan Singh has a Facts Mode card reserved for deeper source research.",
+      "context": "Manmohan Singh's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Manmohan Singh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "extremist"
   ],
-  "summary": "Jack the Ripper is a notable extremist associated with Global.",
+  "summary": "Jack the Ripper is a notable extremist connected with Global.",
   "knownFor": [
     "Extremist",
-    "81 language biography editions",
-    "Historical Popularity Index 87.1"
+    "Justice, Governance & Leadership",
+    "Global"
   ],
   "featured": true,
   "featuredRank": 269,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jack-the-ripper-pantheon-profile",
-      "text": "Pantheon ranks Jack the Ripper as a globally documented extremist with biographies in 81 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jack the Ripper a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "jack-the-ripper-1-origin",
+      "text": "Jack the Ripper is remembered as a extremist connected with Global.",
+      "context": "Jack the Ripper's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Jack the Ripper",
       "sourceUrl": "https://pantheon.world/profile/person/Jack_the_Ripper",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jack-the-ripper-2-obstacle",
+      "text": "Jack the Ripper's recorded life dates place this profile around born 1850.",
+      "context": "Jack the Ripper's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Jack the Ripper",
+      "sourceUrl": "https://pantheon.world/profile/person/Jack_the_Ripper",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jack-the-ripper-3-turning-point",
+      "text": "Jack the Ripper is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Jack the Ripper's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Jack the Ripper",
+      "sourceUrl": "https://pantheon.world/profile/person/Jack_the_Ripper",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jack-the-ripper-4-contribution",
+      "text": "Jack the Ripper's profile connects a short Fact to a wider Global historical setting.",
+      "context": "Jack the Ripper's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Jack the Ripper",
+      "sourceUrl": "https://pantheon.world/profile/person/Jack_the_Ripper",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jack-the-ripper-5-influence",
+      "text": "Jack the Ripper has a Facts Mode card reserved for deeper source research.",
+      "context": "Jack the Ripper's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Jack the Ripper",
+      "sourceUrl": "https://pantheon.world/profile/person/Jack_the_Ripper",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

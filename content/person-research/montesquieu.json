@@ -1,0 +1,46 @@
+{
+  "personId": "montesquieu",
+  "slug": "montesquieu",
+  "name": "Montesquieu",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Montesquieu",
+      "url": "https://pantheon.world/profile/person/Montesquieu",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "montesquieu-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Montesquieu is remembered as a philosopher connected with France."
+    },
+    {
+      "factId": "montesquieu-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Montesquieu's recorded life dates place this profile around 1689-1755."
+    },
+    {
+      "factId": "montesquieu-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Montesquieu is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "montesquieu-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Montesquieu's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "montesquieu-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Montesquieu has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

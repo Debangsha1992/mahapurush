@@ -1,0 +1,46 @@
+{
+  "personId": "edvard-munch",
+  "slug": "edvard-munch",
+  "name": "Edvard Munch",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edvard Munch",
+      "url": "https://pantheon.world/profile/person/Edvard_Munch",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edvard-munch-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edvard Munch is remembered as a painter connected with Norway."
+    },
+    {
+      "factId": "edvard-munch-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edvard Munch's recorded life dates place this profile around 1863-1944."
+    },
+    {
+      "factId": "edvard-munch-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edvard Munch is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "edvard-munch-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edvard Munch's profile connects a short Fact to a wider Norway historical setting."
+    },
+    {
+      "factId": "edvard-munch-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edvard Munch has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

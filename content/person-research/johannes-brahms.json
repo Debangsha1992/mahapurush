@@ -1,0 +1,46 @@
+{
+  "personId": "johannes-brahms",
+  "slug": "johannes-brahms",
+  "name": "Johannes Brahms",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Johannes Brahms",
+      "url": "https://pantheon.world/profile/person/Johannes_Brahms",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "johannes-brahms-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Brahms is remembered as a composer connected with Germany."
+    },
+    {
+      "factId": "johannes-brahms-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Brahms's recorded life dates place this profile around 1833-1897."
+    },
+    {
+      "factId": "johannes-brahms-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Brahms is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "johannes-brahms-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Brahms's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "johannes-brahms-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Brahms has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

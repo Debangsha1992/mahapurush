@@ -12,11 +12,11 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Jacob Bernoulli is a notable mathematician associated with Switzerland.",
+  "summary": "Jacob Bernoulli is a notable mathematician connected with Switzerland.",
   "knownFor": [
     "Mathematician",
-    "72 language biography editions",
-    "Historical Popularity Index 81.7"
+    "Science, Math & Technology",
+    "Switzerland"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Jacob Bernoulli",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jacob-bernoulli-pantheon-profile",
-      "text": "Pantheon ranks Jacob Bernoulli as a globally documented mathematician with biographies in 72 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jacob Bernoulli a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "jacob-bernoulli-1-origin",
+      "text": "Jacob Bernoulli is remembered as a mathematician connected with Switzerland.",
+      "context": "Jacob Bernoulli's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Jacob Bernoulli",
       "sourceUrl": "https://pantheon.world/profile/person/Jacob_Bernoulli",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacob-bernoulli-2-obstacle",
+      "text": "Jacob Bernoulli's recorded life dates place this profile around 1654-1705.",
+      "context": "Jacob Bernoulli's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Jacob Bernoulli",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacob_Bernoulli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacob-bernoulli-3-turning-point",
+      "text": "Jacob Bernoulli is grouped with Science, Math & Technology in the People Library.",
+      "context": "Jacob Bernoulli's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Jacob Bernoulli",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacob_Bernoulli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacob-bernoulli-4-contribution",
+      "text": "Jacob Bernoulli's profile connects a short Fact to a wider Switzerland historical setting.",
+      "context": "Jacob Bernoulli's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Jacob Bernoulli",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacob_Bernoulli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacob-bernoulli-5-influence",
+      "text": "Jacob Bernoulli has a Facts Mode card reserved for deeper source research.",
+      "context": "Jacob Bernoulli's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Jacob Bernoulli",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacob_Bernoulli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

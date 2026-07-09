@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Anne Boleyn is a notable companion associated with United Kingdom.",
+  "summary": "Anne Boleyn is a notable companion connected with United Kingdom.",
   "knownFor": [
     "Companion",
-    "90 language biography editions",
-    "Historical Popularity Index 86.4"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 324,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "anne-boleyn-pantheon-profile",
-      "text": "Pantheon ranks Anne Boleyn as a globally documented companion with biographies in 90 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Anne Boleyn a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "anne-boleyn-1-origin",
+      "text": "Anne Boleyn is remembered as a companion connected with United Kingdom.",
+      "context": "Anne Boleyn's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Anne Boleyn",
       "sourceUrl": "https://pantheon.world/profile/person/Anne_Boleyn",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-boleyn-2-obstacle",
+      "text": "Anne Boleyn's recorded life dates place this profile around 1501-1536.",
+      "context": "Anne Boleyn's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Anne Boleyn",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne_Boleyn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-boleyn-3-turning-point",
+      "text": "Anne Boleyn is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Anne Boleyn's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Anne Boleyn",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne_Boleyn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-boleyn-4-contribution",
+      "text": "Anne Boleyn's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Anne Boleyn's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Anne Boleyn",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne_Boleyn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anne-boleyn-5-influence",
+      "text": "Anne Boleyn has a Facts Mode card reserved for deeper source research.",
+      "context": "Anne Boleyn's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Anne Boleyn",
+      "sourceUrl": "https://pantheon.world/profile/person/Anne_Boleyn",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

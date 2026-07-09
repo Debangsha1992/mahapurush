@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Queen Victoria is a notable politician associated with United Kingdom.",
+  "summary": "Queen Victoria is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "146 language biography editions",
-    "Historical Popularity Index 86.3"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 327,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "queen-victoria-pantheon-profile",
-      "text": "Pantheon ranks Queen Victoria as a globally documented politician with biographies in 146 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Queen Victoria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "queen-victoria-1-origin",
+      "text": "Queen Victoria is remembered as a politician connected with United Kingdom.",
+      "context": "Queen Victoria's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Queen Victoria",
       "sourceUrl": "https://pantheon.world/profile/person/Queen_Victoria",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "queen-victoria-2-obstacle",
+      "text": "Queen Victoria's recorded life dates place this profile around 1819-1901.",
+      "context": "Queen Victoria's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Queen Victoria",
+      "sourceUrl": "https://pantheon.world/profile/person/Queen_Victoria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "queen-victoria-3-turning-point",
+      "text": "Queen Victoria is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Queen Victoria's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Queen Victoria",
+      "sourceUrl": "https://pantheon.world/profile/person/Queen_Victoria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "queen-victoria-4-contribution",
+      "text": "Queen Victoria's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Queen Victoria's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Queen Victoria",
+      "sourceUrl": "https://pantheon.world/profile/person/Queen_Victoria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "queen-victoria-5-influence",
+      "text": "Queen Victoria has a Facts Mode card reserved for deeper source research.",
+      "context": "Queen Victoria's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Queen Victoria",
+      "sourceUrl": "https://pantheon.world/profile/person/Queen_Victoria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

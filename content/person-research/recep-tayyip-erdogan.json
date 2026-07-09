@@ -1,0 +1,46 @@
+{
+  "personId": "recep-tayyip-erdogan",
+  "slug": "recep-tayyip-erdogan",
+  "name": "Recep Tayyip Erdoğan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Recep Tayyip Erdoğan",
+      "url": "https://pantheon.world/profile/person/Recep_Tayyip_Erdo%C4%9Fan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "recep-tayyip-erdogan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Recep Tayyip Erdoğan is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "recep-tayyip-erdogan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Recep Tayyip Erdoğan's recorded life dates place this profile around born 1954."
+    },
+    {
+      "factId": "recep-tayyip-erdogan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Recep Tayyip Erdoğan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "recep-tayyip-erdogan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Recep Tayyip Erdoğan's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "recep-tayyip-erdogan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Recep Tayyip Erdoğan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

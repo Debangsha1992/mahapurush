@@ -1,0 +1,46 @@
+{
+  "personId": "bayezid-i",
+  "slug": "bayezid-i",
+  "name": "Bayezid I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bayezid I",
+      "url": "https://pantheon.world/profile/person/Bayezid_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bayezid-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bayezid I is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "bayezid-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bayezid I's recorded life dates place this profile around 1354-1403."
+    },
+    {
+      "factId": "bayezid-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bayezid I is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "bayezid-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bayezid I's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "bayezid-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bayezid I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

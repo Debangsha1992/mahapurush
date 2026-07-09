@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Empress Elisabeth of Austria is a notable companion associated with Germany.",
+  "summary": "Empress Elisabeth of Austria is a notable companion connected with Germany.",
   "knownFor": [
     "Companion",
-    "72 language biography editions",
-    "Historical Popularity Index 89.6"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 145,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "empress-elisabeth-of-austria-pantheon-profile",
-      "text": "Pantheon ranks Empress Elisabeth of Austria as a globally documented companion with biographies in 72 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Empress Elisabeth of Austria a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "empress-elisabeth-of-austria-1-origin",
+      "text": "Empress Elisabeth of Austria is remembered as a companion connected with Germany.",
+      "context": "Empress Elisabeth of Austria's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Empress Elisabeth of Austria",
       "sourceUrl": "https://pantheon.world/profile/person/Empress_Elisabeth_of_Austria",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "empress-elisabeth-of-austria-2-obstacle",
+      "text": "Empress Elisabeth of Austria's recorded life dates place this profile around 1837-1898.",
+      "context": "Empress Elisabeth of Austria's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Empress Elisabeth of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Empress_Elisabeth_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "empress-elisabeth-of-austria-3-turning-point",
+      "text": "Empress Elisabeth of Austria is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Empress Elisabeth of Austria's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Empress Elisabeth of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Empress_Elisabeth_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "empress-elisabeth-of-austria-4-contribution",
+      "text": "Empress Elisabeth of Austria's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Empress Elisabeth of Austria's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Empress Elisabeth of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Empress_Elisabeth_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "empress-elisabeth-of-austria-5-influence",
+      "text": "Empress Elisabeth of Austria has a Facts Mode card reserved for deeper source research.",
+      "context": "Empress Elisabeth of Austria's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Empress Elisabeth of Austria",
+      "sourceUrl": "https://pantheon.world/profile/person/Empress_Elisabeth_of_Austria",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

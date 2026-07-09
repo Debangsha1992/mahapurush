@@ -1,0 +1,46 @@
+{
+  "personId": "bob-marley",
+  "slug": "bob-marley",
+  "name": "Bob Marley",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bob Marley",
+      "url": "https://pantheon.world/profile/person/Bob_Marley",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bob-marley-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bob Marley is remembered as a musician connected with Jamaica."
+    },
+    {
+      "factId": "bob-marley-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bob Marley's recorded life dates place this profile around 1945-1981."
+    },
+    {
+      "factId": "bob-marley-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bob Marley is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "bob-marley-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bob Marley's profile connects a short Fact to a wider Jamaica historical setting."
+    },
+    {
+      "factId": "bob-marley-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bob Marley has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

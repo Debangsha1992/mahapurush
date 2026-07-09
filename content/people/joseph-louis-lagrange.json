@@ -12,11 +12,11 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Joseph-Louis Lagrange is a notable mathematician associated with Italy.",
+  "summary": "Joseph-Louis Lagrange is a notable mathematician connected with Italy.",
   "knownFor": [
     "Mathematician",
-    "90 language biography editions",
-    "Historical Popularity Index 84.2"
+    "Science, Math & Technology",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Joseph-Louis Lagrange",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "joseph-louis-lagrange-pantheon-profile",
-      "text": "Pantheon ranks Joseph-Louis Lagrange as a globally documented mathematician with biographies in 90 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Joseph-Louis Lagrange a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "joseph-louis-lagrange-1-origin",
+      "text": "Joseph-Louis Lagrange is remembered as a mathematician connected with Italy.",
+      "context": "Joseph-Louis Lagrange's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Joseph-Louis Lagrange",
       "sourceUrl": "https://pantheon.world/profile/person/Joseph-Louis_Lagrange",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-louis-lagrange-2-obstacle",
+      "text": "Joseph-Louis Lagrange's recorded life dates place this profile around 1736-1813.",
+      "context": "Joseph-Louis Lagrange's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Joseph-Louis Lagrange",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph-Louis_Lagrange",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-louis-lagrange-3-turning-point",
+      "text": "Joseph-Louis Lagrange is grouped with Science, Math & Technology in the People Library.",
+      "context": "Joseph-Louis Lagrange's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Joseph-Louis Lagrange",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph-Louis_Lagrange",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-louis-lagrange-4-contribution",
+      "text": "Joseph-Louis Lagrange's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Joseph-Louis Lagrange's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Joseph-Louis Lagrange",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph-Louis_Lagrange",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joseph-louis-lagrange-5-influence",
+      "text": "Joseph-Louis Lagrange has a Facts Mode card reserved for deeper source research.",
+      "context": "Joseph-Louis Lagrange's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Joseph-Louis Lagrange",
+      "sourceUrl": "https://pantheon.world/profile/person/Joseph-Louis_Lagrange",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

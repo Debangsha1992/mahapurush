@@ -1,0 +1,47 @@
+{
+  "personId": "angela-merkel",
+  "slug": "angela-merkel",
+  "name": "Angela Merkel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Angela Merkel",
+      "url": "https://en.wikipedia.org/wiki/Angela_Merkel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Chancellor of Germany from 2005 to 2021"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "angela-merkel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Angela Dorothea Merkel is a German stateswoman and retired politician who served as Chancellor of Germany from 2005 to 2021."
+    },
+    {
+      "factId": "angela-merkel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Angela Merkel is the only woman to have held the office and the only from former East Germany."
+    },
+    {
+      "factId": "angela-merkel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Angela Merkel was Leader of the Opposition from 2002 to 2005 and Leader of the Christian Democratic Union (CDU) from 2000 to 2018."
+    },
+    {
+      "factId": "angela-merkel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Angela Merkel is remembered as a politician connected with Germany."
+    },
+    {
+      "factId": "angela-merkel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Angela Merkel's recorded life dates place this profile around born 1954."
+    }
+  ]
+}

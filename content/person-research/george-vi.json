@@ -1,0 +1,46 @@
+{
+  "personId": "george-vi",
+  "slug": "george-vi",
+  "name": "George VI",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: George VI",
+      "url": "https://pantheon.world/profile/person/George_VI",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "george-vi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "George VI is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "george-vi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "George VI's recorded life dates place this profile around 1895-1952."
+    },
+    {
+      "factId": "george-vi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "George VI is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "george-vi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "George VI's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "george-vi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "George VI has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

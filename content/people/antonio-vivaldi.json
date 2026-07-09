@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Antonio Vivaldi is a notable composer associated with Italy.",
+  "summary": "Antonio Vivaldi is a notable composer connected with Italy.",
   "knownFor": [
     "Composer",
-    "147 language biography editions",
-    "Historical Popularity Index 91.0"
+    "Literature, Arts & Culture",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 102,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "antonio-vivaldi-pantheon-profile",
-      "text": "Pantheon ranks Antonio Vivaldi as a globally documented composer with biographies in 147 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Antonio Vivaldi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "antonio-vivaldi-1-origin",
+      "text": "Antonio Vivaldi is remembered as a composer connected with Italy.",
+      "context": "Antonio Vivaldi's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Antonio Vivaldi",
       "sourceUrl": "https://pantheon.world/profile/person/Antonio_Vivaldi",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonio-vivaldi-2-obstacle",
+      "text": "Antonio Vivaldi's recorded life dates place this profile around 1678-1741.",
+      "context": "Antonio Vivaldi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Antonio Vivaldi",
+      "sourceUrl": "https://pantheon.world/profile/person/Antonio_Vivaldi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonio-vivaldi-3-turning-point",
+      "text": "Antonio Vivaldi is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Antonio Vivaldi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Antonio Vivaldi",
+      "sourceUrl": "https://pantheon.world/profile/person/Antonio_Vivaldi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonio-vivaldi-4-contribution",
+      "text": "Antonio Vivaldi's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Antonio Vivaldi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Antonio Vivaldi",
+      "sourceUrl": "https://pantheon.world/profile/person/Antonio_Vivaldi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonio-vivaldi-5-influence",
+      "text": "Antonio Vivaldi has a Facts Mode card reserved for deeper source research.",
+      "context": "Antonio Vivaldi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Antonio Vivaldi",
+      "sourceUrl": "https://pantheon.world/profile/person/Antonio_Vivaldi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

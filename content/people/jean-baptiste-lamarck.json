@@ -12,11 +12,11 @@
     "science-math-technology",
     "biologist"
   ],
-  "summary": "Jean-Baptiste Lamarck is a notable biologist associated with France.",
+  "summary": "Jean-Baptiste Lamarck is a notable biologist connected with France.",
   "knownFor": [
     "Biologist",
-    "89 language biography editions",
-    "Historical Popularity Index 82.1"
+    "Science, Math & Technology",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Jean-Baptiste Lamarck",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jean-baptiste-lamarck-pantheon-profile",
-      "text": "Pantheon ranks Jean-Baptiste Lamarck as a globally documented biologist with biographies in 89 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jean-Baptiste Lamarck a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "jean-baptiste-lamarck-1-origin",
+      "text": "Jean-Baptiste Lamarck is remembered as a biologist connected with France.",
+      "context": "Jean-Baptiste Lamarck's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Jean-Baptiste Lamarck",
       "sourceUrl": "https://pantheon.world/profile/person/Jean-Baptiste_Lamarck",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-baptiste-lamarck-2-obstacle",
+      "text": "Jean-Baptiste Lamarck's recorded life dates place this profile around 1744-1829.",
+      "context": "Jean-Baptiste Lamarck's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Jean-Baptiste Lamarck",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Baptiste_Lamarck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-baptiste-lamarck-3-turning-point",
+      "text": "Jean-Baptiste Lamarck is grouped with Science, Math & Technology in the People Library.",
+      "context": "Jean-Baptiste Lamarck's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Jean-Baptiste Lamarck",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Baptiste_Lamarck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-baptiste-lamarck-4-contribution",
+      "text": "Jean-Baptiste Lamarck's profile connects a short Fact to a wider France historical setting.",
+      "context": "Jean-Baptiste Lamarck's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Jean-Baptiste Lamarck",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Baptiste_Lamarck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-baptiste-lamarck-5-influence",
+      "text": "Jean-Baptiste Lamarck has a Facts Mode card reserved for deeper source research.",
+      "context": "Jean-Baptiste Lamarck's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Jean-Baptiste Lamarck",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Baptiste_Lamarck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

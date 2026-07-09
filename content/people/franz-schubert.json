@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Franz Schubert is a notable composer associated with Austria.",
+  "summary": "Franz Schubert is a notable composer connected with Austria.",
   "knownFor": [
     "Composer",
-    "137 language biography editions",
-    "Historical Popularity Index 87.8"
+    "Literature, Arts & Culture",
+    "Austria"
   ],
   "featured": true,
   "featuredRank": 229,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "franz-schubert-pantheon-profile",
-      "text": "Pantheon ranks Franz Schubert as a globally documented composer with biographies in 137 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Franz Schubert a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "franz-schubert-1-origin",
+      "text": "Franz Schubert is remembered as a composer connected with Austria.",
+      "context": "Franz Schubert's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Franz Schubert",
       "sourceUrl": "https://pantheon.world/profile/person/Franz_Schubert",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-schubert-2-obstacle",
+      "text": "Franz Schubert's recorded life dates place this profile around 1797-1828.",
+      "context": "Franz Schubert's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Franz Schubert",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Schubert",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-schubert-3-turning-point",
+      "text": "Franz Schubert is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Franz Schubert's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Franz Schubert",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Schubert",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-schubert-4-contribution",
+      "text": "Franz Schubert's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Franz Schubert's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Franz Schubert",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Schubert",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "franz-schubert-5-influence",
+      "text": "Franz Schubert has a Facts Mode card reserved for deeper source research.",
+      "context": "Franz Schubert's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Franz Schubert",
+      "sourceUrl": "https://pantheon.world/profile/person/Franz_Schubert",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

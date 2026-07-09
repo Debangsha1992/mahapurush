@@ -1,0 +1,46 @@
+{
+  "personId": "selim-i",
+  "slug": "selim-i",
+  "name": "Selim I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Selim I",
+      "url": "https://pantheon.world/profile/person/Selim_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "selim-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Selim I is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "selim-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Selim I's recorded life dates place this profile around 1470-1520."
+    },
+    {
+      "factId": "selim-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Selim I is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "selim-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Selim I's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "selim-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Selim I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

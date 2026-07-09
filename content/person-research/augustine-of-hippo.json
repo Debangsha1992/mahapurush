@@ -1,0 +1,46 @@
+{
+  "personId": "augustine-of-hippo",
+  "slug": "augustine-of-hippo",
+  "name": "Augustine of Hippo",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Augustine of Hippo",
+      "url": "https://pantheon.world/profile/person/Augustine_of_Hippo",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "augustine-of-hippo-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Augustine of Hippo is remembered as a philosopher connected with Algeria."
+    },
+    {
+      "factId": "augustine-of-hippo-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Augustine of Hippo's recorded life dates place this profile around 354-430."
+    },
+    {
+      "factId": "augustine-of-hippo-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Augustine of Hippo is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "augustine-of-hippo-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Augustine of Hippo's profile connects a short Fact to a wider Algeria historical setting."
+    },
+    {
+      "factId": "augustine-of-hippo-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Augustine of Hippo has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

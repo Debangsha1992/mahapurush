@@ -1,0 +1,46 @@
+{
+  "personId": "charles-v-holy-roman-emperor",
+  "slug": "charles-v-holy-roman-emperor",
+  "name": "Charles V, Holy Roman Emperor",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles V, Holy Roman Emperor",
+      "url": "https://pantheon.world/profile/person/Charles_V%2C_Holy_Roman_Emperor",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-v-holy-roman-emperor-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles V, Holy Roman Emperor is remembered as a politician connected with Belgium."
+    },
+    {
+      "factId": "charles-v-holy-roman-emperor-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles V, Holy Roman Emperor's recorded life dates place this profile around 1500-1558."
+    },
+    {
+      "factId": "charles-v-holy-roman-emperor-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles V, Holy Roman Emperor is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "charles-v-holy-roman-emperor-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles V, Holy Roman Emperor's profile connects a short Fact to a wider Belgium historical setting."
+    },
+    {
+      "factId": "charles-v-holy-roman-emperor-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles V, Holy Roman Emperor has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

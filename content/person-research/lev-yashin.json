@@ -1,0 +1,46 @@
+{
+  "personId": "lev-yashin",
+  "slug": "lev-yashin",
+  "name": "Lev Yashin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Lev Yashin",
+      "url": "https://pantheon.world/profile/person/Lev_Yashin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lev-yashin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Lev Yashin is remembered as a soccer player connected with Russia."
+    },
+    {
+      "factId": "lev-yashin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Lev Yashin's recorded life dates place this profile around 1929-1990."
+    },
+    {
+      "factId": "lev-yashin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Lev Yashin is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "lev-yashin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lev Yashin's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "lev-yashin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lev Yashin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

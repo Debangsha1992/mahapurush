@@ -1,0 +1,46 @@
+{
+  "personId": "bertolt-brecht",
+  "slug": "bertolt-brecht",
+  "name": "Bertolt Brecht",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bertolt Brecht",
+      "url": "https://pantheon.world/profile/person/Bertolt_Brecht",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bertolt-brecht-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bertolt Brecht is remembered as a writer connected with Germany."
+    },
+    {
+      "factId": "bertolt-brecht-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bertolt Brecht's recorded life dates place this profile around 1898-1956."
+    },
+    {
+      "factId": "bertolt-brecht-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bertolt Brecht is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "bertolt-brecht-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bertolt Brecht's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "bertolt-brecht-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bertolt Brecht has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "wilhelm-rontgen",
+  "slug": "wilhelm-rontgen",
+  "name": "Wilhelm Röntgen",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Wilhelm Röntgen",
+      "url": "https://pantheon.world/profile/person/Wilhelm_R%C3%B6ntgen",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "wilhelm-rontgen-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Wilhelm Röntgen is remembered as a physicist connected with Germany."
+    },
+    {
+      "factId": "wilhelm-rontgen-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Wilhelm Röntgen's recorded life dates place this profile around 1845-1923."
+    },
+    {
+      "factId": "wilhelm-rontgen-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Wilhelm Röntgen is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "wilhelm-rontgen-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Wilhelm Röntgen's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "wilhelm-rontgen-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Wilhelm Röntgen has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

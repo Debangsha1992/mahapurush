@@ -1,0 +1,46 @@
+{
+  "personId": "andre-marie-ampere",
+  "slug": "andre-marie-ampere",
+  "name": "André-Marie Ampère",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: André-Marie Ampère",
+      "url": "https://pantheon.world/profile/person/Andr%C3%A9-Marie_Amp%C3%A8re",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "andre-marie-ampere-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "André-Marie Ampère is remembered as a physicist connected with France."
+    },
+    {
+      "factId": "andre-marie-ampere-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "André-Marie Ampère's recorded life dates place this profile around 1775-1836."
+    },
+    {
+      "factId": "andre-marie-ampere-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "André-Marie Ampère is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "andre-marie-ampere-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "André-Marie Ampère's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "andre-marie-ampere-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "André-Marie Ampère has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

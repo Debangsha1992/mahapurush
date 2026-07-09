@@ -1,0 +1,46 @@
+{
+  "personId": "ogedei-khan",
+  "slug": "ogedei-khan",
+  "name": "Ögedei Khan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ögedei Khan",
+      "url": "https://pantheon.world/profile/person/%C3%96gedei_Khan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ogedei-khan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ögedei Khan is remembered as a politician connected with Global."
+    },
+    {
+      "factId": "ogedei-khan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ögedei Khan's recorded life dates place this profile around 1185-1241."
+    },
+    {
+      "factId": "ogedei-khan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ögedei Khan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ogedei-khan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ögedei Khan's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "ogedei-khan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ögedei Khan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

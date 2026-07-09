@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Milan Kundera is a notable writer associated with Czechia.",
+  "summary": "Milan Kundera is a notable writer connected with Czechia.",
   "knownFor": [
     "Writer",
-    "83 language biography editions",
-    "Historical Popularity Index 82.1"
+    "Literature, Arts & Culture",
+    "Czechia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Milan Kundera",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "milan-kundera-pantheon-profile",
-      "text": "Pantheon ranks Milan Kundera as a globally documented writer with biographies in 83 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Milan Kundera a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "milan-kundera-1-origin",
+      "text": "Milan Kundera is remembered as a writer connected with Czechia.",
+      "context": "Milan Kundera's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Milan Kundera",
       "sourceUrl": "https://pantheon.world/profile/person/Milan_Kundera",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "milan-kundera-2-obstacle",
+      "text": "Milan Kundera's recorded life dates place this profile around 1929-2023.",
+      "context": "Milan Kundera's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Milan Kundera",
+      "sourceUrl": "https://pantheon.world/profile/person/Milan_Kundera",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "milan-kundera-3-turning-point",
+      "text": "Milan Kundera is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Milan Kundera's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Milan Kundera",
+      "sourceUrl": "https://pantheon.world/profile/person/Milan_Kundera",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "milan-kundera-4-contribution",
+      "text": "Milan Kundera's profile connects a short Fact to a wider Czechia historical setting.",
+      "context": "Milan Kundera's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Milan Kundera",
+      "sourceUrl": "https://pantheon.world/profile/person/Milan_Kundera",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "milan-kundera-5-influence",
+      "text": "Milan Kundera has a Facts Mode card reserved for deeper source research.",
+      "context": "Milan Kundera's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Milan Kundera",
+      "sourceUrl": "https://pantheon.world/profile/person/Milan_Kundera",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

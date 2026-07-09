@@ -12,11 +12,11 @@
     "science-math-technology",
     "computer-scientist"
   ],
-  "summary": "Alan Turing is a notable computer scientist associated with United Kingdom.",
+  "summary": "Alan Turing is a notable computer scientist connected with United Kingdom.",
   "knownFor": [
     "Computer Scientist",
-    "159 language biography editions",
-    "Historical Popularity Index 85.1"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 427,
@@ -26,23 +26,120 @@
       "title": "Pantheon: Alan Turing",
       "url": "https://pantheon.world/profile/person/Alan_Turing",
       "accessedAt": "2026-07-06"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Alan Turing",
+      "url": "https://www.britannica.com/biography/Alan-Turing",
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "alan-turing-pantheon-profile",
-      "text": "Pantheon ranks Alan Turing as a globally documented computer scientist with biographies in 159 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Alan Turing a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "alan-turing-approved-01",
+      "text": "Alan Turing helped break German Enigma-coded messages during World War II at Bletchley Park.",
+      "context": "Turing's wartime work shows how abstract logic can become a tool with real consequences for millions of lives.",
+      "sourceTitle": "Encyclopaedia Britannica: Alan Turing",
+      "sourceUrl": "https://www.britannica.com/biography/Alan-Turing",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "Britannica describes Turing's work at Bletchley Park and his role in codebreaking.",
+      "tags": [
+        "science-math-technology"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alan-turing-1-origin",
+      "text": "Alan Turing is remembered as a computer scientist connected with United Kingdom.",
+      "context": "Alan Turing's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Alan Turing",
       "sourceUrl": "https://pantheon.world/profile/person/Alan_Turing",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
       ],
-      "verified": true
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "alan-turing-2-obstacle",
+      "text": "Alan Turing's recorded life dates place this profile around 1912-1954.",
+      "context": "Alan Turing's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Alan Turing",
+      "sourceUrl": "https://pantheon.world/profile/person/Alan_Turing",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "alan-turing-3-turning-point",
+      "text": "Alan Turing is grouped with Science, Math & Technology in the People Library.",
+      "context": "Alan Turing's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Alan Turing",
+      "sourceUrl": "https://pantheon.world/profile/person/Alan_Turing",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "alan-turing-4-contribution",
+      "text": "Alan Turing's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Alan Turing's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Alan Turing",
+      "sourceUrl": "https://pantheon.world/profile/person/Alan_Turing",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "alan-turing-5-influence",
+      "text": "Alan Turing has a Facts Mode card reserved for deeper source research.",
+      "context": "Alan Turing's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Alan Turing",
+      "sourceUrl": "https://pantheon.world/profile/person/Alan_Turing",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ]
 }

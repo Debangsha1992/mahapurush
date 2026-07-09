@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Maurice Ravel is a notable composer associated with France.",
+  "summary": "Maurice Ravel is a notable composer connected with France.",
   "knownFor": [
     "Composer",
-    "88 language biography editions",
-    "Historical Popularity Index 83.2"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Maurice Ravel",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "maurice-ravel-pantheon-profile",
-      "text": "Pantheon ranks Maurice Ravel as a globally documented composer with biographies in 88 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Maurice Ravel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "maurice-ravel-1-origin",
+      "text": "Maurice Ravel is remembered as a composer connected with France.",
+      "context": "Maurice Ravel's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Maurice Ravel",
       "sourceUrl": "https://pantheon.world/profile/person/Maurice_Ravel",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maurice-ravel-2-obstacle",
+      "text": "Maurice Ravel's recorded life dates place this profile around 1875-1937.",
+      "context": "Maurice Ravel's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Maurice Ravel",
+      "sourceUrl": "https://pantheon.world/profile/person/Maurice_Ravel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maurice-ravel-3-turning-point",
+      "text": "Maurice Ravel is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Maurice Ravel's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Maurice Ravel",
+      "sourceUrl": "https://pantheon.world/profile/person/Maurice_Ravel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maurice-ravel-4-contribution",
+      "text": "Maurice Ravel's profile connects a short Fact to a wider France historical setting.",
+      "context": "Maurice Ravel's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Maurice Ravel",
+      "sourceUrl": "https://pantheon.world/profile/person/Maurice_Ravel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maurice-ravel-5-influence",
+      "text": "Maurice Ravel has a Facts Mode card reserved for deeper source research.",
+      "context": "Maurice Ravel's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Maurice Ravel",
+      "sourceUrl": "https://pantheon.world/profile/person/Maurice_Ravel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

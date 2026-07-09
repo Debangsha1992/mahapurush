@@ -1,0 +1,46 @@
+{
+  "personId": "aeschylus",
+  "slug": "aeschylus",
+  "name": "Aeschylus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Aeschylus",
+      "url": "https://pantheon.world/profile/person/Aeschylus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "aeschylus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Aeschylus is remembered as a writer connected with Greece."
+    },
+    {
+      "factId": "aeschylus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Aeschylus's recorded life dates place this profile around -525--456."
+    },
+    {
+      "factId": "aeschylus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Aeschylus is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "aeschylus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Aeschylus's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "aeschylus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Aeschylus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

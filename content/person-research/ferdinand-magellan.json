@@ -1,0 +1,46 @@
+{
+  "personId": "ferdinand-magellan",
+  "slug": "ferdinand-magellan",
+  "name": "Ferdinand Magellan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ferdinand Magellan",
+      "url": "https://pantheon.world/profile/person/Ferdinand_Magellan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ferdinand-magellan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand Magellan is remembered as a explorer connected with Portugal."
+    },
+    {
+      "factId": "ferdinand-magellan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand Magellan's recorded life dates place this profile around 1480-1521."
+    },
+    {
+      "factId": "ferdinand-magellan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand Magellan is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "ferdinand-magellan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand Magellan's profile connects a short Fact to a wider Portugal historical setting."
+    },
+    {
+      "factId": "ferdinand-magellan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand Magellan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

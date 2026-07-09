@@ -1,0 +1,46 @@
+{
+  "personId": "aleister-crowley",
+  "slug": "aleister-crowley",
+  "name": "Aleister Crowley",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Aleister Crowley",
+      "url": "https://pantheon.world/profile/person/Aleister_Crowley",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "aleister-crowley-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Aleister Crowley is remembered as a occultist connected with United Kingdom."
+    },
+    {
+      "factId": "aleister-crowley-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Aleister Crowley's recorded life dates place this profile around 1875-1947."
+    },
+    {
+      "factId": "aleister-crowley-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Aleister Crowley is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "aleister-crowley-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Aleister Crowley's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "aleister-crowley-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Aleister Crowley has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

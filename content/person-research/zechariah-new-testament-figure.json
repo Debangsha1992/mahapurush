@@ -1,0 +1,46 @@
+{
+  "personId": "zechariah-new-testament-figure",
+  "slug": "zechariah-new-testament-figure",
+  "name": "Zechariah",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Zechariah",
+      "url": "https://pantheon.world/profile/person/Zechariah_(New_Testament_figure)",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "zechariah-new-testament-figure-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Zechariah is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "zechariah-new-testament-figure-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Zechariah's recorded life dates place this profile around -90-100."
+    },
+    {
+      "factId": "zechariah-new-testament-figure-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Zechariah is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "zechariah-new-testament-figure-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Zechariah's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "zechariah-new-testament-figure-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Zechariah has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

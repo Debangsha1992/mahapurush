@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Hans Christian Andersen is a notable writer associated with Denmark.",
+  "summary": "Hans Christian Andersen is a notable writer connected with Denmark.",
   "knownFor": [
     "Writer",
-    "180 language biography editions",
-    "Historical Popularity Index 90.1"
+    "Literature, Arts & Culture",
+    "Denmark"
   ],
   "featured": true,
   "featuredRank": 126,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hans-christian-andersen-pantheon-profile",
-      "text": "Pantheon ranks Hans Christian Andersen as a globally documented writer with biographies in 180 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hans Christian Andersen a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hans-christian-andersen-1-origin",
+      "text": "Hans Christian Andersen is remembered as a writer connected with Denmark.",
+      "context": "Hans Christian Andersen's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Hans Christian Andersen",
       "sourceUrl": "https://pantheon.world/profile/person/Hans_Christian_Andersen",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hans-christian-andersen-2-obstacle",
+      "text": "Hans Christian Andersen's recorded life dates place this profile around 1805-1875.",
+      "context": "Hans Christian Andersen's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hans Christian Andersen",
+      "sourceUrl": "https://pantheon.world/profile/person/Hans_Christian_Andersen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hans-christian-andersen-3-turning-point",
+      "text": "Hans Christian Andersen is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Hans Christian Andersen's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hans Christian Andersen",
+      "sourceUrl": "https://pantheon.world/profile/person/Hans_Christian_Andersen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hans-christian-andersen-4-contribution",
+      "text": "Hans Christian Andersen's profile connects a short Fact to a wider Denmark historical setting.",
+      "context": "Hans Christian Andersen's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hans Christian Andersen",
+      "sourceUrl": "https://pantheon.world/profile/person/Hans_Christian_Andersen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hans-christian-andersen-5-influence",
+      "text": "Hans Christian Andersen has a Facts Mode card reserved for deeper source research.",
+      "context": "Hans Christian Andersen's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hans Christian Andersen",
+      "sourceUrl": "https://pantheon.world/profile/person/Hans_Christian_Andersen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

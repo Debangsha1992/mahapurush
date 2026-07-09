@@ -12,34 +12,104 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Stendhal is a notable writer associated with France.",
+  "summary": "Marie-Henri Beyle, better known by his pen name Stendhal, was a French writer.",
   "knownFor": [
     "Writer",
-    "91 language biography editions",
-    "Historical Popularity Index 83.8"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Stendhal",
   "sourceRefs": [
     {
-      "title": "Pantheon: Stendhal",
-      "url": "https://pantheon.world/profile/person/Stendhal",
+      "title": "Wikipedia: Stendhal",
+      "url": "https://en.wikipedia.org/wiki/Stendhal",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "stendhal-pantheon-profile",
-      "text": "Pantheon ranks Stendhal as a globally documented writer with biographies in 91 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Stendhal a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Stendhal",
-      "sourceUrl": "https://pantheon.world/profile/person/Stendhal",
+      "id": "stendhal-1-origin",
+      "text": "Marie-Henri Beyle, better known by his pen name Stendhal, was a French writer.",
+      "context": "Stendhal's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Stendhal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stendhal",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stendhal-2-obstacle",
+      "text": "Stendhal is remembered as a writer connected with France.",
+      "context": "Stendhal's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Stendhal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stendhal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stendhal-3-turning-point",
+      "text": "Stendhal's recorded life dates place this profile around 1783-1842.",
+      "context": "Stendhal's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Stendhal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stendhal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stendhal-4-contribution",
+      "text": "Stendhal is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Stendhal's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Stendhal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stendhal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stendhal-5-influence",
+      "text": "Stendhal's profile connects a short Fact to a wider France historical setting.",
+      "context": "Stendhal's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Stendhal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Stendhal",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

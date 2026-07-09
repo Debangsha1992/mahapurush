@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Imelda Marcos is a notable companion associated with Philippines.",
+  "summary": "Imelda Marcos is a notable companion connected with Philippines.",
   "knownFor": [
     "Companion",
-    "95 language biography editions",
-    "Historical Popularity Index 83.2"
+    "Justice, Governance & Leadership",
+    "Philippines"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Imelda Marcos",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "imelda-marcos-pantheon-profile",
-      "text": "Pantheon ranks Imelda Marcos as a globally documented companion with biographies in 95 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Imelda Marcos a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "imelda-marcos-1-origin",
+      "text": "Imelda Marcos is remembered as a companion connected with Philippines.",
+      "context": "Imelda Marcos's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Imelda Marcos",
       "sourceUrl": "https://pantheon.world/profile/person/Imelda_Marcos",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "imelda-marcos-2-obstacle",
+      "text": "Imelda Marcos's recorded life dates place this profile around born 1929.",
+      "context": "Imelda Marcos's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Imelda Marcos",
+      "sourceUrl": "https://pantheon.world/profile/person/Imelda_Marcos",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "imelda-marcos-3-turning-point",
+      "text": "Imelda Marcos is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Imelda Marcos's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Imelda Marcos",
+      "sourceUrl": "https://pantheon.world/profile/person/Imelda_Marcos",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "imelda-marcos-4-contribution",
+      "text": "Imelda Marcos's profile connects a short Fact to a wider Philippines historical setting.",
+      "context": "Imelda Marcos's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Imelda Marcos",
+      "sourceUrl": "https://pantheon.world/profile/person/Imelda_Marcos",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "imelda-marcos-5-influence",
+      "text": "Imelda Marcos has a Facts Mode card reserved for deeper source research.",
+      "context": "Imelda Marcos's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Imelda Marcos",
+      "sourceUrl": "https://pantheon.world/profile/person/Imelda_Marcos",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

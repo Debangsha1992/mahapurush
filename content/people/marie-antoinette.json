@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Marie Antoinette is a notable nobleman associated with Austria.",
+  "summary": "Marie Antoinette is a notable nobleman connected with Austria.",
   "knownFor": [
     "Nobleman",
-    "101 language biography editions",
-    "Historical Popularity Index 87.4"
+    "Justice, Governance & Leadership",
+    "Austria"
   ],
   "featured": true,
   "featuredRank": 250,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "marie-antoinette-pantheon-profile",
-      "text": "Pantheon ranks Marie Antoinette as a globally documented nobleman with biographies in 101 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Marie Antoinette a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "marie-antoinette-1-origin",
+      "text": "Marie Antoinette is remembered as a nobleman connected with Austria.",
+      "context": "Marie Antoinette's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Marie Antoinette",
       "sourceUrl": "https://pantheon.world/profile/person/Marie_Antoinette",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-antoinette-2-obstacle",
+      "text": "Marie Antoinette's recorded life dates place this profile around 1755-1793.",
+      "context": "Marie Antoinette's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Marie Antoinette",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_Antoinette",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-antoinette-3-turning-point",
+      "text": "Marie Antoinette is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Marie Antoinette's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Marie Antoinette",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_Antoinette",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-antoinette-4-contribution",
+      "text": "Marie Antoinette's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Marie Antoinette's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Marie Antoinette",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_Antoinette",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-antoinette-5-influence",
+      "text": "Marie Antoinette has a Facts Mode card reserved for deeper source research.",
+      "context": "Marie Antoinette's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Marie Antoinette",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_Antoinette",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

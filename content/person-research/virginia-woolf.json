@@ -1,0 +1,46 @@
+{
+  "personId": "virginia-woolf",
+  "slug": "virginia-woolf",
+  "name": "Virginia Woolf",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Virginia Woolf",
+      "url": "https://pantheon.world/profile/person/Virginia_Woolf",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "virginia-woolf-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Virginia Woolf is remembered as a writer connected with United Kingdom."
+    },
+    {
+      "factId": "virginia-woolf-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Virginia Woolf's recorded life dates place this profile around 1882-1941."
+    },
+    {
+      "factId": "virginia-woolf-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Virginia Woolf is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "virginia-woolf-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Virginia Woolf's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "virginia-woolf-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Virginia Woolf has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

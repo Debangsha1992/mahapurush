@@ -1,0 +1,46 @@
+{
+  "personId": "janis-joplin",
+  "slug": "janis-joplin",
+  "name": "Janis Joplin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Janis Joplin",
+      "url": "https://pantheon.world/profile/person/Janis_Joplin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "janis-joplin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Janis Joplin is remembered as a singer connected with United States."
+    },
+    {
+      "factId": "janis-joplin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Janis Joplin's recorded life dates place this profile around 1943-1970."
+    },
+    {
+      "factId": "janis-joplin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Janis Joplin is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "janis-joplin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Janis Joplin's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "janis-joplin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Janis Joplin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

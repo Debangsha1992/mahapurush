@@ -1,0 +1,46 @@
+{
+  "personId": "mary-i-of-england",
+  "slug": "mary-i-of-england",
+  "name": "Mary I of England",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mary I of England",
+      "url": "https://pantheon.world/profile/person/Mary_I_of_England",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mary-i-of-england-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mary I of England is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "mary-i-of-england-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mary I of England's recorded life dates place this profile around 1516-1558."
+    },
+    {
+      "factId": "mary-i-of-england-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mary I of England is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mary-i-of-england-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mary I of England's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "mary-i-of-england-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mary I of England has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "cecil-rhodes",
+  "slug": "cecil-rhodes",
+  "name": "Cecil Rhodes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Cecil Rhodes",
+      "url": "https://pantheon.world/profile/person/Cecil_Rhodes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "cecil-rhodes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Cecil Rhodes is remembered as a businessperson connected with United Kingdom."
+    },
+    {
+      "factId": "cecil-rhodes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Cecil Rhodes's recorded life dates place this profile around 1853-1902."
+    },
+    {
+      "factId": "cecil-rhodes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Cecil Rhodes is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "cecil-rhodes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Cecil Rhodes's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "cecil-rhodes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Cecil Rhodes has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

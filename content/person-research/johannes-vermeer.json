@@ -1,0 +1,46 @@
+{
+  "personId": "johannes-vermeer",
+  "slug": "johannes-vermeer",
+  "name": "Johannes Vermeer",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Johannes Vermeer",
+      "url": "https://pantheon.world/profile/person/Johannes_Vermeer",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "johannes-vermeer-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Vermeer is remembered as a painter connected with Netherlands."
+    },
+    {
+      "factId": "johannes-vermeer-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Vermeer's recorded life dates place this profile around 1632-1675."
+    },
+    {
+      "factId": "johannes-vermeer-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Vermeer is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "johannes-vermeer-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Vermeer's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "johannes-vermeer-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Johannes Vermeer has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

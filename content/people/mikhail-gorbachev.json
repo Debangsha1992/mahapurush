@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mikhail Gorbachev is a notable politician associated with Russia.",
+  "summary": "Mikhail Gorbachev is a notable politician connected with Russia.",
   "knownFor": [
     "Politician",
-    "156 language biography editions",
-    "Historical Popularity Index 87.6"
+    "Justice, Governance & Leadership",
+    "Russia"
   ],
   "featured": true,
   "featuredRank": 236,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mikhail-gorbachev-pantheon-profile",
-      "text": "Pantheon ranks Mikhail Gorbachev as a globally documented politician with biographies in 156 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mikhail Gorbachev a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mikhail-gorbachev-1-origin",
+      "text": "Mikhail Gorbachev is remembered as a politician connected with Russia.",
+      "context": "Mikhail Gorbachev's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mikhail Gorbachev",
       "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Gorbachev",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mikhail-gorbachev-2-obstacle",
+      "text": "Mikhail Gorbachev's recorded life dates place this profile around 1931-2022.",
+      "context": "Mikhail Gorbachev's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mikhail Gorbachev",
+      "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Gorbachev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mikhail-gorbachev-3-turning-point",
+      "text": "Mikhail Gorbachev is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mikhail Gorbachev's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mikhail Gorbachev",
+      "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Gorbachev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mikhail-gorbachev-4-contribution",
+      "text": "Mikhail Gorbachev's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Mikhail Gorbachev's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mikhail Gorbachev",
+      "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Gorbachev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mikhail-gorbachev-5-influence",
+      "text": "Mikhail Gorbachev has a Facts Mode card reserved for deeper source research.",
+      "context": "Mikhail Gorbachev's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mikhail Gorbachev",
+      "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Gorbachev",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

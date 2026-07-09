@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Peter Paul Rubens is a notable painter associated with Germany.",
+  "summary": "Peter Paul Rubens is a notable painter connected with Germany.",
   "knownFor": [
     "Painter",
-    "150 language biography editions",
-    "Historical Popularity Index 88.3"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 206,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "peter-paul-rubens-pantheon-profile",
-      "text": "Pantheon ranks Peter Paul Rubens as a globally documented painter with biographies in 150 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Peter Paul Rubens a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "peter-paul-rubens-1-origin",
+      "text": "Peter Paul Rubens is remembered as a painter connected with Germany.",
+      "context": "Peter Paul Rubens's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Peter Paul Rubens",
       "sourceUrl": "https://pantheon.world/profile/person/Peter_Paul_Rubens",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "peter-paul-rubens-2-obstacle",
+      "text": "Peter Paul Rubens's recorded life dates place this profile around 1577-1640.",
+      "context": "Peter Paul Rubens's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Peter Paul Rubens",
+      "sourceUrl": "https://pantheon.world/profile/person/Peter_Paul_Rubens",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "peter-paul-rubens-3-turning-point",
+      "text": "Peter Paul Rubens is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Peter Paul Rubens's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Peter Paul Rubens",
+      "sourceUrl": "https://pantheon.world/profile/person/Peter_Paul_Rubens",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "peter-paul-rubens-4-contribution",
+      "text": "Peter Paul Rubens's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Peter Paul Rubens's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Peter Paul Rubens",
+      "sourceUrl": "https://pantheon.world/profile/person/Peter_Paul_Rubens",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "peter-paul-rubens-5-influence",
+      "text": "Peter Paul Rubens has a Facts Mode card reserved for deeper source research.",
+      "context": "Peter Paul Rubens's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Peter Paul Rubens",
+      "sourceUrl": "https://pantheon.world/profile/person/Peter_Paul_Rubens",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

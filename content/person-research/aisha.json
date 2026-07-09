@@ -1,0 +1,46 @@
+{
+  "personId": "aisha",
+  "slug": "aisha",
+  "name": "Aisha",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Aisha",
+      "url": "https://pantheon.world/profile/person/Aisha",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "aisha-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Aisha is remembered as a companion connected with Saudi Arabia."
+    },
+    {
+      "factId": "aisha-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Aisha's recorded life dates place this profile around 605-678."
+    },
+    {
+      "factId": "aisha-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Aisha is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "aisha-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Aisha's profile connects a short Fact to a wider Saudi Arabia historical setting."
+    },
+    {
+      "factId": "aisha-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Aisha has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

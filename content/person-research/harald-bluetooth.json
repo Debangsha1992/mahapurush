@@ -1,0 +1,46 @@
+{
+  "personId": "harald-bluetooth",
+  "slug": "harald-bluetooth",
+  "name": "Harald Bluetooth",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Harald Bluetooth",
+      "url": "https://pantheon.world/profile/person/Harald_Bluetooth",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "harald-bluetooth-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Harald Bluetooth is remembered as a politician connected with Denmark."
+    },
+    {
+      "factId": "harald-bluetooth-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Harald Bluetooth's recorded life dates place this profile around 935-986."
+    },
+    {
+      "factId": "harald-bluetooth-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Harald Bluetooth is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "harald-bluetooth-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Harald Bluetooth's profile connects a short Fact to a wider Denmark historical setting."
+    },
+    {
+      "factId": "harald-bluetooth-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Harald Bluetooth has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

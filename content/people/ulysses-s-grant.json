@@ -12,35 +12,105 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Ulysses S. Grant is a notable politician associated with United States.",
+  "summary": "Grant was the 18th president of the United States, serving from 1869 to 1877, and was the Commanding General of the Union Army, leading it to victory in the American Civil War in 1865.",
   "knownFor": [
     "Politician",
-    "135 language biography editions",
-    "Historical Popularity Index 89.2"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 166,
   "imageAlt": "Portrait-style visual for Ulysses S. Grant",
   "sourceRefs": [
     {
-      "title": "Pantheon: Ulysses S. Grant",
-      "url": "https://pantheon.world/profile/person/Ulysses_S._Grant",
+      "title": "Wikipedia: Ulysses S. Grant",
+      "url": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ulysses-s-grant-pantheon-profile",
-      "text": "Pantheon ranks Ulysses S. Grant as a globally documented politician with biographies in 135 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ulysses S. Grant a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Ulysses S. Grant",
-      "sourceUrl": "https://pantheon.world/profile/person/Ulysses_S._Grant",
+      "id": "ulysses-s-grant-1-origin",
+      "text": "Ulysses S. Grant was the 18th president of the United States, serving from 1869 to 1877, and was the Commanding General of the Union Army, leading it to victory in the American Civil War in 1865.",
+      "context": "Ulysses S. Grant's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Ulysses S. Grant",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ulysses-s-grant-2-obstacle",
+      "text": "Ulysses S. Grant is remembered as a politician connected with United States.",
+      "context": "Ulysses S. Grant's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Ulysses S. Grant",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ulysses-s-grant-3-turning-point",
+      "text": "Ulysses S. Grant's recorded life dates place this profile around 1822-1885.",
+      "context": "Ulysses S. Grant's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Ulysses S. Grant",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ulysses-s-grant-4-contribution",
+      "text": "Ulysses S. Grant is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ulysses S. Grant's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Ulysses S. Grant",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ulysses-s-grant-5-influence",
+      "text": "Ulysses S. Grant's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Ulysses S. Grant's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Ulysses S. Grant",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

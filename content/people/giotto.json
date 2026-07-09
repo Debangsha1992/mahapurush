@@ -12,35 +12,102 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Giotto is a notable painter associated with Italy.",
+  "summary": "Giotto di Bondone, known mononymously as Giotto, was an Italian painter and architect from Florence during the Late Middle Ages.",
   "knownFor": [
     "Painter",
-    "90 language biography editions",
-    "Historical Popularity Index 85.0"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 440,
   "imageAlt": "Portrait-style visual for Giotto",
   "sourceRefs": [
     {
-      "title": "Pantheon: Giotto",
-      "url": "https://pantheon.world/profile/person/Giotto",
+      "title": "Wikipedia: Giotto",
+      "url": "https://en.wikipedia.org/wiki/Giotto",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "giotto-pantheon-profile",
-      "text": "Pantheon ranks Giotto as a globally documented painter with biographies in 90 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Giotto a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Giotto",
-      "sourceUrl": "https://pantheon.world/profile/person/Giotto",
+      "id": "giotto-1-origin",
+      "text": "Giotto di Bondone, known mononymously as Giotto, was an Italian painter and architect from Florence during the Late Middle Ages.",
+      "context": "Giotto's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Giotto",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Giotto",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "giotto-2-obstacle",
+      "text": "Giotto worked during the Gothic and Proto-Renaissance period.",
+      "context": "Giotto's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Giotto",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Giotto",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "giotto-3-turning-point",
+      "text": "Giotto's contemporary, the banker and chronicler Giovanni Villani, wrote that Giotto was \"the most sovereign master of painting in his time, who drew all his figures and their postures according to nature\" and of his publicly recognized \"talent and excellence\".",
+      "context": "Giotto's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Giotto",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Giotto",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "giotto-4-contribution",
+      "text": "Giorgio Vasari described Giotto as making a decisive break from the prevalent Byzantine style and as initiating \"the great art of painting as we know it today, introducing the technique of drawing accurately from life, which had been neglected for more than two hundred years\".",
+      "context": "Giotto's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Giotto",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Giotto",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "giotto-5-influence",
+      "text": "Giotto is remembered as a painter connected with Italy.",
+      "context": "Giotto's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Giotto",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Giotto",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

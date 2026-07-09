@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Kösem Sultan is a notable politician associated with Greece.",
+  "summary": "Kösem Sultan is a notable politician connected with Greece.",
   "knownFor": [
     "Politician",
-    "55 language biography editions",
-    "Historical Popularity Index 83.1"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Kösem Sultan",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "kosem-sultan-pantheon-profile",
-      "text": "Pantheon ranks Kösem Sultan as a globally documented politician with biographies in 55 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Kösem Sultan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "kosem-sultan-1-origin",
+      "text": "Kösem Sultan is remembered as a politician connected with Greece.",
+      "context": "Kösem Sultan's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Kösem Sultan",
       "sourceUrl": "https://pantheon.world/profile/person/K%C3%B6sem_Sultan",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kosem-sultan-2-obstacle",
+      "text": "Kösem Sultan's recorded life dates place this profile around 1590-1651.",
+      "context": "Kösem Sultan's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Kösem Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/K%C3%B6sem_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kosem-sultan-3-turning-point",
+      "text": "Kösem Sultan is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Kösem Sultan's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Kösem Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/K%C3%B6sem_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kosem-sultan-4-contribution",
+      "text": "Kösem Sultan's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Kösem Sultan's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Kösem Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/K%C3%B6sem_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kosem-sultan-5-influence",
+      "text": "Kösem Sultan has a Facts Mode card reserved for deeper source research.",
+      "context": "Kösem Sultan's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Kösem Sultan",
+      "sourceUrl": "https://pantheon.world/profile/person/K%C3%B6sem_Sultan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

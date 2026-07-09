@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Napoleon III is a notable politician associated with France.",
+  "summary": "Napoleon III is a notable politician connected with France.",
   "knownFor": [
     "Politician",
-    "109 language biography editions",
-    "Historical Popularity Index 85.1"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": true,
   "featuredRank": 438,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "napoleon-iii-pantheon-profile",
-      "text": "Pantheon ranks Napoleon III as a globally documented politician with biographies in 109 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Napoleon III a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "napoleon-iii-1-origin",
+      "text": "Napoleon III is remembered as a politician connected with France.",
+      "context": "Napoleon III's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Napoleon III",
       "sourceUrl": "https://pantheon.world/profile/person/Napoleon_III",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "napoleon-iii-2-obstacle",
+      "text": "Napoleon III's recorded life dates place this profile around 1808-1873.",
+      "context": "Napoleon III's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Napoleon III",
+      "sourceUrl": "https://pantheon.world/profile/person/Napoleon_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "napoleon-iii-3-turning-point",
+      "text": "Napoleon III is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Napoleon III's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Napoleon III",
+      "sourceUrl": "https://pantheon.world/profile/person/Napoleon_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "napoleon-iii-4-contribution",
+      "text": "Napoleon III's profile connects a short Fact to a wider France historical setting.",
+      "context": "Napoleon III's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Napoleon III",
+      "sourceUrl": "https://pantheon.world/profile/person/Napoleon_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "napoleon-iii-5-influence",
+      "text": "Napoleon III has a Facts Mode card reserved for deeper source research.",
+      "context": "Napoleon III's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Napoleon III",
+      "sourceUrl": "https://pantheon.world/profile/person/Napoleon_III",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "sulla",
+  "slug": "sulla",
+  "name": "Sulla",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Sulla",
+      "url": "https://pantheon.world/profile/person/Sulla",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sulla-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Sulla is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "sulla-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Sulla's recorded life dates place this profile around -138--78."
+    },
+    {
+      "factId": "sulla-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Sulla is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "sulla-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Sulla's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "sulla-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sulla has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

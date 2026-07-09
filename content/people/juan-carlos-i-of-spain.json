@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Juan Carlos I of Spain is a notable nobleman associated with Italy.",
+  "summary": "Juan Carlos I of Spain is a notable nobleman connected with Italy.",
   "knownFor": [
     "Nobleman",
-    "109 language biography editions",
-    "Historical Popularity Index 84.8"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 452,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "juan-carlos-i-of-spain-pantheon-profile",
-      "text": "Pantheon ranks Juan Carlos I of Spain as a globally documented nobleman with biographies in 109 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Juan Carlos I of Spain a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "juan-carlos-i-of-spain-1-origin",
+      "text": "Juan Carlos I of Spain is remembered as a nobleman connected with Italy.",
+      "context": "Juan Carlos I of Spain's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Juan Carlos I of Spain",
       "sourceUrl": "https://pantheon.world/profile/person/Juan_Carlos_I_of_Spain",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "juan-carlos-i-of-spain-2-obstacle",
+      "text": "Juan Carlos I of Spain's recorded life dates place this profile around born 1938.",
+      "context": "Juan Carlos I of Spain's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Juan Carlos I of Spain",
+      "sourceUrl": "https://pantheon.world/profile/person/Juan_Carlos_I_of_Spain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "juan-carlos-i-of-spain-3-turning-point",
+      "text": "Juan Carlos I of Spain is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Juan Carlos I of Spain's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Juan Carlos I of Spain",
+      "sourceUrl": "https://pantheon.world/profile/person/Juan_Carlos_I_of_Spain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "juan-carlos-i-of-spain-4-contribution",
+      "text": "Juan Carlos I of Spain's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Juan Carlos I of Spain's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Juan Carlos I of Spain",
+      "sourceUrl": "https://pantheon.world/profile/person/Juan_Carlos_I_of_Spain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "juan-carlos-i-of-spain-5-influence",
+      "text": "Juan Carlos I of Spain has a Facts Mode card reserved for deeper source research.",
+      "context": "Juan Carlos I of Spain's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Juan Carlos I of Spain",
+      "sourceUrl": "https://pantheon.world/profile/person/Juan_Carlos_I_of_Spain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

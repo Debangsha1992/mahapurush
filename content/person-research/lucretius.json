@@ -1,0 +1,47 @@
+{
+  "personId": "lucretius",
+  "slug": "lucretius",
+  "name": "Lucretius",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Lucretius",
+      "url": "https://en.wikipedia.org/wiki/Lucretius",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "1st-century BC Roman poet and philosopher"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lucretius-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Titus Lucretius Carus was a Roman poet and philosopher."
+    },
+    {
+      "factId": "lucretius-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Lucretius's only known work is the philosophical poem De rerum natura, a didactic work about the tenets and philosophy of Epicureanism, which usually is translated into English as On the Nature of Things—and somewhat less often as On the Nature of the Universe."
+    },
+    {
+      "factId": "lucretius-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Very little is known about Lucretius's life; the only certainty is that he was either a friend or client of Gaius Memmius, to whom the poem was addressed and dedicated."
+    },
+    {
+      "factId": "lucretius-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lucretius is remembered as a philosopher connected with Italy."
+    },
+    {
+      "factId": "lucretius-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lucretius's recorded life dates place this profile around -94--55."
+    }
+  ]
+}

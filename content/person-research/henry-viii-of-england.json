@@ -1,0 +1,46 @@
+{
+  "personId": "henry-viii-of-england",
+  "slug": "henry-viii-of-england",
+  "name": "Henry VIII of England",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Henry VIII of England",
+      "url": "https://pantheon.world/profile/person/Henry_VIII_of_England",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "henry-viii-of-england-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Henry VIII of England is remembered as a nobleman connected with United Kingdom."
+    },
+    {
+      "factId": "henry-viii-of-england-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Henry VIII of England's recorded life dates place this profile around 1491-1547."
+    },
+    {
+      "factId": "henry-viii-of-england-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Henry VIII of England is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "henry-viii-of-england-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Henry VIII of England's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "henry-viii-of-england-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Henry VIII of England has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

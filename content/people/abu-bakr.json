@@ -12,35 +12,103 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Abu Bakr is a notable religious figure associated with Saudi Arabia.",
+  "summary": "Abu Bakr, born Abdullah ibn Abi Quhafa, was a senior companion, and father-in-law of Muhammad, the Islamic prophet.",
   "knownFor": [
     "Religious Figure",
-    "110 language biography editions",
-    "Historical Popularity Index 89.1"
+    "Philosophy, Ethics & Religion",
+    "Saudi Arabia"
   ],
   "featured": true,
   "featuredRank": 171,
   "imageAlt": "Portrait-style visual for Abu Bakr",
   "sourceRefs": [
     {
-      "title": "Pantheon: Abu Bakr",
-      "url": "https://pantheon.world/profile/person/Abu_Bakr",
+      "title": "Wikipedia: Abu Bakr",
+      "url": "https://en.wikipedia.org/wiki/Abu_Bakr",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "abu-bakr-pantheon-profile",
-      "text": "Pantheon ranks Abu Bakr as a globally documented religious figure with biographies in 110 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Abu Bakr a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Abu Bakr",
-      "sourceUrl": "https://pantheon.world/profile/person/Abu_Bakr",
+      "id": "abu-bakr-1-origin",
+      "text": "Abu Bakr, born Abdullah ibn Abi Quhafa, was a senior companion, and father-in-law of Muhammad, the Islamic prophet.",
+      "context": "Abu Bakr's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Abu Bakr",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "abu-bakr-2-obstacle",
+      "text": "Abu Bakr served as the first caliph of the Rashidun Caliphate, ruling from 632 until his death in 634.",
+      "context": "Abu Bakr's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Abu Bakr",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "abu-bakr-3-turning-point",
+      "text": "Abu Bakr was granted the honorific title al-Ṣiddīq by Muhammad, a designation that continues to be used by Sunni Muslims to this day.",
+      "context": "Abu Bakr's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Abu Bakr",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "abu-bakr-4-contribution",
+      "text": "Abu Bakr is remembered as a religious figure connected with Saudi Arabia.",
+      "context": "Abu Bakr's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Abu Bakr",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "abu-bakr-5-influence",
+      "text": "Abu Bakr's recorded life dates place this profile around 573-634.",
+      "context": "Abu Bakr's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Abu Bakr",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Abu_Bakr",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

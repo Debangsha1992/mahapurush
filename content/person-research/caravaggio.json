@@ -1,0 +1,47 @@
+{
+  "personId": "caravaggio",
+  "slug": "caravaggio",
+  "name": "Caravaggio",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Caravaggio",
+      "url": "https://en.wikipedia.org/wiki/Caravaggio",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Italian painter (1571–1610)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "caravaggio-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Michelangelo Merisi da Caravaggio, known mononymously as Caravaggio, was an Italian painter active in Rome for a significant portion of his artistic life."
+    },
+    {
+      "factId": "caravaggio-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Caravaggio began his apprenticeship in Milan in 1584, and during the final four years of his life, he moved between Naples, Malta, and Sicily."
+    },
+    {
+      "factId": "caravaggio-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Caravaggio's paintings have been characterized by art critics as combining a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting."
+    },
+    {
+      "factId": "caravaggio-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Caravaggio is remembered as a painter connected with Italy."
+    },
+    {
+      "factId": "caravaggio-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Caravaggio's recorded life dates place this profile around 1571-1610."
+    }
+  ]
+}

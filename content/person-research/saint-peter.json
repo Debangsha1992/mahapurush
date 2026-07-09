@@ -1,0 +1,46 @@
+{
+  "personId": "saint-peter",
+  "slug": "saint-peter",
+  "name": "Saint Peter",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Saint Peter",
+      "url": "https://pantheon.world/profile/person/Saint_Peter",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saint-peter-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Saint Peter is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "saint-peter-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Saint Peter's recorded life dates place this profile around -1-67."
+    },
+    {
+      "factId": "saint-peter-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Saint Peter is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "saint-peter-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Saint Peter's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "saint-peter-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Saint Peter has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "thomas-edison",
+  "slug": "thomas-edison",
+  "name": "Thomas Edison",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Thomas Edison",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Edison",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "American inventor and businessman (1847–1931)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "thomas-edison-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Thomas Alva Thomas Edison was an American inventor and businessman."
+    },
+    {
+      "factId": "thomas-edison-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Thomas Edison grew up in Michigan with little formal schooling and began working at a young age."
+    },
+    {
+      "factId": "thomas-edison-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Thomas Edison became deaf as a child and learned through books and tinkering."
+    },
+    {
+      "factId": "thomas-edison-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Thomas Edison had three children with Mary, his first wife, but Edison was neglectful."
+    },
+    {
+      "factId": "thomas-edison-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "verified",
+      "text": "Thomas Edison had troubled relationships with his kids for the rest of his life."
+    }
+  ]
+}

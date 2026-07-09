@@ -1,0 +1,46 @@
+{
+  "personId": "david-lynch",
+  "slug": "david-lynch",
+  "name": "David Lynch",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: David Lynch",
+      "url": "https://pantheon.world/profile/person/David_Lynch",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "david-lynch-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "David Lynch is remembered as a film director connected with United States."
+    },
+    {
+      "factId": "david-lynch-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "David Lynch's recorded life dates place this profile around 1946-2025."
+    },
+    {
+      "factId": "david-lynch-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "David Lynch is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "david-lynch-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "David Lynch's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "david-lynch-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "David Lynch has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

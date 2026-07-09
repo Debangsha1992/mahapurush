@@ -1,0 +1,46 @@
+{
+  "personId": "hokusai",
+  "slug": "hokusai",
+  "name": "Hokusai",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hokusai",
+      "url": "https://pantheon.world/profile/person/Hokusai",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hokusai-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hokusai is remembered as a artist connected with Japan."
+    },
+    {
+      "factId": "hokusai-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hokusai's recorded life dates place this profile around 1760-1849."
+    },
+    {
+      "factId": "hokusai-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hokusai is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "hokusai-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hokusai's profile connects a short Fact to a wider Japan historical setting."
+    },
+    {
+      "factId": "hokusai-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hokusai has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

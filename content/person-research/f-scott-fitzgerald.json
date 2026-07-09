@@ -1,0 +1,46 @@
+{
+  "personId": "f-scott-fitzgerald",
+  "slug": "f-scott-fitzgerald",
+  "name": "F. Scott Fitzgerald",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: F. Scott Fitzgerald",
+      "url": "https://pantheon.world/profile/person/F._Scott_Fitzgerald",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "f-scott-fitzgerald-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "F. Scott Fitzgerald is remembered as a writer connected with United States."
+    },
+    {
+      "factId": "f-scott-fitzgerald-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "F. Scott Fitzgerald's recorded life dates place this profile around 1896-1940."
+    },
+    {
+      "factId": "f-scott-fitzgerald-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "F. Scott Fitzgerald is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "f-scott-fitzgerald-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "F. Scott Fitzgerald's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "f-scott-fitzgerald-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "F. Scott Fitzgerald has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

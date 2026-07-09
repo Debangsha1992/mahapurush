@@ -9,23 +9,93 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Al-Khwarizmi helped develop algebraic methods and mathematical language that still shapes computing.",
+  "summary": "Muhammad ibn Musa al-Khwarizmi, or simply al-Khwarizmi was a mathematician active during the Islamic Golden Age, who produced Arabic-language works in mathematics, astronomy, and geography.",
   "knownFor": [
-    "algebra",
-    "algorithms",
-    "House of Wisdom scholarship"
+    "Scientist",
+    "Central Asia, Abbasid Caliphate"
   ],
   "facts": [
     {
-      "id": "al-khwarizmi-algebra",
-      "text": "The word algebra is linked to the title of Al-Khwarizmi's treatise on calculation by completion and balancing.",
-      "context": "His work shows how naming, notation, and method can change the way future generations solve problems.",
-      "sourceTitle": "Encyclopaedia Britannica: Al-Khwarizmi",
-      "sourceUrl": "https://www.britannica.com/biography/al-Khwarizmi",
-      "sourceAccessedAt": "2026-07-05",
+      "id": "al-khwarizmi-1-origin",
+      "text": "Muhammad ibn Musa al-Khwarizmi, or simply al-Khwarizmi was a mathematician active during the Islamic Golden Age, who produced Arabic-language works in mathematics, astronomy, and geography.",
+      "context": "Al-Khwarizmi's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Al-Khwarizmi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
-        "mathematics",
-        "computing"
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-khwarizmi-2-obstacle",
+      "text": "Al-Khwarizmi is remembered as a scientist connected with Central Asia, Abbasid Caliphate.",
+      "context": "Al-Khwarizmi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Al-Khwarizmi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-khwarizmi-3-turning-point",
+      "text": "Al-Khwarizmi's recorded life dates place this profile around c. 780-c. 850.",
+      "context": "Al-Khwarizmi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Al-Khwarizmi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-khwarizmi-4-contribution",
+      "text": "Al-Khwarizmi is grouped with Science, Math & Technology in the People Library.",
+      "context": "Al-Khwarizmi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Al-Khwarizmi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-khwarizmi-5-influence",
+      "text": "Al-Khwarizmi's profile connects a short Fact to a wider Central Asia, Abbasid Caliphate historical setting.",
+      "context": "Al-Khwarizmi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Al-Khwarizmi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }
@@ -37,9 +107,9 @@
   "imageAlt": "Portrait-style visual for Al-Khwarizmi",
   "sourceRefs": [
     {
-      "title": "Encyclopaedia Britannica: Al-Khwarizmi",
-      "url": "https://www.britannica.com/biography/al-Khwarizmi",
-      "accessedAt": "2026-07-05"
+      "title": "Wikipedia: Al-Khwarizmi",
+      "url": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published"

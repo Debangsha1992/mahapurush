@@ -1,0 +1,46 @@
+{
+  "personId": "julius-caesar",
+  "slug": "julius-caesar",
+  "name": "Julius Caesar",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Julius Caesar",
+      "url": "https://pantheon.world/profile/person/Julius_Caesar",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "julius-caesar-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Julius Caesar is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "julius-caesar-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Julius Caesar's recorded life dates place this profile around -100--44."
+    },
+    {
+      "factId": "julius-caesar-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Julius Caesar is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "julius-caesar-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Julius Caesar's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "julius-caesar-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Julius Caesar has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "johann-wolfgang-von-goethe",
+  "slug": "johann-wolfgang-von-goethe",
+  "name": "Johann Wolfgang von Goethe",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Johann Wolfgang von Goethe",
+      "url": "https://pantheon.world/profile/person/Johann_Wolfgang_von_Goethe",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "johann-wolfgang-von-goethe-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Johann Wolfgang von Goethe is remembered as a writer connected with Germany."
+    },
+    {
+      "factId": "johann-wolfgang-von-goethe-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Johann Wolfgang von Goethe's recorded life dates place this profile around 1749-1832."
+    },
+    {
+      "factId": "johann-wolfgang-von-goethe-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Johann Wolfgang von Goethe is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "johann-wolfgang-von-goethe-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Johann Wolfgang von Goethe's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "johann-wolfgang-von-goethe-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Johann Wolfgang von Goethe has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

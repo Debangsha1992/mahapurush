@@ -1,0 +1,46 @@
+{
+  "personId": "frederick-ix-of-denmark",
+  "slug": "frederick-ix-of-denmark",
+  "name": "Frederick IX of Denmark",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Frederick IX of Denmark",
+      "url": "https://pantheon.world/profile/person/Frederick_IX_of_Denmark",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "frederick-ix-of-denmark-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Frederick IX of Denmark is remembered as a politician connected with Denmark."
+    },
+    {
+      "factId": "frederick-ix-of-denmark-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Frederick IX of Denmark's recorded life dates place this profile around 1899-1972."
+    },
+    {
+      "factId": "frederick-ix-of-denmark-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Frederick IX of Denmark is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "frederick-ix-of-denmark-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Frederick IX of Denmark's profile connects a short Fact to a wider Denmark historical setting."
+    },
+    {
+      "factId": "frederick-ix-of-denmark-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Frederick IX of Denmark has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

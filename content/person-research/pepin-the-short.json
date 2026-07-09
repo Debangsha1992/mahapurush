@@ -1,0 +1,46 @@
+{
+  "personId": "pepin-the-short",
+  "slug": "pepin-the-short",
+  "name": "Pepin the Short",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pepin the Short",
+      "url": "https://pantheon.world/profile/person/Pepin_the_Short",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pepin-the-short-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pepin the Short is remembered as a politician connected with Belgium."
+    },
+    {
+      "factId": "pepin-the-short-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pepin the Short's recorded life dates place this profile around 715-768."
+    },
+    {
+      "factId": "pepin-the-short-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pepin the Short is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "pepin-the-short-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pepin the Short's profile connects a short Fact to a wider Belgium historical setting."
+    },
+    {
+      "factId": "pepin-the-short-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pepin the Short has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

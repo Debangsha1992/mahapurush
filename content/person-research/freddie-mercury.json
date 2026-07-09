@@ -1,0 +1,46 @@
+{
+  "personId": "freddie-mercury",
+  "slug": "freddie-mercury",
+  "name": "Freddie Mercury",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Freddie Mercury",
+      "url": "https://pantheon.world/profile/person/Freddie_Mercury",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "freddie-mercury-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Freddie Mercury is remembered as a musician connected with Tanzania."
+    },
+    {
+      "factId": "freddie-mercury-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Freddie Mercury's recorded life dates place this profile around 1946-1991."
+    },
+    {
+      "factId": "freddie-mercury-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Freddie Mercury is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "freddie-mercury-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Freddie Mercury's profile connects a short Fact to a wider Tanzania historical setting."
+    },
+    {
+      "factId": "freddie-mercury-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Freddie Mercury has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

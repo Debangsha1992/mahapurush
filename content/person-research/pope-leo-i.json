@@ -1,0 +1,46 @@
+{
+  "personId": "pope-leo-i",
+  "slug": "pope-leo-i",
+  "name": "Pope Leo I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Leo I",
+      "url": "https://pantheon.world/profile/person/Pope_Leo_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-leo-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo I is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-leo-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo I's recorded life dates place this profile around 390-461."
+    },
+    {
+      "factId": "pope-leo-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo I is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-leo-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo I's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-leo-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

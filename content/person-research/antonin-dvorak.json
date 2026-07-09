@@ -1,0 +1,46 @@
+{
+  "personId": "antonin-dvorak",
+  "slug": "antonin-dvorak",
+  "name": "Antonín Dvořák",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Antonín Dvořák",
+      "url": "https://pantheon.world/profile/person/Anton%C3%ADn_Dvo%C5%99%C3%A1k",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "antonin-dvorak-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Antonín Dvořák is remembered as a composer connected with Czechia."
+    },
+    {
+      "factId": "antonin-dvorak-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Antonín Dvořák's recorded life dates place this profile around 1841-1904."
+    },
+    {
+      "factId": "antonin-dvorak-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Antonín Dvořák is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "antonin-dvorak-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Antonín Dvořák's profile connects a short Fact to a wider Czechia historical setting."
+    },
+    {
+      "factId": "antonin-dvorak-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Antonín Dvořák has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

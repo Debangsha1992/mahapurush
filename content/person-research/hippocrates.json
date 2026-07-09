@@ -1,0 +1,46 @@
+{
+  "personId": "hippocrates",
+  "slug": "hippocrates",
+  "name": "Hippocrates",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hippocrates",
+      "url": "https://pantheon.world/profile/person/Hippocrates",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hippocrates-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hippocrates is remembered as a physician connected with Greece."
+    },
+    {
+      "factId": "hippocrates-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hippocrates's recorded life dates place this profile around -460--370."
+    },
+    {
+      "factId": "hippocrates-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hippocrates is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "hippocrates-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hippocrates's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "hippocrates-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hippocrates has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

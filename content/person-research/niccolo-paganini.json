@@ -1,0 +1,46 @@
+{
+  "personId": "niccolo-paganini",
+  "slug": "niccolo-paganini",
+  "name": "Niccolò Paganini",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Niccolò Paganini",
+      "url": "https://pantheon.world/profile/person/Niccol%C3%B2_Paganini",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "niccolo-paganini-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Niccolò Paganini is remembered as a musician connected with Italy."
+    },
+    {
+      "factId": "niccolo-paganini-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Niccolò Paganini's recorded life dates place this profile around 1782-1840."
+    },
+    {
+      "factId": "niccolo-paganini-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Niccolò Paganini is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "niccolo-paganini-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Niccolò Paganini's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "niccolo-paganini-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Niccolò Paganini has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

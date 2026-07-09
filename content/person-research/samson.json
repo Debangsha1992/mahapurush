@@ -1,0 +1,47 @@
+{
+  "personId": "samson",
+  "slug": "samson",
+  "name": "Samson",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Samson",
+      "url": "https://en.wikipedia.org/wiki/Samson",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Important character from the Book of Judges of the Hebrew Bible"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "samson-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Samson was the last of the judges of the ancient Israelites mentioned in the Book of Judges and one of the last leaders who \"judged\" the twelve tribes of Israel before the institution of the monarchy."
+    },
+    {
+      "factId": "samson-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Samson was given superhuman powers by God in the form of extreme strength."
+    },
+    {
+      "factId": "samson-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Samson is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "samson-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Samson's recorded life dates place this profile around -1118--1078."
+    },
+    {
+      "factId": "samson-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Samson is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

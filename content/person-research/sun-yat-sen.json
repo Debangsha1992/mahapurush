@@ -1,0 +1,46 @@
+{
+  "personId": "sun-yat-sen",
+  "slug": "sun-yat-sen",
+  "name": "Sun Yat-sen",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Sun Yat-sen",
+      "url": "https://pantheon.world/profile/person/Sun_Yat-sen",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sun-yat-sen-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Sun Yat-sen is remembered as a politician connected with China."
+    },
+    {
+      "factId": "sun-yat-sen-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Sun Yat-sen's recorded life dates place this profile around 1866-1925."
+    },
+    {
+      "factId": "sun-yat-sen-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Sun Yat-sen is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "sun-yat-sen-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Sun Yat-sen's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "sun-yat-sen-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sun Yat-sen has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

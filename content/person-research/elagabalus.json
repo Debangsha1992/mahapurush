@@ -1,0 +1,46 @@
+{
+  "personId": "elagabalus",
+  "slug": "elagabalus",
+  "name": "Elagabalus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Elagabalus",
+      "url": "https://pantheon.world/profile/person/Elagabalus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "elagabalus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Elagabalus is remembered as a politician connected with Syria."
+    },
+    {
+      "factId": "elagabalus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Elagabalus's recorded life dates place this profile around 203-222."
+    },
+    {
+      "factId": "elagabalus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Elagabalus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "elagabalus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Elagabalus's profile connects a short Fact to a wider Syria historical setting."
+    },
+    {
+      "factId": "elagabalus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Elagabalus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

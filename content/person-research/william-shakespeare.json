@@ -1,0 +1,46 @@
+{
+  "personId": "william-shakespeare",
+  "slug": "william-shakespeare",
+  "name": "William Shakespeare",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: William Shakespeare",
+      "url": "https://pantheon.world/profile/person/William_Shakespeare",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "william-shakespeare-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "William Shakespeare is remembered as a writer connected with United Kingdom."
+    },
+    {
+      "factId": "william-shakespeare-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "William Shakespeare's recorded life dates place this profile around 1564-1616."
+    },
+    {
+      "factId": "william-shakespeare-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "William Shakespeare is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "william-shakespeare-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "William Shakespeare's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "william-shakespeare-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "William Shakespeare has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

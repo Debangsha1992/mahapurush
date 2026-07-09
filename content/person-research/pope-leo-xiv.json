@@ -1,0 +1,46 @@
+{
+  "personId": "pope-leo-xiv",
+  "slug": "pope-leo-xiv",
+  "name": "Pope Leo XIV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Leo XIV",
+      "url": "https://pantheon.world/profile/person/Pope_Leo_XIV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-leo-xiv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XIV is remembered as a religious figure connected with United States."
+    },
+    {
+      "factId": "pope-leo-xiv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XIV's recorded life dates place this profile around born 1955."
+    },
+    {
+      "factId": "pope-leo-xiv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XIV is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-leo-xiv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XIV's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "pope-leo-xiv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XIV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

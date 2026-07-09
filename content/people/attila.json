@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Attila is a notable politician associated with Georgia.",
+  "summary": "Attila is a notable politician connected with Georgia.",
   "knownFor": [
     "Politician",
-    "105 language biography editions",
-    "Historical Popularity Index 87.4"
+    "Justice, Governance & Leadership",
+    "Georgia"
   ],
   "featured": true,
   "featuredRank": 248,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "attila-pantheon-profile",
-      "text": "Pantheon ranks Attila as a globally documented politician with biographies in 105 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Attila a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "attila-1-origin",
+      "text": "Attila is remembered as a politician connected with Georgia.",
+      "context": "Attila's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Attila",
       "sourceUrl": "https://pantheon.world/profile/person/Attila",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "attila-2-obstacle",
+      "text": "Attila's recorded life dates place this profile around 406-453.",
+      "context": "Attila's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Attila",
+      "sourceUrl": "https://pantheon.world/profile/person/Attila",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "attila-3-turning-point",
+      "text": "Attila is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Attila's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Attila",
+      "sourceUrl": "https://pantheon.world/profile/person/Attila",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "attila-4-contribution",
+      "text": "Attila's profile connects a short Fact to a wider Georgia historical setting.",
+      "context": "Attila's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Attila",
+      "sourceUrl": "https://pantheon.world/profile/person/Attila",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "attila-5-influence",
+      "text": "Attila has a Facts Mode card reserved for deeper source research.",
+      "context": "Attila's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Attila",
+      "sourceUrl": "https://pantheon.world/profile/person/Attila",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

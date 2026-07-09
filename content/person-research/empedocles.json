@@ -1,0 +1,46 @@
+{
+  "personId": "empedocles",
+  "slug": "empedocles",
+  "name": "Empedocles",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Empedocles",
+      "url": "https://pantheon.world/profile/person/Empedocles",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "empedocles-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Empedocles is remembered as a philosopher connected with Italy."
+    },
+    {
+      "factId": "empedocles-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Empedocles's recorded life dates place this profile around -490--430."
+    },
+    {
+      "factId": "empedocles-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Empedocles is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "empedocles-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Empedocles's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "empedocles-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Empedocles has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

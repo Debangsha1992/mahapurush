@@ -1,0 +1,46 @@
+{
+  "personId": "francis-of-assisi",
+  "slug": "francis-of-assisi",
+  "name": "Francis of Assisi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Francis of Assisi",
+      "url": "https://pantheon.world/profile/person/Francis_of_Assisi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "francis-of-assisi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Francis of Assisi is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "francis-of-assisi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Francis of Assisi's recorded life dates place this profile around 1182-1226."
+    },
+    {
+      "factId": "francis-of-assisi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Francis of Assisi is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "francis-of-assisi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Francis of Assisi's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "francis-of-assisi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Francis of Assisi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

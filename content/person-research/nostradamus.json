@@ -1,0 +1,46 @@
+{
+  "personId": "nostradamus",
+  "slug": "nostradamus",
+  "name": "Nostradamus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Nostradamus",
+      "url": "https://pantheon.world/profile/person/Nostradamus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "nostradamus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Nostradamus is remembered as a occultist connected with France."
+    },
+    {
+      "factId": "nostradamus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Nostradamus's recorded life dates place this profile around 1503-1566."
+    },
+    {
+      "factId": "nostradamus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Nostradamus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "nostradamus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Nostradamus's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "nostradamus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Nostradamus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

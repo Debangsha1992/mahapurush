@@ -1,0 +1,46 @@
+{
+  "personId": "dalai-lama",
+  "slug": "dalai-lama",
+  "name": "Tenzin Gyatso, the 14th Dalai Lama",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Nobel Prize: The 14th Dalai Lama Facts",
+      "url": "https://www.nobelprize.org/prizes/peace/1989/lama/facts/",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "dalai-lama-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Tenzin Gyatso, the 14th Dalai Lama is remembered as a philosopher connected with Tibet, India."
+    },
+    {
+      "factId": "dalai-lama-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Tenzin Gyatso, the 14th Dalai Lama's recorded life dates place this profile around 1935-present."
+    },
+    {
+      "factId": "dalai-lama-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Tenzin Gyatso, the 14th Dalai Lama is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "dalai-lama-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Tenzin Gyatso, the 14th Dalai Lama's profile connects a short Fact to a wider Tibet, India historical setting."
+    },
+    {
+      "factId": "dalai-lama-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Tenzin Gyatso, the 14th Dalai Lama has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "xenophon",
+  "slug": "xenophon",
+  "name": "Xenophon",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Xenophon",
+      "url": "https://pantheon.world/profile/person/Xenophon",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "xenophon-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Xenophon is remembered as a historian connected with Greece."
+    },
+    {
+      "factId": "xenophon-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Xenophon's recorded life dates place this profile around -430--354."
+    },
+    {
+      "factId": "xenophon-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Xenophon is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "xenophon-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Xenophon's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "xenophon-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Xenophon has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

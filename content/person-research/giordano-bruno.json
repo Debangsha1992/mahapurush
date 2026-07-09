@@ -1,0 +1,46 @@
+{
+  "personId": "giordano-bruno",
+  "slug": "giordano-bruno",
+  "name": "Giordano Bruno",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Giordano Bruno",
+      "url": "https://pantheon.world/profile/person/Giordano_Bruno",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "giordano-bruno-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Giordano Bruno is remembered as a astronomer connected with Italy."
+    },
+    {
+      "factId": "giordano-bruno-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Giordano Bruno's recorded life dates place this profile around 1548-1600."
+    },
+    {
+      "factId": "giordano-bruno-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Giordano Bruno is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "giordano-bruno-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Giordano Bruno's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "giordano-bruno-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Giordano Bruno has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

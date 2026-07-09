@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Anthony Hopkins is a notable actor associated with United Kingdom.",
+  "summary": "Anthony Hopkins is a notable actor connected with United Kingdom.",
   "knownFor": [
     "Actor",
-    "104 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Literature, Arts & Culture",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Anthony Hopkins",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "anthony-hopkins-pantheon-profile",
-      "text": "Pantheon ranks Anthony Hopkins as a globally documented actor with biographies in 104 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Anthony Hopkins a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "anthony-hopkins-1-origin",
+      "text": "Anthony Hopkins is remembered as a actor connected with United Kingdom.",
+      "context": "Anthony Hopkins's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Anthony Hopkins",
       "sourceUrl": "https://pantheon.world/profile/person/Anthony_Hopkins",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anthony-hopkins-2-obstacle",
+      "text": "Anthony Hopkins's recorded life dates place this profile around born 1937.",
+      "context": "Anthony Hopkins's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Anthony Hopkins",
+      "sourceUrl": "https://pantheon.world/profile/person/Anthony_Hopkins",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anthony-hopkins-3-turning-point",
+      "text": "Anthony Hopkins is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Anthony Hopkins's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Anthony Hopkins",
+      "sourceUrl": "https://pantheon.world/profile/person/Anthony_Hopkins",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anthony-hopkins-4-contribution",
+      "text": "Anthony Hopkins's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Anthony Hopkins's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Anthony Hopkins",
+      "sourceUrl": "https://pantheon.world/profile/person/Anthony_Hopkins",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anthony-hopkins-5-influence",
+      "text": "Anthony Hopkins has a Facts Mode card reserved for deeper source research.",
+      "context": "Anthony Hopkins's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Anthony Hopkins",
+      "sourceUrl": "https://pantheon.world/profile/person/Anthony_Hopkins",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

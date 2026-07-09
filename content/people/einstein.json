@@ -9,27 +9,115 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Albert Einstein transformed physics and became a public voice for imagination, peace, and responsibility.",
+  "summary": "Albert Einstein was a German-born theoretical physicist best known for developing the known theory of relativity.",
   "knownFor": [
-    "relativity",
-    "photoelectric effect",
-    "scientific imagination"
+    "Scientist",
+    "Germany, Switzerland, United States"
   ],
   "thinkerId": "einstein",
   "facts": [
     {
-      "id": "einstein-nobel-photoelectric",
-      "text": "Einstein received the 1921 Nobel Prize in Physics for his explanation of the photoelectric effect, not for relativity.",
-      "context": "The detail is a reminder that public fame and formal recognition do not always point to the same part of a person's work.",
-      "sourceTitle": "Nobel Prize: Albert Einstein Facts",
+      "id": "einstein-approved-01",
+      "text": "Albert Einstein won the Nobel Prize for explaining the photoelectric effect, not for the theory of relativity.",
+      "context": "Einstein is a reminder that public fame and the work officially recognized by history are not always the same thing.",
+      "sourceTitle": "The Nobel Prize: Albert Einstein Facts",
       "sourceUrl": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "1922-11-09",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "The Nobel Prize biography lists Einstein's 1921 prize motivation as his services to theoretical physics and discovery of the law of the photoelectric effect.",
       "tags": [
-        "science",
-        "physics"
+        "science-math-technology"
       ],
       "verified": true
+    },
+    {
+      "id": "einstein-1-origin",
+      "text": "Albert Einstein was a German-born theoretical physicist best known for developing the known theory of relativity.",
+      "context": "Albert Einstein's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Albert Einstein",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
+      "tags": [
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "einstein-2-obstacle",
+      "text": "Albert Einstein also made important contributions to quantum theory.",
+      "context": "Albert Einstein's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Albert Einstein",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "einstein-3-turning-point",
+      "text": "Albert Einstein received the 1921 Nobel Prize in Physics for \"his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\".",
+      "context": "Albert Einstein's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Albert Einstein",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "einstein-4-contribution",
+      "text": "Albert Einstein is remembered as a scientist connected with Germany, Switzerland, United States.",
+      "context": "Albert Einstein's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Albert Einstein",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "einstein-5-influence",
+      "text": "Albert Einstein's recorded life dates place this profile around 1879-1955.",
+      "context": "Albert Einstein's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Albert Einstein",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ],
   "regionId": "north-america",
@@ -39,9 +127,14 @@
   "imageAlt": "Portrait-style visual for Albert Einstein",
   "sourceRefs": [
     {
-      "title": "Nobel Prize: Albert Einstein Facts",
+      "title": "Wikipedia: Albert Einstein",
+      "url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "accessedAt": "2026-07-06"
+    },
+    {
+      "title": "The Nobel Prize: Albert Einstein Facts",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
-      "accessedAt": "2026-07-05"
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published"

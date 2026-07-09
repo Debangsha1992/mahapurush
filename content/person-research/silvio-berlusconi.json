@@ -1,0 +1,46 @@
+{
+  "personId": "silvio-berlusconi",
+  "slug": "silvio-berlusconi",
+  "name": "Silvio Berlusconi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Silvio Berlusconi",
+      "url": "https://pantheon.world/profile/person/Silvio_Berlusconi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "silvio-berlusconi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Silvio Berlusconi is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "silvio-berlusconi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Silvio Berlusconi's recorded life dates place this profile around 1936-2023."
+    },
+    {
+      "factId": "silvio-berlusconi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Silvio Berlusconi is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "silvio-berlusconi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Silvio Berlusconi's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "silvio-berlusconi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Silvio Berlusconi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

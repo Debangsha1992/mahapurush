@@ -1,0 +1,46 @@
+{
+  "personId": "constantine-the-great",
+  "slug": "constantine-the-great",
+  "name": "Constantine the Great",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Constantine the Great",
+      "url": "https://pantheon.world/profile/person/Constantine_the_Great",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "constantine-the-great-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Constantine the Great is remembered as a politician connected with Serbia."
+    },
+    {
+      "factId": "constantine-the-great-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Constantine the Great's recorded life dates place this profile around 272-337."
+    },
+    {
+      "factId": "constantine-the-great-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Constantine the Great is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "constantine-the-great-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Constantine the Great's profile connects a short Fact to a wider Serbia historical setting."
+    },
+    {
+      "factId": "constantine-the-great-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Constantine the Great has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

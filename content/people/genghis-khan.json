@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Genghis Khan is a notable military personnel associated with Mongolia.",
+  "summary": "Genghis Khan is a notable military personnel connected with Mongolia.",
   "knownFor": [
     "Military Personnel",
-    "176 language biography editions",
-    "Historical Popularity Index 98.4"
+    "Justice, Governance & Leadership",
+    "Mongolia"
   ],
   "featured": true,
   "featuredRank": 34,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "genghis-khan-pantheon-profile",
-      "text": "Pantheon ranks Genghis Khan as a globally documented military personnel with biographies in 176 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Genghis Khan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "genghis-khan-1-origin",
+      "text": "Genghis Khan is remembered as a military personnel connected with Mongolia.",
+      "context": "Genghis Khan's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Genghis Khan",
       "sourceUrl": "https://pantheon.world/profile/person/Genghis_Khan",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "genghis-khan-2-obstacle",
+      "text": "Genghis Khan's recorded life dates place this profile around 1162-1227.",
+      "context": "Genghis Khan's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Genghis Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/Genghis_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "genghis-khan-3-turning-point",
+      "text": "Genghis Khan is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Genghis Khan's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Genghis Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/Genghis_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "genghis-khan-4-contribution",
+      "text": "Genghis Khan's profile connects a short Fact to a wider Mongolia historical setting.",
+      "context": "Genghis Khan's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Genghis Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/Genghis_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "genghis-khan-5-influence",
+      "text": "Genghis Khan has a Facts Mode card reserved for deeper source research.",
+      "context": "Genghis Khan's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Genghis Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/Genghis_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

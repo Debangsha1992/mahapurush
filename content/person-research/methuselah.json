@@ -1,0 +1,46 @@
+{
+  "personId": "methuselah",
+  "slug": "methuselah",
+  "name": "Methuselah",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Methuselah",
+      "url": "https://pantheon.world/profile/person/Methuselah",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "methuselah-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Methuselah is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "methuselah-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Methuselah's recorded life dates place this profile around -3074--2105."
+    },
+    {
+      "factId": "methuselah-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Methuselah is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "methuselah-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Methuselah's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "methuselah-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Methuselah has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

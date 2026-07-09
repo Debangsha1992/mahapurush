@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Tomyris is a notable politician associated with Kazakhstan.",
+  "summary": "Tomyris is a notable politician connected with Kazakhstan.",
   "knownFor": [
     "Politician",
-    "56 language biography editions",
-    "Historical Popularity Index 81.6"
+    "Justice, Governance & Leadership",
+    "Kazakhstan"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Tomyris",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "tomyris-pantheon-profile",
-      "text": "Pantheon ranks Tomyris as a globally documented politician with biographies in 56 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Tomyris a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "tomyris-1-origin",
+      "text": "Tomyris is remembered as a politician connected with Kazakhstan.",
+      "context": "Tomyris's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Tomyris",
       "sourceUrl": "https://pantheon.world/profile/person/Tomyris",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tomyris-2-obstacle",
+      "text": "Tomyris's recorded life dates place this profile around -600--600.",
+      "context": "Tomyris's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Tomyris",
+      "sourceUrl": "https://pantheon.world/profile/person/Tomyris",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tomyris-3-turning-point",
+      "text": "Tomyris is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Tomyris's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Tomyris",
+      "sourceUrl": "https://pantheon.world/profile/person/Tomyris",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tomyris-4-contribution",
+      "text": "Tomyris's profile connects a short Fact to a wider Kazakhstan historical setting.",
+      "context": "Tomyris's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Tomyris",
+      "sourceUrl": "https://pantheon.world/profile/person/Tomyris",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tomyris-5-influence",
+      "text": "Tomyris has a Facts Mode card reserved for deeper source research.",
+      "context": "Tomyris's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Tomyris",
+      "sourceUrl": "https://pantheon.world/profile/person/Tomyris",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

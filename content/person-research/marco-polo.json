@@ -1,0 +1,46 @@
+{
+  "personId": "marco-polo",
+  "slug": "marco-polo",
+  "name": "Marco Polo",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Marco Polo",
+      "url": "https://pantheon.world/profile/person/Marco_Polo",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "marco-polo-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Marco Polo is remembered as a explorer connected with Italy."
+    },
+    {
+      "factId": "marco-polo-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Marco Polo's recorded life dates place this profile around 1254-1324."
+    },
+    {
+      "factId": "marco-polo-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Marco Polo is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "marco-polo-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Marco Polo's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "marco-polo-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Marco Polo has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

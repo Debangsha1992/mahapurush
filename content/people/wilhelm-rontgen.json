@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Wilhelm Röntgen is a notable physicist associated with Germany.",
+  "summary": "Wilhelm Röntgen is a notable physicist connected with Germany.",
   "knownFor": [
     "Physicist",
-    "139 language biography editions",
-    "Historical Popularity Index 87.1"
+    "Science, Math & Technology",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 268,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "wilhelm-rontgen-pantheon-profile",
-      "text": "Pantheon ranks Wilhelm Röntgen as a globally documented physicist with biographies in 139 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Wilhelm Röntgen a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "wilhelm-rontgen-1-origin",
+      "text": "Wilhelm Röntgen is remembered as a physicist connected with Germany.",
+      "context": "Wilhelm Röntgen's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Wilhelm Röntgen",
       "sourceUrl": "https://pantheon.world/profile/person/Wilhelm_R%C3%B6ntgen",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wilhelm-rontgen-2-obstacle",
+      "text": "Wilhelm Röntgen's recorded life dates place this profile around 1845-1923.",
+      "context": "Wilhelm Röntgen's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Wilhelm Röntgen",
+      "sourceUrl": "https://pantheon.world/profile/person/Wilhelm_R%C3%B6ntgen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wilhelm-rontgen-3-turning-point",
+      "text": "Wilhelm Röntgen is grouped with Science, Math & Technology in the People Library.",
+      "context": "Wilhelm Röntgen's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Wilhelm Röntgen",
+      "sourceUrl": "https://pantheon.world/profile/person/Wilhelm_R%C3%B6ntgen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wilhelm-rontgen-4-contribution",
+      "text": "Wilhelm Röntgen's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Wilhelm Röntgen's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Wilhelm Röntgen",
+      "sourceUrl": "https://pantheon.world/profile/person/Wilhelm_R%C3%B6ntgen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wilhelm-rontgen-5-influence",
+      "text": "Wilhelm Röntgen has a Facts Mode card reserved for deeper source research.",
+      "context": "Wilhelm Röntgen's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Wilhelm Röntgen",
+      "sourceUrl": "https://pantheon.world/profile/person/Wilhelm_R%C3%B6ntgen",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

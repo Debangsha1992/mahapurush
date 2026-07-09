@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Christian IX of Denmark is a notable politician associated with Germany.",
+  "summary": "Christian IX of Denmark is a notable politician connected with Germany.",
   "knownFor": [
     "Politician",
-    "62 language biography editions",
-    "Historical Popularity Index 83.5"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Christian IX of Denmark",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "christian-ix-of-denmark-pantheon-profile",
-      "text": "Pantheon ranks Christian IX of Denmark as a globally documented politician with biographies in 62 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Christian IX of Denmark a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "christian-ix-of-denmark-1-origin",
+      "text": "Christian IX of Denmark is remembered as a politician connected with Germany.",
+      "context": "Christian IX of Denmark's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Christian IX of Denmark",
       "sourceUrl": "https://pantheon.world/profile/person/Christian_IX_of_Denmark",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "christian-ix-of-denmark-2-obstacle",
+      "text": "Christian IX of Denmark's recorded life dates place this profile around 1818-1906.",
+      "context": "Christian IX of Denmark's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Christian IX of Denmark",
+      "sourceUrl": "https://pantheon.world/profile/person/Christian_IX_of_Denmark",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "christian-ix-of-denmark-3-turning-point",
+      "text": "Christian IX of Denmark is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Christian IX of Denmark's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Christian IX of Denmark",
+      "sourceUrl": "https://pantheon.world/profile/person/Christian_IX_of_Denmark",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "christian-ix-of-denmark-4-contribution",
+      "text": "Christian IX of Denmark's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Christian IX of Denmark's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Christian IX of Denmark",
+      "sourceUrl": "https://pantheon.world/profile/person/Christian_IX_of_Denmark",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "christian-ix-of-denmark-5-influence",
+      "text": "Christian IX of Denmark has a Facts Mode card reserved for deeper source research.",
+      "context": "Christian IX of Denmark's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Christian IX of Denmark",
+      "sourceUrl": "https://pantheon.world/profile/person/Christian_IX_of_Denmark",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "pope-innocent-xi",
+  "slug": "pope-innocent-xi",
+  "name": "Pope Innocent XI",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Innocent XI",
+      "url": "https://pantheon.world/profile/person/Pope_Innocent_XI",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-innocent-xi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent XI is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-innocent-xi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent XI's recorded life dates place this profile around 1611-1689."
+    },
+    {
+      "factId": "pope-innocent-xi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent XI is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-innocent-xi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent XI's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-innocent-xi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Innocent XI has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

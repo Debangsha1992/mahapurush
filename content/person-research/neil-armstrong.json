@@ -1,0 +1,47 @@
+{
+  "personId": "neil-armstrong",
+  "slug": "neil-armstrong",
+  "name": "Neil Armstrong",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Neil Armstrong",
+      "url": "https://en.wikipedia.org/wiki/Neil_Armstrong",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "American astronaut (1930–2012)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "neil-armstrong-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Neil Alden Neil Armstrong was an American astronaut and aeronautical engineer who, as the commander of the 1969 Apollo 11 mission, became the first person to walk on the Moon."
+    },
+    {
+      "factId": "neil-armstrong-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Neil Armstrong was also a naval aviator, test pilot and university professor."
+    },
+    {
+      "factId": "neil-armstrong-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Neil Armstrong is remembered as a astronaut connected with United States."
+    },
+    {
+      "factId": "neil-armstrong-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Neil Armstrong's recorded life dates place this profile around 1930-2012."
+    },
+    {
+      "factId": "neil-armstrong-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Neil Armstrong is grouped with Environment, Exploration & Human Achievement in the People Library."
+    }
+  ]
+}

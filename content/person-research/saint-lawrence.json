@@ -1,0 +1,46 @@
+{
+  "personId": "saint-lawrence",
+  "slug": "saint-lawrence",
+  "name": "Saint Lawrence",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Saint Lawrence",
+      "url": "https://pantheon.world/profile/person/Saint_Lawrence",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saint-lawrence-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Saint Lawrence is remembered as a religious figure connected with Spain."
+    },
+    {
+      "factId": "saint-lawrence-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Saint Lawrence's recorded life dates place this profile around 225-258."
+    },
+    {
+      "factId": "saint-lawrence-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Saint Lawrence is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "saint-lawrence-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Saint Lawrence's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "saint-lawrence-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Saint Lawrence has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

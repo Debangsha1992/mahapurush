@@ -1,0 +1,46 @@
+{
+  "personId": "husayn-ibn-ali",
+  "slug": "husayn-ibn-ali",
+  "name": "Husayn ibn Ali",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Husayn ibn Ali",
+      "url": "https://pantheon.world/profile/person/Husayn_ibn_Ali",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "husayn-ibn-ali-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Husayn ibn Ali is remembered as a religious figure connected with Saudi Arabia."
+    },
+    {
+      "factId": "husayn-ibn-ali-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Husayn ibn Ali's recorded life dates place this profile around 626-680."
+    },
+    {
+      "factId": "husayn-ibn-ali-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Husayn ibn Ali is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "husayn-ibn-ali-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Husayn ibn Ali's profile connects a short Fact to a wider Saudi Arabia historical setting."
+    },
+    {
+      "factId": "husayn-ibn-ali-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Husayn ibn Ali has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

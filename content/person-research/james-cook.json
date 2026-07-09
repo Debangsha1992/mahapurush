@@ -1,0 +1,46 @@
+{
+  "personId": "james-cook",
+  "slug": "james-cook",
+  "name": "James Cook",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James Cook",
+      "url": "https://pantheon.world/profile/person/James_Cook",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-cook-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James Cook is remembered as a explorer connected with United Kingdom."
+    },
+    {
+      "factId": "james-cook-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James Cook's recorded life dates place this profile around 1728-1779."
+    },
+    {
+      "factId": "james-cook-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James Cook is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "james-cook-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James Cook's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "james-cook-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James Cook has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

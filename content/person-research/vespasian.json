@@ -1,0 +1,46 @@
+{
+  "personId": "vespasian",
+  "slug": "vespasian",
+  "name": "Vespasian",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Vespasian",
+      "url": "https://pantheon.world/profile/person/Vespasian",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "vespasian-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Vespasian is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "vespasian-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Vespasian's recorded life dates place this profile around 9-79."
+    },
+    {
+      "factId": "vespasian-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Vespasian is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "vespasian-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Vespasian's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "vespasian-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Vespasian has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

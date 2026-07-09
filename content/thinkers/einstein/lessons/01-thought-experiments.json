@@ -17,7 +17,7 @@
         "instruction": "Imagine a situation with one rule changed. Follow the consequences logically."
       },
       "modernTest": {
-        "scenario": "Your teacher says AI will make memorization useless. You feel unsure whether studying still matters.",
+        "scenario": "Your team is using AI to draft reports, summarize meetings, and generate ideas. You wonder what human thinking is still for.",
         "question": "What would Einstein ask first?",
         "options": [
           {
@@ -33,7 +33,7 @@
         ],
         "discussionNotes": "Einstein would ask what new mental skill becomes important when old shortcuts disappear."
       },
-      "reflectionPrompt": "Imagine one impossible idea that could improve your school or community. Explain how it might work.",
+      "reflectionPrompt": "Imagine one impossible idea that could improve your work, community, or daily life. Explain how it might work.",
       "thoughtTension": {
         "counterView": "But imagination without facts is just fantasy, right?",
         "responsePrompt": "How can imagination and evidence work together?"
@@ -56,7 +56,7 @@
         "instruction": "Imagine a situation with one rule changed. Follow the consequences logically."
       },
       "modernTest": {
-        "scenario": "Students in your class are using AI to write essays. Some say it helps learning, others say it avoids thinking.",
+        "scenario": "People at work are using AI to draft strategy notes and take credit for the result. Some say it frees humans for deeper thinking; others say it hides who actually understood the problem.",
         "question": "What would Einstein ask?",
         "options": [
           {
@@ -77,7 +77,7 @@
         ],
         "discussionNotes": "Einstein would likely ask how the world changes when an old assumption disappears."
       },
-      "reflectionPrompt": "Imagine one impossible idea that could improve your school or community. Explain how it might work.",
+      "reflectionPrompt": "Imagine one impossible idea that could improve your work, community, or daily life. Explain how it might work.",
       "thoughtTension": {
         "counterView": "But imagination without facts is just fantasy, right?",
         "responsePrompt": "How can imagination and evidence work together?"

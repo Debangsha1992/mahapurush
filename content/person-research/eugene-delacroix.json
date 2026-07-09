@@ -1,0 +1,46 @@
+{
+  "personId": "eugene-delacroix",
+  "slug": "eugene-delacroix",
+  "name": "Eugène Delacroix",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Eugène Delacroix",
+      "url": "https://pantheon.world/profile/person/Eug%C3%A8ne_Delacroix",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "eugene-delacroix-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Eugène Delacroix is remembered as a painter connected with France."
+    },
+    {
+      "factId": "eugene-delacroix-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Eugène Delacroix's recorded life dates place this profile around 1798-1863."
+    },
+    {
+      "factId": "eugene-delacroix-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Eugène Delacroix is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "eugene-delacroix-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Eugène Delacroix's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "eugene-delacroix-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Eugène Delacroix has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

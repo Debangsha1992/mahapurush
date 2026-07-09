@@ -1,0 +1,46 @@
+{
+  "personId": "edgar-allan-poe",
+  "slug": "edgar-allan-poe",
+  "name": "Edgar Allan Poe",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edgar Allan Poe",
+      "url": "https://pantheon.world/profile/person/Edgar_Allan_Poe",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edgar-allan-poe-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edgar Allan Poe is remembered as a writer connected with United States."
+    },
+    {
+      "factId": "edgar-allan-poe-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edgar Allan Poe's recorded life dates place this profile around 1809-1849."
+    },
+    {
+      "factId": "edgar-allan-poe-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edgar Allan Poe is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "edgar-allan-poe-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edgar Allan Poe's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "edgar-allan-poe-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edgar Allan Poe has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

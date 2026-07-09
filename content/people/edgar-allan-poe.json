@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Edgar Allan Poe is a notable writer associated with United States.",
+  "summary": "Edgar Allan Poe is a notable writer connected with United States.",
   "knownFor": [
     "Writer",
-    "148 language biography editions",
-    "Historical Popularity Index 90.4"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 121,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edgar-allan-poe-pantheon-profile",
-      "text": "Pantheon ranks Edgar Allan Poe as a globally documented writer with biographies in 148 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Edgar Allan Poe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edgar-allan-poe-1-origin",
+      "text": "Edgar Allan Poe is remembered as a writer connected with United States.",
+      "context": "Edgar Allan Poe's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Edgar Allan Poe",
       "sourceUrl": "https://pantheon.world/profile/person/Edgar_Allan_Poe",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edgar-allan-poe-2-obstacle",
+      "text": "Edgar Allan Poe's recorded life dates place this profile around 1809-1849.",
+      "context": "Edgar Allan Poe's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Edgar Allan Poe",
+      "sourceUrl": "https://pantheon.world/profile/person/Edgar_Allan_Poe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edgar-allan-poe-3-turning-point",
+      "text": "Edgar Allan Poe is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Edgar Allan Poe's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Edgar Allan Poe",
+      "sourceUrl": "https://pantheon.world/profile/person/Edgar_Allan_Poe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edgar-allan-poe-4-contribution",
+      "text": "Edgar Allan Poe's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Edgar Allan Poe's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Edgar Allan Poe",
+      "sourceUrl": "https://pantheon.world/profile/person/Edgar_Allan_Poe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edgar-allan-poe-5-influence",
+      "text": "Edgar Allan Poe has a Facts Mode card reserved for deeper source research.",
+      "context": "Edgar Allan Poe's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Edgar Allan Poe",
+      "sourceUrl": "https://pantheon.world/profile/person/Edgar_Allan_Poe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

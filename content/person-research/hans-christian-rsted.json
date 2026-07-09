@@ -1,0 +1,46 @@
+{
+  "personId": "hans-christian-rsted",
+  "slug": "hans-christian-rsted",
+  "name": "Hans Christian Ørsted",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hans Christian Ørsted",
+      "url": "https://pantheon.world/profile/person/Hans_Christian_%C3%98rsted",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hans-christian-rsted-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hans Christian Ørsted is remembered as a physicist connected with Denmark."
+    },
+    {
+      "factId": "hans-christian-rsted-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hans Christian Ørsted's recorded life dates place this profile around 1777-1851."
+    },
+    {
+      "factId": "hans-christian-rsted-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hans Christian Ørsted is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "hans-christian-rsted-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hans Christian Ørsted's profile connects a short Fact to a wider Denmark historical setting."
+    },
+    {
+      "factId": "hans-christian-rsted-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hans Christian Ørsted has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

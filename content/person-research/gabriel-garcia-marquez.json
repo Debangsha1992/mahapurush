@@ -1,0 +1,46 @@
+{
+  "personId": "gabriel-garcia-marquez",
+  "slug": "gabriel-garcia-marquez",
+  "name": "Gabriel García Márquez",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gabriel García Márquez",
+      "url": "https://pantheon.world/profile/person/Gabriel_Garc%C3%ADa_M%C3%A1rquez",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gabriel-garcia-marquez-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gabriel García Márquez is remembered as a writer connected with Colombia."
+    },
+    {
+      "factId": "gabriel-garcia-marquez-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gabriel García Márquez's recorded life dates place this profile around 1927-2014."
+    },
+    {
+      "factId": "gabriel-garcia-marquez-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gabriel García Márquez is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "gabriel-garcia-marquez-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gabriel García Márquez's profile connects a short Fact to a wider Colombia historical setting."
+    },
+    {
+      "factId": "gabriel-garcia-marquez-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gabriel García Márquez has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

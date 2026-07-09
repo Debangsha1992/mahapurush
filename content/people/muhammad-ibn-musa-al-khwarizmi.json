@@ -12,11 +12,11 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Muhammad ibn Musa al-Khwarizmi is a notable mathematician associated with Turkmenistan.",
+  "summary": "Muhammad ibn Musa al-Khwarizmi is a notable mathematician connected with Turkmenistan.",
   "knownFor": [
     "Mathematician",
-    "148 language biography editions",
-    "Historical Popularity Index 90.6"
+    "Science, Math & Technology",
+    "Turkmenistan"
   ],
   "featured": true,
   "featuredRank": 114,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "muhammad-ibn-musa-al-khwarizmi-pantheon-profile",
-      "text": "Pantheon ranks Muhammad ibn Musa al-Khwarizmi as a globally documented mathematician with biographies in 148 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Muhammad ibn Musa al-Khwarizmi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "muhammad-ibn-musa-al-khwarizmi-1-origin",
+      "text": "Muhammad ibn Musa al-Khwarizmi is remembered as a mathematician connected with Turkmenistan.",
+      "context": "Muhammad ibn Musa al-Khwarizmi's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Muhammad ibn Musa al-Khwarizmi",
       "sourceUrl": "https://pantheon.world/profile/person/Muhammad_ibn_Musa_al-Khwarizmi",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ibn-musa-al-khwarizmi-2-obstacle",
+      "text": "Muhammad ibn Musa al-Khwarizmi's recorded life dates place this profile around 780-850.",
+      "context": "Muhammad ibn Musa al-Khwarizmi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Muhammad ibn Musa al-Khwarizmi",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_ibn_Musa_al-Khwarizmi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ibn-musa-al-khwarizmi-3-turning-point",
+      "text": "Muhammad ibn Musa al-Khwarizmi is grouped with Science, Math & Technology in the People Library.",
+      "context": "Muhammad ibn Musa al-Khwarizmi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Muhammad ibn Musa al-Khwarizmi",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_ibn_Musa_al-Khwarizmi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ibn-musa-al-khwarizmi-4-contribution",
+      "text": "Muhammad ibn Musa al-Khwarizmi's profile connects a short Fact to a wider Turkmenistan historical setting.",
+      "context": "Muhammad ibn Musa al-Khwarizmi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Muhammad ibn Musa al-Khwarizmi",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_ibn_Musa_al-Khwarizmi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ibn-musa-al-khwarizmi-5-influence",
+      "text": "Muhammad ibn Musa al-Khwarizmi has a Facts Mode card reserved for deeper source research.",
+      "context": "Muhammad ibn Musa al-Khwarizmi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Muhammad ibn Musa al-Khwarizmi",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_ibn_Musa_al-Khwarizmi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

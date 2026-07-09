@@ -1,0 +1,46 @@
+{
+  "personId": "manmohan-singh",
+  "slug": "manmohan-singh",
+  "name": "Manmohan Singh",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Manmohan Singh",
+      "url": "https://en.wikipedia.org/wiki/Manmohan_Singh",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "manmohan-singh-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Manmohan Singh is remembered as a politician connected with Pakistan."
+    },
+    {
+      "factId": "manmohan-singh-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Manmohan Singh's recorded life dates place this profile around 1932-2024."
+    },
+    {
+      "factId": "manmohan-singh-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Manmohan Singh is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "manmohan-singh-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Manmohan Singh's profile connects a short Fact to a wider Pakistan historical setting."
+    },
+    {
+      "factId": "manmohan-singh-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Manmohan Singh has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

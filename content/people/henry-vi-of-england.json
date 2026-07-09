@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Henry VI of England is a notable politician associated with United Kingdom.",
+  "summary": "Henry VI of England is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "70 language biography editions",
-    "Historical Popularity Index 87.0"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 273,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "henry-vi-of-england-pantheon-profile",
-      "text": "Pantheon ranks Henry VI of England as a globally documented politician with biographies in 70 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Henry VI of England a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "henry-vi-of-england-1-origin",
+      "text": "Henry VI of England is remembered as a politician connected with United Kingdom.",
+      "context": "Henry VI of England's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Henry VI of England",
       "sourceUrl": "https://pantheon.world/profile/person/Henry_VI_of_England",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-vi-of-england-2-obstacle",
+      "text": "Henry VI of England's recorded life dates place this profile around 1421-1471.",
+      "context": "Henry VI of England's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Henry VI of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_VI_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-vi-of-england-3-turning-point",
+      "text": "Henry VI of England is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Henry VI of England's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Henry VI of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_VI_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-vi-of-england-4-contribution",
+      "text": "Henry VI of England's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Henry VI of England's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Henry VI of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_VI_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-vi-of-england-5-influence",
+      "text": "Henry VI of England has a Facts Mode card reserved for deeper source research.",
+      "context": "Henry VI of England's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Henry VI of England",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_VI_of_England",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

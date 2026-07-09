@@ -9,23 +9,90 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Florence Nightingale helped professionalize nursing and used evidence to argue for public health reform.",
+  "summary": "Florence Nightingale was an English social reformer, statistician and the founder of modern nursing.",
   "knownFor": [
-    "modern nursing",
-    "Crimean War hospital reform",
-    "statistical visualization"
+    "Scientist",
+    "United Kingdom"
   ],
   "facts": [
     {
-      "id": "florence-nightingale-statistics",
-      "text": "Nightingale used statistical diagrams to communicate preventable deaths and argue for health reforms.",
-      "context": "Her work shows that data can become persuasive when it is made understandable to people with power to act.",
-      "sourceTitle": "Science Museum: Florence Nightingale",
-      "sourceUrl": "https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale",
-      "sourceAccessedAt": "2026-07-05",
+      "id": "florence-nightingale-1-origin",
+      "text": "Florence Nightingale was an English social reformer, statistician and the founder of modern nursing.",
+      "context": "Florence Nightingale's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Florence Nightingale",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
-        "health",
-        "statistics"
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "florence-nightingale-2-obstacle",
+      "text": "Florence Nightingale came to prominence while serving as a manager and trainer of nurses during the Crimean War, in which she organised care for wounded soldiers at Constantinople.",
+      "context": "Florence Nightingale's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Florence Nightingale",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "florence-nightingale-3-turning-point",
+      "text": "Florence Nightingale significantly reduced death rates by improving hygiene and living standards.",
+      "context": "Florence Nightingale's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Florence Nightingale",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "florence-nightingale-4-contribution",
+      "text": "Florence Nightingale gave nursing a favourable reputation and became an icon of Victorian culture, especially in the persona of \"The Lady with the Lamp\" making ward rounds for wounded soldiers at night.",
+      "context": "Florence Nightingale's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Florence Nightingale",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "florence-nightingale-5-influence",
+      "text": "Florence Nightingale is remembered as a scientist connected with United Kingdom.",
+      "context": "Florence Nightingale's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Florence Nightingale",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }
@@ -37,9 +104,9 @@
   "imageAlt": "Portrait-style visual for Florence Nightingale",
   "sourceRefs": [
     {
-      "title": "Science Museum: Florence Nightingale",
-      "url": "https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale",
-      "accessedAt": "2026-07-05"
+      "title": "Wikipedia: Florence Nightingale",
+      "url": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published"

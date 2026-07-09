@@ -1,0 +1,46 @@
+{
+  "personId": "golda-meir",
+  "slug": "golda-meir",
+  "name": "Golda Meir",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Golda Meir",
+      "url": "https://pantheon.world/profile/person/Golda_Meir",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "golda-meir-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Golda Meir is remembered as a politician connected with Ukraine."
+    },
+    {
+      "factId": "golda-meir-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Golda Meir's recorded life dates place this profile around 1898-1978."
+    },
+    {
+      "factId": "golda-meir-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Golda Meir is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "golda-meir-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Golda Meir's profile connects a short Fact to a wider Ukraine historical setting."
+    },
+    {
+      "factId": "golda-meir-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Golda Meir has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

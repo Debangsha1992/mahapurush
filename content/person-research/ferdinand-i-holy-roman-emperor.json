@@ -1,0 +1,46 @@
+{
+  "personId": "ferdinand-i-holy-roman-emperor",
+  "slug": "ferdinand-i-holy-roman-emperor",
+  "name": "Ferdinand I, Holy Roman Emperor",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ferdinand I, Holy Roman Emperor",
+      "url": "https://pantheon.world/profile/person/Ferdinand_I%2C_Holy_Roman_Emperor",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ferdinand-i-holy-roman-emperor-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand I, Holy Roman Emperor is remembered as a politician connected with Spain."
+    },
+    {
+      "factId": "ferdinand-i-holy-roman-emperor-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand I, Holy Roman Emperor's recorded life dates place this profile around 1503-1564."
+    },
+    {
+      "factId": "ferdinand-i-holy-roman-emperor-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand I, Holy Roman Emperor is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ferdinand-i-holy-roman-emperor-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand I, Holy Roman Emperor's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "ferdinand-i-holy-roman-emperor-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand I, Holy Roman Emperor has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "anaximander",
+  "slug": "anaximander",
+  "name": "Anaximander",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anaximander",
+      "url": "https://pantheon.world/profile/person/Anaximander",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anaximander-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anaximander is remembered as a philosopher connected with Türkiye."
+    },
+    {
+      "factId": "anaximander-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anaximander's recorded life dates place this profile around -610--546."
+    },
+    {
+      "factId": "anaximander-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anaximander is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "anaximander-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anaximander's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "anaximander-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anaximander has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

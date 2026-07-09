@@ -1,0 +1,46 @@
+{
+  "personId": "aaron",
+  "slug": "aaron",
+  "name": "Aaron",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Aaron",
+      "url": "https://pantheon.world/profile/person/Aaron",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "aaron-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Aaron is remembered as a religious figure connected with Jordan."
+    },
+    {
+      "factId": "aaron-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Aaron's recorded life dates place this profile around -1396--1274."
+    },
+    {
+      "factId": "aaron-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Aaron is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "aaron-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Aaron's profile connects a short Fact to a wider Jordan historical setting."
+    },
+    {
+      "factId": "aaron-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Aaron has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

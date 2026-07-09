@@ -12,35 +12,101 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Sophocles is a notable writer associated with Greece.",
+  "summary": "Sophocles was an ancient Greek tragedian, one of three from whom at least two plays have survived in full.",
   "knownFor": [
     "Writer",
-    "148 language biography editions",
-    "Historical Popularity Index 89.3"
+    "Literature, Arts & Culture",
+    "Greece"
   ],
   "featured": true,
   "featuredRank": 155,
   "imageAlt": "Portrait-style visual for Sophocles",
   "sourceRefs": [
     {
-      "title": "Pantheon: Sophocles",
-      "url": "https://pantheon.world/profile/person/Sophocles",
+      "title": "Wikipedia: Sophocles",
+      "url": "https://en.wikipedia.org/wiki/Sophocles",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "sophocles-pantheon-profile",
-      "text": "Pantheon ranks Sophocles as a globally documented writer with biographies in 148 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Sophocles a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Sophocles",
-      "sourceUrl": "https://pantheon.world/profile/person/Sophocles",
+      "id": "sophocles-1-origin",
+      "text": "Sophocles was an ancient Greek tragedian, one of three from whom at least two plays have survived in full.",
+      "context": "Sophocles's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Sophocles",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sophocles",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sophocles-2-obstacle",
+      "text": "Sophocles's first plays were written later than, or contemporary with, those of Aeschylus and earlier than, or contemporary with, those of Euripides.",
+      "context": "Sophocles's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Sophocles",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sophocles",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sophocles-3-turning-point",
+      "text": "Sophocles wrote more than 120 plays, but only seven have survived in a complete form: Ajax, Antigone, Women of Trachis, Oedipus Rex, Electra, Philoctetes, and Oedipus at Colonus.",
+      "context": "Sophocles's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Sophocles",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sophocles",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sophocles-4-contribution",
+      "text": "For almost 50 years, Sophocles was the most celebrated playwright in the dramatic competitions of the city-state of Athens, which took place during the religious festivals of the Lenaea and the Dionysia.",
+      "context": "Sophocles's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Sophocles",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sophocles",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sophocles-5-influence",
+      "text": "Sophocles competed in 30 competitions, won 24, and was never judged lower than second place.",
+      "context": "Sophocles's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Sophocles",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sophocles",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

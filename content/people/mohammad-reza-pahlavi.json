@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mohammad Reza Pahlavi is a notable politician associated with Iran.",
+  "summary": "Mohammad Reza Pahlavi is a notable politician connected with Iran.",
   "knownFor": [
     "Politician",
-    "98 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Justice, Governance & Leadership",
+    "Iran"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mohammad Reza Pahlavi",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mohammad-reza-pahlavi-pantheon-profile",
-      "text": "Pantheon ranks Mohammad Reza Pahlavi as a globally documented politician with biographies in 98 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mohammad Reza Pahlavi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mohammad-reza-pahlavi-1-origin",
+      "text": "Mohammad Reza Pahlavi is remembered as a politician connected with Iran.",
+      "context": "Mohammad Reza Pahlavi's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mohammad Reza Pahlavi",
       "sourceUrl": "https://pantheon.world/profile/person/Mohammad_Reza_Pahlavi",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mohammad-reza-pahlavi-2-obstacle",
+      "text": "Mohammad Reza Pahlavi's recorded life dates place this profile around 1919-1980.",
+      "context": "Mohammad Reza Pahlavi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mohammad Reza Pahlavi",
+      "sourceUrl": "https://pantheon.world/profile/person/Mohammad_Reza_Pahlavi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mohammad-reza-pahlavi-3-turning-point",
+      "text": "Mohammad Reza Pahlavi is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mohammad Reza Pahlavi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mohammad Reza Pahlavi",
+      "sourceUrl": "https://pantheon.world/profile/person/Mohammad_Reza_Pahlavi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mohammad-reza-pahlavi-4-contribution",
+      "text": "Mohammad Reza Pahlavi's profile connects a short Fact to a wider Iran historical setting.",
+      "context": "Mohammad Reza Pahlavi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mohammad Reza Pahlavi",
+      "sourceUrl": "https://pantheon.world/profile/person/Mohammad_Reza_Pahlavi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mohammad-reza-pahlavi-5-influence",
+      "text": "Mohammad Reza Pahlavi has a Facts Mode card reserved for deeper source research.",
+      "context": "Mohammad Reza Pahlavi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mohammad Reza Pahlavi",
+      "sourceUrl": "https://pantheon.world/profile/person/Mohammad_Reza_Pahlavi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

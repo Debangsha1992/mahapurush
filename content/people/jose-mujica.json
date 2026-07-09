@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "José Mujica is a notable politician associated with Uruguay.",
+  "summary": "José Mujica is a notable politician connected with Uruguay.",
   "knownFor": [
     "Politician",
-    "91 language biography editions",
-    "Historical Popularity Index 82.1"
+    "Justice, Governance & Leadership",
+    "Uruguay"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for José Mujica",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jose-mujica-pantheon-profile",
-      "text": "Pantheon ranks José Mujica as a globally documented politician with biographies in 91 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make José Mujica a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "jose-mujica-1-origin",
+      "text": "José Mujica is remembered as a politician connected with Uruguay.",
+      "context": "José Mujica's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: José Mujica",
       "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9_Mujica",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jose-mujica-2-obstacle",
+      "text": "José Mujica's recorded life dates place this profile around 1935-2025.",
+      "context": "José Mujica's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: José Mujica",
+      "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9_Mujica",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jose-mujica-3-turning-point",
+      "text": "José Mujica is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "José Mujica's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: José Mujica",
+      "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9_Mujica",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jose-mujica-4-contribution",
+      "text": "José Mujica's profile connects a short Fact to a wider Uruguay historical setting.",
+      "context": "José Mujica's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: José Mujica",
+      "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9_Mujica",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jose-mujica-5-influence",
+      "text": "José Mujica has a Facts Mode card reserved for deeper source research.",
+      "context": "José Mujica's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: José Mujica",
+      "sourceUrl": "https://pantheon.world/profile/person/Jos%C3%A9_Mujica",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

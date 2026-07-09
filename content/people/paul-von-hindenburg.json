@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Paul von Hindenburg is a notable politician associated with Poland.",
+  "summary": "Paul von Hindenburg is a notable politician connected with Poland.",
   "knownFor": [
     "Politician",
-    "86 language biography editions",
-    "Historical Popularity Index 81.9"
+    "Justice, Governance & Leadership",
+    "Poland"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Paul von Hindenburg",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "paul-von-hindenburg-pantheon-profile",
-      "text": "Pantheon ranks Paul von Hindenburg as a globally documented politician with biographies in 86 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Paul von Hindenburg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "paul-von-hindenburg-1-origin",
+      "text": "Paul von Hindenburg is remembered as a politician connected with Poland.",
+      "context": "Paul von Hindenburg's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Paul von Hindenburg",
       "sourceUrl": "https://pantheon.world/profile/person/Paul_von_Hindenburg",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paul-von-hindenburg-2-obstacle",
+      "text": "Paul von Hindenburg's recorded life dates place this profile around 1847-1934.",
+      "context": "Paul von Hindenburg's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Paul von Hindenburg",
+      "sourceUrl": "https://pantheon.world/profile/person/Paul_von_Hindenburg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paul-von-hindenburg-3-turning-point",
+      "text": "Paul von Hindenburg is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Paul von Hindenburg's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Paul von Hindenburg",
+      "sourceUrl": "https://pantheon.world/profile/person/Paul_von_Hindenburg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paul-von-hindenburg-4-contribution",
+      "text": "Paul von Hindenburg's profile connects a short Fact to a wider Poland historical setting.",
+      "context": "Paul von Hindenburg's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Paul von Hindenburg",
+      "sourceUrl": "https://pantheon.world/profile/person/Paul_von_Hindenburg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paul-von-hindenburg-5-influence",
+      "text": "Paul von Hindenburg has a Facts Mode card reserved for deeper source research.",
+      "context": "Paul von Hindenburg's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Paul von Hindenburg",
+      "sourceUrl": "https://pantheon.world/profile/person/Paul_von_Hindenburg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

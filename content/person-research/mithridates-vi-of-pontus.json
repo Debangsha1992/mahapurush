@@ -1,0 +1,46 @@
+{
+  "personId": "mithridates-vi-of-pontus",
+  "slug": "mithridates-vi-of-pontus",
+  "name": "Mithridates VI of Pontus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mithridates VI of Pontus",
+      "url": "https://pantheon.world/profile/person/Mithridates_VI_of_Pontus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mithridates-vi-of-pontus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mithridates VI of Pontus is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "mithridates-vi-of-pontus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mithridates VI of Pontus's recorded life dates place this profile around -132--63."
+    },
+    {
+      "factId": "mithridates-vi-of-pontus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mithridates VI of Pontus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mithridates-vi-of-pontus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mithridates VI of Pontus's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "mithridates-vi-of-pontus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mithridates VI of Pontus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

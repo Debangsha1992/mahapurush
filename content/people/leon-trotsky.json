@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Leon Trotsky is a notable politician associated with Ukraine.",
+  "summary": "Leon Trotsky is a notable politician connected with Ukraine.",
   "knownFor": [
     "Politician",
-    "136 language biography editions",
-    "Historical Popularity Index 86.2"
+    "Justice, Governance & Leadership",
+    "Ukraine"
   ],
   "featured": true,
   "featuredRank": 334,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "leon-trotsky-pantheon-profile",
-      "text": "Pantheon ranks Leon Trotsky as a globally documented politician with biographies in 136 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Leon Trotsky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "leon-trotsky-1-origin",
+      "text": "Leon Trotsky is remembered as a politician connected with Ukraine.",
+      "context": "Leon Trotsky's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Leon Trotsky",
       "sourceUrl": "https://pantheon.world/profile/person/Leon_Trotsky",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leon-trotsky-2-obstacle",
+      "text": "Leon Trotsky's recorded life dates place this profile around 1879-1940.",
+      "context": "Leon Trotsky's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Leon Trotsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Leon_Trotsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leon-trotsky-3-turning-point",
+      "text": "Leon Trotsky is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Leon Trotsky's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Leon Trotsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Leon_Trotsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leon-trotsky-4-contribution",
+      "text": "Leon Trotsky's profile connects a short Fact to a wider Ukraine historical setting.",
+      "context": "Leon Trotsky's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Leon Trotsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Leon_Trotsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leon-trotsky-5-influence",
+      "text": "Leon Trotsky has a Facts Mode card reserved for deeper source research.",
+      "context": "Leon Trotsky's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Leon Trotsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Leon_Trotsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

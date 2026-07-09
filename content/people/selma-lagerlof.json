@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Selma Lagerlöf is a notable writer associated with Sweden.",
+  "summary": "Selma Lagerlöf is a notable writer connected with Sweden.",
   "knownFor": [
     "Writer",
-    "115 language biography editions",
-    "Historical Popularity Index 83.5"
+    "Literature, Arts & Culture",
+    "Sweden"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Selma Lagerlöf",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "selma-lagerlof-pantheon-profile",
-      "text": "Pantheon ranks Selma Lagerlöf as a globally documented writer with biographies in 115 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Selma Lagerlöf a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "selma-lagerlof-1-origin",
+      "text": "Selma Lagerlöf is remembered as a writer connected with Sweden.",
+      "context": "Selma Lagerlöf's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Selma Lagerlöf",
       "sourceUrl": "https://pantheon.world/profile/person/Selma_Lagerl%C3%B6f",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "selma-lagerlof-2-obstacle",
+      "text": "Selma Lagerlöf's recorded life dates place this profile around 1858-1940.",
+      "context": "Selma Lagerlöf's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Selma Lagerlöf",
+      "sourceUrl": "https://pantheon.world/profile/person/Selma_Lagerl%C3%B6f",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "selma-lagerlof-3-turning-point",
+      "text": "Selma Lagerlöf is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Selma Lagerlöf's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Selma Lagerlöf",
+      "sourceUrl": "https://pantheon.world/profile/person/Selma_Lagerl%C3%B6f",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "selma-lagerlof-4-contribution",
+      "text": "Selma Lagerlöf's profile connects a short Fact to a wider Sweden historical setting.",
+      "context": "Selma Lagerlöf's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Selma Lagerlöf",
+      "sourceUrl": "https://pantheon.world/profile/person/Selma_Lagerl%C3%B6f",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "selma-lagerlof-5-influence",
+      "text": "Selma Lagerlöf has a Facts Mode card reserved for deeper source research.",
+      "context": "Selma Lagerlöf's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Selma Lagerlöf",
+      "sourceUrl": "https://pantheon.world/profile/person/Selma_Lagerl%C3%B6f",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

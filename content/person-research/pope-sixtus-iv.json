@@ -1,0 +1,46 @@
+{
+  "personId": "pope-sixtus-iv",
+  "slug": "pope-sixtus-iv",
+  "name": "Pope Sixtus IV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Sixtus IV",
+      "url": "https://pantheon.world/profile/person/Pope_Sixtus_IV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-sixtus-iv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sixtus IV is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-sixtus-iv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sixtus IV's recorded life dates place this profile around 1414-1484."
+    },
+    {
+      "factId": "pope-sixtus-iv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sixtus IV is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-sixtus-iv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sixtus IV's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-sixtus-iv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sixtus IV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

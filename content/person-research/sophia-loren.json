@@ -1,0 +1,46 @@
+{
+  "personId": "sophia-loren",
+  "slug": "sophia-loren",
+  "name": "Sophia Loren",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Sophia Loren",
+      "url": "https://pantheon.world/profile/person/Sophia_Loren",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sophia-loren-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Sophia Loren is remembered as a actor connected with Italy."
+    },
+    {
+      "factId": "sophia-loren-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Sophia Loren's recorded life dates place this profile around born 1934."
+    },
+    {
+      "factId": "sophia-loren-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Sophia Loren is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "sophia-loren-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Sophia Loren's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "sophia-loren-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sophia Loren has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

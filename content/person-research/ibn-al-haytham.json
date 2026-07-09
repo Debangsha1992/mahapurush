@@ -1,0 +1,46 @@
+{
+  "personId": "ibn-al-haytham",
+  "slug": "ibn-al-haytham",
+  "name": "Ibn al-Haytham",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ibn al-Haytham",
+      "url": "https://pantheon.world/profile/person/Ibn_al-Haytham",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ibn-al-haytham-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ibn al-Haytham is remembered as a physicist connected with Iraq."
+    },
+    {
+      "factId": "ibn-al-haytham-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ibn al-Haytham's recorded life dates place this profile around 965-1039."
+    },
+    {
+      "factId": "ibn-al-haytham-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ibn al-Haytham is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "ibn-al-haytham-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ibn al-Haytham's profile connects a short Fact to a wider Iraq historical setting."
+    },
+    {
+      "factId": "ibn-al-haytham-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ibn al-Haytham has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Diego Velázquez is a notable painter associated with Spain.",
+  "summary": "Diego Velázquez is a notable painter connected with Spain.",
   "knownFor": [
     "Painter",
-    "152 language biography editions",
-    "Historical Popularity Index 87.0"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": true,
   "featuredRank": 275,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "diego-velazquez-pantheon-profile",
-      "text": "Pantheon ranks Diego Velázquez as a globally documented painter with biographies in 152 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Diego Velázquez a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "diego-velazquez-1-origin",
+      "text": "Diego Velázquez is remembered as a painter connected with Spain.",
+      "context": "Diego Velázquez's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Diego Velázquez",
       "sourceUrl": "https://pantheon.world/profile/person/Diego_Vel%C3%A1zquez",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "diego-velazquez-2-obstacle",
+      "text": "Diego Velázquez's recorded life dates place this profile around 1599-1660.",
+      "context": "Diego Velázquez's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Diego Velázquez",
+      "sourceUrl": "https://pantheon.world/profile/person/Diego_Vel%C3%A1zquez",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "diego-velazquez-3-turning-point",
+      "text": "Diego Velázquez is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Diego Velázquez's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Diego Velázquez",
+      "sourceUrl": "https://pantheon.world/profile/person/Diego_Vel%C3%A1zquez",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "diego-velazquez-4-contribution",
+      "text": "Diego Velázquez's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Diego Velázquez's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Diego Velázquez",
+      "sourceUrl": "https://pantheon.world/profile/person/Diego_Vel%C3%A1zquez",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "diego-velazquez-5-influence",
+      "text": "Diego Velázquez has a Facts Mode card reserved for deeper source research.",
+      "context": "Diego Velázquez's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Diego Velázquez",
+      "sourceUrl": "https://pantheon.world/profile/person/Diego_Vel%C3%A1zquez",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

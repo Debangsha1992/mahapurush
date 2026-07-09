@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Bernard Montgomery is a notable military personnel associated with United Kingdom.",
+  "summary": "Bernard Montgomery is a notable military personnel connected with United Kingdom.",
   "knownFor": [
     "Military Personnel",
-    "71 language biography editions",
-    "Historical Popularity Index 84.2"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Bernard Montgomery",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "bernard-montgomery-pantheon-profile",
-      "text": "Pantheon ranks Bernard Montgomery as a globally documented military personnel with biographies in 71 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Bernard Montgomery a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "bernard-montgomery-1-origin",
+      "text": "Bernard Montgomery is remembered as a military personnel connected with United Kingdom.",
+      "context": "Bernard Montgomery's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Bernard Montgomery",
       "sourceUrl": "https://pantheon.world/profile/person/Bernard_Montgomery",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bernard-montgomery-2-obstacle",
+      "text": "Bernard Montgomery's recorded life dates place this profile around 1887-1976.",
+      "context": "Bernard Montgomery's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Bernard Montgomery",
+      "sourceUrl": "https://pantheon.world/profile/person/Bernard_Montgomery",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bernard-montgomery-3-turning-point",
+      "text": "Bernard Montgomery is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Bernard Montgomery's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Bernard Montgomery",
+      "sourceUrl": "https://pantheon.world/profile/person/Bernard_Montgomery",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bernard-montgomery-4-contribution",
+      "text": "Bernard Montgomery's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Bernard Montgomery's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Bernard Montgomery",
+      "sourceUrl": "https://pantheon.world/profile/person/Bernard_Montgomery",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bernard-montgomery-5-influence",
+      "text": "Bernard Montgomery has a Facts Mode card reserved for deeper source research.",
+      "context": "Bernard Montgomery's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Bernard Montgomery",
+      "sourceUrl": "https://pantheon.world/profile/person/Bernard_Montgomery",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

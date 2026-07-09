@@ -1,0 +1,46 @@
+{
+  "personId": "daniel-defoe",
+  "slug": "daniel-defoe",
+  "name": "Daniel Defoe",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Daniel Defoe",
+      "url": "https://pantheon.world/profile/person/Daniel_Defoe",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "daniel-defoe-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Daniel Defoe is remembered as a writer connected with United Kingdom."
+    },
+    {
+      "factId": "daniel-defoe-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Daniel Defoe's recorded life dates place this profile around 1660-1731."
+    },
+    {
+      "factId": "daniel-defoe-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Daniel Defoe is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "daniel-defoe-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Daniel Defoe's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "daniel-defoe-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Daniel Defoe has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

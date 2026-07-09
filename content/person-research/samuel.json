@@ -1,0 +1,46 @@
+{
+  "personId": "samuel",
+  "slug": "samuel",
+  "name": "Samuel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Samuel",
+      "url": "https://pantheon.world/profile/person/Samuel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "samuel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Samuel is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "samuel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Samuel's recorded life dates place this profile around -1100--1010."
+    },
+    {
+      "factId": "samuel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Samuel is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "samuel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Samuel's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "samuel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Samuel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

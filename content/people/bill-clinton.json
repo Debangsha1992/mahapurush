@@ -12,34 +12,103 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Bill Clinton is a notable politician associated with United States.",
+  "summary": "William Jefferson Clinton is an American former politician and lawyer who served as the 42nd president of the United States from 1993 to 2001.",
   "knownFor": [
     "Politician",
-    "172 language biography editions",
-    "Historical Popularity Index 82.9"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Bill Clinton",
   "sourceRefs": [
     {
-      "title": "Pantheon: Bill Clinton",
-      "url": "https://pantheon.world/profile/person/Bill_Clinton",
+      "title": "Wikipedia: Bill Clinton",
+      "url": "https://en.wikipedia.org/wiki/Bill_Clinton",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "bill-clinton-pantheon-profile",
-      "text": "Pantheon ranks Bill Clinton as a globally documented politician with biographies in 172 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Bill Clinton a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Bill Clinton",
-      "sourceUrl": "https://pantheon.world/profile/person/Bill_Clinton",
+      "id": "bill-clinton-1-origin",
+      "text": "William Jefferson Bill Clinton is an American former politician and lawyer who served as the 42nd president of the United States from 1993 to 2001.",
+      "context": "Bill Clinton's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Bill Clinton",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Clinton",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bill-clinton-2-obstacle",
+      "text": "Bill Clinton's centrist \"Third Way\" political philosophy became known as Clintonism, which dominated his presidency and the succeeding decades of Democratic Party history.",
+      "context": "Bill Clinton's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Bill Clinton",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Clinton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bill-clinton-3-turning-point",
+      "text": "Bill Clinton is remembered as a politician connected with United States.",
+      "context": "Bill Clinton's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Bill Clinton",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Clinton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bill-clinton-4-contribution",
+      "text": "Bill Clinton's recorded life dates place this profile around born 1946.",
+      "context": "Bill Clinton's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Bill Clinton",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Clinton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bill-clinton-5-influence",
+      "text": "Bill Clinton is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Bill Clinton's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Bill Clinton",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bill_Clinton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

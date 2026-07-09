@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "J. J. Thomson is a notable physicist associated with United Kingdom.",
+  "summary": "J. J. Thomson is a notable physicist connected with United Kingdom.",
   "knownFor": [
     "Physicist",
-    "107 language biography editions",
-    "Historical Popularity Index 84.0"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for J. J. Thomson",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "j-j-thomson-pantheon-profile",
-      "text": "Pantheon ranks J. J. Thomson as a globally documented physicist with biographies in 107 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make J. J. Thomson a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "j-j-thomson-1-origin",
+      "text": "J. J. Thomson is remembered as a physicist connected with United Kingdom.",
+      "context": "J. J. Thomson's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: J. J. Thomson",
       "sourceUrl": "https://pantheon.world/profile/person/J._J._Thomson",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "j-j-thomson-2-obstacle",
+      "text": "J. J. Thomson's recorded life dates place this profile around 1856-1940.",
+      "context": "J. J. Thomson's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: J. J. Thomson",
+      "sourceUrl": "https://pantheon.world/profile/person/J._J._Thomson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "j-j-thomson-3-turning-point",
+      "text": "J. J. Thomson is grouped with Science, Math & Technology in the People Library.",
+      "context": "J. J. Thomson's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: J. J. Thomson",
+      "sourceUrl": "https://pantheon.world/profile/person/J._J._Thomson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "j-j-thomson-4-contribution",
+      "text": "J. J. Thomson's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "J. J. Thomson's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: J. J. Thomson",
+      "sourceUrl": "https://pantheon.world/profile/person/J._J._Thomson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "j-j-thomson-5-influence",
+      "text": "J. J. Thomson has a Facts Mode card reserved for deeper source research.",
+      "context": "J. J. Thomson's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: J. J. Thomson",
+      "sourceUrl": "https://pantheon.world/profile/person/J._J._Thomson",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "mohammad-reza-pahlavi",
+  "slug": "mohammad-reza-pahlavi",
+  "name": "Mohammad Reza Pahlavi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mohammad Reza Pahlavi",
+      "url": "https://pantheon.world/profile/person/Mohammad_Reza_Pahlavi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mohammad-reza-pahlavi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mohammad Reza Pahlavi is remembered as a politician connected with Iran."
+    },
+    {
+      "factId": "mohammad-reza-pahlavi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mohammad Reza Pahlavi's recorded life dates place this profile around 1919-1980."
+    },
+    {
+      "factId": "mohammad-reza-pahlavi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mohammad Reza Pahlavi is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mohammad-reza-pahlavi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mohammad Reza Pahlavi's profile connects a short Fact to a wider Iran historical setting."
+    },
+    {
+      "factId": "mohammad-reza-pahlavi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mohammad Reza Pahlavi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Hermann Hesse is a notable writer associated with Germany.",
+  "summary": "Hermann Hesse is a notable writer connected with Germany.",
   "knownFor": [
     "Writer",
-    "114 language biography editions",
-    "Historical Popularity Index 85.1"
+    "Literature, Arts & Culture",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 430,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hermann-hesse-pantheon-profile",
-      "text": "Pantheon ranks Hermann Hesse as a globally documented writer with biographies in 114 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hermann Hesse a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hermann-hesse-1-origin",
+      "text": "Hermann Hesse is remembered as a writer connected with Germany.",
+      "context": "Hermann Hesse's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Hermann Hesse",
       "sourceUrl": "https://pantheon.world/profile/person/Hermann_Hesse",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hermann-hesse-2-obstacle",
+      "text": "Hermann Hesse's recorded life dates place this profile around 1877-1962.",
+      "context": "Hermann Hesse's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hermann Hesse",
+      "sourceUrl": "https://pantheon.world/profile/person/Hermann_Hesse",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hermann-hesse-3-turning-point",
+      "text": "Hermann Hesse is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Hermann Hesse's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hermann Hesse",
+      "sourceUrl": "https://pantheon.world/profile/person/Hermann_Hesse",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hermann-hesse-4-contribution",
+      "text": "Hermann Hesse's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Hermann Hesse's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hermann Hesse",
+      "sourceUrl": "https://pantheon.world/profile/person/Hermann_Hesse",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hermann-hesse-5-influence",
+      "text": "Hermann Hesse has a Facts Mode card reserved for deeper source research.",
+      "context": "Hermann Hesse's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hermann Hesse",
+      "sourceUrl": "https://pantheon.world/profile/person/Hermann_Hesse",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

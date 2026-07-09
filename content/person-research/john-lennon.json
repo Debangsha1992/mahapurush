@@ -1,0 +1,46 @@
+{
+  "personId": "john-lennon",
+  "slug": "john-lennon",
+  "name": "John Lennon",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John Lennon",
+      "url": "https://pantheon.world/profile/person/John_Lennon",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-lennon-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John Lennon is remembered as a musician connected with United Kingdom."
+    },
+    {
+      "factId": "john-lennon-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John Lennon's recorded life dates place this profile around 1940-1980."
+    },
+    {
+      "factId": "john-lennon-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John Lennon is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "john-lennon-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John Lennon's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "john-lennon-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John Lennon has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

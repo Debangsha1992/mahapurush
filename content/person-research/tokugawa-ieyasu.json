@@ -1,0 +1,46 @@
+{
+  "personId": "tokugawa-ieyasu",
+  "slug": "tokugawa-ieyasu",
+  "name": "Tokugawa Ieyasu",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Tokugawa Ieyasu",
+      "url": "https://pantheon.world/profile/person/Tokugawa_Ieyasu",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "tokugawa-ieyasu-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Tokugawa Ieyasu is remembered as a military personnel connected with Japan."
+    },
+    {
+      "factId": "tokugawa-ieyasu-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Tokugawa Ieyasu's recorded life dates place this profile around 1542-1616."
+    },
+    {
+      "factId": "tokugawa-ieyasu-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Tokugawa Ieyasu is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "tokugawa-ieyasu-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Tokugawa Ieyasu's profile connects a short Fact to a wider Japan historical setting."
+    },
+    {
+      "factId": "tokugawa-ieyasu-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Tokugawa Ieyasu has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

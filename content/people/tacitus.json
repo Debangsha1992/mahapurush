@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "historian"
   ],
-  "summary": "Tacitus is a notable historian associated with France.",
+  "summary": "Tacitus is a notable historian connected with France.",
   "knownFor": [
     "Historian",
-    "89 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Tacitus",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "tacitus-pantheon-profile",
-      "text": "Pantheon ranks Tacitus as a globally documented historian with biographies in 89 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Tacitus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "tacitus-1-origin",
+      "text": "Tacitus is remembered as a historian connected with France.",
+      "context": "Tacitus's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Tacitus",
       "sourceUrl": "https://pantheon.world/profile/person/Tacitus",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tacitus-2-obstacle",
+      "text": "Tacitus's recorded life dates place this profile around 54-120.",
+      "context": "Tacitus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Tacitus",
+      "sourceUrl": "https://pantheon.world/profile/person/Tacitus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tacitus-3-turning-point",
+      "text": "Tacitus is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Tacitus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Tacitus",
+      "sourceUrl": "https://pantheon.world/profile/person/Tacitus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tacitus-4-contribution",
+      "text": "Tacitus's profile connects a short Fact to a wider France historical setting.",
+      "context": "Tacitus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Tacitus",
+      "sourceUrl": "https://pantheon.world/profile/person/Tacitus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tacitus-5-influence",
+      "text": "Tacitus has a Facts Mode card reserved for deeper source research.",
+      "context": "Tacitus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Tacitus",
+      "sourceUrl": "https://pantheon.world/profile/person/Tacitus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

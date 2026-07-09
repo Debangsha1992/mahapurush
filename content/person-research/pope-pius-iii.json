@@ -1,0 +1,46 @@
+{
+  "personId": "pope-pius-iii",
+  "slug": "pope-pius-iii",
+  "name": "Pope Pius III",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Pius III",
+      "url": "https://pantheon.world/profile/person/Pope_Pius_III",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-pius-iii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius III is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-pius-iii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius III's recorded life dates place this profile around 1439-1503."
+    },
+    {
+      "factId": "pope-pius-iii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius III is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-pius-iii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius III's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-pius-iii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius III has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

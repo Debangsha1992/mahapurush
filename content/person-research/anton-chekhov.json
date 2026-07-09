@@ -1,0 +1,46 @@
+{
+  "personId": "anton-chekhov",
+  "slug": "anton-chekhov",
+  "name": "Anton Chekhov",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anton Chekhov",
+      "url": "https://pantheon.world/profile/person/Anton_Chekhov",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anton-chekhov-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anton Chekhov is remembered as a writer connected with Russia."
+    },
+    {
+      "factId": "anton-chekhov-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anton Chekhov's recorded life dates place this profile around 1860-1904."
+    },
+    {
+      "factId": "anton-chekhov-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anton Chekhov is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "anton-chekhov-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anton Chekhov's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "anton-chekhov-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anton Chekhov has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

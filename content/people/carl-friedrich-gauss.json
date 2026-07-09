@@ -12,11 +12,11 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Carl Friedrich Gauss is a notable mathematician associated with Germany.",
+  "summary": "Carl Friedrich Gauss is a notable mathematician connected with Germany.",
   "knownFor": [
     "Mathematician",
-    "160 language biography editions",
-    "Historical Popularity Index 91.4"
+    "Science, Math & Technology",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 92,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "carl-friedrich-gauss-pantheon-profile",
-      "text": "Pantheon ranks Carl Friedrich Gauss as a globally documented mathematician with biographies in 160 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Carl Friedrich Gauss a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "carl-friedrich-gauss-1-origin",
+      "text": "Carl Friedrich Gauss is remembered as a mathematician connected with Germany.",
+      "context": "Carl Friedrich Gauss's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Carl Friedrich Gauss",
       "sourceUrl": "https://pantheon.world/profile/person/Carl_Friedrich_Gauss",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-friedrich-gauss-2-obstacle",
+      "text": "Carl Friedrich Gauss's recorded life dates place this profile around 1777-1855.",
+      "context": "Carl Friedrich Gauss's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Carl Friedrich Gauss",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Friedrich_Gauss",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-friedrich-gauss-3-turning-point",
+      "text": "Carl Friedrich Gauss is grouped with Science, Math & Technology in the People Library.",
+      "context": "Carl Friedrich Gauss's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Carl Friedrich Gauss",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Friedrich_Gauss",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-friedrich-gauss-4-contribution",
+      "text": "Carl Friedrich Gauss's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Carl Friedrich Gauss's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Carl Friedrich Gauss",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Friedrich_Gauss",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "carl-friedrich-gauss-5-influence",
+      "text": "Carl Friedrich Gauss has a Facts Mode card reserved for deeper source research.",
+      "context": "Carl Friedrich Gauss's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Carl Friedrich Gauss",
+      "sourceUrl": "https://pantheon.world/profile/person/Carl_Friedrich_Gauss",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

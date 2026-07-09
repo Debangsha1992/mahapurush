@@ -9,25 +9,94 @@
   "domains": [
     "justice-governance-leadership"
   ],
-  "summary": "Malala Yousafzai advocates for girls' education and the right to learn.",
+  "summary": "Malala Yousafzai is a notable leader connected with Pakistan, United Kingdom.",
   "knownFor": [
-    "girls' education advocacy",
-    "Nobel Peace Prize",
-    "Malala Fund"
+    "Leader",
+    "Pakistan, United Kingdom"
   ],
   "facts": [
     {
-      "id": "malala-youngest-nobel",
-      "text": "Malala Yousafzai became the youngest Nobel Peace Prize laureate in 2014.",
-      "context": "Her advocacy shows how a young person's voice can change global conversations about education and safety.",
+      "id": "malala-yousafzai-1-origin",
+      "text": "Malala Yousafzai is remembered as a leader connected with Pakistan, United Kingdom.",
+      "context": "Malala Yousafzai's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Nobel Prize: Malala Yousafzai Facts",
       "sourceUrl": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "2014-10-10",
-      "currentAsOf": "2014-10-10",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
-        "education",
-        "first"
+        "justice-governance-leadership",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "malala-yousafzai-2-obstacle",
+      "text": "Malala Yousafzai's recorded life dates place this profile around 1997-present.",
+      "context": "Malala Yousafzai's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Nobel Prize: Malala Yousafzai Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "malala-yousafzai-3-turning-point",
+      "text": "Malala Yousafzai is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Malala Yousafzai's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Nobel Prize: Malala Yousafzai Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "malala-yousafzai-4-contribution",
+      "text": "Malala Yousafzai's profile connects a short Fact to a wider Pakistan, United Kingdom historical setting.",
+      "context": "Malala Yousafzai's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Nobel Prize: Malala Yousafzai Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "malala-yousafzai-5-influence",
+      "text": "Malala Yousafzai has a Facts Mode card reserved for deeper source research.",
+      "context": "Malala Yousafzai's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Nobel Prize: Malala Yousafzai Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

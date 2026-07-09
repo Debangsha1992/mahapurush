@@ -1,0 +1,46 @@
+{
+  "personId": "george-orwell",
+  "slug": "george-orwell",
+  "name": "George Orwell",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: George Orwell",
+      "url": "https://pantheon.world/profile/person/George_Orwell",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "george-orwell-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "George Orwell is remembered as a writer connected with India."
+    },
+    {
+      "factId": "george-orwell-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "George Orwell's recorded life dates place this profile around 1903-1950."
+    },
+    {
+      "factId": "george-orwell-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "George Orwell is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "george-orwell-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "George Orwell's profile connects a short Fact to a wider India historical setting."
+    },
+    {
+      "factId": "george-orwell-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "George Orwell has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

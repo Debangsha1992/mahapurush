@@ -1,0 +1,46 @@
+{
+  "personId": "anders-celsius",
+  "slug": "anders-celsius",
+  "name": "Anders Celsius",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anders Celsius",
+      "url": "https://pantheon.world/profile/person/Anders_Celsius",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anders-celsius-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anders Celsius is remembered as a astronomer connected with Sweden."
+    },
+    {
+      "factId": "anders-celsius-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anders Celsius's recorded life dates place this profile around 1701-1744."
+    },
+    {
+      "factId": "anders-celsius-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anders Celsius is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "anders-celsius-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anders Celsius's profile connects a short Fact to a wider Sweden historical setting."
+    },
+    {
+      "factId": "anders-celsius-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anders Celsius has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

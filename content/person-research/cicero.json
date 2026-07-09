@@ -1,0 +1,46 @@
+{
+  "personId": "cicero",
+  "slug": "cicero",
+  "name": "Cicero",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Cicero",
+      "url": "https://pantheon.world/profile/person/Cicero",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "cicero-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Cicero is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "cicero-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Cicero's recorded life dates place this profile around -106--43."
+    },
+    {
+      "factId": "cicero-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Cicero is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "cicero-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Cicero's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "cicero-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Cicero has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

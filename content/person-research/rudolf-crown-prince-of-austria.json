@@ -1,0 +1,46 @@
+{
+  "personId": "rudolf-crown-prince-of-austria",
+  "slug": "rudolf-crown-prince-of-austria",
+  "name": "Rudolf, Crown Prince of Austria",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Rudolf, Crown Prince of Austria",
+      "url": "https://pantheon.world/profile/person/Rudolf%2C_Crown_Prince_of_Austria",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "rudolf-crown-prince-of-austria-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Rudolf, Crown Prince of Austria is remembered as a nobleman connected with Austria."
+    },
+    {
+      "factId": "rudolf-crown-prince-of-austria-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Rudolf, Crown Prince of Austria's recorded life dates place this profile around 1858-1889."
+    },
+    {
+      "factId": "rudolf-crown-prince-of-austria-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Rudolf, Crown Prince of Austria is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "rudolf-crown-prince-of-austria-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Rudolf, Crown Prince of Austria's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "rudolf-crown-prince-of-austria-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Rudolf, Crown Prince of Austria has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

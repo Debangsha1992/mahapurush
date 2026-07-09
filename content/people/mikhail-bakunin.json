@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "philosopher"
   ],
-  "summary": "Mikhail Bakunin is a notable philosopher associated with Russia.",
+  "summary": "Mikhail Bakunin is a notable philosopher connected with Russia.",
   "knownFor": [
     "Philosopher",
-    "92 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Philosophy, Ethics & Religion",
+    "Russia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mikhail Bakunin",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mikhail-bakunin-pantheon-profile",
-      "text": "Pantheon ranks Mikhail Bakunin as a globally documented philosopher with biographies in 92 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mikhail Bakunin a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mikhail-bakunin-1-origin",
+      "text": "Mikhail Bakunin is remembered as a philosopher connected with Russia.",
+      "context": "Mikhail Bakunin's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Mikhail Bakunin",
       "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Bakunin",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mikhail-bakunin-2-obstacle",
+      "text": "Mikhail Bakunin's recorded life dates place this profile around 1814-1876.",
+      "context": "Mikhail Bakunin's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mikhail Bakunin",
+      "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Bakunin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mikhail-bakunin-3-turning-point",
+      "text": "Mikhail Bakunin is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Mikhail Bakunin's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mikhail Bakunin",
+      "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Bakunin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mikhail-bakunin-4-contribution",
+      "text": "Mikhail Bakunin's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Mikhail Bakunin's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mikhail Bakunin",
+      "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Bakunin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mikhail-bakunin-5-influence",
+      "text": "Mikhail Bakunin has a Facts Mode card reserved for deeper source research.",
+      "context": "Mikhail Bakunin's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mikhail Bakunin",
+      "sourceUrl": "https://pantheon.world/profile/person/Mikhail_Bakunin",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

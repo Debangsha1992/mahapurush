@@ -1,0 +1,46 @@
+{
+  "personId": "j-j-thomson",
+  "slug": "j-j-thomson",
+  "name": "J. J. Thomson",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: J. J. Thomson",
+      "url": "https://pantheon.world/profile/person/J._J._Thomson",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "j-j-thomson-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "J. J. Thomson is remembered as a physicist connected with United Kingdom."
+    },
+    {
+      "factId": "j-j-thomson-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "J. J. Thomson's recorded life dates place this profile around 1856-1940."
+    },
+    {
+      "factId": "j-j-thomson-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "J. J. Thomson is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "j-j-thomson-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "J. J. Thomson's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "j-j-thomson-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "J. J. Thomson has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

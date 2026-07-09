@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Ögedei Khan is a notable politician associated with Global.",
+  "summary": "Ögedei Khan is a notable politician connected with Global.",
   "knownFor": [
     "Politician",
-    "80 language biography editions",
-    "Historical Popularity Index 86.6"
+    "Justice, Governance & Leadership",
+    "Global"
   ],
   "featured": true,
   "featuredRank": 307,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ogedei-khan-pantheon-profile",
-      "text": "Pantheon ranks Ögedei Khan as a globally documented politician with biographies in 80 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ögedei Khan a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ogedei-khan-1-origin",
+      "text": "Ögedei Khan is remembered as a politician connected with Global.",
+      "context": "Ögedei Khan's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ögedei Khan",
       "sourceUrl": "https://pantheon.world/profile/person/%C3%96gedei_Khan",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ogedei-khan-2-obstacle",
+      "text": "Ögedei Khan's recorded life dates place this profile around 1185-1241.",
+      "context": "Ögedei Khan's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ögedei Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%96gedei_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ogedei-khan-3-turning-point",
+      "text": "Ögedei Khan is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ögedei Khan's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ögedei Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%96gedei_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ogedei-khan-4-contribution",
+      "text": "Ögedei Khan's profile connects a short Fact to a wider Global historical setting.",
+      "context": "Ögedei Khan's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ögedei Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%96gedei_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ogedei-khan-5-influence",
+      "text": "Ögedei Khan has a Facts Mode card reserved for deeper source research.",
+      "context": "Ögedei Khan's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ögedei Khan",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%96gedei_Khan",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

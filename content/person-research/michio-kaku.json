@@ -1,0 +1,46 @@
+{
+  "personId": "michio-kaku",
+  "slug": "michio-kaku",
+  "name": "Michio Kaku",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "City College of New York: Michio Kaku",
+      "url": "https://www.ccny.cuny.edu/profiles/michio-kaku",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "michio-kaku-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Michio Kaku is remembered as a scientist connected with United States."
+    },
+    {
+      "factId": "michio-kaku-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Michio Kaku's recorded life dates place this profile around 1947-present."
+    },
+    {
+      "factId": "michio-kaku-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Michio Kaku is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "michio-kaku-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Michio Kaku's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "michio-kaku-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Michio Kaku has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

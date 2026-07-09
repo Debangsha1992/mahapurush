@@ -1,0 +1,46 @@
+{
+  "personId": "vincent-van-gogh",
+  "slug": "vincent-van-gogh",
+  "name": "Vincent van Gogh",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Vincent van Gogh",
+      "url": "https://pantheon.world/profile/person/Vincent_van_Gogh",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "vincent-van-gogh-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Vincent van Gogh is remembered as a painter connected with Netherlands."
+    },
+    {
+      "factId": "vincent-van-gogh-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Vincent van Gogh's recorded life dates place this profile around 1853-1890."
+    },
+    {
+      "factId": "vincent-van-gogh-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Vincent van Gogh is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "vincent-van-gogh-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Vincent van Gogh's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "vincent-van-gogh-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Vincent van Gogh has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

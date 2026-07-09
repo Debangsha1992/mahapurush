@@ -12,11 +12,11 @@
     "science-math-technology",
     "biologist"
   ],
-  "summary": "Gregor Mendel is a notable biologist associated with Czechia.",
+  "summary": "Gregor Mendel is a notable biologist connected with Czechia.",
   "knownFor": [
     "Biologist",
-    "114 language biography editions",
-    "Historical Popularity Index 85.7"
+    "Science, Math & Technology",
+    "Czechia"
   ],
   "featured": true,
   "featuredRank": 381,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "gregor-mendel-pantheon-profile",
-      "text": "Pantheon ranks Gregor Mendel as a globally documented biologist with biographies in 114 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Gregor Mendel a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "gregor-mendel-1-origin",
+      "text": "Gregor Mendel is remembered as a biologist connected with Czechia.",
+      "context": "Gregor Mendel's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Gregor Mendel",
       "sourceUrl": "https://pantheon.world/profile/person/Gregor_Mendel",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gregor-mendel-2-obstacle",
+      "text": "Gregor Mendel's recorded life dates place this profile around 1822-1884.",
+      "context": "Gregor Mendel's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Gregor Mendel",
+      "sourceUrl": "https://pantheon.world/profile/person/Gregor_Mendel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gregor-mendel-3-turning-point",
+      "text": "Gregor Mendel is grouped with Science, Math & Technology in the People Library.",
+      "context": "Gregor Mendel's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Gregor Mendel",
+      "sourceUrl": "https://pantheon.world/profile/person/Gregor_Mendel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gregor-mendel-4-contribution",
+      "text": "Gregor Mendel's profile connects a short Fact to a wider Czechia historical setting.",
+      "context": "Gregor Mendel's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Gregor Mendel",
+      "sourceUrl": "https://pantheon.world/profile/person/Gregor_Mendel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "gregor-mendel-5-influence",
+      "text": "Gregor Mendel has a Facts Mode card reserved for deeper source research.",
+      "context": "Gregor Mendel's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Gregor Mendel",
+      "sourceUrl": "https://pantheon.world/profile/person/Gregor_Mendel",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

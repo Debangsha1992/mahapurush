@@ -1,0 +1,46 @@
+{
+  "personId": "jude-the-apostle",
+  "slug": "jude-the-apostle",
+  "name": "Jude the Apostle",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jude the Apostle",
+      "url": "https://pantheon.world/profile/person/Jude_the_Apostle",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jude-the-apostle-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jude the Apostle is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "jude-the-apostle-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jude the Apostle's recorded life dates place this profile around 15-70."
+    },
+    {
+      "factId": "jude-the-apostle-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jude the Apostle is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "jude-the-apostle-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jude the Apostle's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "jude-the-apostle-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jude the Apostle has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

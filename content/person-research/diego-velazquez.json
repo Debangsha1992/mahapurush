@@ -1,0 +1,46 @@
+{
+  "personId": "diego-velazquez",
+  "slug": "diego-velazquez",
+  "name": "Diego Velázquez",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Diego Velázquez",
+      "url": "https://pantheon.world/profile/person/Diego_Vel%C3%A1zquez",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "diego-velazquez-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Diego Velázquez is remembered as a painter connected with Spain."
+    },
+    {
+      "factId": "diego-velazquez-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Diego Velázquez's recorded life dates place this profile around 1599-1660."
+    },
+    {
+      "factId": "diego-velazquez-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Diego Velázquez is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "diego-velazquez-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Diego Velázquez's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "diego-velazquez-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Diego Velázquez has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "piet-mondrian",
+  "slug": "piet-mondrian",
+  "name": "Piet Mondrian",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Piet Mondrian",
+      "url": "https://pantheon.world/profile/person/Piet_Mondrian",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "piet-mondrian-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Piet Mondrian is remembered as a painter connected with Netherlands."
+    },
+    {
+      "factId": "piet-mondrian-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Piet Mondrian's recorded life dates place this profile around 1872-1944."
+    },
+    {
+      "factId": "piet-mondrian-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Piet Mondrian is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "piet-mondrian-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Piet Mondrian's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "piet-mondrian-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Piet Mondrian has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

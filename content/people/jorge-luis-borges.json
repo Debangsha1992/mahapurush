@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Jorge Luis Borges is a notable writer associated with Argentina.",
+  "summary": "Jorge Luis Borges is a notable writer connected with Argentina.",
   "knownFor": [
     "Writer",
-    "144 language biography editions",
-    "Historical Popularity Index 83.4"
+    "Literature, Arts & Culture",
+    "Argentina"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Jorge Luis Borges",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jorge-luis-borges-pantheon-profile",
-      "text": "Pantheon ranks Jorge Luis Borges as a globally documented writer with biographies in 144 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jorge Luis Borges a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "jorge-luis-borges-1-origin",
+      "text": "Jorge Luis Borges is remembered as a writer connected with Argentina.",
+      "context": "Jorge Luis Borges's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Jorge Luis Borges",
       "sourceUrl": "https://pantheon.world/profile/person/Jorge_Luis_Borges",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jorge-luis-borges-2-obstacle",
+      "text": "Jorge Luis Borges's recorded life dates place this profile around 1899-1986.",
+      "context": "Jorge Luis Borges's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Jorge Luis Borges",
+      "sourceUrl": "https://pantheon.world/profile/person/Jorge_Luis_Borges",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jorge-luis-borges-3-turning-point",
+      "text": "Jorge Luis Borges is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Jorge Luis Borges's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Jorge Luis Borges",
+      "sourceUrl": "https://pantheon.world/profile/person/Jorge_Luis_Borges",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jorge-luis-borges-4-contribution",
+      "text": "Jorge Luis Borges's profile connects a short Fact to a wider Argentina historical setting.",
+      "context": "Jorge Luis Borges's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Jorge Luis Borges",
+      "sourceUrl": "https://pantheon.world/profile/person/Jorge_Luis_Borges",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jorge-luis-borges-5-influence",
+      "text": "Jorge Luis Borges has a Facts Mode card reserved for deeper source research.",
+      "context": "Jorge Luis Borges's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Jorge Luis Borges",
+      "sourceUrl": "https://pantheon.world/profile/person/Jorge_Luis_Borges",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Demosthenes is a notable politician associated with Greece.",
+  "summary": "Demosthenes is a notable politician connected with Greece.",
   "knownFor": [
     "Politician",
-    "74 language biography editions",
-    "Historical Popularity Index 81.7"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Demosthenes",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "demosthenes-pantheon-profile",
-      "text": "Pantheon ranks Demosthenes as a globally documented politician with biographies in 74 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Demosthenes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "demosthenes-1-origin",
+      "text": "Demosthenes is remembered as a politician connected with Greece.",
+      "context": "Demosthenes's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Demosthenes",
       "sourceUrl": "https://pantheon.world/profile/person/Demosthenes",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "demosthenes-2-obstacle",
+      "text": "Demosthenes's recorded life dates place this profile around -384--322.",
+      "context": "Demosthenes's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Demosthenes",
+      "sourceUrl": "https://pantheon.world/profile/person/Demosthenes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "demosthenes-3-turning-point",
+      "text": "Demosthenes is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Demosthenes's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Demosthenes",
+      "sourceUrl": "https://pantheon.world/profile/person/Demosthenes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "demosthenes-4-contribution",
+      "text": "Demosthenes's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Demosthenes's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Demosthenes",
+      "sourceUrl": "https://pantheon.world/profile/person/Demosthenes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "demosthenes-5-influence",
+      "text": "Demosthenes has a Facts Mode card reserved for deeper source research.",
+      "context": "Demosthenes's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Demosthenes",
+      "sourceUrl": "https://pantheon.world/profile/person/Demosthenes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

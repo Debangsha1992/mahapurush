@@ -1,0 +1,46 @@
+{
+  "personId": "li-bai",
+  "slug": "li-bai",
+  "name": "Li Bai",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Li Bai",
+      "url": "https://pantheon.world/profile/person/Li_Bai",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "li-bai-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Li Bai is remembered as a writer connected with China."
+    },
+    {
+      "factId": "li-bai-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Li Bai's recorded life dates place this profile around 701-762."
+    },
+    {
+      "factId": "li-bai-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Li Bai is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "li-bai-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Li Bai's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "li-bai-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Li Bai has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

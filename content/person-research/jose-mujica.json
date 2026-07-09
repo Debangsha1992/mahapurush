@@ -1,0 +1,46 @@
+{
+  "personId": "jose-mujica",
+  "slug": "jose-mujica",
+  "name": "José Mujica",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: José Mujica",
+      "url": "https://pantheon.world/profile/person/Jos%C3%A9_Mujica",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jose-mujica-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "José Mujica is remembered as a politician connected with Uruguay."
+    },
+    {
+      "factId": "jose-mujica-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "José Mujica's recorded life dates place this profile around 1935-2025."
+    },
+    {
+      "factId": "jose-mujica-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "José Mujica is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "jose-mujica-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "José Mujica's profile connects a short Fact to a wider Uruguay historical setting."
+    },
+    {
+      "factId": "jose-mujica-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "José Mujica has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "madonna-entertainer",
+  "slug": "madonna-entertainer",
+  "name": "Madonna",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Madonna",
+      "url": "https://en.wikipedia.org/wiki/Madonna",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "American singer and songwriter (born 1958)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "madonna-entertainer-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Madonna Louise Ciccone is an American singer, songwriter, record producer, and actress."
+    },
+    {
+      "factId": "madonna-entertainer-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Madonna's works, which concern social, political, sexual, and religious themes, have generated both controversy and critical acclaim."
+    },
+    {
+      "factId": "madonna-entertainer-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Madonna is remembered as a musician connected with United States."
+    },
+    {
+      "factId": "madonna-entertainer-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Madonna's recorded life dates place this profile around born 1958."
+    },
+    {
+      "factId": "madonna-entertainer-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Madonna is grouped with Literature, Arts & Culture in the People Library."
+    }
+  ]
+}

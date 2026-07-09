@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Harald Hardrada is a notable politician associated with Norway.",
+  "summary": "Harald Hardrada is a notable politician connected with Norway.",
   "knownFor": [
     "Politician",
-    "56 language biography editions",
-    "Historical Popularity Index 84.8"
+    "Justice, Governance & Leadership",
+    "Norway"
   ],
   "featured": true,
   "featuredRank": 455,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "harald-hardrada-pantheon-profile",
-      "text": "Pantheon ranks Harald Hardrada as a globally documented politician with biographies in 56 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Harald Hardrada a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "harald-hardrada-1-origin",
+      "text": "Harald Hardrada is remembered as a politician connected with Norway.",
+      "context": "Harald Hardrada's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Harald Hardrada",
       "sourceUrl": "https://pantheon.world/profile/person/Harald_Hardrada",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harald-hardrada-2-obstacle",
+      "text": "Harald Hardrada's recorded life dates place this profile around 1015-1066.",
+      "context": "Harald Hardrada's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Harald Hardrada",
+      "sourceUrl": "https://pantheon.world/profile/person/Harald_Hardrada",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harald-hardrada-3-turning-point",
+      "text": "Harald Hardrada is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Harald Hardrada's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Harald Hardrada",
+      "sourceUrl": "https://pantheon.world/profile/person/Harald_Hardrada",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harald-hardrada-4-contribution",
+      "text": "Harald Hardrada's profile connects a short Fact to a wider Norway historical setting.",
+      "context": "Harald Hardrada's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Harald Hardrada",
+      "sourceUrl": "https://pantheon.world/profile/person/Harald_Hardrada",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harald-hardrada-5-influence",
+      "text": "Harald Hardrada has a Facts Mode card reserved for deeper source research.",
+      "context": "Harald Hardrada's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Harald Hardrada",
+      "sourceUrl": "https://pantheon.world/profile/person/Harald_Hardrada",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

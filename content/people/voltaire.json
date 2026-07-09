@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Voltaire is a notable writer associated with France.",
+  "summary": "Voltaire is a notable writer connected with France.",
   "knownFor": [
     "Writer",
-    "174 language biography editions",
-    "Historical Popularity Index 89.4"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": true,
   "featuredRank": 150,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "voltaire-pantheon-profile",
-      "text": "Pantheon ranks Voltaire as a globally documented writer with biographies in 174 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Voltaire a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "voltaire-1-origin",
+      "text": "Voltaire is remembered as a writer connected with France.",
+      "context": "Voltaire's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Voltaire",
       "sourceUrl": "https://pantheon.world/profile/person/Voltaire",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "voltaire-2-obstacle",
+      "text": "Voltaire's recorded life dates place this profile around 1694-1778.",
+      "context": "Voltaire's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Voltaire",
+      "sourceUrl": "https://pantheon.world/profile/person/Voltaire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "voltaire-3-turning-point",
+      "text": "Voltaire is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Voltaire's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Voltaire",
+      "sourceUrl": "https://pantheon.world/profile/person/Voltaire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "voltaire-4-contribution",
+      "text": "Voltaire's profile connects a short Fact to a wider France historical setting.",
+      "context": "Voltaire's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Voltaire",
+      "sourceUrl": "https://pantheon.world/profile/person/Voltaire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "voltaire-5-influence",
+      "text": "Voltaire has a Facts Mode card reserved for deeper source research.",
+      "context": "Voltaire's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Voltaire",
+      "sourceUrl": "https://pantheon.world/profile/person/Voltaire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

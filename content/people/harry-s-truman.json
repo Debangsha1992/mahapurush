@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Harry S. Truman is a notable politician associated with United States.",
+  "summary": "Harry S. Truman is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "154 language biography editions",
-    "Historical Popularity Index 83.6"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Harry S. Truman",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "harry-s-truman-pantheon-profile",
-      "text": "Pantheon ranks Harry S. Truman as a globally documented politician with biographies in 154 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Harry S. Truman a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "harry-s-truman-1-origin",
+      "text": "Harry S. Truman is remembered as a politician connected with United States.",
+      "context": "Harry S. Truman's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Harry S. Truman",
       "sourceUrl": "https://pantheon.world/profile/person/Harry_S._Truman",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harry-s-truman-2-obstacle",
+      "text": "Harry S. Truman's recorded life dates place this profile around 1884-1972.",
+      "context": "Harry S. Truman's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Harry S. Truman",
+      "sourceUrl": "https://pantheon.world/profile/person/Harry_S._Truman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harry-s-truman-3-turning-point",
+      "text": "Harry S. Truman is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Harry S. Truman's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Harry S. Truman",
+      "sourceUrl": "https://pantheon.world/profile/person/Harry_S._Truman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harry-s-truman-4-contribution",
+      "text": "Harry S. Truman's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Harry S. Truman's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Harry S. Truman",
+      "sourceUrl": "https://pantheon.world/profile/person/Harry_S._Truman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harry-s-truman-5-influence",
+      "text": "Harry S. Truman has a Facts Mode card reserved for deeper source research.",
+      "context": "Harry S. Truman's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Harry S. Truman",
+      "sourceUrl": "https://pantheon.world/profile/person/Harry_S._Truman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

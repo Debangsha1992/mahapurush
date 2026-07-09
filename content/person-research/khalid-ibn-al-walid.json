@@ -1,0 +1,46 @@
+{
+  "personId": "khalid-ibn-al-walid",
+  "slug": "khalid-ibn-al-walid",
+  "name": "Khalid ibn al-Walid",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Khalid ibn al-Walid",
+      "url": "https://pantheon.world/profile/person/Khalid_ibn_al-Walid",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "khalid-ibn-al-walid-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Khalid ibn al-Walid is remembered as a military personnel connected with Saudi Arabia."
+    },
+    {
+      "factId": "khalid-ibn-al-walid-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Khalid ibn al-Walid's recorded life dates place this profile around 592-642."
+    },
+    {
+      "factId": "khalid-ibn-al-walid-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Khalid ibn al-Walid is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "khalid-ibn-al-walid-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Khalid ibn al-Walid's profile connects a short Fact to a wider Saudi Arabia historical setting."
+    },
+    {
+      "factId": "khalid-ibn-al-walid-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Khalid ibn al-Walid has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

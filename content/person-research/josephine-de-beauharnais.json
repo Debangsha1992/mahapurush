@@ -1,0 +1,46 @@
+{
+  "personId": "josephine-de-beauharnais",
+  "slug": "josephine-de-beauharnais",
+  "name": "Joséphine de Beauharnais",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Joséphine de Beauharnais",
+      "url": "https://pantheon.world/profile/person/Jos%C3%A9phine_de_Beauharnais",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "josephine-de-beauharnais-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Joséphine de Beauharnais is remembered as a companion connected with Saint Lucia."
+    },
+    {
+      "factId": "josephine-de-beauharnais-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Joséphine de Beauharnais's recorded life dates place this profile around 1763-1814."
+    },
+    {
+      "factId": "josephine-de-beauharnais-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Joséphine de Beauharnais is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "josephine-de-beauharnais-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Joséphine de Beauharnais's profile connects a short Fact to a wider Saint Lucia historical setting."
+    },
+    {
+      "factId": "josephine-de-beauharnais-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Joséphine de Beauharnais has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

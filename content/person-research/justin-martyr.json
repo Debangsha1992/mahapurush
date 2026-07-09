@@ -1,0 +1,46 @@
+{
+  "personId": "justin-martyr",
+  "slug": "justin-martyr",
+  "name": "Justin Martyr",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Justin Martyr",
+      "url": "https://pantheon.world/profile/person/Justin_Martyr",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "justin-martyr-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Justin Martyr is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "justin-martyr-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Justin Martyr's recorded life dates place this profile around 100-165."
+    },
+    {
+      "factId": "justin-martyr-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Justin Martyr is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "justin-martyr-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Justin Martyr's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "justin-martyr-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Justin Martyr has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

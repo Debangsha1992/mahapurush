@@ -1,0 +1,46 @@
+{
+  "personId": "pope-benedict-xiv",
+  "slug": "pope-benedict-xiv",
+  "name": "Pope Benedict XIV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Benedict XIV",
+      "url": "https://pantheon.world/profile/person/Pope_Benedict_XIV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-benedict-xiv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XIV is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-benedict-xiv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XIV's recorded life dates place this profile around 1675-1758."
+    },
+    {
+      "factId": "pope-benedict-xiv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XIV is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-benedict-xiv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XIV's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-benedict-xiv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Benedict XIV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

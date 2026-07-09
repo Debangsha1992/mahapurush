@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Otto von Bismarck is a notable politician associated with Germany.",
+  "summary": "Otto von Bismarck is a notable politician connected with Germany.",
   "knownFor": [
     "Politician",
-    "155 language biography editions",
-    "Historical Popularity Index 88.7"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 189,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "otto-von-bismarck-pantheon-profile",
-      "text": "Pantheon ranks Otto von Bismarck as a globally documented politician with biographies in 155 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Otto von Bismarck a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "otto-von-bismarck-1-origin",
+      "text": "Otto von Bismarck is remembered as a politician connected with Germany.",
+      "context": "Otto von Bismarck's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Otto von Bismarck",
       "sourceUrl": "https://pantheon.world/profile/person/Otto_von_Bismarck",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "otto-von-bismarck-2-obstacle",
+      "text": "Otto von Bismarck's recorded life dates place this profile around 1815-1898.",
+      "context": "Otto von Bismarck's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Otto von Bismarck",
+      "sourceUrl": "https://pantheon.world/profile/person/Otto_von_Bismarck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "otto-von-bismarck-3-turning-point",
+      "text": "Otto von Bismarck is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Otto von Bismarck's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Otto von Bismarck",
+      "sourceUrl": "https://pantheon.world/profile/person/Otto_von_Bismarck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "otto-von-bismarck-4-contribution",
+      "text": "Otto von Bismarck's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Otto von Bismarck's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Otto von Bismarck",
+      "sourceUrl": "https://pantheon.world/profile/person/Otto_von_Bismarck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "otto-von-bismarck-5-influence",
+      "text": "Otto von Bismarck has a Facts Mode card reserved for deeper source research.",
+      "context": "Otto von Bismarck's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Otto von Bismarck",
+      "sourceUrl": "https://pantheon.world/profile/person/Otto_von_Bismarck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

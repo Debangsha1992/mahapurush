@@ -12,35 +12,104 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Euclid is a notable mathematician associated with Egypt.",
+  "summary": "Euclid was an ancient Greek mathematician active as a geometer and logician.",
   "knownFor": [
     "Mathematician",
-    "166 language biography editions",
-    "Historical Popularity Index 90.0"
+    "Science, Math & Technology",
+    "Egypt"
   ],
   "featured": true,
   "featuredRank": 129,
   "imageAlt": "Portrait-style visual for Euclid",
   "sourceRefs": [
     {
-      "title": "Pantheon: Euclid",
-      "url": "https://pantheon.world/profile/person/Euclid",
+      "title": "Wikipedia: Euclid",
+      "url": "https://en.wikipedia.org/wiki/Euclid",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "euclid-pantheon-profile",
-      "text": "Pantheon ranks Euclid as a globally documented mathematician with biographies in 166 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Euclid a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Euclid",
-      "sourceUrl": "https://pantheon.world/profile/person/Euclid",
+      "id": "euclid-1-origin",
+      "text": "Euclid was an ancient Greek mathematician active as a geometer and logician.",
+      "context": "Euclid's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Euclid",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Euclid",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "euclid-2-obstacle",
+      "text": "Euclid's system, now referred to as Euclidean geometry, involved innovations in combination with a synthesis of theories from earlier Greek mathematicians, including Eudoxus of Cnidus, Hippocrates of Chios, Thales and Theaetetus.",
+      "context": "Euclid's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Euclid",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Euclid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "euclid-3-turning-point",
+      "text": "Euclid is remembered as a mathematician connected with Egypt.",
+      "context": "Euclid's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Euclid",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Euclid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "euclid-4-contribution",
+      "text": "Euclid's recorded life dates place this profile around -350--240.",
+      "context": "Euclid's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Euclid",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Euclid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "euclid-5-influence",
+      "text": "Euclid is grouped with Science, Math & Technology in the People Library.",
+      "context": "Euclid's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Euclid",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Euclid",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

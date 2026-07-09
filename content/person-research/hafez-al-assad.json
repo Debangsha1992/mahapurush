@@ -1,0 +1,46 @@
+{
+  "personId": "hafez-al-assad",
+  "slug": "hafez-al-assad",
+  "name": "Hafez al-Assad",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hafez al-Assad",
+      "url": "https://pantheon.world/profile/person/Hafez_al-Assad",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hafez-al-assad-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hafez al-Assad is remembered as a politician connected with Syria."
+    },
+    {
+      "factId": "hafez-al-assad-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hafez al-Assad's recorded life dates place this profile around 1930-2000."
+    },
+    {
+      "factId": "hafez-al-assad-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hafez al-Assad is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "hafez-al-assad-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hafez al-Assad's profile connects a short Fact to a wider Syria historical setting."
+    },
+    {
+      "factId": "hafez-al-assad-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hafez al-Assad has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

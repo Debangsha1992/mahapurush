@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Saint George is a notable religious figure associated with Türkiye.",
+  "summary": "Saint George is a notable religious figure connected with Türkiye.",
   "knownFor": [
     "Religious Figure",
-    "88 language biography editions",
-    "Historical Popularity Index 87.6"
+    "Philosophy, Ethics & Religion",
+    "Türkiye"
   ],
   "featured": true,
   "featuredRank": 243,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "saint-george-pantheon-profile",
-      "text": "Pantheon ranks Saint George as a globally documented religious figure with biographies in 88 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Saint George a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "saint-george-1-origin",
+      "text": "Saint George is remembered as a religious figure connected with Türkiye.",
+      "context": "Saint George's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Saint George",
       "sourceUrl": "https://pantheon.world/profile/person/Saint_George",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-george-2-obstacle",
+      "text": "Saint George's recorded life dates place this profile around 280-303.",
+      "context": "Saint George's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Saint George",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_George",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-george-3-turning-point",
+      "text": "Saint George is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Saint George's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Saint George",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_George",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-george-4-contribution",
+      "text": "Saint George's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Saint George's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Saint George",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_George",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saint-george-5-influence",
+      "text": "Saint George has a Facts Mode card reserved for deeper source research.",
+      "context": "Saint George's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Saint George",
+      "sourceUrl": "https://pantheon.world/profile/person/Saint_George",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

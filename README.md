@@ -1,8 +1,8 @@
 # Mahapurush
 
-MindSpark: Think Like the Greats is a responsive web app inspired by Mahapurusher Mohakotha. It helps teenagers discover great thinkers through short, interactive, gamified lessons that inform, educate, and provoke independent thought.
+MindSpark: Think Like the Greats is a responsive web app inspired by Mahapurusher Mohakotha. It helps curious people across life stages discover great thinkers through short, interactive, gamified lessons that inform, educate, and provoke independent thought.
 
-The app is designed for students aged 15-18. It should not feel like a textbook or a quote collection. The core product promise is:
+The app is designed for modern learners who want practical ways to think about technology, work, relationships, civic life, and purpose. It should not feel like a textbook or a quote collection. The core product promise is:
 
 > Learn how great minds questioned the world, then learn to question it yourself.
 
@@ -16,7 +16,7 @@ MindSpark combines:
 - Private journaling.
 - Game-based progress through XP, badges, streaks, and thinking skills.
 
-The goal is not only to teach who Socrates, Buddha, Ambedkar, Tagore, Einstein, Curie, Mandela, or Simone de Beauvoir were. The goal is to help students ask:
+The goal is not only to teach who Socrates, Buddha, Ambedkar, Tagore, Einstein, Curie, Mandela, or Simone de Beauvoir were. The goal is to help users ask:
 
 > How would this person think about my world today?
 
@@ -125,6 +125,6 @@ No environment variables are expected for the MVP unless analytics tooling requi
 
 ## Product North Star
 
-MindSpark should not simply teach students about great thinkers.
+MindSpark should not simply teach users about great thinkers.
 
 It should help them practice thinking like great thinkers.

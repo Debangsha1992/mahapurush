@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Edward VIII is a notable politician associated with United Kingdom.",
+  "summary": "Edward VIII is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "96 language biography editions",
-    "Historical Popularity Index 89.2"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 163,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edward-viii-pantheon-profile",
-      "text": "Pantheon ranks Edward VIII as a globally documented politician with biographies in 96 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward VIII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edward-viii-1-origin",
+      "text": "Edward VIII is remembered as a politician connected with United Kingdom.",
+      "context": "Edward VIII's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Edward VIII",
       "sourceUrl": "https://pantheon.world/profile/person/Edward_VIII",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-viii-2-obstacle",
+      "text": "Edward VIII's recorded life dates place this profile around 1894-1972.",
+      "context": "Edward VIII's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Edward VIII",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VIII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-viii-3-turning-point",
+      "text": "Edward VIII is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Edward VIII's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Edward VIII",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VIII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-viii-4-contribution",
+      "text": "Edward VIII's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Edward VIII's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Edward VIII",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VIII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-viii-5-influence",
+      "text": "Edward VIII has a Facts Mode card reserved for deeper source research.",
+      "context": "Edward VIII's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Edward VIII",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VIII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

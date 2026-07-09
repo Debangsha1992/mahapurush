@@ -1,0 +1,46 @@
+{
+  "personId": "edith-piaf",
+  "slug": "edith-piaf",
+  "name": "Édith Piaf",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Édith Piaf",
+      "url": "https://pantheon.world/profile/person/%C3%89dith_Piaf",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edith-piaf-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Édith Piaf is remembered as a singer connected with France."
+    },
+    {
+      "factId": "edith-piaf-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Édith Piaf's recorded life dates place this profile around 1915-1963."
+    },
+    {
+      "factId": "edith-piaf-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Édith Piaf is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "edith-piaf-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Édith Piaf's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "edith-piaf-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Édith Piaf has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

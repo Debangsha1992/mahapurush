@@ -1,0 +1,46 @@
+{
+  "personId": "murad-i",
+  "slug": "murad-i",
+  "name": "Murad I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Murad I",
+      "url": "https://pantheon.world/profile/person/Murad_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "murad-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Murad I is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "murad-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Murad I's recorded life dates place this profile around 1326-1389."
+    },
+    {
+      "factId": "murad-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Murad I is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "murad-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Murad I's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "murad-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Murad I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

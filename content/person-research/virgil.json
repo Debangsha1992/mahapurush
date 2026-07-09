@@ -1,0 +1,46 @@
+{
+  "personId": "virgil",
+  "slug": "virgil",
+  "name": "Virgil",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Virgil",
+      "url": "https://pantheon.world/profile/person/Virgil",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "virgil-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Virgil is remembered as a writer connected with Italy."
+    },
+    {
+      "factId": "virgil-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Virgil's recorded life dates place this profile around -70--19."
+    },
+    {
+      "factId": "virgil-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Virgil is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "virgil-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Virgil's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "virgil-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Virgil has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

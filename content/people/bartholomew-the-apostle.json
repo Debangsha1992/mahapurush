@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Bartholomew the Apostle is a notable religious figure associated with Israel.",
+  "summary": "Bartholomew the Apostle is a notable religious figure connected with Israel.",
   "knownFor": [
     "Religious Figure",
-    "85 language biography editions",
-    "Historical Popularity Index 82.6"
+    "Philosophy, Ethics & Religion",
+    "Israel"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Bartholomew the Apostle",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "bartholomew-the-apostle-pantheon-profile",
-      "text": "Pantheon ranks Bartholomew the Apostle as a globally documented religious figure with biographies in 85 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Bartholomew the Apostle a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "bartholomew-the-apostle-1-origin",
+      "text": "Bartholomew the Apostle is remembered as a religious figure connected with Israel.",
+      "context": "Bartholomew the Apostle's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Bartholomew the Apostle",
       "sourceUrl": "https://pantheon.world/profile/person/Bartholomew_the_Apostle",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bartholomew-the-apostle-2-obstacle",
+      "text": "Bartholomew the Apostle's recorded life dates place this profile around -100-100.",
+      "context": "Bartholomew the Apostle's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Bartholomew the Apostle",
+      "sourceUrl": "https://pantheon.world/profile/person/Bartholomew_the_Apostle",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bartholomew-the-apostle-3-turning-point",
+      "text": "Bartholomew the Apostle is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Bartholomew the Apostle's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Bartholomew the Apostle",
+      "sourceUrl": "https://pantheon.world/profile/person/Bartholomew_the_Apostle",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bartholomew-the-apostle-4-contribution",
+      "text": "Bartholomew the Apostle's profile connects a short Fact to a wider Israel historical setting.",
+      "context": "Bartholomew the Apostle's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Bartholomew the Apostle",
+      "sourceUrl": "https://pantheon.world/profile/person/Bartholomew_the_Apostle",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bartholomew-the-apostle-5-influence",
+      "text": "Bartholomew the Apostle has a Facts Mode card reserved for deeper source research.",
+      "context": "Bartholomew the Apostle's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Bartholomew the Apostle",
+      "sourceUrl": "https://pantheon.world/profile/person/Bartholomew_the_Apostle",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

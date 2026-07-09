@@ -12,34 +12,102 @@
     "justice-governance-leadership",
     "social-activist"
   ],
-  "summary": "Jan Hus is a notable social activist associated with Czechia.",
+  "summary": "Jan Hus, sometimes anglicized as John Goose or John Huss, and referred to in historical texts as Iohannes Hus or Johannes Huss, was a Czech theologian and philosopher who became a Church reformer and the inspiration of Hussitism, a key predecessor to Protesta.",
   "knownFor": [
     "Social Activist",
-    "80 language biography editions",
-    "Historical Popularity Index 84.3"
+    "Justice, Governance & Leadership",
+    "Czechia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Jan Hus",
   "sourceRefs": [
     {
-      "title": "Pantheon: Jan Hus",
-      "url": "https://pantheon.world/profile/person/Jan_Hus",
+      "title": "Wikipedia: Jan Hus",
+      "url": "https://en.wikipedia.org/wiki/Jan_Hus",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jan-hus-pantheon-profile",
-      "text": "Pantheon ranks Jan Hus as a globally documented social activist with biographies in 80 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jan Hus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Jan Hus",
-      "sourceUrl": "https://pantheon.world/profile/person/Jan_Hus",
+      "id": "jan-hus-1-origin",
+      "text": "Jan Hus, sometimes anglicized as John Goose or John Huss, and referred to in historical texts as Iohannes Hus or Johannes Huss, was a Czech theologian and philosopher who became a Church reformer and the inspiration of Hussitism, a key predecessor to Protestantism, and a seminal figure in the Bohem.",
+      "context": "Jan Hus's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Jan Hus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jan_Hus",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jan-hus-2-obstacle",
+      "text": "Jan Hus is considered to be the first Church reformer, even though some designate the theorist John Wycliffe.",
+      "context": "Jan Hus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Jan Hus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jan_Hus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jan-hus-3-turning-point",
+      "text": "Jan Hus's teachings had a strong influence, most immediately in the approval of a reformed Bohemian religious denomination and, over a century later, on Martin Luther.",
+      "context": "Jan Hus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Jan Hus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jan_Hus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jan-hus-4-contribution",
+      "text": "Jan Hus is remembered as a social activist connected with Czechia.",
+      "context": "Jan Hus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Jan Hus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jan_Hus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jan-hus-5-influence",
+      "text": "Jan Hus's recorded life dates place this profile around 1369-1415.",
+      "context": "Jan Hus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Jan Hus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jan_Hus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

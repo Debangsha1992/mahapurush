@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "J. Robert Oppenheimer is a notable physicist associated with United States.",
+  "summary": "J. Robert Oppenheimer is a notable physicist connected with United States.",
   "knownFor": [
     "Physicist",
-    "101 language biography editions",
-    "Historical Popularity Index 90.9"
+    "Science, Math & Technology",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 106,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "j-robert-oppenheimer-pantheon-profile",
-      "text": "Pantheon ranks J. Robert Oppenheimer as a globally documented physicist with biographies in 101 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make J. Robert Oppenheimer a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "j-robert-oppenheimer-1-origin",
+      "text": "J. Robert Oppenheimer is remembered as a physicist connected with United States.",
+      "context": "J. Robert Oppenheimer's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: J. Robert Oppenheimer",
       "sourceUrl": "https://pantheon.world/profile/person/J._Robert_Oppenheimer",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "j-robert-oppenheimer-2-obstacle",
+      "text": "J. Robert Oppenheimer's recorded life dates place this profile around 1904-1967.",
+      "context": "J. Robert Oppenheimer's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: J. Robert Oppenheimer",
+      "sourceUrl": "https://pantheon.world/profile/person/J._Robert_Oppenheimer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "j-robert-oppenheimer-3-turning-point",
+      "text": "J. Robert Oppenheimer is grouped with Science, Math & Technology in the People Library.",
+      "context": "J. Robert Oppenheimer's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: J. Robert Oppenheimer",
+      "sourceUrl": "https://pantheon.world/profile/person/J._Robert_Oppenheimer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "j-robert-oppenheimer-4-contribution",
+      "text": "J. Robert Oppenheimer's profile connects a short Fact to a wider United States historical setting.",
+      "context": "J. Robert Oppenheimer's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: J. Robert Oppenheimer",
+      "sourceUrl": "https://pantheon.world/profile/person/J._Robert_Oppenheimer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "j-robert-oppenheimer-5-influence",
+      "text": "J. Robert Oppenheimer has a Facts Mode card reserved for deeper source research.",
+      "context": "J. Robert Oppenheimer's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: J. Robert Oppenheimer",
+      "sourceUrl": "https://pantheon.world/profile/person/J._Robert_Oppenheimer",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

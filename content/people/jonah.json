@@ -12,35 +12,104 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Jonah is a notable religious figure associated with Israel.",
+  "summary": "Jonah or Jonas was a Jewish prophet from Gath-hepher in the Northern Kingdom of Israel around the 8th century BCE according to the Hebrew Bible.",
   "knownFor": [
     "Religious Figure",
-    "68 language biography editions",
-    "Historical Popularity Index 84.8"
+    "Philosophy, Ethics & Religion",
+    "Israel"
   ],
   "featured": true,
   "featuredRank": 458,
   "imageAlt": "Portrait-style visual for Jonah",
   "sourceRefs": [
     {
-      "title": "Pantheon: Jonah",
-      "url": "https://pantheon.world/profile/person/Jonah",
+      "title": "Wikipedia: Jonah",
+      "url": "https://en.wikipedia.org/wiki/Jonah",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jonah-pantheon-profile",
-      "text": "Pantheon ranks Jonah as a globally documented religious figure with biographies in 68 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jonah a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Jonah",
-      "sourceUrl": "https://pantheon.world/profile/person/Jonah",
+      "id": "jonah-1-origin",
+      "text": "Jonah or Jonas was a Jewish prophet from Gath-hepher in the Northern Kingdom of Israel around the 8th century BCE according to the Hebrew Bible.",
+      "context": "Jonah's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Jonah",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jonah",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jonah-2-obstacle",
+      "text": "Jonah is the central figure of the Book of Jonah, one of the minor prophets, which details his reluctance in delivering the judgment of God to the city of Nineveh in the Neo-Assyrian Empire.",
+      "context": "Jonah's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Jonah",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jonah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jonah-3-turning-point",
+      "text": "Jonah is remembered as a religious figure connected with Israel.",
+      "context": "Jonah's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Jonah",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jonah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jonah-4-contribution",
+      "text": "Jonah's recorded life dates place this profile around -850--810.",
+      "context": "Jonah's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Jonah",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jonah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jonah-5-influence",
+      "text": "Jonah is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Jonah's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Jonah",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jonah",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

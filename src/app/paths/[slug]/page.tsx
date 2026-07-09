@@ -1,7 +1,11 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Card } from "@/components/ui/card";
 import { ThinkerMedia } from "@/components/thinkers/thinker-media";
+import {
+  EditorialCard,
+  EditorialPageHero,
+  mutedText,
+} from "@/components/ui/editorial";
 import {
   getAllPaths,
   getAllThinkers,
@@ -30,34 +34,35 @@ export default async function PathDetailPage({
 
   return (
     <div className="space-y-6">
-      <Card>
-        <h2 className="text-3xl font-semibold">{path.title}</h2>
-        <p className="mt-3 text-lg text-[var(--color-muted)]">{path.description}</p>
-      </Card>
+      <EditorialPageHero
+        eyebrow="Path"
+        title={path.title}
+        description={path.description}
+      />
 
       <div className="grid gap-4 sm:grid-cols-2">
         {thinkers.map((thinker) => {
           const firstLesson = getLessonsForThinker(thinker.id)[0];
           return (
-            <Card key={thinker.id}>
+            <EditorialCard key={thinker.id}>
               <div className="flex items-start gap-4">
                 <ThinkerMedia slug={thinker.slug} name={thinker.name} size={72} />
                 <div>
-                  <h3 className="text-lg font-semibold">{thinker.name}</h3>
-                  <p className="mt-2 text-sm text-[var(--color-muted)]">
+                  <h3 className="text-xl font-extrabold tracking-tight">{thinker.name}</h3>
+                  <p className={`mt-2 text-sm ${mutedText}`}>
                     {thinker.summary}
                   </p>
                   {firstLesson && (
                     <Link
                       href={`/thinkers/${thinker.slug}/lessons/${firstLesson.id}`}
-                      className="mt-4 inline-block text-sm text-[var(--color-accent)]"
+                      className="mt-4 inline-block text-sm font-semibold uppercase tracking-[0.16em] text-[var(--color-accent)]"
                     >
                       Start first lesson
                     </Link>
                   )}
                 </div>
               </div>
-            </Card>
+            </EditorialCard>
           );
         })}
       </div>

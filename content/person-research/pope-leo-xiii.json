@@ -1,0 +1,46 @@
+{
+  "personId": "pope-leo-xiii",
+  "slug": "pope-leo-xiii",
+  "name": "Pope Leo XIII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Leo XIII",
+      "url": "https://pantheon.world/profile/person/Pope_Leo_XIII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-leo-xiii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XIII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-leo-xiii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XIII's recorded life dates place this profile around 1810-1903."
+    },
+    {
+      "factId": "pope-leo-xiii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XIII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-leo-xiii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XIII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-leo-xiii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo XIII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

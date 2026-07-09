@@ -1,0 +1,46 @@
+{
+  "personId": "jean-auguste-dominique-ingres",
+  "slug": "jean-auguste-dominique-ingres",
+  "name": "Jean-Auguste-Dominique Ingres",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jean-Auguste-Dominique Ingres",
+      "url": "https://pantheon.world/profile/person/Jean-Auguste-Dominique_Ingres",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jean-auguste-dominique-ingres-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Auguste-Dominique Ingres is remembered as a painter connected with France."
+    },
+    {
+      "factId": "jean-auguste-dominique-ingres-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Auguste-Dominique Ingres's recorded life dates place this profile around 1780-1867."
+    },
+    {
+      "factId": "jean-auguste-dominique-ingres-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Auguste-Dominique Ingres is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "jean-auguste-dominique-ingres-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Auguste-Dominique Ingres's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "jean-auguste-dominique-ingres-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Auguste-Dominique Ingres has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

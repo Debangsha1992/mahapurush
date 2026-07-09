@@ -1,0 +1,46 @@
+{
+  "personId": "ecgberht-king-of-wessex",
+  "slug": "ecgberht-king-of-wessex",
+  "name": "Ecgberht, King of Wessex",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ecgberht, King of Wessex",
+      "url": "https://pantheon.world/profile/person/Ecgberht%2C_King_of_Wessex",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ecgberht-king-of-wessex-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ecgberht, King of Wessex is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "ecgberht-king-of-wessex-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ecgberht, King of Wessex's recorded life dates place this profile around 800-839."
+    },
+    {
+      "factId": "ecgberht-king-of-wessex-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ecgberht, King of Wessex is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ecgberht-king-of-wessex-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ecgberht, King of Wessex's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "ecgberht-king-of-wessex-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ecgberht, King of Wessex has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

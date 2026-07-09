@@ -1,0 +1,46 @@
+{
+  "personId": "claudio-monteverdi",
+  "slug": "claudio-monteverdi",
+  "name": "Claudio Monteverdi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Claudio Monteverdi",
+      "url": "https://pantheon.world/profile/person/Claudio_Monteverdi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "claudio-monteverdi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Claudio Monteverdi is remembered as a composer connected with Italy."
+    },
+    {
+      "factId": "claudio-monteverdi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Claudio Monteverdi's recorded life dates place this profile around 1567-1643."
+    },
+    {
+      "factId": "claudio-monteverdi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Claudio Monteverdi is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "claudio-monteverdi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Claudio Monteverdi's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "claudio-monteverdi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Claudio Monteverdi has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

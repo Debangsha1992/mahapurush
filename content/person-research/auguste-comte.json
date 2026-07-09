@@ -1,0 +1,46 @@
+{
+  "personId": "auguste-comte",
+  "slug": "auguste-comte",
+  "name": "Auguste Comte",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Auguste Comte",
+      "url": "https://pantheon.world/profile/person/Auguste_Comte",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "auguste-comte-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Auguste Comte is remembered as a philosopher connected with France."
+    },
+    {
+      "factId": "auguste-comte-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Auguste Comte's recorded life dates place this profile around 1798-1857."
+    },
+    {
+      "factId": "auguste-comte-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Auguste Comte is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "auguste-comte-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Auguste Comte's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "auguste-comte-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Auguste Comte has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "jean-jacques-rousseau",
+  "slug": "jean-jacques-rousseau",
+  "name": "Jean-Jacques Rousseau",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jean-Jacques Rousseau",
+      "url": "https://pantheon.world/profile/person/Jean-Jacques_Rousseau",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jean-jacques-rousseau-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Jacques Rousseau is remembered as a philosopher connected with Switzerland."
+    },
+    {
+      "factId": "jean-jacques-rousseau-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Jacques Rousseau's recorded life dates place this profile around 1712-1778."
+    },
+    {
+      "factId": "jean-jacques-rousseau-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Jacques Rousseau is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "jean-jacques-rousseau-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Jacques Rousseau's profile connects a short Fact to a wider Switzerland historical setting."
+    },
+    {
+      "factId": "jean-jacques-rousseau-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Jacques Rousseau has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "neil-degrasse-tyson",
+  "slug": "neil-degrasse-tyson",
+  "name": "Neil deGrasse Tyson",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Hayden Planetarium: Neil deGrasse Tyson",
+      "url": "https://www.amnh.org/research/hayden-planetarium/staff/neil-degrasse-tyson",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "neil-degrasse-tyson-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Neil deGrasse Tyson is remembered as a scientist connected with United States."
+    },
+    {
+      "factId": "neil-degrasse-tyson-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Neil deGrasse Tyson's recorded life dates place this profile around 1958-present."
+    },
+    {
+      "factId": "neil-degrasse-tyson-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Neil deGrasse Tyson is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "neil-degrasse-tyson-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Neil deGrasse Tyson's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "neil-degrasse-tyson-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Neil deGrasse Tyson has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

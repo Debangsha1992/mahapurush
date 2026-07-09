@@ -1,0 +1,46 @@
+{
+  "personId": "swami-vivekananda",
+  "slug": "swami-vivekananda",
+  "name": "Swami Vivekananda",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Swami Vivekananda",
+      "url": "https://pantheon.world/profile/person/Swami_Vivekananda",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "swami-vivekananda-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Swami Vivekananda is remembered as a philosopher connected with India."
+    },
+    {
+      "factId": "swami-vivekananda-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Swami Vivekananda's recorded life dates place this profile around 1863-1902."
+    },
+    {
+      "factId": "swami-vivekananda-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Swami Vivekananda is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "swami-vivekananda-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Swami Vivekananda's profile connects a short Fact to a wider India historical setting."
+    },
+    {
+      "factId": "swami-vivekananda-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Swami Vivekananda has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

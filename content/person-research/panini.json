@@ -1,0 +1,46 @@
+{
+  "personId": "panini",
+  "slug": "panini",
+  "name": "Pāṇini",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pāṇini",
+      "url": "https://pantheon.world/profile/person/P%C4%81%E1%B9%87ini",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "panini-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pāṇini is remembered as a linguist connected with Pakistan."
+    },
+    {
+      "factId": "panini-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pāṇini's recorded life dates place this profile around -500--460."
+    },
+    {
+      "factId": "panini-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pāṇini is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "panini-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pāṇini's profile connects a short Fact to a wider Pakistan historical setting."
+    },
+    {
+      "factId": "panini-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pāṇini has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

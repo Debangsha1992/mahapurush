@@ -1,0 +1,47 @@
+{
+  "personId": "jane-goodall",
+  "slug": "jane-goodall",
+  "name": "Jane Goodall",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Jane Goodall",
+      "url": "https://en.wikipedia.org/wiki/Jane_Goodall",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "English zoologist (1934–2025)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jane-goodall-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Dame Valerie Jane Morris Jane Goodall was an English primatologist and anthropologist."
+    },
+    {
+      "factId": "jane-goodall-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Beginning in 1960, under the mentorship of the palaeontologist Louis Leakey, Jane Goodall's research demonstrated that chimpanzees share many key traits with humans, such as using tools, having complex emotions, forming lasting social bonds, engaging in organised warfare, and passing on knowledge a."
+    },
+    {
+      "factId": "jane-goodall-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jane Goodall is remembered as a scientist connected with United Kingdom, Tanzania."
+    },
+    {
+      "factId": "jane-goodall-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jane Goodall's recorded life dates place this profile around 1934-present."
+    },
+    {
+      "factId": "jane-goodall-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jane Goodall is grouped with Science, Math & Technology in the People Library."
+    }
+  ]
+}

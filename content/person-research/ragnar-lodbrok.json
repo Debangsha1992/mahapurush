@@ -1,0 +1,46 @@
+{
+  "personId": "ragnar-lodbrok",
+  "slug": "ragnar-lodbrok",
+  "name": "Ragnar Lodbrok",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ragnar Lodbrok",
+      "url": "https://pantheon.world/profile/person/Ragnar_Lodbrok",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ragnar-lodbrok-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ragnar Lodbrok is remembered as a nobleman connected with Norway."
+    },
+    {
+      "factId": "ragnar-lodbrok-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ragnar Lodbrok's recorded life dates place this profile around 850-801."
+    },
+    {
+      "factId": "ragnar-lodbrok-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ragnar Lodbrok is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ragnar-lodbrok-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ragnar Lodbrok's profile connects a short Fact to a wider Norway historical setting."
+    },
+    {
+      "factId": "ragnar-lodbrok-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ragnar Lodbrok has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "heinrich-heine",
+  "slug": "heinrich-heine",
+  "name": "Heinrich Heine",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Heinrich Heine",
+      "url": "https://pantheon.world/profile/person/Heinrich_Heine",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "heinrich-heine-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Heinrich Heine is remembered as a writer connected with Germany."
+    },
+    {
+      "factId": "heinrich-heine-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Heinrich Heine's recorded life dates place this profile around 1797-1856."
+    },
+    {
+      "factId": "heinrich-heine-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Heinrich Heine is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "heinrich-heine-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Heinrich Heine's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "heinrich-heine-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Heinrich Heine has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

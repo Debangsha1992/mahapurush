@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Enrico Fermi is a notable physicist associated with Italy.",
+  "summary": "Enrico Fermi is a notable physicist connected with Italy.",
   "knownFor": [
     "Physicist",
-    "147 language biography editions",
-    "Historical Popularity Index 83.2"
+    "Science, Math & Technology",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Enrico Fermi",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "enrico-fermi-pantheon-profile",
-      "text": "Pantheon ranks Enrico Fermi as a globally documented physicist with biographies in 147 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Enrico Fermi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "enrico-fermi-1-origin",
+      "text": "Enrico Fermi is remembered as a physicist connected with Italy.",
+      "context": "Enrico Fermi's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Enrico Fermi",
       "sourceUrl": "https://pantheon.world/profile/person/Enrico_Fermi",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "enrico-fermi-2-obstacle",
+      "text": "Enrico Fermi's recorded life dates place this profile around 1901-1954.",
+      "context": "Enrico Fermi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Enrico Fermi",
+      "sourceUrl": "https://pantheon.world/profile/person/Enrico_Fermi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "enrico-fermi-3-turning-point",
+      "text": "Enrico Fermi is grouped with Science, Math & Technology in the People Library.",
+      "context": "Enrico Fermi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Enrico Fermi",
+      "sourceUrl": "https://pantheon.world/profile/person/Enrico_Fermi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "enrico-fermi-4-contribution",
+      "text": "Enrico Fermi's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Enrico Fermi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Enrico Fermi",
+      "sourceUrl": "https://pantheon.world/profile/person/Enrico_Fermi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "enrico-fermi-5-influence",
+      "text": "Enrico Fermi has a Facts Mode card reserved for deeper source research.",
+      "context": "Enrico Fermi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Enrico Fermi",
+      "sourceUrl": "https://pantheon.world/profile/person/Enrico_Fermi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

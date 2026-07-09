@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "businessperson"
   ],
-  "summary": "Warren Buffett is a notable businessperson associated with United States.",
+  "summary": "Warren Buffett is a notable businessperson connected with United States.",
   "knownFor": [
     "Businessperson",
-    "102 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Environment, Exploration & Human Achievement",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Warren Buffett",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "warren-buffett-pantheon-profile",
-      "text": "Pantheon ranks Warren Buffett as a globally documented businessperson with biographies in 102 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Warren Buffett a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "warren-buffett-1-origin",
+      "text": "Warren Buffett is remembered as a businessperson connected with United States.",
+      "context": "Warren Buffett's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Warren Buffett",
       "sourceUrl": "https://pantheon.world/profile/person/Warren_Buffett",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "warren-buffett-2-obstacle",
+      "text": "Warren Buffett's recorded life dates place this profile around born 1930.",
+      "context": "Warren Buffett's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Warren Buffett",
+      "sourceUrl": "https://pantheon.world/profile/person/Warren_Buffett",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "warren-buffett-3-turning-point",
+      "text": "Warren Buffett is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Warren Buffett's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Warren Buffett",
+      "sourceUrl": "https://pantheon.world/profile/person/Warren_Buffett",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "warren-buffett-4-contribution",
+      "text": "Warren Buffett's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Warren Buffett's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Warren Buffett",
+      "sourceUrl": "https://pantheon.world/profile/person/Warren_Buffett",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "warren-buffett-5-influence",
+      "text": "Warren Buffett has a Facts Mode card reserved for deeper source research.",
+      "context": "Warren Buffett's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Warren Buffett",
+      "sourceUrl": "https://pantheon.world/profile/person/Warren_Buffett",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

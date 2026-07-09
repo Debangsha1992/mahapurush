@@ -1,0 +1,46 @@
+{
+  "personId": "robin-williams",
+  "slug": "robin-williams",
+  "name": "Robin Williams",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Robin Williams",
+      "url": "https://pantheon.world/profile/person/Robin_Williams",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "robin-williams-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Robin Williams is remembered as a comedian connected with United States."
+    },
+    {
+      "factId": "robin-williams-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Robin Williams's recorded life dates place this profile around 1951-2014."
+    },
+    {
+      "factId": "robin-williams-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Robin Williams is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "robin-williams-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Robin Williams's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "robin-williams-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Robin Williams has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

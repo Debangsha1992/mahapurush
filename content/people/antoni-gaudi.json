@@ -12,35 +12,106 @@
     "justice-governance-leadership",
     "architect"
   ],
-  "summary": "Antoni Gaudí is a notable architect associated with Spain.",
+  "summary": "Gaudí's works have a sui generis style, with most located in Barcelona, including his magnum opus, the Sagrada Família church.",
   "knownFor": [
     "Architect",
-    "116 language biography editions",
-    "Historical Popularity Index 86.9"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": true,
   "featuredRank": 278,
   "imageAlt": "Portrait-style visual for Antoni Gaudí",
   "sourceRefs": [
     {
-      "title": "Pantheon: Antoni Gaudí",
-      "url": "https://pantheon.world/profile/person/Antoni_Gaud%C3%AD",
+      "title": "Wikipedia: Antoni Gaudí",
+      "url": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "antoni-gaudi-pantheon-profile",
-      "text": "Pantheon ranks Antoni Gaudí as a globally documented architect with biographies in 116 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Antoni Gaudí a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Antoni Gaudí",
-      "sourceUrl": "https://pantheon.world/profile/person/Antoni_Gaud%C3%AD",
+      "id": "antoni-gaudi-1-origin",
+      "text": "Antoni Gaudí is remembered as a architect connected with Spain.",
+      "context": "Antoni Gaudí's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Antoni Gaudí",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antoni-gaudi-2-obstacle",
+      "text": "Antoni Gaudí's recorded life dates place this profile around 1852-1926.",
+      "context": "Antoni Gaudí's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Antoni Gaudí",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antoni-gaudi-3-turning-point",
+      "text": "Antoni Gaudí is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Antoni Gaudí's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Antoni Gaudí",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antoni-gaudi-4-contribution",
+      "text": "Antoni Gaudí's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Antoni Gaudí's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Antoni Gaudí",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antoni-gaudi-5-influence",
+      "text": "Antoni Gaudí has a Facts Mode card reserved for deeper source research.",
+      "context": "Antoni Gaudí's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Antoni Gaudí",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

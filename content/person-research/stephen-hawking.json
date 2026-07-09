@@ -1,0 +1,46 @@
+{
+  "personId": "stephen-hawking",
+  "slug": "stephen-hawking",
+  "name": "Stephen Hawking",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Stephen Hawking",
+      "url": "https://pantheon.world/profile/person/Stephen_Hawking",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "stephen-hawking-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Stephen Hawking is remembered as a physicist connected with United Kingdom."
+    },
+    {
+      "factId": "stephen-hawking-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Stephen Hawking's recorded life dates place this profile around 1942-2018."
+    },
+    {
+      "factId": "stephen-hawking-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Stephen Hawking is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "stephen-hawking-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Stephen Hawking's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "stephen-hawking-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Stephen Hawking has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

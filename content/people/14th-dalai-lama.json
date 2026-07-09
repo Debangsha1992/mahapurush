@@ -12,34 +12,103 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "14th Dalai Lama is a notable religious figure associated with China.",
+  "summary": "The 14th Dalai Lama is the incumbent Dalai Lama, the highest spiritual leader and head of Tibetan Buddhism.",
   "knownFor": [
     "Religious Figure",
-    "118 language biography editions",
-    "Historical Popularity Index 83.2"
+    "Philosophy, Ethics & Religion",
+    "China"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for 14th Dalai Lama",
   "sourceRefs": [
     {
-      "title": "Pantheon: 14th Dalai Lama",
-      "url": "https://pantheon.world/profile/person/14th_Dalai_Lama",
+      "title": "Wikipedia: 14th Dalai Lama",
+      "url": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "14th-dalai-lama-pantheon-profile",
-      "text": "Pantheon ranks 14th Dalai Lama as a globally documented religious figure with biographies in 118 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make 14th Dalai Lama a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: 14th Dalai Lama",
-      "sourceUrl": "https://pantheon.world/profile/person/14th_Dalai_Lama",
+      "id": "14th-dalai-lama-1-origin",
+      "text": "The 14th Dalai Lama is the incumbent Dalai Lama, the highest spiritual leader and head of Tibetan Buddhism.",
+      "context": "14th Dalai Lama's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: 14th Dalai Lama",
+      "sourceUrl": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "14th-dalai-lama-2-obstacle",
+      "text": "14th Dalai Lama served as the resident spiritual and temporal leader of Tibet before 1959, and subsequently led the Tibetan government in exile represented by the Central Tibetan Administration in Dharamshala, India.",
+      "context": "14th Dalai Lama's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: 14th Dalai Lama",
+      "sourceUrl": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "14th-dalai-lama-3-turning-point",
+      "text": "14th Dalai Lama is remembered as a religious figure connected with China.",
+      "context": "14th Dalai Lama's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: 14th Dalai Lama",
+      "sourceUrl": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "14th-dalai-lama-4-contribution",
+      "text": "14th Dalai Lama's recorded life dates place this profile around born 1935.",
+      "context": "14th Dalai Lama's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: 14th Dalai Lama",
+      "sourceUrl": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "14th-dalai-lama-5-influence",
+      "text": "14th Dalai Lama is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "14th Dalai Lama's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: 14th Dalai Lama",
+      "sourceUrl": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

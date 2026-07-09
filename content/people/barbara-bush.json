@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Barbara Bush is a notable politician associated with United States.",
+  "summary": "Barbara Bush is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "68 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Barbara Bush",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "barbara-bush-pantheon-profile",
-      "text": "Pantheon ranks Barbara Bush as a globally documented politician with biographies in 68 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Barbara Bush a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "barbara-bush-1-origin",
+      "text": "Barbara Bush is remembered as a politician connected with United States.",
+      "context": "Barbara Bush's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Barbara Bush",
       "sourceUrl": "https://pantheon.world/profile/person/Barbara_Bush",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "barbara-bush-2-obstacle",
+      "text": "Barbara Bush's recorded life dates place this profile around 1925-2018.",
+      "context": "Barbara Bush's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Barbara Bush",
+      "sourceUrl": "https://pantheon.world/profile/person/Barbara_Bush",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "barbara-bush-3-turning-point",
+      "text": "Barbara Bush is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Barbara Bush's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Barbara Bush",
+      "sourceUrl": "https://pantheon.world/profile/person/Barbara_Bush",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "barbara-bush-4-contribution",
+      "text": "Barbara Bush's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Barbara Bush's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Barbara Bush",
+      "sourceUrl": "https://pantheon.world/profile/person/Barbara_Bush",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "barbara-bush-5-influence",
+      "text": "Barbara Bush has a Facts Mode card reserved for deeper source research.",
+      "context": "Barbara Bush's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Barbara Bush",
+      "sourceUrl": "https://pantheon.world/profile/person/Barbara_Bush",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

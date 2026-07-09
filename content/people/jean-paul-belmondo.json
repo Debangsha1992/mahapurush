@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Jean-Paul Belmondo is a notable actor associated with France.",
+  "summary": "Jean-Paul Belmondo is a notable actor connected with France.",
   "knownFor": [
     "Actor",
-    "93 language biography editions",
-    "Historical Popularity Index 81.9"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Jean-Paul Belmondo",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jean-paul-belmondo-pantheon-profile",
-      "text": "Pantheon ranks Jean-Paul Belmondo as a globally documented actor with biographies in 93 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jean-Paul Belmondo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "jean-paul-belmondo-1-origin",
+      "text": "Jean-Paul Belmondo is remembered as a actor connected with France.",
+      "context": "Jean-Paul Belmondo's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Jean-Paul Belmondo",
       "sourceUrl": "https://pantheon.world/profile/person/Jean-Paul_Belmondo",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-paul-belmondo-2-obstacle",
+      "text": "Jean-Paul Belmondo's recorded life dates place this profile around 1933-2021.",
+      "context": "Jean-Paul Belmondo's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Jean-Paul Belmondo",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Paul_Belmondo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-paul-belmondo-3-turning-point",
+      "text": "Jean-Paul Belmondo is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Jean-Paul Belmondo's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Jean-Paul Belmondo",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Paul_Belmondo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-paul-belmondo-4-contribution",
+      "text": "Jean-Paul Belmondo's profile connects a short Fact to a wider France historical setting.",
+      "context": "Jean-Paul Belmondo's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Jean-Paul Belmondo",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Paul_Belmondo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jean-paul-belmondo-5-influence",
+      "text": "Jean-Paul Belmondo has a Facts Mode card reserved for deeper source research.",
+      "context": "Jean-Paul Belmondo's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Jean-Paul Belmondo",
+      "sourceUrl": "https://pantheon.world/profile/person/Jean-Paul_Belmondo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

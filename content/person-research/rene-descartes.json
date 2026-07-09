@@ -1,0 +1,46 @@
+{
+  "personId": "rene-descartes",
+  "slug": "rene-descartes",
+  "name": "René Descartes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: René Descartes",
+      "url": "https://pantheon.world/profile/person/Ren%C3%A9_Descartes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "rene-descartes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "René Descartes is remembered as a philosopher connected with France."
+    },
+    {
+      "factId": "rene-descartes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "René Descartes's recorded life dates place this profile around 1596-1650."
+    },
+    {
+      "factId": "rene-descartes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "René Descartes is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "rene-descartes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "René Descartes's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "rene-descartes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "René Descartes has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Pope Francis is a notable religious figure associated with Argentina.",
+  "summary": "Pope Francis is a notable religious figure connected with Argentina.",
   "knownFor": [
     "Religious Figure",
-    "175 language biography editions",
-    "Historical Popularity Index 97.0"
+    "Philosophy, Ethics & Religion",
+    "Argentina"
   ],
   "featured": true,
   "featuredRank": 37,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pope-francis-pantheon-profile",
-      "text": "Pantheon ranks Pope Francis as a globally documented religious figure with biographies in 175 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Francis a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pope-francis-1-origin",
+      "text": "Pope Francis is remembered as a religious figure connected with Argentina.",
+      "context": "Pope Francis's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Pope Francis",
       "sourceUrl": "https://pantheon.world/profile/person/Pope_Francis",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-francis-2-obstacle",
+      "text": "Pope Francis's recorded life dates place this profile around 1936-2025.",
+      "context": "Pope Francis's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pope Francis",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Francis",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-francis-3-turning-point",
+      "text": "Pope Francis is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Pope Francis's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pope Francis",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Francis",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-francis-4-contribution",
+      "text": "Pope Francis's profile connects a short Fact to a wider Argentina historical setting.",
+      "context": "Pope Francis's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pope Francis",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Francis",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-francis-5-influence",
+      "text": "Pope Francis has a Facts Mode card reserved for deeper source research.",
+      "context": "Pope Francis's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pope Francis",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Francis",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

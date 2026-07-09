@@ -1,0 +1,46 @@
+{
+  "personId": "louis-the-pious",
+  "slug": "louis-the-pious",
+  "name": "Louis the Pious",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Louis the Pious",
+      "url": "https://pantheon.world/profile/person/Louis_the_Pious",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "louis-the-pious-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Louis the Pious is remembered as a politician connected with France."
+    },
+    {
+      "factId": "louis-the-pious-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Louis the Pious's recorded life dates place this profile around 778-840."
+    },
+    {
+      "factId": "louis-the-pious-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Louis the Pious is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "louis-the-pious-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Louis the Pious's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "louis-the-pious-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Louis the Pious has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "anastasius-i-dicorus",
+  "slug": "anastasius-i-dicorus",
+  "name": "Anastasius I Dicorus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Anastasius I Dicorus",
+      "url": "https://pantheon.world/profile/person/Anastasius_I_Dicorus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "anastasius-i-dicorus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Anastasius I Dicorus is remembered as a politician connected with Albania."
+    },
+    {
+      "factId": "anastasius-i-dicorus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Anastasius I Dicorus's recorded life dates place this profile around 430-518."
+    },
+    {
+      "factId": "anastasius-i-dicorus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Anastasius I Dicorus is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "anastasius-i-dicorus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Anastasius I Dicorus's profile connects a short Fact to a wider Albania historical setting."
+    },
+    {
+      "factId": "anastasius-i-dicorus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Anastasius I Dicorus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

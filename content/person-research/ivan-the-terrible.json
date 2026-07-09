@@ -1,0 +1,46 @@
+{
+  "personId": "ivan-the-terrible",
+  "slug": "ivan-the-terrible",
+  "name": "Ivan the Terrible",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ivan the Terrible",
+      "url": "https://pantheon.world/profile/person/Ivan_the_Terrible",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ivan-the-terrible-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ivan the Terrible is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "ivan-the-terrible-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ivan the Terrible's recorded life dates place this profile around 1530-1584."
+    },
+    {
+      "factId": "ivan-the-terrible-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ivan the Terrible is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ivan-the-terrible-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ivan the Terrible's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "ivan-the-terrible-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ivan the Terrible has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

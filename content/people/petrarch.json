@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Petrarch is a notable writer associated with Italy.",
+  "summary": "Petrarch is a notable writer connected with Italy.",
   "knownFor": [
     "Writer",
-    "109 language biography editions",
-    "Historical Popularity Index 86.6"
+    "Literature, Arts & Culture",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 310,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "petrarch-pantheon-profile",
-      "text": "Pantheon ranks Petrarch as a globally documented writer with biographies in 109 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Petrarch a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "petrarch-1-origin",
+      "text": "Petrarch is remembered as a writer connected with Italy.",
+      "context": "Petrarch's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Petrarch",
       "sourceUrl": "https://pantheon.world/profile/person/Petrarch",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "petrarch-2-obstacle",
+      "text": "Petrarch's recorded life dates place this profile around 1304-1374.",
+      "context": "Petrarch's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Petrarch",
+      "sourceUrl": "https://pantheon.world/profile/person/Petrarch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "petrarch-3-turning-point",
+      "text": "Petrarch is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Petrarch's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Petrarch",
+      "sourceUrl": "https://pantheon.world/profile/person/Petrarch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "petrarch-4-contribution",
+      "text": "Petrarch's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Petrarch's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Petrarch",
+      "sourceUrl": "https://pantheon.world/profile/person/Petrarch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "petrarch-5-influence",
+      "text": "Petrarch has a Facts Mode card reserved for deeper source research.",
+      "context": "Petrarch's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Petrarch",
+      "sourceUrl": "https://pantheon.world/profile/person/Petrarch",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

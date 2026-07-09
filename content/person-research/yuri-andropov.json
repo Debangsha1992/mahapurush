@@ -1,0 +1,46 @@
+{
+  "personId": "yuri-andropov",
+  "slug": "yuri-andropov",
+  "name": "Yuri Andropov",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Yuri Andropov",
+      "url": "https://pantheon.world/profile/person/Yuri_Andropov",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "yuri-andropov-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Yuri Andropov is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "yuri-andropov-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Yuri Andropov's recorded life dates place this profile around 1914-1984."
+    },
+    {
+      "factId": "yuri-andropov-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Yuri Andropov is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "yuri-andropov-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Yuri Andropov's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "yuri-andropov-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Yuri Andropov has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

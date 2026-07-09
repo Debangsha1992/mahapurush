@@ -12,34 +12,102 @@
     "philosophy-ethics-religion",
     "philosopher"
   ],
-  "summary": "Lucretius is a notable philosopher associated with Italy.",
+  "summary": "Titus Lucretius Carus was a Roman poet and philosopher.",
   "knownFor": [
     "Philosopher",
-    "81 language biography editions",
-    "Historical Popularity Index 84.0"
+    "Philosophy, Ethics & Religion",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Lucretius",
   "sourceRefs": [
     {
-      "title": "Pantheon: Lucretius",
-      "url": "https://pantheon.world/profile/person/Lucretius",
+      "title": "Wikipedia: Lucretius",
+      "url": "https://en.wikipedia.org/wiki/Lucretius",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "lucretius-pantheon-profile",
-      "text": "Pantheon ranks Lucretius as a globally documented philosopher with biographies in 81 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Lucretius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Lucretius",
-      "sourceUrl": "https://pantheon.world/profile/person/Lucretius",
+      "id": "lucretius-1-origin",
+      "text": "Titus Lucretius Carus was a Roman poet and philosopher.",
+      "context": "Lucretius's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Lucretius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lucretius",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lucretius-2-obstacle",
+      "text": "Lucretius's only known work is the philosophical poem De rerum natura, a didactic work about the tenets and philosophy of Epicureanism, which usually is translated into English as On the Nature of Things—and somewhat less often as On the Nature of the Universe.",
+      "context": "Lucretius's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Lucretius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lucretius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lucretius-3-turning-point",
+      "text": "Very little is known about Lucretius's life; the only certainty is that he was either a friend or client of Gaius Memmius, to whom the poem was addressed and dedicated.",
+      "context": "Lucretius's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Lucretius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lucretius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lucretius-4-contribution",
+      "text": "Lucretius is remembered as a philosopher connected with Italy.",
+      "context": "Lucretius's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Lucretius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lucretius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "lucretius-5-influence",
+      "text": "Lucretius's recorded life dates place this profile around -94--55.",
+      "context": "Lucretius's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Lucretius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lucretius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

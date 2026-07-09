@@ -1,0 +1,46 @@
+{
+  "personId": "mary-mother-of-jesus",
+  "slug": "mary-mother-of-jesus",
+  "name": "Mary, mother of Jesus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mary, mother of Jesus",
+      "url": "https://pantheon.world/profile/person/Mary%2C_mother_of_Jesus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mary-mother-of-jesus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mary, mother of Jesus is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "mary-mother-of-jesus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mary, mother of Jesus's recorded life dates place this profile around -100-100."
+    },
+    {
+      "factId": "mary-mother-of-jesus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mary, mother of Jesus is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "mary-mother-of-jesus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mary, mother of Jesus's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "mary-mother-of-jesus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mary, mother of Jesus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

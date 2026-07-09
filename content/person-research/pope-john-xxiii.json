@@ -1,0 +1,47 @@
+{
+  "personId": "pope-john-xxiii",
+  "slug": "pope-john-xxiii",
+  "name": "Pope John XXIII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Pope John XXIII",
+      "url": "https://en.wikipedia.org/wiki/Pope_John_XXIII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Head of the Catholic Church from 1958 to 1963"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-john-xxiii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Pope John XXIII was head of the Catholic Church and sovereign of Vatican City from 28 October 1958 until his death on 3 June 1963."
+    },
+    {
+      "factId": "pope-john-xxiii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope John XXIII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-john-xxiii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope John XXIII's recorded life dates place this profile around 1881-1963."
+    },
+    {
+      "factId": "pope-john-xxiii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope John XXIII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-john-xxiii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope John XXIII's profile connects a short Fact to a wider Italy historical setting."
+    }
+  ]
+}

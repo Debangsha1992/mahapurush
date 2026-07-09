@@ -1,0 +1,46 @@
+{
+  "personId": "claudius",
+  "slug": "claudius",
+  "name": "Claudius",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Claudius",
+      "url": "https://pantheon.world/profile/person/Claudius",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "claudius-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Claudius is remembered as a politician connected with France."
+    },
+    {
+      "factId": "claudius-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Claudius's recorded life dates place this profile around -10-54."
+    },
+    {
+      "factId": "claudius-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Claudius is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "claudius-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Claudius's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "claudius-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Claudius has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

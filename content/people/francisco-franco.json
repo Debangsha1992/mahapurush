@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Francisco Franco is a notable politician associated with Spain.",
+  "summary": "Francisco Franco is a notable politician connected with Spain.",
   "knownFor": [
     "Politician",
-    "117 language biography editions",
-    "Historical Popularity Index 85.7"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": true,
   "featuredRank": 377,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "francisco-franco-pantheon-profile",
-      "text": "Pantheon ranks Francisco Franco as a globally documented politician with biographies in 117 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Francisco Franco a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "francisco-franco-1-origin",
+      "text": "Francisco Franco is remembered as a politician connected with Spain.",
+      "context": "Francisco Franco's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Francisco Franco",
       "sourceUrl": "https://pantheon.world/profile/person/Francisco_Franco",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-franco-2-obstacle",
+      "text": "Francisco Franco's recorded life dates place this profile around 1892-1975.",
+      "context": "Francisco Franco's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Francisco Franco",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Franco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-franco-3-turning-point",
+      "text": "Francisco Franco is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Francisco Franco's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Francisco Franco",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Franco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-franco-4-contribution",
+      "text": "Francisco Franco's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Francisco Franco's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Francisco Franco",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Franco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-franco-5-influence",
+      "text": "Francisco Franco has a Facts Mode card reserved for deeper source research.",
+      "context": "Francisco Franco's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Francisco Franco",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Franco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

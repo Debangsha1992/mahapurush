@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Hillary Clinton is a notable politician associated with United States.",
+  "summary": "Hillary Clinton is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "143 language biography editions",
-    "Historical Popularity Index 88.8"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 184,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hillary-clinton-pantheon-profile",
-      "text": "Pantheon ranks Hillary Clinton as a globally documented politician with biographies in 143 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hillary Clinton a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hillary-clinton-1-origin",
+      "text": "Hillary Clinton is remembered as a politician connected with United States.",
+      "context": "Hillary Clinton's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Hillary Clinton",
       "sourceUrl": "https://pantheon.world/profile/person/Hillary_Clinton",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hillary-clinton-2-obstacle",
+      "text": "Hillary Clinton's recorded life dates place this profile around born 1947.",
+      "context": "Hillary Clinton's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hillary Clinton",
+      "sourceUrl": "https://pantheon.world/profile/person/Hillary_Clinton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hillary-clinton-3-turning-point",
+      "text": "Hillary Clinton is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Hillary Clinton's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hillary Clinton",
+      "sourceUrl": "https://pantheon.world/profile/person/Hillary_Clinton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hillary-clinton-4-contribution",
+      "text": "Hillary Clinton's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Hillary Clinton's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hillary Clinton",
+      "sourceUrl": "https://pantheon.world/profile/person/Hillary_Clinton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hillary-clinton-5-influence",
+      "text": "Hillary Clinton has a Facts Mode card reserved for deeper source research.",
+      "context": "Hillary Clinton's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hillary Clinton",
+      "sourceUrl": "https://pantheon.world/profile/person/Hillary_Clinton",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

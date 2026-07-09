@@ -1,0 +1,47 @@
+{
+  "personId": "abraham",
+  "slug": "abraham",
+  "name": "Abraham",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Abraham",
+      "url": "https://en.wikipedia.org/wiki/Abraham",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Namesake of the Abrahamic religions"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "abraham-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "tradition",
+      "text": "Abraham is widely revered as a foundational legendary figure among adherents of the eponymous Abrahamic religions."
+    },
+    {
+      "factId": "abraham-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Abraham is revered in all other Abrahamic religions, such as the Baháʼí Faith and the Druze faith."
+    },
+    {
+      "factId": "abraham-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Abraham is regarded as the common forefather of both the Arab people through his son Ishmael and the Jewish people through his son Isaac."
+    },
+    {
+      "factId": "abraham-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Abraham is remembered as a religious figure connected with Iraq."
+    },
+    {
+      "factId": "abraham-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Abraham's recorded life dates place this profile around -1813--1638."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "pompey",
+  "slug": "pompey",
+  "name": "Pompey",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Pompey",
+      "url": "https://en.wikipedia.org/wiki/Pompey",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Roman general and statesman (106–48 BC)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pompey-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Gnaeus Pompeius Magnus, known in English as Pompey or Pompey the Great, was a Roman general and statesman who was prominent in the final decades of the Roman Republic."
+    },
+    {
+      "factId": "pompey-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pompey is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "pompey-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pompey's recorded life dates place this profile around -106--48."
+    },
+    {
+      "factId": "pompey-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pompey is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "pompey-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pompey's profile connects a short Fact to a wider Italy historical setting."
+    }
+  ]
+}

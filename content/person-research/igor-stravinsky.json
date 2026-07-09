@@ -1,0 +1,46 @@
+{
+  "personId": "igor-stravinsky",
+  "slug": "igor-stravinsky",
+  "name": "Igor Stravinsky",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Igor Stravinsky",
+      "url": "https://pantheon.world/profile/person/Igor_Stravinsky",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "igor-stravinsky-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Igor Stravinsky is remembered as a composer connected with Russia."
+    },
+    {
+      "factId": "igor-stravinsky-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Igor Stravinsky's recorded life dates place this profile around 1882-1971."
+    },
+    {
+      "factId": "igor-stravinsky-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Igor Stravinsky is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "igor-stravinsky-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Igor Stravinsky's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "igor-stravinsky-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Igor Stravinsky has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

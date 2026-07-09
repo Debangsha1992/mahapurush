@@ -1,0 +1,47 @@
+{
+  "personId": "sonia-gandhi",
+  "slug": "sonia-gandhi",
+  "name": "Sonia Gandhi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Sonia Gandhi",
+      "url": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Indian politician (born 1946)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sonia-gandhi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Sonia Gandhi is an Italian-born Indian politician."
+    },
+    {
+      "factId": "sonia-gandhi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Sonia Gandhi is the longest-serving president of the Indian National Congress, a big-tent liberal political party, which has governed India for most of its post-independence history."
+    },
+    {
+      "factId": "sonia-gandhi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Sonia Gandhi took over as the party leader in 1998, seven years after the assassination of Rajiv Gandhi, her husband and a former Prime Minister of India, and remained in office until 2017 after serving for twenty-two years."
+    },
+    {
+      "factId": "sonia-gandhi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Sonia Gandhi returned to the post as interim president in 2019 and remained the President for another three years until 2022."
+    },
+    {
+      "factId": "sonia-gandhi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Sonia Gandhi is remembered as a politician connected with Italy."
+    }
+  ]
+}

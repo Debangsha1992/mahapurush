@@ -1,0 +1,46 @@
+{
+  "personId": "ali",
+  "slug": "ali",
+  "name": "Ali",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ali",
+      "url": "https://pantheon.world/profile/person/Ali",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ali-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ali is remembered as a religious figure connected with Saudi Arabia."
+    },
+    {
+      "factId": "ali-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ali's recorded life dates place this profile around 601-661."
+    },
+    {
+      "factId": "ali-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ali is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "ali-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ali's profile connects a short Fact to a wider Saudi Arabia historical setting."
+    },
+    {
+      "factId": "ali-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ali has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

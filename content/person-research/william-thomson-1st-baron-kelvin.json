@@ -1,0 +1,46 @@
+{
+  "personId": "william-thomson-1st-baron-kelvin",
+  "slug": "william-thomson-1st-baron-kelvin",
+  "name": "William Thomson, 1st Baron Kelvin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: William Thomson, 1st Baron Kelvin",
+      "url": "https://pantheon.world/profile/person/William_Thomson%2C_1st_Baron_Kelvin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "william-thomson-1st-baron-kelvin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "William Thomson, 1st Baron Kelvin is remembered as a physicist connected with United Kingdom."
+    },
+    {
+      "factId": "william-thomson-1st-baron-kelvin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "William Thomson, 1st Baron Kelvin's recorded life dates place this profile around 1824-1907."
+    },
+    {
+      "factId": "william-thomson-1st-baron-kelvin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "William Thomson, 1st Baron Kelvin is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "william-thomson-1st-baron-kelvin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "William Thomson, 1st Baron Kelvin's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "william-thomson-1st-baron-kelvin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "William Thomson, 1st Baron Kelvin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

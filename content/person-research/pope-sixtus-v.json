@@ -1,0 +1,46 @@
+{
+  "personId": "pope-sixtus-v",
+  "slug": "pope-sixtus-v",
+  "name": "Pope Sixtus V",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Sixtus V",
+      "url": "https://pantheon.world/profile/person/Pope_Sixtus_V",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-sixtus-v-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sixtus V is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-sixtus-v-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sixtus V's recorded life dates place this profile around 1520-1590."
+    },
+    {
+      "factId": "pope-sixtus-v-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sixtus V is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-sixtus-v-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sixtus V's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-sixtus-v-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sixtus V has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

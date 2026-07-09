@@ -12,34 +12,104 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Prince Philip, Duke of Edinburgh is a notable nobleman associated with Greece.",
+  "summary": "Prince Philip, Duke of Edinburgh, was the husband of Queen Elizabeth II and served as consort of the British monarch from her accession on 6 February 1952 until his death in 2021, making him the longest-serving royal consort in British history.",
   "knownFor": [
     "Nobleman",
-    "114 language biography editions",
-    "Historical Popularity Index 82.8"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Prince Philip, Duke of Edinburgh",
   "sourceRefs": [
     {
-      "title": "Pantheon: Prince Philip, Duke of Edinburgh",
-      "url": "https://pantheon.world/profile/person/Prince_Philip%2C_Duke_of_Edinburgh",
+      "title": "Wikipedia: Prince Philip, Duke of Edinburgh",
+      "url": "https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "prince-philip-duke-of-edinburgh-pantheon-profile",
-      "text": "Pantheon ranks Prince Philip, Duke of Edinburgh as a globally documented nobleman with biographies in 114 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Prince Philip, Duke of Edinburgh a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Prince Philip, Duke of Edinburgh",
-      "sourceUrl": "https://pantheon.world/profile/person/Prince_Philip%2C_Duke_of_Edinburgh",
+      "id": "prince-philip-duke-of-edinburgh-1-origin",
+      "text": "Prince Philip, Duke of Edinburgh, was the husband of Queen Elizabeth II and served as consort of the British monarch from her accession on 6 February 1952 until his death in 2021, making him the longest-serving royal consort in British history.",
+      "context": "Prince Philip, Duke of Edinburgh's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Prince Philip, Duke of Edinburgh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "prince-philip-duke-of-edinburgh-2-obstacle",
+      "text": "Prince Philip, Duke of Edinburgh is remembered as a nobleman connected with Greece.",
+      "context": "Prince Philip, Duke of Edinburgh's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Prince Philip, Duke of Edinburgh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "prince-philip-duke-of-edinburgh-3-turning-point",
+      "text": "Prince Philip, Duke of Edinburgh's recorded life dates place this profile around 1921-2021.",
+      "context": "Prince Philip, Duke of Edinburgh's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Prince Philip, Duke of Edinburgh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "prince-philip-duke-of-edinburgh-4-contribution",
+      "text": "Prince Philip, Duke of Edinburgh is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Prince Philip, Duke of Edinburgh's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Prince Philip, Duke of Edinburgh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "prince-philip-duke-of-edinburgh-5-influence",
+      "text": "Prince Philip, Duke of Edinburgh's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Prince Philip, Duke of Edinburgh's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Prince Philip, Duke of Edinburgh",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

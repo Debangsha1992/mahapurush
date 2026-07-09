@@ -1,0 +1,47 @@
+{
+  "personId": "al-khwarizmi",
+  "slug": "al-khwarizmi",
+  "name": "Al-Khwarizmi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Al-Khwarizmi",
+      "url": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Islamic mathematician (c. 780 – c. 850)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "al-khwarizmi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Muhammad ibn Musa al-Khwarizmi, or simply al-Khwarizmi was a mathematician active during the Islamic Golden Age, who produced Arabic-language works in mathematics, astronomy, and geography."
+    },
+    {
+      "factId": "al-khwarizmi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Al-Khwarizmi is remembered as a scientist connected with Central Asia, Abbasid Caliphate."
+    },
+    {
+      "factId": "al-khwarizmi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Al-Khwarizmi's recorded life dates place this profile around c. 780-c. 850."
+    },
+    {
+      "factId": "al-khwarizmi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Al-Khwarizmi is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "al-khwarizmi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Al-Khwarizmi's profile connects a short Fact to a wider Central Asia, Abbasid Caliphate historical setting."
+    }
+  ]
+}

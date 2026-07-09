@@ -1,0 +1,46 @@
+{
+  "personId": "david-ben-gurion",
+  "slug": "david-ben-gurion",
+  "name": "David Ben-Gurion",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: David Ben-Gurion",
+      "url": "https://pantheon.world/profile/person/David_Ben-Gurion",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "david-ben-gurion-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "David Ben-Gurion is remembered as a politician connected with Poland."
+    },
+    {
+      "factId": "david-ben-gurion-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "David Ben-Gurion's recorded life dates place this profile around 1886-1973."
+    },
+    {
+      "factId": "david-ben-gurion-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "David Ben-Gurion is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "david-ben-gurion-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "David Ben-Gurion's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "david-ben-gurion-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "David Ben-Gurion has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

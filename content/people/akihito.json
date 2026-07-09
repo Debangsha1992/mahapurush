@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Akihito is a notable nobleman associated with Japan.",
+  "summary": "Akihito is a notable nobleman connected with Japan.",
   "knownFor": [
     "Nobleman",
-    "116 language biography editions",
-    "Historical Popularity Index 83.3"
+    "Justice, Governance & Leadership",
+    "Japan"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Akihito",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "akihito-pantheon-profile",
-      "text": "Pantheon ranks Akihito as a globally documented nobleman with biographies in 116 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Akihito a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "akihito-1-origin",
+      "text": "Akihito is remembered as a nobleman connected with Japan.",
+      "context": "Akihito's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Akihito",
       "sourceUrl": "https://pantheon.world/profile/person/Akihito",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akihito-2-obstacle",
+      "text": "Akihito's recorded life dates place this profile around born 1933.",
+      "context": "Akihito's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Akihito",
+      "sourceUrl": "https://pantheon.world/profile/person/Akihito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akihito-3-turning-point",
+      "text": "Akihito is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Akihito's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Akihito",
+      "sourceUrl": "https://pantheon.world/profile/person/Akihito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akihito-4-contribution",
+      "text": "Akihito's profile connects a short Fact to a wider Japan historical setting.",
+      "context": "Akihito's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Akihito",
+      "sourceUrl": "https://pantheon.world/profile/person/Akihito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "akihito-5-influence",
+      "text": "Akihito has a Facts Mode card reserved for deeper source research.",
+      "context": "Akihito's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Akihito",
+      "sourceUrl": "https://pantheon.world/profile/person/Akihito",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

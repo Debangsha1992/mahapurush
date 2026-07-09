@@ -1,0 +1,46 @@
+{
+  "personId": "murad-iii",
+  "slug": "murad-iii",
+  "name": "Murad III",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Murad III",
+      "url": "https://pantheon.world/profile/person/Murad_III",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "murad-iii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Murad III is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "murad-iii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Murad III's recorded life dates place this profile around 1546-1595."
+    },
+    {
+      "factId": "murad-iii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Murad III is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "murad-iii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Murad III's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "murad-iii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Murad III has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

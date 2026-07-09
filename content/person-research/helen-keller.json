@@ -1,0 +1,46 @@
+{
+  "personId": "helen-keller",
+  "slug": "helen-keller",
+  "name": "Helen Keller",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Helen Keller",
+      "url": "https://pantheon.world/profile/person/Helen_Keller",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "helen-keller-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Helen Keller is remembered as a social activist connected with United States."
+    },
+    {
+      "factId": "helen-keller-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Helen Keller's recorded life dates place this profile around 1880-1968."
+    },
+    {
+      "factId": "helen-keller-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Helen Keller is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "helen-keller-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Helen Keller's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "helen-keller-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Helen Keller has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

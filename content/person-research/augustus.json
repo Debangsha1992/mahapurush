@@ -1,0 +1,47 @@
+{
+  "personId": "augustus",
+  "slug": "augustus",
+  "name": "Augustus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Augustus",
+      "url": "https://en.wikipedia.org/wiki/Augustus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Roman emperor from 27 BC to AD 14"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "augustus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Augustus, also known as Octavian, was the founder of the Roman Empire and the first Roman emperor from 27 BC until his death in AD 14."
+    },
+    {
+      "factId": "augustus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "The reign of Augustus initiated an imperial cult and an era of imperial peace when the Roman world was largely free of armed conflict."
+    },
+    {
+      "factId": "augustus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Augustus is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "augustus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Augustus's recorded life dates place this profile around -63-14."
+    },
+    {
+      "factId": "augustus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Augustus is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

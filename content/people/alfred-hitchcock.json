@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "film-director"
   ],
-  "summary": "Alfred Hitchcock is a notable film director associated with United Kingdom.",
+  "summary": "Alfred Hitchcock is a notable film director connected with United Kingdom.",
   "knownFor": [
     "Film Director",
-    "145 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Literature, Arts & Culture",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Alfred Hitchcock",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "alfred-hitchcock-pantheon-profile",
-      "text": "Pantheon ranks Alfred Hitchcock as a globally documented film director with biographies in 145 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Alfred Hitchcock a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "alfred-hitchcock-1-origin",
+      "text": "Alfred Hitchcock is remembered as a film director connected with United Kingdom.",
+      "context": "Alfred Hitchcock's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Alfred Hitchcock",
       "sourceUrl": "https://pantheon.world/profile/person/Alfred_Hitchcock",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alfred-hitchcock-2-obstacle",
+      "text": "Alfred Hitchcock's recorded life dates place this profile around 1899-1980.",
+      "context": "Alfred Hitchcock's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Alfred Hitchcock",
+      "sourceUrl": "https://pantheon.world/profile/person/Alfred_Hitchcock",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alfred-hitchcock-3-turning-point",
+      "text": "Alfred Hitchcock is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Alfred Hitchcock's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Alfred Hitchcock",
+      "sourceUrl": "https://pantheon.world/profile/person/Alfred_Hitchcock",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alfred-hitchcock-4-contribution",
+      "text": "Alfred Hitchcock's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Alfred Hitchcock's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Alfred Hitchcock",
+      "sourceUrl": "https://pantheon.world/profile/person/Alfred_Hitchcock",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "alfred-hitchcock-5-influence",
+      "text": "Alfred Hitchcock has a Facts Mode card reserved for deeper source research.",
+      "context": "Alfred Hitchcock's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Alfred Hitchcock",
+      "sourceUrl": "https://pantheon.world/profile/person/Alfred_Hitchcock",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

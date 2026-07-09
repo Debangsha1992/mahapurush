@@ -1,0 +1,46 @@
+{
+  "personId": "salvador-dali",
+  "slug": "salvador-dali",
+  "name": "Salvador Dalí",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Salvador Dalí",
+      "url": "https://pantheon.world/profile/person/Salvador_Dal%C3%AD",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "salvador-dali-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Salvador Dalí is remembered as a painter connected with Spain."
+    },
+    {
+      "factId": "salvador-dali-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Salvador Dalí's recorded life dates place this profile around 1904-1989."
+    },
+    {
+      "factId": "salvador-dali-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Salvador Dalí is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "salvador-dali-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Salvador Dalí's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "salvador-dali-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Salvador Dalí has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

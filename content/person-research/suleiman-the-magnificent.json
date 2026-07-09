@@ -1,0 +1,46 @@
+{
+  "personId": "suleiman-the-magnificent",
+  "slug": "suleiman-the-magnificent",
+  "name": "Suleiman the Magnificent",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Suleiman the Magnificent",
+      "url": "https://pantheon.world/profile/person/Suleiman_the_Magnificent",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "suleiman-the-magnificent-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Suleiman the Magnificent is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "suleiman-the-magnificent-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Suleiman the Magnificent's recorded life dates place this profile around 1494-1566."
+    },
+    {
+      "factId": "suleiman-the-magnificent-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Suleiman the Magnificent is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "suleiman-the-magnificent-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Suleiman the Magnificent's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "suleiman-the-magnificent-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Suleiman the Magnificent has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

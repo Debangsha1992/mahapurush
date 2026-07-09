@@ -1,0 +1,47 @@
+{
+  "personId": "b-b-king",
+  "slug": "b-b-king",
+  "name": "B.B. King",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: B. B. King",
+      "url": "https://en.wikipedia.org/wiki/B._B._King",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "American blues guitarist, singer, and songwriter (1925–2015)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "b-b-king-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "B.B. King, was an American blues guitarist, singer, songwriter, and record producer."
+    },
+    {
+      "factId": "b-b-king-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "B.B. King introduced a sophisticated style of soloing based on fluid string bending, shimmering vibrato, and staccato picking that influenced many later electric guitar blues players."
+    },
+    {
+      "factId": "b-b-king-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "AllMusic recognized B.B. King as \"the single most important electric guitarist of the last half of the 20th century\"."
+    },
+    {
+      "factId": "b-b-king-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "B.B. King is remembered as a musician connected with United States."
+    },
+    {
+      "factId": "b-b-king-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "B.B. King's recorded life dates place this profile around 1925-2015."
+    }
+  ]
+}

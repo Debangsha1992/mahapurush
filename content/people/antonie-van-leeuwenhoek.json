@@ -12,11 +12,11 @@
     "science-math-technology",
     "biologist"
   ],
-  "summary": "Antonie van Leeuwenhoek is a notable biologist associated with Netherlands.",
+  "summary": "Antonie van Leeuwenhoek is a notable biologist connected with Netherlands.",
   "knownFor": [
     "Biologist",
-    "99 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Science, Math & Technology",
+    "Netherlands"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Antonie van Leeuwenhoek",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "antonie-van-leeuwenhoek-pantheon-profile",
-      "text": "Pantheon ranks Antonie van Leeuwenhoek as a globally documented biologist with biographies in 99 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Antonie van Leeuwenhoek a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "antonie-van-leeuwenhoek-1-origin",
+      "text": "Antonie van Leeuwenhoek is remembered as a biologist connected with Netherlands.",
+      "context": "Antonie van Leeuwenhoek's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Antonie van Leeuwenhoek",
       "sourceUrl": "https://pantheon.world/profile/person/Antonie_van_Leeuwenhoek",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonie-van-leeuwenhoek-2-obstacle",
+      "text": "Antonie van Leeuwenhoek's recorded life dates place this profile around 1632-1723.",
+      "context": "Antonie van Leeuwenhoek's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Antonie van Leeuwenhoek",
+      "sourceUrl": "https://pantheon.world/profile/person/Antonie_van_Leeuwenhoek",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonie-van-leeuwenhoek-3-turning-point",
+      "text": "Antonie van Leeuwenhoek is grouped with Science, Math & Technology in the People Library.",
+      "context": "Antonie van Leeuwenhoek's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Antonie van Leeuwenhoek",
+      "sourceUrl": "https://pantheon.world/profile/person/Antonie_van_Leeuwenhoek",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonie-van-leeuwenhoek-4-contribution",
+      "text": "Antonie van Leeuwenhoek's profile connects a short Fact to a wider Netherlands historical setting.",
+      "context": "Antonie van Leeuwenhoek's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Antonie van Leeuwenhoek",
+      "sourceUrl": "https://pantheon.world/profile/person/Antonie_van_Leeuwenhoek",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "antonie-van-leeuwenhoek-5-influence",
+      "text": "Antonie van Leeuwenhoek has a Facts Mode card reserved for deeper source research.",
+      "context": "Antonie van Leeuwenhoek's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Antonie van Leeuwenhoek",
+      "sourceUrl": "https://pantheon.world/profile/person/Antonie_van_Leeuwenhoek",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

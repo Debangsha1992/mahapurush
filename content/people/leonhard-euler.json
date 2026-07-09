@@ -12,11 +12,11 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Leonhard Euler is a notable mathematician associated with Switzerland.",
+  "summary": "Leonhard Euler is a notable mathematician connected with Switzerland.",
   "knownFor": [
     "Mathematician",
-    "161 language biography editions",
-    "Historical Popularity Index 87.6"
+    "Science, Math & Technology",
+    "Switzerland"
   ],
   "featured": true,
   "featuredRank": 238,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "leonhard-euler-pantheon-profile",
-      "text": "Pantheon ranks Leonhard Euler as a globally documented mathematician with biographies in 161 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Leonhard Euler a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "leonhard-euler-1-origin",
+      "text": "Leonhard Euler is remembered as a mathematician connected with Switzerland.",
+      "context": "Leonhard Euler's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Leonhard Euler",
       "sourceUrl": "https://pantheon.world/profile/person/Leonhard_Euler",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leonhard-euler-2-obstacle",
+      "text": "Leonhard Euler's recorded life dates place this profile around 1707-1783.",
+      "context": "Leonhard Euler's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Leonhard Euler",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonhard_Euler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leonhard-euler-3-turning-point",
+      "text": "Leonhard Euler is grouped with Science, Math & Technology in the People Library.",
+      "context": "Leonhard Euler's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Leonhard Euler",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonhard_Euler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leonhard-euler-4-contribution",
+      "text": "Leonhard Euler's profile connects a short Fact to a wider Switzerland historical setting.",
+      "context": "Leonhard Euler's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Leonhard Euler",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonhard_Euler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "leonhard-euler-5-influence",
+      "text": "Leonhard Euler has a Facts Mode card reserved for deeper source research.",
+      "context": "Leonhard Euler's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Leonhard Euler",
+      "sourceUrl": "https://pantheon.world/profile/person/Leonhard_Euler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

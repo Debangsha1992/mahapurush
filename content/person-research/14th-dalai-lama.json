@@ -1,0 +1,47 @@
+{
+  "personId": "14th-dalai-lama",
+  "slug": "14th-dalai-lama",
+  "name": "14th Dalai Lama",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: 14th Dalai Lama",
+      "url": "https://en.wikipedia.org/wiki/14th_Dalai_Lama",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Spiritual leader of Tibet since 1940"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "14th-dalai-lama-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "The 14th Dalai Lama is the incumbent Dalai Lama, the highest spiritual leader and head of Tibetan Buddhism."
+    },
+    {
+      "factId": "14th-dalai-lama-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "14th Dalai Lama served as the resident spiritual and temporal leader of Tibet before 1959, and subsequently led the Tibetan government in exile represented by the Central Tibetan Administration in Dharamshala, India."
+    },
+    {
+      "factId": "14th-dalai-lama-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "14th Dalai Lama is remembered as a religious figure connected with China."
+    },
+    {
+      "factId": "14th-dalai-lama-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "14th Dalai Lama's recorded life dates place this profile around born 1935."
+    },
+    {
+      "factId": "14th-dalai-lama-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "14th Dalai Lama is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

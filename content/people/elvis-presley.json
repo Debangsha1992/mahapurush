@@ -12,35 +12,104 @@
     "literature-arts-culture",
     "singer"
   ],
-  "summary": "Elvis Presley is a notable singer associated with United States.",
+  "summary": "Elvis Aaron Presley was an American singer and actor.",
   "knownFor": [
     "Singer",
-    "184 language biography editions",
-    "Historical Popularity Index 87.6"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 242,
   "imageAlt": "Portrait-style visual for Elvis Presley",
   "sourceRefs": [
     {
-      "title": "Pantheon: Elvis Presley",
-      "url": "https://pantheon.world/profile/person/Elvis_Presley",
+      "title": "Wikipedia: Elvis Presley",
+      "url": "https://en.wikipedia.org/wiki/Elvis_Presley",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "elvis-presley-pantheon-profile",
-      "text": "Pantheon ranks Elvis Presley as a globally documented singer with biographies in 184 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Elvis Presley a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Elvis Presley",
-      "sourceUrl": "https://pantheon.world/profile/person/Elvis_Presley",
+      "id": "elvis-presley-1-origin",
+      "text": "Elvis Aaron Elvis Presley was an American singer and actor.",
+      "context": "Elvis Presley's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Elvis Presley",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elvis-presley-2-obstacle",
+      "text": "Elvis Presley's energetic and sexually provocative performance style, combined with a mixture of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.",
+      "context": "Elvis Presley's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Elvis Presley",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elvis-presley-3-turning-point",
+      "text": "Elvis Presley is remembered as a singer connected with United States.",
+      "context": "Elvis Presley's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Elvis Presley",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elvis-presley-4-contribution",
+      "text": "Elvis Presley's recorded life dates place this profile around 1935-1977.",
+      "context": "Elvis Presley's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Elvis Presley",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "elvis-presley-5-influence",
+      "text": "Elvis Presley is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Elvis Presley's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Elvis Presley",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

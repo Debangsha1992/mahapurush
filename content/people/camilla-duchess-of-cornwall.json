@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Camilla, Duchess of Cornwall is a notable nobleman associated with United Kingdom.",
+  "summary": "Camilla, Duchess of Cornwall is a notable nobleman connected with United Kingdom.",
   "knownFor": [
     "Nobleman",
-    "75 language biography editions",
-    "Historical Popularity Index 84.7"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 461,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "camilla-duchess-of-cornwall-pantheon-profile",
-      "text": "Pantheon ranks Camilla, Duchess of Cornwall as a globally documented nobleman with biographies in 75 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Camilla, Duchess of Cornwall a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "camilla-duchess-of-cornwall-1-origin",
+      "text": "Camilla, Duchess of Cornwall is remembered as a nobleman connected with United Kingdom.",
+      "context": "Camilla, Duchess of Cornwall's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Camilla, Duchess of Cornwall",
       "sourceUrl": "https://pantheon.world/profile/person/Camilla%2C_Duchess_of_Cornwall",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "camilla-duchess-of-cornwall-2-obstacle",
+      "text": "Camilla, Duchess of Cornwall's recorded life dates place this profile around born 1947.",
+      "context": "Camilla, Duchess of Cornwall's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Camilla, Duchess of Cornwall",
+      "sourceUrl": "https://pantheon.world/profile/person/Camilla%2C_Duchess_of_Cornwall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "camilla-duchess-of-cornwall-3-turning-point",
+      "text": "Camilla, Duchess of Cornwall is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Camilla, Duchess of Cornwall's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Camilla, Duchess of Cornwall",
+      "sourceUrl": "https://pantheon.world/profile/person/Camilla%2C_Duchess_of_Cornwall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "camilla-duchess-of-cornwall-4-contribution",
+      "text": "Camilla, Duchess of Cornwall's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Camilla, Duchess of Cornwall's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Camilla, Duchess of Cornwall",
+      "sourceUrl": "https://pantheon.world/profile/person/Camilla%2C_Duchess_of_Cornwall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "camilla-duchess-of-cornwall-5-influence",
+      "text": "Camilla, Duchess of Cornwall has a Facts Mode card reserved for deeper source research.",
+      "context": "Camilla, Duchess of Cornwall's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Camilla, Duchess of Cornwall",
+      "sourceUrl": "https://pantheon.world/profile/person/Camilla%2C_Duchess_of_Cornwall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

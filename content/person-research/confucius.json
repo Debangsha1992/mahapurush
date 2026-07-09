@@ -1,0 +1,47 @@
+{
+  "personId": "confucius",
+  "slug": "confucius",
+  "name": "Confucius",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Confucius",
+      "url": "https://en.wikipedia.org/wiki/Confucius",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Chinese philosopher (c. 551 – c. 479 BCE)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "confucius-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "tradition",
+      "text": "Confucius, born Kong Qiu, was a Chinese philosopher of the Spring and Autumn period who is traditionally considered the paragon of Chinese sages."
+    },
+    {
+      "factId": "confucius-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Much of the shared cultural heritage of the Sinosphere originates in the philosophy and teachings of Confucius."
+    },
+    {
+      "factId": "confucius-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Confucius's philosophical teachings, called Confucianism, emphasized personal and governmental morality, harmonious social relationships, righteousness, kindness, sincerity, and a ruler's responsibilities to lead by virtue."
+    },
+    {
+      "factId": "confucius-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Confucius is remembered as a philosopher connected with China."
+    },
+    {
+      "factId": "confucius-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Confucius's recorded life dates place this profile around 551-479 BCE."
+    }
+  ]
+}

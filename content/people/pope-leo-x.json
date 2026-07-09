@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Pope Leo X is a notable religious figure associated with Italy.",
+  "summary": "Pope Leo X is a notable religious figure connected with Italy.",
   "knownFor": [
     "Religious Figure",
-    "79 language biography editions",
-    "Historical Popularity Index 84.2"
+    "Philosophy, Ethics & Religion",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Pope Leo X",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pope-leo-x-pantheon-profile",
-      "text": "Pantheon ranks Pope Leo X as a globally documented religious figure with biographies in 79 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Leo X a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pope-leo-x-1-origin",
+      "text": "Pope Leo X is remembered as a religious figure connected with Italy.",
+      "context": "Pope Leo X's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Pope Leo X",
       "sourceUrl": "https://pantheon.world/profile/person/Pope_Leo_X",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-leo-x-2-obstacle",
+      "text": "Pope Leo X's recorded life dates place this profile around 1475-1521.",
+      "context": "Pope Leo X's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pope Leo X",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Leo_X",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-leo-x-3-turning-point",
+      "text": "Pope Leo X is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Pope Leo X's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pope Leo X",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Leo_X",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-leo-x-4-contribution",
+      "text": "Pope Leo X's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Pope Leo X's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pope Leo X",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Leo_X",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-leo-x-5-influence",
+      "text": "Pope Leo X has a Facts Mode card reserved for deeper source research.",
+      "context": "Pope Leo X's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pope Leo X",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Leo_X",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

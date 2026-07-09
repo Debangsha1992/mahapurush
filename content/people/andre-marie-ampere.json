@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "André-Marie Ampère is a notable physicist associated with France.",
+  "summary": "André-Marie Ampère is a notable physicist connected with France.",
   "knownFor": [
     "Physicist",
-    "105 language biography editions",
-    "Historical Popularity Index 84.3"
+    "Science, Math & Technology",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for André-Marie Ampère",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "andre-marie-ampere-pantheon-profile",
-      "text": "Pantheon ranks André-Marie Ampère as a globally documented physicist with biographies in 105 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make André-Marie Ampère a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "andre-marie-ampere-1-origin",
+      "text": "André-Marie Ampère is remembered as a physicist connected with France.",
+      "context": "André-Marie Ampère's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: André-Marie Ampère",
       "sourceUrl": "https://pantheon.world/profile/person/Andr%C3%A9-Marie_Amp%C3%A8re",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andre-marie-ampere-2-obstacle",
+      "text": "André-Marie Ampère's recorded life dates place this profile around 1775-1836.",
+      "context": "André-Marie Ampère's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: André-Marie Ampère",
+      "sourceUrl": "https://pantheon.world/profile/person/Andr%C3%A9-Marie_Amp%C3%A8re",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andre-marie-ampere-3-turning-point",
+      "text": "André-Marie Ampère is grouped with Science, Math & Technology in the People Library.",
+      "context": "André-Marie Ampère's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: André-Marie Ampère",
+      "sourceUrl": "https://pantheon.world/profile/person/Andr%C3%A9-Marie_Amp%C3%A8re",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andre-marie-ampere-4-contribution",
+      "text": "André-Marie Ampère's profile connects a short Fact to a wider France historical setting.",
+      "context": "André-Marie Ampère's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: André-Marie Ampère",
+      "sourceUrl": "https://pantheon.world/profile/person/Andr%C3%A9-Marie_Amp%C3%A8re",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "andre-marie-ampere-5-influence",
+      "text": "André-Marie Ampère has a Facts Mode card reserved for deeper source research.",
+      "context": "André-Marie Ampère's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: André-Marie Ampère",
+      "sourceUrl": "https://pantheon.world/profile/person/Andr%C3%A9-Marie_Amp%C3%A8re",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

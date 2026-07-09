@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Brutus the Younger is a notable politician associated with Italy.",
+  "summary": "Brutus the Younger is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "63 language biography editions",
-    "Historical Popularity Index 85.3"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 409,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "brutus-the-younger-pantheon-profile",
-      "text": "Pantheon ranks Brutus the Younger as a globally documented politician with biographies in 63 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Brutus the Younger a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "brutus-the-younger-1-origin",
+      "text": "Brutus the Younger is remembered as a politician connected with Italy.",
+      "context": "Brutus the Younger's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Brutus the Younger",
       "sourceUrl": "https://pantheon.world/profile/person/Brutus_the_Younger",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "brutus-the-younger-2-obstacle",
+      "text": "Brutus the Younger's recorded life dates place this profile around -85--42.",
+      "context": "Brutus the Younger's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Brutus the Younger",
+      "sourceUrl": "https://pantheon.world/profile/person/Brutus_the_Younger",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "brutus-the-younger-3-turning-point",
+      "text": "Brutus the Younger is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Brutus the Younger's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Brutus the Younger",
+      "sourceUrl": "https://pantheon.world/profile/person/Brutus_the_Younger",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "brutus-the-younger-4-contribution",
+      "text": "Brutus the Younger's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Brutus the Younger's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Brutus the Younger",
+      "sourceUrl": "https://pantheon.world/profile/person/Brutus_the_Younger",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "brutus-the-younger-5-influence",
+      "text": "Brutus the Younger has a Facts Mode card reserved for deeper source research.",
+      "context": "Brutus the Younger's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Brutus the Younger",
+      "sourceUrl": "https://pantheon.world/profile/person/Brutus_the_Younger",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

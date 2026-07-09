@@ -1,0 +1,46 @@
+{
+  "personId": "ada-lovelace",
+  "slug": "ada-lovelace",
+  "name": "Ada Lovelace",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Computer History Museum: Ada Lovelace",
+      "url": "https://www.computerhistory.org/babbage/adalovelace/",
+      "accessedAt": "2026-07-05",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ada-lovelace-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ada Lovelace is remembered as a scientist connected with United Kingdom."
+    },
+    {
+      "factId": "ada-lovelace-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ada Lovelace's recorded life dates place this profile around 1815-1852."
+    },
+    {
+      "factId": "ada-lovelace-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ada Lovelace is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "ada-lovelace-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ada Lovelace's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "ada-lovelace-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ada Lovelace has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

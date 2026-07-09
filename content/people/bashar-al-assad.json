@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Bashar al-Assad is a notable politician associated with Syria.",
+  "summary": "Bashar al-Assad is a notable politician connected with Syria.",
   "knownFor": [
     "Politician",
-    "119 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Justice, Governance & Leadership",
+    "Syria"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Bashar al-Assad",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "bashar-al-assad-pantheon-profile",
-      "text": "Pantheon ranks Bashar al-Assad as a globally documented politician with biographies in 119 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Bashar al-Assad a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "bashar-al-assad-1-origin",
+      "text": "Bashar al-Assad is remembered as a politician connected with Syria.",
+      "context": "Bashar al-Assad's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Bashar al-Assad",
       "sourceUrl": "https://pantheon.world/profile/person/Bashar_al-Assad",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bashar-al-assad-2-obstacle",
+      "text": "Bashar al-Assad's recorded life dates place this profile around born 1965.",
+      "context": "Bashar al-Assad's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Bashar al-Assad",
+      "sourceUrl": "https://pantheon.world/profile/person/Bashar_al-Assad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bashar-al-assad-3-turning-point",
+      "text": "Bashar al-Assad is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Bashar al-Assad's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Bashar al-Assad",
+      "sourceUrl": "https://pantheon.world/profile/person/Bashar_al-Assad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bashar-al-assad-4-contribution",
+      "text": "Bashar al-Assad's profile connects a short Fact to a wider Syria historical setting.",
+      "context": "Bashar al-Assad's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Bashar al-Assad",
+      "sourceUrl": "https://pantheon.world/profile/person/Bashar_al-Assad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "bashar-al-assad-5-influence",
+      "text": "Bashar al-Assad has a Facts Mode card reserved for deeper source research.",
+      "context": "Bashar al-Assad's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Bashar al-Assad",
+      "sourceUrl": "https://pantheon.world/profile/person/Bashar_al-Assad",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

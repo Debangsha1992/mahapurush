@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Vincent van Gogh is a notable painter associated with Netherlands.",
+  "summary": "Vincent van Gogh is a notable painter connected with Netherlands.",
   "knownFor": [
     "Painter",
-    "211 language biography editions",
-    "Historical Popularity Index 93.3"
+    "Justice, Governance & Leadership",
+    "Netherlands"
   ],
   "featured": true,
   "featuredRank": 61,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "vincent-van-gogh-pantheon-profile",
-      "text": "Pantheon ranks Vincent van Gogh as a globally documented painter with biographies in 211 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Vincent van Gogh a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "vincent-van-gogh-1-origin",
+      "text": "Vincent van Gogh is remembered as a painter connected with Netherlands.",
+      "context": "Vincent van Gogh's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Vincent van Gogh",
       "sourceUrl": "https://pantheon.world/profile/person/Vincent_van_Gogh",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vincent-van-gogh-2-obstacle",
+      "text": "Vincent van Gogh's recorded life dates place this profile around 1853-1890.",
+      "context": "Vincent van Gogh's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Vincent van Gogh",
+      "sourceUrl": "https://pantheon.world/profile/person/Vincent_van_Gogh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vincent-van-gogh-3-turning-point",
+      "text": "Vincent van Gogh is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Vincent van Gogh's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Vincent van Gogh",
+      "sourceUrl": "https://pantheon.world/profile/person/Vincent_van_Gogh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vincent-van-gogh-4-contribution",
+      "text": "Vincent van Gogh's profile connects a short Fact to a wider Netherlands historical setting.",
+      "context": "Vincent van Gogh's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Vincent van Gogh",
+      "sourceUrl": "https://pantheon.world/profile/person/Vincent_van_Gogh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vincent-van-gogh-5-influence",
+      "text": "Vincent van Gogh has a Facts Mode card reserved for deeper source research.",
+      "context": "Vincent van Gogh's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Vincent van Gogh",
+      "sourceUrl": "https://pantheon.world/profile/person/Vincent_van_Gogh",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

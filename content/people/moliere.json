@@ -12,35 +12,102 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Molière is a notable writer associated with France.",
+  "summary": "Jean-Baptiste Poquelin, known by his stage name Molière, was a French playwright, actor, and poet, widely regarded as one of the great writers in the French language and world literature.",
   "knownFor": [
     "Writer",
-    "163 language biography editions",
-    "Historical Popularity Index 87.8"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": true,
   "featuredRank": 226,
   "imageAlt": "Portrait-style visual for Molière",
   "sourceRefs": [
     {
-      "title": "Pantheon: Molière",
-      "url": "https://pantheon.world/profile/person/Moli%C3%A8re",
+      "title": "Wikipedia: Molière",
+      "url": "https://en.wikipedia.org/wiki/Moli%C3%A8re",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "moliere-pantheon-profile",
-      "text": "Pantheon ranks Molière as a globally documented writer with biographies in 163 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Molière a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Molière",
-      "sourceUrl": "https://pantheon.world/profile/person/Moli%C3%A8re",
+      "id": "moliere-1-origin",
+      "text": "Jean-Baptiste Poquelin, known by his stage name Molière, was a French playwright, actor, and poet, widely regarded as one of the great writers in the French language and world literature.",
+      "context": "Molière's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Molière",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moli%C3%A8re",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "moliere-2-obstacle",
+      "text": "Molière's extant works include comedies, farces, tragicomedies, comédie-ballets, and more.",
+      "context": "Molière's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Molière",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moli%C3%A8re",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "moliere-3-turning-point",
+      "text": "Molière's plays have been translated into every major living language and are performed at the Comédie-Française more often than those of any other playwright today.",
+      "context": "Molière's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Molière",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moli%C3%A8re",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "moliere-4-contribution",
+      "text": "Molière's influence is such that the French language is often referred to as the \"language of Molière\".",
+      "context": "Molière's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Molière",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moli%C3%A8re",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "moliere-5-influence",
+      "text": "Molière is remembered as a writer connected with France.",
+      "context": "Molière's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Molière",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Moli%C3%A8re",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

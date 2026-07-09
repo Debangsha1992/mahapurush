@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Oscar Wilde is a notable writer associated with Ireland.",
+  "summary": "Oscar Wilde is a notable writer connected with Ireland.",
   "knownFor": [
     "Writer",
-    "127 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Literature, Arts & Culture",
+    "Ireland"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Oscar Wilde",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "oscar-wilde-pantheon-profile",
-      "text": "Pantheon ranks Oscar Wilde as a globally documented writer with biographies in 127 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Oscar Wilde a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "oscar-wilde-1-origin",
+      "text": "Oscar Wilde is remembered as a writer connected with Ireland.",
+      "context": "Oscar Wilde's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Oscar Wilde",
       "sourceUrl": "https://pantheon.world/profile/person/Oscar_Wilde",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "oscar-wilde-2-obstacle",
+      "text": "Oscar Wilde's recorded life dates place this profile around 1854-1900.",
+      "context": "Oscar Wilde's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Oscar Wilde",
+      "sourceUrl": "https://pantheon.world/profile/person/Oscar_Wilde",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "oscar-wilde-3-turning-point",
+      "text": "Oscar Wilde is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Oscar Wilde's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Oscar Wilde",
+      "sourceUrl": "https://pantheon.world/profile/person/Oscar_Wilde",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "oscar-wilde-4-contribution",
+      "text": "Oscar Wilde's profile connects a short Fact to a wider Ireland historical setting.",
+      "context": "Oscar Wilde's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Oscar Wilde",
+      "sourceUrl": "https://pantheon.world/profile/person/Oscar_Wilde",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "oscar-wilde-5-influence",
+      "text": "Oscar Wilde has a Facts Mode card reserved for deeper source research.",
+      "context": "Oscar Wilde's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Oscar Wilde",
+      "sourceUrl": "https://pantheon.world/profile/person/Oscar_Wilde",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

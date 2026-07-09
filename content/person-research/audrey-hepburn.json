@@ -1,0 +1,46 @@
+{
+  "personId": "audrey-hepburn",
+  "slug": "audrey-hepburn",
+  "name": "Audrey Hepburn",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Audrey Hepburn",
+      "url": "https://pantheon.world/profile/person/Audrey_Hepburn",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "audrey-hepburn-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Audrey Hepburn is remembered as a actor connected with Belgium."
+    },
+    {
+      "factId": "audrey-hepburn-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Audrey Hepburn's recorded life dates place this profile around 1929-1993."
+    },
+    {
+      "factId": "audrey-hepburn-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Audrey Hepburn is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "audrey-hepburn-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Audrey Hepburn's profile connects a short Fact to a wider Belgium historical setting."
+    },
+    {
+      "factId": "audrey-hepburn-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Audrey Hepburn has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

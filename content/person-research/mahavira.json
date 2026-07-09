@@ -1,0 +1,46 @@
+{
+  "personId": "mahavira",
+  "slug": "mahavira",
+  "name": "Mahavira",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mahavira",
+      "url": "https://pantheon.world/profile/person/Mahavira",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mahavira-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mahavira is remembered as a religious figure connected with India."
+    },
+    {
+      "factId": "mahavira-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mahavira's recorded life dates place this profile around -599--527."
+    },
+    {
+      "factId": "mahavira-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mahavira is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "mahavira-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mahavira's profile connects a short Fact to a wider India historical setting."
+    },
+    {
+      "factId": "mahavira-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mahavira has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

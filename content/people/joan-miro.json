@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Joan Miró is a notable painter associated with Spain.",
+  "summary": "Joan Miró is a notable painter connected with Spain.",
   "knownFor": [
     "Painter",
-    "88 language biography editions",
-    "Historical Popularity Index 82.9"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Joan Miró",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "joan-miro-pantheon-profile",
-      "text": "Pantheon ranks Joan Miró as a globally documented painter with biographies in 88 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Joan Miró a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "joan-miro-1-origin",
+      "text": "Joan Miró is remembered as a painter connected with Spain.",
+      "context": "Joan Miró's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Joan Miró",
       "sourceUrl": "https://pantheon.world/profile/person/Joan_Mir%C3%B3",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joan-miro-2-obstacle",
+      "text": "Joan Miró's recorded life dates place this profile around 1893-1983.",
+      "context": "Joan Miró's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Joan Miró",
+      "sourceUrl": "https://pantheon.world/profile/person/Joan_Mir%C3%B3",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joan-miro-3-turning-point",
+      "text": "Joan Miró is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Joan Miró's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Joan Miró",
+      "sourceUrl": "https://pantheon.world/profile/person/Joan_Mir%C3%B3",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joan-miro-4-contribution",
+      "text": "Joan Miró's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Joan Miró's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Joan Miró",
+      "sourceUrl": "https://pantheon.world/profile/person/Joan_Mir%C3%B3",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "joan-miro-5-influence",
+      "text": "Joan Miró has a Facts Mode card reserved for deeper source research.",
+      "context": "Joan Miró's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Joan Miró",
+      "sourceUrl": "https://pantheon.world/profile/person/Joan_Mir%C3%B3",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

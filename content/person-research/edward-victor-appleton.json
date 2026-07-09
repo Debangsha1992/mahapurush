@@ -1,0 +1,46 @@
+{
+  "personId": "edward-victor-appleton",
+  "slug": "edward-victor-appleton",
+  "name": "Edward Victor Appleton",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edward Victor Appleton",
+      "url": "https://pantheon.world/profile/person/Edward_Victor_Appleton",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edward-victor-appleton-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edward Victor Appleton is remembered as a physicist connected with United Kingdom."
+    },
+    {
+      "factId": "edward-victor-appleton-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edward Victor Appleton's recorded life dates place this profile around 1892-1965."
+    },
+    {
+      "factId": "edward-victor-appleton-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edward Victor Appleton is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "edward-victor-appleton-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edward Victor Appleton's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "edward-victor-appleton-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edward Victor Appleton has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

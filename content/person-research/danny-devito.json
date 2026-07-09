@@ -1,0 +1,46 @@
+{
+  "personId": "danny-devito",
+  "slug": "danny-devito",
+  "name": "Danny DeVito",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Danny DeVito",
+      "url": "https://pantheon.world/profile/person/Danny_DeVito",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "danny-devito-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Danny DeVito is remembered as a actor connected with United States."
+    },
+    {
+      "factId": "danny-devito-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Danny DeVito's recorded life dates place this profile around born 1944."
+    },
+    {
+      "factId": "danny-devito-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Danny DeVito is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "danny-devito-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Danny DeVito's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "danny-devito-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Danny DeVito has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

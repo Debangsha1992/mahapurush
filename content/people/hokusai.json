@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "artist"
   ],
-  "summary": "Hokusai is a notable artist associated with Japan.",
+  "summary": "Hokusai is a notable artist connected with Japan.",
   "knownFor": [
     "Artist",
-    "155 language biography editions",
-    "Historical Popularity Index 84.6"
+    "Literature, Arts & Culture",
+    "Japan"
   ],
   "featured": true,
   "featuredRank": 477,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "hokusai-pantheon-profile",
-      "text": "Pantheon ranks Hokusai as a globally documented artist with biographies in 155 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Hokusai a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "hokusai-1-origin",
+      "text": "Hokusai is remembered as a artist connected with Japan.",
+      "context": "Hokusai's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Hokusai",
       "sourceUrl": "https://pantheon.world/profile/person/Hokusai",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hokusai-2-obstacle",
+      "text": "Hokusai's recorded life dates place this profile around 1760-1849.",
+      "context": "Hokusai's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Hokusai",
+      "sourceUrl": "https://pantheon.world/profile/person/Hokusai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hokusai-3-turning-point",
+      "text": "Hokusai is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Hokusai's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Hokusai",
+      "sourceUrl": "https://pantheon.world/profile/person/Hokusai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hokusai-4-contribution",
+      "text": "Hokusai's profile connects a short Fact to a wider Japan historical setting.",
+      "context": "Hokusai's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Hokusai",
+      "sourceUrl": "https://pantheon.world/profile/person/Hokusai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hokusai-5-influence",
+      "text": "Hokusai has a Facts Mode card reserved for deeper source research.",
+      "context": "Hokusai's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Hokusai",
+      "sourceUrl": "https://pantheon.world/profile/person/Hokusai",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

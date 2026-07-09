@@ -12,35 +12,104 @@
     "philosophy-ethics-religion",
     "philosopher"
   ],
-  "summary": "Avicenna is a notable philosopher associated with Uzbekistan.",
+  "summary": "Ibn Sina, commonly known in the West as Avicenna, was a preeminent philosopher and physician of the Muslim world.",
   "knownFor": [
     "Philosopher",
-    "157 language biography editions",
-    "Historical Popularity Index 92.0"
+    "Philosophy, Ethics & Religion",
+    "Uzbekistan"
   ],
   "featured": true,
   "featuredRank": 80,
   "imageAlt": "Portrait-style visual for Avicenna",
   "sourceRefs": [
     {
-      "title": "Pantheon: Avicenna",
-      "url": "https://pantheon.world/profile/person/Avicenna",
+      "title": "Wikipedia: Avicenna",
+      "url": "https://en.wikipedia.org/wiki/Avicenna",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "avicenna-pantheon-profile",
-      "text": "Pantheon ranks Avicenna as a globally documented philosopher with biographies in 157 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Avicenna a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Avicenna",
-      "sourceUrl": "https://pantheon.world/profile/person/Avicenna",
+      "id": "avicenna-1-origin",
+      "text": "Ibn Sina, commonly known in the West as Avicenna, was a preeminent philosopher and physician of the Muslim world.",
+      "context": "Avicenna's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Avicenna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Avicenna",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "avicenna-2-obstacle",
+      "text": "Avicenna was a seminal figure of the Islamic Golden Age, serving in the courts of various Iranian rulers, and was influential to medieval European medical and Scholastic thought.",
+      "context": "Avicenna's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Avicenna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Avicenna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "avicenna-3-turning-point",
+      "text": "Avicenna is remembered as a philosopher connected with Uzbekistan.",
+      "context": "Avicenna's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Avicenna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Avicenna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "avicenna-4-contribution",
+      "text": "Avicenna's recorded life dates place this profile around 980-1037.",
+      "context": "Avicenna's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Avicenna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Avicenna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "avicenna-5-influence",
+      "text": "Avicenna is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Avicenna's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Avicenna",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Avicenna",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

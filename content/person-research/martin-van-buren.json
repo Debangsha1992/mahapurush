@@ -1,0 +1,46 @@
+{
+  "personId": "martin-van-buren",
+  "slug": "martin-van-buren",
+  "name": "Martin Van Buren",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Martin Van Buren",
+      "url": "https://pantheon.world/profile/person/Martin_Van_Buren",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "martin-van-buren-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Martin Van Buren is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "martin-van-buren-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Martin Van Buren's recorded life dates place this profile around 1782-1862."
+    },
+    {
+      "factId": "martin-van-buren-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Martin Van Buren is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "martin-van-buren-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Martin Van Buren's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "martin-van-buren-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Martin Van Buren has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

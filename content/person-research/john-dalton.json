@@ -1,0 +1,46 @@
+{
+  "personId": "john-dalton",
+  "slug": "john-dalton",
+  "name": "John Dalton",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John Dalton",
+      "url": "https://pantheon.world/profile/person/John_Dalton",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-dalton-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John Dalton is remembered as a chemist connected with United Kingdom."
+    },
+    {
+      "factId": "john-dalton-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John Dalton's recorded life dates place this profile around 1766-1844."
+    },
+    {
+      "factId": "john-dalton-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John Dalton is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "john-dalton-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John Dalton's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "john-dalton-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John Dalton has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

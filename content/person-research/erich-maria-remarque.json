@@ -1,0 +1,46 @@
+{
+  "personId": "erich-maria-remarque",
+  "slug": "erich-maria-remarque",
+  "name": "Erich Maria Remarque",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Erich Maria Remarque",
+      "url": "https://pantheon.world/profile/person/Erich_Maria_Remarque",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "erich-maria-remarque-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Erich Maria Remarque is remembered as a writer connected with Germany."
+    },
+    {
+      "factId": "erich-maria-remarque-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Erich Maria Remarque's recorded life dates place this profile around 1898-1970."
+    },
+    {
+      "factId": "erich-maria-remarque-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Erich Maria Remarque is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "erich-maria-remarque-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Erich Maria Remarque's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "erich-maria-remarque-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Erich Maria Remarque has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

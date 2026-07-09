@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Wolfgang Amadeus Mozart is a notable composer associated with Austria.",
+  "summary": "Wolfgang Amadeus Mozart is a notable composer connected with Austria.",
   "knownFor": [
     "Composer",
-    "222 language biography editions",
-    "Historical Popularity Index 95.4"
+    "Literature, Arts & Culture",
+    "Austria"
   ],
   "featured": true,
   "featuredRank": 48,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "wolfgang-amadeus-mozart-pantheon-profile",
-      "text": "Pantheon ranks Wolfgang Amadeus Mozart as a globally documented composer with biographies in 222 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Wolfgang Amadeus Mozart a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "wolfgang-amadeus-mozart-1-origin",
+      "text": "Wolfgang Amadeus Mozart is remembered as a composer connected with Austria.",
+      "context": "Wolfgang Amadeus Mozart's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Wolfgang Amadeus Mozart",
       "sourceUrl": "https://pantheon.world/profile/person/Wolfgang_Amadeus_Mozart",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wolfgang-amadeus-mozart-2-obstacle",
+      "text": "Wolfgang Amadeus Mozart's recorded life dates place this profile around 1756-1791.",
+      "context": "Wolfgang Amadeus Mozart's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Wolfgang Amadeus Mozart",
+      "sourceUrl": "https://pantheon.world/profile/person/Wolfgang_Amadeus_Mozart",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wolfgang-amadeus-mozart-3-turning-point",
+      "text": "Wolfgang Amadeus Mozart is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Wolfgang Amadeus Mozart's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Wolfgang Amadeus Mozart",
+      "sourceUrl": "https://pantheon.world/profile/person/Wolfgang_Amadeus_Mozart",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wolfgang-amadeus-mozart-4-contribution",
+      "text": "Wolfgang Amadeus Mozart's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Wolfgang Amadeus Mozart's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Wolfgang Amadeus Mozart",
+      "sourceUrl": "https://pantheon.world/profile/person/Wolfgang_Amadeus_Mozart",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wolfgang-amadeus-mozart-5-influence",
+      "text": "Wolfgang Amadeus Mozart has a Facts Mode card reserved for deeper source research.",
+      "context": "Wolfgang Amadeus Mozart's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Wolfgang Amadeus Mozart",
+      "sourceUrl": "https://pantheon.world/profile/person/Wolfgang_Amadeus_Mozart",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

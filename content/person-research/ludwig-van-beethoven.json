@@ -1,0 +1,47 @@
+{
+  "personId": "ludwig-van-beethoven",
+  "slug": "ludwig-van-beethoven",
+  "name": "Ludwig van Beethoven",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Ludwig van Beethoven",
+      "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "German composer (1770–1827)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ludwig-van-beethoven-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Ludwig van Beethoven was a German composer, conductor, and pianist."
+    },
+    {
+      "factId": "ludwig-van-beethoven-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Ludwig van Beethoven's compositions have attracted extraordinary casual and scholarly interest, and remain among the most performed in the world."
+    },
+    {
+      "factId": "ludwig-van-beethoven-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig van Beethoven is remembered as a composer connected with Germany."
+    },
+    {
+      "factId": "ludwig-van-beethoven-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig van Beethoven's recorded life dates place this profile around 1770-1827."
+    },
+    {
+      "factId": "ludwig-van-beethoven-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ludwig van Beethoven is grouped with Literature, Arts & Culture in the People Library."
+    }
+  ]
+}

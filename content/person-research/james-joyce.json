@@ -1,0 +1,46 @@
+{
+  "personId": "james-joyce",
+  "slug": "james-joyce",
+  "name": "James Joyce",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James Joyce",
+      "url": "https://pantheon.world/profile/person/James_Joyce",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-joyce-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James Joyce is remembered as a writer connected with Ireland."
+    },
+    {
+      "factId": "james-joyce-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James Joyce's recorded life dates place this profile around 1882-1941."
+    },
+    {
+      "factId": "james-joyce-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James Joyce is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "james-joyce-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James Joyce's profile connects a short Fact to a wider Ireland historical setting."
+    },
+    {
+      "factId": "james-joyce-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James Joyce has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

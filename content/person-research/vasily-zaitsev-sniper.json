@@ -1,0 +1,46 @@
+{
+  "personId": "vasily-zaitsev-sniper",
+  "slug": "vasily-zaitsev-sniper",
+  "name": "Vasily Zaitsev",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Vasily Zaitsev",
+      "url": "https://pantheon.world/profile/person/Vasily_Zaitsev_(sniper)",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "vasily-zaitsev-sniper-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Vasily Zaitsev is remembered as a military personnel connected with Russia."
+    },
+    {
+      "factId": "vasily-zaitsev-sniper-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Vasily Zaitsev's recorded life dates place this profile around 1915-1991."
+    },
+    {
+      "factId": "vasily-zaitsev-sniper-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Vasily Zaitsev is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "vasily-zaitsev-sniper-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Vasily Zaitsev's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "vasily-zaitsev-sniper-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Vasily Zaitsev has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

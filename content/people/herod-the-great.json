@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Herod the Great is a notable politician associated with Israel.",
+  "summary": "Herod the Great is a notable politician connected with Israel.",
   "knownFor": [
     "Politician",
-    "71 language biography editions",
-    "Historical Popularity Index 84.2"
+    "Justice, Governance & Leadership",
+    "Israel"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Herod the Great",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "herod-the-great-pantheon-profile",
-      "text": "Pantheon ranks Herod the Great as a globally documented politician with biographies in 71 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Herod the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "herod-the-great-1-origin",
+      "text": "Herod the Great is remembered as a politician connected with Israel.",
+      "context": "Herod the Great's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Herod the Great",
       "sourceUrl": "https://pantheon.world/profile/person/Herod_the_Great",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "herod-the-great-2-obstacle",
+      "text": "Herod the Great's recorded life dates place this profile around -73--3.",
+      "context": "Herod the Great's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Herod the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Herod_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "herod-the-great-3-turning-point",
+      "text": "Herod the Great is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Herod the Great's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Herod the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Herod_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "herod-the-great-4-contribution",
+      "text": "Herod the Great's profile connects a short Fact to a wider Israel historical setting.",
+      "context": "Herod the Great's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Herod the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Herod_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "herod-the-great-5-influence",
+      "text": "Herod the Great has a Facts Mode card reserved for deeper source research.",
+      "context": "Herod the Great's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Herod the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Herod_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

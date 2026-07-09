@@ -1,0 +1,46 @@
+{
+  "personId": "peter-the-great",
+  "slug": "peter-the-great",
+  "name": "Peter the Great",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Peter the Great",
+      "url": "https://pantheon.world/profile/person/Peter_the_Great",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "peter-the-great-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Peter the Great is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "peter-the-great-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Peter the Great's recorded life dates place this profile around 1672-1725."
+    },
+    {
+      "factId": "peter-the-great-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Peter the Great is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "peter-the-great-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Peter the Great's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "peter-the-great-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Peter the Great has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

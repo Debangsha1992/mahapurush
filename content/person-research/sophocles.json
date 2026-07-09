@@ -1,0 +1,47 @@
+{
+  "personId": "sophocles",
+  "slug": "sophocles",
+  "name": "Sophocles",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Sophocles",
+      "url": "https://en.wikipedia.org/wiki/Sophocles",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "5th-century BC Athenian tragic playwright"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "sophocles-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Sophocles was an ancient Greek tragedian, one of three from whom at least two plays have survived in full."
+    },
+    {
+      "factId": "sophocles-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Sophocles's first plays were written later than, or contemporary with, those of Aeschylus and earlier than, or contemporary with, those of Euripides."
+    },
+    {
+      "factId": "sophocles-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Sophocles wrote more than 120 plays, but only seven have survived in a complete form: Ajax, Antigone, Women of Trachis, Oedipus Rex, Electra, Philoctetes, and Oedipus at Colonus."
+    },
+    {
+      "factId": "sophocles-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "For almost 50 years, Sophocles was the most celebrated playwright in the dramatic competitions of the city-state of Athens, which took place during the religious festivals of the Lenaea and the Dionysia."
+    },
+    {
+      "factId": "sophocles-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "verified",
+      "text": "Sophocles competed in 30 competitions, won 24, and was never judged lower than second place."
+    }
+  ]
+}

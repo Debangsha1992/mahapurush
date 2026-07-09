@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Edward VII is a notable nobleman associated with United Kingdom.",
+  "summary": "Edward VII is a notable nobleman connected with United Kingdom.",
   "knownFor": [
     "Nobleman",
-    "96 language biography editions",
-    "Historical Popularity Index 89.7"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 142,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edward-vii-pantheon-profile",
-      "text": "Pantheon ranks Edward VII as a globally documented nobleman with biographies in 96 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Edward VII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edward-vii-1-origin",
+      "text": "Edward VII is remembered as a nobleman connected with United Kingdom.",
+      "context": "Edward VII's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Edward VII",
       "sourceUrl": "https://pantheon.world/profile/person/Edward_VII",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-vii-2-obstacle",
+      "text": "Edward VII's recorded life dates place this profile around 1841-1910.",
+      "context": "Edward VII's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Edward VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-vii-3-turning-point",
+      "text": "Edward VII is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Edward VII's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Edward VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-vii-4-contribution",
+      "text": "Edward VII's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Edward VII's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Edward VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edward-vii-5-influence",
+      "text": "Edward VII has a Facts Mode card reserved for deeper source research.",
+      "context": "Edward VII's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Edward VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Edward_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

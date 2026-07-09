@@ -1,0 +1,46 @@
+{
+  "personId": "umberto-eco",
+  "slug": "umberto-eco",
+  "name": "Umberto Eco",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Umberto Eco",
+      "url": "https://pantheon.world/profile/person/Umberto_Eco",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "umberto-eco-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Umberto Eco is remembered as a writer connected with Italy."
+    },
+    {
+      "factId": "umberto-eco-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Umberto Eco's recorded life dates place this profile around 1932-2016."
+    },
+    {
+      "factId": "umberto-eco-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Umberto Eco is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "umberto-eco-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Umberto Eco's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "umberto-eco-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Umberto Eco has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

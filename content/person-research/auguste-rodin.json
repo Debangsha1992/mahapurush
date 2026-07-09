@@ -1,0 +1,46 @@
+{
+  "personId": "auguste-rodin",
+  "slug": "auguste-rodin",
+  "name": "Auguste Rodin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Auguste Rodin",
+      "url": "https://pantheon.world/profile/person/Auguste_Rodin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "auguste-rodin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Auguste Rodin is remembered as a sculptor connected with France."
+    },
+    {
+      "factId": "auguste-rodin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Auguste Rodin's recorded life dates place this profile around 1840-1917."
+    },
+    {
+      "factId": "auguste-rodin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Auguste Rodin is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "auguste-rodin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Auguste Rodin's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "auguste-rodin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Auguste Rodin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

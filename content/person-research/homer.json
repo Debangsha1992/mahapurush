@@ -1,0 +1,47 @@
+{
+  "personId": "homer",
+  "slug": "homer",
+  "name": "Homer",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Homer",
+      "url": "https://en.wikipedia.org/wiki/Homer",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Ancient Greek poet"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "homer-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Homer was an ancient Greek poet who is widely credited as the author of the Iliad and the Odyssey, two epic poems that are foundational works of ancient Greek literature."
+    },
+    {
+      "factId": "homer-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Although his life and authorship remain obscure, Homer was highly revered in ancient Greek society and is considered one of the most influential authors in history."
+    },
+    {
+      "factId": "homer-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Homer is remembered as a writer connected with Greece."
+    },
+    {
+      "factId": "homer-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Homer's recorded life dates place this profile around -800--750."
+    },
+    {
+      "factId": "homer-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Homer is grouped with Literature, Arts & Culture in the People Library."
+    }
+  ]
+}

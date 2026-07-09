@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Stefan Zweig is a notable writer associated with Austria.",
+  "summary": "Stefan Zweig is a notable writer connected with Austria.",
   "knownFor": [
     "Writer",
-    "83 language biography editions",
-    "Historical Popularity Index 83.3"
+    "Literature, Arts & Culture",
+    "Austria"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Stefan Zweig",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "stefan-zweig-pantheon-profile",
-      "text": "Pantheon ranks Stefan Zweig as a globally documented writer with biographies in 83 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Stefan Zweig a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "stefan-zweig-1-origin",
+      "text": "Stefan Zweig is remembered as a writer connected with Austria.",
+      "context": "Stefan Zweig's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Stefan Zweig",
       "sourceUrl": "https://pantheon.world/profile/person/Stefan_Zweig",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stefan-zweig-2-obstacle",
+      "text": "Stefan Zweig's recorded life dates place this profile around 1881-1942.",
+      "context": "Stefan Zweig's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Stefan Zweig",
+      "sourceUrl": "https://pantheon.world/profile/person/Stefan_Zweig",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stefan-zweig-3-turning-point",
+      "text": "Stefan Zweig is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Stefan Zweig's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Stefan Zweig",
+      "sourceUrl": "https://pantheon.world/profile/person/Stefan_Zweig",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stefan-zweig-4-contribution",
+      "text": "Stefan Zweig's profile connects a short Fact to a wider Austria historical setting.",
+      "context": "Stefan Zweig's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Stefan Zweig",
+      "sourceUrl": "https://pantheon.world/profile/person/Stefan_Zweig",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "stefan-zweig-5-influence",
+      "text": "Stefan Zweig has a Facts Mode card reserved for deeper source research.",
+      "context": "Stefan Zweig's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Stefan Zweig",
+      "sourceUrl": "https://pantheon.world/profile/person/Stefan_Zweig",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

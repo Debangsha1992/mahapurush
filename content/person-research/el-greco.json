@@ -1,0 +1,46 @@
+{
+  "personId": "el-greco",
+  "slug": "el-greco",
+  "name": "El Greco",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: El Greco",
+      "url": "https://pantheon.world/profile/person/El_Greco",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "el-greco-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "El Greco is remembered as a painter connected with Greece."
+    },
+    {
+      "factId": "el-greco-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "El Greco's recorded life dates place this profile around 1541-1614."
+    },
+    {
+      "factId": "el-greco-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "El Greco is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "el-greco-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "El Greco's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "el-greco-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "El Greco has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

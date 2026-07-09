@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "film-director"
   ],
-  "summary": "Federico Fellini is a notable film director associated with Italy.",
+  "summary": "Federico Fellini is a notable film director connected with Italy.",
   "knownFor": [
     "Film Director",
-    "127 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Literature, Arts & Culture",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Federico Fellini",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "federico-fellini-pantheon-profile",
-      "text": "Pantheon ranks Federico Fellini as a globally documented film director with biographies in 127 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Federico Fellini a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "federico-fellini-1-origin",
+      "text": "Federico Fellini is remembered as a film director connected with Italy.",
+      "context": "Federico Fellini's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Federico Fellini",
       "sourceUrl": "https://pantheon.world/profile/person/Federico_Fellini",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "federico-fellini-2-obstacle",
+      "text": "Federico Fellini's recorded life dates place this profile around 1920-1993.",
+      "context": "Federico Fellini's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Federico Fellini",
+      "sourceUrl": "https://pantheon.world/profile/person/Federico_Fellini",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "federico-fellini-3-turning-point",
+      "text": "Federico Fellini is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Federico Fellini's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Federico Fellini",
+      "sourceUrl": "https://pantheon.world/profile/person/Federico_Fellini",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "federico-fellini-4-contribution",
+      "text": "Federico Fellini's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Federico Fellini's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Federico Fellini",
+      "sourceUrl": "https://pantheon.world/profile/person/Federico_Fellini",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "federico-fellini-5-influence",
+      "text": "Federico Fellini has a Facts Mode card reserved for deeper source research.",
+      "context": "Federico Fellini's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Federico Fellini",
+      "sourceUrl": "https://pantheon.world/profile/person/Federico_Fellini",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

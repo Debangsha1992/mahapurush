@@ -1,0 +1,47 @@
+{
+  "personId": "fatimah",
+  "slug": "fatimah",
+  "name": "Fatimah",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Fatima",
+      "url": "https://en.wikipedia.org/wiki/Fatima",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Daughter of Muhammad (died 632)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "fatimah-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Fatimah is often viewed as an ultimate archetype for Muslim women and an example of compassion, generosity, and enduring suffering."
+    },
+    {
+      "factId": "fatimah-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Fatimah is remembered as a companion connected with Saudi Arabia."
+    },
+    {
+      "factId": "fatimah-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Fatimah's recorded life dates place this profile around 604-632."
+    },
+    {
+      "factId": "fatimah-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Fatimah is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "fatimah-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Fatimah's profile connects a short Fact to a wider Saudi Arabia historical setting."
+    }
+  ]
+}

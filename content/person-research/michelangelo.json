@@ -1,0 +1,47 @@
+{
+  "personId": "michelangelo",
+  "slug": "michelangelo",
+  "name": "Michelangelo",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Michelangelo",
+      "url": "https://en.wikipedia.org/wiki/Michelangelo",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Italian artist and architect (1475–1564)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "michelangelo-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Michelangelo di Lodovico Buonarroti Simoni, known mononymously as Michelangelo, was an Italian sculptor, painter, architect, and poet of the High Renaissance."
+    },
+    {
+      "factId": "michelangelo-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Michelangelo was born in the Republic of Florence but was mostly active in Rome from his 30s onwards."
+    },
+    {
+      "factId": "michelangelo-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Michelangelo's work was inspired by models from classical antiquity and had a lasting influence on Western art."
+    },
+    {
+      "factId": "michelangelo-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Michelangelo's creative abilities and mastery in a range of artistic arenas define him as an archetypal Renaissance man, along with his rival and elder contemporary, Leonardo da Vinci."
+    },
+    {
+      "factId": "michelangelo-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "verified",
+      "text": "Given the sheer volume of surviving correspondence, sketches, and reminiscences, Michelangelo is one of the best-documented artists of the 16th century."
+    }
+  ]
+}

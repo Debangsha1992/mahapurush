@@ -1,0 +1,46 @@
+{
+  "personId": "richard-i-of-england",
+  "slug": "richard-i-of-england",
+  "name": "Richard I of England",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Richard I of England",
+      "url": "https://pantheon.world/profile/person/Richard_I_of_England",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "richard-i-of-england-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Richard I of England is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "richard-i-of-england-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Richard I of England's recorded life dates place this profile around 1157-1199."
+    },
+    {
+      "factId": "richard-i-of-england-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Richard I of England is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "richard-i-of-england-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Richard I of England's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "richard-i-of-england-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Richard I of England has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

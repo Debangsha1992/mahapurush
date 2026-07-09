@@ -1,0 +1,46 @@
+{
+  "personId": "jacob-bernoulli",
+  "slug": "jacob-bernoulli",
+  "name": "Jacob Bernoulli",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jacob Bernoulli",
+      "url": "https://pantheon.world/profile/person/Jacob_Bernoulli",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jacob-bernoulli-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jacob Bernoulli is remembered as a mathematician connected with Switzerland."
+    },
+    {
+      "factId": "jacob-bernoulli-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jacob Bernoulli's recorded life dates place this profile around 1654-1705."
+    },
+    {
+      "factId": "jacob-bernoulli-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jacob Bernoulli is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "jacob-bernoulli-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jacob Bernoulli's profile connects a short Fact to a wider Switzerland historical setting."
+    },
+    {
+      "factId": "jacob-bernoulli-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jacob Bernoulli has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

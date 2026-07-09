@@ -1,0 +1,46 @@
+{
+  "personId": "tom-jones-singer",
+  "slug": "tom-jones-singer",
+  "name": "Tom Jones",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Tom Jones",
+      "url": "https://pantheon.world/profile/person/Tom_Jones_(singer)",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "tom-jones-singer-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Tom Jones is remembered as a singer connected with United Kingdom."
+    },
+    {
+      "factId": "tom-jones-singer-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Tom Jones's recorded life dates place this profile around born 1940."
+    },
+    {
+      "factId": "tom-jones-singer-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Tom Jones is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "tom-jones-singer-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Tom Jones's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "tom-jones-singer-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Tom Jones has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

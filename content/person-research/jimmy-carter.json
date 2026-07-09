@@ -1,0 +1,47 @@
+{
+  "personId": "jimmy-carter",
+  "slug": "jimmy-carter",
+  "name": "Jimmy Carter",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Jimmy Carter",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "President of the United States from 1977 to 1981"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jimmy-carter-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "James Earl Jimmy Carter Jr. was an American politician and humanitarian who served as the 39th president of the United States from 1977 to 1981."
+    },
+    {
+      "factId": "jimmy-carter-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "A member of the Democratic Party, Jimmy Carter served as the 76th governor of Georgia from 1971 to 1975 and in the Georgia State Senate from 1963 to 1967."
+    },
+    {
+      "factId": "jimmy-carter-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Jimmy Carter lived longer than any other president in US history, reaching age 100."
+    },
+    {
+      "factId": "jimmy-carter-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jimmy Carter is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "jimmy-carter-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jimmy Carter's recorded life dates place this profile around 1924-2024."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Winston Churchill is a notable politician associated with United Kingdom.",
+  "summary": "Winston Churchill is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "180 language biography editions",
-    "Historical Popularity Index 88.8"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 185,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "winston-churchill-pantheon-profile",
-      "text": "Pantheon ranks Winston Churchill as a globally documented politician with biographies in 180 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Winston Churchill a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "winston-churchill-1-origin",
+      "text": "Winston Churchill is remembered as a politician connected with United Kingdom.",
+      "context": "Winston Churchill's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Winston Churchill",
       "sourceUrl": "https://pantheon.world/profile/person/Winston_Churchill",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "winston-churchill-2-obstacle",
+      "text": "Winston Churchill's recorded life dates place this profile around 1874-1965.",
+      "context": "Winston Churchill's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Winston Churchill",
+      "sourceUrl": "https://pantheon.world/profile/person/Winston_Churchill",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "winston-churchill-3-turning-point",
+      "text": "Winston Churchill is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Winston Churchill's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Winston Churchill",
+      "sourceUrl": "https://pantheon.world/profile/person/Winston_Churchill",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "winston-churchill-4-contribution",
+      "text": "Winston Churchill's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Winston Churchill's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Winston Churchill",
+      "sourceUrl": "https://pantheon.world/profile/person/Winston_Churchill",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "winston-churchill-5-influence",
+      "text": "Winston Churchill has a Facts Mode card reserved for deeper source research.",
+      "context": "Winston Churchill's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Winston Churchill",
+      "sourceUrl": "https://pantheon.world/profile/person/Winston_Churchill",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

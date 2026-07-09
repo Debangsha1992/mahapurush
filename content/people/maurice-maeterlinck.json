@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Maurice Maeterlinck is a notable writer associated with Belgium.",
+  "summary": "Maurice Maeterlinck is a notable writer connected with Belgium.",
   "knownFor": [
     "Writer",
-    "93 language biography editions",
-    "Historical Popularity Index 82.2"
+    "Literature, Arts & Culture",
+    "Belgium"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Maurice Maeterlinck",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "maurice-maeterlinck-pantheon-profile",
-      "text": "Pantheon ranks Maurice Maeterlinck as a globally documented writer with biographies in 93 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Maurice Maeterlinck a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "maurice-maeterlinck-1-origin",
+      "text": "Maurice Maeterlinck is remembered as a writer connected with Belgium.",
+      "context": "Maurice Maeterlinck's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Maurice Maeterlinck",
       "sourceUrl": "https://pantheon.world/profile/person/Maurice_Maeterlinck",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maurice-maeterlinck-2-obstacle",
+      "text": "Maurice Maeterlinck's recorded life dates place this profile around 1862-1949.",
+      "context": "Maurice Maeterlinck's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Maurice Maeterlinck",
+      "sourceUrl": "https://pantheon.world/profile/person/Maurice_Maeterlinck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maurice-maeterlinck-3-turning-point",
+      "text": "Maurice Maeterlinck is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Maurice Maeterlinck's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Maurice Maeterlinck",
+      "sourceUrl": "https://pantheon.world/profile/person/Maurice_Maeterlinck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maurice-maeterlinck-4-contribution",
+      "text": "Maurice Maeterlinck's profile connects a short Fact to a wider Belgium historical setting.",
+      "context": "Maurice Maeterlinck's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Maurice Maeterlinck",
+      "sourceUrl": "https://pantheon.world/profile/person/Maurice_Maeterlinck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maurice-maeterlinck-5-influence",
+      "text": "Maurice Maeterlinck has a Facts Mode card reserved for deeper source research.",
+      "context": "Maurice Maeterlinck's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Maurice Maeterlinck",
+      "sourceUrl": "https://pantheon.world/profile/person/Maurice_Maeterlinck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

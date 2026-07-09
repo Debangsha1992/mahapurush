@@ -1,0 +1,46 @@
+{
+  "personId": "joseph-haydn",
+  "slug": "joseph-haydn",
+  "name": "Joseph Haydn",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Joseph Haydn",
+      "url": "https://pantheon.world/profile/person/Joseph_Haydn",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "joseph-haydn-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Joseph Haydn is remembered as a composer connected with Austria."
+    },
+    {
+      "factId": "joseph-haydn-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Joseph Haydn's recorded life dates place this profile around 1732-1809."
+    },
+    {
+      "factId": "joseph-haydn-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Joseph Haydn is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "joseph-haydn-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Joseph Haydn's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "joseph-haydn-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Joseph Haydn has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

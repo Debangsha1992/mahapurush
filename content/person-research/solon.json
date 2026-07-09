@@ -1,0 +1,46 @@
+{
+  "personId": "solon",
+  "slug": "solon",
+  "name": "Solon",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Solon",
+      "url": "https://pantheon.world/profile/person/Solon",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "solon-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Solon is remembered as a politician connected with Greece."
+    },
+    {
+      "factId": "solon-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Solon's recorded life dates place this profile around -638--558."
+    },
+    {
+      "factId": "solon-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Solon is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "solon-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Solon's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "solon-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Solon has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

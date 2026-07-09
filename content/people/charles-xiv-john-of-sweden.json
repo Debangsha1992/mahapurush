@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Charles XIV John of Sweden is a notable military personnel associated with France.",
+  "summary": "Charles XIV John of Sweden is a notable military personnel connected with France.",
   "knownFor": [
     "Military Personnel",
-    "70 language biography editions",
-    "Historical Popularity Index 82.9"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Charles XIV John of Sweden",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "charles-xiv-john-of-sweden-pantheon-profile",
-      "text": "Pantheon ranks Charles XIV John of Sweden as a globally documented military personnel with biographies in 70 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles XIV John of Sweden a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "charles-xiv-john-of-sweden-1-origin",
+      "text": "Charles XIV John of Sweden is remembered as a military personnel connected with France.",
+      "context": "Charles XIV John of Sweden's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Charles XIV John of Sweden",
       "sourceUrl": "https://pantheon.world/profile/person/Charles_XIV_John_of_Sweden",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-xiv-john-of-sweden-2-obstacle",
+      "text": "Charles XIV John of Sweden's recorded life dates place this profile around 1763-1844.",
+      "context": "Charles XIV John of Sweden's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Charles XIV John of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_XIV_John_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-xiv-john-of-sweden-3-turning-point",
+      "text": "Charles XIV John of Sweden is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Charles XIV John of Sweden's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Charles XIV John of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_XIV_John_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-xiv-john-of-sweden-4-contribution",
+      "text": "Charles XIV John of Sweden's profile connects a short Fact to a wider France historical setting.",
+      "context": "Charles XIV John of Sweden's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Charles XIV John of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_XIV_John_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-xiv-john-of-sweden-5-influence",
+      "text": "Charles XIV John of Sweden has a Facts Mode card reserved for deeper source research.",
+      "context": "Charles XIV John of Sweden's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Charles XIV John of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_XIV_John_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

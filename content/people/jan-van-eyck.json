@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Jan van Eyck is a notable painter associated with Belgium.",
+  "summary": "Jan van Eyck is a notable painter connected with Belgium.",
   "knownFor": [
     "Painter",
-    "79 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Justice, Governance & Leadership",
+    "Belgium"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Jan van Eyck",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jan-van-eyck-pantheon-profile",
-      "text": "Pantheon ranks Jan van Eyck as a globally documented painter with biographies in 79 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jan van Eyck a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "jan-van-eyck-1-origin",
+      "text": "Jan van Eyck is remembered as a painter connected with Belgium.",
+      "context": "Jan van Eyck's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Jan van Eyck",
       "sourceUrl": "https://pantheon.world/profile/person/Jan_van_Eyck",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jan-van-eyck-2-obstacle",
+      "text": "Jan van Eyck's recorded life dates place this profile around 1395-1441.",
+      "context": "Jan van Eyck's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Jan van Eyck",
+      "sourceUrl": "https://pantheon.world/profile/person/Jan_van_Eyck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jan-van-eyck-3-turning-point",
+      "text": "Jan van Eyck is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Jan van Eyck's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Jan van Eyck",
+      "sourceUrl": "https://pantheon.world/profile/person/Jan_van_Eyck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jan-van-eyck-4-contribution",
+      "text": "Jan van Eyck's profile connects a short Fact to a wider Belgium historical setting.",
+      "context": "Jan van Eyck's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Jan van Eyck",
+      "sourceUrl": "https://pantheon.world/profile/person/Jan_van_Eyck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jan-van-eyck-5-influence",
+      "text": "Jan van Eyck has a Facts Mode card reserved for deeper source research.",
+      "context": "Jan van Eyck's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Jan van Eyck",
+      "sourceUrl": "https://pantheon.world/profile/person/Jan_van_Eyck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

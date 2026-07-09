@@ -12,35 +12,103 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Jimmy Carter is a notable politician associated with United States.",
+  "summary": "James Earl Carter Jr. was an American politician and humanitarian who served as the 39th president of the United States from 1977 to 1981.",
   "knownFor": [
     "Politician",
-    "164 language biography editions",
-    "Historical Popularity Index 93.9"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 54,
   "imageAlt": "Portrait-style visual for Jimmy Carter",
   "sourceRefs": [
     {
-      "title": "Pantheon: Jimmy Carter",
-      "url": "https://pantheon.world/profile/person/Jimmy_Carter",
+      "title": "Wikipedia: Jimmy Carter",
+      "url": "https://en.wikipedia.org/wiki/Jimmy_Carter",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jimmy-carter-pantheon-profile",
-      "text": "Pantheon ranks Jimmy Carter as a globally documented politician with biographies in 164 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jimmy Carter a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Jimmy Carter",
-      "sourceUrl": "https://pantheon.world/profile/person/Jimmy_Carter",
+      "id": "jimmy-carter-1-origin",
+      "text": "James Earl Jimmy Carter Jr. was an American politician and humanitarian who served as the 39th president of the United States from 1977 to 1981.",
+      "context": "Jimmy Carter's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Jimmy Carter",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jimmy_Carter",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jimmy-carter-2-obstacle",
+      "text": "A member of the Democratic Party, Jimmy Carter served as the 76th governor of Georgia from 1971 to 1975 and in the Georgia State Senate from 1963 to 1967.",
+      "context": "Jimmy Carter's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Jimmy Carter",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jimmy-carter-3-turning-point",
+      "text": "Jimmy Carter lived longer than any other president in US history, reaching age 100.",
+      "context": "Jimmy Carter's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Jimmy Carter",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jimmy-carter-4-contribution",
+      "text": "Jimmy Carter is remembered as a politician connected with United States.",
+      "context": "Jimmy Carter's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Jimmy Carter",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jimmy-carter-5-influence",
+      "text": "Jimmy Carter's recorded life dates place this profile around 1924-2024.",
+      "context": "Jimmy Carter's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Jimmy Carter",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

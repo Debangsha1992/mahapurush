@@ -1,0 +1,46 @@
+{
+  "personId": "pope-john-paul-i",
+  "slug": "pope-john-paul-i",
+  "name": "Pope John Paul I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope John Paul I",
+      "url": "https://pantheon.world/profile/person/Pope_John_Paul_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-john-paul-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope John Paul I is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-john-paul-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope John Paul I's recorded life dates place this profile around 1912-1978."
+    },
+    {
+      "factId": "pope-john-paul-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope John Paul I is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-john-paul-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope John Paul I's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-john-paul-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope John Paul I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

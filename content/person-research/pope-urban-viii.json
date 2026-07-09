@@ -1,0 +1,46 @@
+{
+  "personId": "pope-urban-viii",
+  "slug": "pope-urban-viii",
+  "name": "Pope Urban VIII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Urban VIII",
+      "url": "https://pantheon.world/profile/person/Pope_Urban_VIII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-urban-viii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban VIII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-urban-viii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban VIII's recorded life dates place this profile around 1568-1644."
+    },
+    {
+      "factId": "pope-urban-viii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban VIII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-urban-viii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban VIII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-urban-viii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban VIII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

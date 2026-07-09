@@ -1,0 +1,46 @@
+{
+  "personId": "thomas-jefferson",
+  "slug": "thomas-jefferson",
+  "name": "Thomas Jefferson",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Thomas Jefferson",
+      "url": "https://pantheon.world/profile/person/Thomas_Jefferson",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "thomas-jefferson-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Jefferson is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "thomas-jefferson-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Jefferson's recorded life dates place this profile around 1743-1826."
+    },
+    {
+      "factId": "thomas-jefferson-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Jefferson is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "thomas-jefferson-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Jefferson's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "thomas-jefferson-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Thomas Jefferson has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

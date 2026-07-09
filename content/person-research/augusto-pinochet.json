@@ -1,0 +1,46 @@
+{
+  "personId": "augusto-pinochet",
+  "slug": "augusto-pinochet",
+  "name": "Augusto Pinochet",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Augusto Pinochet",
+      "url": "https://pantheon.world/profile/person/Augusto_Pinochet",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "augusto-pinochet-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Augusto Pinochet is remembered as a politician connected with Chile."
+    },
+    {
+      "factId": "augusto-pinochet-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Augusto Pinochet's recorded life dates place this profile around 1915-2006."
+    },
+    {
+      "factId": "augusto-pinochet-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Augusto Pinochet is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "augusto-pinochet-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Augusto Pinochet's profile connects a short Fact to a wider Chile historical setting."
+    },
+    {
+      "factId": "augusto-pinochet-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Augusto Pinochet has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

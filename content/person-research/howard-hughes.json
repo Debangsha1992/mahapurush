@@ -1,0 +1,46 @@
+{
+  "personId": "howard-hughes",
+  "slug": "howard-hughes",
+  "name": "Howard Hughes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Howard Hughes",
+      "url": "https://pantheon.world/profile/person/Howard_Hughes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "howard-hughes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Howard Hughes is remembered as a businessperson connected with United States."
+    },
+    {
+      "factId": "howard-hughes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Howard Hughes's recorded life dates place this profile around 1905-1976."
+    },
+    {
+      "factId": "howard-hughes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Howard Hughes is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "howard-hughes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Howard Hughes's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "howard-hughes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Howard Hughes has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

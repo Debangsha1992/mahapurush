@@ -1,0 +1,47 @@
+{
+  "personId": "ronald-reagan",
+  "slug": "ronald-reagan",
+  "name": "Ronald Reagan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Ronald Reagan",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "President of the United States from 1981 to 1989"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ronald-reagan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Ronald Wilson Ronald Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989."
+    },
+    {
+      "factId": "ronald-reagan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "The period encompassing his presidency is known as the Ronald Reagan era."
+    },
+    {
+      "factId": "ronald-reagan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ronald Reagan is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "ronald-reagan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ronald Reagan's recorded life dates place this profile around 1911-2004."
+    },
+    {
+      "factId": "ronald-reagan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ronald Reagan is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

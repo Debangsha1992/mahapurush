@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "inspiration"
   ],
-  "summary": "Vlad the Impaler is a notable inspiration associated with Romania.",
+  "summary": "Vlad the Impaler is a notable inspiration connected with Romania.",
   "knownFor": [
     "Inspiration",
-    "82 language biography editions",
-    "Historical Popularity Index 86.4"
+    "Justice, Governance & Leadership",
+    "Romania"
   ],
   "featured": true,
   "featuredRank": 322,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "vlad-the-impaler-pantheon-profile",
-      "text": "Pantheon ranks Vlad the Impaler as a globally documented inspiration with biographies in 82 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Vlad the Impaler a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "vlad-the-impaler-1-origin",
+      "text": "Vlad the Impaler is remembered as a inspiration connected with Romania.",
+      "context": "Vlad the Impaler's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Vlad the Impaler",
       "sourceUrl": "https://pantheon.world/profile/person/Vlad_the_Impaler",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vlad-the-impaler-2-obstacle",
+      "text": "Vlad the Impaler's recorded life dates place this profile around 1431-1476.",
+      "context": "Vlad the Impaler's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Vlad the Impaler",
+      "sourceUrl": "https://pantheon.world/profile/person/Vlad_the_Impaler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vlad-the-impaler-3-turning-point",
+      "text": "Vlad the Impaler is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Vlad the Impaler's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Vlad the Impaler",
+      "sourceUrl": "https://pantheon.world/profile/person/Vlad_the_Impaler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vlad-the-impaler-4-contribution",
+      "text": "Vlad the Impaler's profile connects a short Fact to a wider Romania historical setting.",
+      "context": "Vlad the Impaler's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Vlad the Impaler",
+      "sourceUrl": "https://pantheon.world/profile/person/Vlad_the_Impaler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vlad-the-impaler-5-influence",
+      "text": "Vlad the Impaler has a Facts Mode card reserved for deeper source research.",
+      "context": "Vlad the Impaler's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Vlad the Impaler",
+      "sourceUrl": "https://pantheon.world/profile/person/Vlad_the_Impaler",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

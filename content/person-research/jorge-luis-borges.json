@@ -1,0 +1,46 @@
+{
+  "personId": "jorge-luis-borges",
+  "slug": "jorge-luis-borges",
+  "name": "Jorge Luis Borges",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jorge Luis Borges",
+      "url": "https://pantheon.world/profile/person/Jorge_Luis_Borges",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jorge-luis-borges-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jorge Luis Borges is remembered as a writer connected with Argentina."
+    },
+    {
+      "factId": "jorge-luis-borges-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jorge Luis Borges's recorded life dates place this profile around 1899-1986."
+    },
+    {
+      "factId": "jorge-luis-borges-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jorge Luis Borges is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "jorge-luis-borges-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jorge Luis Borges's profile connects a short Fact to a wider Argentina historical setting."
+    },
+    {
+      "factId": "jorge-luis-borges-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jorge Luis Borges has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

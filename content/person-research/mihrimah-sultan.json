@@ -1,0 +1,46 @@
+{
+  "personId": "mihrimah-sultan",
+  "slug": "mihrimah-sultan",
+  "name": "Mihrimah Sultan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Mihrimah Sultan",
+      "url": "https://pantheon.world/profile/person/Mihrimah_Sultan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "mihrimah-sultan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Mihrimah Sultan is remembered as a companion connected with Türkiye."
+    },
+    {
+      "factId": "mihrimah-sultan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Mihrimah Sultan's recorded life dates place this profile around 1522-1578."
+    },
+    {
+      "factId": "mihrimah-sultan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Mihrimah Sultan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "mihrimah-sultan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Mihrimah Sultan's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "mihrimah-sultan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Mihrimah Sultan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

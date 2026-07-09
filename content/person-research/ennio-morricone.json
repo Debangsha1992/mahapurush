@@ -1,0 +1,46 @@
+{
+  "personId": "ennio-morricone",
+  "slug": "ennio-morricone",
+  "name": "Ennio Morricone",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ennio Morricone",
+      "url": "https://pantheon.world/profile/person/Ennio_Morricone",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ennio-morricone-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ennio Morricone is remembered as a composer connected with Italy."
+    },
+    {
+      "factId": "ennio-morricone-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ennio Morricone's recorded life dates place this profile around 1928-2020."
+    },
+    {
+      "factId": "ennio-morricone-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ennio Morricone is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "ennio-morricone-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ennio Morricone's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "ennio-morricone-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ennio Morricone has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

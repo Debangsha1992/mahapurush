@@ -1,0 +1,46 @@
+{
+  "personId": "giacomo-puccini",
+  "slug": "giacomo-puccini",
+  "name": "Giacomo Puccini",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Giacomo Puccini",
+      "url": "https://pantheon.world/profile/person/Giacomo_Puccini",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "giacomo-puccini-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Giacomo Puccini is remembered as a composer connected with Italy."
+    },
+    {
+      "factId": "giacomo-puccini-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Giacomo Puccini's recorded life dates place this profile around 1858-1924."
+    },
+    {
+      "factId": "giacomo-puccini-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Giacomo Puccini is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "giacomo-puccini-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Giacomo Puccini's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "giacomo-puccini-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Giacomo Puccini has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

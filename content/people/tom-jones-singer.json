@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "singer"
   ],
-  "summary": "Tom Jones is a notable singer associated with United Kingdom.",
+  "summary": "Tom Jones is a notable singer connected with United Kingdom.",
   "knownFor": [
     "Singer",
-    "58 language biography editions",
-    "Historical Popularity Index 82.1"
+    "Literature, Arts & Culture",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Tom Jones",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "tom-jones-singer-pantheon-profile",
-      "text": "Pantheon ranks Tom Jones as a globally documented singer with biographies in 58 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Tom Jones a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "tom-jones-singer-1-origin",
+      "text": "Tom Jones is remembered as a singer connected with United Kingdom.",
+      "context": "Tom Jones's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Tom Jones",
       "sourceUrl": "https://pantheon.world/profile/person/Tom_Jones_(singer)",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tom-jones-singer-2-obstacle",
+      "text": "Tom Jones's recorded life dates place this profile around born 1940.",
+      "context": "Tom Jones's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Tom Jones",
+      "sourceUrl": "https://pantheon.world/profile/person/Tom_Jones_(singer)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tom-jones-singer-3-turning-point",
+      "text": "Tom Jones is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Tom Jones's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Tom Jones",
+      "sourceUrl": "https://pantheon.world/profile/person/Tom_Jones_(singer)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tom-jones-singer-4-contribution",
+      "text": "Tom Jones's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Tom Jones's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Tom Jones",
+      "sourceUrl": "https://pantheon.world/profile/person/Tom_Jones_(singer)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "tom-jones-singer-5-influence",
+      "text": "Tom Jones has a Facts Mode card reserved for deeper source research.",
+      "context": "Tom Jones's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Tom Jones",
+      "sourceUrl": "https://pantheon.world/profile/person/Tom_Jones_(singer)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

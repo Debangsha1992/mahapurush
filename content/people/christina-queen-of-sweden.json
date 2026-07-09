@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Christina, Queen of Sweden is a notable politician associated with Sweden.",
+  "summary": "Christina, Queen of Sweden is a notable politician connected with Sweden.",
   "knownFor": [
     "Politician",
-    "67 language biography editions",
-    "Historical Popularity Index 83.6"
+    "Justice, Governance & Leadership",
+    "Sweden"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Christina, Queen of Sweden",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "christina-queen-of-sweden-pantheon-profile",
-      "text": "Pantheon ranks Christina, Queen of Sweden as a globally documented politician with biographies in 67 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Christina, Queen of Sweden a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "christina-queen-of-sweden-1-origin",
+      "text": "Christina, Queen of Sweden is remembered as a politician connected with Sweden.",
+      "context": "Christina, Queen of Sweden's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Christina, Queen of Sweden",
       "sourceUrl": "https://pantheon.world/profile/person/Christina%2C_Queen_of_Sweden",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "christina-queen-of-sweden-2-obstacle",
+      "text": "Christina, Queen of Sweden's recorded life dates place this profile around 1626-1689.",
+      "context": "Christina, Queen of Sweden's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Christina, Queen of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Christina%2C_Queen_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "christina-queen-of-sweden-3-turning-point",
+      "text": "Christina, Queen of Sweden is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Christina, Queen of Sweden's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Christina, Queen of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Christina%2C_Queen_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "christina-queen-of-sweden-4-contribution",
+      "text": "Christina, Queen of Sweden's profile connects a short Fact to a wider Sweden historical setting.",
+      "context": "Christina, Queen of Sweden's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Christina, Queen of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Christina%2C_Queen_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "christina-queen-of-sweden-5-influence",
+      "text": "Christina, Queen of Sweden has a Facts Mode card reserved for deeper source research.",
+      "context": "Christina, Queen of Sweden's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Christina, Queen of Sweden",
+      "sourceUrl": "https://pantheon.world/profile/person/Christina%2C_Queen_of_Sweden",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

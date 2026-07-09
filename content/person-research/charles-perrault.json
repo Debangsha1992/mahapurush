@@ -1,0 +1,46 @@
+{
+  "personId": "charles-perrault",
+  "slug": "charles-perrault",
+  "name": "Charles Perrault",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles Perrault",
+      "url": "https://pantheon.world/profile/person/Charles_Perrault",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-perrault-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles Perrault is remembered as a writer connected with France."
+    },
+    {
+      "factId": "charles-perrault-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles Perrault's recorded life dates place this profile around 1628-1703."
+    },
+    {
+      "factId": "charles-perrault-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles Perrault is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "charles-perrault-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles Perrault's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "charles-perrault-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles Perrault has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

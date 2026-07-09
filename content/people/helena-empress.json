@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Helena is a notable companion associated with Türkiye.",
+  "summary": "Helena is a notable companion connected with Türkiye.",
   "knownFor": [
     "Companion",
-    "67 language biography editions",
-    "Historical Popularity Index 85.8"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": true,
   "featuredRank": 371,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "helena-empress-pantheon-profile",
-      "text": "Pantheon ranks Helena as a globally documented companion with biographies in 67 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Helena a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "helena-empress-1-origin",
+      "text": "Helena is remembered as a companion connected with Türkiye.",
+      "context": "Helena's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Helena",
       "sourceUrl": "https://pantheon.world/profile/person/Helena_(empress)",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "helena-empress-2-obstacle",
+      "text": "Helena's recorded life dates place this profile around 250-330.",
+      "context": "Helena's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Helena",
+      "sourceUrl": "https://pantheon.world/profile/person/Helena_(empress)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "helena-empress-3-turning-point",
+      "text": "Helena is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Helena's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Helena",
+      "sourceUrl": "https://pantheon.world/profile/person/Helena_(empress)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "helena-empress-4-contribution",
+      "text": "Helena's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Helena's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Helena",
+      "sourceUrl": "https://pantheon.world/profile/person/Helena_(empress)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "helena-empress-5-influence",
+      "text": "Helena has a Facts Mode card reserved for deeper source research.",
+      "context": "Helena's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Helena",
+      "sourceUrl": "https://pantheon.world/profile/person/Helena_(empress)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

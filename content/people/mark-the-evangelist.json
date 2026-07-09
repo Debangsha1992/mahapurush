@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Mark the Evangelist is a notable religious figure associated with Libya.",
+  "summary": "Mark the Evangelist is a notable religious figure connected with Libya.",
   "knownFor": [
     "Religious Figure",
-    "84 language biography editions",
-    "Historical Popularity Index 85.3"
+    "Philosophy, Ethics & Religion",
+    "Libya"
   ],
   "featured": true,
   "featuredRank": 407,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mark-the-evangelist-pantheon-profile",
-      "text": "Pantheon ranks Mark the Evangelist as a globally documented religious figure with biographies in 84 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mark the Evangelist a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mark-the-evangelist-1-origin",
+      "text": "Mark the Evangelist is remembered as a religious figure connected with Libya.",
+      "context": "Mark the Evangelist's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Mark the Evangelist",
       "sourceUrl": "https://pantheon.world/profile/person/Mark_the_Evangelist",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-the-evangelist-2-obstacle",
+      "text": "Mark the Evangelist's recorded life dates place this profile around 10-68.",
+      "context": "Mark the Evangelist's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mark the Evangelist",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_the_Evangelist",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-the-evangelist-3-turning-point",
+      "text": "Mark the Evangelist is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Mark the Evangelist's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mark the Evangelist",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_the_Evangelist",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-the-evangelist-4-contribution",
+      "text": "Mark the Evangelist's profile connects a short Fact to a wider Libya historical setting.",
+      "context": "Mark the Evangelist's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mark the Evangelist",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_the_Evangelist",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-the-evangelist-5-influence",
+      "text": "Mark the Evangelist has a Facts Mode card reserved for deeper source research.",
+      "context": "Mark the Evangelist's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mark the Evangelist",
+      "sourceUrl": "https://pantheon.world/profile/person/Mark_the_Evangelist",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

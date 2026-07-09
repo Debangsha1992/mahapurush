@@ -1,0 +1,46 @@
+{
+  "personId": "charlemagne",
+  "slug": "charlemagne",
+  "name": "Charlemagne",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charlemagne",
+      "url": "https://pantheon.world/profile/person/Charlemagne",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charlemagne-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charlemagne is remembered as a politician connected with Germany."
+    },
+    {
+      "factId": "charlemagne-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charlemagne's recorded life dates place this profile around 748-814."
+    },
+    {
+      "factId": "charlemagne-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charlemagne is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "charlemagne-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charlemagne's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "charlemagne-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charlemagne has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

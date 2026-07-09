@@ -1,0 +1,46 @@
+{
+  "personId": "pope-paul-v",
+  "slug": "pope-paul-v",
+  "name": "Pope Paul V",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Paul V",
+      "url": "https://pantheon.world/profile/person/Pope_Paul_V",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-paul-v-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul V is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-paul-v-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul V's recorded life dates place this profile around 1552-1621."
+    },
+    {
+      "factId": "pope-paul-v-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul V is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-paul-v-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul V's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-paul-v-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul V has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

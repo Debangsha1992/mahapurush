@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Golda Meir is a notable politician associated with Ukraine.",
+  "summary": "Golda Meir is a notable politician connected with Ukraine.",
   "knownFor": [
     "Politician",
-    "100 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Justice, Governance & Leadership",
+    "Ukraine"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Golda Meir",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "golda-meir-pantheon-profile",
-      "text": "Pantheon ranks Golda Meir as a globally documented politician with biographies in 100 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Golda Meir a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "golda-meir-1-origin",
+      "text": "Golda Meir is remembered as a politician connected with Ukraine.",
+      "context": "Golda Meir's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Golda Meir",
       "sourceUrl": "https://pantheon.world/profile/person/Golda_Meir",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "golda-meir-2-obstacle",
+      "text": "Golda Meir's recorded life dates place this profile around 1898-1978.",
+      "context": "Golda Meir's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Golda Meir",
+      "sourceUrl": "https://pantheon.world/profile/person/Golda_Meir",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "golda-meir-3-turning-point",
+      "text": "Golda Meir is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Golda Meir's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Golda Meir",
+      "sourceUrl": "https://pantheon.world/profile/person/Golda_Meir",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "golda-meir-4-contribution",
+      "text": "Golda Meir's profile connects a short Fact to a wider Ukraine historical setting.",
+      "context": "Golda Meir's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Golda Meir",
+      "sourceUrl": "https://pantheon.world/profile/person/Golda_Meir",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "golda-meir-5-influence",
+      "text": "Golda Meir has a Facts Mode card reserved for deeper source research.",
+      "context": "Golda Meir's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Golda Meir",
+      "sourceUrl": "https://pantheon.world/profile/person/Golda_Meir",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

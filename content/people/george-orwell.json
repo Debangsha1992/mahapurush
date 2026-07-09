@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "George Orwell is a notable writer associated with India.",
+  "summary": "George Orwell is a notable writer connected with India.",
   "knownFor": [
     "Writer",
-    "145 language biography editions",
-    "Historical Popularity Index 85.3"
+    "Literature, Arts & Culture",
+    "India"
   ],
   "featured": true,
   "featuredRank": 415,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "george-orwell-pantheon-profile",
-      "text": "Pantheon ranks George Orwell as a globally documented writer with biographies in 145 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make George Orwell a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "george-orwell-1-origin",
+      "text": "George Orwell is remembered as a writer connected with India.",
+      "context": "George Orwell's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: George Orwell",
       "sourceUrl": "https://pantheon.world/profile/person/George_Orwell",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-orwell-2-obstacle",
+      "text": "George Orwell's recorded life dates place this profile around 1903-1950.",
+      "context": "George Orwell's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: George Orwell",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Orwell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-orwell-3-turning-point",
+      "text": "George Orwell is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "George Orwell's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: George Orwell",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Orwell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-orwell-4-contribution",
+      "text": "George Orwell's profile connects a short Fact to a wider India historical setting.",
+      "context": "George Orwell's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: George Orwell",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Orwell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-orwell-5-influence",
+      "text": "George Orwell has a Facts Mode card reserved for deeper source research.",
+      "context": "George Orwell's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: George Orwell",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Orwell",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

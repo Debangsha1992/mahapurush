@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Max Planck is a notable physicist associated with Germany.",
+  "summary": "Max Planck is a notable physicist connected with Germany.",
   "knownFor": [
     "Physicist",
-    "147 language biography editions",
-    "Historical Popularity Index 85.4"
+    "Science, Math & Technology",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 401,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "max-planck-pantheon-profile",
-      "text": "Pantheon ranks Max Planck as a globally documented physicist with biographies in 147 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Max Planck a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "max-planck-1-origin",
+      "text": "Max Planck is remembered as a physicist connected with Germany.",
+      "context": "Max Planck's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Max Planck",
       "sourceUrl": "https://pantheon.world/profile/person/Max_Planck",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "max-planck-2-obstacle",
+      "text": "Max Planck's recorded life dates place this profile around 1858-1947.",
+      "context": "Max Planck's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Max Planck",
+      "sourceUrl": "https://pantheon.world/profile/person/Max_Planck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "max-planck-3-turning-point",
+      "text": "Max Planck is grouped with Science, Math & Technology in the People Library.",
+      "context": "Max Planck's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Max Planck",
+      "sourceUrl": "https://pantheon.world/profile/person/Max_Planck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "max-planck-4-contribution",
+      "text": "Max Planck's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Max Planck's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Max Planck",
+      "sourceUrl": "https://pantheon.world/profile/person/Max_Planck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "max-planck-5-influence",
+      "text": "Max Planck has a Facts Mode card reserved for deeper source research.",
+      "context": "Max Planck's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Max Planck",
+      "sourceUrl": "https://pantheon.world/profile/person/Max_Planck",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

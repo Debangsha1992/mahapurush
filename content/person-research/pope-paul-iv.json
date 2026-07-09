@@ -1,0 +1,46 @@
+{
+  "personId": "pope-paul-iv",
+  "slug": "pope-paul-iv",
+  "name": "Pope Paul IV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Paul IV",
+      "url": "https://pantheon.world/profile/person/Pope_Paul_IV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-paul-iv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul IV is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-paul-iv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul IV's recorded life dates place this profile around 1476-1559."
+    },
+    {
+      "factId": "pope-paul-iv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul IV is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-paul-iv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul IV's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-paul-iv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Paul IV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

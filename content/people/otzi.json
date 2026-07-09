@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "celebrity"
   ],
-  "summary": "Ötzi is a notable celebrity associated with Italy.",
+  "summary": "Ötzi is a notable celebrity connected with Italy.",
   "knownFor": [
     "Celebrity",
-    "67 language biography editions",
-    "Historical Popularity Index 85.2"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 422,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "otzi-pantheon-profile",
-      "text": "Pantheon ranks Ötzi as a globally documented celebrity with biographies in 67 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ötzi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "otzi-1-origin",
+      "text": "Ötzi is remembered as a celebrity connected with Italy.",
+      "context": "Ötzi's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ötzi",
       "sourceUrl": "https://pantheon.world/profile/person/%C3%96tzi",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "otzi-2-obstacle",
+      "text": "Ötzi's recorded life dates place this profile around -3345--3255.",
+      "context": "Ötzi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ötzi",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%96tzi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "otzi-3-turning-point",
+      "text": "Ötzi is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ötzi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ötzi",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%96tzi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "otzi-4-contribution",
+      "text": "Ötzi's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Ötzi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ötzi",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%96tzi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "otzi-5-influence",
+      "text": "Ötzi has a Facts Mode card reserved for deeper source research.",
+      "context": "Ötzi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ötzi",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%96tzi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

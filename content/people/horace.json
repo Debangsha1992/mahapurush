@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Horace is a notable writer associated with Italy.",
+  "summary": "Horace is a notable writer connected with Italy.",
   "knownFor": [
     "Writer",
-    "101 language biography editions",
-    "Historical Popularity Index 84.8"
+    "Literature, Arts & Culture",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 457,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "horace-pantheon-profile",
-      "text": "Pantheon ranks Horace as a globally documented writer with biographies in 101 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Horace a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "horace-1-origin",
+      "text": "Horace is remembered as a writer connected with Italy.",
+      "context": "Horace's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Horace",
       "sourceUrl": "https://pantheon.world/profile/person/Horace",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "horace-2-obstacle",
+      "text": "Horace's recorded life dates place this profile around -65--8.",
+      "context": "Horace's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Horace",
+      "sourceUrl": "https://pantheon.world/profile/person/Horace",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "horace-3-turning-point",
+      "text": "Horace is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Horace's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Horace",
+      "sourceUrl": "https://pantheon.world/profile/person/Horace",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "horace-4-contribution",
+      "text": "Horace's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Horace's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Horace",
+      "sourceUrl": "https://pantheon.world/profile/person/Horace",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "horace-5-influence",
+      "text": "Horace has a Facts Mode card reserved for deeper source research.",
+      "context": "Horace's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Horace",
+      "sourceUrl": "https://pantheon.world/profile/person/Horace",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

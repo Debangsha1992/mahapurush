@@ -1,0 +1,46 @@
+{
+  "personId": "yuri-gagarin",
+  "slug": "yuri-gagarin",
+  "name": "Yuri Gagarin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Yuri Gagarin",
+      "url": "https://pantheon.world/profile/person/Yuri_Gagarin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "yuri-gagarin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Yuri Gagarin is remembered as a astronaut connected with Russia."
+    },
+    {
+      "factId": "yuri-gagarin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Yuri Gagarin's recorded life dates place this profile around 1934-1968."
+    },
+    {
+      "factId": "yuri-gagarin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Yuri Gagarin is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "yuri-gagarin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Yuri Gagarin's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "yuri-gagarin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Yuri Gagarin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

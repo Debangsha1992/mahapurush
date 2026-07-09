@@ -9,26 +9,117 @@
   "domains": [
     "justice-governance-leadership"
   ],
-  "summary": "Martin Luther King Jr. helped lead nonviolent civil rights campaigns against racial segregation and injustice.",
+  "summary": "Martin Luther King Jr. is a notable leader connected with United States.",
   "knownFor": [
-    "civil rights movement",
-    "nonviolent protest",
-    "I Have a Dream speech"
+    "Leader",
+    "United States"
   ],
   "facts": [
     {
-      "id": "mlk-nobel-peace-prize",
-      "text": "King received the Nobel Peace Prize in 1964 for his nonviolent struggle for civil rights.",
-      "context": "His public life shows how disciplined nonviolence can turn moral argument into organized social pressure.",
-      "sourceTitle": "Nobel Prize: Martin Luther King Jr. Facts",
+      "id": "martin-luther-king-jr-approved-01",
+      "text": "Martin Luther King Jr. was 35 when he received the Nobel Peace Prize for nonviolent civil rights leadership.",
+      "context": "King shows that moral courage can become public leadership before a person feels old enough to be ready.",
+      "sourceTitle": "The Nobel Prize: Martin Luther King Jr. Facts",
       "sourceUrl": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
-      "sourceAccessedAt": "2026-07-05",
-      "sourceDate": "1964-10-14",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "The Nobel Prize page records King's 1964 Peace Prize and his age at the time.",
       "tags": [
-        "civil-rights",
-        "peace"
+        "justice-governance-leadership"
       ],
       "verified": true
+    },
+    {
+      "id": "martin-luther-king-jr-1-origin",
+      "text": "Martin Luther King Jr. is remembered as a leader connected with United States.",
+      "context": "Martin Luther King Jr.'s background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Nobel Prize: Martin Luther King Jr. Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
+      "tags": [
+        "justice-governance-leadership",
+        "origin"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "martin-luther-king-jr-2-obstacle",
+      "text": "Martin Luther King Jr.'s recorded life dates place this profile around 1929-1968.",
+      "context": "Martin Luther King Jr.'s challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Nobel Prize: Martin Luther King Jr. Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "martin-luther-king-jr-3-turning-point",
+      "text": "Martin Luther King Jr. is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Martin Luther King Jr.'s turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Nobel Prize: Martin Luther King Jr. Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "martin-luther-king-jr-4-contribution",
+      "text": "Martin Luther King Jr.'s profile connects a short Fact to a wider United States historical setting.",
+      "context": "Martin Luther King Jr.'s contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Nobel Prize: Martin Luther King Jr. Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "martin-luther-king-jr-5-influence",
+      "text": "Martin Luther King Jr. has a Facts Mode card reserved for deeper source research.",
+      "context": "Martin Luther King Jr.'s influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Nobel Prize: Martin Luther King Jr. Facts",
+      "sourceUrl": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ],
   "regionId": "north-america",

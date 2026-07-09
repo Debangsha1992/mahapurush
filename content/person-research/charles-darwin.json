@@ -1,0 +1,46 @@
+{
+  "personId": "charles-darwin",
+  "slug": "charles-darwin",
+  "name": "Charles Darwin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Charles Darwin",
+      "url": "https://pantheon.world/profile/person/Charles_Darwin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-darwin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles Darwin is remembered as a biologist connected with United Kingdom."
+    },
+    {
+      "factId": "charles-darwin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles Darwin's recorded life dates place this profile around 1809-1882."
+    },
+    {
+      "factId": "charles-darwin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles Darwin is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "charles-darwin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles Darwin's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "charles-darwin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles Darwin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "plutarch",
+  "slug": "plutarch",
+  "name": "Plutarch",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Plutarch",
+      "url": "https://pantheon.world/profile/person/Plutarch",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "plutarch-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Plutarch is remembered as a philosopher connected with Greece."
+    },
+    {
+      "factId": "plutarch-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Plutarch's recorded life dates place this profile around 46-127."
+    },
+    {
+      "factId": "plutarch-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Plutarch is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "plutarch-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Plutarch's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "plutarch-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Plutarch has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

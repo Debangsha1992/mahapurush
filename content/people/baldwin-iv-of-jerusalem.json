@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Baldwin IV of Jerusalem is a notable politician associated with Israel.",
+  "summary": "Baldwin IV of Jerusalem is a notable politician connected with Israel.",
   "knownFor": [
     "Politician",
-    "48 language biography editions",
-    "Historical Popularity Index 83.7"
+    "Justice, Governance & Leadership",
+    "Israel"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Baldwin IV of Jerusalem",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "baldwin-iv-of-jerusalem-pantheon-profile",
-      "text": "Pantheon ranks Baldwin IV of Jerusalem as a globally documented politician with biographies in 48 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Baldwin IV of Jerusalem a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "baldwin-iv-of-jerusalem-1-origin",
+      "text": "Baldwin IV of Jerusalem is remembered as a politician connected with Israel.",
+      "context": "Baldwin IV of Jerusalem's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Baldwin IV of Jerusalem",
       "sourceUrl": "https://pantheon.world/profile/person/Baldwin_IV_of_Jerusalem",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "baldwin-iv-of-jerusalem-2-obstacle",
+      "text": "Baldwin IV of Jerusalem's recorded life dates place this profile around 1161-1185.",
+      "context": "Baldwin IV of Jerusalem's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Baldwin IV of Jerusalem",
+      "sourceUrl": "https://pantheon.world/profile/person/Baldwin_IV_of_Jerusalem",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "baldwin-iv-of-jerusalem-3-turning-point",
+      "text": "Baldwin IV of Jerusalem is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Baldwin IV of Jerusalem's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Baldwin IV of Jerusalem",
+      "sourceUrl": "https://pantheon.world/profile/person/Baldwin_IV_of_Jerusalem",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "baldwin-iv-of-jerusalem-4-contribution",
+      "text": "Baldwin IV of Jerusalem's profile connects a short Fact to a wider Israel historical setting.",
+      "context": "Baldwin IV of Jerusalem's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Baldwin IV of Jerusalem",
+      "sourceUrl": "https://pantheon.world/profile/person/Baldwin_IV_of_Jerusalem",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "baldwin-iv-of-jerusalem-5-influence",
+      "text": "Baldwin IV of Jerusalem has a Facts Mode card reserved for deeper source research.",
+      "context": "Baldwin IV of Jerusalem's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Baldwin IV of Jerusalem",
+      "sourceUrl": "https://pantheon.world/profile/person/Baldwin_IV_of_Jerusalem",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -12,35 +12,102 @@
     "literature-arts-culture",
     "actor"
   ],
-  "summary": "Clint Eastwood is a notable actor associated with United States.",
+  "summary": "Clinton Eastwood Jr. is a retired American actor, filmmaker, and musician.",
   "knownFor": [
     "Actor",
-    "108 language biography editions",
-    "Historical Popularity Index 89.2"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 165,
   "imageAlt": "Portrait-style visual for Clint Eastwood",
   "sourceRefs": [
     {
-      "title": "Pantheon: Clint Eastwood",
-      "url": "https://pantheon.world/profile/person/Clint_Eastwood",
+      "title": "Wikipedia: Clint Eastwood",
+      "url": "https://en.wikipedia.org/wiki/Clint_Eastwood",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "clint-eastwood-pantheon-profile",
-      "text": "Pantheon ranks Clint Eastwood as a globally documented actor with biographies in 108 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Clint Eastwood a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Clint Eastwood",
-      "sourceUrl": "https://pantheon.world/profile/person/Clint_Eastwood",
+      "id": "clint-eastwood-1-origin",
+      "text": "Clinton Clint Eastwood Jr. is a retired American actor, filmmaker, and musician.",
+      "context": "Clint Eastwood's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Clint Eastwood",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Clint_Eastwood",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "clint-eastwood-2-obstacle",
+      "text": "After achieving success in the Western TV series Rawhide, Clint Eastwood rose to international fame with his role as the \"Man with No Name\" in Sergio Leone's Dollars Trilogy of spaghetti Westerns during the mid-1960s and as antihero cop Harry Callahan in the five Dirty Harry films throughout the 19.",
+      "context": "Clint Eastwood's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Clint Eastwood",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "clint-eastwood-3-turning-point",
+      "text": "These roles, among others, have made Clint Eastwood an enduring cultural icon of masculinity.",
+      "context": "Clint Eastwood's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Clint Eastwood",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "clint-eastwood-4-contribution",
+      "text": "Elected in 1986, Clint Eastwood served for two years as the mayor of Carmel-by-the-Sea, California.",
+      "context": "Clint Eastwood's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Clint Eastwood",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "clint-eastwood-5-influence",
+      "text": "Clint Eastwood is remembered as a actor connected with United States.",
+      "context": "Clint Eastwood's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Clint Eastwood",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Clint_Eastwood",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

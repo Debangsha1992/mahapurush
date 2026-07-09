@@ -1,0 +1,47 @@
+{
+  "personId": "al-farabi",
+  "slug": "al-farabi",
+  "name": "Al-Farabi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Al-Farabi",
+      "url": "https://en.wikipedia.org/wiki/Al-Farabi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Islamic philosopher and music theorist (c. 870 – 950/951)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "al-farabi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Abu Nasr Muhammad al-Farabi, known in the Latin West as Alpharabius, was an early Islamic philosopher and music theorist."
+    },
+    {
+      "factId": "al-farabi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Al-Farabi has been designated as \"Father of Islamic Neoplatonism\", and the \"Founder of Islamic Political Philosophy\"."
+    },
+    {
+      "factId": "al-farabi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Al-Farabi is remembered as a philosopher connected with Afghanistan."
+    },
+    {
+      "factId": "al-farabi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Al-Farabi's recorded life dates place this profile around 872-951."
+    },
+    {
+      "factId": "al-farabi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Al-Farabi is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

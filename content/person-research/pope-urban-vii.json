@@ -1,0 +1,46 @@
+{
+  "personId": "pope-urban-vii",
+  "slug": "pope-urban-vii",
+  "name": "Pope Urban VII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Urban VII",
+      "url": "https://pantheon.world/profile/person/Pope_Urban_VII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-urban-vii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban VII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-urban-vii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban VII's recorded life dates place this profile around 1521-1590."
+    },
+    {
+      "factId": "pope-urban-vii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban VII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-urban-vii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban VII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-urban-vii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Urban VII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "emile-durkheim",
+  "slug": "emile-durkheim",
+  "name": "Émile Durkheim",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Émile Durkheim",
+      "url": "https://pantheon.world/profile/person/%C3%89mile_Durkheim",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "emile-durkheim-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Émile Durkheim is remembered as a sociologist connected with France."
+    },
+    {
+      "factId": "emile-durkheim-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Émile Durkheim's recorded life dates place this profile around 1858-1917."
+    },
+    {
+      "factId": "emile-durkheim-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Émile Durkheim is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "emile-durkheim-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Émile Durkheim's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "emile-durkheim-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Émile Durkheim has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

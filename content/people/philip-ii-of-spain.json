@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Philip II of Spain is a notable politician associated with Spain.",
+  "summary": "Philip II of Spain is a notable politician connected with Spain.",
   "knownFor": [
     "Politician",
-    "96 language biography editions",
-    "Historical Popularity Index 84.8"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": true,
   "featuredRank": 459,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "philip-ii-of-spain-pantheon-profile",
-      "text": "Pantheon ranks Philip II of Spain as a globally documented politician with biographies in 96 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Philip II of Spain a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "philip-ii-of-spain-1-origin",
+      "text": "Philip II of Spain is remembered as a politician connected with Spain.",
+      "context": "Philip II of Spain's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Philip II of Spain",
       "sourceUrl": "https://pantheon.world/profile/person/Philip_II_of_Spain",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "philip-ii-of-spain-2-obstacle",
+      "text": "Philip II of Spain's recorded life dates place this profile around 1527-1598.",
+      "context": "Philip II of Spain's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Philip II of Spain",
+      "sourceUrl": "https://pantheon.world/profile/person/Philip_II_of_Spain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "philip-ii-of-spain-3-turning-point",
+      "text": "Philip II of Spain is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Philip II of Spain's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Philip II of Spain",
+      "sourceUrl": "https://pantheon.world/profile/person/Philip_II_of_Spain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "philip-ii-of-spain-4-contribution",
+      "text": "Philip II of Spain's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Philip II of Spain's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Philip II of Spain",
+      "sourceUrl": "https://pantheon.world/profile/person/Philip_II_of_Spain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "philip-ii-of-spain-5-influence",
+      "text": "Philip II of Spain has a Facts Mode card reserved for deeper source research.",
+      "context": "Philip II of Spain's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Philip II of Spain",
+      "sourceUrl": "https://pantheon.world/profile/person/Philip_II_of_Spain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

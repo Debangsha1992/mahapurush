@@ -1,0 +1,46 @@
+{
+  "personId": "wilhelm-ii-german-emperor",
+  "slug": "wilhelm-ii-german-emperor",
+  "name": "Wilhelm II, German Emperor",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Wilhelm II, German Emperor",
+      "url": "https://pantheon.world/profile/person/Wilhelm_II%2C_German_Emperor",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "wilhelm-ii-german-emperor-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Wilhelm II, German Emperor is remembered as a politician connected with Germany."
+    },
+    {
+      "factId": "wilhelm-ii-german-emperor-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Wilhelm II, German Emperor's recorded life dates place this profile around 1859-1941."
+    },
+    {
+      "factId": "wilhelm-ii-german-emperor-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Wilhelm II, German Emperor is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "wilhelm-ii-german-emperor-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Wilhelm II, German Emperor's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "wilhelm-ii-german-emperor-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Wilhelm II, German Emperor has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

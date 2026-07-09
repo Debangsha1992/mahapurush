@@ -1,0 +1,47 @@
+{
+  "personId": "charles-prince-of-wales",
+  "slug": "charles-prince-of-wales",
+  "name": "Charles, Prince of Wales",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Charles III",
+      "url": "https://en.wikipedia.org/wiki/Charles_III",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "King of the United Kingdom since 2022"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "charles-prince-of-wales-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Charles, Prince of Wales is remembered as a nobleman connected with United Kingdom."
+    },
+    {
+      "factId": "charles-prince-of-wales-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Charles, Prince of Wales's recorded life dates place this profile around born 1948."
+    },
+    {
+      "factId": "charles-prince-of-wales-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Charles, Prince of Wales is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "charles-prince-of-wales-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Charles, Prince of Wales's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "charles-prince-of-wales-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Charles, Prince of Wales has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

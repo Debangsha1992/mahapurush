@@ -1,0 +1,46 @@
+{
+  "personId": "antonio-de-oliveira-salazar",
+  "slug": "antonio-de-oliveira-salazar",
+  "name": "António de Oliveira Salazar",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: António de Oliveira Salazar",
+      "url": "https://pantheon.world/profile/person/Ant%C3%B3nio_de_Oliveira_Salazar",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "antonio-de-oliveira-salazar-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "António de Oliveira Salazar is remembered as a politician connected with Portugal."
+    },
+    {
+      "factId": "antonio-de-oliveira-salazar-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "António de Oliveira Salazar's recorded life dates place this profile around 1889-1970."
+    },
+    {
+      "factId": "antonio-de-oliveira-salazar-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "António de Oliveira Salazar is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "antonio-de-oliveira-salazar-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "António de Oliveira Salazar's profile connects a short Fact to a wider Portugal historical setting."
+    },
+    {
+      "factId": "antonio-de-oliveira-salazar-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "António de Oliveira Salazar has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

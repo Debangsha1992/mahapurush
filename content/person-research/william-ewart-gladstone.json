@@ -1,0 +1,46 @@
+{
+  "personId": "william-ewart-gladstone",
+  "slug": "william-ewart-gladstone",
+  "name": "William Ewart Gladstone",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: William Ewart Gladstone",
+      "url": "https://pantheon.world/profile/person/William_Ewart_Gladstone",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "william-ewart-gladstone-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "William Ewart Gladstone is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "william-ewart-gladstone-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "William Ewart Gladstone's recorded life dates place this profile around 1809-1898."
+    },
+    {
+      "factId": "william-ewart-gladstone-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "William Ewart Gladstone is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "william-ewart-gladstone-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "William Ewart Gladstone's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "william-ewart-gladstone-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "William Ewart Gladstone has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

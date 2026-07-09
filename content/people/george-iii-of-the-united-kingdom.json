@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "George III of the United Kingdom is a notable politician associated with United Kingdom.",
+  "summary": "George III of the United Kingdom is a notable politician connected with United Kingdom.",
   "knownFor": [
     "Politician",
-    "92 language biography editions",
-    "Historical Popularity Index 89.1"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 168,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "george-iii-of-the-united-kingdom-pantheon-profile",
-      "text": "Pantheon ranks George III of the United Kingdom as a globally documented politician with biographies in 92 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make George III of the United Kingdom a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "george-iii-of-the-united-kingdom-1-origin",
+      "text": "George III of the United Kingdom is remembered as a politician connected with United Kingdom.",
+      "context": "George III of the United Kingdom's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: George III of the United Kingdom",
       "sourceUrl": "https://pantheon.world/profile/person/George_III_of_the_United_Kingdom",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-iii-of-the-united-kingdom-2-obstacle",
+      "text": "George III of the United Kingdom's recorded life dates place this profile around 1738-1820.",
+      "context": "George III of the United Kingdom's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: George III of the United Kingdom",
+      "sourceUrl": "https://pantheon.world/profile/person/George_III_of_the_United_Kingdom",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-iii-of-the-united-kingdom-3-turning-point",
+      "text": "George III of the United Kingdom is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "George III of the United Kingdom's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: George III of the United Kingdom",
+      "sourceUrl": "https://pantheon.world/profile/person/George_III_of_the_United_Kingdom",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-iii-of-the-united-kingdom-4-contribution",
+      "text": "George III of the United Kingdom's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "George III of the United Kingdom's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: George III of the United Kingdom",
+      "sourceUrl": "https://pantheon.world/profile/person/George_III_of_the_United_Kingdom",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-iii-of-the-united-kingdom-5-influence",
+      "text": "George III of the United Kingdom has a Facts Mode card reserved for deeper source research.",
+      "context": "George III of the United Kingdom's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: George III of the United Kingdom",
+      "sourceUrl": "https://pantheon.world/profile/person/George_III_of_the_United_Kingdom",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

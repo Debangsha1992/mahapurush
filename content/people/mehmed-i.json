@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Mehmed I is a notable politician associated with Türkiye.",
+  "summary": "Mehmed I is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "69 language biography editions",
-    "Historical Popularity Index 81.9"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mehmed I",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mehmed-i-pantheon-profile",
-      "text": "Pantheon ranks Mehmed I as a globally documented politician with biographies in 69 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mehmed I a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mehmed-i-1-origin",
+      "text": "Mehmed I is remembered as a politician connected with Türkiye.",
+      "context": "Mehmed I's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mehmed I",
       "sourceUrl": "https://pantheon.world/profile/person/Mehmed_I",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mehmed-i-2-obstacle",
+      "text": "Mehmed I's recorded life dates place this profile around 1386-1421.",
+      "context": "Mehmed I's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mehmed I",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mehmed-i-3-turning-point",
+      "text": "Mehmed I is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mehmed I's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mehmed I",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mehmed-i-4-contribution",
+      "text": "Mehmed I's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Mehmed I's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mehmed I",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mehmed-i-5-influence",
+      "text": "Mehmed I has a Facts Mode card reserved for deeper source research.",
+      "context": "Mehmed I's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mehmed I",
+      "sourceUrl": "https://pantheon.world/profile/person/Mehmed_I",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

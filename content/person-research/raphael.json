@@ -1,0 +1,46 @@
+{
+  "personId": "raphael",
+  "slug": "raphael",
+  "name": "Raphael",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Raphael",
+      "url": "https://pantheon.world/profile/person/Raphael",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "raphael-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Raphael is remembered as a painter connected with Italy."
+    },
+    {
+      "factId": "raphael-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Raphael's recorded life dates place this profile around 1483-1520."
+    },
+    {
+      "factId": "raphael-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Raphael is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "raphael-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Raphael's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "raphael-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Raphael has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

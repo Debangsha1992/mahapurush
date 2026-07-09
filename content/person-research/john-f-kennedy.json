@@ -1,0 +1,46 @@
+{
+  "personId": "john-f-kennedy",
+  "slug": "john-f-kennedy",
+  "name": "John F. Kennedy",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John F. Kennedy",
+      "url": "https://pantheon.world/profile/person/John_F._Kennedy",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-f-kennedy-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John F. Kennedy is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "john-f-kennedy-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John F. Kennedy's recorded life dates place this profile around 1917-1963."
+    },
+    {
+      "factId": "john-f-kennedy-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John F. Kennedy is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "john-f-kennedy-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John F. Kennedy's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "john-f-kennedy-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John F. Kennedy has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "eleanor-roosevelt",
+  "slug": "eleanor-roosevelt",
+  "name": "Eleanor Roosevelt",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Eleanor Roosevelt",
+      "url": "https://pantheon.world/profile/person/Eleanor_Roosevelt",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "eleanor-roosevelt-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Eleanor Roosevelt is remembered as a social activist connected with United States."
+    },
+    {
+      "factId": "eleanor-roosevelt-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Eleanor Roosevelt's recorded life dates place this profile around 1884-1962."
+    },
+    {
+      "factId": "eleanor-roosevelt-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Eleanor Roosevelt is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "eleanor-roosevelt-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Eleanor Roosevelt's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "eleanor-roosevelt-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Eleanor Roosevelt has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "james-v-of-scotland",
+  "slug": "james-v-of-scotland",
+  "name": "James V of Scotland",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James V of Scotland",
+      "url": "https://pantheon.world/profile/person/James_V_of_Scotland",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-v-of-scotland-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James V of Scotland is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "james-v-of-scotland-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James V of Scotland's recorded life dates place this profile around 1512-1542."
+    },
+    {
+      "factId": "james-v-of-scotland-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James V of Scotland is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "james-v-of-scotland-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James V of Scotland's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "james-v-of-scotland-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James V of Scotland has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

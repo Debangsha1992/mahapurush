@@ -12,34 +12,102 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Mark Twain is a notable writer associated with United States.",
+  "summary": "Samuel Langhorne Clemens, known by the pen name Mark Twain, was an American writer, humorist, and essayist.",
   "knownFor": [
     "Writer",
-    "157 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mark Twain",
   "sourceRefs": [
     {
-      "title": "Pantheon: Mark Twain",
-      "url": "https://pantheon.world/profile/person/Mark_Twain",
+      "title": "Wikipedia: Mark Twain",
+      "url": "https://en.wikipedia.org/wiki/Mark_Twain",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mark-twain-pantheon-profile",
-      "text": "Pantheon ranks Mark Twain as a globally documented writer with biographies in 157 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mark Twain a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Mark Twain",
-      "sourceUrl": "https://pantheon.world/profile/person/Mark_Twain",
+      "id": "mark-twain-1-origin",
+      "text": "Samuel Langhorne Clemens, known by the pen name Mark Twain, was an American writer, humorist, and essayist.",
+      "context": "Mark Twain's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Mark Twain",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Twain",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-twain-2-obstacle",
+      "text": "Mark Twain's novels include The Adventures of Tom Sawyer (1876) and its sequel, Adventures of Huckleberry Finn (1884), with the latter often called the \"Great American Novel\".",
+      "context": "Mark Twain's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Mark Twain",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Twain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-twain-3-turning-point",
+      "text": "Mark Twain also wrote A Connecticut Yankee in King Arthur's Court (1889) and Pudd'nhead Wilson (1894) and cowrote The Gilded Age: A Tale of Today (1873) with Charles Dudley Warner.",
+      "context": "Mark Twain's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Mark Twain",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Twain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-twain-4-contribution",
+      "text": "Mark Twain is remembered as a writer connected with United States.",
+      "context": "Mark Twain's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Mark Twain",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Twain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mark-twain-5-influence",
+      "text": "Mark Twain's recorded life dates place this profile around 1835-1910.",
+      "context": "Mark Twain's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Mark Twain",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Mark_Twain",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

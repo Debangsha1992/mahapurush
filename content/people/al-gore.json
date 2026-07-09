@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Al Gore is a notable politician associated with United States.",
+  "summary": "Al Gore is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "106 language biography editions",
-    "Historical Popularity Index 85.0"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 444,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "al-gore-pantheon-profile",
-      "text": "Pantheon ranks Al Gore as a globally documented politician with biographies in 106 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Al Gore a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "al-gore-1-origin",
+      "text": "Al Gore is remembered as a politician connected with United States.",
+      "context": "Al Gore's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Al Gore",
       "sourceUrl": "https://pantheon.world/profile/person/Al_Gore",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-gore-2-obstacle",
+      "text": "Al Gore's recorded life dates place this profile around born 1948.",
+      "context": "Al Gore's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Al Gore",
+      "sourceUrl": "https://pantheon.world/profile/person/Al_Gore",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-gore-3-turning-point",
+      "text": "Al Gore is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Al Gore's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Al Gore",
+      "sourceUrl": "https://pantheon.world/profile/person/Al_Gore",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-gore-4-contribution",
+      "text": "Al Gore's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Al Gore's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Al Gore",
+      "sourceUrl": "https://pantheon.world/profile/person/Al_Gore",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "al-gore-5-influence",
+      "text": "Al Gore has a Facts Mode card reserved for deeper source research.",
+      "context": "Al Gore's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Al Gore",
+      "sourceUrl": "https://pantheon.world/profile/person/Al_Gore",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

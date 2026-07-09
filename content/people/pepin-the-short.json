@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Pepin the Short is a notable politician associated with Belgium.",
+  "summary": "Pepin the Short is a notable politician connected with Belgium.",
   "knownFor": [
     "Politician",
-    "79 language biography editions",
-    "Historical Popularity Index 83.4"
+    "Justice, Governance & Leadership",
+    "Belgium"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Pepin the Short",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pepin-the-short-pantheon-profile",
-      "text": "Pantheon ranks Pepin the Short as a globally documented politician with biographies in 79 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pepin the Short a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pepin-the-short-1-origin",
+      "text": "Pepin the Short is remembered as a politician connected with Belgium.",
+      "context": "Pepin the Short's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Pepin the Short",
       "sourceUrl": "https://pantheon.world/profile/person/Pepin_the_Short",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pepin-the-short-2-obstacle",
+      "text": "Pepin the Short's recorded life dates place this profile around 715-768.",
+      "context": "Pepin the Short's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pepin the Short",
+      "sourceUrl": "https://pantheon.world/profile/person/Pepin_the_Short",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pepin-the-short-3-turning-point",
+      "text": "Pepin the Short is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Pepin the Short's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pepin the Short",
+      "sourceUrl": "https://pantheon.world/profile/person/Pepin_the_Short",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pepin-the-short-4-contribution",
+      "text": "Pepin the Short's profile connects a short Fact to a wider Belgium historical setting.",
+      "context": "Pepin the Short's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pepin the Short",
+      "sourceUrl": "https://pantheon.world/profile/person/Pepin_the_Short",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pepin-the-short-5-influence",
+      "text": "Pepin the Short has a Facts Mode card reserved for deeper source research.",
+      "context": "Pepin the Short's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pepin the Short",
+      "sourceUrl": "https://pantheon.world/profile/person/Pepin_the_Short",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

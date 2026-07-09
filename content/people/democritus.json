@@ -12,35 +12,104 @@
     "philosophy-ethics-religion",
     "philosopher"
   ],
-  "summary": "Democritus is a notable philosopher associated with Greece.",
+  "summary": "Democritus was an Ancient Greek pre-Socratic philosopher from Abdera, primarily remembered today for his formulation of an atomic theory of the universe.",
   "knownFor": [
     "Philosopher",
-    "102 language biography editions",
-    "Historical Popularity Index 86.9"
+    "Philosophy, Ethics & Religion",
+    "Greece"
   ],
   "featured": true,
   "featuredRank": 285,
   "imageAlt": "Portrait-style visual for Democritus",
   "sourceRefs": [
     {
-      "title": "Pantheon: Democritus",
-      "url": "https://pantheon.world/profile/person/Democritus",
+      "title": "Wikipedia: Democritus",
+      "url": "https://en.wikipedia.org/wiki/Democritus",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "democritus-pantheon-profile",
-      "text": "Pantheon ranks Democritus as a globally documented philosopher with biographies in 102 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Democritus a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Democritus",
-      "sourceUrl": "https://pantheon.world/profile/person/Democritus",
+      "id": "democritus-1-origin",
+      "text": "Democritus was an Ancient Greek pre-Socratic philosopher from Abdera, primarily remembered today for his formulation of an atomic theory of the universe.",
+      "context": "Democritus's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
+      "sourceTitle": "Wikipedia: Democritus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Democritus",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "democritus-2-obstacle",
+      "text": "Democritus wrote extensively on a wide variety of topics.",
+      "context": "Democritus's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Democritus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Democritus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "democritus-3-turning-point",
+      "text": "Democritus is remembered as a philosopher connected with Greece.",
+      "context": "Democritus's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Democritus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Democritus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "democritus-4-contribution",
+      "text": "Democritus's recorded life dates place this profile around -460--360.",
+      "context": "Democritus's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Democritus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Democritus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "democritus-5-influence",
+      "text": "Democritus is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Democritus's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Democritus",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Democritus",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

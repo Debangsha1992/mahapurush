@@ -1,0 +1,46 @@
+{
+  "personId": "trajan",
+  "slug": "trajan",
+  "name": "Trajan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Trajan",
+      "url": "https://pantheon.world/profile/person/Trajan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "trajan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Trajan is remembered as a politician connected with Spain."
+    },
+    {
+      "factId": "trajan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Trajan's recorded life dates place this profile around 53-117."
+    },
+    {
+      "factId": "trajan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Trajan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "trajan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Trajan's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "trajan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Trajan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

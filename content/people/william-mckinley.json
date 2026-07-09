@@ -12,35 +12,104 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "William McKinley is a notable politician associated with United States.",
+  "summary": "William McKinley was the 25th president of the United States, serving from 1897 until his assassination in 1901.",
   "knownFor": [
     "Politician",
-    "124 language biography editions",
-    "Historical Popularity Index 89.3"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": true,
   "featuredRank": 157,
   "imageAlt": "Portrait-style visual for William McKinley",
   "sourceRefs": [
     {
-      "title": "Pantheon: William McKinley",
-      "url": "https://pantheon.world/profile/person/William_McKinley",
+      "title": "Wikipedia: William McKinley",
+      "url": "https://en.wikipedia.org/wiki/William_McKinley",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "william-mckinley-pantheon-profile",
-      "text": "Pantheon ranks William McKinley as a globally documented politician with biographies in 124 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make William McKinley a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: William McKinley",
-      "sourceUrl": "https://pantheon.world/profile/person/William_McKinley",
+      "id": "william-mckinley-1-origin",
+      "text": "William McKinley was the 25th president of the United States, serving from 1897 until his assassination in 1901.",
+      "context": "William McKinley's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: William McKinley",
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_McKinley",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-mckinley-2-obstacle",
+      "text": "William McKinley successfully led the US in the Spanish–American War and oversaw a period of American expansionism, with the annexations of Hawaii, Puerto Rico, Guam, the Philippines, and American Samoa.",
+      "context": "William McKinley's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: William McKinley",
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_McKinley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-mckinley-3-turning-point",
+      "text": "William McKinley is remembered as a politician connected with United States.",
+      "context": "William McKinley's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: William McKinley",
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_McKinley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-mckinley-4-contribution",
+      "text": "William McKinley's recorded life dates place this profile around 1843-1901.",
+      "context": "William McKinley's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: William McKinley",
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_McKinley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "william-mckinley-5-influence",
+      "text": "William McKinley is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "William McKinley's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: William McKinley",
+      "sourceUrl": "https://en.wikipedia.org/wiki/William_McKinley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

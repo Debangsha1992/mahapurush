@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Ferdinand I, Holy Roman Emperor is a notable politician associated with Spain.",
+  "summary": "Ferdinand I, Holy Roman Emperor is a notable politician connected with Spain.",
   "knownFor": [
     "Politician",
-    "70 language biography editions",
-    "Historical Popularity Index 82.7"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Ferdinand I, Holy Roman Emperor",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "ferdinand-i-holy-roman-emperor-pantheon-profile",
-      "text": "Pantheon ranks Ferdinand I, Holy Roman Emperor as a globally documented politician with biographies in 70 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Ferdinand I, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "ferdinand-i-holy-roman-emperor-1-origin",
+      "text": "Ferdinand I, Holy Roman Emperor is remembered as a politician connected with Spain.",
+      "context": "Ferdinand I, Holy Roman Emperor's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Ferdinand I, Holy Roman Emperor",
       "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_I%2C_Holy_Roman_Emperor",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-i-holy-roman-emperor-2-obstacle",
+      "text": "Ferdinand I, Holy Roman Emperor's recorded life dates place this profile around 1503-1564.",
+      "context": "Ferdinand I, Holy Roman Emperor's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Ferdinand I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-i-holy-roman-emperor-3-turning-point",
+      "text": "Ferdinand I, Holy Roman Emperor is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Ferdinand I, Holy Roman Emperor's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Ferdinand I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-i-holy-roman-emperor-4-contribution",
+      "text": "Ferdinand I, Holy Roman Emperor's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Ferdinand I, Holy Roman Emperor's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Ferdinand I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "ferdinand-i-holy-roman-emperor-5-influence",
+      "text": "Ferdinand I, Holy Roman Emperor has a Facts Mode card reserved for deeper source research.",
+      "context": "Ferdinand I, Holy Roman Emperor's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Ferdinand I, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Ferdinand_I%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

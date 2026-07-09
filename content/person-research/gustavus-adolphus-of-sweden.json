@@ -1,0 +1,46 @@
+{
+  "personId": "gustavus-adolphus-of-sweden",
+  "slug": "gustavus-adolphus-of-sweden",
+  "name": "Gustavus Adolphus of Sweden",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gustavus Adolphus of Sweden",
+      "url": "https://pantheon.world/profile/person/Gustavus_Adolphus_of_Sweden",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gustavus-adolphus-of-sweden-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gustavus Adolphus of Sweden is remembered as a politician connected with Sweden."
+    },
+    {
+      "factId": "gustavus-adolphus-of-sweden-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gustavus Adolphus of Sweden's recorded life dates place this profile around 1594-1632."
+    },
+    {
+      "factId": "gustavus-adolphus-of-sweden-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gustavus Adolphus of Sweden is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "gustavus-adolphus-of-sweden-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gustavus Adolphus of Sweden's profile connects a short Fact to a wider Sweden historical setting."
+    },
+    {
+      "factId": "gustavus-adolphus-of-sweden-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gustavus Adolphus of Sweden has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

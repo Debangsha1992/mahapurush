@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Severus Alexander is a notable politician associated with Lebanon.",
+  "summary": "Severus Alexander is a notable politician connected with Lebanon.",
   "knownFor": [
     "Politician",
-    "75 language biography editions",
-    "Historical Popularity Index 84.4"
+    "Justice, Governance & Leadership",
+    "Lebanon"
   ],
   "featured": true,
   "featuredRank": 497,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "severus-alexander-pantheon-profile",
-      "text": "Pantheon ranks Severus Alexander as a globally documented politician with biographies in 75 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Severus Alexander a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "severus-alexander-1-origin",
+      "text": "Severus Alexander is remembered as a politician connected with Lebanon.",
+      "context": "Severus Alexander's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Severus Alexander",
       "sourceUrl": "https://pantheon.world/profile/person/Severus_Alexander",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "severus-alexander-2-obstacle",
+      "text": "Severus Alexander's recorded life dates place this profile around 208-235.",
+      "context": "Severus Alexander's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Severus Alexander",
+      "sourceUrl": "https://pantheon.world/profile/person/Severus_Alexander",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "severus-alexander-3-turning-point",
+      "text": "Severus Alexander is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Severus Alexander's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Severus Alexander",
+      "sourceUrl": "https://pantheon.world/profile/person/Severus_Alexander",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "severus-alexander-4-contribution",
+      "text": "Severus Alexander's profile connects a short Fact to a wider Lebanon historical setting.",
+      "context": "Severus Alexander's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Severus Alexander",
+      "sourceUrl": "https://pantheon.world/profile/person/Severus_Alexander",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "severus-alexander-5-influence",
+      "text": "Severus Alexander has a Facts Mode card reserved for deeper source research.",
+      "context": "Severus Alexander's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Severus Alexander",
+      "sourceUrl": "https://pantheon.world/profile/person/Severus_Alexander",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

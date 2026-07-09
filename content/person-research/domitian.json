@@ -1,0 +1,46 @@
+{
+  "personId": "domitian",
+  "slug": "domitian",
+  "name": "Domitian",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Domitian",
+      "url": "https://pantheon.world/profile/person/Domitian",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "domitian-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Domitian is remembered as a politician connected with Italy."
+    },
+    {
+      "factId": "domitian-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Domitian's recorded life dates place this profile around 51-96."
+    },
+    {
+      "factId": "domitian-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Domitian is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "domitian-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Domitian's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "domitian-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Domitian has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

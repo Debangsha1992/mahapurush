@@ -1,0 +1,46 @@
+{
+  "personId": "christiaan-huygens",
+  "slug": "christiaan-huygens",
+  "name": "Christiaan Huygens",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Christiaan Huygens",
+      "url": "https://pantheon.world/profile/person/Christiaan_Huygens",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "christiaan-huygens-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Christiaan Huygens is remembered as a physicist connected with Netherlands."
+    },
+    {
+      "factId": "christiaan-huygens-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Christiaan Huygens's recorded life dates place this profile around 1629-1695."
+    },
+    {
+      "factId": "christiaan-huygens-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Christiaan Huygens is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "christiaan-huygens-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Christiaan Huygens's profile connects a short Fact to a wider Netherlands historical setting."
+    },
+    {
+      "factId": "christiaan-huygens-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Christiaan Huygens has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

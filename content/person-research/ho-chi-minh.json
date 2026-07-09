@@ -1,0 +1,46 @@
+{
+  "personId": "ho-chi-minh",
+  "slug": "ho-chi-minh",
+  "name": "Ho Chi Minh",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ho Chi Minh",
+      "url": "https://pantheon.world/profile/person/Ho_Chi_Minh",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ho-chi-minh-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ho Chi Minh is remembered as a politician connected with Vietnam."
+    },
+    {
+      "factId": "ho-chi-minh-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ho Chi Minh's recorded life dates place this profile around 1890-1969."
+    },
+    {
+      "factId": "ho-chi-minh-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ho Chi Minh is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "ho-chi-minh-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ho Chi Minh's profile connects a short Fact to a wider Vietnam historical setting."
+    },
+    {
+      "factId": "ho-chi-minh-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ho Chi Minh has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

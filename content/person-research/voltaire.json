@@ -1,0 +1,46 @@
+{
+  "personId": "voltaire",
+  "slug": "voltaire",
+  "name": "Voltaire",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Voltaire",
+      "url": "https://pantheon.world/profile/person/Voltaire",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "voltaire-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Voltaire is remembered as a writer connected with France."
+    },
+    {
+      "factId": "voltaire-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Voltaire's recorded life dates place this profile around 1694-1778."
+    },
+    {
+      "factId": "voltaire-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Voltaire is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "voltaire-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Voltaire's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "voltaire-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Voltaire has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "werner-heisenberg",
+  "slug": "werner-heisenberg",
+  "name": "Werner Heisenberg",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Werner Heisenberg",
+      "url": "https://pantheon.world/profile/person/Werner_Heisenberg",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "werner-heisenberg-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Werner Heisenberg is remembered as a physicist connected with Germany."
+    },
+    {
+      "factId": "werner-heisenberg-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Werner Heisenberg's recorded life dates place this profile around 1901-1976."
+    },
+    {
+      "factId": "werner-heisenberg-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Werner Heisenberg is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "werner-heisenberg-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Werner Heisenberg's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "werner-heisenberg-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Werner Heisenberg has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

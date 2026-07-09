@@ -1,0 +1,46 @@
+{
+  "personId": "pope-gregory-xii",
+  "slug": "pope-gregory-xii",
+  "name": "Pope Gregory XII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Gregory XII",
+      "url": "https://pantheon.world/profile/person/Pope_Gregory_XII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-gregory-xii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-gregory-xii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XII's recorded life dates place this profile around 1335-1417."
+    },
+    {
+      "factId": "pope-gregory-xii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-gregory-xii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-gregory-xii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Gregory XII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

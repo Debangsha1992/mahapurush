@@ -1,0 +1,46 @@
+{
+  "personId": "khadija-bint-khuwaylid",
+  "slug": "khadija-bint-khuwaylid",
+  "name": "Khadija bint Khuwaylid",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Khadija bint Khuwaylid",
+      "url": "https://pantheon.world/profile/person/Khadija_bint_Khuwaylid",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "khadija-bint-khuwaylid-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Khadija bint Khuwaylid is remembered as a companion connected with Saudi Arabia."
+    },
+    {
+      "factId": "khadija-bint-khuwaylid-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Khadija bint Khuwaylid's recorded life dates place this profile around 556-619."
+    },
+    {
+      "factId": "khadija-bint-khuwaylid-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Khadija bint Khuwaylid is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "khadija-bint-khuwaylid-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Khadija bint Khuwaylid's profile connects a short Fact to a wider Saudi Arabia historical setting."
+    },
+    {
+      "factId": "khadija-bint-khuwaylid-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Khadija bint Khuwaylid has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

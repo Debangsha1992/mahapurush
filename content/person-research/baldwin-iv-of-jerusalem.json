@@ -1,0 +1,46 @@
+{
+  "personId": "baldwin-iv-of-jerusalem",
+  "slug": "baldwin-iv-of-jerusalem",
+  "name": "Baldwin IV of Jerusalem",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Baldwin IV of Jerusalem",
+      "url": "https://pantheon.world/profile/person/Baldwin_IV_of_Jerusalem",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "baldwin-iv-of-jerusalem-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Baldwin IV of Jerusalem is remembered as a politician connected with Israel."
+    },
+    {
+      "factId": "baldwin-iv-of-jerusalem-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Baldwin IV of Jerusalem's recorded life dates place this profile around 1161-1185."
+    },
+    {
+      "factId": "baldwin-iv-of-jerusalem-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Baldwin IV of Jerusalem is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "baldwin-iv-of-jerusalem-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Baldwin IV of Jerusalem's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "baldwin-iv-of-jerusalem-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Baldwin IV of Jerusalem has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

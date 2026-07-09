@@ -1,0 +1,46 @@
+{
+  "personId": "skanderbeg",
+  "slug": "skanderbeg",
+  "name": "Skanderbeg",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Skanderbeg",
+      "url": "https://pantheon.world/profile/person/Skanderbeg",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "skanderbeg-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Skanderbeg is remembered as a politician connected with Albania."
+    },
+    {
+      "factId": "skanderbeg-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Skanderbeg's recorded life dates place this profile around 1405-1468."
+    },
+    {
+      "factId": "skanderbeg-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Skanderbeg is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "skanderbeg-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Skanderbeg's profile connects a short Fact to a wider Albania historical setting."
+    },
+    {
+      "factId": "skanderbeg-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Skanderbeg has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

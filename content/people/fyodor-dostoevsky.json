@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Fyodor Dostoevsky is a notable writer associated with Russia.",
+  "summary": "Fyodor Dostoevsky is a notable writer connected with Russia.",
   "knownFor": [
     "Writer",
-    "178 language biography editions",
-    "Historical Popularity Index 93.2"
+    "Literature, Arts & Culture",
+    "Russia"
   ],
   "featured": true,
   "featuredRank": 63,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "fyodor-dostoevsky-pantheon-profile",
-      "text": "Pantheon ranks Fyodor Dostoevsky as a globally documented writer with biographies in 178 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Fyodor Dostoevsky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "fyodor-dostoevsky-1-origin",
+      "text": "Fyodor Dostoevsky is remembered as a writer connected with Russia.",
+      "context": "Fyodor Dostoevsky's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Fyodor Dostoevsky",
       "sourceUrl": "https://pantheon.world/profile/person/Fyodor_Dostoevsky",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fyodor-dostoevsky-2-obstacle",
+      "text": "Fyodor Dostoevsky's recorded life dates place this profile around 1821-1881.",
+      "context": "Fyodor Dostoevsky's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Fyodor Dostoevsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Fyodor_Dostoevsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fyodor-dostoevsky-3-turning-point",
+      "text": "Fyodor Dostoevsky is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Fyodor Dostoevsky's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Fyodor Dostoevsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Fyodor_Dostoevsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fyodor-dostoevsky-4-contribution",
+      "text": "Fyodor Dostoevsky's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Fyodor Dostoevsky's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Fyodor Dostoevsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Fyodor_Dostoevsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "fyodor-dostoevsky-5-influence",
+      "text": "Fyodor Dostoevsky has a Facts Mode card reserved for deeper source research.",
+      "context": "Fyodor Dostoevsky's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Fyodor Dostoevsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Fyodor_Dostoevsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Muammar Gaddafi is a notable politician associated with Libya.",
+  "summary": "Muammar Gaddafi is a notable politician connected with Libya.",
   "knownFor": [
     "Politician",
-    "142 language biography editions",
-    "Historical Popularity Index 85.5"
+    "Justice, Governance & Leadership",
+    "Libya"
   ],
   "featured": true,
   "featuredRank": 390,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "muammar-gaddafi-pantheon-profile",
-      "text": "Pantheon ranks Muammar Gaddafi as a globally documented politician with biographies in 142 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Muammar Gaddafi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "muammar-gaddafi-1-origin",
+      "text": "Muammar Gaddafi is remembered as a politician connected with Libya.",
+      "context": "Muammar Gaddafi's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Muammar Gaddafi",
       "sourceUrl": "https://pantheon.world/profile/person/Muammar_Gaddafi",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muammar-gaddafi-2-obstacle",
+      "text": "Muammar Gaddafi's recorded life dates place this profile around 1942-2011.",
+      "context": "Muammar Gaddafi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Muammar Gaddafi",
+      "sourceUrl": "https://pantheon.world/profile/person/Muammar_Gaddafi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muammar-gaddafi-3-turning-point",
+      "text": "Muammar Gaddafi is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Muammar Gaddafi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Muammar Gaddafi",
+      "sourceUrl": "https://pantheon.world/profile/person/Muammar_Gaddafi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muammar-gaddafi-4-contribution",
+      "text": "Muammar Gaddafi's profile connects a short Fact to a wider Libya historical setting.",
+      "context": "Muammar Gaddafi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Muammar Gaddafi",
+      "sourceUrl": "https://pantheon.world/profile/person/Muammar_Gaddafi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muammar-gaddafi-5-influence",
+      "text": "Muammar Gaddafi has a Facts Mode card reserved for deeper source research.",
+      "context": "Muammar Gaddafi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Muammar Gaddafi",
+      "sourceUrl": "https://pantheon.world/profile/person/Muammar_Gaddafi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

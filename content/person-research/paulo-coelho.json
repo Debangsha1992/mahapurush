@@ -1,0 +1,46 @@
+{
+  "personId": "paulo-coelho",
+  "slug": "paulo-coelho",
+  "name": "Paulo Coelho",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Paulo Coelho",
+      "url": "https://pantheon.world/profile/person/Paulo_Coelho",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "paulo-coelho-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Paulo Coelho is remembered as a writer connected with Brazil."
+    },
+    {
+      "factId": "paulo-coelho-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Paulo Coelho's recorded life dates place this profile around born 1947."
+    },
+    {
+      "factId": "paulo-coelho-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Paulo Coelho is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "paulo-coelho-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Paulo Coelho's profile connects a short Fact to a wider Brazil historical setting."
+    },
+    {
+      "factId": "paulo-coelho-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Paulo Coelho has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "pope-julius-ii",
+  "slug": "pope-julius-ii",
+  "name": "Pope Julius II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Julius II",
+      "url": "https://pantheon.world/profile/person/Pope_Julius_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-julius-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Julius II is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-julius-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Julius II's recorded life dates place this profile around 1443-1513."
+    },
+    {
+      "factId": "pope-julius-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Julius II is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-julius-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Julius II's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-julius-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Julius II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

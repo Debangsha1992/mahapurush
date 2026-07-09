@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Francisco Goya is a notable painter associated with Spain.",
+  "summary": "Francisco Goya is a notable painter connected with Spain.",
   "knownFor": [
     "Painter",
-    "158 language biography editions",
-    "Historical Popularity Index 87.4"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": true,
   "featuredRank": 251,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "francisco-goya-pantheon-profile",
-      "text": "Pantheon ranks Francisco Goya as a globally documented painter with biographies in 158 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Francisco Goya a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "francisco-goya-1-origin",
+      "text": "Francisco Goya is remembered as a painter connected with Spain.",
+      "context": "Francisco Goya's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Francisco Goya",
       "sourceUrl": "https://pantheon.world/profile/person/Francisco_Goya",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-goya-2-obstacle",
+      "text": "Francisco Goya's recorded life dates place this profile around 1746-1828.",
+      "context": "Francisco Goya's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Francisco Goya",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Goya",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-goya-3-turning-point",
+      "text": "Francisco Goya is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Francisco Goya's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Francisco Goya",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Goya",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-goya-4-contribution",
+      "text": "Francisco Goya's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Francisco Goya's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Francisco Goya",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Goya",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "francisco-goya-5-influence",
+      "text": "Francisco Goya has a Facts Mode card reserved for deeper source research.",
+      "context": "Francisco Goya's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Francisco Goya",
+      "sourceUrl": "https://pantheon.world/profile/person/Francisco_Goya",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

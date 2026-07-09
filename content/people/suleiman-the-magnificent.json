@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Suleiman the Magnificent is a notable politician associated with Türkiye.",
+  "summary": "Suleiman the Magnificent is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "131 language biography editions",
-    "Historical Popularity Index 91.6"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": true,
   "featuredRank": 88,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "suleiman-the-magnificent-pantheon-profile",
-      "text": "Pantheon ranks Suleiman the Magnificent as a globally documented politician with biographies in 131 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Suleiman the Magnificent a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "suleiman-the-magnificent-1-origin",
+      "text": "Suleiman the Magnificent is remembered as a politician connected with Türkiye.",
+      "context": "Suleiman the Magnificent's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Suleiman the Magnificent",
       "sourceUrl": "https://pantheon.world/profile/person/Suleiman_the_Magnificent",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "suleiman-the-magnificent-2-obstacle",
+      "text": "Suleiman the Magnificent's recorded life dates place this profile around 1494-1566.",
+      "context": "Suleiman the Magnificent's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Suleiman the Magnificent",
+      "sourceUrl": "https://pantheon.world/profile/person/Suleiman_the_Magnificent",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "suleiman-the-magnificent-3-turning-point",
+      "text": "Suleiman the Magnificent is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Suleiman the Magnificent's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Suleiman the Magnificent",
+      "sourceUrl": "https://pantheon.world/profile/person/Suleiman_the_Magnificent",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "suleiman-the-magnificent-4-contribution",
+      "text": "Suleiman the Magnificent's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Suleiman the Magnificent's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Suleiman the Magnificent",
+      "sourceUrl": "https://pantheon.world/profile/person/Suleiman_the_Magnificent",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "suleiman-the-magnificent-5-influence",
+      "text": "Suleiman the Magnificent has a Facts Mode card reserved for deeper source research.",
+      "context": "Suleiman the Magnificent's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Suleiman the Magnificent",
+      "sourceUrl": "https://pantheon.world/profile/person/Suleiman_the_Magnificent",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

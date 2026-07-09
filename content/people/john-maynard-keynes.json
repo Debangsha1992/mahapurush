@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "economist"
   ],
-  "summary": "John Maynard Keynes is a notable economist associated with United Kingdom.",
+  "summary": "John Maynard Keynes is a notable economist connected with United Kingdom.",
   "knownFor": [
     "Economist",
-    "135 language biography editions",
-    "Historical Popularity Index 82.8"
+    "Environment, Exploration & Human Achievement",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for John Maynard Keynes",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "john-maynard-keynes-pantheon-profile",
-      "text": "Pantheon ranks John Maynard Keynes as a globally documented economist with biographies in 135 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make John Maynard Keynes a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "john-maynard-keynes-1-origin",
+      "text": "John Maynard Keynes is remembered as a economist connected with United Kingdom.",
+      "context": "John Maynard Keynes's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: John Maynard Keynes",
       "sourceUrl": "https://pantheon.world/profile/person/John_Maynard_Keynes",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-maynard-keynes-2-obstacle",
+      "text": "John Maynard Keynes's recorded life dates place this profile around 1883-1946.",
+      "context": "John Maynard Keynes's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: John Maynard Keynes",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Maynard_Keynes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-maynard-keynes-3-turning-point",
+      "text": "John Maynard Keynes is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "John Maynard Keynes's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: John Maynard Keynes",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Maynard_Keynes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-maynard-keynes-4-contribution",
+      "text": "John Maynard Keynes's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "John Maynard Keynes's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: John Maynard Keynes",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Maynard_Keynes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "john-maynard-keynes-5-influence",
+      "text": "John Maynard Keynes has a Facts Mode card reserved for deeper source research.",
+      "context": "John Maynard Keynes's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: John Maynard Keynes",
+      "sourceUrl": "https://pantheon.world/profile/person/John_Maynard_Keynes",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

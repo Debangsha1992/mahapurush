@@ -1,0 +1,46 @@
+{
+  "personId": "maxim-gorky",
+  "slug": "maxim-gorky",
+  "name": "Maxim Gorky",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Maxim Gorky",
+      "url": "https://pantheon.world/profile/person/Maxim_Gorky",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "maxim-gorky-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Maxim Gorky is remembered as a writer connected with Russia."
+    },
+    {
+      "factId": "maxim-gorky-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Maxim Gorky's recorded life dates place this profile around 1868-1936."
+    },
+    {
+      "factId": "maxim-gorky-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Maxim Gorky is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "maxim-gorky-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Maxim Gorky's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "maxim-gorky-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Maxim Gorky has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

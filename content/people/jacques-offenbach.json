@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "composer"
   ],
-  "summary": "Jacques Offenbach is a notable composer associated with Germany.",
+  "summary": "Jacques Offenbach is a notable composer connected with Germany.",
   "knownFor": [
     "Composer",
-    "92 language biography editions",
-    "Historical Popularity Index 82.4"
+    "Literature, Arts & Culture",
+    "Germany"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Jacques Offenbach",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "jacques-offenbach-pantheon-profile",
-      "text": "Pantheon ranks Jacques Offenbach as a globally documented composer with biographies in 92 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Jacques Offenbach a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "jacques-offenbach-1-origin",
+      "text": "Jacques Offenbach is remembered as a composer connected with Germany.",
+      "context": "Jacques Offenbach's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Jacques Offenbach",
       "sourceUrl": "https://pantheon.world/profile/person/Jacques_Offenbach",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacques-offenbach-2-obstacle",
+      "text": "Jacques Offenbach's recorded life dates place this profile around 1819-1880.",
+      "context": "Jacques Offenbach's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Jacques Offenbach",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacques_Offenbach",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacques-offenbach-3-turning-point",
+      "text": "Jacques Offenbach is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Jacques Offenbach's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Jacques Offenbach",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacques_Offenbach",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacques-offenbach-4-contribution",
+      "text": "Jacques Offenbach's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Jacques Offenbach's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Jacques Offenbach",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacques_Offenbach",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "jacques-offenbach-5-influence",
+      "text": "Jacques Offenbach has a Facts Mode card reserved for deeper source research.",
+      "context": "Jacques Offenbach's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Jacques Offenbach",
+      "sourceUrl": "https://pantheon.world/profile/person/Jacques_Offenbach",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

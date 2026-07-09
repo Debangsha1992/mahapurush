@@ -1,0 +1,46 @@
+{
+  "personId": "seneca-the-younger",
+  "slug": "seneca-the-younger",
+  "name": "Seneca the Younger",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Seneca the Younger",
+      "url": "https://pantheon.world/profile/person/Seneca_the_Younger",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "seneca-the-younger-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Seneca the Younger is remembered as a philosopher connected with Spain."
+    },
+    {
+      "factId": "seneca-the-younger-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Seneca the Younger's recorded life dates place this profile around -4-65."
+    },
+    {
+      "factId": "seneca-the-younger-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Seneca the Younger is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "seneca-the-younger-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Seneca the Younger's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "seneca-the-younger-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Seneca the Younger has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Daniel Defoe is a notable writer associated with United Kingdom.",
+  "summary": "Daniel Defoe is a notable writer connected with United Kingdom.",
   "knownFor": [
     "Writer",
-    "102 language biography editions",
-    "Historical Popularity Index 82.8"
+    "Literature, Arts & Culture",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Daniel Defoe",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "daniel-defoe-pantheon-profile",
-      "text": "Pantheon ranks Daniel Defoe as a globally documented writer with biographies in 102 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Daniel Defoe a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "daniel-defoe-1-origin",
+      "text": "Daniel Defoe is remembered as a writer connected with United Kingdom.",
+      "context": "Daniel Defoe's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Daniel Defoe",
       "sourceUrl": "https://pantheon.world/profile/person/Daniel_Defoe",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "daniel-defoe-2-obstacle",
+      "text": "Daniel Defoe's recorded life dates place this profile around 1660-1731.",
+      "context": "Daniel Defoe's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Daniel Defoe",
+      "sourceUrl": "https://pantheon.world/profile/person/Daniel_Defoe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "daniel-defoe-3-turning-point",
+      "text": "Daniel Defoe is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Daniel Defoe's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Daniel Defoe",
+      "sourceUrl": "https://pantheon.world/profile/person/Daniel_Defoe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "daniel-defoe-4-contribution",
+      "text": "Daniel Defoe's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Daniel Defoe's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Daniel Defoe",
+      "sourceUrl": "https://pantheon.world/profile/person/Daniel_Defoe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "daniel-defoe-5-influence",
+      "text": "Daniel Defoe has a Facts Mode card reserved for deeper source research.",
+      "context": "Daniel Defoe's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Daniel Defoe",
+      "sourceUrl": "https://pantheon.world/profile/person/Daniel_Defoe",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

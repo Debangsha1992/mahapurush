@@ -1,0 +1,46 @@
+{
+  "personId": "bob-dylan",
+  "slug": "bob-dylan",
+  "name": "Bob Dylan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bob Dylan",
+      "url": "https://pantheon.world/profile/person/Bob_Dylan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bob-dylan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bob Dylan is remembered as a musician connected with United States."
+    },
+    {
+      "factId": "bob-dylan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bob Dylan's recorded life dates place this profile around born 1941."
+    },
+    {
+      "factId": "bob-dylan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bob Dylan is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "bob-dylan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bob Dylan's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "bob-dylan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bob Dylan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

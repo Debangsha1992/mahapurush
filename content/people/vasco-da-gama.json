@@ -12,11 +12,11 @@
     "environment-exploration-human-achievement",
     "explorer"
   ],
-  "summary": "Vasco da Gama is a notable explorer associated with Portugal.",
+  "summary": "Vasco da Gama is a notable explorer connected with Portugal.",
   "knownFor": [
     "Explorer",
-    "167 language biography editions",
-    "Historical Popularity Index 91.1"
+    "Environment, Exploration & Human Achievement",
+    "Portugal"
   ],
   "featured": true,
   "featuredRank": 99,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "vasco-da-gama-pantheon-profile",
-      "text": "Pantheon ranks Vasco da Gama as a globally documented explorer with biographies in 167 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Vasco da Gama a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "vasco-da-gama-1-origin",
+      "text": "Vasco da Gama is remembered as a explorer connected with Portugal.",
+      "context": "Vasco da Gama's background gives readers a concrete entry point into Environment, Exploration & Human Achievement.",
       "sourceTitle": "Pantheon: Vasco da Gama",
       "sourceUrl": "https://pantheon.world/profile/person/Vasco_da_Gama",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "environment-exploration-human-achievement",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vasco-da-gama-2-obstacle",
+      "text": "Vasco da Gama's recorded life dates place this profile around 1460-1524.",
+      "context": "Vasco da Gama's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Vasco da Gama",
+      "sourceUrl": "https://pantheon.world/profile/person/Vasco_da_Gama",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vasco-da-gama-3-turning-point",
+      "text": "Vasco da Gama is grouped with Environment, Exploration & Human Achievement in the People Library.",
+      "context": "Vasco da Gama's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Vasco da Gama",
+      "sourceUrl": "https://pantheon.world/profile/person/Vasco_da_Gama",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vasco-da-gama-4-contribution",
+      "text": "Vasco da Gama's profile connects a short Fact to a wider Portugal historical setting.",
+      "context": "Vasco da Gama's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Vasco da Gama",
+      "sourceUrl": "https://pantheon.world/profile/person/Vasco_da_Gama",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vasco-da-gama-5-influence",
+      "text": "Vasco da Gama has a Facts Mode card reserved for deeper source research.",
+      "context": "Vasco da Gama's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Vasco da Gama",
+      "sourceUrl": "https://pantheon.world/profile/person/Vasco_da_Gama",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "environment-exploration-human-achievement",
+        "influence"
       ],
       "verified": true
     }

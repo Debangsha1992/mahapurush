@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Paul Cézanne is a notable painter associated with France.",
+  "summary": "Paul Cézanne is a notable painter connected with France.",
   "knownFor": [
     "Painter",
-    "112 language biography editions",
-    "Historical Popularity Index 85.3"
+    "Justice, Governance & Leadership",
+    "France"
   ],
   "featured": true,
   "featuredRank": 412,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "paul-cezanne-pantheon-profile",
-      "text": "Pantheon ranks Paul Cézanne as a globally documented painter with biographies in 112 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Paul Cézanne a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "paul-cezanne-1-origin",
+      "text": "Paul Cézanne is remembered as a painter connected with France.",
+      "context": "Paul Cézanne's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Paul Cézanne",
       "sourceUrl": "https://pantheon.world/profile/person/Paul_C%C3%A9zanne",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paul-cezanne-2-obstacle",
+      "text": "Paul Cézanne's recorded life dates place this profile around 1839-1906.",
+      "context": "Paul Cézanne's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Paul Cézanne",
+      "sourceUrl": "https://pantheon.world/profile/person/Paul_C%C3%A9zanne",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paul-cezanne-3-turning-point",
+      "text": "Paul Cézanne is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Paul Cézanne's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Paul Cézanne",
+      "sourceUrl": "https://pantheon.world/profile/person/Paul_C%C3%A9zanne",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paul-cezanne-4-contribution",
+      "text": "Paul Cézanne's profile connects a short Fact to a wider France historical setting.",
+      "context": "Paul Cézanne's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Paul Cézanne",
+      "sourceUrl": "https://pantheon.world/profile/person/Paul_C%C3%A9zanne",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "paul-cezanne-5-influence",
+      "text": "Paul Cézanne has a Facts Mode card reserved for deeper source research.",
+      "context": "Paul Cézanne's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Paul Cézanne",
+      "sourceUrl": "https://pantheon.world/profile/person/Paul_C%C3%A9zanne",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

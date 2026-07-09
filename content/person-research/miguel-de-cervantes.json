@@ -1,0 +1,46 @@
+{
+  "personId": "miguel-de-cervantes",
+  "slug": "miguel-de-cervantes",
+  "name": "Miguel de Cervantes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Miguel de Cervantes",
+      "url": "https://pantheon.world/profile/person/Miguel_de_Cervantes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "miguel-de-cervantes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Miguel de Cervantes is remembered as a writer connected with Spain."
+    },
+    {
+      "factId": "miguel-de-cervantes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Miguel de Cervantes's recorded life dates place this profile around 1547-1616."
+    },
+    {
+      "factId": "miguel-de-cervantes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Miguel de Cervantes is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "miguel-de-cervantes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Miguel de Cervantes's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "miguel-de-cervantes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Miguel de Cervantes has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

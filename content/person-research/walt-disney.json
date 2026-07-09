@@ -1,0 +1,46 @@
+{
+  "personId": "walt-disney",
+  "slug": "walt-disney",
+  "name": "Walt Disney",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Walt Disney",
+      "url": "https://pantheon.world/profile/person/Walt_Disney",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "walt-disney-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Walt Disney is remembered as a producer connected with United States."
+    },
+    {
+      "factId": "walt-disney-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Walt Disney's recorded life dates place this profile around 1901-1966."
+    },
+    {
+      "factId": "walt-disney-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Walt Disney is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "walt-disney-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Walt Disney's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "walt-disney-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Walt Disney has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

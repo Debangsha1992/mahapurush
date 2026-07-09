@@ -1,0 +1,46 @@
+{
+  "personId": "pope-sylvester-i",
+  "slug": "pope-sylvester-i",
+  "name": "Pope Sylvester I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Sylvester I",
+      "url": "https://pantheon.world/profile/person/Pope_Sylvester_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-sylvester-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sylvester I is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-sylvester-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sylvester I's recorded life dates place this profile around 300-335."
+    },
+    {
+      "factId": "pope-sylvester-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sylvester I is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-sylvester-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sylvester I's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-sylvester-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Sylvester I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

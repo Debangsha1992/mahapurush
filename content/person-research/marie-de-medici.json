@@ -1,0 +1,46 @@
+{
+  "personId": "marie-de-medici",
+  "slug": "marie-de-medici",
+  "name": "Marie de' Medici",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Marie de' Medici",
+      "url": "https://pantheon.world/profile/person/Marie_de'_Medici",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "marie-de-medici-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Marie de' Medici is remembered as a nobleman connected with Italy."
+    },
+    {
+      "factId": "marie-de-medici-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Marie de' Medici's recorded life dates place this profile around 1575-1642."
+    },
+    {
+      "factId": "marie-de-medici-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Marie de' Medici is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "marie-de-medici-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Marie de' Medici's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "marie-de-medici-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Marie de' Medici has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

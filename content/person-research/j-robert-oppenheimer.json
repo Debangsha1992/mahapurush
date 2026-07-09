@@ -1,0 +1,46 @@
+{
+  "personId": "j-robert-oppenheimer",
+  "slug": "j-robert-oppenheimer",
+  "name": "J. Robert Oppenheimer",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: J. Robert Oppenheimer",
+      "url": "https://pantheon.world/profile/person/J._Robert_Oppenheimer",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "j-robert-oppenheimer-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "J. Robert Oppenheimer is remembered as a physicist connected with United States."
+    },
+    {
+      "factId": "j-robert-oppenheimer-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "J. Robert Oppenheimer's recorded life dates place this profile around 1904-1967."
+    },
+    {
+      "factId": "j-robert-oppenheimer-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "J. Robert Oppenheimer is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "j-robert-oppenheimer-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "J. Robert Oppenheimer's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "j-robert-oppenheimer-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "J. Robert Oppenheimer has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

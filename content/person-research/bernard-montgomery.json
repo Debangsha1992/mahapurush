@@ -1,0 +1,46 @@
+{
+  "personId": "bernard-montgomery",
+  "slug": "bernard-montgomery",
+  "name": "Bernard Montgomery",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bernard Montgomery",
+      "url": "https://pantheon.world/profile/person/Bernard_Montgomery",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bernard-montgomery-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bernard Montgomery is remembered as a military personnel connected with United Kingdom."
+    },
+    {
+      "factId": "bernard-montgomery-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bernard Montgomery's recorded life dates place this profile around 1887-1976."
+    },
+    {
+      "factId": "bernard-montgomery-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bernard Montgomery is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "bernard-montgomery-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bernard Montgomery's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "bernard-montgomery-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bernard Montgomery has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

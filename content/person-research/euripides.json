@@ -1,0 +1,46 @@
+{
+  "personId": "euripides",
+  "slug": "euripides",
+  "name": "Euripides",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Euripides",
+      "url": "https://pantheon.world/profile/person/Euripides",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "euripides-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Euripides is remembered as a writer connected with Greece."
+    },
+    {
+      "factId": "euripides-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Euripides's recorded life dates place this profile around -480--406."
+    },
+    {
+      "factId": "euripides-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Euripides is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "euripides-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Euripides's profile connects a short Fact to a wider Greece historical setting."
+    },
+    {
+      "factId": "euripides-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Euripides has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

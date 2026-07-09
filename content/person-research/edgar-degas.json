@@ -1,0 +1,46 @@
+{
+  "personId": "edgar-degas",
+  "slug": "edgar-degas",
+  "name": "Edgar Degas",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edgar Degas",
+      "url": "https://pantheon.world/profile/person/Edgar_Degas",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edgar-degas-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edgar Degas is remembered as a painter connected with France."
+    },
+    {
+      "factId": "edgar-degas-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edgar Degas's recorded life dates place this profile around 1834-1917."
+    },
+    {
+      "factId": "edgar-degas-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edgar Degas is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "edgar-degas-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edgar Degas's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "edgar-degas-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edgar Degas has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

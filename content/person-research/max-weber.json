@@ -1,0 +1,46 @@
+{
+  "personId": "max-weber",
+  "slug": "max-weber",
+  "name": "Max Weber",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Max Weber",
+      "url": "https://pantheon.world/profile/person/Max_Weber",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "max-weber-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Max Weber is remembered as a sociologist connected with Germany."
+    },
+    {
+      "factId": "max-weber-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Max Weber's recorded life dates place this profile around 1864-1920."
+    },
+    {
+      "factId": "max-weber-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Max Weber is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "max-weber-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Max Weber's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "max-weber-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Max Weber has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

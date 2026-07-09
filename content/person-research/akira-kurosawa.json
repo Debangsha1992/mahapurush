@@ -1,0 +1,46 @@
+{
+  "personId": "akira-kurosawa",
+  "slug": "akira-kurosawa",
+  "name": "Akira Kurosawa",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Akira Kurosawa",
+      "url": "https://pantheon.world/profile/person/Akira_Kurosawa",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "akira-kurosawa-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Akira Kurosawa is remembered as a film director connected with Japan."
+    },
+    {
+      "factId": "akira-kurosawa-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Akira Kurosawa's recorded life dates place this profile around 1910-1998."
+    },
+    {
+      "factId": "akira-kurosawa-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Akira Kurosawa is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "akira-kurosawa-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Akira Kurosawa's profile connects a short Fact to a wider Japan historical setting."
+    },
+    {
+      "factId": "akira-kurosawa-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Akira Kurosawa has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

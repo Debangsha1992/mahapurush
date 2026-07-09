@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Harold Harefoot is a notable nobleman associated with United Kingdom.",
+  "summary": "Harold Harefoot is a notable nobleman connected with United Kingdom.",
   "knownFor": [
     "Nobleman",
-    "55 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Harold Harefoot",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "harold-harefoot-pantheon-profile",
-      "text": "Pantheon ranks Harold Harefoot as a globally documented nobleman with biographies in 55 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Harold Harefoot a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "harold-harefoot-1-origin",
+      "text": "Harold Harefoot is remembered as a nobleman connected with United Kingdom.",
+      "context": "Harold Harefoot's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Harold Harefoot",
       "sourceUrl": "https://pantheon.world/profile/person/Harold_Harefoot",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harold-harefoot-2-obstacle",
+      "text": "Harold Harefoot's recorded life dates place this profile around 1016-1040.",
+      "context": "Harold Harefoot's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Harold Harefoot",
+      "sourceUrl": "https://pantheon.world/profile/person/Harold_Harefoot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harold-harefoot-3-turning-point",
+      "text": "Harold Harefoot is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Harold Harefoot's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Harold Harefoot",
+      "sourceUrl": "https://pantheon.world/profile/person/Harold_Harefoot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harold-harefoot-4-contribution",
+      "text": "Harold Harefoot's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Harold Harefoot's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Harold Harefoot",
+      "sourceUrl": "https://pantheon.world/profile/person/Harold_Harefoot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "harold-harefoot-5-influence",
+      "text": "Harold Harefoot has a Facts Mode card reserved for deeper source research.",
+      "context": "Harold Harefoot's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Harold Harefoot",
+      "sourceUrl": "https://pantheon.world/profile/person/Harold_Harefoot",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

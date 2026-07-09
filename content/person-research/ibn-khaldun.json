@@ -1,0 +1,46 @@
+{
+  "personId": "ibn-khaldun",
+  "slug": "ibn-khaldun",
+  "name": "Ibn Khaldun",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ibn Khaldun",
+      "url": "https://pantheon.world/profile/person/Ibn_Khaldun",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ibn-khaldun-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Khaldun is remembered as a historian connected with Tunisia."
+    },
+    {
+      "factId": "ibn-khaldun-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Khaldun's recorded life dates place this profile around 1332-1406."
+    },
+    {
+      "factId": "ibn-khaldun-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Khaldun is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "ibn-khaldun-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Khaldun's profile connects a short Fact to a wider Tunisia historical setting."
+    },
+    {
+      "factId": "ibn-khaldun-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ibn Khaldun has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

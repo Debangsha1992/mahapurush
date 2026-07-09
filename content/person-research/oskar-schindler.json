@@ -1,0 +1,46 @@
+{
+  "personId": "oskar-schindler",
+  "slug": "oskar-schindler",
+  "name": "Oskar Schindler",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Oskar Schindler",
+      "url": "https://pantheon.world/profile/person/Oskar_Schindler",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "oskar-schindler-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Oskar Schindler is remembered as a businessperson connected with Czechia."
+    },
+    {
+      "factId": "oskar-schindler-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Oskar Schindler's recorded life dates place this profile around 1908-1974."
+    },
+    {
+      "factId": "oskar-schindler-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Oskar Schindler is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "oskar-schindler-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Oskar Schindler's profile connects a short Fact to a wider Czechia historical setting."
+    },
+    {
+      "factId": "oskar-schindler-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Oskar Schindler has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

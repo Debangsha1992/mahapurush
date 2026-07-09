@@ -1,0 +1,46 @@
+{
+  "personId": "matsuo-basho",
+  "slug": "matsuo-basho",
+  "name": "Matsuo Bashō",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Matsuo Bashō",
+      "url": "https://pantheon.world/profile/person/Matsuo_Bash%C5%8D",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "matsuo-basho-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Matsuo Bashō is remembered as a writer connected with Japan."
+    },
+    {
+      "factId": "matsuo-basho-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Matsuo Bashō's recorded life dates place this profile around 1644-1694."
+    },
+    {
+      "factId": "matsuo-basho-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Matsuo Bashō is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "matsuo-basho-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Matsuo Bashō's profile connects a short Fact to a wider Japan historical setting."
+    },
+    {
+      "factId": "matsuo-basho-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Matsuo Bashō has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

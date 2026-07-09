@@ -1,0 +1,46 @@
+{
+  "personId": "lady-jane-grey",
+  "slug": "lady-jane-grey",
+  "name": "Lady Jane Grey",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Lady Jane Grey",
+      "url": "https://pantheon.world/profile/person/Lady_Jane_Grey",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lady-jane-grey-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Lady Jane Grey is remembered as a nobleman connected with United Kingdom."
+    },
+    {
+      "factId": "lady-jane-grey-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Lady Jane Grey's recorded life dates place this profile around 1537-1554."
+    },
+    {
+      "factId": "lady-jane-grey-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Lady Jane Grey is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "lady-jane-grey-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lady Jane Grey's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "lady-jane-grey-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lady Jane Grey has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

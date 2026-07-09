@@ -1,0 +1,47 @@
+{
+  "personId": "archimedes",
+  "slug": "archimedes",
+  "name": "Archimedes",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Archimedes",
+      "url": "https://en.wikipedia.org/wiki/Archimedes",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Greek mathematician and physicist (c. 287 – 212 BC)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "archimedes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Archimedes of Syracuse was an Ancient Greek mathematician, physicist, engineer, astronomer, and inventor from the city of Syracuse in Sicily."
+    },
+    {
+      "factId": "archimedes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Archimedes anticipated modern calculus by using infinitesimals and the method of exhaustion to prove theorems on the area of a circle, the surface area and volume of a sphere, and the area under a parabola."
+    },
+    {
+      "factId": "archimedes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Archimedes is remembered as a mathematician connected with Italy."
+    },
+    {
+      "factId": "archimedes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Archimedes's recorded life dates place this profile around -287--212."
+    },
+    {
+      "factId": "archimedes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Archimedes is grouped with Science, Math & Technology in the People Library."
+    }
+  ]
+}

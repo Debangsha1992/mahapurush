@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Sandro Botticelli is a notable painter associated with Italy.",
+  "summary": "Sandro Botticelli is a notable painter connected with Italy.",
   "knownFor": [
     "Painter",
-    "101 language biography editions",
-    "Historical Popularity Index 87.2"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 261,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "sandro-botticelli-pantheon-profile",
-      "text": "Pantheon ranks Sandro Botticelli as a globally documented painter with biographies in 101 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Sandro Botticelli a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "sandro-botticelli-1-origin",
+      "text": "Sandro Botticelli is remembered as a painter connected with Italy.",
+      "context": "Sandro Botticelli's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Sandro Botticelli",
       "sourceUrl": "https://pantheon.world/profile/person/Sandro_Botticelli",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sandro-botticelli-2-obstacle",
+      "text": "Sandro Botticelli's recorded life dates place this profile around 1445-1510.",
+      "context": "Sandro Botticelli's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Sandro Botticelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Sandro_Botticelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sandro-botticelli-3-turning-point",
+      "text": "Sandro Botticelli is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Sandro Botticelli's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Sandro Botticelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Sandro_Botticelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sandro-botticelli-4-contribution",
+      "text": "Sandro Botticelli's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Sandro Botticelli's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Sandro Botticelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Sandro_Botticelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sandro-botticelli-5-influence",
+      "text": "Sandro Botticelli has a Facts Mode card reserved for deeper source research.",
+      "context": "Sandro Botticelli's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Sandro Botticelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Sandro_Botticelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

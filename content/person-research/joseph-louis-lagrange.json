@@ -1,0 +1,46 @@
+{
+  "personId": "joseph-louis-lagrange",
+  "slug": "joseph-louis-lagrange",
+  "name": "Joseph-Louis Lagrange",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Joseph-Louis Lagrange",
+      "url": "https://pantheon.world/profile/person/Joseph-Louis_Lagrange",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "joseph-louis-lagrange-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Joseph-Louis Lagrange is remembered as a mathematician connected with Italy."
+    },
+    {
+      "factId": "joseph-louis-lagrange-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Joseph-Louis Lagrange's recorded life dates place this profile around 1736-1813."
+    },
+    {
+      "factId": "joseph-louis-lagrange-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Joseph-Louis Lagrange is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "joseph-louis-lagrange-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Joseph-Louis Lagrange's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "joseph-louis-lagrange-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Joseph-Louis Lagrange has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

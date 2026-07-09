@@ -1,0 +1,46 @@
+{
+  "personId": "justinian-i",
+  "slug": "justinian-i",
+  "name": "Justinian I",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Justinian I",
+      "url": "https://pantheon.world/profile/person/Justinian_I",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "justinian-i-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Justinian I is remembered as a politician connected with North Macedonia."
+    },
+    {
+      "factId": "justinian-i-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Justinian I's recorded life dates place this profile around 482-565."
+    },
+    {
+      "factId": "justinian-i-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Justinian I is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "justinian-i-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Justinian I's profile connects a short Fact to a wider North Macedonia historical setting."
+    },
+    {
+      "factId": "justinian-i-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Justinian I has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

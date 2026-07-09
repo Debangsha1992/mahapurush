@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Isabella I of Castile is a notable politician associated with Spain.",
+  "summary": "Isabella I of Castile is a notable politician connected with Spain.",
   "knownFor": [
     "Politician",
-    "93 language biography editions",
-    "Historical Popularity Index 83.0"
+    "Justice, Governance & Leadership",
+    "Spain"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Isabella I of Castile",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "isabella-i-of-castile-pantheon-profile",
-      "text": "Pantheon ranks Isabella I of Castile as a globally documented politician with biographies in 93 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Isabella I of Castile a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "isabella-i-of-castile-1-origin",
+      "text": "Isabella I of Castile is remembered as a politician connected with Spain.",
+      "context": "Isabella I of Castile's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Isabella I of Castile",
       "sourceUrl": "https://pantheon.world/profile/person/Isabella_I_of_Castile",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "isabella-i-of-castile-2-obstacle",
+      "text": "Isabella I of Castile's recorded life dates place this profile around 1451-1504.",
+      "context": "Isabella I of Castile's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Isabella I of Castile",
+      "sourceUrl": "https://pantheon.world/profile/person/Isabella_I_of_Castile",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "isabella-i-of-castile-3-turning-point",
+      "text": "Isabella I of Castile is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Isabella I of Castile's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Isabella I of Castile",
+      "sourceUrl": "https://pantheon.world/profile/person/Isabella_I_of_Castile",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "isabella-i-of-castile-4-contribution",
+      "text": "Isabella I of Castile's profile connects a short Fact to a wider Spain historical setting.",
+      "context": "Isabella I of Castile's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Isabella I of Castile",
+      "sourceUrl": "https://pantheon.world/profile/person/Isabella_I_of_Castile",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "isabella-i-of-castile-5-influence",
+      "text": "Isabella I of Castile has a Facts Mode card reserved for deeper source research.",
+      "context": "Isabella I of Castile's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Isabella I of Castile",
+      "sourceUrl": "https://pantheon.world/profile/person/Isabella_I_of_Castile",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

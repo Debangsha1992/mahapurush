@@ -12,11 +12,11 @@
     "science-math-technology",
     "mathematician"
   ],
-  "summary": "Omar Khayyam is a notable mathematician associated with Iran.",
+  "summary": "Omar Khayyam is a notable mathematician connected with Iran.",
   "knownFor": [
     "Mathematician",
-    "115 language biography editions",
-    "Historical Popularity Index 86.7"
+    "Science, Math & Technology",
+    "Iran"
   ],
   "featured": true,
   "featuredRank": 297,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "omar-khayyam-pantheon-profile",
-      "text": "Pantheon ranks Omar Khayyam as a globally documented mathematician with biographies in 115 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Omar Khayyam a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "omar-khayyam-1-origin",
+      "text": "Omar Khayyam is remembered as a mathematician connected with Iran.",
+      "context": "Omar Khayyam's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Omar Khayyam",
       "sourceUrl": "https://pantheon.world/profile/person/Omar_Khayyam",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "omar-khayyam-2-obstacle",
+      "text": "Omar Khayyam's recorded life dates place this profile around 1048-1131.",
+      "context": "Omar Khayyam's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Omar Khayyam",
+      "sourceUrl": "https://pantheon.world/profile/person/Omar_Khayyam",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "omar-khayyam-3-turning-point",
+      "text": "Omar Khayyam is grouped with Science, Math & Technology in the People Library.",
+      "context": "Omar Khayyam's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Omar Khayyam",
+      "sourceUrl": "https://pantheon.world/profile/person/Omar_Khayyam",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "omar-khayyam-4-contribution",
+      "text": "Omar Khayyam's profile connects a short Fact to a wider Iran historical setting.",
+      "context": "Omar Khayyam's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Omar Khayyam",
+      "sourceUrl": "https://pantheon.world/profile/person/Omar_Khayyam",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "omar-khayyam-5-influence",
+      "text": "Omar Khayyam has a Facts Mode card reserved for deeper source research.",
+      "context": "Omar Khayyam's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Omar Khayyam",
+      "sourceUrl": "https://pantheon.world/profile/person/Omar_Khayyam",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "edmond-halley",
+  "slug": "edmond-halley",
+  "name": "Edmond Halley",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edmond Halley",
+      "url": "https://pantheon.world/profile/person/Edmond_Halley",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edmond-halley-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edmond Halley is remembered as a astronomer connected with United Kingdom."
+    },
+    {
+      "factId": "edmond-halley-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edmond Halley's recorded life dates place this profile around 1656-1742."
+    },
+    {
+      "factId": "edmond-halley-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edmond Halley is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "edmond-halley-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edmond Halley's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "edmond-halley-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edmond Halley has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

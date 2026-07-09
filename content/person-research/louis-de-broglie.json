@@ -1,0 +1,46 @@
+{
+  "personId": "louis-de-broglie",
+  "slug": "louis-de-broglie",
+  "name": "Louis de Broglie",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Louis de Broglie",
+      "url": "https://pantheon.world/profile/person/Louis_de_Broglie",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "louis-de-broglie-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Louis de Broglie is remembered as a physicist connected with France."
+    },
+    {
+      "factId": "louis-de-broglie-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Louis de Broglie's recorded life dates place this profile around 1892-1987."
+    },
+    {
+      "factId": "louis-de-broglie-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Louis de Broglie is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "louis-de-broglie-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Louis de Broglie's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "louis-de-broglie-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Louis de Broglie has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

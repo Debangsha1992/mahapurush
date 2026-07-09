@@ -1,0 +1,46 @@
+{
+  "personId": "robert-hooke",
+  "slug": "robert-hooke",
+  "name": "Robert Hooke",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Robert Hooke",
+      "url": "https://pantheon.world/profile/person/Robert_Hooke",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "robert-hooke-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Robert Hooke is remembered as a physicist connected with United Kingdom."
+    },
+    {
+      "factId": "robert-hooke-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Robert Hooke's recorded life dates place this profile around 1635-1703."
+    },
+    {
+      "factId": "robert-hooke-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Robert Hooke is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "robert-hooke-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Robert Hooke's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "robert-hooke-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Robert Hooke has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "arthur-schopenhauer",
+  "slug": "arthur-schopenhauer",
+  "name": "Arthur Schopenhauer",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Arthur Schopenhauer",
+      "url": "https://pantheon.world/profile/person/Arthur_Schopenhauer",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "arthur-schopenhauer-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Arthur Schopenhauer is remembered as a philosopher connected with Poland."
+    },
+    {
+      "factId": "arthur-schopenhauer-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Arthur Schopenhauer's recorded life dates place this profile around 1788-1860."
+    },
+    {
+      "factId": "arthur-schopenhauer-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Arthur Schopenhauer is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "arthur-schopenhauer-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Arthur Schopenhauer's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "arthur-schopenhauer-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Arthur Schopenhauer has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

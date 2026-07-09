@@ -1,0 +1,46 @@
+{
+  "personId": "frida-kahlo",
+  "slug": "frida-kahlo",
+  "name": "Frida Kahlo",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Frida Kahlo",
+      "url": "https://pantheon.world/profile/person/Frida_Kahlo",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "frida-kahlo-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Frida Kahlo is remembered as a painter connected with Mexico."
+    },
+    {
+      "factId": "frida-kahlo-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Frida Kahlo's recorded life dates place this profile around 1907-1954."
+    },
+    {
+      "factId": "frida-kahlo-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Frida Kahlo is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "frida-kahlo-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Frida Kahlo's profile connects a short Fact to a wider Mexico historical setting."
+    },
+    {
+      "factId": "frida-kahlo-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Frida Kahlo has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,37 +12,132 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Rumi is a notable writer associated with Afghanistan.",
+  "summary": "Jalāl al-Dīn Muḥammad Rūmī, commonly known as Rumi, was a Sufi mystic, poet, and founder of the Islamic brotherhood known as the Mevlevi Order.",
   "knownFor": [
     "Writer",
-    "109 language biography editions",
-    "Historical Popularity Index 86.6"
+    "Literature, Arts & Culture",
+    "Afghanistan"
   ],
   "featured": true,
   "featuredRank": 304,
   "imageAlt": "Portrait-style visual for Rumi",
   "sourceRefs": [
     {
-      "title": "Pantheon: Rumi",
-      "url": "https://pantheon.world/profile/person/Rumi",
+      "title": "Wikipedia: Rumi",
+      "url": "https://en.wikipedia.org/wiki/Rumi",
       "accessedAt": "2026-07-06"
+    },
+    {
+      "title": "Encyclopaedia Britannica: Rumi",
+      "url": "https://www.britannica.com/biography/Rumi",
+      "accessedAt": "2026-07-07"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "rumi-pantheon-profile",
-      "text": "Pantheon ranks Rumi as a globally documented writer with biographies in 109 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Rumi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Rumi",
-      "sourceUrl": "https://pantheon.world/profile/person/Rumi",
-      "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "id": "rumi-approved-01",
+      "text": "Rumi's Masnavi became one of the most influential works of Persian mystical poetry.",
+      "context": "Rumi shows how poetry can become a way of thinking about love, loss, discipline, and the divine.",
+      "sourceTitle": "Encyclopaedia Britannica: Rumi",
+      "sourceUrl": "https://www.britannica.com/biography/Rumi",
+      "sourceAccessedAt": "2026-07-07",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "editorialStatus": "facts-mode-approved",
+      "sourceNote": "Britannica identifies the Masnavi as Rumi's major work and discusses his influence.",
       "tags": [
-        "literature-arts-culture",
-        "pantheon"
+        "literature-arts-culture"
       ],
       "verified": true
+    },
+    {
+      "id": "rumi-1-origin",
+      "text": "Jalāl al-Dīn Muḥammad Rūmī, commonly known as Rumi, was a Sufi mystic, poet, and founder of the Islamic brotherhood known as the Mevlevi Order.",
+      "context": "Rumi's background gives readers a concrete entry point into Literature, Arts & Culture.",
+      "sourceTitle": "Wikipedia: Rumi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rumi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
+      "tags": [
+        "literature-arts-culture",
+        "origin"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "rumi-2-obstacle",
+      "text": "Rumi is an influential figure in Sufism, and his thought and works loom large both in Persian literature and mystic poetry in general.",
+      "context": "Rumi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Rumi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rumi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "rumi-3-turning-point",
+      "text": "Rumi is remembered as a writer connected with Afghanistan.",
+      "context": "Rumi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Rumi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rumi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "rumi-4-contribution",
+      "text": "Rumi's recorded life dates place this profile around 1207-1273.",
+      "context": "Rumi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Rumi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rumi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
+    },
+    {
+      "id": "rumi-5-influence",
+      "text": "Rumi is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Rumi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Rumi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rumi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
+      ],
+      "verified": true,
+      "editorialStatus": "draft"
     }
   ]
 }

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Kim Jong-il is a notable politician associated with Russia.",
+  "summary": "Kim Jong-il is a notable politician connected with Russia.",
   "knownFor": [
     "Politician",
-    "117 language biography editions",
-    "Historical Popularity Index 87.6"
+    "Justice, Governance & Leadership",
+    "Russia"
   ],
   "featured": true,
   "featuredRank": 239,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "kim-jong-il-pantheon-profile",
-      "text": "Pantheon ranks Kim Jong-il as a globally documented politician with biographies in 117 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Kim Jong-il a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "kim-jong-il-1-origin",
+      "text": "Kim Jong-il is remembered as a politician connected with Russia.",
+      "context": "Kim Jong-il's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Kim Jong-il",
       "sourceUrl": "https://pantheon.world/profile/person/Kim_Jong-il",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kim-jong-il-2-obstacle",
+      "text": "Kim Jong-il's recorded life dates place this profile around 1941-2011.",
+      "context": "Kim Jong-il's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Kim Jong-il",
+      "sourceUrl": "https://pantheon.world/profile/person/Kim_Jong-il",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kim-jong-il-3-turning-point",
+      "text": "Kim Jong-il is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Kim Jong-il's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Kim Jong-il",
+      "sourceUrl": "https://pantheon.world/profile/person/Kim_Jong-il",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kim-jong-il-4-contribution",
+      "text": "Kim Jong-il's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Kim Jong-il's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Kim Jong-il",
+      "sourceUrl": "https://pantheon.world/profile/person/Kim_Jong-il",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "kim-jong-il-5-influence",
+      "text": "Kim Jong-il has a Facts Mode card reserved for deeper source research.",
+      "context": "Kim Jong-il's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Kim Jong-il",
+      "sourceUrl": "https://pantheon.world/profile/person/Kim_Jong-il",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

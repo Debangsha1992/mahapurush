@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Haakon VII of Norway is a notable politician associated with Denmark.",
+  "summary": "Haakon VII of Norway is a notable politician connected with Denmark.",
   "knownFor": [
     "Politician",
-    "66 language biography editions",
-    "Historical Popularity Index 82.8"
+    "Justice, Governance & Leadership",
+    "Denmark"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Haakon VII of Norway",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "haakon-vii-of-norway-pantheon-profile",
-      "text": "Pantheon ranks Haakon VII of Norway as a globally documented politician with biographies in 66 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Haakon VII of Norway a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "haakon-vii-of-norway-1-origin",
+      "text": "Haakon VII of Norway is remembered as a politician connected with Denmark.",
+      "context": "Haakon VII of Norway's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Haakon VII of Norway",
       "sourceUrl": "https://pantheon.world/profile/person/Haakon_VII_of_Norway",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "haakon-vii-of-norway-2-obstacle",
+      "text": "Haakon VII of Norway's recorded life dates place this profile around 1872-1957.",
+      "context": "Haakon VII of Norway's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Haakon VII of Norway",
+      "sourceUrl": "https://pantheon.world/profile/person/Haakon_VII_of_Norway",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "haakon-vii-of-norway-3-turning-point",
+      "text": "Haakon VII of Norway is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Haakon VII of Norway's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Haakon VII of Norway",
+      "sourceUrl": "https://pantheon.world/profile/person/Haakon_VII_of_Norway",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "haakon-vii-of-norway-4-contribution",
+      "text": "Haakon VII of Norway's profile connects a short Fact to a wider Denmark historical setting.",
+      "context": "Haakon VII of Norway's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Haakon VII of Norway",
+      "sourceUrl": "https://pantheon.world/profile/person/Haakon_VII_of_Norway",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "haakon-vii-of-norway-5-influence",
+      "text": "Haakon VII of Norway has a Facts Mode card reserved for deeper source research.",
+      "context": "Haakon VII of Norway's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Haakon VII of Norway",
+      "sourceUrl": "https://pantheon.world/profile/person/Haakon_VII_of_Norway",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

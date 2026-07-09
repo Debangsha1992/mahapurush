@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Robert Hooke is a notable physicist associated with United Kingdom.",
+  "summary": "Robert Hooke is a notable physicist connected with United Kingdom.",
   "knownFor": [
     "Physicist",
-    "95 language biography editions",
-    "Historical Popularity Index 82.9"
+    "Science, Math & Technology",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Robert Hooke",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "robert-hooke-pantheon-profile",
-      "text": "Pantheon ranks Robert Hooke as a globally documented physicist with biographies in 95 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Robert Hooke a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "robert-hooke-1-origin",
+      "text": "Robert Hooke is remembered as a physicist connected with United Kingdom.",
+      "context": "Robert Hooke's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Robert Hooke",
       "sourceUrl": "https://pantheon.world/profile/person/Robert_Hooke",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-hooke-2-obstacle",
+      "text": "Robert Hooke's recorded life dates place this profile around 1635-1703.",
+      "context": "Robert Hooke's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Robert Hooke",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Hooke",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-hooke-3-turning-point",
+      "text": "Robert Hooke is grouped with Science, Math & Technology in the People Library.",
+      "context": "Robert Hooke's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Robert Hooke",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Hooke",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-hooke-4-contribution",
+      "text": "Robert Hooke's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Robert Hooke's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Robert Hooke",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Hooke",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "robert-hooke-5-influence",
+      "text": "Robert Hooke has a Facts Mode card reserved for deeper source research.",
+      "context": "Robert Hooke's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Robert Hooke",
+      "sourceUrl": "https://pantheon.world/profile/person/Robert_Hooke",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

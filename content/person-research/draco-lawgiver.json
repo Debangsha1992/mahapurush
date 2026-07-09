@@ -1,0 +1,47 @@
+{
+  "personId": "draco-lawgiver",
+  "slug": "draco-lawgiver",
+  "name": "Draco",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Draco",
+      "url": "https://en.wikipedia.org/wiki/Draco",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Topics referred to by the same term"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "draco-lawgiver-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Draco is the Greco-Latin word for serpent, or dragon."
+    },
+    {
+      "factId": "draco-lawgiver-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Draco is remembered as a public worker connected with Greece."
+    },
+    {
+      "factId": "draco-lawgiver-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Draco's recorded life dates place this profile around -650--600."
+    },
+    {
+      "factId": "draco-lawgiver-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Draco is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "draco-lawgiver-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Draco's profile connects a short Fact to a wider Greece historical setting."
+    }
+  ]
+}

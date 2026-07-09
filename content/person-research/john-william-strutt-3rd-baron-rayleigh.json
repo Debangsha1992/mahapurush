@@ -1,0 +1,46 @@
+{
+  "personId": "john-william-strutt-3rd-baron-rayleigh",
+  "slug": "john-william-strutt-3rd-baron-rayleigh",
+  "name": "John William Strutt, 3rd Baron Rayleigh",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John William Strutt, 3rd Baron Rayleigh",
+      "url": "https://pantheon.world/profile/person/John_William_Strutt%2C_3rd_Baron_Rayleigh",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-william-strutt-3rd-baron-rayleigh-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John William Strutt, 3rd Baron Rayleigh is remembered as a physicist connected with United Kingdom."
+    },
+    {
+      "factId": "john-william-strutt-3rd-baron-rayleigh-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John William Strutt, 3rd Baron Rayleigh's recorded life dates place this profile around 1842-1919."
+    },
+    {
+      "factId": "john-william-strutt-3rd-baron-rayleigh-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John William Strutt, 3rd Baron Rayleigh is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "john-william-strutt-3rd-baron-rayleigh-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John William Strutt, 3rd Baron Rayleigh's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "john-william-strutt-3rd-baron-rayleigh-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John William Strutt, 3rd Baron Rayleigh has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

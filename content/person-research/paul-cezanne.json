@@ -1,0 +1,46 @@
+{
+  "personId": "paul-cezanne",
+  "slug": "paul-cezanne",
+  "name": "Paul Cézanne",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Paul Cézanne",
+      "url": "https://pantheon.world/profile/person/Paul_C%C3%A9zanne",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "paul-cezanne-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Paul Cézanne is remembered as a painter connected with France."
+    },
+    {
+      "factId": "paul-cezanne-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Paul Cézanne's recorded life dates place this profile around 1839-1906."
+    },
+    {
+      "factId": "paul-cezanne-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Paul Cézanne is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "paul-cezanne-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Paul Cézanne's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "paul-cezanne-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Paul Cézanne has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "maria-goeppert-mayer",
+  "slug": "maria-goeppert-mayer",
+  "name": "Maria Goeppert Mayer",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Maria Goeppert Mayer",
+      "url": "https://pantheon.world/profile/person/Maria_Goeppert_Mayer",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "maria-goeppert-mayer-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Maria Goeppert Mayer is remembered as a physicist connected with Poland."
+    },
+    {
+      "factId": "maria-goeppert-mayer-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Maria Goeppert Mayer's recorded life dates place this profile around 1906-1972."
+    },
+    {
+      "factId": "maria-goeppert-mayer-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Maria Goeppert Mayer is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "maria-goeppert-mayer-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Maria Goeppert Mayer's profile connects a short Fact to a wider Poland historical setting."
+    },
+    {
+      "factId": "maria-goeppert-mayer-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Maria Goeppert Mayer has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

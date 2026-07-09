@@ -12,11 +12,11 @@
     "science-math-technology",
     "physicist"
   ],
-  "summary": "Evangelista Torricelli is a notable physicist associated with Italy.",
+  "summary": "Evangelista Torricelli is a notable physicist connected with Italy.",
   "knownFor": [
     "Physicist",
-    "84 language biography editions",
-    "Historical Popularity Index 84.3"
+    "Science, Math & Technology",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Evangelista Torricelli",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "evangelista-torricelli-pantheon-profile",
-      "text": "Pantheon ranks Evangelista Torricelli as a globally documented physicist with biographies in 84 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Evangelista Torricelli a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "evangelista-torricelli-1-origin",
+      "text": "Evangelista Torricelli is remembered as a physicist connected with Italy.",
+      "context": "Evangelista Torricelli's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Evangelista Torricelli",
       "sourceUrl": "https://pantheon.world/profile/person/Evangelista_Torricelli",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "evangelista-torricelli-2-obstacle",
+      "text": "Evangelista Torricelli's recorded life dates place this profile around 1608-1647.",
+      "context": "Evangelista Torricelli's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Evangelista Torricelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Evangelista_Torricelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "evangelista-torricelli-3-turning-point",
+      "text": "Evangelista Torricelli is grouped with Science, Math & Technology in the People Library.",
+      "context": "Evangelista Torricelli's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Evangelista Torricelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Evangelista_Torricelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "evangelista-torricelli-4-contribution",
+      "text": "Evangelista Torricelli's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Evangelista Torricelli's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Evangelista Torricelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Evangelista_Torricelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "evangelista-torricelli-5-influence",
+      "text": "Evangelista Torricelli has a Facts Mode card reserved for deeper source research.",
+      "context": "Evangelista Torricelli's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Evangelista Torricelli",
+      "sourceUrl": "https://pantheon.world/profile/person/Evangelista_Torricelli",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

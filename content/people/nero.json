@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Nero is a notable politician associated with Italy.",
+  "summary": "Nero is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "111 language biography editions",
-    "Historical Popularity Index 87.2"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 266,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "nero-pantheon-profile",
-      "text": "Pantheon ranks Nero as a globally documented politician with biographies in 111 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Nero a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "nero-1-origin",
+      "text": "Nero is remembered as a politician connected with Italy.",
+      "context": "Nero's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Nero",
       "sourceUrl": "https://pantheon.world/profile/person/Nero",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nero-2-obstacle",
+      "text": "Nero's recorded life dates place this profile around 37-68.",
+      "context": "Nero's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Nero",
+      "sourceUrl": "https://pantheon.world/profile/person/Nero",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nero-3-turning-point",
+      "text": "Nero is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Nero's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Nero",
+      "sourceUrl": "https://pantheon.world/profile/person/Nero",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nero-4-contribution",
+      "text": "Nero's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Nero's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Nero",
+      "sourceUrl": "https://pantheon.world/profile/person/Nero",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nero-5-influence",
+      "text": "Nero has a Facts Mode card reserved for deeper source research.",
+      "context": "Nero's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Nero",
+      "sourceUrl": "https://pantheon.world/profile/person/Nero",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

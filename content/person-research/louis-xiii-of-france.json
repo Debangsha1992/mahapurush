@@ -1,0 +1,46 @@
+{
+  "personId": "louis-xiii-of-france",
+  "slug": "louis-xiii-of-france",
+  "name": "Louis XIII of France",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Louis XIII of France",
+      "url": "https://pantheon.world/profile/person/Louis_XIII_of_France",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "louis-xiii-of-france-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Louis XIII of France is remembered as a politician connected with France."
+    },
+    {
+      "factId": "louis-xiii-of-france-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Louis XIII of France's recorded life dates place this profile around 1601-1643."
+    },
+    {
+      "factId": "louis-xiii-of-france-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Louis XIII of France is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "louis-xiii-of-france-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Louis XIII of France's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "louis-xiii-of-france-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Louis XIII of France has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

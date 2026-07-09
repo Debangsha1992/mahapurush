@@ -1,0 +1,46 @@
+{
+  "personId": "gottfried-wilhelm-leibniz",
+  "slug": "gottfried-wilhelm-leibniz",
+  "name": "Gottfried Wilhelm Leibniz",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gottfried Wilhelm Leibniz",
+      "url": "https://pantheon.world/profile/person/Gottfried_Wilhelm_Leibniz",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gottfried-wilhelm-leibniz-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gottfried Wilhelm Leibniz is remembered as a mathematician connected with Germany."
+    },
+    {
+      "factId": "gottfried-wilhelm-leibniz-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gottfried Wilhelm Leibniz's recorded life dates place this profile around 1646-1716."
+    },
+    {
+      "factId": "gottfried-wilhelm-leibniz-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gottfried Wilhelm Leibniz is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "gottfried-wilhelm-leibniz-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gottfried Wilhelm Leibniz's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "gottfried-wilhelm-leibniz-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gottfried Wilhelm Leibniz has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

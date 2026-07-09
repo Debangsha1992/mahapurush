@@ -1,0 +1,46 @@
+{
+  "personId": "salman-of-saudi-arabia",
+  "slug": "salman-of-saudi-arabia",
+  "name": "Salman of Saudi Arabia",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Salman of Saudi Arabia",
+      "url": "https://pantheon.world/profile/person/Salman_of_Saudi_Arabia",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "salman-of-saudi-arabia-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Salman of Saudi Arabia is remembered as a politician connected with Saudi Arabia."
+    },
+    {
+      "factId": "salman-of-saudi-arabia-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Salman of Saudi Arabia's recorded life dates place this profile around born 1935."
+    },
+    {
+      "factId": "salman-of-saudi-arabia-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Salman of Saudi Arabia is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "salman-of-saudi-arabia-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Salman of Saudi Arabia's profile connects a short Fact to a wider Saudi Arabia historical setting."
+    },
+    {
+      "factId": "salman-of-saudi-arabia-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Salman of Saudi Arabia has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

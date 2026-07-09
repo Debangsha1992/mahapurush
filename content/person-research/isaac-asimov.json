@@ -1,0 +1,46 @@
+{
+  "personId": "isaac-asimov",
+  "slug": "isaac-asimov",
+  "name": "Isaac Asimov",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Isaac Asimov",
+      "url": "https://pantheon.world/profile/person/Isaac_Asimov",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "isaac-asimov-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Isaac Asimov is remembered as a writer connected with Russia."
+    },
+    {
+      "factId": "isaac-asimov-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Isaac Asimov's recorded life dates place this profile around 1920-1992."
+    },
+    {
+      "factId": "isaac-asimov-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Isaac Asimov is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "isaac-asimov-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Isaac Asimov's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "isaac-asimov-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Isaac Asimov has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

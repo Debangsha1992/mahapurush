@@ -1,0 +1,46 @@
+{
+  "personId": "khafra",
+  "slug": "khafra",
+  "name": "Khafra",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Khafra",
+      "url": "https://pantheon.world/profile/person/Khafra",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "khafra-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Khafra is remembered as a politician connected with Egypt."
+    },
+    {
+      "factId": "khafra-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Khafra's recorded life dates place this profile around -2550--2479."
+    },
+    {
+      "factId": "khafra-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Khafra is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "khafra-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Khafra's profile connects a short Fact to a wider Egypt historical setting."
+    },
+    {
+      "factId": "khafra-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Khafra has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

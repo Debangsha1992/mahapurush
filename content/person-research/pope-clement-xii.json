@@ -1,0 +1,46 @@
+{
+  "personId": "pope-clement-xii",
+  "slug": "pope-clement-xii",
+  "name": "Pope Clement XII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Clement XII",
+      "url": "https://pantheon.world/profile/person/Pope_Clement_XII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-clement-xii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-clement-xii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XII's recorded life dates place this profile around 1652-1740."
+    },
+    {
+      "factId": "pope-clement-xii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-clement-xii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-clement-xii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement XII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

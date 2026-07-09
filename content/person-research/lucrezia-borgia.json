@@ -1,0 +1,46 @@
+{
+  "personId": "lucrezia-borgia",
+  "slug": "lucrezia-borgia",
+  "name": "Lucrezia Borgia",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Lucrezia Borgia",
+      "url": "https://pantheon.world/profile/person/Lucrezia_Borgia",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "lucrezia-borgia-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Lucrezia Borgia is remembered as a nobleman connected with Italy."
+    },
+    {
+      "factId": "lucrezia-borgia-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Lucrezia Borgia's recorded life dates place this profile around 1480-1519."
+    },
+    {
+      "factId": "lucrezia-borgia-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Lucrezia Borgia is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "lucrezia-borgia-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Lucrezia Borgia's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "lucrezia-borgia-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Lucrezia Borgia has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

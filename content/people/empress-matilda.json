@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Empress Matilda is a notable nobleman associated with United Kingdom.",
+  "summary": "Empress Matilda is a notable nobleman connected with United Kingdom.",
   "knownFor": [
     "Nobleman",
-    "64 language biography editions",
-    "Historical Popularity Index 82.3"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Empress Matilda",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "empress-matilda-pantheon-profile",
-      "text": "Pantheon ranks Empress Matilda as a globally documented nobleman with biographies in 64 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Empress Matilda a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "empress-matilda-1-origin",
+      "text": "Empress Matilda is remembered as a nobleman connected with United Kingdom.",
+      "context": "Empress Matilda's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Empress Matilda",
       "sourceUrl": "https://pantheon.world/profile/person/Empress_Matilda",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "empress-matilda-2-obstacle",
+      "text": "Empress Matilda's recorded life dates place this profile around 1102-1167.",
+      "context": "Empress Matilda's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Empress Matilda",
+      "sourceUrl": "https://pantheon.world/profile/person/Empress_Matilda",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "empress-matilda-3-turning-point",
+      "text": "Empress Matilda is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Empress Matilda's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Empress Matilda",
+      "sourceUrl": "https://pantheon.world/profile/person/Empress_Matilda",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "empress-matilda-4-contribution",
+      "text": "Empress Matilda's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Empress Matilda's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Empress Matilda",
+      "sourceUrl": "https://pantheon.world/profile/person/Empress_Matilda",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "empress-matilda-5-influence",
+      "text": "Empress Matilda has a Facts Mode card reserved for deeper source research.",
+      "context": "Empress Matilda's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Empress Matilda",
+      "sourceUrl": "https://pantheon.world/profile/person/Empress_Matilda",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

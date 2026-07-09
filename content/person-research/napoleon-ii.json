@@ -1,0 +1,46 @@
+{
+  "personId": "napoleon-ii",
+  "slug": "napoleon-ii",
+  "name": "Napoleon II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Napoleon II",
+      "url": "https://pantheon.world/profile/person/Napoleon_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "napoleon-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Napoleon II is remembered as a politician connected with France."
+    },
+    {
+      "factId": "napoleon-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Napoleon II's recorded life dates place this profile around 1811-1832."
+    },
+    {
+      "factId": "napoleon-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Napoleon II is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "napoleon-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Napoleon II's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "napoleon-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Napoleon II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

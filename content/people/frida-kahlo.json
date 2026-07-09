@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Frida Kahlo is a notable painter associated with Mexico.",
+  "summary": "Frida Kahlo is a notable painter connected with Mexico.",
   "knownFor": [
     "Painter",
-    "166 language biography editions",
-    "Historical Popularity Index 89.1"
+    "Justice, Governance & Leadership",
+    "Mexico"
   ],
   "featured": true,
   "featuredRank": 167,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "frida-kahlo-pantheon-profile",
-      "text": "Pantheon ranks Frida Kahlo as a globally documented painter with biographies in 166 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Frida Kahlo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "frida-kahlo-1-origin",
+      "text": "Frida Kahlo is remembered as a painter connected with Mexico.",
+      "context": "Frida Kahlo's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Frida Kahlo",
       "sourceUrl": "https://pantheon.world/profile/person/Frida_Kahlo",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frida-kahlo-2-obstacle",
+      "text": "Frida Kahlo's recorded life dates place this profile around 1907-1954.",
+      "context": "Frida Kahlo's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Frida Kahlo",
+      "sourceUrl": "https://pantheon.world/profile/person/Frida_Kahlo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frida-kahlo-3-turning-point",
+      "text": "Frida Kahlo is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Frida Kahlo's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Frida Kahlo",
+      "sourceUrl": "https://pantheon.world/profile/person/Frida_Kahlo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frida-kahlo-4-contribution",
+      "text": "Frida Kahlo's profile connects a short Fact to a wider Mexico historical setting.",
+      "context": "Frida Kahlo's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Frida Kahlo",
+      "sourceUrl": "https://pantheon.world/profile/person/Frida_Kahlo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "frida-kahlo-5-influence",
+      "text": "Frida Kahlo has a Facts Mode card reserved for deeper source research.",
+      "context": "Frida Kahlo's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Frida Kahlo",
+      "sourceUrl": "https://pantheon.world/profile/person/Frida_Kahlo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

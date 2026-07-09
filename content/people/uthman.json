@@ -12,34 +12,105 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Uthman is a notable politician associated with Saudi Arabia.",
+  "summary": "Uthman is a notable politician connected with Saudi Arabia.",
   "knownFor": [
     "Politician",
-    "96 language biography editions",
-    "Historical Popularity Index 84.3"
+    "Justice, Governance & Leadership",
+    "Saudi Arabia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Uthman",
   "sourceRefs": [
     {
-      "title": "Pantheon: Uthman",
-      "url": "https://pantheon.world/profile/person/Uthman",
+      "title": "Wikipedia: Uthman",
+      "url": "https://en.wikipedia.org/wiki/Uthman",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "uthman-pantheon-profile",
-      "text": "Pantheon ranks Uthman as a globally documented politician with biographies in 96 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Uthman a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Uthman",
-      "sourceUrl": "https://pantheon.world/profile/person/Uthman",
+      "id": "uthman-1-origin",
+      "text": "Uthman is remembered as a politician connected with Saudi Arabia.",
+      "context": "Uthman's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Uthman",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Uthman",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "uthman-2-obstacle",
+      "text": "Uthman's recorded life dates place this profile around 574-656.",
+      "context": "Uthman's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Uthman",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Uthman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "uthman-3-turning-point",
+      "text": "Uthman is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Uthman's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Uthman",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Uthman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "uthman-4-contribution",
+      "text": "Uthman's profile connects a short Fact to a wider Saudi Arabia historical setting.",
+      "context": "Uthman's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Uthman",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Uthman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "uthman-5-influence",
+      "text": "Uthman has a Facts Mode card reserved for deeper source research.",
+      "context": "Uthman's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Uthman",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Uthman",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

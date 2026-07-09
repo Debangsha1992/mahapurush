@@ -1,0 +1,46 @@
+{
+  "personId": "qin-shi-huang",
+  "slug": "qin-shi-huang",
+  "name": "Qin Shi Huang",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Qin Shi Huang",
+      "url": "https://pantheon.world/profile/person/Qin_Shi_Huang",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "qin-shi-huang-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Qin Shi Huang is remembered as a politician connected with China."
+    },
+    {
+      "factId": "qin-shi-huang-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Qin Shi Huang's recorded life dates place this profile around -258--210."
+    },
+    {
+      "factId": "qin-shi-huang-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Qin Shi Huang is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "qin-shi-huang-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Qin Shi Huang's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "qin-shi-huang-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Qin Shi Huang has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

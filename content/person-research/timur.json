@@ -1,0 +1,46 @@
+{
+  "personId": "timur",
+  "slug": "timur",
+  "name": "Timur",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Timur",
+      "url": "https://pantheon.world/profile/person/Timur",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "timur-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Timur is remembered as a military personnel connected with Uzbekistan."
+    },
+    {
+      "factId": "timur-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Timur's recorded life dates place this profile around 1336-1405."
+    },
+    {
+      "factId": "timur-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Timur is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "timur-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Timur's profile connects a short Fact to a wider Uzbekistan historical setting."
+    },
+    {
+      "factId": "timur-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Timur has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

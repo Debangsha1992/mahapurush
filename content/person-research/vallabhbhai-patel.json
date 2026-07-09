@@ -1,0 +1,46 @@
+{
+  "personId": "vallabhbhai-patel",
+  "slug": "vallabhbhai-patel",
+  "name": "Vallabhbhai Patel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Vallabhbhai Patel",
+      "url": "https://pantheon.world/profile/person/Vallabhbhai_Patel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "vallabhbhai-patel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Vallabhbhai Patel is remembered as a politician connected with India."
+    },
+    {
+      "factId": "vallabhbhai-patel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Vallabhbhai Patel's recorded life dates place this profile around 1875-1950."
+    },
+    {
+      "factId": "vallabhbhai-patel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Vallabhbhai Patel is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "vallabhbhai-patel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Vallabhbhai Patel's profile connects a short Fact to a wider India historical setting."
+    },
+    {
+      "factId": "vallabhbhai-patel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Vallabhbhai Patel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

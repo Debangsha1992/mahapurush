@@ -1,0 +1,47 @@
+{
+  "personId": "muhammad",
+  "slug": "muhammad",
+  "name": "Muhammad",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Muhammad",
+      "url": "https://en.wikipedia.org/wiki/Muhammad",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Founder of Islam (c. 570–632)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "muhammad-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Muhammad was an Arab religious, military, and political leader, and the founder of Islam."
+    },
+    {
+      "factId": "muhammad-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "tradition",
+      "text": "Muhammad is believed by Muslims to be the Seal of the Prophets, and along with the Quran, his teachings and normative examples form the basis for Islamic religious belief."
+    },
+    {
+      "factId": "muhammad-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad is remembered as a religious figure connected with Saudi Arabia."
+    },
+    {
+      "factId": "muhammad-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad's recorded life dates place this profile around 570-632."
+    },
+    {
+      "factId": "muhammad-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Muhammad is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "aspasia",
+  "slug": "aspasia",
+  "name": "Aspasia",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Aspasia",
+      "url": "https://pantheon.world/profile/person/Aspasia",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "aspasia-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Aspasia is remembered as a companion connected with Türkiye."
+    },
+    {
+      "factId": "aspasia-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Aspasia's recorded life dates place this profile around -470--400."
+    },
+    {
+      "factId": "aspasia-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Aspasia is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "aspasia-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Aspasia's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "aspasia-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Aspasia has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

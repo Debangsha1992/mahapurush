@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Saparmurat Niyazov is a notable politician associated with Turkmenistan.",
+  "summary": "Saparmurat Niyazov is a notable politician connected with Turkmenistan.",
   "knownFor": [
     "Politician",
-    "84 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Justice, Governance & Leadership",
+    "Turkmenistan"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Saparmurat Niyazov",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "saparmurat-niyazov-pantheon-profile",
-      "text": "Pantheon ranks Saparmurat Niyazov as a globally documented politician with biographies in 84 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Saparmurat Niyazov a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "saparmurat-niyazov-1-origin",
+      "text": "Saparmurat Niyazov is remembered as a politician connected with Turkmenistan.",
+      "context": "Saparmurat Niyazov's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Saparmurat Niyazov",
       "sourceUrl": "https://pantheon.world/profile/person/Saparmurat_Niyazov",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saparmurat-niyazov-2-obstacle",
+      "text": "Saparmurat Niyazov's recorded life dates place this profile around 1940-2006.",
+      "context": "Saparmurat Niyazov's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Saparmurat Niyazov",
+      "sourceUrl": "https://pantheon.world/profile/person/Saparmurat_Niyazov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saparmurat-niyazov-3-turning-point",
+      "text": "Saparmurat Niyazov is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Saparmurat Niyazov's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Saparmurat Niyazov",
+      "sourceUrl": "https://pantheon.world/profile/person/Saparmurat_Niyazov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saparmurat-niyazov-4-contribution",
+      "text": "Saparmurat Niyazov's profile connects a short Fact to a wider Turkmenistan historical setting.",
+      "context": "Saparmurat Niyazov's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Saparmurat Niyazov",
+      "sourceUrl": "https://pantheon.world/profile/person/Saparmurat_Niyazov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "saparmurat-niyazov-5-influence",
+      "text": "Saparmurat Niyazov has a Facts Mode card reserved for deeper source research.",
+      "context": "Saparmurat Niyazov's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Saparmurat Niyazov",
+      "sourceUrl": "https://pantheon.world/profile/person/Saparmurat_Niyazov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

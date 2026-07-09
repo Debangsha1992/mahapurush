@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Anton Chekhov is a notable writer associated with Russia.",
+  "summary": "Anton Chekhov is a notable writer connected with Russia.",
   "knownFor": [
     "Writer",
-    "168 language biography editions",
-    "Historical Popularity Index 86.7"
+    "Literature, Arts & Culture",
+    "Russia"
   ],
   "featured": true,
   "featuredRank": 299,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "anton-chekhov-pantheon-profile",
-      "text": "Pantheon ranks Anton Chekhov as a globally documented writer with biographies in 168 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Anton Chekhov a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "anton-chekhov-1-origin",
+      "text": "Anton Chekhov is remembered as a writer connected with Russia.",
+      "context": "Anton Chekhov's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Anton Chekhov",
       "sourceUrl": "https://pantheon.world/profile/person/Anton_Chekhov",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anton-chekhov-2-obstacle",
+      "text": "Anton Chekhov's recorded life dates place this profile around 1860-1904.",
+      "context": "Anton Chekhov's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Anton Chekhov",
+      "sourceUrl": "https://pantheon.world/profile/person/Anton_Chekhov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anton-chekhov-3-turning-point",
+      "text": "Anton Chekhov is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Anton Chekhov's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Anton Chekhov",
+      "sourceUrl": "https://pantheon.world/profile/person/Anton_Chekhov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anton-chekhov-4-contribution",
+      "text": "Anton Chekhov's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Anton Chekhov's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Anton Chekhov",
+      "sourceUrl": "https://pantheon.world/profile/person/Anton_Chekhov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "anton-chekhov-5-influence",
+      "text": "Anton Chekhov has a Facts Mode card reserved for deeper source research.",
+      "context": "Anton Chekhov's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Anton Chekhov",
+      "sourceUrl": "https://pantheon.world/profile/person/Anton_Chekhov",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

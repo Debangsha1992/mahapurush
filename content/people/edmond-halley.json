@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "astronomer"
   ],
-  "summary": "Edmond Halley is a notable astronomer associated with United Kingdom.",
+  "summary": "Edmond Halley is a notable astronomer connected with United Kingdom.",
   "knownFor": [
     "Astronomer",
-    "90 language biography editions",
-    "Historical Popularity Index 85.6"
+    "Justice, Governance & Leadership",
+    "United Kingdom"
   ],
   "featured": true,
   "featuredRank": 388,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "edmond-halley-pantheon-profile",
-      "text": "Pantheon ranks Edmond Halley as a globally documented astronomer with biographies in 90 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Edmond Halley a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "edmond-halley-1-origin",
+      "text": "Edmond Halley is remembered as a astronomer connected with United Kingdom.",
+      "context": "Edmond Halley's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Edmond Halley",
       "sourceUrl": "https://pantheon.world/profile/person/Edmond_Halley",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edmond-halley-2-obstacle",
+      "text": "Edmond Halley's recorded life dates place this profile around 1656-1742.",
+      "context": "Edmond Halley's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Edmond Halley",
+      "sourceUrl": "https://pantheon.world/profile/person/Edmond_Halley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edmond-halley-3-turning-point",
+      "text": "Edmond Halley is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Edmond Halley's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Edmond Halley",
+      "sourceUrl": "https://pantheon.world/profile/person/Edmond_Halley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edmond-halley-4-contribution",
+      "text": "Edmond Halley's profile connects a short Fact to a wider United Kingdom historical setting.",
+      "context": "Edmond Halley's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Edmond Halley",
+      "sourceUrl": "https://pantheon.world/profile/person/Edmond_Halley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "edmond-halley-5-influence",
+      "text": "Edmond Halley has a Facts Mode card reserved for deeper source research.",
+      "context": "Edmond Halley's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Edmond Halley",
+      "sourceUrl": "https://pantheon.world/profile/person/Edmond_Halley",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

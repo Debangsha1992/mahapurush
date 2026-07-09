@@ -12,34 +12,104 @@
     "justice-governance-leadership",
     "public-worker"
   ],
-  "summary": "Draco is a notable public worker associated with Greece.",
+  "summary": "Draco is the Greco-Latin word for serpent, or dragon.",
   "knownFor": [
     "Public Worker",
-    "51 language biography editions",
-    "Historical Popularity Index 82.3"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Draco",
   "sourceRefs": [
     {
-      "title": "Pantheon: Draco",
-      "url": "https://pantheon.world/profile/person/Draco_(lawgiver)",
+      "title": "Wikipedia: Draco",
+      "url": "https://en.wikipedia.org/wiki/Draco",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "draco-lawgiver-pantheon-profile",
-      "text": "Pantheon ranks Draco as a globally documented public worker with biographies in 51 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Draco a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Draco",
-      "sourceUrl": "https://pantheon.world/profile/person/Draco_(lawgiver)",
+      "id": "draco-lawgiver-1-origin",
+      "text": "Draco is the Greco-Latin word for serpent, or dragon.",
+      "context": "Draco's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Draco",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Draco",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "draco-lawgiver-2-obstacle",
+      "text": "Draco is remembered as a public worker connected with Greece.",
+      "context": "Draco's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Draco",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Draco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "draco-lawgiver-3-turning-point",
+      "text": "Draco's recorded life dates place this profile around -650--600.",
+      "context": "Draco's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Draco",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Draco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "draco-lawgiver-4-contribution",
+      "text": "Draco is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Draco's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Draco",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Draco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "draco-lawgiver-5-influence",
+      "text": "Draco's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Draco's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Draco",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Draco",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

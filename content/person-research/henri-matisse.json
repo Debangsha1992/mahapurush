@@ -1,0 +1,46 @@
+{
+  "personId": "henri-matisse",
+  "slug": "henri-matisse",
+  "name": "Henri Matisse",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Henri Matisse",
+      "url": "https://pantheon.world/profile/person/Henri_Matisse",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "henri-matisse-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Henri Matisse is remembered as a painter connected with France."
+    },
+    {
+      "factId": "henri-matisse-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Henri Matisse's recorded life dates place this profile around 1869-1954."
+    },
+    {
+      "factId": "henri-matisse-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Henri Matisse is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "henri-matisse-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Henri Matisse's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "henri-matisse-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Henri Matisse has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

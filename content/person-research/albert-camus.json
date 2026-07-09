@@ -1,0 +1,46 @@
+{
+  "personId": "albert-camus",
+  "slug": "albert-camus",
+  "name": "Albert Camus",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Albert Camus",
+      "url": "https://pantheon.world/profile/person/Albert_Camus",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "albert-camus-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Albert Camus is remembered as a writer connected with Algeria."
+    },
+    {
+      "factId": "albert-camus-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Albert Camus's recorded life dates place this profile around 1913-1960."
+    },
+    {
+      "factId": "albert-camus-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Albert Camus is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "albert-camus-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Albert Camus's profile connects a short Fact to a wider Algeria historical setting."
+    },
+    {
+      "factId": "albert-camus-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Albert Camus has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

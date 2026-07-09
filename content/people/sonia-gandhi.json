@@ -12,34 +12,101 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Sonia Gandhi is a notable politician associated with Italy.",
+  "summary": "Sonia Gandhi is an Italian-born Indian politician.",
   "knownFor": [
     "Politician",
-    "83 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Sonia Gandhi",
   "sourceRefs": [
     {
-      "title": "Pantheon: Sonia Gandhi",
-      "url": "https://pantheon.world/profile/person/Sonia_Gandhi",
+      "title": "Wikipedia: Sonia Gandhi",
+      "url": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "sonia-gandhi-pantheon-profile",
-      "text": "Pantheon ranks Sonia Gandhi as a globally documented politician with biographies in 83 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Sonia Gandhi a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Sonia Gandhi",
-      "sourceUrl": "https://pantheon.world/profile/person/Sonia_Gandhi",
+      "id": "sonia-gandhi-1-origin",
+      "text": "Sonia Gandhi is an Italian-born Indian politician.",
+      "context": "Sonia Gandhi's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Sonia Gandhi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sonia-gandhi-2-obstacle",
+      "text": "Sonia Gandhi is the longest-serving president of the Indian National Congress, a big-tent liberal political party, which has governed India for most of its post-independence history.",
+      "context": "Sonia Gandhi's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Sonia Gandhi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sonia-gandhi-3-turning-point",
+      "text": "Sonia Gandhi took over as the party leader in 1998, seven years after the assassination of Rajiv Gandhi, her husband and a former Prime Minister of India, and remained in office until 2017 after serving for twenty-two years.",
+      "context": "Sonia Gandhi's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Sonia Gandhi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sonia-gandhi-4-contribution",
+      "text": "Sonia Gandhi returned to the post as interim president in 2019 and remained the President for another three years until 2022.",
+      "context": "Sonia Gandhi's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Sonia Gandhi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sonia-gandhi-5-influence",
+      "text": "Sonia Gandhi is remembered as a politician connected with Italy.",
+      "context": "Sonia Gandhi's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Sonia Gandhi",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sonia_Gandhi",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

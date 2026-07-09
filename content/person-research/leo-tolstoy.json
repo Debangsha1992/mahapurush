@@ -1,0 +1,46 @@
+{
+  "personId": "leo-tolstoy",
+  "slug": "leo-tolstoy",
+  "name": "Leo Tolstoy",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Leo Tolstoy",
+      "url": "https://pantheon.world/profile/person/Leo_Tolstoy",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "leo-tolstoy-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Leo Tolstoy is remembered as a writer connected with Russia."
+    },
+    {
+      "factId": "leo-tolstoy-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Leo Tolstoy's recorded life dates place this profile around 1828-1910."
+    },
+    {
+      "factId": "leo-tolstoy-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Leo Tolstoy is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "leo-tolstoy-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Leo Tolstoy's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "leo-tolstoy-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Leo Tolstoy has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

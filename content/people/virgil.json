@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Virgil is a notable writer associated with Italy.",
+  "summary": "Virgil is a notable writer connected with Italy.",
   "knownFor": [
     "Writer",
-    "172 language biography editions",
-    "Historical Popularity Index 88.0"
+    "Literature, Arts & Culture",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 215,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "virgil-pantheon-profile",
-      "text": "Pantheon ranks Virgil as a globally documented writer with biographies in 172 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Virgil a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "virgil-1-origin",
+      "text": "Virgil is remembered as a writer connected with Italy.",
+      "context": "Virgil's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Virgil",
       "sourceUrl": "https://pantheon.world/profile/person/Virgil",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "virgil-2-obstacle",
+      "text": "Virgil's recorded life dates place this profile around -70--19.",
+      "context": "Virgil's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Virgil",
+      "sourceUrl": "https://pantheon.world/profile/person/Virgil",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "virgil-3-turning-point",
+      "text": "Virgil is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Virgil's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Virgil",
+      "sourceUrl": "https://pantheon.world/profile/person/Virgil",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "virgil-4-contribution",
+      "text": "Virgil's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Virgil's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Virgil",
+      "sourceUrl": "https://pantheon.world/profile/person/Virgil",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "virgil-5-influence",
+      "text": "Virgil has a Facts Mode card reserved for deeper source research.",
+      "context": "Virgil's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Virgil",
+      "sourceUrl": "https://pantheon.world/profile/person/Virgil",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

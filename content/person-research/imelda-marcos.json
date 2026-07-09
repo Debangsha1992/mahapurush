@@ -1,0 +1,46 @@
+{
+  "personId": "imelda-marcos",
+  "slug": "imelda-marcos",
+  "name": "Imelda Marcos",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Imelda Marcos",
+      "url": "https://pantheon.world/profile/person/Imelda_Marcos",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "imelda-marcos-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Imelda Marcos is remembered as a companion connected with Philippines."
+    },
+    {
+      "factId": "imelda-marcos-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Imelda Marcos's recorded life dates place this profile around born 1929."
+    },
+    {
+      "factId": "imelda-marcos-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Imelda Marcos is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "imelda-marcos-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Imelda Marcos's profile connects a short Fact to a wider Philippines historical setting."
+    },
+    {
+      "factId": "imelda-marcos-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Imelda Marcos has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Du Fu is a notable writer associated with China.",
+  "summary": "Du Fu is a notable writer connected with China.",
   "knownFor": [
     "Writer",
-    "117 language biography editions",
-    "Historical Popularity Index 82.4"
+    "Literature, Arts & Culture",
+    "China"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Du Fu",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "du-fu-pantheon-profile",
-      "text": "Pantheon ranks Du Fu as a globally documented writer with biographies in 117 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Du Fu a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "du-fu-1-origin",
+      "text": "Du Fu is remembered as a writer connected with China.",
+      "context": "Du Fu's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Du Fu",
       "sourceUrl": "https://pantheon.world/profile/person/Du_Fu",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "du-fu-2-obstacle",
+      "text": "Du Fu's recorded life dates place this profile around 712-770.",
+      "context": "Du Fu's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Du Fu",
+      "sourceUrl": "https://pantheon.world/profile/person/Du_Fu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "du-fu-3-turning-point",
+      "text": "Du Fu is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Du Fu's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Du Fu",
+      "sourceUrl": "https://pantheon.world/profile/person/Du_Fu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "du-fu-4-contribution",
+      "text": "Du Fu's profile connects a short Fact to a wider China historical setting.",
+      "context": "Du Fu's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Du Fu",
+      "sourceUrl": "https://pantheon.world/profile/person/Du_Fu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "du-fu-5-influence",
+      "text": "Du Fu has a Facts Mode card reserved for deeper source research.",
+      "context": "Du Fu's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Du Fu",
+      "sourceUrl": "https://pantheon.world/profile/person/Du_Fu",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

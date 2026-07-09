@@ -1,0 +1,46 @@
+{
+  "personId": "pierre-auguste-renoir",
+  "slug": "pierre-auguste-renoir",
+  "name": "Pierre-Auguste Renoir",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pierre-Auguste Renoir",
+      "url": "https://pantheon.world/profile/person/Pierre-Auguste_Renoir",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pierre-auguste-renoir-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pierre-Auguste Renoir is remembered as a painter connected with France."
+    },
+    {
+      "factId": "pierre-auguste-renoir-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pierre-Auguste Renoir's recorded life dates place this profile around 1841-1919."
+    },
+    {
+      "factId": "pierre-auguste-renoir-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pierre-Auguste Renoir is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "pierre-auguste-renoir-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pierre-Auguste Renoir's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "pierre-auguste-renoir-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pierre-Auguste Renoir has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

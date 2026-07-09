@@ -1,0 +1,46 @@
+{
+  "personId": "louis-pasteur",
+  "slug": "louis-pasteur",
+  "name": "Louis Pasteur",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Louis Pasteur",
+      "url": "https://pantheon.world/profile/person/Louis_Pasteur",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "louis-pasteur-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Louis Pasteur is remembered as a chemist connected with France."
+    },
+    {
+      "factId": "louis-pasteur-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Louis Pasteur's recorded life dates place this profile around 1822-1895."
+    },
+    {
+      "factId": "louis-pasteur-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Louis Pasteur is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "louis-pasteur-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Louis Pasteur's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "louis-pasteur-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Louis Pasteur has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

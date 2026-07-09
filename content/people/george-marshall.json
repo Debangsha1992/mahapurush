@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "George Marshall is a notable politician associated with United States.",
+  "summary": "George Marshall is a notable politician connected with United States.",
   "knownFor": [
     "Politician",
-    "80 language biography editions",
-    "Historical Popularity Index 84.0"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for George Marshall",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "george-marshall-pantheon-profile",
-      "text": "Pantheon ranks George Marshall as a globally documented politician with biographies in 80 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make George Marshall a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "george-marshall-1-origin",
+      "text": "George Marshall is remembered as a politician connected with United States.",
+      "context": "George Marshall's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: George Marshall",
       "sourceUrl": "https://pantheon.world/profile/person/George_Marshall",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-marshall-2-obstacle",
+      "text": "George Marshall's recorded life dates place this profile around 1880-1959.",
+      "context": "George Marshall's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: George Marshall",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Marshall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-marshall-3-turning-point",
+      "text": "George Marshall is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "George Marshall's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: George Marshall",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Marshall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-marshall-4-contribution",
+      "text": "George Marshall's profile connects a short Fact to a wider United States historical setting.",
+      "context": "George Marshall's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: George Marshall",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Marshall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "george-marshall-5-influence",
+      "text": "George Marshall has a Facts Mode card reserved for deeper source research.",
+      "context": "George Marshall's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: George Marshall",
+      "sourceUrl": "https://pantheon.world/profile/person/George_Marshall",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

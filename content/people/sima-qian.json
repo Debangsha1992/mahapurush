@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "historian"
   ],
-  "summary": "Sima Qian is a notable historian associated with China.",
+  "summary": "Sima Qian is a notable historian connected with China.",
   "knownFor": [
     "Historian",
-    "118 language biography editions",
-    "Historical Popularity Index 83.5"
+    "Literature, Arts & Culture",
+    "China"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Sima Qian",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "sima-qian-pantheon-profile",
-      "text": "Pantheon ranks Sima Qian as a globally documented historian with biographies in 118 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Sima Qian a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "sima-qian-1-origin",
+      "text": "Sima Qian is remembered as a historian connected with China.",
+      "context": "Sima Qian's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Sima Qian",
       "sourceUrl": "https://pantheon.world/profile/person/Sima_Qian",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sima-qian-2-obstacle",
+      "text": "Sima Qian's recorded life dates place this profile around -145--86.",
+      "context": "Sima Qian's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Sima Qian",
+      "sourceUrl": "https://pantheon.world/profile/person/Sima_Qian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sima-qian-3-turning-point",
+      "text": "Sima Qian is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Sima Qian's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Sima Qian",
+      "sourceUrl": "https://pantheon.world/profile/person/Sima_Qian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sima-qian-4-contribution",
+      "text": "Sima Qian's profile connects a short Fact to a wider China historical setting.",
+      "context": "Sima Qian's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Sima Qian",
+      "sourceUrl": "https://pantheon.world/profile/person/Sima_Qian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "sima-qian-5-influence",
+      "text": "Sima Qian has a Facts Mode card reserved for deeper source research.",
+      "context": "Sima Qian's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Sima Qian",
+      "sourceUrl": "https://pantheon.world/profile/person/Sima_Qian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

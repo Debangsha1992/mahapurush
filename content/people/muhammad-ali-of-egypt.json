@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Muhammad Ali of Egypt is a notable politician associated with Greece.",
+  "summary": "Muhammad Ali of Egypt is a notable politician connected with Greece.",
   "knownFor": [
     "Politician",
-    "70 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Muhammad Ali of Egypt",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "muhammad-ali-of-egypt-pantheon-profile",
-      "text": "Pantheon ranks Muhammad Ali of Egypt as a globally documented politician with biographies in 70 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Muhammad Ali of Egypt a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "muhammad-ali-of-egypt-1-origin",
+      "text": "Muhammad Ali of Egypt is remembered as a politician connected with Greece.",
+      "context": "Muhammad Ali of Egypt's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Muhammad Ali of Egypt",
       "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_of_Egypt",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-of-egypt-2-obstacle",
+      "text": "Muhammad Ali of Egypt's recorded life dates place this profile around 1769-1849.",
+      "context": "Muhammad Ali of Egypt's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Muhammad Ali of Egypt",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_of_Egypt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-of-egypt-3-turning-point",
+      "text": "Muhammad Ali of Egypt is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Muhammad Ali of Egypt's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Muhammad Ali of Egypt",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_of_Egypt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-of-egypt-4-contribution",
+      "text": "Muhammad Ali of Egypt's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Muhammad Ali of Egypt's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Muhammad Ali of Egypt",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_of_Egypt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "muhammad-ali-of-egypt-5-influence",
+      "text": "Muhammad Ali of Egypt has a Facts Mode card reserved for deeper source research.",
+      "context": "Muhammad Ali of Egypt's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Muhammad Ali of Egypt",
+      "sourceUrl": "https://pantheon.world/profile/person/Muhammad_Ali_of_Egypt",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

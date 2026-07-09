@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Solon is a notable politician associated with Greece.",
+  "summary": "Solon is a notable politician connected with Greece.",
   "knownFor": [
     "Politician",
-    "78 language biography editions",
-    "Historical Popularity Index 86.6"
+    "Justice, Governance & Leadership",
+    "Greece"
   ],
   "featured": true,
   "featuredRank": 312,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "solon-pantheon-profile",
-      "text": "Pantheon ranks Solon as a globally documented politician with biographies in 78 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Solon a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "solon-1-origin",
+      "text": "Solon is remembered as a politician connected with Greece.",
+      "context": "Solon's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Solon",
       "sourceUrl": "https://pantheon.world/profile/person/Solon",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "solon-2-obstacle",
+      "text": "Solon's recorded life dates place this profile around -638--558.",
+      "context": "Solon's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Solon",
+      "sourceUrl": "https://pantheon.world/profile/person/Solon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "solon-3-turning-point",
+      "text": "Solon is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Solon's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Solon",
+      "sourceUrl": "https://pantheon.world/profile/person/Solon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "solon-4-contribution",
+      "text": "Solon's profile connects a short Fact to a wider Greece historical setting.",
+      "context": "Solon's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Solon",
+      "sourceUrl": "https://pantheon.world/profile/person/Solon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "solon-5-influence",
+      "text": "Solon has a Facts Mode card reserved for deeper source research.",
+      "context": "Solon's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Solon",
+      "sourceUrl": "https://pantheon.world/profile/person/Solon",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

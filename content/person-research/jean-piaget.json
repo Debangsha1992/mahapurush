@@ -1,0 +1,46 @@
+{
+  "personId": "jean-piaget",
+  "slug": "jean-piaget",
+  "name": "Jean Piaget",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jean Piaget",
+      "url": "https://pantheon.world/profile/person/Jean_Piaget",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jean-piaget-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jean Piaget is remembered as a psychologist connected with Switzerland."
+    },
+    {
+      "factId": "jean-piaget-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jean Piaget's recorded life dates place this profile around 1896-1980."
+    },
+    {
+      "factId": "jean-piaget-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jean Piaget is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "jean-piaget-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jean Piaget's profile connects a short Fact to a wider Switzerland historical setting."
+    },
+    {
+      "factId": "jean-piaget-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jean Piaget has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

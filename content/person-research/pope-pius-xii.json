@@ -1,0 +1,46 @@
+{
+  "personId": "pope-pius-xii",
+  "slug": "pope-pius-xii",
+  "name": "Pope Pius XII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Pius XII",
+      "url": "https://pantheon.world/profile/person/Pope_Pius_XII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-pius-xii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius XII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-pius-xii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius XII's recorded life dates place this profile around 1876-1958."
+    },
+    {
+      "factId": "pope-pius-xii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius XII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-pius-xii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius XII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-pius-xii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius XII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

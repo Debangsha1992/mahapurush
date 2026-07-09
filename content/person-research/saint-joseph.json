@@ -1,0 +1,46 @@
+{
+  "personId": "saint-joseph",
+  "slug": "saint-joseph",
+  "name": "Saint Joseph",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Saint Joseph",
+      "url": "https://pantheon.world/profile/person/Saint_Joseph",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "saint-joseph-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Saint Joseph is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "saint-joseph-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Saint Joseph's recorded life dates place this profile around -100-100."
+    },
+    {
+      "factId": "saint-joseph-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Saint Joseph is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "saint-joseph-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Saint Joseph's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "saint-joseph-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Saint Joseph has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

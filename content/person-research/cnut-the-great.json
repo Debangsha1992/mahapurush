@@ -1,0 +1,46 @@
+{
+  "personId": "cnut-the-great",
+  "slug": "cnut-the-great",
+  "name": "Cnut the Great",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Cnut the Great",
+      "url": "https://pantheon.world/profile/person/Cnut_the_Great",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "cnut-the-great-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Cnut the Great is remembered as a politician connected with Denmark."
+    },
+    {
+      "factId": "cnut-the-great-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Cnut the Great's recorded life dates place this profile around 995-1035."
+    },
+    {
+      "factId": "cnut-the-great-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Cnut the Great is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "cnut-the-great-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Cnut the Great's profile connects a short Fact to a wider Denmark historical setting."
+    },
+    {
+      "factId": "cnut-the-great-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Cnut the Great has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

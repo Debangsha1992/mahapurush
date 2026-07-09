@@ -1,0 +1,46 @@
+{
+  "personId": "pope-clement-vii",
+  "slug": "pope-clement-vii",
+  "name": "Pope Clement VII",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Clement VII",
+      "url": "https://pantheon.world/profile/person/Pope_Clement_VII",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-clement-vii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement VII is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-clement-vii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement VII's recorded life dates place this profile around 1478-1534."
+    },
+    {
+      "factId": "pope-clement-vii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement VII is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-clement-vii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement VII's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-clement-vii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Clement VII has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

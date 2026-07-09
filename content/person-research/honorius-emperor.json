@@ -1,0 +1,47 @@
+{
+  "personId": "honorius-emperor",
+  "slug": "honorius-emperor",
+  "name": "Honorius",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Honorius",
+      "url": "https://en.wikipedia.org/wiki/Honorius",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Western Roman emperor from 393 to 423"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "honorius-emperor-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Honorius was Roman emperor from 393 to 423."
+    },
+    {
+      "factId": "honorius-emperor-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Honorius was the younger son of emperor Theodosius I and his first wife Aelia Flaccilla."
+    },
+    {
+      "factId": "honorius-emperor-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "After the death of Theodosius in 395, Honorius, under the regency of Stilicho, ruled the western half of the empire while his brother Arcadius ruled the eastern half."
+    },
+    {
+      "factId": "honorius-emperor-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Honorius's reign over the Western Roman Empire was precarious and chaotic."
+    },
+    {
+      "factId": "honorius-emperor-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Honorius is remembered as a politician connected with Türkiye."
+    }
+  ]
+}

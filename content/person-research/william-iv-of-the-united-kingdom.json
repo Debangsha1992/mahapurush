@@ -1,0 +1,46 @@
+{
+  "personId": "william-iv-of-the-united-kingdom",
+  "slug": "william-iv-of-the-united-kingdom",
+  "name": "William IV of the United Kingdom",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: William IV of the United Kingdom",
+      "url": "https://pantheon.world/profile/person/William_IV_of_the_United_Kingdom",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "william-iv-of-the-united-kingdom-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "William IV of the United Kingdom is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "william-iv-of-the-united-kingdom-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "William IV of the United Kingdom's recorded life dates place this profile around 1765-1837."
+    },
+    {
+      "factId": "william-iv-of-the-united-kingdom-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "William IV of the United Kingdom is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "william-iv-of-the-united-kingdom-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "William IV of the United Kingdom's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "william-iv-of-the-united-kingdom-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "William IV of the United Kingdom has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

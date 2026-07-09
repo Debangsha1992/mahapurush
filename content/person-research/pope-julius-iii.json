@@ -1,0 +1,46 @@
+{
+  "personId": "pope-julius-iii",
+  "slug": "pope-julius-iii",
+  "name": "Pope Julius III",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Julius III",
+      "url": "https://pantheon.world/profile/person/Pope_Julius_III",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-julius-iii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Julius III is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-julius-iii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Julius III's recorded life dates place this profile around 1487-1555."
+    },
+    {
+      "factId": "pope-julius-iii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Julius III is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-julius-iii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Julius III's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-julius-iii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Julius III has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

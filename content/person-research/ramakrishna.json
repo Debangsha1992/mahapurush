@@ -1,0 +1,46 @@
+{
+  "personId": "ramakrishna",
+  "slug": "ramakrishna",
+  "name": "Ramakrishna",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ramakrishna",
+      "url": "https://pantheon.world/profile/person/Ramakrishna",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ramakrishna-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ramakrishna is remembered as a philosopher connected with India."
+    },
+    {
+      "factId": "ramakrishna-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ramakrishna's recorded life dates place this profile around 1836-1886."
+    },
+    {
+      "factId": "ramakrishna-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ramakrishna is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "ramakrishna-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ramakrishna's profile connects a short Fact to a wider India historical setting."
+    },
+    {
+      "factId": "ramakrishna-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ramakrishna has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

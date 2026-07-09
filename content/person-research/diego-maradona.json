@@ -1,0 +1,46 @@
+{
+  "personId": "diego-maradona",
+  "slug": "diego-maradona",
+  "name": "Diego Maradona",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Diego Maradona",
+      "url": "https://pantheon.world/profile/person/Diego_Maradona",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "diego-maradona-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Diego Maradona is remembered as a soccer player connected with Argentina."
+    },
+    {
+      "factId": "diego-maradona-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Diego Maradona's recorded life dates place this profile around 1960-2020."
+    },
+    {
+      "factId": "diego-maradona-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Diego Maradona is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "diego-maradona-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Diego Maradona's profile connects a short Fact to a wider Argentina historical setting."
+    },
+    {
+      "factId": "diego-maradona-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Diego Maradona has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

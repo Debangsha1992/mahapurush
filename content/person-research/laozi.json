@@ -1,0 +1,47 @@
+{
+  "personId": "laozi",
+  "slug": "laozi",
+  "name": "Laozi",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Laozi",
+      "url": "https://en.wikipedia.org/wiki/Laozi",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Semi-legendary Chinese philosopher, founder of Taoism"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "laozi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "tradition",
+      "text": "Laozi was a legendary Chinese philosopher considered to be the author of the Tao Te Ching, one of the foundational texts of Taoism."
+    },
+    {
+      "factId": "laozi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Modern scholarship generally regards his biographical details as later inventions and his opus a collaboration of various writers, with the name Laozi, literally meaning 'Old Master', likely intended to portray an archaic anonymity that could converse with Confucianism."
+    },
+    {
+      "factId": "laozi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Laozi is remembered as a philosopher connected with China."
+    },
+    {
+      "factId": "laozi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Laozi's recorded life dates place this profile around -604--600."
+    },
+    {
+      "factId": "laozi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Laozi is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "edward-vi-of-england",
+  "slug": "edward-vi-of-england",
+  "name": "Edward VI of England",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edward VI of England",
+      "url": "https://pantheon.world/profile/person/Edward_VI_of_England",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edward-vi-of-england-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edward VI of England is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "edward-vi-of-england-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edward VI of England's recorded life dates place this profile around 1537-1553."
+    },
+    {
+      "factId": "edward-vi-of-england-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edward VI of England is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "edward-vi-of-england-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edward VI of England's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "edward-vi-of-england-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edward VI of England has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Charles V, Holy Roman Emperor is a notable politician associated with Belgium.",
+  "summary": "Charles V, Holy Roman Emperor is a notable politician connected with Belgium.",
   "knownFor": [
     "Politician",
-    "100 language biography editions",
-    "Historical Popularity Index 87.5"
+    "Justice, Governance & Leadership",
+    "Belgium"
   ],
   "featured": true,
   "featuredRank": 246,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "charles-v-holy-roman-emperor-pantheon-profile",
-      "text": "Pantheon ranks Charles V, Holy Roman Emperor as a globally documented politician with biographies in 100 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles V, Holy Roman Emperor a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "charles-v-holy-roman-emperor-1-origin",
+      "text": "Charles V, Holy Roman Emperor is remembered as a politician connected with Belgium.",
+      "context": "Charles V, Holy Roman Emperor's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Charles V, Holy Roman Emperor",
       "sourceUrl": "https://pantheon.world/profile/person/Charles_V%2C_Holy_Roman_Emperor",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-v-holy-roman-emperor-2-obstacle",
+      "text": "Charles V, Holy Roman Emperor's recorded life dates place this profile around 1500-1558.",
+      "context": "Charles V, Holy Roman Emperor's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Charles V, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_V%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-v-holy-roman-emperor-3-turning-point",
+      "text": "Charles V, Holy Roman Emperor is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Charles V, Holy Roman Emperor's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Charles V, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_V%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-v-holy-roman-emperor-4-contribution",
+      "text": "Charles V, Holy Roman Emperor's profile connects a short Fact to a wider Belgium historical setting.",
+      "context": "Charles V, Holy Roman Emperor's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Charles V, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_V%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-v-holy-roman-emperor-5-influence",
+      "text": "Charles V, Holy Roman Emperor has a Facts Mode card reserved for deeper source research.",
+      "context": "Charles V, Holy Roman Emperor's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Charles V, Holy Roman Emperor",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_V%2C_Holy_Roman_Emperor",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "al-biruni",
+  "slug": "al-biruni",
+  "name": "Al-Biruni",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Al-Biruni",
+      "url": "https://pantheon.world/profile/person/Al-Biruni",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "al-biruni-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Al-Biruni is remembered as a mathematician connected with Uzbekistan."
+    },
+    {
+      "factId": "al-biruni-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Al-Biruni's recorded life dates place this profile around 973-1048."
+    },
+    {
+      "factId": "al-biruni-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Al-Biruni is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "al-biruni-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Al-Biruni's profile connects a short Fact to a wider Uzbekistan historical setting."
+    },
+    {
+      "factId": "al-biruni-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Al-Biruni has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

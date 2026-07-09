@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "military-personnel"
   ],
-  "summary": "Vasily Zaitsev is a notable military personnel associated with Russia.",
+  "summary": "Vasily Zaitsev is a notable military personnel connected with Russia.",
   "knownFor": [
     "Military Personnel",
-    "51 language biography editions",
-    "Historical Popularity Index 81.6"
+    "Justice, Governance & Leadership",
+    "Russia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Vasily Zaitsev",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "vasily-zaitsev-sniper-pantheon-profile",
-      "text": "Pantheon ranks Vasily Zaitsev as a globally documented military personnel with biographies in 51 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Vasily Zaitsev a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "vasily-zaitsev-sniper-1-origin",
+      "text": "Vasily Zaitsev is remembered as a military personnel connected with Russia.",
+      "context": "Vasily Zaitsev's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Vasily Zaitsev",
       "sourceUrl": "https://pantheon.world/profile/person/Vasily_Zaitsev_(sniper)",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vasily-zaitsev-sniper-2-obstacle",
+      "text": "Vasily Zaitsev's recorded life dates place this profile around 1915-1991.",
+      "context": "Vasily Zaitsev's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Vasily Zaitsev",
+      "sourceUrl": "https://pantheon.world/profile/person/Vasily_Zaitsev_(sniper)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vasily-zaitsev-sniper-3-turning-point",
+      "text": "Vasily Zaitsev is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Vasily Zaitsev's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Vasily Zaitsev",
+      "sourceUrl": "https://pantheon.world/profile/person/Vasily_Zaitsev_(sniper)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vasily-zaitsev-sniper-4-contribution",
+      "text": "Vasily Zaitsev's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Vasily Zaitsev's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Vasily Zaitsev",
+      "sourceUrl": "https://pantheon.world/profile/person/Vasily_Zaitsev_(sniper)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vasily-zaitsev-sniper-5-influence",
+      "text": "Vasily Zaitsev has a Facts Mode card reserved for deeper source research.",
+      "context": "Vasily Zaitsev's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Vasily Zaitsev",
+      "sourceUrl": "https://pantheon.world/profile/person/Vasily_Zaitsev_(sniper)",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

@@ -1,0 +1,46 @@
+{
+  "personId": "andrew-the-apostle",
+  "slug": "andrew-the-apostle",
+  "name": "Andrew the Apostle",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Andrew the Apostle",
+      "url": "https://pantheon.world/profile/person/Andrew_the_Apostle",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "andrew-the-apostle-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Andrew the Apostle is remembered as a religious figure connected with Global."
+    },
+    {
+      "factId": "andrew-the-apostle-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Andrew the Apostle's recorded life dates place this profile around -6-70."
+    },
+    {
+      "factId": "andrew-the-apostle-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Andrew the Apostle is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "andrew-the-apostle-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Andrew the Apostle's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "andrew-the-apostle-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Andrew the Apostle has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

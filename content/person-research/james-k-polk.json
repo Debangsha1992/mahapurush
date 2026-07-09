@@ -1,0 +1,46 @@
+{
+  "personId": "james-k-polk",
+  "slug": "james-k-polk",
+  "name": "James K. Polk",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James K. Polk",
+      "url": "https://pantheon.world/profile/person/James_K._Polk",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-k-polk-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James K. Polk is remembered as a politician connected with United States."
+    },
+    {
+      "factId": "james-k-polk-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James K. Polk's recorded life dates place this profile around 1795-1849."
+    },
+    {
+      "factId": "james-k-polk-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James K. Polk is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "james-k-polk-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James K. Polk's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "james-k-polk-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James K. Polk has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

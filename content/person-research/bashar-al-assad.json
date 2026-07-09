@@ -1,0 +1,46 @@
+{
+  "personId": "bashar-al-assad",
+  "slug": "bashar-al-assad",
+  "name": "Bashar al-Assad",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Bashar al-Assad",
+      "url": "https://pantheon.world/profile/person/Bashar_al-Assad",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "bashar-al-assad-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Bashar al-Assad is remembered as a politician connected with Syria."
+    },
+    {
+      "factId": "bashar-al-assad-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Bashar al-Assad's recorded life dates place this profile around born 1965."
+    },
+    {
+      "factId": "bashar-al-assad-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Bashar al-Assad is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "bashar-al-assad-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Bashar al-Assad's profile connects a short Fact to a wider Syria historical setting."
+    },
+    {
+      "factId": "bashar-al-assad-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Bashar al-Assad has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

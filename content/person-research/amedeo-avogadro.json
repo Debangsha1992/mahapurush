@@ -1,0 +1,46 @@
+{
+  "personId": "amedeo-avogadro",
+  "slug": "amedeo-avogadro",
+  "name": "Amedeo Avogadro",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Amedeo Avogadro",
+      "url": "https://pantheon.world/profile/person/Amedeo_Avogadro",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "amedeo-avogadro-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Amedeo Avogadro is remembered as a chemist connected with Italy."
+    },
+    {
+      "factId": "amedeo-avogadro-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Amedeo Avogadro's recorded life dates place this profile around 1776-1856."
+    },
+    {
+      "factId": "amedeo-avogadro-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Amedeo Avogadro is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "amedeo-avogadro-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Amedeo Avogadro's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "amedeo-avogadro-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Amedeo Avogadro has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "jack-the-ripper",
+  "slug": "jack-the-ripper",
+  "name": "Jack the Ripper",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jack the Ripper",
+      "url": "https://pantheon.world/profile/person/Jack_the_Ripper",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jack-the-ripper-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jack the Ripper is remembered as a extremist connected with Global."
+    },
+    {
+      "factId": "jack-the-ripper-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jack the Ripper's recorded life dates place this profile around born 1850."
+    },
+    {
+      "factId": "jack-the-ripper-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jack the Ripper is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "jack-the-ripper-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jack the Ripper's profile connects a short Fact to a wider Global historical setting."
+    },
+    {
+      "factId": "jack-the-ripper-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jack the Ripper has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

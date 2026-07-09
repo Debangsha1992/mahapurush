@@ -1,0 +1,46 @@
+{
+  "personId": "franz-joseph-i-of-austria",
+  "slug": "franz-joseph-i-of-austria",
+  "name": "Franz Joseph I of Austria",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Franz Joseph I of Austria",
+      "url": "https://pantheon.world/profile/person/Franz_Joseph_I_of_Austria",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "franz-joseph-i-of-austria-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Franz Joseph I of Austria is remembered as a politician connected with Austria."
+    },
+    {
+      "factId": "franz-joseph-i-of-austria-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Franz Joseph I of Austria's recorded life dates place this profile around 1830-1916."
+    },
+    {
+      "factId": "franz-joseph-i-of-austria-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Franz Joseph I of Austria is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "franz-joseph-i-of-austria-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Franz Joseph I of Austria's profile connects a short Fact to a wider Austria historical setting."
+    },
+    {
+      "factId": "franz-joseph-i-of-austria-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Franz Joseph I of Austria has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

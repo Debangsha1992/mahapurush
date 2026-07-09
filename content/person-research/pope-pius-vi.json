@@ -1,0 +1,46 @@
+{
+  "personId": "pope-pius-vi",
+  "slug": "pope-pius-vi",
+  "name": "Pope Pius VI",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Pius VI",
+      "url": "https://pantheon.world/profile/person/Pope_Pius_VI",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-pius-vi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VI is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-pius-vi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VI's recorded life dates place this profile around 1717-1799."
+    },
+    {
+      "factId": "pope-pius-vi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VI is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-pius-vi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VI's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-pius-vi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius VI has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

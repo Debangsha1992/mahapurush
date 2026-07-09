@@ -1,0 +1,46 @@
+{
+  "personId": "hurrem-sultan",
+  "slug": "hurrem-sultan",
+  "name": "Hurrem Sultan",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hurrem Sultan",
+      "url": "https://pantheon.world/profile/person/Hurrem_Sultan",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hurrem-sultan-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hurrem Sultan is remembered as a politician connected with Ukraine."
+    },
+    {
+      "factId": "hurrem-sultan-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hurrem Sultan's recorded life dates place this profile around 1502-1558."
+    },
+    {
+      "factId": "hurrem-sultan-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hurrem Sultan is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "hurrem-sultan-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hurrem Sultan's profile connects a short Fact to a wider Ukraine historical setting."
+    },
+    {
+      "factId": "hurrem-sultan-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hurrem Sultan has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

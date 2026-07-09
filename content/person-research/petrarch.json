@@ -1,0 +1,46 @@
+{
+  "personId": "petrarch",
+  "slug": "petrarch",
+  "name": "Petrarch",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Petrarch",
+      "url": "https://pantheon.world/profile/person/Petrarch",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "petrarch-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Petrarch is remembered as a writer connected with Italy."
+    },
+    {
+      "factId": "petrarch-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Petrarch's recorded life dates place this profile around 1304-1374."
+    },
+    {
+      "factId": "petrarch-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Petrarch is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "petrarch-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Petrarch's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "petrarch-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Petrarch has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

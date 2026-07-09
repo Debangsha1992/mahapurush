@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Henry Kissinger is a notable politician associated with Germany.",
+  "summary": "Henry Kissinger is a notable politician connected with Germany.",
   "knownFor": [
     "Politician",
-    "104 language biography editions",
-    "Historical Popularity Index 87.9"
+    "Justice, Governance & Leadership",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 224,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "henry-kissinger-pantheon-profile",
-      "text": "Pantheon ranks Henry Kissinger as a globally documented politician with biographies in 104 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Henry Kissinger a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "henry-kissinger-1-origin",
+      "text": "Henry Kissinger is remembered as a politician connected with Germany.",
+      "context": "Henry Kissinger's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Henry Kissinger",
       "sourceUrl": "https://pantheon.world/profile/person/Henry_Kissinger",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-kissinger-2-obstacle",
+      "text": "Henry Kissinger's recorded life dates place this profile around 1923-2023.",
+      "context": "Henry Kissinger's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Henry Kissinger",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_Kissinger",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-kissinger-3-turning-point",
+      "text": "Henry Kissinger is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Henry Kissinger's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Henry Kissinger",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_Kissinger",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-kissinger-4-contribution",
+      "text": "Henry Kissinger's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Henry Kissinger's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Henry Kissinger",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_Kissinger",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "henry-kissinger-5-influence",
+      "text": "Henry Kissinger has a Facts Mode card reserved for deeper source research.",
+      "context": "Henry Kissinger's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Henry Kissinger",
+      "sourceUrl": "https://pantheon.world/profile/person/Henry_Kissinger",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

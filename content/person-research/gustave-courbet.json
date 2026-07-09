@@ -1,0 +1,46 @@
+{
+  "personId": "gustave-courbet",
+  "slug": "gustave-courbet",
+  "name": "Gustave Courbet",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Gustave Courbet",
+      "url": "https://pantheon.world/profile/person/Gustave_Courbet",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "gustave-courbet-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Gustave Courbet is remembered as a painter connected with France."
+    },
+    {
+      "factId": "gustave-courbet-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Gustave Courbet's recorded life dates place this profile around 1819-1877."
+    },
+    {
+      "factId": "gustave-courbet-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Gustave Courbet is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "gustave-courbet-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Gustave Courbet's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "gustave-courbet-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Gustave Courbet has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

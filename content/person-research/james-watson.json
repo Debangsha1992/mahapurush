@@ -1,0 +1,46 @@
+{
+  "personId": "james-watson",
+  "slug": "james-watson",
+  "name": "James Watson",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James Watson",
+      "url": "https://pantheon.world/profile/person/James_Watson",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-watson-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James Watson is remembered as a biologist connected with United States."
+    },
+    {
+      "factId": "james-watson-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James Watson's recorded life dates place this profile around born 1928."
+    },
+    {
+      "factId": "james-watson-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James Watson is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "james-watson-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James Watson's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "james-watson-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James Watson has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

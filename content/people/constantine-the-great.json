@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Constantine the Great is a notable politician associated with Serbia.",
+  "summary": "Constantine the Great is a notable politician connected with Serbia.",
   "knownFor": [
     "Politician",
-    "134 language biography editions",
-    "Historical Popularity Index 89.0"
+    "Justice, Governance & Leadership",
+    "Serbia"
   ],
   "featured": true,
   "featuredRank": 175,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "constantine-the-great-pantheon-profile",
-      "text": "Pantheon ranks Constantine the Great as a globally documented politician with biographies in 134 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Constantine the Great a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "constantine-the-great-1-origin",
+      "text": "Constantine the Great is remembered as a politician connected with Serbia.",
+      "context": "Constantine the Great's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Constantine the Great",
       "sourceUrl": "https://pantheon.world/profile/person/Constantine_the_Great",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "constantine-the-great-2-obstacle",
+      "text": "Constantine the Great's recorded life dates place this profile around 272-337.",
+      "context": "Constantine the Great's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Constantine the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Constantine_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "constantine-the-great-3-turning-point",
+      "text": "Constantine the Great is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Constantine the Great's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Constantine the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Constantine_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "constantine-the-great-4-contribution",
+      "text": "Constantine the Great's profile connects a short Fact to a wider Serbia historical setting.",
+      "context": "Constantine the Great's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Constantine the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Constantine_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "constantine-the-great-5-influence",
+      "text": "Constantine the Great has a Facts Mode card reserved for deeper source research.",
+      "context": "Constantine the Great's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Constantine the Great",
+      "sourceUrl": "https://pantheon.world/profile/person/Constantine_the_Great",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

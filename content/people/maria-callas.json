@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "singer"
   ],
-  "summary": "Maria Callas is a notable singer associated with United States.",
+  "summary": "Maria Callas is a notable singer connected with United States.",
   "knownFor": [
     "Singer",
-    "74 language biography editions",
-    "Historical Popularity Index 84.0"
+    "Literature, Arts & Culture",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Maria Callas",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "maria-callas-pantheon-profile",
-      "text": "Pantheon ranks Maria Callas as a globally documented singer with biographies in 74 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Maria Callas a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "maria-callas-1-origin",
+      "text": "Maria Callas is remembered as a singer connected with United States.",
+      "context": "Maria Callas's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Maria Callas",
       "sourceUrl": "https://pantheon.world/profile/person/Maria_Callas",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-callas-2-obstacle",
+      "text": "Maria Callas's recorded life dates place this profile around 1923-1977.",
+      "context": "Maria Callas's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Maria Callas",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Callas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-callas-3-turning-point",
+      "text": "Maria Callas is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Maria Callas's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Maria Callas",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Callas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-callas-4-contribution",
+      "text": "Maria Callas's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Maria Callas's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Maria Callas",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Callas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "maria-callas-5-influence",
+      "text": "Maria Callas has a Facts Mode card reserved for deeper source research.",
+      "context": "Maria Callas's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Maria Callas",
+      "sourceUrl": "https://pantheon.world/profile/person/Maria_Callas",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

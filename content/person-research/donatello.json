@@ -1,0 +1,46 @@
+{
+  "personId": "donatello",
+  "slug": "donatello",
+  "name": "Donatello",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Donatello",
+      "url": "https://pantheon.world/profile/person/Donatello",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "donatello-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Donatello is remembered as a painter connected with Italy."
+    },
+    {
+      "factId": "donatello-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Donatello's recorded life dates place this profile around 1386-1466."
+    },
+    {
+      "factId": "donatello-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Donatello is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "donatello-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Donatello's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "donatello-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Donatello has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

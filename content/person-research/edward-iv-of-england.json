@@ -1,0 +1,46 @@
+{
+  "personId": "edward-iv-of-england",
+  "slug": "edward-iv-of-england",
+  "name": "Edward IV of England",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Edward IV of England",
+      "url": "https://pantheon.world/profile/person/Edward_IV_of_England",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "edward-iv-of-england-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Edward IV of England is remembered as a politician connected with France."
+    },
+    {
+      "factId": "edward-iv-of-england-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Edward IV of England's recorded life dates place this profile around 1442-1483."
+    },
+    {
+      "factId": "edward-iv-of-england-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Edward IV of England is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "edward-iv-of-england-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Edward IV of England's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "edward-iv-of-england-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Edward IV of England has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

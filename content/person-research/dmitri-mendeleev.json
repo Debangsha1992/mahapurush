@@ -1,0 +1,47 @@
+{
+  "personId": "dmitri-mendeleev",
+  "slug": "dmitri-mendeleev",
+  "name": "Dmitri Mendeleev",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Dmitri Mendeleev",
+      "url": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Russian chemist (1834–1907)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "dmitri-mendeleev-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Dmitri Ivanovich Dmitri Mendeleev was a Russian chemist known for formulating the periodic law and creating a version of the periodic table of elements."
+    },
+    {
+      "factId": "dmitri-mendeleev-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Dmitri Mendeleev used the periodic law not only to correct the then-accepted properties of some known elements, such as the valence and atomic weight of uranium, but also to predict the properties of three elements that were yet to be discovered."
+    },
+    {
+      "factId": "dmitri-mendeleev-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Dmitri Mendeleev is remembered as a chemist connected with Russia."
+    },
+    {
+      "factId": "dmitri-mendeleev-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Dmitri Mendeleev's recorded life dates place this profile around 1834-1907."
+    },
+    {
+      "factId": "dmitri-mendeleev-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Dmitri Mendeleev is grouped with Science, Math & Technology in the People Library."
+    }
+  ]
+}

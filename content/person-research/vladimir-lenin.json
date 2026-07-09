@@ -1,0 +1,46 @@
+{
+  "personId": "vladimir-lenin",
+  "slug": "vladimir-lenin",
+  "name": "Vladimir Lenin",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Vladimir Lenin",
+      "url": "https://pantheon.world/profile/person/Vladimir_Lenin",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "vladimir-lenin-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Vladimir Lenin is remembered as a politician connected with Russia."
+    },
+    {
+      "factId": "vladimir-lenin-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Vladimir Lenin's recorded life dates place this profile around 1870-1924."
+    },
+    {
+      "factId": "vladimir-lenin-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Vladimir Lenin is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "vladimir-lenin-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Vladimir Lenin's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "vladimir-lenin-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Vladimir Lenin has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

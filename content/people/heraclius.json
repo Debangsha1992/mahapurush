@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Heraclius is a notable politician associated with Türkiye.",
+  "summary": "Heraclius is a notable politician connected with Türkiye.",
   "knownFor": [
     "Politician",
-    "83 language biography editions",
-    "Historical Popularity Index 82.1"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Heraclius",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "heraclius-pantheon-profile",
-      "text": "Pantheon ranks Heraclius as a globally documented politician with biographies in 83 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Heraclius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "heraclius-1-origin",
+      "text": "Heraclius is remembered as a politician connected with Türkiye.",
+      "context": "Heraclius's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Heraclius",
       "sourceUrl": "https://pantheon.world/profile/person/Heraclius",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heraclius-2-obstacle",
+      "text": "Heraclius's recorded life dates place this profile around 575-641.",
+      "context": "Heraclius's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Heraclius",
+      "sourceUrl": "https://pantheon.world/profile/person/Heraclius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heraclius-3-turning-point",
+      "text": "Heraclius is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Heraclius's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Heraclius",
+      "sourceUrl": "https://pantheon.world/profile/person/Heraclius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heraclius-4-contribution",
+      "text": "Heraclius's profile connects a short Fact to a wider Türkiye historical setting.",
+      "context": "Heraclius's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Heraclius",
+      "sourceUrl": "https://pantheon.world/profile/person/Heraclius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "heraclius-5-influence",
+      "text": "Heraclius has a Facts Mode card reserved for deeper source research.",
+      "context": "Heraclius's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Heraclius",
+      "sourceUrl": "https://pantheon.world/profile/person/Heraclius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

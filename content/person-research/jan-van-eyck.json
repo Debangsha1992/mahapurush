@@ -1,0 +1,46 @@
+{
+  "personId": "jan-van-eyck",
+  "slug": "jan-van-eyck",
+  "name": "Jan van Eyck",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jan van Eyck",
+      "url": "https://pantheon.world/profile/person/Jan_van_Eyck",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jan-van-eyck-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jan van Eyck is remembered as a painter connected with Belgium."
+    },
+    {
+      "factId": "jan-van-eyck-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jan van Eyck's recorded life dates place this profile around 1395-1441."
+    },
+    {
+      "factId": "jan-van-eyck-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jan van Eyck is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "jan-van-eyck-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jan van Eyck's profile connects a short Fact to a wider Belgium historical setting."
+    },
+    {
+      "factId": "jan-van-eyck-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jan van Eyck has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

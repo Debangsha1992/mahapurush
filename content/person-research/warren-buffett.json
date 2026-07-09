@@ -1,0 +1,46 @@
+{
+  "personId": "warren-buffett",
+  "slug": "warren-buffett",
+  "name": "Warren Buffett",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Warren Buffett",
+      "url": "https://pantheon.world/profile/person/Warren_Buffett",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "warren-buffett-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Warren Buffett is remembered as a businessperson connected with United States."
+    },
+    {
+      "factId": "warren-buffett-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Warren Buffett's recorded life dates place this profile around born 1930."
+    },
+    {
+      "factId": "warren-buffett-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Warren Buffett is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "warren-buffett-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Warren Buffett's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "warren-buffett-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Warren Buffett has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

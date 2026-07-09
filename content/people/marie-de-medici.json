@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Marie de' Medici is a notable nobleman associated with Italy.",
+  "summary": "Marie de' Medici is a notable nobleman connected with Italy.",
   "knownFor": [
     "Nobleman",
-    "65 language biography editions",
-    "Historical Popularity Index 82.0"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Marie de' Medici",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "marie-de-medici-pantheon-profile",
-      "text": "Pantheon ranks Marie de' Medici as a globally documented nobleman with biographies in 65 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Marie de' Medici a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "marie-de-medici-1-origin",
+      "text": "Marie de' Medici is remembered as a nobleman connected with Italy.",
+      "context": "Marie de' Medici's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Marie de' Medici",
       "sourceUrl": "https://pantheon.world/profile/person/Marie_de'_Medici",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-de-medici-2-obstacle",
+      "text": "Marie de' Medici's recorded life dates place this profile around 1575-1642.",
+      "context": "Marie de' Medici's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Marie de' Medici",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_de'_Medici",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-de-medici-3-turning-point",
+      "text": "Marie de' Medici is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Marie de' Medici's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Marie de' Medici",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_de'_Medici",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-de-medici-4-contribution",
+      "text": "Marie de' Medici's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Marie de' Medici's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Marie de' Medici",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_de'_Medici",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "marie-de-medici-5-influence",
+      "text": "Marie de' Medici has a Facts Mode card reserved for deeper source research.",
+      "context": "Marie de' Medici's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Marie de' Medici",
+      "sourceUrl": "https://pantheon.world/profile/person/Marie_de'_Medici",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

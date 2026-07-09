@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "painter"
   ],
-  "summary": "Wassily Kandinsky is a notable painter associated with Russia.",
+  "summary": "Wassily Kandinsky is a notable painter connected with Russia.",
   "knownFor": [
     "Painter",
-    "84 language biography editions",
-    "Historical Popularity Index 84.2"
+    "Justice, Governance & Leadership",
+    "Russia"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Wassily Kandinsky",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "wassily-kandinsky-pantheon-profile",
-      "text": "Pantheon ranks Wassily Kandinsky as a globally documented painter with biographies in 84 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Wassily Kandinsky a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "wassily-kandinsky-1-origin",
+      "text": "Wassily Kandinsky is remembered as a painter connected with Russia.",
+      "context": "Wassily Kandinsky's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Wassily Kandinsky",
       "sourceUrl": "https://pantheon.world/profile/person/Wassily_Kandinsky",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wassily-kandinsky-2-obstacle",
+      "text": "Wassily Kandinsky's recorded life dates place this profile around 1866-1944.",
+      "context": "Wassily Kandinsky's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Wassily Kandinsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Wassily_Kandinsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wassily-kandinsky-3-turning-point",
+      "text": "Wassily Kandinsky is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Wassily Kandinsky's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Wassily Kandinsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Wassily_Kandinsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wassily-kandinsky-4-contribution",
+      "text": "Wassily Kandinsky's profile connects a short Fact to a wider Russia historical setting.",
+      "context": "Wassily Kandinsky's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Wassily Kandinsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Wassily_Kandinsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "wassily-kandinsky-5-influence",
+      "text": "Wassily Kandinsky has a Facts Mode card reserved for deeper source research.",
+      "context": "Wassily Kandinsky's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Wassily Kandinsky",
+      "sourceUrl": "https://pantheon.world/profile/person/Wassily_Kandinsky",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

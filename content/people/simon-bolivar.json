@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Simón Bolívar is a notable politician associated with Venezuela.",
+  "summary": "Simón Bolívar is a notable politician connected with Venezuela.",
   "knownFor": [
     "Politician",
-    "150 language biography editions",
-    "Historical Popularity Index 83.4"
+    "Justice, Governance & Leadership",
+    "Venezuela"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Simón Bolívar",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "simon-bolivar-pantheon-profile",
-      "text": "Pantheon ranks Simón Bolívar as a globally documented politician with biographies in 150 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Simón Bolívar a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "simon-bolivar-1-origin",
+      "text": "Simón Bolívar is remembered as a politician connected with Venezuela.",
+      "context": "Simón Bolívar's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Simón Bolívar",
       "sourceUrl": "https://pantheon.world/profile/person/Sim%C3%B3n_Bol%C3%ADvar",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "simon-bolivar-2-obstacle",
+      "text": "Simón Bolívar's recorded life dates place this profile around 1783-1830.",
+      "context": "Simón Bolívar's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Simón Bolívar",
+      "sourceUrl": "https://pantheon.world/profile/person/Sim%C3%B3n_Bol%C3%ADvar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "simon-bolivar-3-turning-point",
+      "text": "Simón Bolívar is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Simón Bolívar's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Simón Bolívar",
+      "sourceUrl": "https://pantheon.world/profile/person/Sim%C3%B3n_Bol%C3%ADvar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "simon-bolivar-4-contribution",
+      "text": "Simón Bolívar's profile connects a short Fact to a wider Venezuela historical setting.",
+      "context": "Simón Bolívar's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Simón Bolívar",
+      "sourceUrl": "https://pantheon.world/profile/person/Sim%C3%B3n_Bol%C3%ADvar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "simon-bolivar-5-influence",
+      "text": "Simón Bolívar has a Facts Mode card reserved for deeper source research.",
+      "context": "Simón Bolívar's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Simón Bolívar",
+      "sourceUrl": "https://pantheon.world/profile/person/Sim%C3%B3n_Bol%C3%ADvar",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

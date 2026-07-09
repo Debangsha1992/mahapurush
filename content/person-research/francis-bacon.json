@@ -1,0 +1,46 @@
+{
+  "personId": "francis-bacon",
+  "slug": "francis-bacon",
+  "name": "Francis Bacon",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Francis Bacon",
+      "url": "https://pantheon.world/profile/person/Francis_Bacon",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "francis-bacon-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Francis Bacon is remembered as a philosopher connected with United Kingdom."
+    },
+    {
+      "factId": "francis-bacon-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Francis Bacon's recorded life dates place this profile around 1561-1626."
+    },
+    {
+      "factId": "francis-bacon-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Francis Bacon is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "francis-bacon-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Francis Bacon's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "francis-bacon-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Francis Bacon has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

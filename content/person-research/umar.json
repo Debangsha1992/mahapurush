@@ -1,0 +1,47 @@
+{
+  "personId": "umar",
+  "slug": "umar",
+  "name": "Umar",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Umar",
+      "url": "https://en.wikipedia.org/wiki/Umar",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "2nd Rashidun caliph from 634 to 644"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "umar-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Umar ibn al-Khattab, simply known as Umar, was the second Rashidun caliph, ruling from August 634 until his assassination in 644."
+    },
+    {
+      "factId": "umar-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Umar succeeded Abu Bakr and is regarded as a senior companion and father-in-law of the Islamic prophet Muhammad."
+    },
+    {
+      "factId": "umar-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Umar is remembered as a politician connected with Saudi Arabia."
+    },
+    {
+      "factId": "umar-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Umar's recorded life dates place this profile around 585-644."
+    },
+    {
+      "factId": "umar-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Umar is grouped with Justice, Governance & Leadership in the People Library."
+    }
+  ]
+}

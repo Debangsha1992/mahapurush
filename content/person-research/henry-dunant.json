@@ -1,0 +1,46 @@
+{
+  "personId": "henry-dunant",
+  "slug": "henry-dunant",
+  "name": "Henry Dunant",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Henry Dunant",
+      "url": "https://pantheon.world/profile/person/Henry_Dunant",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "henry-dunant-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Henry Dunant is remembered as a social activist connected with Switzerland."
+    },
+    {
+      "factId": "henry-dunant-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Henry Dunant's recorded life dates place this profile around 1828-1910."
+    },
+    {
+      "factId": "henry-dunant-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Henry Dunant is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "henry-dunant-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Henry Dunant's profile connects a short Fact to a wider Switzerland historical setting."
+    },
+    {
+      "factId": "henry-dunant-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Henry Dunant has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

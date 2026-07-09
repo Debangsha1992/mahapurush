@@ -1,0 +1,46 @@
+{
+  "personId": "john-the-baptist",
+  "slug": "john-the-baptist",
+  "name": "John the Baptist",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John the Baptist",
+      "url": "https://pantheon.world/profile/person/John_the_Baptist",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-the-baptist-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John the Baptist is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "john-the-baptist-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John the Baptist's recorded life dates place this profile around -20-31."
+    },
+    {
+      "factId": "john-the-baptist-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John the Baptist is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "john-the-baptist-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John the Baptist's profile connects a short Fact to a wider Israel historical setting."
+    },
+    {
+      "factId": "john-the-baptist-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John the Baptist has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

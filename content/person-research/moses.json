@@ -1,0 +1,47 @@
+{
+  "personId": "moses",
+  "slug": "moses",
+  "name": "Moses",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Moses",
+      "url": "https://en.wikipedia.org/wiki/Moses",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Prophet in Abrahamic religions"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "moses-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "In Abrahamic religions, Moses was the Hebrew prophet who led the Israelites out of slavery in the Exodus from Egypt."
+    },
+    {
+      "factId": "moses-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Moses is considered the most important prophet in Judaism and Samaritanism, and one of the most important prophets in Christianity, Islam, the Baháʼí Faith, and other Abrahamic religions."
+    },
+    {
+      "factId": "moses-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "According to the Abrahamic scriptures, God dictated the Mosaic Law to Moses, which he wrote down and which formed part of the Torah."
+    },
+    {
+      "factId": "moses-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Moses is remembered as a religious figure connected with Egypt."
+    },
+    {
+      "factId": "moses-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Moses's recorded life dates place this profile around -1393--1273."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "personId": "pablo-escobar",
+  "slug": "pablo-escobar",
+  "name": "Pablo Escobar",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pablo Escobar",
+      "url": "https://pantheon.world/profile/person/Pablo_Escobar",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pablo-escobar-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pablo Escobar is remembered as a mafioso connected with Colombia."
+    },
+    {
+      "factId": "pablo-escobar-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pablo Escobar's recorded life dates place this profile around 1949-1993."
+    },
+    {
+      "factId": "pablo-escobar-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pablo Escobar is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "pablo-escobar-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pablo Escobar's profile connects a short Fact to a wider Colombia historical setting."
+    },
+    {
+      "factId": "pablo-escobar-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pablo Escobar has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

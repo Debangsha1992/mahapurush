@@ -1,0 +1,46 @@
+{
+  "personId": "martin-heidegger",
+  "slug": "martin-heidegger",
+  "name": "Martin Heidegger",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Martin Heidegger",
+      "url": "https://pantheon.world/profile/person/Martin_Heidegger",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "martin-heidegger-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Martin Heidegger is remembered as a philosopher connected with Germany."
+    },
+    {
+      "factId": "martin-heidegger-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Martin Heidegger's recorded life dates place this profile around 1889-1976."
+    },
+    {
+      "factId": "martin-heidegger-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Martin Heidegger is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "martin-heidegger-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Martin Heidegger's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "martin-heidegger-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Martin Heidegger has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

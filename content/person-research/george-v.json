@@ -1,0 +1,46 @@
+{
+  "personId": "george-v",
+  "slug": "george-v",
+  "name": "George V",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: George V",
+      "url": "https://pantheon.world/profile/person/George_V",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "george-v-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "George V is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "george-v-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "George V's recorded life dates place this profile around 1865-1936."
+    },
+    {
+      "factId": "george-v-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "George V is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "george-v-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "George V's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "george-v-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "George V has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

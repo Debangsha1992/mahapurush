@@ -1,0 +1,47 @@
+{
+  "personId": "isaac",
+  "slug": "isaac",
+  "name": "Isaac",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Isaac",
+      "url": "https://en.wikipedia.org/wiki/Isaac",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Biblical patriarch, son of Abraham and Sarah"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "isaac-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Isaac is the second Hebrew patriarch in Judaism and an important figure in the Abrahamic religions, including Samaritanism, Christianity, Islam, the Baháʼí Faith, and Rastafari."
+    },
+    {
+      "factId": "isaac-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Isaac first appears in the Torah, in which he is the son of Abraham and Sarah, the father of Jacob and Esau, and the grandfather of the twelve tribes of Israel."
+    },
+    {
+      "factId": "isaac-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Isaac is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "isaac-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Isaac's recorded life dates place this profile around -1900--1533."
+    },
+    {
+      "factId": "isaac-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Isaac is grouped with Philosophy, Ethics & Religion in the People Library."
+    }
+  ]
+}

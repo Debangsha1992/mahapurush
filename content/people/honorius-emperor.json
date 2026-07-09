@@ -12,34 +12,101 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Honorius is a notable politician associated with Türkiye.",
+  "summary": "Honorius was Roman emperor from 393 to 423.",
   "knownFor": [
     "Politician",
-    "73 language biography editions",
-    "Historical Popularity Index 83.7"
+    "Justice, Governance & Leadership",
+    "Türkiye"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Honorius",
   "sourceRefs": [
     {
-      "title": "Pantheon: Honorius",
-      "url": "https://pantheon.world/profile/person/Honorius_(emperor)",
+      "title": "Wikipedia: Honorius",
+      "url": "https://en.wikipedia.org/wiki/Honorius",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "honorius-emperor-pantheon-profile",
-      "text": "Pantheon ranks Honorius as a globally documented politician with biographies in 73 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Honorius a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Honorius",
-      "sourceUrl": "https://pantheon.world/profile/person/Honorius_(emperor)",
+      "id": "honorius-emperor-1-origin",
+      "text": "Honorius was Roman emperor from 393 to 423.",
+      "context": "Honorius's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Honorius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Honorius",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "honorius-emperor-2-obstacle",
+      "text": "Honorius was the younger son of emperor Theodosius I and his first wife Aelia Flaccilla.",
+      "context": "Honorius's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Honorius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Honorius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "honorius-emperor-3-turning-point",
+      "text": "After the death of Theodosius in 395, Honorius, under the regency of Stilicho, ruled the western half of the empire while his brother Arcadius ruled the eastern half.",
+      "context": "Honorius's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Honorius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Honorius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "honorius-emperor-4-contribution",
+      "text": "Honorius's reign over the Western Roman Empire was precarious and chaotic.",
+      "context": "Honorius's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Honorius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Honorius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "honorius-emperor-5-influence",
+      "text": "Honorius is remembered as a politician connected with Türkiye.",
+      "context": "Honorius's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Honorius",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Honorius",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

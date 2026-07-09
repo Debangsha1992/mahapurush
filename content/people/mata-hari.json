@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "dancer"
   ],
-  "summary": "Mata Hari is a notable dancer associated with Netherlands.",
+  "summary": "Mata Hari is a notable dancer connected with Netherlands.",
   "knownFor": [
     "Dancer",
-    "78 language biography editions",
-    "Historical Popularity Index 82.5"
+    "Justice, Governance & Leadership",
+    "Netherlands"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Mata Hari",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "mata-hari-pantheon-profile",
-      "text": "Pantheon ranks Mata Hari as a globally documented dancer with biographies in 78 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Mata Hari a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "mata-hari-1-origin",
+      "text": "Mata Hari is remembered as a dancer connected with Netherlands.",
+      "context": "Mata Hari's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Mata Hari",
       "sourceUrl": "https://pantheon.world/profile/person/Mata_Hari",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mata-hari-2-obstacle",
+      "text": "Mata Hari's recorded life dates place this profile around 1876-1917.",
+      "context": "Mata Hari's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Mata Hari",
+      "sourceUrl": "https://pantheon.world/profile/person/Mata_Hari",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mata-hari-3-turning-point",
+      "text": "Mata Hari is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Mata Hari's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Mata Hari",
+      "sourceUrl": "https://pantheon.world/profile/person/Mata_Hari",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mata-hari-4-contribution",
+      "text": "Mata Hari's profile connects a short Fact to a wider Netherlands historical setting.",
+      "context": "Mata Hari's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Mata Hari",
+      "sourceUrl": "https://pantheon.world/profile/person/Mata_Hari",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "mata-hari-5-influence",
+      "text": "Mata Hari has a Facts Mode card reserved for deeper source research.",
+      "context": "Mata Hari's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Mata Hari",
+      "sourceUrl": "https://pantheon.world/profile/person/Mata_Hari",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

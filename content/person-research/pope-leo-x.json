@@ -1,0 +1,46 @@
+{
+  "personId": "pope-leo-x",
+  "slug": "pope-leo-x",
+  "name": "Pope Leo X",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Leo X",
+      "url": "https://pantheon.world/profile/person/Pope_Leo_X",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-leo-x-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo X is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-leo-x-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo X's recorded life dates place this profile around 1475-1521."
+    },
+    {
+      "factId": "pope-leo-x-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo X is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-leo-x-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo X's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-leo-x-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Leo X has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

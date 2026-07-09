@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "social-activist"
   ],
-  "summary": "Helen Keller is a notable social activist associated with United States.",
+  "summary": "Helen Keller is a notable social activist connected with United States.",
   "knownFor": [
     "Social Activist",
-    "109 language biography editions",
-    "Historical Popularity Index 81.9"
+    "Justice, Governance & Leadership",
+    "United States"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Helen Keller",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "helen-keller-pantheon-profile",
-      "text": "Pantheon ranks Helen Keller as a globally documented social activist with biographies in 109 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Helen Keller a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "helen-keller-1-origin",
+      "text": "Helen Keller is remembered as a social activist connected with United States.",
+      "context": "Helen Keller's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Helen Keller",
       "sourceUrl": "https://pantheon.world/profile/person/Helen_Keller",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "helen-keller-2-obstacle",
+      "text": "Helen Keller's recorded life dates place this profile around 1880-1968.",
+      "context": "Helen Keller's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Helen Keller",
+      "sourceUrl": "https://pantheon.world/profile/person/Helen_Keller",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "helen-keller-3-turning-point",
+      "text": "Helen Keller is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Helen Keller's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Helen Keller",
+      "sourceUrl": "https://pantheon.world/profile/person/Helen_Keller",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "helen-keller-4-contribution",
+      "text": "Helen Keller's profile connects a short Fact to a wider United States historical setting.",
+      "context": "Helen Keller's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Helen Keller",
+      "sourceUrl": "https://pantheon.world/profile/person/Helen_Keller",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "helen-keller-5-influence",
+      "text": "Helen Keller has a Facts Mode card reserved for deeper source research.",
+      "context": "Helen Keller's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Helen Keller",
+      "sourceUrl": "https://pantheon.world/profile/person/Helen_Keller",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

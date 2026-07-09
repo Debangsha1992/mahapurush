@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Charles Baudelaire is a notable writer associated with France.",
+  "summary": "Charles Baudelaire is a notable writer connected with France.",
   "knownFor": [
     "Writer",
-    "106 language biography editions",
-    "Historical Popularity Index 84.4"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": true,
   "featuredRank": 494,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "charles-baudelaire-pantheon-profile",
-      "text": "Pantheon ranks Charles Baudelaire as a globally documented writer with biographies in 106 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Charles Baudelaire a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "charles-baudelaire-1-origin",
+      "text": "Charles Baudelaire is remembered as a writer connected with France.",
+      "context": "Charles Baudelaire's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Charles Baudelaire",
       "sourceUrl": "https://pantheon.world/profile/person/Charles_Baudelaire",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-baudelaire-2-obstacle",
+      "text": "Charles Baudelaire's recorded life dates place this profile around 1821-1867.",
+      "context": "Charles Baudelaire's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Charles Baudelaire",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Baudelaire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-baudelaire-3-turning-point",
+      "text": "Charles Baudelaire is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Charles Baudelaire's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Charles Baudelaire",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Baudelaire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-baudelaire-4-contribution",
+      "text": "Charles Baudelaire's profile connects a short Fact to a wider France historical setting.",
+      "context": "Charles Baudelaire's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Charles Baudelaire",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Baudelaire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "charles-baudelaire-5-influence",
+      "text": "Charles Baudelaire has a Facts Mode card reserved for deeper source research.",
+      "context": "Charles Baudelaire's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Charles Baudelaire",
+      "sourceUrl": "https://pantheon.world/profile/person/Charles_Baudelaire",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

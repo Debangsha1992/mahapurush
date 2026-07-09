@@ -1,0 +1,46 @@
+{
+  "personId": "enver-hoxha",
+  "slug": "enver-hoxha",
+  "name": "Enver Hoxha",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Enver Hoxha",
+      "url": "https://pantheon.world/profile/person/Enver_Hoxha",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "enver-hoxha-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Enver Hoxha is remembered as a politician connected with Albania."
+    },
+    {
+      "factId": "enver-hoxha-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Enver Hoxha's recorded life dates place this profile around 1908-1985."
+    },
+    {
+      "factId": "enver-hoxha-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Enver Hoxha is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "enver-hoxha-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Enver Hoxha's profile connects a short Fact to a wider Albania historical setting."
+    },
+    {
+      "factId": "enver-hoxha-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Enver Hoxha has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

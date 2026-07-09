@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Friedrich Schiller is a notable writer associated with Germany.",
+  "summary": "Friedrich Schiller is a notable writer connected with Germany.",
   "knownFor": [
     "Writer",
-    "114 language biography editions",
-    "Historical Popularity Index 84.6"
+    "Literature, Arts & Culture",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 481,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "friedrich-schiller-pantheon-profile",
-      "text": "Pantheon ranks Friedrich Schiller as a globally documented writer with biographies in 114 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Friedrich Schiller a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "friedrich-schiller-1-origin",
+      "text": "Friedrich Schiller is remembered as a writer connected with Germany.",
+      "context": "Friedrich Schiller's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Friedrich Schiller",
       "sourceUrl": "https://pantheon.world/profile/person/Friedrich_Schiller",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "friedrich-schiller-2-obstacle",
+      "text": "Friedrich Schiller's recorded life dates place this profile around 1759-1805.",
+      "context": "Friedrich Schiller's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Friedrich Schiller",
+      "sourceUrl": "https://pantheon.world/profile/person/Friedrich_Schiller",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "friedrich-schiller-3-turning-point",
+      "text": "Friedrich Schiller is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Friedrich Schiller's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Friedrich Schiller",
+      "sourceUrl": "https://pantheon.world/profile/person/Friedrich_Schiller",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "friedrich-schiller-4-contribution",
+      "text": "Friedrich Schiller's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Friedrich Schiller's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Friedrich Schiller",
+      "sourceUrl": "https://pantheon.world/profile/person/Friedrich_Schiller",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "friedrich-schiller-5-influence",
+      "text": "Friedrich Schiller has a Facts Mode card reserved for deeper source research.",
+      "context": "Friedrich Schiller's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Friedrich Schiller",
+      "sourceUrl": "https://pantheon.world/profile/person/Friedrich_Schiller",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

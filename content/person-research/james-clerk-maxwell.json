@@ -1,0 +1,46 @@
+{
+  "personId": "james-clerk-maxwell",
+  "slug": "james-clerk-maxwell",
+  "name": "James Clerk Maxwell",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: James Clerk Maxwell",
+      "url": "https://pantheon.world/profile/person/James_Clerk_Maxwell",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "james-clerk-maxwell-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "James Clerk Maxwell is remembered as a physicist connected with United Kingdom."
+    },
+    {
+      "factId": "james-clerk-maxwell-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "James Clerk Maxwell's recorded life dates place this profile around 1831-1879."
+    },
+    {
+      "factId": "james-clerk-maxwell-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "James Clerk Maxwell is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "james-clerk-maxwell-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "James Clerk Maxwell's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "james-clerk-maxwell-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "James Clerk Maxwell has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

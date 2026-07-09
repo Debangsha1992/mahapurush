@@ -1,0 +1,46 @@
+{
+  "personId": "du-fu",
+  "slug": "du-fu",
+  "name": "Du Fu",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Du Fu",
+      "url": "https://pantheon.world/profile/person/Du_Fu",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "du-fu-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Du Fu is remembered as a writer connected with China."
+    },
+    {
+      "factId": "du-fu-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Du Fu's recorded life dates place this profile around 712-770."
+    },
+    {
+      "factId": "du-fu-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Du Fu is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "du-fu-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Du Fu's profile connects a short Fact to a wider China historical setting."
+    },
+    {
+      "factId": "du-fu-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Du Fu has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

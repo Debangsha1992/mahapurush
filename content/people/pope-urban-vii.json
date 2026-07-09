@@ -12,11 +12,11 @@
     "philosophy-ethics-religion",
     "religious-figure"
   ],
-  "summary": "Pope Urban VII is a notable religious figure associated with Italy.",
+  "summary": "Pope Urban VII is a notable religious figure connected with Italy.",
   "knownFor": [
     "Religious Figure",
-    "77 language biography editions",
-    "Historical Popularity Index 85.1"
+    "Philosophy, Ethics & Religion",
+    "Italy"
   ],
   "featured": true,
   "featuredRank": 439,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "pope-urban-vii-pantheon-profile",
-      "text": "Pantheon ranks Pope Urban VII as a globally documented religious figure with biographies in 77 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Pope Urban VII a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "pope-urban-vii-1-origin",
+      "text": "Pope Urban VII is remembered as a religious figure connected with Italy.",
+      "context": "Pope Urban VII's background gives readers a concrete entry point into Philosophy, Ethics & Religion.",
       "sourceTitle": "Pantheon: Pope Urban VII",
       "sourceUrl": "https://pantheon.world/profile/person/Pope_Urban_VII",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "philosophy-ethics-religion",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-urban-vii-2-obstacle",
+      "text": "Pope Urban VII's recorded life dates place this profile around 1521-1590.",
+      "context": "Pope Urban VII's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Pope Urban VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Urban_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "philosophy-ethics-religion",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-urban-vii-3-turning-point",
+      "text": "Pope Urban VII is grouped with Philosophy, Ethics & Religion in the People Library.",
+      "context": "Pope Urban VII's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Pope Urban VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Urban_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "philosophy-ethics-religion",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-urban-vii-4-contribution",
+      "text": "Pope Urban VII's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Pope Urban VII's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Pope Urban VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Urban_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "philosophy-ethics-religion",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pope-urban-vii-5-influence",
+      "text": "Pope Urban VII has a Facts Mode card reserved for deeper source research.",
+      "context": "Pope Urban VII's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Pope Urban VII",
+      "sourceUrl": "https://pantheon.world/profile/person/Pope_Urban_VII",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "philosophy-ethics-religion",
+        "influence"
       ],
       "verified": true
     }

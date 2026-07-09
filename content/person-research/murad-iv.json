@@ -1,0 +1,46 @@
+{
+  "personId": "murad-iv",
+  "slug": "murad-iv",
+  "name": "Murad IV",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Murad IV",
+      "url": "https://pantheon.world/profile/person/Murad_IV",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "murad-iv-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Murad IV is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "murad-iv-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Murad IV's recorded life dates place this profile around 1612-1640."
+    },
+    {
+      "factId": "murad-iv-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Murad IV is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "murad-iv-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Murad IV's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "murad-iv-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Murad IV has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

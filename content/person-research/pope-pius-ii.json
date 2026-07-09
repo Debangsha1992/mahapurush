@@ -1,0 +1,46 @@
+{
+  "personId": "pope-pius-ii",
+  "slug": "pope-pius-ii",
+  "name": "Pope Pius II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Pius II",
+      "url": "https://pantheon.world/profile/person/Pope_Pius_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-pius-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius II is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-pius-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius II's recorded life dates place this profile around 1405-1464."
+    },
+    {
+      "factId": "pope-pius-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius II is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-pius-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius II's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-pius-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

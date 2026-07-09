@@ -1,0 +1,46 @@
+{
+  "personId": "jean-baptiste-lamarck",
+  "slug": "jean-baptiste-lamarck",
+  "name": "Jean-Baptiste Lamarck",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jean-Baptiste Lamarck",
+      "url": "https://pantheon.world/profile/person/Jean-Baptiste_Lamarck",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jean-baptiste-lamarck-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Baptiste Lamarck is remembered as a biologist connected with France."
+    },
+    {
+      "factId": "jean-baptiste-lamarck-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Baptiste Lamarck's recorded life dates place this profile around 1744-1829."
+    },
+    {
+      "factId": "jean-baptiste-lamarck-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Baptiste Lamarck is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "jean-baptiste-lamarck-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Baptiste Lamarck's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "jean-baptiste-lamarck-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Baptiste Lamarck has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

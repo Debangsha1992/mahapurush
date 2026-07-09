@@ -1,0 +1,46 @@
+{
+  "personId": "basil-ii",
+  "slug": "basil-ii",
+  "name": "Basil II",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Basil II",
+      "url": "https://pantheon.world/profile/person/Basil_II",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "basil-ii-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Basil II is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "basil-ii-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Basil II's recorded life dates place this profile around 958-1025."
+    },
+    {
+      "factId": "basil-ii-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Basil II is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "basil-ii-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Basil II's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "basil-ii-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Basil II has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

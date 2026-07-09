@@ -1,0 +1,46 @@
+{
+  "personId": "francisco-franco",
+  "slug": "francisco-franco",
+  "name": "Francisco Franco",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Francisco Franco",
+      "url": "https://pantheon.world/profile/person/Francisco_Franco",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "francisco-franco-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Francisco Franco is remembered as a politician connected with Spain."
+    },
+    {
+      "factId": "francisco-franco-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Francisco Franco's recorded life dates place this profile around 1892-1975."
+    },
+    {
+      "factId": "francisco-franco-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Francisco Franco is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "francisco-franco-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Francisco Franco's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "francisco-franco-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Francisco Franco has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

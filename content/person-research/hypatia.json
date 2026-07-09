@@ -1,0 +1,47 @@
+{
+  "personId": "hypatia",
+  "slug": "hypatia",
+  "name": "Hypatia",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Hypatia",
+      "url": "https://en.wikipedia.org/wiki/Hypatia",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "4th-century Alexandrian astronomer and mathematician"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hypatia-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Hypatia was a Neoplatonist philosopher, astronomer, and mathematician who lived in Alexandria, at that time in the province of Egypt and a major city of the Roman Empire."
+    },
+    {
+      "factId": "hypatia-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "In Alexandria, Hypatia was a prominent thinker who taught subjects including philosophy and astronomy, and in her lifetime was renowned as a great teacher and a wise counselor."
+    },
+    {
+      "factId": "hypatia-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Not the only fourth century Alexandrian female mathematician, Hypatia was preceded by Pandrosion."
+    },
+    {
+      "factId": "hypatia-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "However, Hypatia is the first female mathematician whose life is reasonably well recorded."
+    },
+    {
+      "factId": "hypatia-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "verified",
+      "text": "Hypatia wrote a commentary on Diophantus's thirteen-volume Arithmetica, which may survive in part, having been interpolated into Diophantus's original text, and another commentary on Apollonius of Perga's treatise on conic sections, which has not survived."
+    }
+  ]
+}

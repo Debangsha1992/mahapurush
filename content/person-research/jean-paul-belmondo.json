@@ -1,0 +1,46 @@
+{
+  "personId": "jean-paul-belmondo",
+  "slug": "jean-paul-belmondo",
+  "name": "Jean-Paul Belmondo",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Jean-Paul Belmondo",
+      "url": "https://pantheon.world/profile/person/Jean-Paul_Belmondo",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jean-paul-belmondo-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Paul Belmondo is remembered as a actor connected with France."
+    },
+    {
+      "factId": "jean-paul-belmondo-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Paul Belmondo's recorded life dates place this profile around 1933-2021."
+    },
+    {
+      "factId": "jean-paul-belmondo-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Paul Belmondo is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "jean-paul-belmondo-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Paul Belmondo's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "jean-paul-belmondo-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Jean-Paul Belmondo has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

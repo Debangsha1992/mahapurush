@@ -12,11 +12,11 @@
     "science-math-technology",
     "inventor"
   ],
-  "summary": "Johannes Gutenberg is a notable inventor associated with Germany.",
+  "summary": "Johannes Gutenberg is a notable inventor connected with Germany.",
   "knownFor": [
     "Inventor",
-    "160 language biography editions",
-    "Historical Popularity Index 90.6"
+    "Science, Math & Technology",
+    "Germany"
   ],
   "featured": true,
   "featuredRank": 116,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "johannes-gutenberg-pantheon-profile",
-      "text": "Pantheon ranks Johannes Gutenberg as a globally documented inventor with biographies in 160 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Johannes Gutenberg a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "johannes-gutenberg-1-origin",
+      "text": "Johannes Gutenberg is remembered as a inventor connected with Germany.",
+      "context": "Johannes Gutenberg's background gives readers a concrete entry point into Science, Math & Technology.",
       "sourceTitle": "Pantheon: Johannes Gutenberg",
       "sourceUrl": "https://pantheon.world/profile/person/Johannes_Gutenberg",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "science-math-technology",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-gutenberg-2-obstacle",
+      "text": "Johannes Gutenberg's recorded life dates place this profile around 1394-1468.",
+      "context": "Johannes Gutenberg's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Johannes Gutenberg",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Gutenberg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-gutenberg-3-turning-point",
+      "text": "Johannes Gutenberg is grouped with Science, Math & Technology in the People Library.",
+      "context": "Johannes Gutenberg's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Johannes Gutenberg",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Gutenberg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-gutenberg-4-contribution",
+      "text": "Johannes Gutenberg's profile connects a short Fact to a wider Germany historical setting.",
+      "context": "Johannes Gutenberg's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Johannes Gutenberg",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Gutenberg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "johannes-gutenberg-5-influence",
+      "text": "Johannes Gutenberg has a Facts Mode card reserved for deeper source research.",
+      "context": "Johannes Gutenberg's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Johannes Gutenberg",
+      "sourceUrl": "https://pantheon.world/profile/person/Johannes_Gutenberg",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }

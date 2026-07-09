@@ -1,0 +1,47 @@
+{
+  "personId": "tu-youyou",
+  "slug": "tu-youyou",
+  "name": "Tu Youyou",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Tu Youyou",
+      "url": "https://en.wikipedia.org/wiki/Tu_Youyou",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Chinese pharmaceutical chemist (born 1930)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "tu-youyou-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Tu Youyou is a Nobel Prize-winning Chinese malariologist and pharmaceutical chemist."
+    },
+    {
+      "factId": "tu-youyou-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Tu Youyou discovered artemisinin and dihydroartemisinin, used to treat malaria, a breakthrough in twentieth-century tropical medicine, saving millions of lives in South China, Southeast Asia, Africa, and South America."
+    },
+    {
+      "factId": "tu-youyou-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Tu Youyou is remembered as a scientist connected with China."
+    },
+    {
+      "factId": "tu-youyou-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Tu Youyou's recorded life dates place this profile around 1930-present."
+    },
+    {
+      "factId": "tu-youyou-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Tu Youyou is grouped with Science, Math & Technology in the People Library."
+    }
+  ]
+}

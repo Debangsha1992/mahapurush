@@ -1,0 +1,46 @@
+{
+  "personId": "immanuel-kant",
+  "slug": "immanuel-kant",
+  "name": "Immanuel Kant",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Immanuel Kant",
+      "url": "https://pantheon.world/profile/person/Immanuel_Kant",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "immanuel-kant-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Immanuel Kant is remembered as a philosopher connected with Russia."
+    },
+    {
+      "factId": "immanuel-kant-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Immanuel Kant's recorded life dates place this profile around 1724-1804."
+    },
+    {
+      "factId": "immanuel-kant-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Immanuel Kant is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "immanuel-kant-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Immanuel Kant's profile connects a short Fact to a wider Russia historical setting."
+    },
+    {
+      "factId": "immanuel-kant-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Immanuel Kant has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

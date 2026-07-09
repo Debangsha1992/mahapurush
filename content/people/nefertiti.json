@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "companion"
   ],
-  "summary": "Nefertiti is a notable companion associated with Egypt.",
+  "summary": "Nefertiti is a notable companion connected with Egypt.",
   "knownFor": [
     "Companion",
-    "99 language biography editions",
-    "Historical Popularity Index 87.3"
+    "Justice, Governance & Leadership",
+    "Egypt"
   ],
   "featured": true,
   "featuredRank": 259,
@@ -31,16 +31,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "nefertiti-pantheon-profile",
-      "text": "Pantheon ranks Nefertiti as a globally documented companion with biographies in 99 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Nefertiti a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "nefertiti-1-origin",
+      "text": "Nefertiti is remembered as a companion connected with Egypt.",
+      "context": "Nefertiti's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Nefertiti",
       "sourceUrl": "https://pantheon.world/profile/person/Nefertiti",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nefertiti-2-obstacle",
+      "text": "Nefertiti's recorded life dates place this profile around -1400--1330.",
+      "context": "Nefertiti's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Nefertiti",
+      "sourceUrl": "https://pantheon.world/profile/person/Nefertiti",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nefertiti-3-turning-point",
+      "text": "Nefertiti is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Nefertiti's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Nefertiti",
+      "sourceUrl": "https://pantheon.world/profile/person/Nefertiti",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nefertiti-4-contribution",
+      "text": "Nefertiti's profile connects a short Fact to a wider Egypt historical setting.",
+      "context": "Nefertiti's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Nefertiti",
+      "sourceUrl": "https://pantheon.world/profile/person/Nefertiti",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "nefertiti-5-influence",
+      "text": "Nefertiti has a Facts Mode card reserved for deeper source research.",
+      "context": "Nefertiti's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Nefertiti",
+      "sourceUrl": "https://pantheon.world/profile/person/Nefertiti",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

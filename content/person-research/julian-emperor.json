@@ -1,0 +1,46 @@
+{
+  "personId": "julian-emperor",
+  "slug": "julian-emperor",
+  "name": "Julian",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Julian",
+      "url": "https://pantheon.world/profile/person/Julian_(emperor)",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "julian-emperor-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Julian is remembered as a politician connected with Türkiye."
+    },
+    {
+      "factId": "julian-emperor-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Julian's recorded life dates place this profile around 331-363."
+    },
+    {
+      "factId": "julian-emperor-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Julian is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "julian-emperor-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Julian's profile connects a short Fact to a wider Türkiye historical setting."
+    },
+    {
+      "factId": "julian-emperor-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Julian has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

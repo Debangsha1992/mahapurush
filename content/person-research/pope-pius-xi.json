@@ -1,0 +1,46 @@
+{
+  "personId": "pope-pius-xi",
+  "slug": "pope-pius-xi",
+  "name": "Pope Pius XI",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Pope Pius XI",
+      "url": "https://pantheon.world/profile/person/Pope_Pius_XI",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "pope-pius-xi-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius XI is remembered as a religious figure connected with Italy."
+    },
+    {
+      "factId": "pope-pius-xi-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius XI's recorded life dates place this profile around 1857-1939."
+    },
+    {
+      "factId": "pope-pius-xi-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius XI is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "pope-pius-xi-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius XI's profile connects a short Fact to a wider Italy historical setting."
+    },
+    {
+      "factId": "pope-pius-xi-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Pope Pius XI has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "personId": "hannibal",
+  "slug": "hannibal",
+  "name": "Hannibal",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Hannibal",
+      "url": "https://en.wikipedia.org/wiki/Hannibal",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Carthaginian general and statesman (247–183/181 BC)"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hannibal-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Hannibal was a Carthaginian general and statesman who commanded the forces of Carthage in their battle against the Roman Republic during the Second Punic War."
+    },
+    {
+      "factId": "hannibal-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Hannibal lived during a period of great tension in the Mediterranean Basin, triggered by the emergence of the Roman Republic as a great power with its defeat of Carthage in the First Punic War."
+    },
+    {
+      "factId": "hannibal-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Revanchism prevailed in Carthage, symbolized by the pledge that Hannibal made to his father to \"never be a friend of Rome\"."
+    },
+    {
+      "factId": "hannibal-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hannibal is remembered as a politician connected with Tunisia."
+    },
+    {
+      "factId": "hannibal-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hannibal's recorded life dates place this profile around -247--183."
+    }
+  ]
+}

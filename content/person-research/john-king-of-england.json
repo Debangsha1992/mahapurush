@@ -1,0 +1,46 @@
+{
+  "personId": "john-king-of-england",
+  "slug": "john-king-of-england",
+  "name": "John, King of England",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: John, King of England",
+      "url": "https://pantheon.world/profile/person/John%2C_King_of_England",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "john-king-of-england-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "John, King of England is remembered as a politician connected with United Kingdom."
+    },
+    {
+      "factId": "john-king-of-england-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "John, King of England's recorded life dates place this profile around 1166-1216."
+    },
+    {
+      "factId": "john-king-of-england-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "John, King of England is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "john-king-of-england-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "John, King of England's profile connects a short Fact to a wider United Kingdom historical setting."
+    },
+    {
+      "factId": "john-king-of-england-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "John, King of England has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

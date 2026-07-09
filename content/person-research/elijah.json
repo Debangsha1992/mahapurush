@@ -1,0 +1,47 @@
+{
+  "personId": "elijah",
+  "slug": "elijah",
+  "name": "Elijah",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Elijah",
+      "url": "https://en.wikipedia.org/wiki/Elijah",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Biblical prophet"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "elijah-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Elijah was a prophet and miracle worker who lived in the northern kingdom of Israel during the reign of King Ahab, according to the Books of Kings in the Hebrew Bible."
+    },
+    {
+      "factId": "elijah-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Elijah is remembered as a religious figure connected with Israel."
+    },
+    {
+      "factId": "elijah-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Elijah's recorded life dates place this profile around -1000--900."
+    },
+    {
+      "factId": "elijah-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Elijah is grouped with Philosophy, Ethics & Religion in the People Library."
+    },
+    {
+      "factId": "elijah-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Elijah's profile connects a short Fact to a wider Israel historical setting."
+    }
+  ]
+}

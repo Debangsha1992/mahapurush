@@ -12,34 +12,101 @@
     "justice-governance-leadership",
     "nobleman"
   ],
-  "summary": "Rollo is a notable nobleman associated with Norway.",
+  "summary": "Rollo, or Rollo \"the Walker\", was a Viking who, as Count of Rouen, became the first ruler of Normandy, a region in today's northern France.",
   "knownFor": [
     "Nobleman",
-    "54 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Justice, Governance & Leadership",
+    "Norway"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Rollo",
   "sourceRefs": [
     {
-      "title": "Pantheon: Rollo",
-      "url": "https://pantheon.world/profile/person/Rollo",
+      "title": "Wikipedia: Rollo",
+      "url": "https://en.wikipedia.org/wiki/Rollo",
       "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "rollo-pantheon-profile",
-      "text": "Pantheon ranks Rollo as a globally documented nobleman with biographies in 54 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Rollo a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
-      "sourceTitle": "Pantheon: Rollo",
-      "sourceUrl": "https://pantheon.world/profile/person/Rollo",
+      "id": "rollo-1-origin",
+      "text": "Rollo, or Rollo \"the Walker\", was a Viking who, as Count of Rouen, became the first ruler of Normandy, a region in today's northern France.",
+      "context": "Rollo's background gives readers a concrete entry point into Justice, Governance & Leadership.",
+      "sourceTitle": "Wikipedia: Rollo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rollo",
       "sourceAccessedAt": "2026-07-06",
-      "currentAsOf": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rollo-2-obstacle",
+      "text": "Rollo emerged as a war leader among the Norsemen who had secured a permanent foothold on Frankish soil in the valley of the lower Seine.",
+      "context": "Rollo's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Rollo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rollo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rollo-3-turning-point",
+      "text": "Rollo was a prominent figure among the Vikings who besieged Paris in 885 and led the ill-fated Siege of Chartres in 911.",
+      "context": "Rollo's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Rollo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rollo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rollo-4-contribution",
+      "text": "The latter was nonetheless the catalyst for the consequential Treaty of Saint-Clair-sur-Epte, which saw Charles the Simple, king of West Francia, grant Rollo lands between the river Epte and the sea in exchange for Rollo agreeing to end his brigandage, swear allegiance to Charles, convert to Christ.",
+      "context": "Rollo's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Rollo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rollo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "rollo-5-influence",
+      "text": "Rollo is remembered as a nobleman connected with Norway.",
+      "context": "Rollo's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Rollo",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rollo",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

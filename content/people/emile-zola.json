@@ -12,11 +12,11 @@
     "literature-arts-culture",
     "writer"
   ],
-  "summary": "Émile Zola is a notable writer associated with France.",
+  "summary": "Émile Zola is a notable writer connected with France.",
   "knownFor": [
     "Writer",
-    "114 language biography editions",
-    "Historical Popularity Index 84.2"
+    "Literature, Arts & Culture",
+    "France"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Émile Zola",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "emile-zola-pantheon-profile",
-      "text": "Pantheon ranks Émile Zola as a globally documented writer with biographies in 114 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Émile Zola a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "emile-zola-1-origin",
+      "text": "Émile Zola is remembered as a writer connected with France.",
+      "context": "Émile Zola's background gives readers a concrete entry point into Literature, Arts & Culture.",
       "sourceTitle": "Pantheon: Émile Zola",
       "sourceUrl": "https://pantheon.world/profile/person/%C3%89mile_Zola",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "literature-arts-culture",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "emile-zola-2-obstacle",
+      "text": "Émile Zola's recorded life dates place this profile around 1840-1902.",
+      "context": "Émile Zola's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Émile Zola",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89mile_Zola",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "literature-arts-culture",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "emile-zola-3-turning-point",
+      "text": "Émile Zola is grouped with Literature, Arts & Culture in the People Library.",
+      "context": "Émile Zola's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Émile Zola",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89mile_Zola",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "literature-arts-culture",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "emile-zola-4-contribution",
+      "text": "Émile Zola's profile connects a short Fact to a wider France historical setting.",
+      "context": "Émile Zola's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Émile Zola",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89mile_Zola",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "literature-arts-culture",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "emile-zola-5-influence",
+      "text": "Émile Zola has a Facts Mode card reserved for deeper source research.",
+      "context": "Émile Zola's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Émile Zola",
+      "sourceUrl": "https://pantheon.world/profile/person/%C3%89mile_Zola",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "literature-arts-culture",
+        "influence"
       ],
       "verified": true
     }

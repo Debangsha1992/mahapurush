@@ -1,0 +1,46 @@
+{
+  "personId": "ferdinand-de-saussure",
+  "slug": "ferdinand-de-saussure",
+  "name": "Ferdinand de Saussure",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Ferdinand de Saussure",
+      "url": "https://pantheon.world/profile/person/Ferdinand_de_Saussure",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "ferdinand-de-saussure-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand de Saussure is remembered as a linguist connected with Switzerland."
+    },
+    {
+      "factId": "ferdinand-de-saussure-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand de Saussure's recorded life dates place this profile around 1857-1913."
+    },
+    {
+      "factId": "ferdinand-de-saussure-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand de Saussure is grouped with Literature, Arts & Culture in the People Library."
+    },
+    {
+      "factId": "ferdinand-de-saussure-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand de Saussure's profile connects a short Fact to a wider Switzerland historical setting."
+    },
+    {
+      "factId": "ferdinand-de-saussure-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Ferdinand de Saussure has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

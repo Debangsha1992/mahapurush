@@ -9,23 +9,89 @@
   "domains": [
     "science-math-technology"
   ],
-  "summary": "Hypatia taught mathematics and philosophy in Alexandria and became a symbol of learning under pressure.",
+  "summary": "Hypatia was a Neoplatonist philosopher, astronomer, and mathematician who lived in Alexandria, at that time in the province of Egypt and a major city of the Roman Empire.",
   "knownFor": [
-    "Neoplatonic teaching",
-    "mathematics",
-    "Alexandrian scholarship"
+    "Scientist",
+    "Alexandria"
   ],
   "facts": [
     {
-      "id": "hypatia-alexandria-teacher",
-      "text": "Hypatia was a respected teacher of philosophy and mathematics in Alexandria during late antiquity.",
-      "context": "Her life helps learners think about intellectual courage, public teaching, and the vulnerability of knowledge in turbulent times.",
-      "sourceTitle": "Encyclopaedia Britannica: Hypatia",
-      "sourceUrl": "https://www.britannica.com/biography/Hypatia",
-      "sourceAccessedAt": "2026-07-05",
+      "id": "hypatia-1-origin",
+      "text": "Hypatia was a Neoplatonist philosopher, astronomer, and mathematician who lived in Alexandria, at that time in the province of Egypt and a major city of the Roman Empire.",
+      "context": "Hypatia's background gives readers a concrete entry point into Science, Math & Technology.",
+      "sourceTitle": "Wikipedia: Hypatia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hypatia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "origin",
       "tags": [
-        "philosophy",
-        "mathematics"
+        "science-math-technology",
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hypatia-2-obstacle",
+      "text": "In Alexandria, Hypatia was a prominent thinker who taught subjects including philosophy and astronomy, and in her lifetime was renowned as a great teacher and a wise counselor.",
+      "context": "Hypatia's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Wikipedia: Hypatia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hypatia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "obstacle",
+      "tags": [
+        "science-math-technology",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hypatia-3-turning-point",
+      "text": "Not the only fourth century Alexandrian female mathematician, Hypatia was preceded by Pandrosion.",
+      "context": "Hypatia's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Wikipedia: Hypatia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hypatia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "turning-point",
+      "tags": [
+        "science-math-technology",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hypatia-4-contribution",
+      "text": "However, Hypatia is the first female mathematician whose life is reasonably well recorded.",
+      "context": "Hypatia's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Wikipedia: Hypatia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hypatia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "contribution",
+      "tags": [
+        "science-math-technology",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "hypatia-5-influence",
+      "text": "Hypatia wrote a commentary on Diophantus's thirteen-volume Arithmetica, which may survive in part, having been interpolated into Diophantus's original text, and another commentary on Apollonius of Perga's treatise on conic sections, which has not survived.",
+      "context": "Hypatia's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Wikipedia: Hypatia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Hypatia",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "verified",
+      "storyAngle": "influence",
+      "tags": [
+        "science-math-technology",
+        "influence"
       ],
       "verified": true
     }
@@ -37,9 +103,9 @@
   "imageAlt": "Portrait-style visual for Hypatia",
   "sourceRefs": [
     {
-      "title": "Encyclopaedia Britannica: Hypatia",
-      "url": "https://www.britannica.com/biography/Hypatia",
-      "accessedAt": "2026-07-05"
+      "title": "Wikipedia: Hypatia",
+      "url": "https://en.wikipedia.org/wiki/Hypatia",
+      "accessedAt": "2026-07-06"
     }
   ],
   "reviewStatus": "published"

@@ -1,0 +1,46 @@
+{
+  "personId": "robert-koch",
+  "slug": "robert-koch",
+  "name": "Robert Koch",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Robert Koch",
+      "url": "https://pantheon.world/profile/person/Robert_Koch",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "robert-koch-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Robert Koch is remembered as a physician connected with Germany."
+    },
+    {
+      "factId": "robert-koch-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Robert Koch's recorded life dates place this profile around 1843-1910."
+    },
+    {
+      "factId": "robert-koch-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Robert Koch is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "robert-koch-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Robert Koch's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "robert-koch-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Robert Koch has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

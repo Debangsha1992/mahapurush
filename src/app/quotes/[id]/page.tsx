@@ -1,5 +1,10 @@
 import { notFound } from "next/navigation";
-import { Card } from "@/components/ui/card";
+import {
+  EditorialCard,
+  EditorialPageHero,
+  SectionHeader,
+  mutedText,
+} from "@/components/ui/editorial";
 import {
   getAllQuoteCards,
   getAllThinkers,
@@ -24,24 +29,31 @@ export default async function QuotePage({
   const thinker = getAllThinkers().find((item) => item.id === quote.thinkerId);
 
   return (
-    <Card className="mx-auto max-w-2xl space-y-5">
-      <p className="text-sm uppercase tracking-[0.18em] text-[var(--color-accent)]">
-        Quote Card
-      </p>
-      <p className="font-serif text-3xl leading-tight">&ldquo;{quote.quote}&rdquo;</p>
-      <p className="text-[var(--color-muted)]">— {thinker?.name}</p>
-      <div>
-        <h3 className="font-semibold">Meaning</h3>
-        <p className="mt-2 leading-8 text-[var(--color-muted)]">{quote.meaning}</p>
-      </div>
-      <div>
-        <h3 className="font-semibold">Context</h3>
-        <p className="mt-2 leading-8 text-[var(--color-muted)]">{quote.context}</p>
-      </div>
-      <div>
-        <h3 className="font-semibold">Today&apos;s Question</h3>
-        <p className="mt-2 leading-8">{quote.todayQuestion}</p>
-      </div>
-    </Card>
+    <div className="mx-auto max-w-3xl space-y-5">
+      <EditorialPageHero
+        eyebrow="Quote Card"
+        title={thinker?.name ?? "Great Mind"}
+        description="A short prompt for reflection."
+      >
+        <p className="font-serif text-3xl leading-tight md:text-4xl">
+          &ldquo;{quote.quote}&rdquo;
+        </p>
+      </EditorialPageHero>
+
+      <EditorialCard className="space-y-5">
+        <div>
+          <SectionHeader eyebrow="Meaning" title="What it points to" />
+          <p className={`mt-2 leading-8 ${mutedText}`}>{quote.meaning}</p>
+        </div>
+        <div>
+          <SectionHeader eyebrow="Context" title="Why it mattered" />
+          <p className={`mt-2 leading-8 ${mutedText}`}>{quote.context}</p>
+        </div>
+        <div>
+          <SectionHeader eyebrow="Today" title="Question" />
+          <p className="mt-2 leading-8">{quote.todayQuestion}</p>
+        </div>
+      </EditorialCard>
+    </div>
   );
 }

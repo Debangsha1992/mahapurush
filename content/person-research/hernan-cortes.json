@@ -1,0 +1,46 @@
+{
+  "personId": "hernan-cortes",
+  "slug": "hernan-cortes",
+  "name": "Hernán Cortés",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Hernán Cortés",
+      "url": "https://pantheon.world/profile/person/Hern%C3%A1n_Cort%C3%A9s",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "hernan-cortes-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Hernán Cortés is remembered as a explorer connected with Spain."
+    },
+    {
+      "factId": "hernan-cortes-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Hernán Cortés's recorded life dates place this profile around 1485-1547."
+    },
+    {
+      "factId": "hernan-cortes-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Hernán Cortés is grouped with Environment, Exploration & Human Achievement in the People Library."
+    },
+    {
+      "factId": "hernan-cortes-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Hernán Cortés's profile connects a short Fact to a wider Spain historical setting."
+    },
+    {
+      "factId": "hernan-cortes-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Hernán Cortés has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

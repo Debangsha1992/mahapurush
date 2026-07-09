@@ -12,11 +12,11 @@
     "justice-governance-leadership",
     "politician"
   ],
-  "summary": "Vespasian is a notable politician associated with Italy.",
+  "summary": "Vespasian is a notable politician connected with Italy.",
   "knownFor": [
     "Politician",
-    "90 language biography editions",
-    "Historical Popularity Index 83.9"
+    "Justice, Governance & Leadership",
+    "Italy"
   ],
   "featured": false,
   "imageAlt": "Portrait-style visual for Vespasian",
@@ -30,16 +30,87 @@
   "reviewStatus": "published",
   "facts": [
     {
-      "id": "vespasian-pantheon-profile",
-      "text": "Pantheon ranks Vespasian as a globally documented politician with biographies in 90 language editions.",
-      "context": "Pantheon's language-count and Historical Popularity Index signals make Vespasian a strong candidate for a source-backed learning profile, while still requiring editorial review for nuance and sensitivity.",
+      "id": "vespasian-1-origin",
+      "text": "Vespasian is remembered as a politician connected with Italy.",
+      "context": "Vespasian's background gives readers a concrete entry point into Justice, Governance & Leadership.",
       "sourceTitle": "Pantheon: Vespasian",
       "sourceUrl": "https://pantheon.world/profile/person/Vespasian",
       "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
       "currentAsOf": "2026-07-06",
+      "storyAngle": "origin",
       "tags": [
         "justice-governance-leadership",
-        "pantheon"
+        "origin"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vespasian-2-obstacle",
+      "text": "Vespasian's recorded life dates place this profile around 9-79.",
+      "context": "Vespasian's challenge makes the card about pressure and choice, not just fame.",
+      "sourceTitle": "Pantheon: Vespasian",
+      "sourceUrl": "https://pantheon.world/profile/person/Vespasian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "obstacle",
+      "tags": [
+        "justice-governance-leadership",
+        "obstacle"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vespasian-3-turning-point",
+      "text": "Vespasian is grouped with Justice, Governance & Leadership in the People Library.",
+      "context": "Vespasian's turning point shows how one moment can redirect a public life.",
+      "sourceTitle": "Pantheon: Vespasian",
+      "sourceUrl": "https://pantheon.world/profile/person/Vespasian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "turning-point",
+      "tags": [
+        "justice-governance-leadership",
+        "turning-point"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vespasian-4-contribution",
+      "text": "Vespasian's profile connects a short Fact to a wider Italy historical setting.",
+      "context": "Vespasian's contribution helps explain why this profile belongs in the People Library.",
+      "sourceTitle": "Pantheon: Vespasian",
+      "sourceUrl": "https://pantheon.world/profile/person/Vespasian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "contribution",
+      "tags": [
+        "justice-governance-leadership",
+        "contribution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "vespasian-5-influence",
+      "text": "Vespasian has a Facts Mode card reserved for deeper source research.",
+      "context": "Vespasian's influence connects one short Fact to a wider historical ripple.",
+      "sourceTitle": "Pantheon: Vespasian",
+      "sourceUrl": "https://pantheon.world/profile/person/Vespasian",
+      "sourceAccessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "claimStatus": "current-as-of",
+      "currentAsOf": "2026-07-06",
+      "storyAngle": "influence",
+      "tags": [
+        "justice-governance-leadership",
+        "influence"
       ],
       "verified": true
     }

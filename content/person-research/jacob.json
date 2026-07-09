@@ -1,0 +1,47 @@
+{
+  "personId": "jacob",
+  "slug": "jacob",
+  "name": "Jacob",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Jacob",
+      "url": "https://en.wikipedia.org/wiki/Jacob",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference",
+      "description": "Biblical patriarch, son of Isaac"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "jacob-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "verified",
+      "text": "Jacob, later given the name Israel, is the third Hebrew patriarch in Judaism and an important figure in the Abrahamic religions."
+    },
+    {
+      "factId": "jacob-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "verified",
+      "text": "Jacob first appears in the Torah, where he is described in the Book of Genesis as a son of Isaac and Rebecca."
+    },
+    {
+      "factId": "jacob-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "verified",
+      "text": "Accordingly, alongside his older fraternal twin brother Esau, Jacob's paternal grandparents are Abraham and Sarah and his maternal grandfather is Bethuel, whose wife is not mentioned."
+    },
+    {
+      "factId": "jacob-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "verified",
+      "text": "Jacob is said to have bought Esau's birthright and, with his mother's help, deceived his aging father to bless him instead of Esau."
+    },
+    {
+      "factId": "jacob-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "verified",
+      "text": "Then, following a severe drought in his homeland Canaan, Jacob and his descendants migrated to neighbouring Egypt through the efforts of his son Joseph, who had become a confidant of the pharaoh."
+    }
+  ]
+}

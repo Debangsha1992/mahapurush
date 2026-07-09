@@ -1,0 +1,46 @@
+{
+  "personId": "georg-ohm",
+  "slug": "georg-ohm",
+  "name": "Georg Ohm",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Georg Ohm",
+      "url": "https://pantheon.world/profile/person/Georg_Ohm",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "georg-ohm-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Georg Ohm is remembered as a physicist connected with Germany."
+    },
+    {
+      "factId": "georg-ohm-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Georg Ohm's recorded life dates place this profile around 1789-1854."
+    },
+    {
+      "factId": "georg-ohm-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Georg Ohm is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "georg-ohm-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Georg Ohm's profile connects a short Fact to a wider Germany historical setting."
+    },
+    {
+      "factId": "georg-ohm-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Georg Ohm has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

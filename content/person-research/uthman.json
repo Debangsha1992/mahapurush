@@ -1,0 +1,46 @@
+{
+  "personId": "uthman",
+  "slug": "uthman",
+  "name": "Uthman",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Wikipedia: Uthman",
+      "url": "https://en.wikipedia.org/wiki/Uthman",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "uthman-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Uthman is remembered as a politician connected with Saudi Arabia."
+    },
+    {
+      "factId": "uthman-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Uthman's recorded life dates place this profile around 574-656."
+    },
+    {
+      "factId": "uthman-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Uthman is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "uthman-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Uthman's profile connects a short Fact to a wider Saudi Arabia historical setting."
+    },
+    {
+      "factId": "uthman-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Uthman has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

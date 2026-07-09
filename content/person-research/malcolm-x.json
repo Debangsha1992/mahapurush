@@ -1,0 +1,46 @@
+{
+  "personId": "malcolm-x",
+  "slug": "malcolm-x",
+  "name": "Malcolm X",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Malcolm X",
+      "url": "https://pantheon.world/profile/person/Malcolm_X",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "malcolm-x-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Malcolm X is remembered as a social activist connected with United States."
+    },
+    {
+      "factId": "malcolm-x-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Malcolm X's recorded life dates place this profile around 1925-1965."
+    },
+    {
+      "factId": "malcolm-x-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Malcolm X is grouped with Justice, Governance & Leadership in the People Library."
+    },
+    {
+      "factId": "malcolm-x-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Malcolm X's profile connects a short Fact to a wider United States historical setting."
+    },
+    {
+      "factId": "malcolm-x-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Malcolm X has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}

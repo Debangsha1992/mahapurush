@@ -1,0 +1,46 @@
+{
+  "personId": "henri-becquerel",
+  "slug": "henri-becquerel",
+  "name": "Henri Becquerel",
+  "generatedAt": "2026-07-06",
+  "sources": [
+    {
+      "title": "Pantheon: Henri Becquerel",
+      "url": "https://pantheon.world/profile/person/Henri_Becquerel",
+      "accessedAt": "2026-07-06",
+      "sourceType": "reference"
+    }
+  ],
+  "notes": [
+    {
+      "factId": "henri-becquerel-1-origin",
+      "storyAngle": "origin",
+      "claimStatus": "current-as-of",
+      "text": "Henri Becquerel is remembered as a physicist connected with France."
+    },
+    {
+      "factId": "henri-becquerel-2-obstacle",
+      "storyAngle": "obstacle",
+      "claimStatus": "current-as-of",
+      "text": "Henri Becquerel's recorded life dates place this profile around 1852-1908."
+    },
+    {
+      "factId": "henri-becquerel-3-turning-point",
+      "storyAngle": "turning-point",
+      "claimStatus": "current-as-of",
+      "text": "Henri Becquerel is grouped with Science, Math & Technology in the People Library."
+    },
+    {
+      "factId": "henri-becquerel-4-contribution",
+      "storyAngle": "contribution",
+      "claimStatus": "current-as-of",
+      "text": "Henri Becquerel's profile connects a short Fact to a wider France historical setting."
+    },
+    {
+      "factId": "henri-becquerel-5-influence",
+      "storyAngle": "influence",
+      "claimStatus": "current-as-of",
+      "text": "Henri Becquerel has a Facts Mode card reserved for deeper source research."
+    }
+  ]
+}
