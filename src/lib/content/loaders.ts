@@ -585,6 +585,23 @@ export function validateAllContent(): void {
         label: `Life story ${thinker.id} page ${index + 1}`,
         value: `${page.title} ${page.body}`,
       });
+      for (const sourceLink of page.sourceLinks ?? []) {
+        if (!page.body.includes(sourceLink.text)) {
+          throw new Error(
+            `Life story ${thinker.id} page ${index + 1} source link text is missing from body: ${sourceLink.text}`,
+          );
+        }
+        ensureDateLike(
+          sourceLink.accessedAt,
+          `Life story ${thinker.id} page ${index + 1} source link accessedAt`,
+        );
+      }
+      for (const resource of page.resources ?? []) {
+        ensureDateLike(
+          resource.accessedAt,
+          `Life story ${thinker.id} page ${index + 1} resource accessedAt`,
+        );
+      }
     }
   }
 

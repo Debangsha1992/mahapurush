@@ -19,10 +19,26 @@
     },
     {
       "title": "Rethinking Time and Space",
+      "sourceLinks": [
+        {
+          "text": "His theory of special relativity, published in 1905",
+          "title": "Einstein Papers Project: 1905 Papers",
+          "url": "https://einsteinpapers.press.princeton.edu/vol2-doc/",
+          "accessedAt": "2026-07-10"
+        }
+      ],
       "body": "For centuries, people treated time and space as fixed backgrounds — like a stage where events happen but the stage itself never changes. Einstein shattered that comfort. His theory of special relativity, published in 1905, argued that measurements of time and length depend on how observers move relative to one another. Sound abstract? Here is a concrete example. Imagine two friends with identical clocks. One stays on Earth while the other flies away at an enormous speed and returns. When they meet again, their clocks disagree. The traveling friend aged slightly less. This is not science fiction. It has been measured with precise atomic clocks on airplanes and satellites. GPS on your phone actually needs relativity corrections to stay accurate. Then came general relativity, an even bolder leap. Einstein suggested that gravity is not a mysterious force pulling across empty space. Massive objects curve the fabric of spacetime itself, and other things follow those curves — like marbles rolling on a stretched sheet. Light bends near the Sun. Planets orbit because space around them is shaped, not because an invisible rope tugs on them. Today, people sometimes say Einstein proved everything is relative, as if truth itself disappeared. That is a misunderstanding. Einstein was deeply precise. He showed that some things everyone assumed were absolute — like whether two events happen at the same moment — actually depend on your point of view. Other rules, like the speed of light in a vacuum, remain constant for all observers. Rethinking time and space required intellectual courage. He had to let go of intuitions that felt obvious since childhood. If you have ever changed your mind about a relationship, a belief, a job, or a political issue after seeing new evidence, you know how uncomfortable that can be. Einstein lived that discomfort at the largest scale and followed it wherever logic demanded."
     },
     {
       "title": "The Eclipse That Tested a Bold Idea",
+      "sourceLinks": [
+        {
+          "text": "during a solar eclipse on May 29, 1919",
+          "title": "Royal Museums Greenwich: The 1919 eclipse and Einstein",
+          "url": "https://www.rmg.co.uk/stories/topics/einstein-eddington-1919-eclipse",
+          "accessedAt": "2026-07-10"
+        }
+      ],
       "body": "A beautiful theory still needs a moment when the world can kick the tires. For Einstein's general relativity, that moment arrived during a solar eclipse on May 29, 1919. Here is what was at stake. General relativity predicted that starlight passing near the Sun would bend because the Sun's mass curves spacetime. But you cannot normally see stars close to the Sun — daylight washes them out. During an eclipse, the Moon blocks the Sun's glare and the stars become visible long enough to measure their positions. If Einstein was wrong, the stars would appear where old Newtonian physics expected. If he was right, they would shift by a specific, tiny amount. Tiny is an understatement. The predicted shift was only about 1.75 arcseconds — roughly the angle of a coin viewed from two miles away. Measuring that from Earth, in 1919, was like trying to read someone's lips from the back of a stadium. British astronomer Arthur Eddington led expeditions to Sobral, Brazil, and the island of Principe off the coast of Africa, hauling telescopes and photographic plates into remote locations. Clouds, war, and equipment failures could have ruined everything. When results came in, the data supported Einstein's prediction. Newspapers around the world announced that a German-born physicist had overturned Newton. Einstein became an overnight celebrity — a strange outcome for a man who mostly wanted quiet time to think. The eclipse expedition matters beyond one famous headline. It shows how science actually advances. You propose a daring idea, derive a testable prediction, and invite reality to disagree with you. If nature says no, you adjust. If nature says yes, the idea earns trust. Next time someone calls a scientific claim just a theory, remember the eclipse. Theories are not guesses pulled from thin air. They are maps tested against the territory — sometimes in the middle of a shadow falling across the Earth."
     },
     {
@@ -31,6 +47,26 @@
     },
     {
       "title": "The Icon at Princeton",
+      "resources": [
+        {
+          "title": "Explore The Collected Papers of Albert Einstein",
+          "url": "https://einsteinpapers.press.princeton.edu/",
+          "accessedAt": "2026-07-10",
+          "description": "Einstein's letters, papers, and scientific writings remain available through Princeton's digital edition."
+        },
+        {
+          "title": "Visit Einstein's Nobel Prize page",
+          "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+          "accessedAt": "2026-07-10",
+          "description": "The Nobel archive preserves the award facts and links to the scientific work behind his global recognition."
+        },
+        {
+          "title": "Read about Einstein at the Institute for Advanced Study",
+          "url": "https://www.ias.edu/scholars/einstein",
+          "accessedAt": "2026-07-10",
+          "description": "Einstein's Princeton years remain part of the living history of modern research."
+        }
+      ],
       "body": "In his final decades, Albert Einstein lived and worked in Princeton, New Jersey, at the Institute for Advanced Study. By then he was one of the most recognized faces on the planet — wild white hair, kind eyes, the unofficial symbol of genius itself. Tourists stopped him on the street. Reporters chased quotes. Children wrote letters asking science questions. Yet the man behind the image remained surprisingly humble and sometimes lonely. He continued searching for a unified theory that would connect gravity and electromagnetism into one elegant framework. That quest never fully succeeded. Even giants leave unfinished work. Princeton gave him space to think, walk, and sail small boats on quiet afternoons. He spoke out on civil rights, pacifism, and the responsibility of scientists whose discoveries could be used for harm — topics that still feel urgent today. He became an American citizen but never lost his accent or his outsider's perspective. What should modern readers take from Einstein's later years? First, fame is not the same as fulfillment. He enjoyed recognition, but he cared more about whether an idea was true. Second, learning does not stop at graduation, career success, or any single breakthrough. He was still asking hard questions in his seventies. Third, public life can pressure you to perform certainty. Einstein often admitted what he did not know. That honesty made him trustworthy. When he died in 1955 at age seventy-six, the world mourned a scientist who had rewritten the cosmos. But his deeper gift might be methodological: ask childlike questions, test them ruthlessly, and stay humane while doing it. The famous portrait is not just about relativity. It is about a life spent proving that curiosity, backed by courage and care, can change how humanity sees itself. You do not need to become Einstein. You need to protect the compass moment inside yourself — the part that still wonders why the needle points north."
     }
   ]

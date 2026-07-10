@@ -49,6 +49,20 @@ const httpsUrlSchema = z
     message: "URL must use HTTPS",
   });
 
+export const sourceRefSchema = z.object({
+  title: z.string().min(1),
+  url: httpsUrlSchema,
+  accessedAt: z.string().min(1),
+});
+
+export const lifeStorySourceLinkSchema = sourceRefSchema.extend({
+  text: z.string().min(1),
+});
+
+export const lifeStoryResourceSchema = sourceRefSchema.extend({
+  description: z.string().min(1).optional(),
+});
+
 export const lessonLayerSchema = z.object({
   hook: z.string().min(1),
   story: z.string().min(1),
@@ -108,6 +122,8 @@ export const lessonSchema = z.object({
 
 export const lifeStoryPageSchema = z.object({
   title: z.string().min(1),
+  sourceLinks: z.array(lifeStorySourceLinkSchema).optional(),
+  resources: z.array(lifeStoryResourceSchema).optional(),
   body: z.string().min(1200),
 });
 
@@ -168,12 +184,6 @@ export const factSchema = z.object({
   storyAngle: z.string().min(1).optional(),
   tags: z.array(z.string().min(1)).min(1),
   verified: z.boolean(),
-});
-
-export const sourceRefSchema = z.object({
-  title: z.string().min(1),
-  url: httpsUrlSchema,
-  accessedAt: z.string().min(1),
 });
 
 export const notablePersonSchema = z.object({
@@ -265,6 +275,8 @@ export const progressSchema = z.object({
 
 export type LifeStoryPage = z.infer<typeof lifeStoryPageSchema>;
 export type LifeStory = z.infer<typeof lifeStorySchema>;
+export type LifeStorySourceLink = z.infer<typeof lifeStorySourceLinkSchema>;
+export type LifeStoryResource = z.infer<typeof lifeStoryResourceSchema>;
 export type Thinker = z.infer<typeof thinkerSchema>;
 export type Fact = z.infer<typeof factSchema>;
 export type FactSourceType = z.infer<typeof factSourceTypeSchema>;

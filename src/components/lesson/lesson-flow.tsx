@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import {
@@ -16,6 +16,10 @@ import {
   type LessonStepId,
   type LifeStoryPage,
 } from "@/lib/content/schemas";
+import {
+  LifeStoryBody,
+  LifeStoryResources,
+} from "@/components/thinkers/life-story-body";
 import { RotatingThinkerImage } from "@/components/ui/rotating-thinker-image";
 import { useProgressStore } from "@/lib/progress/store";
 
@@ -52,6 +56,7 @@ export function LessonFlow({
   const [reflection, setReflection] = useState("");
   const [tensionResponse, setTensionResponse] = useState("");
   const [completed, setCompleted] = useState(false);
+  const flowRef = useRef<HTMLDivElement>(null);
 
   const currentStep = LESSON_STEPS[stepIndex] ?? "reward";
   const lifePage = lifePages[stepIndex];
@@ -70,9 +75,17 @@ export function LessonFlow({
     return true;
   }, [currentStep, reflection, selectedOption, tensionResponse]);
 
+  function scrollToFlowTop() {
+    requestAnimationFrame(() => {
+      flowRef.current?.scrollIntoView({ block: "start", behavior: "auto" });
+    });
+  }
+
   function goToStep(nextIndex: number) {
-    setStepIndex(nextIndex);
-    saveLessonStep(lesson.id, nextIndex);
+    const safeIndex = Math.max(0, Math.min(nextIndex, LESSON_STEPS.length - 1));
+    setStepIndex(safeIndex);
+    saveLessonStep(lesson.id, safeIndex);
+    scrollToFlowTop();
   }
 
   function handleContinue() {
@@ -110,7 +123,7 @@ export function LessonFlow({
   }
 
   return (
-    <div className="space-y-6">
+    <div ref={flowRef} className="space-y-6">
       <EditorialCard className="p-8 md:p-10">
         <div className="absolute -right-20 -top-20 size-52 rounded-full bg-yellow-400/10" />
         <div className="relative flex flex-col gap-6 sm:flex-row sm:items-start">
@@ -141,18 +154,22 @@ export function LessonFlow({
 
       <div className="flex flex-wrap gap-2">
         {LESSON_STEPS.map((step, index) => (
-          <span
+          <button
             key={step}
-            className={`rounded-full px-3 py-1 text-xs ${
+            type="button"
+            onClick={() => goToStep(index)}
+            aria-label={`Go to step ${index + 1}`}
+            aria-current={index === stepIndex ? "step" : undefined}
+            className={`rounded-full px-3 py-1 text-xs transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)] ${
               index === stepIndex
                 ? "bg-[var(--color-accent)] text-[#101014]"
                 : index < stepIndex
-                  ? "border border-white/10 bg-white/[0.08] text-[var(--color-text)]"
-                  : "border border-white/10 bg-white/[0.04] text-foreground/50"
+                  ? "border border-white/10 bg-white/[0.08] text-[var(--color-text)] hover:border-[var(--color-accent)]"
+                  : "border border-white/10 bg-white/[0.04] text-foreground/50 hover:border-[var(--color-accent)] hover:text-[var(--color-text)]"
             }`}
           >
             {index + 1}
-          </span>
+          </button>
         ))}
       </div>
 
@@ -209,7 +226,8 @@ function renderStep(
     <div className="space-y-4 border-b border-white/10 pb-6">
       <p className={editorialEyebrow}>Life Story</p>
       <h3 className="text-2xl font-extrabold tracking-tight">{lifePage.title}</h3>
-      <p className="text-lg leading-8 text-[var(--color-text)]">{lifePage.body}</p>
+      <LifeStoryBody page={lifePage} />
+      <LifeStoryResources resources={lifePage.resources} />
     </div>
   ) : null;
 
