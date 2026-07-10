@@ -45,13 +45,22 @@ const facts: FactWithPerson[] = [
 ];
 
 describe("FactsBrowser", () => {
-  it("renders a mobile 3D scroll-card deck while preserving the desktop editorial layout", () => {
+  it("renders a mobile 3D reading stage while preserving the desktop editorial layout", () => {
     const markup = renderToStaticMarkup(<FactsBrowser facts={facts} />);
 
     expect(markup).toContain("data-facts-mobile-deck");
     expect(markup).toContain("md:hidden");
-    expect(markup).toContain("Scroll for another Fact");
+    expect(markup).toContain("Swipe up or down for another fact");
+    expect(markup).toContain("Exit Facts Mode");
+    expect(markup).toContain("Close");
     expect(markup).toContain("perspective-[1200px]");
+    expect(markup).toContain("touch-none");
+    expect(markup).toContain("fact-card-refresh");
+    expect(markup).not.toContain("3D Card");
+    expect(markup).not.toContain("Scroll for another Fact");
+    expect(markup).not.toContain("max-h-24 overflow-y-auto");
+    expect(markup).not.toContain("overflow-y-auto");
+    expect(markup).not.toContain("What to learn");
     expect(markup).toContain("data-facts-desktop-layout");
     expect(markup).toContain("hidden md:block");
     expect(markup).toContain("Next fact");

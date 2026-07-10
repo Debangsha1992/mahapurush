@@ -22,6 +22,20 @@ const editorialEyebrow =
   "text-xs font-semibold uppercase tracking-[0.28em] text-[var(--color-accent)]";
 const mutedText = "text-[var(--color-muted)]";
 
+function getMobileFactTextClass(text: string): string {
+  if (text.length > 220) {
+    return "text-lg leading-snug";
+  }
+  if (text.length > 150) {
+    return "text-xl leading-tight";
+  }
+  return "text-[clamp(1.45rem,6vw,2rem)] leading-tight";
+}
+
+function getMobileTakeawayTextClass(text: string): string {
+  return text.length > 220 ? "text-xs leading-5" : "text-sm leading-6";
+}
+
 function indexesExcept(length: number, excludedIndex: number): number[] {
   return Array.from({ length }, (_, index) => index).filter(
     (index) => index !== excludedIndex,
@@ -55,6 +69,7 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
   const currentFact = factPool[currentIndex] ?? factPool[0];
   const person = currentFact.person;
   const publicPersonSummary = getPublicPersonSummary(person.summary);
+  const primaryTag = currentFact.tags[0] ?? person.primaryDomain;
 
   async function loadNextBatch() {
     setLoadingNextBatch(true);
@@ -110,11 +125,14 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
   }
 
   return (
-    <div className="mx-auto max-w-5xl pb-24 md:space-y-8">
+    <div className="mx-auto max-w-5xl md:space-y-8 md:pb-24">
       <div
         data-facts-mobile-deck
         className="md:hidden"
-        onWheel={(event) => handleFactGesture(event.deltaY)}
+        onWheel={(event) => {
+          event.preventDefault();
+          handleFactGesture(event.deltaY);
+        }}
         onTouchStart={(event) => {
           touchStartY.current = event.touches[0]?.clientY ?? null;
         }}
@@ -128,95 +146,108 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
           handleFactGesture(getTouchGestureDelta({ startY, endY }));
         }}
       >
-        <div className="relative h-[calc(100svh-19.5rem)] min-h-[500px] overflow-hidden rounded-[2rem] border border-white/10 bg-[#08080b] p-4 ring-1 ring-white/5 [perspective:1200px] perspective-[1200px]">
+        <div className="relative h-[calc(100svh-14.75rem)] min-h-[24rem] max-h-[34rem] touch-none overflow-hidden rounded-[2rem] border border-white/10 bg-[#07070a] p-3 ring-1 ring-white/5 [perspective:1200px] perspective-[1200px]">
           <div className="absolute -right-24 -top-24 size-64 rounded-full bg-yellow-400/20 blur-3xl" />
-          <div className="absolute -bottom-16 -left-16 size-48 rounded-full bg-yellow-400/10 blur-2xl" />
-          <div className="relative flex h-full flex-col justify-between overflow-hidden rounded-[1.6rem] border border-white/10 bg-[#101014]/95 p-5 shadow-[0_30px_90px_rgba(0,0,0,0.45)] [transform:rotateX(3deg)_rotateY(-4deg)]">
+          <div className="absolute -bottom-16 -left-16 size-56 rounded-full bg-yellow-400/10 blur-2xl" />
+          <div
+            aria-hidden="true"
+            className="absolute inset-x-8 bottom-3 h-16 rounded-[1.5rem] border border-white/10 bg-white/[0.04] blur-sm [transform:translateZ(-40px)_rotateX(62deg)]"
+          />
+          <div className="absolute inset-3 rounded-[1.75rem] border border-yellow-400/10 bg-yellow-400/[0.03] [transform:translate(8px,8px)_rotateX(4deg)_rotateY(-6deg)]" />
+          <section className="relative flex h-full flex-col justify-between overflow-hidden rounded-[1.6rem] border border-white/10 bg-[#101014]/95 p-4 shadow-[0_26px_80px_rgba(0,0,0,0.5),-12px_18px_60px_rgba(217,154,43,0.12)] [transform:rotateX(2deg)_rotateY(-3deg)]">
             <div
               aria-hidden="true"
-              className="absolute inset-x-8 -bottom-4 -z-10 h-16 rounded-[1.5rem] border border-white/10 bg-white/[0.04] blur-[1px]"
+              className="absolute inset-x-6 top-0 h-px bg-gradient-to-r from-transparent via-yellow-200/50 to-transparent"
             />
-            <div>
-              <div className="flex items-start justify-between gap-4">
+            <div
+              key={currentFact.id}
+              aria-live="polite"
+              className="animate-[fact-card-refresh_260ms_ease-out]"
+            >
+              <div className="flex items-start justify-between gap-3">
                 <div>
                   <p className={editorialEyebrow}>Facts Mode</p>
-                  <p className="mt-3 text-xs uppercase tracking-[0.18em] text-foreground/50">
+                  <p className="mt-2 text-[0.65rem] uppercase tracking-[0.16em] text-foreground/50">
                     {person.era} · {person.region}
                   </p>
                 </div>
-                <span className="rounded-full border border-yellow-400/30 bg-yellow-400/10 px-3 py-1 text-xs font-semibold uppercase tracking-[0.16em] text-[var(--color-accent)]">
-                  3D Card
-                </span>
+                <Link
+                  href="/"
+                  aria-label="Exit Facts Mode"
+                  className="inline-flex min-h-10 items-center rounded-full border border-white/10 bg-white/[0.04] px-3 text-xs font-semibold uppercase tracking-[0.14em] text-foreground/70 transition hover:border-[var(--color-accent)] hover:text-[var(--color-text)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
+                >
+                  Close
+                </Link>
               </div>
 
-              <h2 className="mt-4 text-3xl font-extrabold leading-none tracking-tight">
+              <h2 className="mt-3 text-2xl font-extrabold leading-none tracking-tight">
                 {person.name}
               </h2>
-              <p className="mt-4 line-clamp-4 font-serif text-2xl leading-tight">
+              <p
+                className={`mt-3 font-serif ${getMobileFactTextClass(currentFact.text)}`}
+              >
                 {currentFact.text}
               </p>
 
-              <div className="mt-5 border-t border-white/10 pt-4">
+              <div className="mt-4 rounded-[1.25rem] border border-yellow-400/20 bg-yellow-400/[0.08] p-3 shadow-[inset_0_1px_0_rgba(255,255,255,0.04)]">
                 <h3 className={editorialEyebrow}>Worth knowing</h3>
-                <p className={`mt-3 max-h-24 overflow-y-auto leading-7 ${mutedText}`}>
+                <p
+                  className={`mt-2 ${getMobileTakeawayTextClass(currentFact.context)} ${mutedText}`}
+                >
                   {currentFact.context}
                 </p>
               </div>
 
-              <div className="mt-4 flex flex-wrap gap-2">
-                {currentFact.tags.map((tag) => (
-                  <span
-                    key={tag}
-                    className="rounded-full border border-white/10 bg-white/[0.04] px-3 py-1 text-xs uppercase tracking-[0.14em] text-foreground/60"
-                  >
-                    {tag}
-                  </span>
-                ))}
-              </div>
+              <span className="mt-3 inline-flex max-w-full rounded-full border border-white/10 bg-white/[0.04] px-3 py-1 text-[0.65rem] uppercase tracking-[0.14em] text-foreground/60">
+                {primaryTag}
+              </span>
             </div>
 
-            <div className="mt-5 space-y-3">
+            <div className="mt-3 space-y-2">
               <p className="text-center text-xs font-semibold uppercase tracking-[0.2em] text-foreground/50">
                 {loadingNextBatch
                   ? "Loading another set of Facts"
-                  : "Scroll for another Fact"}
+                  : "Swipe up or down for another fact"}
               </p>
               <Button
                 type="button"
                 onClick={showNextFact}
                 disabled={loadingNextBatch}
-                className="min-h-12 w-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
+                className="min-h-11 w-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
               >
                 {loadingNextBatch ? "Loading..." : "Next fact"}
               </Button>
-              <div className="flex flex-col gap-2 border-t border-white/10 pt-3">
+              <div className="flex items-center justify-center gap-3 border-t border-white/10 pt-2 text-xs text-foreground/55">
                 <a
                   href={currentFact.sourceUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-sm font-medium text-[var(--color-accent)] underline-offset-4 hover:underline focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
+                  aria-label={`Source: ${currentFact.sourceTitle}`}
+                  className="font-medium text-[var(--color-accent)] underline-offset-4 hover:underline focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
                 >
-                  Source: {currentFact.sourceTitle}
+                  Source
                 </a>
-                <div className="grid grid-cols-1 gap-3">
-                  <Link
-                    href={`/people/${person.slug}`}
-                    className="inline-flex min-h-12 items-center justify-center rounded-full border border-white/10 bg-white/[0.04] px-5 py-3 text-sm font-medium text-[var(--color-text)] transition hover:border-[var(--color-accent)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
-                  >
-                    View in library
-                  </Link>
-                  {currentFact.thinkerSlug && (
+                <span aria-hidden="true">/</span>
+                <Link
+                  href={`/people/${person.slug}`}
+                  className="font-medium transition hover:text-[var(--color-text)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
+                >
+                  Library
+                </Link>
+                {currentFact.thinkerSlug && (
+                  <>
+                    <span aria-hidden="true">/</span>
                     <Link
                       href={`/thinkers/${currentFact.thinkerSlug}`}
-                      className="inline-flex min-h-12 items-center justify-center rounded-full border border-white/10 bg-white/[0.04] px-5 py-3 text-sm font-medium text-[var(--color-text)] transition hover:border-[var(--color-accent)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
+                      className="font-medium transition hover:text-[var(--color-text)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
                     >
-                      View profile
+                      Profile
                     </Link>
-                  )}
-                </div>
+                  </>
+                )}
               </div>
             </div>
-          </div>
+          </section>
         </div>
       </div>
 
