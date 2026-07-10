@@ -90,9 +90,10 @@ export function LessonFlow({
 
   function handleContinue() {
     if (currentStep === "reflection" && reflection.trim()) {
+      const createdAt = new Date().toISOString();
       addJournalEntry({
-        id: `${lesson.id}-${Date.now()}`,
-        createdAt: new Date().toISOString(),
+        id: `${lesson.id}-${createdAt}`,
+        createdAt,
         thinkerId: lesson.thinkerId,
         lessonId: lesson.id,
         prompt: layer.reflectionPrompt,
@@ -102,9 +103,10 @@ export function LessonFlow({
     }
 
     if (currentStep === "thoughtTension") {
+      const createdAt = new Date().toISOString();
       addJournalEntry({
-        id: `${lesson.id}-tension-${Date.now()}`,
-        createdAt: new Date().toISOString(),
+        id: `${lesson.id}-tension-${createdAt}`,
+        createdAt,
         thinkerId: lesson.thinkerId,
         lessonId: lesson.id,
         prompt: layer.thoughtTension.responsePrompt,
