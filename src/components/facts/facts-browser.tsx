@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
@@ -29,7 +30,7 @@ function getMobileFactTextClass(text: string): string {
   if (text.length > 150) {
     return "text-xl leading-tight";
   }
-  return "text-[clamp(1.45rem,6vw,2rem)] leading-tight";
+  return "text-[clamp(1.35rem,5.6vw,1.85rem)] leading-tight";
 }
 
 function getMobileTakeawayTextClass(text: string): string {
@@ -43,6 +44,7 @@ function indexesExcept(length: number, excludedIndex: number): number[] {
 }
 
 export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
+  const router = useRouter();
   const [factPool, setFactPool] = useState(facts);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [remainingIndexes, setRemainingIndexes] = useState(() =>
@@ -69,7 +71,6 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
   const currentFact = factPool[currentIndex] ?? factPool[0];
   const person = currentFact.person;
   const publicPersonSummary = getPublicPersonSummary(person.summary);
-  const primaryTag = currentFact.tags[0] ?? person.primaryDomain;
 
   async function loadNextBatch() {
     setLoadingNextBatch(true);
@@ -124,14 +125,41 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
     void showNextFact().finally(releaseGestureLock);
   }
 
+  function handleFactKey(key: string): boolean {
+    if (!["ArrowDown", "ArrowUp", "PageDown", "PageUp", " "].includes(key)) {
+      return false;
+    }
+
+    if (gestureLocked.current || loadingNextBatch) {
+      return true;
+    }
+
+    gestureLocked.current = true;
+    void showNextFact().finally(releaseGestureLock);
+    return true;
+  }
+
   return (
     <div className="mx-auto max-w-5xl md:space-y-8 md:pb-24">
       <div
         data-facts-mobile-deck
-        className="md:hidden"
+        role="region"
+        aria-label="Facts Mode swipe cards"
+        tabIndex={0}
+        className="fixed inset-0 z-50 flex touch-none items-center justify-center overflow-hidden bg-[#f7f1e7] px-4 py-5 text-[#17130e] md:hidden"
         onWheel={(event) => {
           event.preventDefault();
           handleFactGesture(event.deltaY);
+        }}
+        onClick={(event) => {
+          if (event.target === event.currentTarget) {
+            router.push("/");
+          }
+        }}
+        onKeyDown={(event) => {
+          if (handleFactKey(event.key)) {
+            event.preventDefault();
+          }
         }}
         onTouchStart={(event) => {
           touchStartY.current = event.touches[0]?.clientY ?? null;
@@ -146,18 +174,21 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
           handleFactGesture(getTouchGestureDelta({ startY, endY }));
         }}
       >
-        <div className="relative h-[calc(100svh-14.75rem)] min-h-[24rem] max-h-[34rem] touch-none overflow-hidden rounded-[2rem] border border-white/10 bg-[#07070a] p-3 ring-1 ring-white/5 [perspective:1200px] perspective-[1200px]">
-          <div className="absolute -right-24 -top-24 size-64 rounded-full bg-yellow-400/20 blur-3xl" />
-          <div className="absolute -bottom-16 -left-16 size-56 rounded-full bg-yellow-400/10 blur-2xl" />
+        <div className="pointer-events-none absolute inset-x-0 top-0 h-40 bg-gradient-to-b from-white/70 to-transparent" />
+        <div className="pointer-events-none absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-[#eadfcd]/80 to-transparent" />
+        <div className="relative h-[min(42rem,calc(100svh-2.5rem))] w-full max-w-[27rem] overflow-hidden rounded-[2rem] border border-[#d9c59f] bg-[#fffaf1] p-4 shadow-[0_24px_80px_rgba(55,42,22,0.18)]">
           <div
             aria-hidden="true"
-            className="absolute inset-x-8 bottom-3 h-16 rounded-[1.5rem] border border-white/10 bg-white/[0.04] blur-sm [transform:translateZ(-40px)_rotateX(62deg)]"
+            className="absolute -right-24 -top-24 size-56 rounded-full bg-[#f3cf7a]/35 blur-3xl"
           />
-          <div className="absolute inset-3 rounded-[1.75rem] border border-yellow-400/10 bg-yellow-400/[0.03] [transform:translate(8px,8px)_rotateX(4deg)_rotateY(-6deg)]" />
-          <section className="relative flex h-full flex-col justify-between overflow-hidden rounded-[1.6rem] border border-white/10 bg-[#101014]/95 p-4 shadow-[0_26px_80px_rgba(0,0,0,0.5),-12px_18px_60px_rgba(217,154,43,0.12)] [transform:rotateX(2deg)_rotateY(-3deg)]">
+          <div
+            aria-hidden="true"
+            className="absolute -bottom-20 -left-20 size-52 rounded-full bg-[#e3a32d]/15 blur-2xl"
+          />
+          <section className="relative flex h-full flex-col justify-between overflow-hidden rounded-[1.55rem] border border-[#ead8b6] bg-[#fffdf7]/95 p-4 shadow-[inset_0_1px_0_rgba(255,255,255,0.8)]">
             <div
               aria-hidden="true"
-              className="absolute inset-x-6 top-0 h-px bg-gradient-to-r from-transparent via-yellow-200/50 to-transparent"
+              className="absolute inset-x-6 top-0 h-px bg-gradient-to-r from-transparent via-[#d99a2b]/45 to-transparent"
             />
             <div
               key={currentFact.id}
@@ -167,20 +198,20 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
               <div className="flex items-start justify-between gap-3">
                 <div>
                   <p className={editorialEyebrow}>Facts Mode</p>
-                  <p className="mt-2 text-[0.65rem] uppercase tracking-[0.16em] text-foreground/50">
+                  <p className="mt-2 text-[0.65rem] uppercase tracking-[0.16em] text-[#776b5b]">
                     {person.era} · {person.region}
                   </p>
                 </div>
                 <Link
                   href="/"
                   aria-label="Exit Facts Mode"
-                  className="inline-flex min-h-10 items-center rounded-full border border-white/10 bg-white/[0.04] px-3 text-xs font-semibold uppercase tracking-[0.14em] text-foreground/70 transition hover:border-[var(--color-accent)] hover:text-[var(--color-text)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
+                  className="inline-flex min-h-10 items-center rounded-full border border-[#d9c59f] bg-[#f8edda] px-3 text-xs font-semibold uppercase tracking-[0.14em] text-[#554835] transition hover:border-[var(--color-accent)] hover:text-[#17130e] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
                 >
                   Close
                 </Link>
               </div>
 
-              <h2 className="mt-3 text-2xl font-extrabold leading-none tracking-tight">
+              <h2 className="mt-3 text-[clamp(1.55rem,6vw,2rem)] font-extrabold leading-none tracking-tight">
                 {person.name}
               </h2>
               <p
@@ -189,48 +220,47 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
                 {currentFact.text}
               </p>
 
-              <div className="mt-4 rounded-[1.25rem] border border-yellow-400/20 bg-yellow-400/[0.08] p-3 shadow-[inset_0_1px_0_rgba(255,255,255,0.04)]">
+              <div className="mt-4 rounded-[1.25rem] border border-[#e5bd58]/60 bg-[#fff4d6] p-3 shadow-[inset_0_1px_0_rgba(255,255,255,0.8)]">
                 <h3 className={editorialEyebrow}>Worth knowing</h3>
                 <p
-                  className={`mt-2 ${getMobileTakeawayTextClass(currentFact.context)} ${mutedText}`}
+                  className={`mt-2 text-[#675b4c] ${getMobileTakeawayTextClass(currentFact.context)}`}
                 >
                   {currentFact.context}
                 </p>
               </div>
 
-              <span className="mt-3 inline-flex max-w-full rounded-full border border-white/10 bg-white/[0.04] px-3 py-1 text-[0.65rem] uppercase tracking-[0.14em] text-foreground/60">
-                {primaryTag}
-              </span>
+              <div className="mt-3 flex flex-wrap gap-2">
+                {currentFact.tags.map((tag) => (
+                  <span
+                    key={tag}
+                    className="rounded-full border border-[#d9c59f] bg-[#f8edda] px-3 py-1 text-[0.62rem] uppercase tracking-[0.12em] text-[#675b4c]"
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
             </div>
 
             <div className="mt-3 space-y-2">
-              <p className="text-center text-xs font-semibold uppercase tracking-[0.2em] text-foreground/50">
+              <p className="text-center text-[0.68rem] font-semibold uppercase tracking-[0.22em] text-[#776b5b]">
                 {loadingNextBatch
                   ? "Loading another set of Facts"
                   : "Swipe up or down for another fact"}
               </p>
-              <Button
-                type="button"
-                onClick={showNextFact}
-                disabled={loadingNextBatch}
-                className="min-h-11 w-full focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
-              >
-                {loadingNextBatch ? "Loading..." : "Next fact"}
-              </Button>
-              <div className="flex items-center justify-center gap-3 border-t border-white/10 pt-2 text-xs text-foreground/55">
+              <div className="flex items-center justify-center gap-3 border-t border-[#ead8b6] pt-2 text-xs text-[#776b5b]">
                 <a
                   href={currentFact.sourceUrl}
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label={`Source: ${currentFact.sourceTitle}`}
-                  className="font-medium text-[var(--color-accent)] underline-offset-4 hover:underline focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
+                  className="font-semibold text-[#a96f14] underline-offset-4 hover:underline focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
                 >
                   Source
                 </a>
                 <span aria-hidden="true">/</span>
                 <Link
                   href={`/people/${person.slug}`}
-                  className="font-medium transition hover:text-[var(--color-text)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
+                  className="font-semibold transition hover:text-[#17130e] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
                 >
                   Library
                 </Link>
@@ -239,7 +269,7 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
                     <span aria-hidden="true">/</span>
                     <Link
                       href={`/thinkers/${currentFact.thinkerSlug}`}
-                      className="font-medium transition hover:text-[var(--color-text)] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
+                      className="font-semibold transition hover:text-[#17130e] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--color-accent)]"
                     >
                       Profile
                     </Link>

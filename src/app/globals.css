@@ -15,22 +15,6 @@
   --shadow-card: 0 18px 60px rgba(55, 42, 22, 0.12);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    color-scheme: dark;
-    --color-bg: #101014;
-    --color-surface: #181820;
-    --color-surface-raised: #222230;
-    --color-text: #f4efe7;
-    --color-muted: #a7a094;
-    --color-accent: #d99a2b;
-    --color-accent-soft: #f3d69a;
-    --color-border: rgba(244, 239, 231, 0.08);
-    --color-nav-bg: rgba(16, 16, 20, 0.96);
-    --shadow-card: 0 18px 60px rgba(0, 0, 0, 0.28);
-  }
-}
-
 @theme inline {
   --color-background: var(--color-bg);
   --color-foreground: var(--color-text);
