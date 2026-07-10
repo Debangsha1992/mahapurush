@@ -44,14 +44,39 @@ const facts: FactWithPerson[] = [
   },
 ];
 
+function getMobileMarkup(markup: string): string {
+  const start = markup.indexOf("data-facts-mobile-deck");
+  const end = markup.indexOf("data-facts-desktop-layout");
+
+  expect(start).toBeGreaterThanOrEqual(0);
+  expect(end).toBeGreaterThan(start);
+
+  return markup.slice(start, end);
+}
+
 describe("FactsBrowser", () => {
-  it("renders a mobile 3D scroll-card deck while preserving the desktop editorial layout", () => {
+  it("renders a light mobile swipe card while preserving the desktop editorial layout", () => {
     const markup = renderToStaticMarkup(<FactsBrowser facts={facts} />);
+    const mobileMarkup = getMobileMarkup(markup);
 
     expect(markup).toContain("data-facts-mobile-deck");
     expect(markup).toContain("md:hidden");
-    expect(markup).toContain("Scroll for another Fact");
-    expect(markup).toContain("perspective-[1200px]");
+    expect(mobileMarkup).toContain("Swipe up or down for another fact");
+    expect(mobileMarkup).toContain("Exit Facts Mode");
+    expect(mobileMarkup).toContain("Close");
+    expect(mobileMarkup).toContain("fixed inset-0");
+    expect(mobileMarkup).toContain("bg-[#f7f1e7]");
+    expect(mobileMarkup).toContain("touch-none");
+    expect(mobileMarkup).toContain("fact-card-refresh");
+    expect(mobileMarkup).toContain("science");
+    expect(mobileMarkup).toContain("observation");
+    expect(mobileMarkup).not.toContain("Next fact");
+    expect(mobileMarkup).not.toContain("3D Card");
+    expect(mobileMarkup).not.toContain("perspective-[1200px]");
+    expect(mobileMarkup).not.toContain("Scroll for another Fact");
+    expect(mobileMarkup).not.toContain("max-h-24 overflow-y-auto");
+    expect(mobileMarkup).not.toContain("overflow-y-auto");
+    expect(mobileMarkup).not.toContain("What to learn");
     expect(markup).toContain("data-facts-desktop-layout");
     expect(markup).toContain("hidden md:block");
     expect(markup).toContain("Next fact");
