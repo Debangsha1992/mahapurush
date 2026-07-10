@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { useRef, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
@@ -44,7 +43,6 @@ function indexesExcept(length: number, excludedIndex: number): number[] {
 }
 
 export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
-  const router = useRouter();
   const [factPool, setFactPool] = useState(facts);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [remainingIndexes, setRemainingIndexes] = useState(() =>
@@ -151,11 +149,6 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
           event.preventDefault();
           handleFactGesture(event.deltaY);
         }}
-        onClick={(event) => {
-          if (event.target === event.currentTarget) {
-            router.push("/");
-          }
-        }}
         onKeyDown={(event) => {
           if (handleFactKey(event.key)) {
             event.preventDefault();
@@ -174,6 +167,11 @@ export function FactsBrowser({ facts }: { facts: FactWithPerson[] }) {
           handleFactGesture(getTouchGestureDelta({ startY, endY }));
         }}
       >
+        <Link
+          href="/"
+          aria-label="Exit Facts Mode from backdrop"
+          className="absolute inset-0"
+        />
         <div className="pointer-events-none absolute inset-x-0 top-0 h-40 bg-gradient-to-b from-white/70 to-transparent" />
         <div className="pointer-events-none absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-[#eadfcd]/80 to-transparent" />
         <div className="relative h-[min(42rem,calc(100svh-2.5rem))] w-full max-w-[27rem] overflow-hidden rounded-[2rem] border border-[#d9c59f] bg-[#fffaf1] p-4 shadow-[0_24px_80px_rgba(55,42,22,0.18)]">
