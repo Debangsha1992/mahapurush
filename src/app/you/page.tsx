@@ -8,8 +8,10 @@ import {
   editorialEyebrow,
   mutedText,
 } from "@/components/ui/editorial";
-import { BADGE_LABELS } from "@/lib/constants/badges";
+import { StreakFlame } from "@/components/progress/streak-flame";
+import { BADGE_DESCRIPTIONS, BADGE_LABELS } from "@/lib/constants/badges";
 import { SKILL_LABELS } from "@/lib/constants/skills";
+import { getNextStreakTier, getStreakTier } from "@/lib/gamification/engine";
 import { useProgressStore } from "@/lib/progress/store";
 
 export default function YouPage() {
@@ -19,6 +21,12 @@ export default function YouPage() {
   if (!hydrated) {
     return <p className="text-[var(--color-muted)]">Loading your progress...</p>;
   }
+
+  const streakTier = getStreakTier(progress.streak.current);
+  const nextStreakTier = getNextStreakTier(progress.streak.current);
+  const daysUntilNextTier = nextStreakTier
+    ? Math.max(nextStreakTier.days - progress.streak.current, 0)
+    : 0;
 
   return (
     <div className="space-y-6">
@@ -37,10 +45,20 @@ export default function YouPage() {
         </EditorialCard>
         <EditorialCard>
           <p className={editorialEyebrow}>Current Streak</p>
-          <p className="mt-3 text-5xl font-extrabold leading-none text-[var(--color-accent)]">
-            {progress.streak.current}
+          <div className="mt-3">
+            <StreakFlame streak={progress.streak.current} size="lg" />
+          </div>
+          <p className={`mt-3 text-sm ${mutedText}`}>
+            Longest streak: {progress.streak.longest} day
+            {progress.streak.longest === 1 ? "" : "s"}
           </p>
-          <p className={`mt-2 text-sm ${mutedText}`}>days</p>
+          <p className={`mt-1 text-sm ${mutedText}`}>
+            {streakTier
+              ? `${streakTier.name} unlocked.`
+              : nextStreakTier
+                ? `${daysUntilNextTier} more day${daysUntilNextTier === 1 ? "" : "s"} to unlock ${nextStreakTier.name}.`
+                : "Every daily open keeps the flame alive."}
+          </p>
         </EditorialCard>
         <EditorialCard>
           <p className={editorialEyebrow}>Lessons Completed</p>
@@ -72,11 +90,17 @@ export default function YouPage() {
             Complete lessons to earn your first badge.
           </p>
         ) : (
-          <div className="mt-4 flex flex-wrap gap-2">
+          <div className="mt-4 grid gap-3 sm:grid-cols-2">
             {progress.badges.map((badge) => (
-              <EditorialPill key={badge} active>
-                {BADGE_LABELS[badge]}
-              </EditorialPill>
+              <div
+                key={badge}
+                className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4"
+              >
+                <EditorialPill active>{BADGE_LABELS[badge]}</EditorialPill>
+                <p className={`mt-3 text-sm leading-6 ${mutedText}`}>
+                  {BADGE_DESCRIPTIONS[badge]}
+                </p>
+              </div>
             ))}
           </div>
         )}

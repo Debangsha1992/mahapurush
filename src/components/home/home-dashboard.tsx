@@ -5,6 +5,7 @@ import Link from "next/link";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { MinimalistHero } from "@/components/ui/minimalist-hero";
+import { StreakFlame } from "@/components/progress/streak-flame";
 import { RotatingThinkerImage } from "@/components/ui/rotating-thinker-image";
 import { SKILL_LABELS } from "@/lib/constants/skills";
 import type { DailySpark, LearningPath, Thinker } from "@/lib/content/schemas";
@@ -209,9 +210,16 @@ export function HomeDashboard({
                 />
               )}
               <div className="flex-1">
-                <p className={editorialEyebrow}>
-                  Today&apos;s Spark
-                </p>
+                <div className="flex flex-wrap items-center gap-3">
+                  <p className={editorialEyebrow}>Today&apos;s Spark</p>
+                  <Link href="/you" aria-label="View your daily streak">
+                    <StreakFlame
+                      streak={progress.streak.current}
+                      size="sm"
+                      className="transition hover:border-[var(--color-accent)]"
+                    />
+                  </Link>
+                </div>
                 <h2 className="mt-4 text-4xl font-extrabold leading-tight tracking-tight md:text-5xl">
                   {dailySpark.question}
                 </h2>
