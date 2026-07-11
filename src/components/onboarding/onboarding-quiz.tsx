@@ -56,6 +56,13 @@ export function OnboardingQuiz({ paths }: { paths: LearningPath[] }) {
   const [scores, setScores] = useState<Record<string, number>>({});
 
   const current = questions[step];
+  const fallbackPath =
+    paths.find((path) => path.id === "questioners-path") ?? paths[0];
+
+  function pathHrefFor(pathId: string) {
+    const path = paths.find((item) => item.id === pathId) ?? fallbackPath;
+    return path ? `/paths/${path.slug}` : "/paths/questioners-path";
+  }
 
   function choose(pathId: string) {
     const nextScores = {
@@ -69,7 +76,7 @@ export function OnboardingQuiz({ paths }: { paths: LearningPath[] }) {
         Object.entries(nextScores).sort((a, b) => b[1] - a[1])[0]?.[0] ??
         "questioners-path";
       completeOnboarding(recommendedPathId);
-      router.push("/");
+      router.push(pathHrefFor(recommendedPathId));
       return;
     }
 
@@ -78,11 +85,8 @@ export function OnboardingQuiz({ paths }: { paths: LearningPath[] }) {
 
   function skip() {
     completeOnboarding("questioners-path");
-    router.push("/");
+    router.push(pathHrefFor("questioners-path"));
   }
-
-  const recommendedPath =
-    paths.find((path) => path.id === "questioners-path") ?? paths[0];
 
   return (
     <div className="mx-auto max-w-4xl space-y-6">
@@ -126,11 +130,11 @@ export function OnboardingQuiz({ paths }: { paths: LearningPath[] }) {
         >
           Choose a starter path for now
         </Button>
-        {recommendedPath && (
+        {fallbackPath && (
           <p className={`text-sm ${mutedText}`}>
             Starter example:{" "}
             <span className="font-medium text-[var(--color-text)]">
-              {recommendedPath.title}
+              {fallbackPath.title}
             </span>
           </p>
         )}

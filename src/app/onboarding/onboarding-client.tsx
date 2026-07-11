@@ -15,13 +15,23 @@ export default function OnboardingClient({
   const onboardingComplete = useProgressStore(
     (state) => state.progress.onboardingComplete,
   );
+  const selectedPathId = useProgressStore(
+    (state) => state.progress.selectedPathId,
+  );
   const hydrated = useProgressStore((state) => state.hydrated);
 
   useEffect(() => {
     if (hydrated && onboardingComplete) {
-      router.replace("/");
+      const fallbackPath =
+        paths.find((path) => path.id === "questioners-path") ?? paths[0];
+      const selectedPath =
+        paths.find((path) => path.id === selectedPathId) ?? fallbackPath;
+
+      router.replace(
+        selectedPath ? `/paths/${selectedPath.slug}` : "/paths/questioners-path",
+      );
     }
-  }, [hydrated, onboardingComplete, router]);
+  }, [hydrated, onboardingComplete, paths, router, selectedPathId]);
 
   return <OnboardingQuiz paths={paths} />;
 }
