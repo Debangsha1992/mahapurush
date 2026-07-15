@@ -8,6 +8,7 @@ import {
   editorialEyebrow,
   mutedText,
 } from "@/components/ui/editorial";
+import { AuthControls } from "@/components/auth/auth-controls";
 import { StreakFlame } from "@/components/progress/streak-flame";
 import { BadgeIcon } from "@/components/progress/badge-icon";
 import { BADGE_DESCRIPTIONS, BADGE_LABELS } from "@/lib/constants/badges";
@@ -19,10 +20,12 @@ import {
   getStreakTier,
 } from "@/lib/gamification/engine";
 import { useProgressStore } from "@/lib/progress/store";
+import { useAuth } from "@workos-inc/authkit-nextjs/components";
 
 export default function YouPage() {
   const progress = useProgressStore((state) => state.progress);
   const hydrated = useProgressStore((state) => state.hydrated);
+  const { user, loading: authLoading } = useAuth();
 
   if (!hydrated) {
     return <p className="text-[var(--color-muted)]">Loading your progress...</p>;
@@ -45,8 +48,22 @@ export default function YouPage() {
       <EditorialPageHero
         eyebrow="You"
         title="Your Progress"
-        description="Streaks, badges, and thinking skills saved on this device."
+        description="Streaks, badges, and thinking skills saved on this device. Sign in to keep your MindSpark identity across browsers."
       />
+
+      <EditorialCard>
+        <SectionHeader eyebrow="Account" title="Sign in with WorkOS" />
+        <p className={`mt-3 text-sm leading-6 ${mutedText}`}>
+          {authLoading
+            ? "Checking your session..."
+            : user
+              ? `Signed in as ${user.email}. Progress on this device stays local for now; your account lets you sign back in later.`
+              : "Create a free account or log in to carry your MindSpark identity across devices. Lesson progress still saves locally on this browser."}
+        </p>
+        <div className="mt-4">
+          <AuthControls />
+        </div>
+      </EditorialCard>
 
       <div className="grid gap-4 sm:grid-cols-2">
         <EditorialCard>

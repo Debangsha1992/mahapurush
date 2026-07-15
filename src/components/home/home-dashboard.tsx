@@ -77,6 +77,7 @@ export function HomeDashboard({
         { label: "PEOPLE", href: "/people" },
         { label: "PATHS", href: "/paths" },
         { label: "JOURNAL", href: "/journal" },
+        { label: "LOG IN", href: "/login" },
       ]}
       mainText="Practice sharper thinking with Galileo and other world-changing minds through short discoveries, reflection, and guided lessons."
       readMoreLink="#home-dashboard"

@@ -4,6 +4,10 @@ MindSpark presents source-backed learning moments about people who shaped human 
 
 ## Language
 
+**Learner Account**:
+An optional WorkOS AuthKit identity for a MindSpark user. Sign-in is hosted by WorkOS; lesson progress and journal data still live in local browser storage until cloud sync exists.
+_Avoid_: membership, SSO-only enterprise user (unless referring to WorkOS org features)
+
 **People Library**:
 The first-class browse and search experience for curated NotablePerson records.
 _Avoid_: Facts Mode, Thinker Library, database

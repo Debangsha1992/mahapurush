@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import type { ReactNode } from "react";
+import { AuthControls } from "@/components/auth/auth-controls";
 import { cn } from "@/lib/utils";
 
 const navItems = [
@@ -35,7 +36,7 @@ export function AppShell({ children }: { children: ReactNode }) {
       )}
     >
       {!isHome && (
-        <header className="mb-8 flex items-center justify-between gap-4">
+        <header className="mb-8 flex items-start justify-between gap-4">
           <div className="flex items-center gap-3">
             <Link
               href="/"
@@ -58,6 +59,7 @@ export function AppShell({ children }: { children: ReactNode }) {
               </p>
             </div>
           </div>
+          <AuthControls className="shrink-0" compact />
         </header>
       )}
       <main className="flex-1">{children}</main>

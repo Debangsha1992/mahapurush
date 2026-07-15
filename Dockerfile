@@ -15,6 +15,11 @@ WORKDIR /app
 COPY --from=deps /app/node_modules ./node_modules
 COPY . .
 ENV NEXT_TELEMETRY_DISABLED=1
+# Placeholder AuthKit env for compile-time; override at runtime with real secrets.
+ENV WORKOS_CLIENT_ID=client_build_placeholder
+ENV WORKOS_API_KEY=sk_test_build_placeholder
+ENV WORKOS_COOKIE_PASSWORD=build-time-cookie-password-min-32-chars
+ENV NEXT_PUBLIC_WORKOS_REDIRECT_URI=http://localhost:3000/callback
 RUN pnpm run build
 
 FROM base AS runner

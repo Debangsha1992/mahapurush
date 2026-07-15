@@ -26,7 +26,7 @@ The MVP is intentionally simple:
 
 - English-only responsive web app.
 - Deployed on Vercel.
-- No login, signup, or authentication.
+- Optional WorkOS AuthKit login (hosted sign-in / sign-up).
 - No database required.
 - Progress and journal entries stored locally in the browser.
 - 20 thinkers.
@@ -38,7 +38,7 @@ The MVP is intentionally simple:
 - XP, streaks, badges, and skill growth.
 - Quote cards with context.
 
-Post-MVP ideas such as AI coaching, social debate rooms, optional accounts, and multilingual content are documented but intentionally out of scope for the first release.
+Post-MVP ideas such as AI coaching, social debate rooms, cloud progress sync, and multilingual content are documented but intentionally out of scope for the first release.
 
 ## Current Alpha Build
 
@@ -47,8 +47,21 @@ The app scaffold is live with:
 - 5 thinkers: Socrates, Buddha, Ambedkar, Einstein, Tagore
 - 1 lesson per thinker with full card flow
 - Daily Spark, onboarding quiz, library, paths, journal, and progress pages
+- Optional WorkOS AuthKit accounts (log in / sign up / sign out)
 - Local browser storage for XP, streaks, badges, skills, and journal entries
 - Content validation in CI and before production builds
+
+## Authentication (WorkOS AuthKit)
+
+1. Create a WorkOS account and enable AuthKit.
+2. In the WorkOS Dashboard → **Redirects**, set:
+   - Redirect URI: `http://localhost:3000/callback` (and your production URL `/callback`)
+   - Sign-in endpoint: `http://localhost:3000/login` (and production `/login`)
+   - Sign-out redirect: `http://localhost:3000/` (and production `/`)
+3. Copy `.env.example` to `.env.local` and fill in `WORKOS_CLIENT_ID`, `WORKOS_API_KEY`, and a 32+ character `WORKOS_COOKIE_PASSWORD`.
+4. Run `pnpm run dev` and use **Log in** / **Sign up** in the header or on `/you`.
+
+Routes: `/login`, `/signup`, `/callback`, `/logout`.
 
 ## Thinker images
 
@@ -105,6 +118,7 @@ The app uses:
 - Tailwind CSS with CSS variables
 - Zod for content and progress validation
 - Zustand plus localStorage for no-auth progress persistence
+- WorkOS AuthKit for optional hosted login
 - Vitest for unit tests
 - Vercel for hosting and preview deployments
 

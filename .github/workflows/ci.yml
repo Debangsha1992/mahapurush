@@ -15,6 +15,13 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # Placeholder secrets so Next can compile AuthKit routes in CI.
+      # Real values are supplied in Vercel / local `.env.local`.
+      WORKOS_CLIENT_ID: client_ci_placeholder
+      WORKOS_API_KEY: sk_test_ci_placeholder
+      WORKOS_COOKIE_PASSWORD: ci-build-cookie-password-min-32-chars
+      NEXT_PUBLIC_WORKOS_REDIRECT_URI: http://localhost:3000/callback
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
         with:
