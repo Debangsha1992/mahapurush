@@ -7,7 +7,8 @@ function stripLegacyXp(value: unknown): unknown {
     return value;
   }
 
-  const { xp: _legacyXp, ...rest } = value as Record<string, unknown>;
+  const rest = { ...(value as Record<string, unknown>) };
+  delete rest.xp;
   return rest;
 }
 
