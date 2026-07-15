@@ -1,6 +1,5 @@
 import { describe, expect, it } from "vitest";
 import {
-  calculateLessonXp,
   completeLesson,
   createInitialProgress,
   getStreakTier,
@@ -31,7 +30,6 @@ function createTestLayer(): Parameters<typeof completeLesson>[2] {
       responsePrompt: "Respond",
     },
     rewards: {
-      xp: 20,
       badge: "questioner",
       skills: [{ id: "questioning", points: 2 }],
     },
@@ -39,16 +37,6 @@ function createTestLayer(): Parameters<typeof completeLesson>[2] {
 }
 
 describe("gamification engine", () => {
-  it("calculates lesson xp with reflection and tension bonuses", () => {
-    expect(
-      calculateLessonXp({
-        baseXp: 20,
-        reflectionSubmitted: true,
-        thoughtTensionSubmitted: true,
-      }),
-    ).toBe(35);
-  });
-
   it("updates streak on consecutive days", () => {
     const next = updateStreak(
       { current: 2, longest: 2, lastActiveDate: "2026-05-31" },
@@ -140,7 +128,7 @@ describe("gamification engine", () => {
 
     expect(once.completedLessons).toEqual(["socrates-01"]);
     expect(twice.completedLessons).toEqual(["socrates-01"]);
-    expect(twice.xp).toBe(once.xp);
+    expect(twice.badges).toEqual(once.badges);
   });
 
   it("awards a badge for two completed lessons in one app session", () => {
@@ -205,6 +193,7 @@ describe("gamification engine", () => {
     const legacyProgress = {
       ...createInitialProgress(),
       version: 1,
+      xp: 120,
       streak: { current: 5, longest: 5, lastActiveDate: "2026-06-05" },
       completedLessons: ["socrates-01"],
     } as Record<string, unknown>;
@@ -217,6 +206,19 @@ describe("gamification engine", () => {
     expect(migrated.completedLessons).toEqual(["socrates-01"]);
     expect(migrated.dailyActivity.lastOpenedDate).toBe("2026-06-05");
     expect(migrated.badges).toContain("streak-5");
+    expect(migrated).not.toHaveProperty("xp");
+  });
+
+  it("strips legacy xp when migrating current progress", () => {
+    const withXp = {
+      ...createInitialProgress(),
+      xp: 85,
+    } as Record<string, unknown>;
+
+    const migrated = migrateProgress(withXp);
+
+    expect(migrated.version).toBe(2);
+    expect(migrated).not.toHaveProperty("xp");
   });
 
   it("unlocks the next lesson after completion", () => {

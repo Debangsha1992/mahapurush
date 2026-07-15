@@ -380,13 +380,7 @@ function renderStep(
               Current streak: {state.currentStreak} day
               {state.currentStreak === 1 ? "" : "s"}
             </p>
-            <div className="grid gap-3 sm:grid-cols-3">
-              <div className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
-                <p className={`text-sm ${mutedText}`}>XP</p>
-                <p className="text-3xl font-extrabold text-[var(--color-accent)]">
-                  +{layer.rewards.xp + 15}
-                </p>
-              </div>
+            <div className="grid gap-3 sm:grid-cols-2">
               {layer.rewards.badge && (
                 <div className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
                   <p className={`text-sm ${mutedText}`}>Badge</p>

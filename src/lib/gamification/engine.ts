@@ -18,7 +18,6 @@ export function createInitialProgress(): Progress {
     version: 2,
     onboardingComplete: false,
     selectedPathId: null,
-    xp: 0,
     streak: {
       current: 0,
       longest: 0,
@@ -49,21 +48,6 @@ function uniqueAppend(values: string[], value: string): string[] {
     return values;
   }
   return [...values, value];
-}
-
-export function calculateLessonXp(input: {
-  baseXp: number;
-  reflectionSubmitted: boolean;
-  thoughtTensionSubmitted: boolean;
-}): number {
-  let xp = input.baseXp;
-  if (input.reflectionSubmitted) {
-    xp += 10;
-  }
-  if (input.thoughtTensionSubmitted) {
-    xp += 5;
-  }
-  return xp;
 }
 
 export function updateSkillLevels(
@@ -283,12 +267,6 @@ export function completeLesson(
     return progress;
   }
 
-  const xpGain = calculateLessonXp({
-    baseXp: layer.rewards.xp,
-    reflectionSubmitted: true,
-    thoughtTensionSubmitted: true,
-  });
-
   const activeProgress = recordSessionLessonCompletion(
     progress,
     lessonId,
@@ -299,7 +277,6 @@ export function completeLesson(
 
   const nextProgress: Progress = {
     ...activeProgress,
-    xp: progress.xp + xpGain,
     completedLessons: [...activeProgress.completedLessons, lessonId],
     skillLevels: updateSkillLevels(activeProgress.skillLevels, layer.rewards.skills),
     badges: [...activeProgress.badges],

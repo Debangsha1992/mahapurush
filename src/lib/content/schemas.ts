@@ -94,7 +94,8 @@ export const lessonLayerSchema = z.object({
     responsePrompt: z.string().min(1),
   }),
   rewards: z.object({
-    xp: z.number().int().nonnegative(),
+    // Legacy content field; ignored by the streak-first reward system.
+    xp: z.number().int().nonnegative().optional(),
     badge: badgeSchema.optional(),
     skills: z
       .array(
@@ -240,7 +241,8 @@ export const weeklyChallengeSchema = z.object({
   title: z.string().min(1),
   prompt: z.string().min(1),
   instructions: z.string().min(1),
-  xp: z.number().int().positive(),
+  // Legacy content field; ignored by the streak-first reward system.
+  xp: z.number().int().positive().optional(),
   badge: badgeSchema.optional(),
 });
 
@@ -263,7 +265,6 @@ const streakSchema = z.object({
 const progressBaseSchema = z.object({
   onboardingComplete: z.boolean(),
   selectedPathId: z.string().nullable(),
-  xp: z.number().int().nonnegative(),
   streak: streakSchema,
   completedLessons: z.array(z.string()),
   lessonSteps: z.record(z.string(), z.number().int().nonnegative()),

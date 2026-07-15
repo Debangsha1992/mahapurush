@@ -33,16 +33,10 @@ export default function YouPage() {
       <EditorialPageHero
         eyebrow="You"
         title="Your Progress"
-        description="XP, streaks, badges, and thinking skills saved on this device."
+        description="Streaks, badges, and thinking skills saved on this device."
       />
 
-      <div className="grid gap-4 sm:grid-cols-3">
-        <EditorialCard>
-          <p className={editorialEyebrow}>XP</p>
-          <p className="mt-3 text-5xl font-extrabold leading-none text-[var(--color-accent)]">
-            {progress.xp}
-          </p>
-        </EditorialCard>
+      <div className="grid gap-4 sm:grid-cols-2">
         <EditorialCard>
           <p className={editorialEyebrow}>Current Streak</p>
           <div className="mt-3">

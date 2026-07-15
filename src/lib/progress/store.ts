@@ -156,7 +156,6 @@ export const useProgressStore = create<ProgressState>()(
                 ...state.progress.completedWeeklyChallenges,
                 challengeId,
               ],
-              xp: state.progress.xp + 25,
             },
           };
         }),

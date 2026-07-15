@@ -2,8 +2,18 @@ import type { Progress } from "@/lib/content/schemas";
 import { progressSchema, progressV1Schema } from "@/lib/content/schemas";
 import { checkEarnedBadges, createInitialProgress } from "@/lib/gamification/engine";
 
+function stripLegacyXp(value: unknown): unknown {
+  if (!value || typeof value !== "object") {
+    return value;
+  }
+
+  const { xp: _legacyXp, ...rest } = value as Record<string, unknown>;
+  return rest;
+}
+
 export function migrateProgress(value: unknown): Progress {
-  const current = progressSchema.safeParse(value);
+  const withoutXp = stripLegacyXp(value);
+  const current = progressSchema.safeParse(withoutXp);
   if (current.success) {
     const progress = current.data;
     return {
@@ -12,7 +22,7 @@ export function migrateProgress(value: unknown): Progress {
     };
   }
 
-  const legacy = progressV1Schema.safeParse(value);
+  const legacy = progressV1Schema.safeParse(withoutXp);
   if (legacy.success) {
     const initial = createInitialProgress();
     const legacyProgress = legacy.data;
