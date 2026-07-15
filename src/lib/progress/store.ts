@@ -2,38 +2,65 @@
 
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
+import type { BadgeId } from "@/lib/constants/badges";
 import type { JournalEntry, Progress } from "@/lib/content/schemas";
-import { progressSchema } from "@/lib/content/schemas";
 import {
   completeLesson,
   createInitialProgress,
-  getTodayDateString,
+  getLocalDateString,
+  recordDailyOpen as recordDailyOpenProgress,
 } from "@/lib/gamification/engine";
+import { migrateProgress } from "@/lib/progress/migrate";
 
 const STORAGE_KEY = "mindspark_progress_v1";
+const SESSION_ID_KEY = "mindspark_session_id_v1";
+const SESSION_STARTED_AT_KEY = "mindspark_session_started_at_v1";
 
 interface ProgressState {
   progress: Progress;
   hydrated: boolean;
   setHydrated: (hydrated: boolean) => void;
   completeOnboarding: (pathId: string) => void;
+  recordDailyOpen: () => BadgeId[];
   saveLessonStep: (lessonId: string, stepIndex: number) => void;
   addJournalEntry: (entry: JournalEntry) => void;
   finishLesson: (
     lessonId: string,
     layer: Parameters<typeof completeLesson>[2],
-  ) => void;
+  ) => BadgeId[];
   saveQuote: (quoteId: string) => void;
   completeWeeklyChallenge: (challengeId: string) => void;
   resetProgress: () => void;
 }
 
-function parseProgress(value: unknown): Progress {
-  const parsed = progressSchema.safeParse(value);
-  if (parsed.success) {
-    return parsed.data;
+function createSessionId(): string {
+  if (typeof crypto !== "undefined" && "randomUUID" in crypto) {
+    return crypto.randomUUID();
   }
-  return createInitialProgress();
+  return `session-${Date.now()}-${Math.random().toString(36).slice(2)}`;
+}
+
+function getSessionInfo(): { id: string | null; startedAt: string | null } {
+  if (typeof window === "undefined") {
+    return { id: null, startedAt: null };
+  }
+
+  let id = window.sessionStorage.getItem(SESSION_ID_KEY);
+  let startedAt = window.sessionStorage.getItem(SESSION_STARTED_AT_KEY);
+
+  if (!id || !startedAt) {
+    id = createSessionId();
+    startedAt = new Date().toISOString();
+    window.sessionStorage.setItem(SESSION_ID_KEY, id);
+    window.sessionStorage.setItem(SESSION_STARTED_AT_KEY, startedAt);
+  }
+
+  return { id, startedAt };
+}
+
+function getNewBadgeIds(before: Progress, after: Progress): BadgeId[] {
+  const beforeBadges = new Set(before.badges);
+  return after.badges.filter((badge) => !beforeBadges.has(badge));
 }
 
 export const useProgressStore = create<ProgressState>()(
@@ -50,6 +77,24 @@ export const useProgressStore = create<ProgressState>()(
             selectedPathId: pathId,
           },
         })),
+      recordDailyOpen: () => {
+        let earnedBadges: BadgeId[] = [];
+        const activityDate = getLocalDateString();
+        const session = getSessionInfo();
+
+        set((state) => {
+          const nextProgress = recordDailyOpenProgress(
+            state.progress,
+            activityDate,
+            session.id,
+            session.startedAt,
+          );
+          earnedBadges = getNewBadgeIds(state.progress, nextProgress);
+          return { progress: nextProgress };
+        });
+
+        return earnedBadges;
+      },
       saveLessonStep: (lessonId, stepIndex) =>
         set((state) => ({
           progress: {
@@ -67,15 +112,26 @@ export const useProgressStore = create<ProgressState>()(
             journalEntries: [entry, ...state.progress.journalEntries],
           },
         })),
-      finishLesson: (lessonId, layer) =>
-        set((state) => ({
-          progress: completeLesson(
+      finishLesson: (lessonId, layer) => {
+        let earnedBadges: BadgeId[] = [];
+        const activityDate = getLocalDateString();
+        const session = getSessionInfo();
+
+        set((state) => {
+          const nextProgress = completeLesson(
             state.progress,
             lessonId,
             layer,
-            getTodayDateString(),
-          ),
-        })),
+            activityDate,
+            session.id,
+            session.startedAt,
+          );
+          earnedBadges = getNewBadgeIds(state.progress, nextProgress);
+          return { progress: nextProgress };
+        });
+
+        return earnedBadges;
+      },
       saveQuote: (quoteId) =>
         set((state) => {
           if (state.progress.savedQuotes.includes(quoteId)) {
@@ -100,7 +156,6 @@ export const useProgressStore = create<ProgressState>()(
                 ...state.progress.completedWeeklyChallenges,
                 challengeId,
               ],
-              xp: state.progress.xp + 25,
             },
           };
         }),
@@ -116,7 +171,7 @@ export const useProgressStore = create<ProgressState>()(
         return {
           ...currentState,
           ...persisted,
-          progress: parseProgress(persisted?.progress),
+          progress: migrateProgress(persisted?.progress),
         };
       },
     },

@@ -1,4 +1,13 @@
 import type { BadgeId } from "@/lib/constants/badges";
+import {
+  DAILY_DOUBLE_LESSON_STREAK_BADGE,
+  DAILY_DOUBLE_LESSON_STREAK_DAYS,
+  FLAME_COLORS,
+  FLAME_COLOR_STEP_DAYS,
+  STARTER_FLAME,
+  STREAK_TIERS,
+  TWO_LESSON_SESSION_BADGE,
+} from "@/lib/constants/rewards";
 import type { SkillId } from "@/lib/constants/skills";
 import { SKILLS } from "@/lib/constants/skills";
 import type { LessonLayer, Progress } from "@/lib/content/schemas";
@@ -9,10 +18,9 @@ export function createInitialProgress(): Progress {
   ) as Record<SkillId, number>;
 
   return {
-    version: 1,
+    version: 2,
     onboardingComplete: false,
     selectedPathId: null,
-    xp: 0,
     streak: {
       current: 0,
       longest: 0,
@@ -22,25 +30,27 @@ export function createInitialProgress(): Progress {
     lessonSteps: {},
     skillLevels,
     badges: [],
+    dailyActivity: {
+      lastOpenedDate: null,
+      openedDates: [],
+      lessonCompletionsByDate: {},
+    },
+    session: {
+      currentSessionId: null,
+      startedAt: null,
+      completedLessonIds: [],
+    },
     journalEntries: [],
     savedQuotes: [],
     completedWeeklyChallenges: [],
   };
 }
 
-export function calculateLessonXp(input: {
-  baseXp: number;
-  reflectionSubmitted: boolean;
-  thoughtTensionSubmitted: boolean;
-}): number {
-  let xp = input.baseXp;
-  if (input.reflectionSubmitted) {
-    xp += 10;
+function uniqueAppend(values: string[], value: string): string[] {
+  if (values.includes(value)) {
+    return values;
   }
-  if (input.thoughtTensionSubmitted) {
-    xp += 5;
-  }
-  return xp;
+  return [...values, value];
 }
 
 export function updateSkillLevels(
@@ -85,6 +95,90 @@ export function updateStreak(
   };
 }
 
+function shiftDateString(dateString: string, dayOffset: number): string {
+  const date = new Date(`${dateString}T00:00:00.000Z`);
+  date.setUTCDate(date.getUTCDate() + dayOffset);
+  return date.toISOString().slice(0, 10);
+}
+
+export function getStreakTier(streakCount: number) {
+  let reachedTier: (typeof STREAK_TIERS)[number] | null = null;
+
+  for (const tier of STREAK_TIERS) {
+    if (streakCount >= tier.days) {
+      reachedTier = tier;
+    }
+  }
+
+  return reachedTier;
+}
+
+export function getNextStreakTier(streakCount: number) {
+  return STREAK_TIERS.find((tier) => streakCount < tier.days) ?? null;
+}
+
+export function getFlameStyle(streakCount: number) {
+  if (streakCount <= 0) {
+    return {
+      ...STARTER_FLAME,
+      milestoneDays: 0,
+      active: false,
+    };
+  }
+
+  if (streakCount < FLAME_COLOR_STEP_DAYS) {
+    return {
+      ...STARTER_FLAME,
+      milestoneDays: 0,
+      active: true,
+    };
+  }
+
+  const milestoneDays =
+    Math.floor(streakCount / FLAME_COLOR_STEP_DAYS) * FLAME_COLOR_STEP_DAYS;
+  const colorIndex =
+    Math.floor(streakCount / FLAME_COLOR_STEP_DAYS) - 1;
+  const palette = FLAME_COLORS[colorIndex % FLAME_COLORS.length];
+
+  return {
+    ...palette,
+    milestoneDays,
+    active: true,
+  };
+}
+
+export function getNextFlameMilestone(streakCount: number) {
+  if (streakCount < FLAME_COLOR_STEP_DAYS) {
+    return FLAME_COLOR_STEP_DAYS;
+  }
+
+  return (
+    Math.floor(streakCount / FLAME_COLOR_STEP_DAYS) * FLAME_COLOR_STEP_DAYS +
+    FLAME_COLOR_STEP_DAYS
+  );
+}
+
+export function getCurrentStreakDates(streak: Progress["streak"]): string[] {
+  if (!streak.lastActiveDate || streak.current === 0) {
+    return [];
+  }
+
+  return Array.from({ length: streak.current }, (_, index) =>
+    shiftDateString(streak.lastActiveDate!, index - streak.current + 1),
+  );
+}
+
+export function hasDailyDoubleLessonStreak(progress: Progress): boolean {
+  if (progress.streak.current < DAILY_DOUBLE_LESSON_STREAK_DAYS) {
+    return false;
+  }
+
+  return getCurrentStreakDates(progress.streak).every(
+    (date) =>
+      (progress.dailyActivity.lessonCompletionsByDate[date]?.length ?? 0) >= 2,
+  );
+}
+
 export function checkEarnedBadges(progress: Progress): BadgeId[] {
   const earned = new Set(progress.badges);
 
@@ -110,7 +204,99 @@ export function checkEarnedBadges(progress: Progress): BadgeId[] {
     earned.add("courage-builder");
   }
 
+  for (const tier of STREAK_TIERS) {
+    if (progress.streak.current >= tier.days) {
+      earned.add(tier.badgeId);
+    }
+  }
+
+  if (progress.session.completedLessonIds.length >= 2) {
+    earned.add(TWO_LESSON_SESSION_BADGE);
+  }
+
+  if (hasDailyDoubleLessonStreak(progress)) {
+    earned.add(DAILY_DOUBLE_LESSON_STREAK_BADGE);
+  }
+
   return [...earned];
+}
+
+export function recordDailyOpen(
+  progress: Progress,
+  activityDate: string,
+  sessionId: string | null = progress.session.currentSessionId,
+  sessionStartedAt: string | null = progress.session.startedAt,
+): Progress {
+  const openedDates = uniqueAppend(
+    progress.dailyActivity.openedDates,
+    activityDate,
+  );
+  const openedToday = progress.dailyActivity.lastOpenedDate === activityDate;
+  const session =
+    sessionId && progress.session.currentSessionId !== sessionId
+      ? {
+          currentSessionId: sessionId,
+          startedAt: sessionStartedAt,
+          completedLessonIds: [],
+        }
+      : progress.session;
+
+  const nextProgress: Progress = {
+    ...progress,
+    streak: openedToday ? progress.streak : updateStreak(progress.streak, activityDate),
+    dailyActivity: {
+      ...progress.dailyActivity,
+      lastOpenedDate: activityDate,
+      openedDates,
+    },
+    session,
+  };
+
+  return {
+    ...nextProgress,
+    badges: checkEarnedBadges(nextProgress),
+  };
+}
+
+export function recordSessionLessonCompletion(
+  progress: Progress,
+  lessonId: string,
+  activityDate: string,
+  sessionId: string | null = progress.session.currentSessionId,
+  sessionStartedAt: string | null = progress.session.startedAt,
+): Progress {
+  const activeProgress = recordDailyOpen(
+    progress,
+    activityDate,
+    sessionId,
+    sessionStartedAt,
+  );
+  const lessonsForDate =
+    activeProgress.dailyActivity.lessonCompletionsByDate[activityDate] ?? [];
+  const completedLessonIds = uniqueAppend(
+    activeProgress.session.completedLessonIds,
+    lessonId,
+  );
+
+  const nextProgress: Progress = {
+    ...activeProgress,
+    dailyActivity: {
+      ...activeProgress.dailyActivity,
+      lessonCompletionsByDate: {
+        ...activeProgress.dailyActivity.lessonCompletionsByDate,
+        [activityDate]: uniqueAppend(lessonsForDate, lessonId),
+      },
+    },
+    session: {
+      ...activeProgress.session,
+      completedLessonIds,
+    },
+  };
+
+  return {
+    ...nextProgress,
+    badges: checkEarnedBadges(nextProgress),
+  };
 }
 
 export function completeLesson(
@@ -118,24 +304,26 @@ export function completeLesson(
   lessonId: string,
   layer: LessonLayer,
   activityDate: string,
+  sessionId?: string | null,
+  sessionStartedAt?: string | null,
 ): Progress {
   if (progress.completedLessons.includes(lessonId)) {
     return progress;
   }
 
-  const xpGain = calculateLessonXp({
-    baseXp: layer.rewards.xp,
-    reflectionSubmitted: true,
-    thoughtTensionSubmitted: true,
-  });
+  const activeProgress = recordSessionLessonCompletion(
+    progress,
+    lessonId,
+    activityDate,
+    sessionId,
+    sessionStartedAt,
+  );
 
   const nextProgress: Progress = {
-    ...progress,
-    xp: progress.xp + xpGain,
-    completedLessons: [...progress.completedLessons, lessonId],
-    skillLevels: updateSkillLevels(progress.skillLevels, layer.rewards.skills),
-    streak: updateStreak(progress.streak, activityDate),
-    badges: [...progress.badges],
+    ...activeProgress,
+    completedLessons: [...activeProgress.completedLessons, lessonId],
+    skillLevels: updateSkillLevels(activeProgress.skillLevels, layer.rewards.skills),
+    badges: [...activeProgress.badges],
   };
 
   if (layer.rewards.badge && !nextProgress.badges.includes(layer.rewards.badge)) {
@@ -170,7 +358,14 @@ export function getPathProgress(
 }
 
 export function getTodayDateString(date = new Date()): string {
-  return date.toISOString().slice(0, 10);
+  return getLocalDateString(date);
+}
+
+export function getLocalDateString(date = new Date()): string {
+  const year = date.getFullYear();
+  const month = `${date.getMonth() + 1}`.padStart(2, "0");
+  const day = `${date.getDate()}`.padStart(2, "0");
+  return `${year}-${month}-${day}`;
 }
 
 export function isLessonUnlocked(

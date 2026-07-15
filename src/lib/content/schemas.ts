@@ -94,7 +94,8 @@ export const lessonLayerSchema = z.object({
     responsePrompt: z.string().min(1),
   }),
   rewards: z.object({
-    xp: z.number().int().nonnegative(),
+    // Legacy content field; ignored by the streak-first reward system.
+    xp: z.number().int().nonnegative().optional(),
     badge: badgeSchema.optional(),
     skills: z
       .array(
@@ -240,7 +241,8 @@ export const weeklyChallengeSchema = z.object({
   title: z.string().min(1),
   prompt: z.string().min(1),
   instructions: z.string().min(1),
-  xp: z.number().int().positive(),
+  // Legacy content field; ignored by the streak-first reward system.
+  xp: z.number().int().positive().optional(),
   badge: badgeSchema.optional(),
 });
 
@@ -254,16 +256,16 @@ export const journalEntrySchema = z.object({
   skillIds: z.array(skillSchema),
 });
 
-export const progressSchema = z.object({
-  version: z.literal(1),
+const streakSchema = z.object({
+  current: z.number().int().nonnegative(),
+  longest: z.number().int().nonnegative(),
+  lastActiveDate: z.string().nullable(),
+});
+
+const progressBaseSchema = z.object({
   onboardingComplete: z.boolean(),
   selectedPathId: z.string().nullable(),
-  xp: z.number().int().nonnegative(),
-  streak: z.object({
-    current: z.number().int().nonnegative(),
-    longest: z.number().int().nonnegative(),
-    lastActiveDate: z.string().nullable(),
-  }),
+  streak: streakSchema,
   completedLessons: z.array(z.string()),
   lessonSteps: z.record(z.string(), z.number().int().nonnegative()),
   skillLevels: z.record(skillSchema, z.number().int().nonnegative()),
@@ -271,6 +273,24 @@ export const progressSchema = z.object({
   journalEntries: z.array(journalEntrySchema),
   savedQuotes: z.array(z.string()),
   completedWeeklyChallenges: z.array(z.string()),
+});
+
+export const progressV1Schema = progressBaseSchema.extend({
+  version: z.literal(1),
+});
+
+export const progressSchema = progressBaseSchema.extend({
+  version: z.literal(2),
+  dailyActivity: z.object({
+    lastOpenedDate: z.string().nullable(),
+    openedDates: z.array(z.string()),
+    lessonCompletionsByDate: z.record(z.string(), z.array(z.string())),
+  }),
+  session: z.object({
+    currentSessionId: z.string().nullable(),
+    startedAt: z.string().nullable(),
+    completedLessonIds: z.array(z.string()),
+  }),
 });
 
 export type LifeStoryPage = z.infer<typeof lifeStoryPageSchema>;
@@ -321,6 +341,7 @@ export type DailySpark = z.infer<typeof dailySparkSchema>;
 export type QuoteCard = z.infer<typeof quoteCardSchema>;
 export type WeeklyChallenge = z.infer<typeof weeklyChallengeSchema>;
 export type JournalEntry = z.infer<typeof journalEntrySchema>;
+export type ProgressV1 = z.infer<typeof progressV1Schema>;
 export type Progress = z.infer<typeof progressSchema>;
 
 export type LessonStepId =

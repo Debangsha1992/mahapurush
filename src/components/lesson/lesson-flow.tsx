@@ -20,6 +20,10 @@ import {
   LifeStoryBody,
   LifeStoryResources,
 } from "@/components/thinkers/life-story-body";
+import type { BadgeId } from "@/lib/constants/badges";
+import { BADGE_LABELS } from "@/lib/constants/badges";
+import { BadgeIcon } from "@/components/progress/badge-icon";
+import { StreakFlame } from "@/components/progress/streak-flame";
 import { RotatingThinkerImage } from "@/components/ui/rotating-thinker-image";
 import { useProgressStore } from "@/lib/progress/store";
 
@@ -49,6 +53,7 @@ export function LessonFlow({
   const addJournalEntry = useProgressStore((state) => state.addJournalEntry);
   const finishLesson = useProgressStore((state) => state.finishLesson);
   const lessonSteps = useProgressStore((state) => state.progress.lessonSteps);
+  const currentStreak = useProgressStore((state) => state.progress.streak.current);
 
   const initialStep = lessonSteps[lesson.id] ?? 0;
   const [stepIndex, setStepIndex] = useState(initialStep);
@@ -56,6 +61,7 @@ export function LessonFlow({
   const [reflection, setReflection] = useState("");
   const [tensionResponse, setTensionResponse] = useState("");
   const [completed, setCompleted] = useState(false);
+  const [earnedBadges, setEarnedBadges] = useState<BadgeId[]>([]);
   const flowRef = useRef<HTMLDivElement>(null);
 
   const currentStep = LESSON_STEPS[stepIndex] ?? "reward";
@@ -113,7 +119,7 @@ export function LessonFlow({
         response: tensionResponse.trim(),
         skillIds: layer.rewards.skills.map((skill) => skill.id),
       });
-      finishLesson(lesson.id, layer);
+      setEarnedBadges(finishLesson(lesson.id, layer));
       setCompleted(true);
       goToStep(LESSON_STEPS.length - 1);
       return;
@@ -184,6 +190,8 @@ export function LessonFlow({
           tensionResponse,
           setTensionResponse,
           completed,
+          earnedBadges,
+          currentStreak,
           thinkerName,
         })}
       </EditorialCard>
@@ -221,6 +229,8 @@ function renderStep(
     tensionResponse: string;
     setTensionResponse: (value: string) => void;
     completed: boolean;
+    earnedBadges: BadgeId[];
+    currentStreak: number;
     thinkerName: string;
   },
 ) {
@@ -368,19 +378,19 @@ function renderStep(
             <p className={`text-lg ${mutedText}`}>
               You practiced thinking with {state.thinkerName}.
             </p>
-            <div className="grid gap-3 sm:grid-cols-3">
-              <div className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
-                <p className={`text-sm ${mutedText}`}>XP</p>
-                <p className="text-3xl font-extrabold text-[var(--color-accent)]">
-                  +{layer.rewards.xp + 15}
-                </p>
-              </div>
+            <div className="pt-1">
+              <StreakFlame streak={state.currentStreak} size="sm" />
+            </div>
+            <div className="grid gap-3 sm:grid-cols-2">
               {layer.rewards.badge && (
-                <div className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
-                  <p className={`text-sm ${mutedText}`}>Badge</p>
-                  <p className="text-lg font-semibold capitalize">
-                    {layer.rewards.badge.replace(/-/g, " ")}
-                  </p>
+                <div className="flex items-center gap-3 rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
+                  <BadgeIcon badge={layer.rewards.badge} size="sm" />
+                  <div>
+                    <p className={`text-sm ${mutedText}`}>Badge</p>
+                    <p className="text-lg font-semibold capitalize">
+                      {BADGE_LABELS[layer.rewards.badge]}
+                    </p>
+                  </div>
                 </div>
               )}
               <div className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
@@ -390,6 +400,22 @@ function renderStep(
                 </p>
               </div>
             </div>
+            {state.earnedBadges.length > 0 && (
+              <div className="rounded-[1rem] border border-[var(--color-accent)] bg-yellow-400/10 p-4">
+                <p className={`text-sm ${mutedText}`}>New badge</p>
+                <div className="mt-3 flex flex-wrap gap-3">
+                  {state.earnedBadges.map((badge) => (
+                    <span
+                      key={badge}
+                      className="inline-flex items-center gap-2 rounded-full bg-[var(--color-accent)] px-3 py-1 text-xs font-semibold uppercase tracking-[0.14em] text-[#101014]"
+                    >
+                      <BadgeIcon badge={badge} size="sm" className="border-none bg-transparent shadow-none" />
+                      {BADGE_LABELS[badge]}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
         </div>
       );

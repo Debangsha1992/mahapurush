@@ -8,8 +8,16 @@ import {
   editorialEyebrow,
   mutedText,
 } from "@/components/ui/editorial";
-import { BADGE_LABELS } from "@/lib/constants/badges";
+import { StreakFlame } from "@/components/progress/streak-flame";
+import { BadgeIcon } from "@/components/progress/badge-icon";
+import { BADGE_DESCRIPTIONS, BADGE_LABELS } from "@/lib/constants/badges";
 import { SKILL_LABELS } from "@/lib/constants/skills";
+import {
+  getFlameStyle,
+  getNextFlameMilestone,
+  getNextStreakTier,
+  getStreakTier,
+} from "@/lib/gamification/engine";
 import { useProgressStore } from "@/lib/progress/store";
 
 export default function YouPage() {
@@ -20,27 +28,45 @@ export default function YouPage() {
     return <p className="text-[var(--color-muted)]">Loading your progress...</p>;
   }
 
+  const streakTier = getStreakTier(progress.streak.current);
+  const nextStreakTier = getNextStreakTier(progress.streak.current);
+  const flame = getFlameStyle(progress.streak.current);
+  const nextFlameMilestone = getNextFlameMilestone(progress.streak.current);
+  const daysUntilNextTier = nextStreakTier
+    ? Math.max(nextStreakTier.days - progress.streak.current, 0)
+    : 0;
+  const daysUntilNextFlameColor = Math.max(
+    nextFlameMilestone - progress.streak.current,
+    0,
+  );
+
   return (
     <div className="space-y-6">
       <EditorialPageHero
         eyebrow="You"
         title="Your Progress"
-        description="XP, streaks, badges, and thinking skills saved on this device."
+        description="Streaks, badges, and thinking skills saved on this device."
       />
 
-      <div className="grid gap-4 sm:grid-cols-3">
-        <EditorialCard>
-          <p className={editorialEyebrow}>XP</p>
-          <p className="mt-3 text-5xl font-extrabold leading-none text-[var(--color-accent)]">
-            {progress.xp}
-          </p>
-        </EditorialCard>
+      <div className="grid gap-4 sm:grid-cols-2">
         <EditorialCard>
           <p className={editorialEyebrow}>Current Streak</p>
-          <p className="mt-3 text-5xl font-extrabold leading-none text-[var(--color-accent)]">
-            {progress.streak.current}
+          <div className="mt-3">
+            <StreakFlame streak={progress.streak.current} size="lg" />
+          </div>
+          <p className={`mt-3 text-sm ${mutedText}`}>
+            Longest streak: {progress.streak.longest} day
+            {progress.streak.longest === 1 ? "" : "s"}
           </p>
-          <p className={`mt-2 text-sm ${mutedText}`}>days</p>
+          <p className={`mt-1 text-sm ${mutedText}`}>
+            {progress.streak.current >= 10
+              ? `${flame.name} flame at day ${flame.milestoneDays}. Next color in ${daysUntilNextFlameColor} day${daysUntilNextFlameColor === 1 ? "" : "s"}.`
+              : streakTier
+                ? `${streakTier.name} unlocked.`
+                : nextStreakTier
+                  ? `${daysUntilNextTier} more day${daysUntilNextTier === 1 ? "" : "s"} to unlock ${nextStreakTier.name}.`
+                  : `Keep opening daily. Flame color changes every 10 days.`}
+          </p>
         </EditorialCard>
         <EditorialCard>
           <p className={editorialEyebrow}>Lessons Completed</p>
@@ -72,11 +98,20 @@ export default function YouPage() {
             Complete lessons to earn your first badge.
           </p>
         ) : (
-          <div className="mt-4 flex flex-wrap gap-2">
+          <div className="mt-4 grid gap-3 sm:grid-cols-2">
             {progress.badges.map((badge) => (
-              <EditorialPill key={badge} active>
-                {BADGE_LABELS[badge]}
-              </EditorialPill>
+              <div
+                key={badge}
+                className="flex gap-3 rounded-[1rem] border border-white/10 bg-white/[0.04] p-4"
+              >
+                <BadgeIcon badge={badge} size="md" />
+                <div className="min-w-0">
+                  <EditorialPill active>{BADGE_LABELS[badge]}</EditorialPill>
+                  <p className={`mt-3 text-sm leading-6 ${mutedText}`}>
+                    {BADGE_DESCRIPTIONS[badge]}
+                  </p>
+                </div>
+              </div>
             ))}
           </div>
         )}
