@@ -9,9 +9,15 @@ import {
   mutedText,
 } from "@/components/ui/editorial";
 import { StreakFlame } from "@/components/progress/streak-flame";
+import { BadgeIcon } from "@/components/progress/badge-icon";
 import { BADGE_DESCRIPTIONS, BADGE_LABELS } from "@/lib/constants/badges";
 import { SKILL_LABELS } from "@/lib/constants/skills";
-import { getNextStreakTier, getStreakTier } from "@/lib/gamification/engine";
+import {
+  getFlameStyle,
+  getNextFlameMilestone,
+  getNextStreakTier,
+  getStreakTier,
+} from "@/lib/gamification/engine";
 import { useProgressStore } from "@/lib/progress/store";
 
 export default function YouPage() {
@@ -24,9 +30,15 @@ export default function YouPage() {
 
   const streakTier = getStreakTier(progress.streak.current);
   const nextStreakTier = getNextStreakTier(progress.streak.current);
+  const flame = getFlameStyle(progress.streak.current);
+  const nextFlameMilestone = getNextFlameMilestone(progress.streak.current);
   const daysUntilNextTier = nextStreakTier
     ? Math.max(nextStreakTier.days - progress.streak.current, 0)
     : 0;
+  const daysUntilNextFlameColor = Math.max(
+    nextFlameMilestone - progress.streak.current,
+    0,
+  );
 
   return (
     <div className="space-y-6">
@@ -47,11 +59,13 @@ export default function YouPage() {
             {progress.streak.longest === 1 ? "" : "s"}
           </p>
           <p className={`mt-1 text-sm ${mutedText}`}>
-            {streakTier
-              ? `${streakTier.name} unlocked.`
-              : nextStreakTier
-                ? `${daysUntilNextTier} more day${daysUntilNextTier === 1 ? "" : "s"} to unlock ${nextStreakTier.name}.`
-                : "Every daily open keeps the flame alive."}
+            {progress.streak.current >= 10
+              ? `${flame.name} flame at day ${flame.milestoneDays}. Next color in ${daysUntilNextFlameColor} day${daysUntilNextFlameColor === 1 ? "" : "s"}.`
+              : streakTier
+                ? `${streakTier.name} unlocked.`
+                : nextStreakTier
+                  ? `${daysUntilNextTier} more day${daysUntilNextTier === 1 ? "" : "s"} to unlock ${nextStreakTier.name}.`
+                  : `Keep opening daily. Flame color changes every 10 days.`}
           </p>
         </EditorialCard>
         <EditorialCard>
@@ -88,12 +102,15 @@ export default function YouPage() {
             {progress.badges.map((badge) => (
               <div
                 key={badge}
-                className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4"
+                className="flex gap-3 rounded-[1rem] border border-white/10 bg-white/[0.04] p-4"
               >
-                <EditorialPill active>{BADGE_LABELS[badge]}</EditorialPill>
-                <p className={`mt-3 text-sm leading-6 ${mutedText}`}>
-                  {BADGE_DESCRIPTIONS[badge]}
-                </p>
+                <BadgeIcon badge={badge} size="md" />
+                <div className="min-w-0">
+                  <EditorialPill active>{BADGE_LABELS[badge]}</EditorialPill>
+                  <p className={`mt-3 text-sm leading-6 ${mutedText}`}>
+                    {BADGE_DESCRIPTIONS[badge]}
+                  </p>
+                </div>
               </div>
             ))}
           </div>

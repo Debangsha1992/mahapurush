@@ -54,6 +54,29 @@ a {
   }
 }
 
+@keyframes flame-flicker {
+  0%,
+  100% {
+    opacity: 1;
+    transform: scaleY(1) translateY(0);
+  }
+
+  35% {
+    opacity: 0.92;
+    transform: scaleY(1.04) translateY(-1px);
+  }
+
+  70% {
+    opacity: 0.96;
+    transform: scaleY(0.97) translateY(0.5px);
+  }
+}
+
+.animate-flame-flicker {
+  animation: flame-flicker 1.1s ease-in-out infinite;
+  transform-origin: center bottom;
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;

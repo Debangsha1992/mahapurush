@@ -22,6 +22,8 @@ import {
 } from "@/components/thinkers/life-story-body";
 import type { BadgeId } from "@/lib/constants/badges";
 import { BADGE_LABELS } from "@/lib/constants/badges";
+import { BadgeIcon } from "@/components/progress/badge-icon";
+import { StreakFlame } from "@/components/progress/streak-flame";
 import { RotatingThinkerImage } from "@/components/ui/rotating-thinker-image";
 import { useProgressStore } from "@/lib/progress/store";
 
@@ -376,17 +378,19 @@ function renderStep(
             <p className={`text-lg ${mutedText}`}>
               You practiced thinking with {state.thinkerName}.
             </p>
-            <p className={`text-sm ${mutedText}`}>
-              Current streak: {state.currentStreak} day
-              {state.currentStreak === 1 ? "" : "s"}
-            </p>
+            <div className="pt-1">
+              <StreakFlame streak={state.currentStreak} size="sm" />
+            </div>
             <div className="grid gap-3 sm:grid-cols-2">
               {layer.rewards.badge && (
-                <div className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
-                  <p className={`text-sm ${mutedText}`}>Badge</p>
-                  <p className="text-lg font-semibold capitalize">
-                    {layer.rewards.badge.replace(/-/g, " ")}
-                  </p>
+                <div className="flex items-center gap-3 rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
+                  <BadgeIcon badge={layer.rewards.badge} size="sm" />
+                  <div>
+                    <p className={`text-sm ${mutedText}`}>Badge</p>
+                    <p className="text-lg font-semibold capitalize">
+                      {BADGE_LABELS[layer.rewards.badge]}
+                    </p>
+                  </div>
                 </div>
               )}
               <div className="rounded-[1rem] border border-white/10 bg-white/[0.04] p-4">
@@ -399,12 +403,13 @@ function renderStep(
             {state.earnedBadges.length > 0 && (
               <div className="rounded-[1rem] border border-[var(--color-accent)] bg-yellow-400/10 p-4">
                 <p className={`text-sm ${mutedText}`}>New badge</p>
-                <div className="mt-2 flex flex-wrap gap-2">
+                <div className="mt-3 flex flex-wrap gap-3">
                   {state.earnedBadges.map((badge) => (
                     <span
                       key={badge}
-                      className="rounded-full bg-[var(--color-accent)] px-3 py-1 text-xs font-semibold uppercase tracking-[0.14em] text-[#101014]"
+                      className="inline-flex items-center gap-2 rounded-full bg-[var(--color-accent)] px-3 py-1 text-xs font-semibold uppercase tracking-[0.14em] text-[#101014]"
                     >
+                      <BadgeIcon badge={badge} size="sm" className="border-none bg-transparent shadow-none" />
                       {BADGE_LABELS[badge]}
                     </span>
                   ))}

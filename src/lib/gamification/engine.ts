@@ -2,6 +2,9 @@ import type { BadgeId } from "@/lib/constants/badges";
 import {
   DAILY_DOUBLE_LESSON_STREAK_BADGE,
   DAILY_DOUBLE_LESSON_STREAK_DAYS,
+  FLAME_COLORS,
+  FLAME_COLOR_STEP_DAYS,
+  STARTER_FLAME,
   STREAK_TIERS,
   TWO_LESSON_SESSION_BADGE,
 } from "@/lib/constants/rewards";
@@ -112,6 +115,47 @@ export function getStreakTier(streakCount: number) {
 
 export function getNextStreakTier(streakCount: number) {
   return STREAK_TIERS.find((tier) => streakCount < tier.days) ?? null;
+}
+
+export function getFlameStyle(streakCount: number) {
+  if (streakCount <= 0) {
+    return {
+      ...STARTER_FLAME,
+      milestoneDays: 0,
+      active: false,
+    };
+  }
+
+  if (streakCount < FLAME_COLOR_STEP_DAYS) {
+    return {
+      ...STARTER_FLAME,
+      milestoneDays: 0,
+      active: true,
+    };
+  }
+
+  const milestoneDays =
+    Math.floor(streakCount / FLAME_COLOR_STEP_DAYS) * FLAME_COLOR_STEP_DAYS;
+  const colorIndex =
+    Math.floor(streakCount / FLAME_COLOR_STEP_DAYS) - 1;
+  const palette = FLAME_COLORS[colorIndex % FLAME_COLORS.length];
+
+  return {
+    ...palette,
+    milestoneDays,
+    active: true,
+  };
+}
+
+export function getNextFlameMilestone(streakCount: number) {
+  if (streakCount < FLAME_COLOR_STEP_DAYS) {
+    return FLAME_COLOR_STEP_DAYS;
+  }
+
+  return (
+    Math.floor(streakCount / FLAME_COLOR_STEP_DAYS) * FLAME_COLOR_STEP_DAYS +
+    FLAME_COLOR_STEP_DAYS
+  );
 }
 
 export function getCurrentStreakDates(streak: Progress["streak"]): string[] {

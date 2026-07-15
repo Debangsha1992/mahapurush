@@ -1,5 +1,78 @@
 import type { BadgeId } from "@/lib/constants/badges";
 
+export const FLAME_COLOR_STEP_DAYS = 10;
+
+/** Visual flame colors that advance every 10 streak days. */
+export const FLAME_COLORS = [
+  {
+    name: "Ember",
+    color: "#f97316",
+    secondary: "#fb923c",
+    glow: "rgba(249, 115, 22, 0.5)",
+  },
+  {
+    name: "Amber",
+    color: "#f59e0b",
+    secondary: "#fbbf24",
+    glow: "rgba(245, 158, 11, 0.5)",
+  },
+  {
+    name: "Gold",
+    color: "#eab308",
+    secondary: "#facc15",
+    glow: "rgba(234, 179, 8, 0.48)",
+  },
+  {
+    name: "Crimson",
+    color: "#ef4444",
+    secondary: "#f87171",
+    glow: "rgba(239, 68, 68, 0.48)",
+  },
+  {
+    name: "Azure",
+    color: "#38bdf8",
+    secondary: "#7dd3fc",
+    glow: "rgba(56, 189, 248, 0.5)",
+  },
+  {
+    name: "Indigo",
+    color: "#818cf8",
+    secondary: "#a5b4fc",
+    glow: "rgba(129, 140, 248, 0.48)",
+  },
+  {
+    name: "Violet",
+    color: "#a78bfa",
+    secondary: "#c4b5fd",
+    glow: "rgba(167, 139, 250, 0.48)",
+  },
+  {
+    name: "Fuchsia",
+    color: "#e879f9",
+    secondary: "#f0abfc",
+    glow: "rgba(232, 121, 249, 0.45)",
+  },
+  {
+    name: "Rose",
+    color: "#fb7185",
+    secondary: "#fda4af",
+    glow: "rgba(251, 113, 133, 0.48)",
+  },
+  {
+    name: "Verdant",
+    color: "#34d399",
+    secondary: "#6ee7b7",
+    glow: "rgba(52, 211, 153, 0.45)",
+  },
+] as const;
+
+export const STARTER_FLAME = {
+  name: "Spark",
+  color: "#c4a484",
+  secondary: "#d6b896",
+  glow: "rgba(196, 164, 132, 0.28)",
+} as const;
+
 export const STREAK_TIERS = [
   {
     days: 5,
@@ -7,7 +80,6 @@ export const STREAK_TIERS = [
     name: "Ember Flame",
     color: "#f97316",
     glow: "rgba(249, 115, 22, 0.45)",
-    filter: "none",
   },
   {
     days: 50,
@@ -15,7 +87,6 @@ export const STREAK_TIERS = [
     name: "Blue Flame",
     color: "#38bdf8",
     glow: "rgba(56, 189, 248, 0.45)",
-    filter: "hue-rotate(175deg) saturate(1.45)",
   },
   {
     days: 100,
@@ -23,7 +94,6 @@ export const STREAK_TIERS = [
     name: "Violet Flame",
     color: "#a78bfa",
     glow: "rgba(167, 139, 250, 0.45)",
-    filter: "hue-rotate(245deg) saturate(1.35)",
   },
   {
     days: 200,
@@ -31,7 +101,6 @@ export const STREAK_TIERS = [
     name: "Verdant Flame",
     color: "#4ade80",
     glow: "rgba(74, 222, 128, 0.4)",
-    filter: "hue-rotate(95deg) saturate(1.45)",
   },
   {
     days: 500,
@@ -39,7 +108,6 @@ export const STREAK_TIERS = [
     name: "Rose Flame",
     color: "#fb7185",
     glow: "rgba(251, 113, 133, 0.42)",
-    filter: "hue-rotate(315deg) saturate(1.4)",
   },
   {
     days: 1000,
@@ -47,7 +115,6 @@ export const STREAK_TIERS = [
     name: "Aurora Flame",
     color: "#fef3c7",
     glow: "rgba(254, 243, 199, 0.5)",
-    filter: "brightness(1.2) saturate(0.85)",
   },
 ] as const satisfies readonly {
   days: number;
@@ -55,7 +122,6 @@ export const STREAK_TIERS = [
   name: string;
   color: string;
   glow: string;
-  filter: string;
 }[];
 
 export const TWO_LESSON_SESSION_BADGE = "two-lesson-session" satisfies BadgeId;

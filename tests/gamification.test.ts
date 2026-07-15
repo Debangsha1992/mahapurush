@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import {
   completeLesson,
   createInitialProgress,
+  getFlameStyle,
   getStreakTier,
   isLessonUnlocked,
   recordDailyOpen,
@@ -117,6 +118,19 @@ describe("gamification engine", () => {
     expect(getStreakTier(200)?.days).toBe(200);
     expect(getStreakTier(500)?.days).toBe(500);
     expect(getStreakTier(1000)?.days).toBe(1000);
+  });
+
+  it("changes flame color every ten streak days", () => {
+    expect(getFlameStyle(0).name).toBe("Spark");
+    expect(getFlameStyle(9).name).toBe("Spark");
+    expect(getFlameStyle(10).name).toBe("Ember");
+    expect(getFlameStyle(10).milestoneDays).toBe(10);
+    expect(getFlameStyle(19).name).toBe("Ember");
+    expect(getFlameStyle(20).name).toBe("Amber");
+    expect(getFlameStyle(20).milestoneDays).toBe(20);
+    expect(getFlameStyle(30).name).toBe("Gold");
+    expect(getFlameStyle(50).name).toBe("Azure");
+    expect(getFlameStyle(10).color).not.toBe(getFlameStyle(20).color);
   });
 
   it("completes a lesson once", () => {
