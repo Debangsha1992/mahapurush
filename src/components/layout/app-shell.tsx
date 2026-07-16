@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import type { ReactNode } from "react";
+import { AuthNav } from "@/components/auth/auth-nav";
 import { cn } from "@/lib/utils";
 
 const navItems = [
@@ -34,7 +35,13 @@ export function AppShell({ children }: { children: ReactNode }) {
         isHome ? "max-w-none px-0 pt-0" : "max-w-5xl px-4 pt-6 sm:px-6",
       )}
     >
-      {!isHome && (
+      {isHome ? (
+        <div className="pointer-events-none fixed right-4 top-4 z-50 sm:right-6 sm:top-6">
+          <div className="pointer-events-auto">
+            <AuthNav />
+          </div>
+        </div>
+      ) : (
         <header className="mb-8 flex items-center justify-between gap-4">
           <div className="flex items-center gap-3">
             <Link
@@ -58,6 +65,7 @@ export function AppShell({ children }: { children: ReactNode }) {
               </p>
             </div>
           </div>
+          <AuthNav />
         </header>
       )}
       <main className="flex-1">{children}</main>
